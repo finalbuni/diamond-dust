@@ -1963,9 +1963,24 @@ a:hover {
     .mobile-menu-handle,
     .chapter-drawer-handle {
         display: block;
-        width: 38px;
+        width: 100%;
+        height: 28px;
+        margin: 0 auto 2px;
+        position: relative;
+        border-radius: 0;
+        background: transparent;
+        cursor: grab;
+    }
+
+    .mobile-menu-handle::after,
+    .chapter-drawer-handle::after {
+        content: "";
+        position: absolute;
+        top: 8px;
+        left: 50%;
+        width: 42px;
         height: 4px;
-        margin: 1px auto 5px;
+        transform: translateX(-50%);
         border-radius: 999px;
         background: var(--border-strong);
     }
@@ -2064,6 +2079,19 @@ a:hover {
     .chapter-search.is-open {
         pointer-events: auto;
         transform: translateY(0);
+    }
+
+    .chapter-search::before {
+        content: "";
+        position: absolute;
+        top: 9px;
+        left: 50%;
+        width: 42px;
+        height: 4px;
+        transform: translateX(-50%);
+        border-radius: 999px;
+        background: var(--border-strong);
+        pointer-events: none;
     }
 
     .chapter-search-backdrop {
@@ -2178,10 +2206,27 @@ a:hover {
         transform: translateY(0);
     }
 
-    .reader-sheet-handle {
-        display: block;
-        margin-bottom: 16px;
-    }
+.reader-sheet-handle {
+    display: block;
+    width: 100%;
+    height: 28px;
+    margin-bottom: 4px;
+    position: relative;
+    background: transparent;
+    cursor: grab;
+}
+
+.reader-sheet-handle::after {
+    content: "";
+    position: absolute;
+    top: 8px;
+    left: 50%;
+    width: 42px;
+    height: 4px;
+    transform: translateX(-50%);
+    border-radius: 999px;
+    background: var(--border-strong);
+}
 
     .reader-sheet-backdrop {
         display: block;
@@ -2863,9 +2908,9 @@ a:hover {
         padding: 9px 16px max(14px, env(safe-area-inset-bottom));
     }
 
-    .reader-sheet-handle {
-        margin-bottom: 8px;
-    }
+.reader-sheet-handle {
+    margin-bottom: 4px;
+}
 
     .reader-sheet-header {
         margin-bottom: 12px;
@@ -3132,7 +3177,8 @@ a:hover {
     }
 
     .simple-mobile-menu {
-        display: block;
+        display: grid;
+        gap: 8px;
     }
 
     .reviews-stack {

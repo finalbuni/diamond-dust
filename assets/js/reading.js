@@ -50,7 +50,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         themeToggles.forEach((toggle) => {
             const icon = toggle.querySelector(".theme-toggle-icon");
-            if (icon) icon.textContent = theme === "dark" ? "☀" : "☾";
+            if (icon) icon.textContent = theme === "dark" ? "☼" : "☾";
             toggle.setAttribute(
                 "aria-label",
                 theme === "dark" ? "Switch to light mode" : "Switch to dark mode"
@@ -506,29 +506,45 @@ document.addEventListener("DOMContentLoaded", () => {
     ====================================================== */
 
     function enableDragToDismiss(sheet, closeFn) {
-        const handle = sheet?.querySelector("[data-sheet-drag-handle]");
-        if (!sheet || !handle) return;
+        if (!sheet) return;
+
+        const handle = sheet.querySelector("[data-sheet-drag-handle]");
+        const interactiveSelector = "button, a, input, textarea, select, label";
 
         let startY = 0;
         let currentY = 0;
         let dragging = false;
+        let pointerId = null;
 
         const resetInlineMotion = () => {
             sheet.style.removeProperty("transition");
             sheet.style.removeProperty("transform");
         };
 
-        handle.addEventListener("pointerdown", (event) => {
+        sheet.addEventListener("pointerdown", (event) => {
             if (!mobileQuery.matches || !sheet.classList.contains("is-open")) return;
+            if (event.target.closest(interactiveSelector)) return;
+
+            const sheetRect = sheet.getBoundingClientRect();
+            const startedOnHandle = Boolean(
+                handle && (event.target === handle || handle.contains(event.target))
+            );
+            const startedInTopZone = event.clientY <= sheetRect.top + 44;
+
+            if (!startedOnHandle && !startedInTopZone) return;
+
             dragging = true;
+            pointerId = event.pointerId;
             startY = event.clientY;
             currentY = startY;
-            handle.setPointerCapture?.(event.pointerId);
+
+            sheet.setPointerCapture?.(pointerId);
             sheet.style.transition = "none";
         });
 
-        handle.addEventListener("pointermove", (event) => {
-            if (!dragging) return;
+        sheet.addEventListener("pointermove", (event) => {
+            if (!dragging || event.pointerId !== pointerId) return;
+
             currentY = event.clientY;
             const distance = Math.max(0, currentY - startY);
             sheet.style.transform = `translateY(${distance}px)`;
@@ -536,9 +552,11 @@ document.addEventListener("DOMContentLoaded", () => {
         });
 
         const finishDrag = (event) => {
-            if (!dragging) return;
+            if (!dragging || event.pointerId !== pointerId) return;
+
             dragging = false;
-            handle.releasePointerCapture?.(event.pointerId);
+            sheet.releasePointerCapture?.(pointerId);
+            pointerId = null;
 
             const distance = Math.max(0, currentY - startY);
             const shouldClose = distance > 72;
@@ -556,13 +574,14 @@ document.addEventListener("DOMContentLoaded", () => {
             }
         };
 
-        handle.addEventListener("pointerup", finishDrag);
-        handle.addEventListener("pointercancel", finishDrag);
+        sheet.addEventListener("pointerup", finishDrag);
+        sheet.addEventListener("pointercancel", finishDrag);
     }
 
     enableDragToDismiss(mobileMenu, closeMobileMenu);
     enableDragToDismiss(chapterDrawer, closeDrawer);
     enableDragToDismiss(readerSheet, closeReaderSheet);
+    enableDragToDismiss(searchSheet, closeSearch);
 
     /* ======================================================
        Reading progress + saved position
