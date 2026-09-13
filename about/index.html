@@ -1,0 +1,60 @@
+---
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#f7f8f8">
+    <title>About — Diamond Dust</title>
+    {% include google-analytics.html %}
+    {% include theme-init.html %}
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,500;0,8..60,600;1,8..60,400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body data-page-type="about">
+    <header class="site-header">
+        <div class="container header-inner">
+            <a href="{{ '/' | relative_url }}" class="site-logo">Diamond Dust</a>
+            <nav class="site-nav" aria-label="Main navigation">
+                <a href="{{ '/' | relative_url }}">Home</a>
+                <a href="{{ '/#chapters' | relative_url }}">Chapters</a>
+                <button class="site-nav-icon theme-toggle" type="button" aria-label="Switch appearance"><span class="theme-toggle-icon" aria-hidden="true">☾</span></button>
+            </nav>
+            <div class="nonchapter-mobile-actions">
+                <button class="site-nav-icon theme-toggle" type="button" aria-label="Switch appearance"><span class="theme-toggle-icon" aria-hidden="true">☾</span></button>
+                <button class="mobile-reader-menu-trigger nonchapter-menu-trigger" type="button" aria-controls="mobile-reader-menu" aria-expanded="false" aria-label="Open site menu"><span aria-hidden="true">☰</span></button>
+            </div>
+        </div>
+    </header>
+
+    <main class="simple-page-main about-page-main">
+        <div class="container about-page-stack">
+            <div class="about-letter">
+                <header class="simple-page-header about-page-header">
+                    <h1>Hello you ♡</h1>
+                </header>
+                <div class="simple-page-content about-page-content">
+                    <p>I’m Demi~</p>
+                    <p><em>Diamond Dust</em> is the first English edition I’ve worked on. I started it because I loved the story and I couldn’t find a decent translation out there. After paying for chapters with a bunch of translation mistakes, I said <em>fuck it</em> and created my own version for myself. Then I realized I could share it with my fellow fujoshis who were running into the same problem. So I started putting together an English version I actually wanted to read, and this project was born.</p>
+                    <p>Seeing you share the link, leave kind messages, and enjoy the story still gets me every single time. :')</p>
+                    <p>If you’ve enjoyed your time here, leave me a note below! Your thoughts, feelings, favorite lines, anything at all. No pressure and no format. I read every single one.</p>
+                    <p>If you’d like to help other readers find this English edition, you can also <a href="https://www.novelupdates.com/series/diamond-dust/">leave a review on NovelUpdates</a>. And if you loved <em>Diamond Dust</em>, please consider <a href="https://ridibooks.com/books/297025313?_rdt_sid=author&_rdt_idx=3">supporting the original novel on Ridibooks</a>. ♡</p>
+                    <p>Thank you for being here. ♡</p>
+                    <p>— honeebuni</p>
+                </div>
+            </div>
+
+            <div class="reviews-padlet about-padlet">
+                <iframe src="https://padlet.com/embed/56qx565b9lvq17qg" title="Letters to honeebuni" frameborder="0" allow="camera; microphone; geolocation; display-capture; clipboard-write"></iframe>
+            </div>
+        </div>
+    </main>
+
+    {% include site-footer.html %}
+    {% include simple-mobile-menu.html %}
+    <script src="{{ '/assets/js/reading.js' | relative_url }}"></script>
+</body>
+</html>

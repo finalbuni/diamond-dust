@@ -101,22 +101,28 @@ document.addEventListener("DOMContentLoaded", () => {
     const lineHeightValue = document.querySelector("#reader-line-height-value");
     const resetReader = document.querySelector("[data-reader-reset]");
 
+    const fontSizeOptions = [16, 18, 20, 22, 24, 26, 30, 34];
+
     const readerDefaults = {
         font: "source",
         size: 20,
-        lineHeight: 2.0
+        lineHeight: 1.6
     };
+
+    const nearestFontSize = (value) => fontSizeOptions.reduce((closest, option) =>
+        Math.abs(option - value) < Math.abs(closest - value) ? option : closest
+    );
 
     function getReaderPrefs() {
         const stored = safeParse(localStorage.getItem("diamond-dust-reader-settings"));
 
         return {
             font: stored?.font || readerDefaults.font,
-            size: clamp(Number(stored?.size) || readerDefaults.size, 17, 25),
+            size: nearestFontSize(Number(stored?.size) || readerDefaults.size),
             lineHeight: clamp(
                 Number(stored?.lineHeight) || readerDefaults.lineHeight,
-                1.6,
-                2.2
+                1.4,
+                1.8
             )
         };
     }
@@ -140,7 +146,11 @@ document.addEventListener("DOMContentLoaded", () => {
             );
         });
 
-        if (fontSizeInput) fontSizeInput.value = prefs.size;
+        if (fontSizeInput) {
+            const sizeIndex = Math.max(0, fontSizeOptions.indexOf(prefs.size));
+            fontSizeInput.value = sizeIndex;
+            fontSizeInput.setAttribute("aria-valuetext", `${prefs.size} pixels`);
+        }
         if (fontSizeValue) fontSizeValue.textContent = `${prefs.size}px`;
         if (lineHeightInput) lineHeightInput.value = prefs.lineHeight;
         if (lineHeightValue) {
@@ -161,7 +171,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     if (fontSizeInput) {
         fontSizeInput.addEventListener("input", () => {
-            readerPrefs.size = Number(fontSizeInput.value);
+            readerPrefs.size = fontSizeOptions[Number(fontSizeInput.value)] || readerDefaults.size;
             saveReaderPrefs(readerPrefs);
             applyReaderPrefs(readerPrefs);
         });
@@ -196,11 +206,13 @@ document.addEventListener("DOMContentLoaded", () => {
     function showMobileControls() {
         if (!isChapter || !mobileQuery.matches) return;
         body.classList.add("reader-controls-visible");
+        updateBackToTop?.();
     }
 
     function toggleMobileControls() {
         if (!isChapter || !mobileQuery.matches || body.classList.contains("is-overlay-open")) return;
         body.classList.toggle("reader-controls-visible");
+        updateBackToTop?.();
     }
 
     function openMobileMenu() {
@@ -210,6 +222,7 @@ document.addEventListener("DOMContentLoaded", () => {
         if (mobileMenuBackdrop) mobileMenuBackdrop.hidden = false;
         if (mobileMenuTrigger) mobileMenuTrigger.setAttribute("aria-expanded", "true");
         setBodyOverlayState();
+        backToTop?.classList.remove("is-visible");
     }
 
     function closeMobileMenu() {
@@ -219,6 +232,7 @@ document.addEventListener("DOMContentLoaded", () => {
         if (mobileMenuBackdrop) mobileMenuBackdrop.hidden = true;
         if (mobileMenuTrigger) mobileMenuTrigger.setAttribute("aria-expanded", "false");
         setBodyOverlayState();
+        updateBackToTop?.();
     }
 
     if (chapterArticle) {
@@ -251,6 +265,8 @@ document.addEventListener("DOMContentLoaded", () => {
         if (!chapterDrawer) return;
 
         closeMobileMenu();
+        closeReaderSheet();
+        closeSearch();
         chapterDrawer.classList.add("is-open");
         chapterDrawer.setAttribute("aria-hidden", "false");
         if (drawerBackdrop) drawerBackdrop.hidden = false;
@@ -289,6 +305,8 @@ document.addEventListener("DOMContentLoaded", () => {
         if (!readerSheet) return;
 
         closeMobileMenu();
+        closeDrawer();
+        closeSearch();
         readerSheet.classList.add("is-open");
         readerSheet.setAttribute("aria-hidden", "false");
         if (readerSheetBackdrop) readerSheetBackdrop.hidden = false;
@@ -459,8 +477,92 @@ document.addEventListener("DOMContentLoaded", () => {
             closeDrawer();
             closeReaderSheet();
             closeSearch();
+            return;
+        }
+
+        if (!isChapter || (event.key !== "ArrowLeft" && event.key !== "ArrowRight")) return;
+        if (event.metaKey || event.ctrlKey || event.altKey || event.shiftKey) return;
+        if (body.classList.contains("is-overlay-open")) return;
+
+        const target = event.target;
+        const isEditing = target instanceof HTMLElement && (
+            target.matches("input, textarea, select, button") ||
+            target.isContentEditable
+        );
+        if (isEditing) return;
+
+        const destination = event.key === "ArrowLeft"
+            ? document.querySelector(".chapter-nav-previous")
+            : document.querySelector(".chapter-nav-next");
+
+        if (destination?.href) {
+            event.preventDefault();
+            window.location.assign(destination.href);
         }
     });
+
+    /* ======================================================
+       Mobile sheet drag-to-dismiss
+    ====================================================== */
+
+    function enableDragToDismiss(sheet, closeFn) {
+        const handle = sheet?.querySelector("[data-sheet-drag-handle]");
+        if (!sheet || !handle) return;
+
+        let startY = 0;
+        let currentY = 0;
+        let dragging = false;
+
+        const resetInlineMotion = () => {
+            sheet.style.removeProperty("transition");
+            sheet.style.removeProperty("transform");
+        };
+
+        handle.addEventListener("pointerdown", (event) => {
+            if (!mobileQuery.matches || !sheet.classList.contains("is-open")) return;
+            dragging = true;
+            startY = event.clientY;
+            currentY = startY;
+            handle.setPointerCapture?.(event.pointerId);
+            sheet.style.transition = "none";
+        });
+
+        handle.addEventListener("pointermove", (event) => {
+            if (!dragging) return;
+            currentY = event.clientY;
+            const distance = Math.max(0, currentY - startY);
+            sheet.style.transform = `translateY(${distance}px)`;
+            event.preventDefault();
+        });
+
+        const finishDrag = (event) => {
+            if (!dragging) return;
+            dragging = false;
+            handle.releasePointerCapture?.(event.pointerId);
+
+            const distance = Math.max(0, currentY - startY);
+            const shouldClose = distance > 72;
+            sheet.style.transition = "transform 0.2s ease";
+
+            if (shouldClose) {
+                sheet.style.transform = "translateY(105%)";
+                window.setTimeout(() => {
+                    closeFn();
+                    resetInlineMotion();
+                }, 190);
+            } else {
+                sheet.style.transform = "translateY(0)";
+                window.setTimeout(resetInlineMotion, 200);
+            }
+        };
+
+        handle.addEventListener("pointerup", finishDrag);
+        handle.addEventListener("pointercancel", finishDrag);
+    }
+
+    enableDragToDismiss(mobileMenu, closeMobileMenu);
+    enableDragToDismiss(chapterDrawer, closeDrawer);
+    enableDragToDismiss(readerSheet, closeReaderSheet);
 
     /* ======================================================
        Reading progress + saved position
@@ -500,7 +602,13 @@ document.addEventListener("DOMContentLoaded", () => {
 
     function updateBackToTop() {
         if (!backToTop) return;
-        backToTop.classList.toggle("is-visible", window.scrollY > 650);
+
+        const mobileControlsAllowIt = !mobileQuery.matches || body.classList.contains("reader-controls-visible");
+        const shouldShow = window.scrollY > 650 &&
+            !body.classList.contains("is-overlay-open") &&
+            mobileControlsAllowIt;
+
+        backToTop.classList.toggle("is-visible", shouldShow);
     }
 
     function saveReadingState() {
@@ -544,6 +652,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
                 if (mobileQuery.matches && Math.abs(window.scrollY - lastScrollY) > 8) {
                     closeMobileControls();
+                    backToTop?.classList.remove("is-visible");
                 }
                 lastScrollY = window.scrollY;
             },
@@ -600,12 +709,14 @@ document.addEventListener("DOMContentLoaded", () => {
     const startButton = document.querySelector(".start-reading-button");
     const startLabel = document.querySelector(".start-reading-label");
     const continueDetail = document.querySelector(".continue-reading-detail");
+    const readingCtaKicker = document.querySelector("[data-reading-cta-kicker]");
     const lastReading = safeParse(localStorage.getItem("diamond-dust-last-reading"));
 
     if (pageType === "home" && startButton && lastReading?.url) {
         startButton.href = `${lastReading.url}?resume=1`;
 
         if (startLabel) startLabel.textContent = "Continue Reading";
+        if (readingCtaKicker) readingCtaKicker.textContent = "Continue where you left off";
 
         if (continueDetail) {
             const title = lastReading.title ? ` · ${lastReading.title}` : "";
@@ -615,6 +726,6 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     if (isChapter && mobileQuery.matches) {
-        closeMobileControls();
+        showMobileControls();
     }
 });

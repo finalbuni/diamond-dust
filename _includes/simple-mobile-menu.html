@@ -1,0 +1,19 @@
+<div class="mobile-menu-backdrop" data-mobile-menu-close hidden></div>
+
+<section class="mobile-reader-menu simple-mobile-menu" id="mobile-reader-menu" aria-label="Site menu" aria-hidden="true">
+    <div class="mobile-menu-handle" aria-hidden="true" data-sheet-drag-handle></div>
+
+    <a class="mobile-menu-action" href="{{ '/' | relative_url }}">
+        <span>Home</span>
+        <span class="mobile-menu-action-icon" aria-hidden="true">⌂</span>
+    </a>
+
+    {% if page.url == '/' %}
+        <a class="mobile-menu-action" href="#chapters" data-mobile-menu-close>
+    {% else %}
+        <a class="mobile-menu-action" href="{{ '/#chapters' | relative_url }}">
+    {% endif %}
+        <span>Chapters</span>
+        <span class="mobile-menu-action-icon" aria-hidden="true">☷</span>
+    </a>
+</section>

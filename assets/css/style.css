@@ -40,7 +40,7 @@
 
     /* Reader preferences */
     --reader-font-size: 20px;
-    --reader-line-height: 2;
+    --reader-line-height: 1.6;
 
     color-scheme: light;
 }
@@ -2194,5 +2194,1153 @@ a:hover {
 
     .resume-reading {
         bottom: max(16px, env(safe-area-inset-bottom));
+    }
+}
+
+/* ==================================
+   Homepage Pass 2
+================================== */
+
+.announcement-banner {
+    border-bottom: 1px solid var(--border);
+    background: var(--accent-soft);
+}
+
+.announcement-inner {
+    min-height: 46px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 18px;
+    text-align: center;
+}
+
+.announcement-inner p {
+    margin: 0;
+    color: var(--secondary-text);
+    font-size: 0.78rem;
+}
+
+.announcement-link {
+    flex: 0 0 auto;
+    color: var(--accent-strong);
+    font-size: 0.75rem;
+    font-weight: 600;
+}
+
+.novel-intro {
+    min-height: auto;
+    padding: 108px 0 104px;
+}
+
+.novel-intro .hero-content {
+    max-width: 820px;
+}
+
+.novel-intro h1 {
+    margin-bottom: 18px;
+}
+
+.novel-credit {
+    margin: 0 0 38px;
+    color: var(--secondary-text);
+    font-size: 0.86rem;
+}
+
+.novel-credit strong {
+    color: var(--text);
+    font-weight: 600;
+}
+
+.credit-divider {
+    display: inline-block;
+    margin: 0 8px;
+    color: var(--border-strong);
+}
+
+.novel-intro .synopsis {
+    max-width: 760px;
+    margin-bottom: 34px;
+    font-size: clamp(1.08rem, 1.7vw, 1.28rem);
+    line-height: 1.8;
+}
+
+.tags-block {
+    margin-bottom: 36px;
+}
+
+.tags-title {
+    margin: 0 0 10px;
+    color: var(--muted-text);
+    font-size: 0.68rem;
+    font-weight: 600;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+}
+
+.novel-intro .novel-tags {
+    margin-bottom: 0;
+}
+
+.novel-tags span {
+    border-radius: 5px;
+}
+
+.compact-heading {
+    margin-bottom: 34px;
+}
+
+.chapter-scroll-shell {
+    max-height: 650px;
+    overflow-y: auto;
+    padding: 0 30px 0 0;
+    scrollbar-width: thin;
+    scrollbar-color: var(--border-strong) transparent;
+    overscroll-behavior: contain;
+}
+
+.chapter-scroll-shell:focus-visible {
+    outline-offset: 8px;
+}
+
+.compact-directory {
+    gap: 54px;
+}
+
+.compact-directory .volume-group {
+    grid-template-columns: minmax(150px, 0.34fr) minmax(0, 1fr);
+    gap: 44px;
+}
+
+.compact-directory .volume-group-heading {
+    top: 16px;
+}
+
+.chapter-korean-list-title {
+    color: var(--muted-text);
+    font-family: var(--font-body);
+    font-size: 0.75rem;
+}
+
+.chapter-scroll-hint {
+    margin: 16px 0 0;
+    color: var(--muted-text);
+    font-size: 0.72rem;
+    text-align: right;
+}
+
+.support-footer {
+    padding: 86px 0 42px;
+}
+
+.support-footer-layout {
+    display: grid;
+    grid-template-columns: minmax(0, 1.25fr) minmax(280px, 0.75fr);
+    gap: 96px;
+    align-items: end;
+}
+
+.support-copy {
+    max-width: 650px;
+}
+
+.support-copy h2 {
+    margin-bottom: 22px;
+    font-size: clamp(2rem, 4vw, 3.1rem);
+}
+
+.support-copy > p:not(.section-label) {
+    max-width: 600px;
+    margin-bottom: 28px;
+    color: var(--secondary-text);
+    font-family: var(--font-heading);
+    font-size: 1.08rem;
+    line-height: 1.75;
+}
+
+.coffee-button[aria-disabled="true"] {
+    cursor: default;
+}
+
+.footer-contact p {
+    color: var(--secondary-text);
+    font-size: 0.82rem;
+    line-height: 1.75;
+}
+
+.footer-contact a {
+    font-weight: 500;
+}
+
+.footer-meta {
+    margin: 24px 0 0 !important;
+    color: var(--muted-text) !important;
+    font-size: 0.72rem !important;
+}
+
+@media (max-width: 760px) {
+    .announcement-inner {
+        padding: 10px 0;
+        align-items: center;
+        justify-content: space-between;
+        text-align: left;
+    }
+
+    .announcement-inner p {
+        font-size: 0.7rem;
+        line-height: 1.45;
+    }
+
+    .novel-intro {
+        padding: 82px 0 76px;
+    }
+
+    .novel-credit {
+        max-width: 320px;
+        margin-bottom: 30px;
+        line-height: 1.7;
+    }
+
+    .credit-divider {
+        margin: 0 5px;
+    }
+
+    .novel-intro .synopsis {
+        font-size: 1.04rem;
+        line-height: 1.75;
+    }
+
+    .chapter-scroll-shell {
+        max-height: 560px;
+        padding-right: 12px;
+    }
+
+    .compact-directory .volume-group {
+        display: block;
+    }
+
+    .compact-directory .volume-group-heading {
+        position: static;
+    }
+
+    .chapter-scroll-hint {
+        text-align: left;
+    }
+
+    .support-footer {
+        padding: 70px 0 34px;
+    }
+
+    .support-footer-layout {
+        display: block;
+    }
+
+    .footer-contact {
+        margin-top: 58px;
+        padding-top: 28px;
+        border-top: 1px solid var(--border);
+    }
+}
+
+@media (max-width: 520px) {
+    .announcement-inner {
+        gap: 10px;
+    }
+
+    .announcement-link span {
+        display: none;
+    }
+
+    .novel-intro h1 {
+        font-size: clamp(3.15rem, 16vw, 4.7rem);
+    }
+
+    .novel-credit {
+        font-size: 0.8rem;
+    }
+
+    .novel-tags {
+        gap: 7px;
+    }
+
+    .novel-tags span {
+        padding: 7px 9px;
+        font-size: 0.7rem;
+    }
+}
+
+/* ==================================
+   Feedback Pass — Sep 11, 2026
+   Desktop drawers, mobile mini-nav, homepage refinements
+================================== */
+
+/* Shared navigation: make Reading Settings a clear text action. */
+.reader-settings-nav-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 7px;
+}
+
+.reader-settings-nav-button .reader-settings-nav-icon {
+    margin: 0;
+    color: currentColor;
+    font-size: 1.08rem;
+    line-height: 1;
+}
+
+.reader-settings-nav-button > span:last-child {
+    margin: 0;
+    color: currentColor;
+    font-size: inherit;
+}
+
+/* Slightly softer button corners without turning them into pills. */
+.button {
+    border-radius: 5px;
+}
+
+/* Reset is intentionally easier to notice/tap. */
+.reader-reset {
+    font-size: 0.84rem;
+}
+
+/* Desktop: Contents and Reading Settings use the same right-side drawer model. */
+@media (min-width: 761px) {
+    .chapter-drawer,
+    .reader-sheet {
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: auto;
+        width: min(430px, 92vw);
+        height: 100vh;
+        max-height: none;
+        padding: 28px;
+        border: 0;
+        border-left: 1px solid var(--border);
+        border-radius: 0;
+        background: var(--surface);
+        box-shadow: -20px 0 60px rgba(15, 25, 31, 0.16);
+        backdrop-filter: none;
+        -webkit-backdrop-filter: none;
+        opacity: 1;
+        visibility: visible;
+        pointer-events: none;
+        transform: translateX(102%);
+        transform-origin: center right;
+        transition: transform 0.26s ease;
+    }
+
+    .chapter-drawer {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .reader-sheet {
+        overflow-y: auto;
+    }
+
+    .chapter-drawer.is-open,
+    .reader-sheet.is-open {
+        pointer-events: auto;
+        transform: translateX(0);
+    }
+
+    .drawer-backdrop,
+    .reader-sheet-backdrop {
+        background: rgba(10, 15, 18, 0.12);
+    }
+}
+
+/* Homepage credit hierarchy. */
+.novel-credit {
+    display: grid;
+    gap: 4px;
+}
+
+.novel-credit p {
+    margin: 0;
+}
+
+.novel-author-credit {
+    color: var(--secondary-text);
+    font-size: 1.28rem;
+    line-height: 1.45;
+}
+
+.novel-edition-credit {
+    color: var(--muted-text);
+    font-size: 0.82rem;
+    line-height: 1.5;
+}
+
+.novel-author-credit strong,
+.novel-edition-credit strong {
+    color: var(--text);
+    font-weight: 600;
+}
+
+/* Figma reference suggested a quieter synopsis; keep the established reading face. */
+.novel-intro .synopsis {
+    font-family: var(--font-heading);
+    font-size: 1rem;
+    line-height: 1.8;
+}
+
+/* Separate fixed book information from the reader-specific action. */
+.reading-cta-separator {
+    width: min(760px, 100%);
+    margin: 4px 0 28px;
+    border-top: 1px solid var(--border);
+}
+
+.reading-cta {
+    width: min(760px, 100%);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 28px;
+}
+
+.reading-cta-copy {
+    min-width: 0;
+    text-align: left;
+}
+
+.reading-cta-kicker {
+    margin: 0 0 4px;
+    color: var(--muted-text);
+    font-size: 0.74rem;
+    font-weight: 500;
+}
+
+.reading-cta .continue-reading-detail {
+    margin: 0;
+    color: var(--secondary-text);
+    font-family: var(--font-heading);
+    font-size: 0.98rem;
+    line-height: 1.45;
+}
+
+.reading-cta .start-reading-button {
+    flex: 0 0 auto;
+}
+
+/* Support CTA and utility/legal information are deliberately separate surfaces. */
+.support-footer {
+    padding: 0;
+    border-top: 0;
+    background: transparent;
+}
+
+.support-panel {
+    padding: 86px 0;
+    border-top: 1px solid var(--border);
+    background: var(--surface);
+}
+
+.support-panel .support-copy {
+    max-width: 650px;
+}
+
+.support-copy h2 {
+    margin: 0 0 22px;
+}
+
+.footer-utility {
+    padding: 34px 0 38px;
+    border-top: 1px solid var(--border);
+    background: var(--background);
+}
+
+.footer-utility .footer-contact {
+    max-width: 720px;
+}
+
+.footer-utility .footer-meta {
+    margin-top: 20px !important;
+}
+
+/* Drag handles should actually behave like drag handles on touch devices. */
+[data-sheet-drag-handle] {
+    touch-action: none;
+    cursor: grab;
+}
+
+[data-sheet-drag-handle]:active {
+    cursor: grabbing;
+}
+
+@media (max-width: 760px) {
+    /* Revealed reader controls now look like a compact mobile version of desktop nav. */
+    .mobile-reader-controls {
+        inset: 0 0 auto 0;
+        display: block;
+        padding-top: env(safe-area-inset-top);
+        border-bottom: 1px solid color-mix(in srgb, var(--border) 90%, transparent);
+        background: color-mix(in srgb, var(--surface) 94%, transparent);
+        box-shadow: 0 8px 24px rgba(15, 25, 31, 0.07);
+        backdrop-filter: blur(14px) saturate(120%);
+        -webkit-backdrop-filter: blur(14px) saturate(120%);
+    }
+
+    .mobile-reader-nav-inner {
+        min-height: 54px;
+        padding: 0 16px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 20px;
+        pointer-events: none;
+    }
+
+    .mobile-home-control,
+    .mobile-reader-menu-trigger {
+        position: static;
+        pointer-events: auto;
+        border: 0;
+        background: transparent;
+        box-shadow: none;
+        backdrop-filter: none;
+        -webkit-backdrop-filter: none;
+    }
+
+    .mobile-home-control {
+        padding: 8px 0;
+        border-radius: 0;
+        font-family: var(--font-heading);
+        font-size: 0.9rem;
+        font-weight: 600;
+    }
+
+    .mobile-reader-menu-trigger {
+        width: 40px;
+        height: 40px;
+        padding: 0;
+        display: grid;
+        place-items: center;
+        border-radius: 6px;
+        color: var(--text);
+        font-size: 1.08rem;
+        cursor: pointer;
+    }
+
+    .mobile-reader-menu-trigger:hover,
+    .mobile-reader-menu-trigger:focus-visible {
+        background: var(--surface-soft);
+    }
+
+    .novel-author-credit {
+        font-size: 1.08rem;
+    }
+
+    .novel-edition-credit {
+        font-size: 0.78rem;
+    }
+
+    .novel-intro .synopsis {
+        font-size: 0.98rem;
+    }
+
+    .reading-cta {
+        align-items: flex-start;
+        flex-direction: column;
+        gap: 18px;
+    }
+
+    .reading-cta .start-reading-button {
+        align-self: flex-start;
+    }
+
+    .support-panel {
+        padding: 70px 0;
+    }
+
+    .footer-utility {
+        padding: 30px 0 34px;
+    }
+
+    .footer-contact {
+        margin-top: 0;
+        padding-top: 0;
+        border-top: 0;
+    }
+}
+
+@media (max-width: 760px) {
+    /* Keep the ordinary homepage header usable on phone widths. */
+    .site-header:not(.chapter-site-header) .reader-settings-nav-button > span:last-child {
+        display: none;
+    }
+
+    .site-header:not(.chapter-site-header) .reader-settings-nav-button .reader-settings-nav-icon {
+        font-size: 1.18rem;
+    }
+}
+
+/* ==================================
+   Refinement Pass — Sep 12, 2026
+================================== */
+
+/* Metadata should read as metadata, not as clickable pills. */
+.novel-tags span {
+    padding: 2px 0;
+    border: 0;
+    border-radius: 0;
+    background: transparent;
+    color: var(--secondary-text);
+    font-weight: 500;
+}
+
+/* Compact actions: less vertical bulk while preserving comfortable horizontal space. */
+.button {
+    min-height: 0;
+    padding: 9px 16px;
+    gap: 12px;
+    border-radius: 6px;
+}
+
+/* Give the chapter directory its own clear page band. */
+.chapters-section {
+    padding-top: 72px;
+    padding-bottom: 82px;
+    border-top: 1px solid var(--border);
+    border-bottom: 1px solid var(--border);
+    background: var(--surface-soft);
+}
+
+.chapters-section .compact-heading {
+    margin-bottom: 28px;
+}
+
+.chapters-section .compact-heading h2 {
+    font-size: clamp(1.65rem, 2.8vw, 2.25rem);
+}
+
+.chapter-scroll-shell {
+    overscroll-behavior-y: auto;
+}
+
+.compact-directory {
+    gap: 38px;
+}
+
+.compact-directory .volume-group {
+    display: block;
+}
+
+.compact-directory .volume-group-heading {
+    position: static;
+    margin-bottom: 10px;
+}
+
+.compact-directory .volume-title {
+    margin: 0;
+    font-size: 0.9rem;
+    line-height: 1.35;
+    font-weight: 600;
+    letter-spacing: 0.01em;
+}
+
+.volume-count,
+.chapter-scroll-hint {
+    display: none;
+}
+
+/* Reader settings are chapter-only; homepage keeps a simple appearance toggle. */
+.site-header:not(.chapter-site-header) .theme-toggle {
+    width: 36px;
+    height: 36px;
+    display: inline-grid;
+    place-items: center;
+    border-radius: 6px;
+}
+
+/* Tighter settings sheet, especially on phones, so prose stays visible. */
+@media (max-width: 760px) {
+    .reader-sheet {
+        max-height: 62vh;
+        padding: 9px 16px max(14px, env(safe-area-inset-bottom));
+    }
+
+    .reader-sheet-handle {
+        margin-bottom: 8px;
+    }
+
+    .reader-sheet-header {
+        margin-bottom: 12px;
+    }
+
+    .reader-sheet-header h2 {
+        font-size: 1.15rem;
+    }
+
+    .reader-setting-group {
+        margin-top: 14px;
+    }
+
+    .reader-reset {
+        margin-top: 12px;
+        padding-top: 6px;
+        font-size: 0.84rem;
+    }
+
+    /* Mobile progress is intentionally removed; saved-position logic remains. */
+    .reading-progress {
+        display: none;
+    }
+
+    .chapters-section {
+        padding-top: 56px;
+        padding-bottom: 62px;
+    }
+}
+
+/* Phones and portrait tablets get a centered, stacked personal reading CTA. */
+@media (max-width: 760px), (orientation: portrait) and (max-width: 1024px) {
+    .reading-cta {
+        align-items: center;
+        text-align: center;
+    }
+
+    .reading-cta-copy {
+        width: 100%;
+        text-align: center;
+    }
+
+    .reading-cta .start-reading-button {
+        align-self: center;
+    }
+}
+
+/* ==================================
+   Simple content pages
+================================== */
+.simple-page-main {
+    padding: 78px 0 96px;
+}
+
+.simple-page-header {
+    max-width: 720px;
+    margin-bottom: 46px;
+}
+
+.simple-page-header h1 {
+    margin: 0 0 12px;
+    font-size: clamp(2.6rem, 6vw, 4.8rem);
+}
+
+.simple-page-content {
+    max-width: 760px;
+    color: var(--secondary-text);
+    font-family: var(--font-heading);
+    font-size: 1.02rem;
+    line-height: 1.8;
+}
+
+.simple-page-content p + p {
+    margin-top: 1.25em;
+}
+
+.simple-page-content strong {
+    color: var(--text);
+}
+
+.simple-page-actions {
+    margin-top: 30px;
+}
+
+.reviews-layout {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) minmax(320px, 0.9fr);
+    gap: 64px;
+    align-items: start;
+}
+
+.padlet-placeholder {
+    min-height: 420px;
+    padding: 30px;
+    display: grid;
+    place-items: center;
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    background: var(--surface);
+    color: var(--muted-text);
+    text-align: center;
+}
+
+@media (max-width: 820px) {
+    .simple-page-main {
+        padding: 58px 0 76px;
+    }
+
+    .reviews-layout {
+        grid-template-columns: 1fr;
+        gap: 42px;
+    }
+}
+
+
+/* ==================================
+   Sept 12 Notes — navigation + Reader Notes polish
+================================== */
+
+/* Keep the homepage's utility/footer copy aligned to the same content rail as the page. */
+.footer-utility .footer-contact {
+    max-width: none;
+}
+
+/* Reader Notes: text / Padlet use a 40 / 60 desktop split. */
+.reviews-layout {
+    grid-template-columns: minmax(0, 2fr) minmax(0, 3fr);
+    gap: 56px;
+}
+
+.reviews-padlet {
+    width: 100%;
+    overflow: hidden;
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    background: var(--surface);
+}
+
+.reviews-padlet iframe {
+    display: block;
+    width: 100%;
+    height: 620px;
+    border: 0;
+}
+
+@media (max-width: 820px) {
+    .reviews-layout {
+        grid-template-columns: 1fr;
+        gap: 42px;
+    }
+
+    .reviews-padlet iframe {
+        height: 520px;
+    }
+}
+
+@media (max-width: 760px) {
+    /* The mobile menu contains links as well as buttons; make both visually identical. */
+    .mobile-menu-action {
+        text-decoration: none;
+    }
+
+    /* Mobile gets the same back-to-top affordance as desktop. JS hides it while scrolling/menus are active. */
+    .scroll-top-button {
+        display: grid;
+        right: 16px;
+        bottom: max(18px, env(safe-area-inset-bottom));
+        width: 44px;
+        height: 44px;
+        place-items: center;
+        opacity: 0;
+        visibility: hidden;
+        pointer-events: none;
+        transform: translateY(8px);
+        transition: opacity 0.18s ease, visibility 0.18s ease, transform 0.18s ease;
+    }
+
+    .scroll-top-button.is-visible {
+        opacity: 1;
+        visibility: visible;
+        pointer-events: auto;
+        transform: translateY(0);
+    }
+
+    .is-overlay-open .scroll-top-button,
+    .is-mobile-scrolling .scroll-top-button {
+        opacity: 0;
+        visibility: hidden;
+        pointer-events: none;
+        transform: translateY(8px);
+    }
+}
+
+
+/* ==================================
+   Sept 12 follow-up — page navigation, Padlet priority, footer consistency
+================================== */
+
+/* Reader messages: let the Padlet lead, then give the note full breathing room underneath. */
+.reviews-stack {
+    display: grid;
+    gap: 58px;
+}
+
+.reviews-copy-block {
+    width: min(760px, 100%);
+}
+
+.reviews-copy-block .simple-page-header {
+    margin-bottom: 28px;
+}
+
+.reviews-page-main .reviews-padlet iframe {
+    height: 640px;
+}
+
+/* Desktop non-chapter pages use normal nav; compact mobile actions appear only on phones. */
+.nonchapter-mobile-actions {
+    display: none;
+}
+
+@media (max-width: 760px) {
+    .site-header:not(.chapter-site-header) .site-nav {
+        display: none;
+    }
+
+    .site-header:not(.chapter-site-header) .header-inner {
+        min-height: 58px;
+    }
+
+    .site-header:not(.chapter-site-header) .site-logo {
+        font-size: 1.12rem;
+    }
+
+    .nonchapter-mobile-actions {
+        display: flex;
+        align-items: center;
+        gap: 4px;
+    }
+
+    .nonchapter-mobile-actions .site-nav-icon,
+    .nonchapter-mobile-actions .mobile-reader-menu-trigger {
+        position: static;
+        width: 40px;
+        height: 40px;
+        display: grid;
+        place-items: center;
+        padding: 0;
+        border: 0;
+        border-radius: 6px;
+        background: transparent;
+        color: var(--text);
+        box-shadow: none;
+        backdrop-filter: none;
+        -webkit-backdrop-filter: none;
+        pointer-events: auto;
+    }
+
+    .nonchapter-mobile-actions .site-nav-icon:hover,
+    .nonchapter-mobile-actions .site-nav-icon:focus-visible,
+    .nonchapter-mobile-actions .mobile-reader-menu-trigger:hover,
+    .nonchapter-mobile-actions .mobile-reader-menu-trigger:focus-visible {
+        background: var(--surface-soft);
+    }
+
+    .simple-mobile-menu {
+        display: block;
+    }
+
+    .reviews-stack {
+        gap: 40px;
+    }
+
+    .reviews-page-main .reviews-padlet iframe {
+        height: 540px;
+    }
+}
+
+/* Mobile back-to-top follows the same reveal state as the reader navigation. */
+@media (max-width: 760px) {
+    .is-mobile-scrolling .scroll-top-button {
+        opacity: inherit;
+        visibility: inherit;
+        pointer-events: inherit;
+        transform: inherit;
+    }
+
+    .chapter-body:not(.reader-controls-visible) .scroll-top-button {
+        opacity: 0;
+        visibility: hidden;
+        pointer-events: none;
+        transform: translateY(8px);
+    }
+}
+\n\n/* ==================================\n   Sept 12 footer narrative + chapter-end rhythm\n================================== */\n\n.footer-conversation {\n    display: grid;\n    gap: 16px;\n}\n\n.footer-conversation p {\n    margin: 0;\n}\n\n.footer-conversation a {\n    color: var(--accent);\n    text-decoration: none;\n    text-underline-offset: 0.18em;\n}\n\n.footer-conversation a:hover {\n    color: var(--accent-hover);\n    text-decoration: underline;\n}\n\n/* The chapter navigation already has its own top breathing room.\n   Keep the handoff into the footer generous, but no longer cavernous. */\n.chapter-body .chapter-page {\n    padding-bottom: 72px;\n}\n\n@media (max-width: 760px) {\n    .chapter-body .chapter-page {\n        padding-bottom: 58px;\n    }\n\n    .footer-conversation {\n        gap: 14px;\n    }\n}\n
+/* Footer narrative: community first, optional support second */
+.footer-support-copy {
+    margin-top: 2rem;
+}
+
+.footer-support-copy p {
+    margin-bottom: 1rem;
+}
+
+/* ==================================
+   Sept 13 chapter ending + footer rhythm
+================================== */
+
+/* Let the chapter end where the content ends instead of stretching the
+   closing controls across a large viewport-dependent field. */
+.chapter-body .chapter-navigation {
+    margin-top: 64px;
+    padding-top: 24px;
+}
+
+.chapter-body .chapter-page {
+    padding-bottom: 64px;
+}
+
+/* On chapter pages, the footer follows the same 760px reading rail as the
+   prose and chapter navigation. The background still spans the viewport. */
+.chapter-body .footer-utility .footer-contact {
+    width: min(760px, calc(100% - 56px));
+    max-width: none;
+    margin-inline: auto;
+}
+
+/* The footer is one quiet closing conversation, not a second hero section. */
+.site-footer.support-footer .footer-utility {
+    padding-top: 38px;
+    padding-bottom: 34px;
+}
+
+.footer-conversation {
+    gap: 10px;
+}
+
+.footer-support-copy {
+    max-width: 680px;
+    margin-top: 24px;
+}
+
+.footer-support-copy p {
+    max-width: 680px !important;
+    margin: 0 0 16px !important;
+    color: var(--secondary-text);
+    font-family: var(--font-body) !important;
+    font-size: 0.88rem !important;
+    line-height: 1.7 !important;
+}
+
+.footer-support-copy .coffee-button {
+    margin-top: 0;
+}
+
+.footer-utility .footer-meta {
+    margin-top: 26px !important;
+}
+
+@media (max-width: 760px) {
+    .chapter-body .chapter-navigation {
+        margin-top: 52px;
+        padding-top: 22px;
+    }
+
+    .chapter-body .chapter-page {
+        padding-bottom: 52px;
+    }
+
+    .chapter-body .footer-utility .footer-contact {
+        width: min(100% - 36px, 760px);
+    }
+
+    .site-footer.support-footer .footer-utility {
+        padding-top: 32px;
+        padding-bottom: 30px;
+    }
+
+    .footer-support-copy {
+        margin-top: 22px;
+    }
+}
+
+/* ==================================
+   Sept 13 About + unified site footer
+================================== */
+
+/* Site/editorial prose stays sans-serif; serif is reserved for expressive
+   headings and the novel reading experience. */
+.simple-page-content,
+.about-page-content {
+    font-family: var(--font-body);
+}
+
+.about-page-stack {
+    display: grid;
+    gap: 64px;
+}
+
+.about-letter,
+.about-page-content {
+    width: min(760px, 100%);
+}
+
+.about-page-header {
+    margin-bottom: 18px;
+}
+
+.about-page-content {
+    font-size: 1rem;
+    line-height: 1.72;
+}
+
+.about-page-content a {
+    color: var(--accent);
+    font-weight: 500;
+    text-decoration: none;
+    text-underline-offset: 0.18em;
+}
+
+.about-page-content a:hover {
+    color: var(--accent-hover);
+    text-decoration: underline;
+}
+
+.about-padlet {
+    width: 100%;
+}
+
+.about-padlet iframe {
+    height: 640px;
+}
+
+/* One compact narrative footer everywhere. */
+.footer-conversation {
+    display: grid;
+    gap: 6px;
+}
+
+.footer-conversation p {
+    margin: 0;
+}
+
+.footer-conversation .footer-about-link strong {
+    color: var(--accent);
+    font-weight: 600;
+}
+
+.footer-support-copy {
+    margin-top: 22px;
+}
+
+.footer-support-copy p {
+    margin-bottom: 14px !important;
+}
+
+.footer-utility .footer-meta {
+    margin-top: 24px !important;
+}
+
+@media (max-width: 760px) {
+    .about-page-stack {
+        gap: 42px;
+    }
+
+    .about-page-header {
+        margin-bottom: 14px;
+    }
+
+    .about-page-content {
+        font-size: 0.98rem;
+        line-height: 1.7;
+    }
+
+    .about-padlet iframe {
+        height: 540px;
     }
 }

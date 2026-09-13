@@ -1,0 +1,56 @@
+---
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#f7f8f8">
+    <title>Disclaimer — Diamond Dust</title>
+    {% include google-analytics.html %}
+    {% include theme-init.html %}
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,500;0,8..60,600;1,8..60,400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body data-page-type="disclaimer">
+    <header class="site-header">
+        <div class="container header-inner">
+            <a href="{{ '/' | relative_url }}" class="site-logo">Diamond Dust</a>
+            <nav class="site-nav" aria-label="Main navigation">
+                <a href="{{ '/' | relative_url }}">Home</a>
+                <a href="{{ '/#chapters' | relative_url }}">Chapters</a>
+                <button class="site-nav-icon theme-toggle" type="button" aria-label="Switch appearance"><span class="theme-toggle-icon" aria-hidden="true">☾</span></button>
+            </nav>
+            <div class="nonchapter-mobile-actions">
+                <button class="site-nav-icon theme-toggle" type="button" aria-label="Switch appearance"><span class="theme-toggle-icon" aria-hidden="true">☾</span></button>
+                <button class="mobile-reader-menu-trigger nonchapter-menu-trigger" type="button" aria-controls="mobile-reader-menu" aria-expanded="false" aria-label="Open site menu">
+                    <span aria-hidden="true">☰</span>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <main class="simple-page-main">
+        <div class="container">
+            <header class="simple-page-header">
+                <p class="eyebrow">Disclaimer</p>
+                <h1>Hello you ♡</h1>
+            </header>
+            <div class="simple-page-content">
+                <p>This website is an unofficial, noncommercial fan project. It is not affiliated with, endorsed by, or authorized by the author, publisher, or other rights holders of <em>Diamond Dust</em>.</p>
+                <p>The original novel and all underlying characters, story, and associated intellectual property belong to their respective rights holders. This site contains a fan-created English edition prepared and shared for readers without charge.</p>
+                <p>No payment is required to access any chapter. Any optional support is a voluntary tip for the time spent editing, proofreading, developing, and maintaining the website. It does not purchase access to the novel or any rights in the underlying work.</p>
+                <p>If a rights holder requests removal of the material, I will respond promptly. If an official English edition becomes available, readers are encouraged to purchase it and support the official release.</p>
+            </div>
+        </div>
+    </main>
+
+    {% include site-footer.html %}
+
+    {% include simple-mobile-menu.html %}
+
+    <script src="{{ '/assets/js/reading.js' | relative_url }}"></script>
+</body>
+</html>

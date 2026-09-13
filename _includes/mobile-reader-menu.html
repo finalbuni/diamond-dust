@@ -1,20 +1,25 @@
 <div class="mobile-menu-backdrop" data-mobile-menu-close hidden></div>
 
 <section class="mobile-reader-menu" id="mobile-reader-menu" aria-label="Reader menu" aria-hidden="true">
-    <div class="mobile-menu-handle" aria-hidden="true"></div>
+    <div class="mobile-menu-handle" aria-hidden="true" data-sheet-drag-handle></div>
+
+    <a class="mobile-menu-action" href="{{ '/' | relative_url }}">
+        <span>Home</span>
+        <span class="mobile-menu-action-icon" aria-hidden="true">⌂</span>
+    </a>
+
+    <button class="mobile-menu-action reader-settings-trigger" type="button" aria-controls="reader-settings" aria-expanded="false">
+        <span>Reading Settings</span>
+        <span class="mobile-menu-action-icon mobile-menu-aa" aria-hidden="true">Aa</span>
+    </button>
 
     <button class="mobile-menu-action chapter-drawer-trigger" type="button" aria-controls="chapter-drawer" aria-expanded="false">
-        <span>Contents</span>
+        <span>Chapters</span>
         <span class="mobile-menu-action-icon" aria-hidden="true">☷</span>
     </button>
 
     <button class="mobile-menu-action chapter-search-trigger" type="button" aria-controls="chapter-search" aria-expanded="false">
         <span>Search</span>
         <span class="mobile-menu-action-icon" aria-hidden="true">⌕</span>
-    </button>
-
-    <button class="mobile-menu-action reader-settings-trigger" type="button" aria-controls="reader-settings" aria-expanded="false">
-        <span>Reading Settings</span>
-        <span class="mobile-menu-action-icon mobile-menu-aa" aria-hidden="true">Aa</span>
     </button>
 </section>

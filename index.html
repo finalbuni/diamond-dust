@@ -2,39 +2,36 @@
 ---
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="theme-color" content="#f7f8f8">
-
     <title>Diamond Dust</title>
-
     {% include google-analytics.html %}
     {% include theme-init.html %}
-
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,500;1,7..72,400&family=Manrope:wght@400;500;600&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,500;0,8..60,600;1,8..60,400;1,8..60,500;1,8..60,600&display=swap" rel="stylesheet">
-
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
-
 <body data-page-type="home">
 
     <header class="site-header">
         <div class="container header-inner">
             <a href="{{ '/' | relative_url }}" class="site-logo">Diamond Dust</a>
-
             <nav class="site-nav" aria-label="Main navigation">
                 <a href="{{ '/' | relative_url }}">Home</a>
                 <a href="#chapters">Chapters</a>
-                <a href="#about">About</a>
-
-                <button class="theme-toggle" type="button" aria-label="Switch color theme" title="Switch color theme">
+                <button class="site-nav-icon theme-toggle" type="button" aria-label="Switch appearance">
                     <span class="theme-toggle-icon" aria-hidden="true">☾</span>
                 </button>
             </nav>
+            <div class="nonchapter-mobile-actions">
+                <button class="site-nav-icon theme-toggle" type="button" aria-label="Switch appearance"><span class="theme-toggle-icon" aria-hidden="true">☾</span></button>
+                <button class="mobile-reader-menu-trigger nonchapter-menu-trigger" type="button" aria-controls="mobile-reader-menu" aria-expanded="false" aria-label="Open site menu">
+                    <span aria-hidden="true">☰</span>
+                </button>
+            </div>
         </div>
     </header>
 
@@ -42,117 +39,99 @@
         {% assign sorted_chapters = site.chapters | sort: "chapter_number" %}
         {% assign first_chapter = sorted_chapters | first %}
 
-        <section class="hero">
+        <section class="hero novel-intro">
             <div class="container hero-content">
-                <p class="eyebrow">A fan translation project</p>
-
+                <p class="eyebrow">A Korean BL novel</p>
                 <h1>Diamond Dust</h1>
 
-                <p class="hero-description">
-                    An English fan translation of <em>Diamond Dust</em>, collected in a quiet reader built for long-form reading.
-                </p>
-
-                <div class="novel-tags" aria-label="Novel tags">
-                    <span>BL</span>
-                    <span>Omegaverse</span>
-                    <span>Romance</span>
-                    <span>Drama</span>
-                    <span>Contemporary</span>
-                    <span>Korean Novel</span>
+                <div class="novel-credit" aria-label="Novel credits">
+                    <p class="novel-author-credit">Written by <strong>Kim David</strong></p>
+                    <p class="novel-edition-credit">English edition by <strong>honeebuni</strong></p>
                 </div>
 
+                <p class="hero-description synopsis">
+                    Having lived as a beta his whole life, Seo Ihyeon never imagined his path would cross with a golden Alpha like Liu Weikun — someone so far above his world, it felt like fate would never even bother. But one day, Weikun catches an impossible scent adrift in the air: the sweet, addictive pheromone of an Omega… coming from Ihyeon. Stranger still, it’s a scent only he can perceive. As desire and instinct blur into obsession, Ihyeon finds himself caught between disbelief and temptation, his world crystallizing into one he never thought possible…
+                </p>
+
+                <div class="tags-block">
+                    <p class="tags-title">Tags</p>
+                    <div class="novel-tags" aria-label="Novel tags">
+                        <span>#BoysLove</span>
+                        <span>#Omegaverse</span>
+                        <span>#Romance</span>
+                        <span>#Drama</span>
+                        <span>#Contemporary</span>
+                        <span>#KoreanNovel</span>
+                    </div>
+                </div>
+
+                <div class="reading-cta-separator" aria-hidden="true"></div>
+
                 {% if first_chapter %}
-                    <a
-                        href="{{ first_chapter.url | relative_url }}"
-                        class="button start-reading-button"
-                        data-start-url="{{ first_chapter.url | relative_url }}"
-                    >
-                        <span class="start-reading-label">Start Reading</span>
-                        <span class="button-arrow" aria-hidden="true">→</span>
-                    </a>
+                    <div class="reading-cta" data-reading-cta>
+                        <div class="reading-cta-copy">
+                            <p class="reading-cta-kicker" data-reading-cta-kicker>Start the story</p>
+                            <p class="continue-reading-detail">Chapter {{ first_chapter.chapter_number }} · {{ first_chapter.title }}</p>
+                        </div>
+                        <a href="{{ first_chapter.url | relative_url }}" class="button start-reading-button" data-start-url="{{ first_chapter.url | relative_url }}">
+                            <span class="start-reading-label">Start Reading</span>
+                            <span class="button-arrow" aria-hidden="true">→</span>
+                        </a>
+                    </div>
                 {% else %}
                     <a href="#chapters" class="button">Browse Chapters</a>
                 {% endif %}
-
-                <p class="continue-reading-detail" hidden></p>
             </div>
         </section>
 
         <section id="chapters" class="content-section chapters-section">
             <div class="container">
-                <div class="section-heading section-heading-row">
+                <div class="section-heading section-heading-row compact-heading">
                     <div>
-                        <p class="section-label">The story</p>
-                        <h2>Volumes & Chapters</h2>
+                        <h2>All Chapters</h2>
                     </div>
-                    <p class="section-description">Read from the beginning or return to any chapter.</p>
+                    <p class="section-description">34 total chapters</p>
                 </div>
 
                 {% assign volume_names = "Volume 1|Volume 2|Volume 3|Volume 4|Volume 5|Volume 6|Side Story I|Side Story II" | split: "|" %}
-
-                <div class="volume-directory">
-                    {% for volume_name in volume_names %}
-                        {% assign volume_chapters = site.chapters | where: "volume", volume_name | sort: "chapter_number" %}
-
-                        {% if volume_chapters.size > 0 %}
-                            <section class="volume-group">
-                                <div class="volume-group-heading">
-                                    <div>
-                                        <p class="volume-kicker">{{ volume_name }}</p>
+                <div class="chapter-scroll-shell" tabindex="0" aria-label="Diamond Dust chapter directory">
+                    <div class="volume-directory compact-directory">
+                        {% for volume_name in volume_names %}
+                            {% assign volume_chapters = site.chapters | where: "volume", volume_name | sort: "chapter_number" %}
+                            {% if volume_chapters.size > 0 %}
+                                <section class="volume-group">
+                                    <div class="volume-group-heading">
                                         {% if volume_name == "Side Story II" %}
                                             <h3 class="volume-title">A Diamond is Forever</h3>
                                         {% else %}
                                             <h3 class="volume-title">{{ volume_name }}</h3>
                                         {% endif %}
                                     </div>
-                                    <span class="volume-count">{{ volume_chapters.size }} chapters</span>
-                                </div>
-
-                                <div class="chapter-list">
-                                    {% for chapter in volume_chapters %}
-                                        <a href="{{ chapter.url | relative_url }}" class="chapter-list-item">
-                                            <div class="chapter-list-copy">
-                                                <span class="chapter-number">Chapter {{ chapter.chapter_number }}</span>
-                                                <span class="chapter-title">{{ chapter.title }}</span>
-                                            </div>
-                                            <span class="chapter-arrow" aria-hidden="true">→</span>
-                                        </a>
-                                    {% endfor %}
-                                </div>
-                            </section>
-                        {% endif %}
-                    {% endfor %}
-                </div>
-            </div>
-        </section>
-
-        <section id="about" class="content-section about-section">
-            <div class="container about-layout">
-                <div class="section-heading">
-                    <p class="section-label">About the project</p>
-                    <h2>A quiet home for the translation</h2>
-                </div>
-
-                <div class="about-content">
-                    <p>
-                        This website collects the English fan translation of <em>Diamond Dust</em> in one place, with a reading experience designed to stay out of the story's way.
-                    </p>
-                    <p>
-                        All translations are provided for informational and fan purposes.
-                    </p>
+                                    <div class="chapter-list">
+                                        {% for chapter in volume_chapters %}
+                                            <a href="{{ chapter.url | relative_url }}" class="chapter-list-item">
+                                                <div class="chapter-list-copy">
+                                                    <span class="chapter-number">Chapter {{ chapter.chapter_number }}</span>
+                                                    <span class="chapter-title">{{ chapter.title }}</span>
+                                                    {% if chapter.korean_title %}<span class="chapter-korean-list-title">{{ chapter.korean_title }}</span>{% endif %}
+                                                </div>
+                                                <span class="chapter-arrow" aria-hidden="true">→</span>
+                                            </a>
+                                        {% endfor %}
+                                    </div>
+                                </section>
+                            {% endif %}
+                        {% endfor %}
+                    </div>
                 </div>
             </div>
         </section>
     </main>
 
-    <footer class="site-footer">
-        <div class="container site-footer-inner">
-            <p>Diamond Dust</p>
-            <p class="footer-note">English fan translation</p>
-        </div>
-    </footer>
+    {% include site-footer.html %}
+
+    {% include simple-mobile-menu.html %}
 
     <script src="{{ '/assets/js/reading.js' | relative_url }}"></script>
 </body>
-
 </html>

@@ -32,23 +32,24 @@
                 <a href="{{ '/' | relative_url }}">Home</a>
 
                 <button class="site-nav-button chapter-drawer-trigger" type="button" aria-controls="chapter-drawer" aria-expanded="false">
-                    Chapters <span aria-hidden="true">⌄</span>
+                    Chapters
                 </button>
 
-                <a href="{{ '/#about' | relative_url }}">About</a>
-
-                <button class="site-nav-icon reader-settings-trigger" type="button" aria-controls="reader-settings" aria-expanded="false" aria-label="Open reading settings" title="Reading settings">
-                    <span aria-hidden="true">⚙</span>
+                <button class="site-nav-button reader-settings-trigger reader-settings-nav-button" type="button" aria-controls="reader-settings" aria-label="Open reading settings" aria-expanded="false">
+                    <span class="reader-settings-nav-icon" aria-hidden="true">⚙</span>
+                    <span>Reading Settings</span>
                 </button>
             </nav>
         </div>
     </header>
 
     <div class="mobile-reader-controls" aria-label="Reader controls">
-        <a href="{{ '/' | relative_url }}" class="mobile-home-control">Diamond Dust</a>
-        <button class="mobile-reader-menu-trigger" type="button" aria-controls="mobile-reader-menu" aria-expanded="false" aria-label="Open reading menu">
-            <span aria-hidden="true">☰</span>
-        </button>
+        <div class="mobile-reader-nav-inner">
+            <a href="{{ '/' | relative_url }}" class="mobile-home-control">Diamond Dust</a>
+            <button class="mobile-reader-menu-trigger" type="button" aria-controls="mobile-reader-menu" aria-expanded="false" aria-label="Open reading menu">
+                <span aria-hidden="true">☰</span>
+            </button>
+        </div>
     </div>
 
     <main class="chapter-page">
@@ -108,12 +109,7 @@
         </nav>
     </main>
 
-    <footer class="site-footer">
-        <div class="container site-footer-inner">
-            <p>Diamond Dust</p>
-            <p class="footer-note">English fan translation</p>
-        </div>
-    </footer>
+    {% include site-footer.html %}
 
     <aside class="resume-reading" hidden aria-live="polite">
         <div>
