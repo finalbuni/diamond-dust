@@ -1,5 +1,11 @@
 title: Diamond Dust
 
+url: "https://finalbuni.github.io"
+baseurl: "/diamond-dust"
+
+plugins:
+  - jekyll-sitemap
+
 collections:
   chapters:
     output: true
