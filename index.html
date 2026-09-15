@@ -7,7 +7,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="theme-color" content="#f7f8f8">
     <title>Diamond Dust</title>
+    {% include consent-init.html %}
     {% include google-analytics.html %}
+    {% include microsoft-clarity.html %}
     {% include theme-init.html %}
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -133,5 +135,6 @@
     {% include simple-mobile-menu.html %}
 
     <script src="{{ '/assets/js/reading.js' | relative_url }}"></script>
+    {% include cookie-consent.html %}
 </body>
 </html>

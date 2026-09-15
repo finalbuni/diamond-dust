@@ -7,7 +7,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="theme-color" content="#f7f8f8">
     <title>Disclaimer — Diamond Dust</title>
+    {% include consent-init.html %}
     {% include google-analytics.html %}
+    {% include microsoft-clarity.html %}
     {% include theme-init.html %}
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -43,6 +45,15 @@
                 <p>The original novel and all underlying characters, story, and associated intellectual property belong to their respective rights holders. This site contains a fan-created English edition prepared and shared for readers without charge.</p>
                 <p>No payment is required to access any chapter. Any optional support is a voluntary tip for the time spent editing, proofreading, developing, and maintaining the website. It does not purchase access to the novel or any rights in the underlying work.</p>
                 <p>If a rights holder requests removal of the material, I will respond promptly. If an official English edition becomes available, readers are encouraged to purchase it and support the official release.</p>
+                <h2>Mature Content</h2>
+                <p><em>Diamond Dust</em> is intended for adult readers (18+) and may contain mature themes and sexually explicit content.</p>
+                
+                <h2 id="analytics-privacy">Analytics & Privacy</h2>
+                <p>This site uses Google Analytics and Microsoft Clarity to help me understand how readers find and use the site. This may include information such as pages visited, general device and browser information, clicks, scrolling, and interactions with the site's interface.</p>
+                <p>Microsoft Clarity may also create session replays and heatmaps from interactions with the site. These tools help me understand how the reading experience is working and where it can be improved. </p>
+                <p>Optional analytics cookies are disabled unless you choose to accept them. You can decline them and continue using the site normally.</p>
+                <p><button type="button" class="analytics-preferences-button" id="analytics-preferences-button">Change analytics preferences</button></p>
+                
             </div>
         </div>
     </main>
@@ -52,5 +63,6 @@
     {% include simple-mobile-menu.html %}
 
     <script src="{{ '/assets/js/reading.js' | relative_url }}"></script>
+    {% include cookie-consent.html %}
 </body>
 </html>

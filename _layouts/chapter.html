@@ -8,7 +8,9 @@
 
     <title>{{ page.title }} — Diamond Dust</title>
 
+    {% include consent-init.html %}
     {% include google-analytics.html %}
+    {% include microsoft-clarity.html %}
     {% include theme-init.html %}
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -130,6 +132,7 @@
     {% include reader-settings.html %}
 
     <script src="{{ '/assets/js/reading.js' | relative_url }}"></script>
+    {% include cookie-consent.html %}
 </body>
 
 </html>

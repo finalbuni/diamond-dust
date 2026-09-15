@@ -1,0 +1,80 @@
+<div class="cookie-consent" id="cookie-consent" hidden>
+    <div class="cookie-consent-inner">
+        <div class="cookie-consent-copy">
+            <p class="cookie-consent-title">Cookies & analytics ♡</p>
+            <p>
+                I use analytics to understand how people find and use this site
+                and to improve the reading experience.
+                <a href="{{ '/disclaimer/' | relative_url }}#analytics-privacy">Learn more</a>
+            </p>
+        </div>
+
+        <div class="cookie-consent-actions">
+            <button type="button" class="cookie-consent-decline" data-consent="denied">
+                Decline
+            </button>
+            <button type="button" class="cookie-consent-accept" data-consent="granted">
+                Accept
+            </button>
+        </div>
+    </div>
+</div>
+
+<script>
+(function () {
+    const storageKey = 'diamond-dust-analytics-consent';
+    const banner = document.getElementById('cookie-consent');
+
+    function updateConsent(choice) {
+        localStorage.setItem(storageKey, choice);
+
+        if (typeof gtag === 'function') {
+            gtag('consent', 'update', {
+                analytics_storage: choice
+            });
+        }
+
+        if (typeof window.clarity === 'function') {
+            window.clarity('consentv2', {
+                ad_Storage: 'denied',
+                analytics_Storage: choice
+            });
+        }
+
+        banner.hidden = true;
+    }
+
+    banner.querySelectorAll('[data-consent]').forEach(function (button) {
+        button.addEventListener('click', function () {
+            updateConsent(button.dataset.consent);
+        });
+    });
+
+const preferencesButton = document.getElementById('analytics-preferences-button');
+
+if (preferencesButton) {
+    preferencesButton.addEventListener('click', function () {
+        localStorage.removeItem(storageKey);
+
+        if (typeof gtag === 'function') {
+            gtag('consent', 'update', {
+                analytics_storage: 'denied'
+            });
+        }
+
+        if (typeof window.clarity === 'function') {
+            window.clarity('consentv2', {
+                ad_Storage: 'denied',
+                analytics_Storage: 'denied'
+            });
+        }
+
+        banner.hidden = false;
+    });
+}
+
+if (!localStorage.getItem(storageKey)) {
+    banner.hidden = false;
+}
+})();
+</script>

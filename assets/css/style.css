@@ -3390,3 +3390,115 @@ a:hover {
         height: 540px;
     }
 }
+   /* Cookie consent */
+
+.cookie-consent {
+    position: fixed;
+    left: 50%;
+    bottom: 24px;
+    z-index: 10000;
+    width: min(680px, calc(100% - 32px));
+    transform: translateX(-50%);
+    padding: 18px 20px;
+    background: var(--surface, #ffffff);
+    border: 1px solid var(--border, #dedede);
+    border-radius: 16px;
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.12);
+    font-family: "Inter", sans-serif;
+}
+
+.cookie-consent[hidden] {
+    display: none;
+}
+
+.cookie-consent-inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 24px;
+}
+
+.cookie-consent-copy {
+    flex: 1;
+}
+
+.cookie-consent-copy p {
+    margin: 0;
+    font-size: 0.875rem;
+    line-height: 1.5;
+}
+
+.cookie-consent-copy .cookie-consent-title {
+    margin-bottom: 4px;
+    font-weight: 600;
+}
+
+.cookie-consent-copy a {
+    color: inherit;
+    text-decoration: underline;
+    text-underline-offset: 2px;
+}
+
+.cookie-consent-actions {
+    display: flex;
+    gap: 8px;
+    flex-shrink: 0;
+}
+
+.cookie-consent-actions button {
+    min-height: 40px;
+    padding: 0 16px;
+    border: 1px solid currentColor;
+    border-radius: 999px;
+    font: inherit;
+    font-size: 0.875rem;
+    cursor: pointer;
+}
+
+.cookie-consent-decline {
+    background: transparent;
+    color: inherit;
+}
+
+.cookie-consent-accept {
+    background: #222;
+    color: #fff;
+    border-color: #222 !important;
+}
+
+@media (max-width: 600px) {
+    .cookie-consent {
+        bottom: 16px;
+        width: calc(100% - 24px);
+        padding: 16px;
+    }
+
+    .cookie-consent-inner {
+        align-items: stretch;
+        flex-direction: column;
+        gap: 14px;
+    }
+
+    .cookie-consent-actions {
+        width: 100%;
+    }
+
+    .cookie-consent-actions button {
+        flex: 1;
+    }
+}
+.analytics-preferences-button {
+    padding: 0;
+    border: 0;
+    background: none;
+    color: var(--accent);
+    font: inherit;
+    font-weight: 500;
+    text-decoration: underline;
+    text-underline-offset: 0.18em;
+    cursor: pointer;
+}
+
+.analytics-preferences-button:hover {
+    color: var(--accent-hover);
+}
