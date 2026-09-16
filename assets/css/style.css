@@ -598,7 +598,7 @@ a:hover {
 }
 
 .chapter-header {
-    margin-bottom: 86px;
+    margin-bottom: 0;
     padding: 26px 0 62px;
 
     text-align: center;
@@ -1396,6 +1396,10 @@ a:hover {
 ================================== */
 
 @media (max-width: 760px) {
+        .chapter-reading-time {
+        margin-top: 8px;
+        margin-bottom: 60px;
+    }
     .container {
         width: min(100% - 36px, 1120px);
     }
@@ -3513,4 +3517,27 @@ a:hover {
     line-height: 1.2;
     letter-spacing: -0.02em;
     color: var(--text);
+}
+
+/* Reading time */
+
+.chapter-reading-time {
+    margin: 18px 0 52px;
+
+    font-family: "Inter", sans-serif;
+    font-size: 0.85rem;
+    font-style: normal;
+    font-weight: 400;
+    color: var(--muted);
+    text-align: left;
+}
+
+.chapter-reading-time-list {
+    display: block;
+    margin-top: 4px;
+    font-family: "Inter", sans-serif;
+    font-size: 0.78rem;
+    font-style: normal;
+    font-weight: 400;
+    color: var(--muted);
 }

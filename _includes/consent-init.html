@@ -1,0 +1,19 @@
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+
+  const diamondDustConsent = localStorage.getItem('diamond-dust-analytics-consent');
+
+  gtag('consent', 'default', {
+    'analytics_storage': 'denied',
+    'ad_storage': 'denied',
+    'ad_user_data': 'denied',
+    'ad_personalization': 'denied'
+  });
+
+  if (diamondDustConsent === 'granted') {
+    gtag('consent', 'update', {
+      'analytics_storage': 'granted'
+    });
+  }
+</script>

@@ -111,17 +111,22 @@
                                         {% endif %}
                                     </div>
                                     <div class="chapter-list">
-                                        {% for chapter in volume_chapters %}
-                                            <a href="{{ chapter.url | relative_url }}" class="chapter-list-item">
-                                                <div class="chapter-list-copy">
-                                                    <span class="chapter-number">Chapter {{ chapter.chapter_number }}</span>
-                                                    <span class="chapter-title">{{ chapter.title }}</span>
-                                                    {% if chapter.korean_title %}<span class="chapter-korean-list-title">{{ chapter.korean_title }}</span>{% endif %}
-                                                </div>
-                                                <span class="chapter-arrow" aria-hidden="true">→</span>
-                                            </a>
-                                        {% endfor %}
-                                    </div>
+    {% for chapter in volume_chapters %}
+        <a href="{{ chapter.url | relative_url }}" class="chapter-list-item">
+            <div class="chapter-list-copy">
+                <span class="chapter-number">Chapter {{ chapter.chapter_number }}</span>
+                <span class="chapter-title">{{ chapter.title }}</span>
+                {% if chapter.korean_title %}
+                    <span class="chapter-korean-list-title">{{ chapter.korean_title }}</span>
+                {% endif %}
+                <span class="chapter-reading-time-list">
+                    {% include reading-time.html content=chapter.content %}
+                </span>
+            </div>
+            <span class="chapter-arrow" aria-hidden="true">→</span>
+        </a>
+    {% endfor %}
+</div>
                                 </section>
                             {% endif %}
                         {% endfor %}

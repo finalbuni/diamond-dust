@@ -57,19 +57,23 @@
     <main class="chapter-page">
         <article class="chapter">
             <header class="chapter-header">
-                <p class="chapter-volume">{{ page.volume }}</p>
-                <p class="chapter-number">Chapter {{ page.chapter_number }}</p>
+    <p class="chapter-volume">{{ page.volume }}</p>
+    <p class="chapter-number">Chapter {{ page.chapter_number }}</p>
 
-                <h1>{{ page.title }}</h1>
+    <h1>{{ page.title }}</h1>
 
-                {% if page.korean_title %}
-                    <p class="chapter-korean-title">{{ page.korean_title }}</p>
-                {% endif %}
-            </header>
+    {% if page.korean_title %}
+        <p class="chapter-korean-title">{{ page.korean_title }}</p>
+    {% endif %}
+</header>
 
-            <div class="chapter-content">
-                {{ content }}
-            </div>
+<p class="chapter-reading-time">
+    {% include reading-time.html content=content %}
+</p>
+
+<div class="chapter-content">
+    {{ content }}
+</div>
         </article>
 
         <nav class="chapter-navigation" aria-label="Chapter navigation">

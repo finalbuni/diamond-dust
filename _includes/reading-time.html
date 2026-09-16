@@ -1,0 +1,10 @@
+{% assign reading_words = include.content | strip_html | number_of_words %}
+{% assign reading_minutes = reading_words | divided_by: 160 %}
+{% assign reading_hours = reading_minutes | divided_by: 60 %}
+{% assign remaining_minutes = reading_minutes | modulo: 60 %}
+
+{% if reading_hours > 0 %}
+{{ reading_hours }} {% if reading_hours == 1 %}hr{% else %}hrs{% endif %}{% if remaining_minutes > 0 %} {{ remaining_minutes }} min{% endif %} read
+{% else %}
+{{ reading_minutes }} min read
+{% endif %}
