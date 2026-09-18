@@ -1,0 +1,49 @@
+<div class="reader-survey" id="reader-survey" hidden>
+    <div class="reader-survey__inner">
+
+        <div class="reader-survey__message">
+            <span class="reader-survey__title">Quick question</span>
+            <span class="reader-survey__text">Would you prefer shorter reading sections?</span>
+            <span class="reader-survey__arrow" aria-hidden="true">→</span>
+        </div>
+
+        <a
+            class="reader-survey__button"
+            href="https://forms.gle/P4fzn17wFmLAXZwi7"
+            target="_blank"
+            rel="noopener"
+        >
+            Vote here
+        </a>
+
+    </div>
+
+    <button
+        class="reader-survey__close"
+        id="reader-survey-close"
+        type="button"
+        aria-label="Dismiss reader question"
+    >
+        ×
+    </button>
+</div>
+
+<script>
+    (() => {
+        const survey = document.getElementById("reader-survey");
+        const closeButton = document.getElementById("reader-survey-close");
+
+        if (!survey || !closeButton) return;
+
+        const storageKey = "diamondDustReaderSurvey2026";
+
+        if (localStorage.getItem(storageKey) !== "dismissed") {
+            survey.hidden = false;
+        }
+
+        closeButton.addEventListener("click", () => {
+            localStorage.setItem(storageKey, "dismissed");
+            survey.hidden = true;
+        });
+    })();
+</script>

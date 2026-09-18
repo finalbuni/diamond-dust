@@ -22,6 +22,8 @@
 </head>
 
 <body class="chapter-body" data-page-type="chapter" data-chapter-number="{{ page.chapter_number }}" data-chapter-title="{{ page.title | escape }}">
+    
+    {% include reader-survey.html %}
 
     <div class="reading-progress" aria-hidden="true">
         <div class="reading-progress-bar"></div>
@@ -55,9 +57,9 @@
         </div>
     </div>
 
-    <main class="chapter-page">
-        <article class="chapter">
-            <header class="chapter-header">
+<main class="chapter-page">
+    <article class="chapter">
+        <header class="chapter-header">
     <p class="chapter-volume">{{ page.volume }}</p>
     <p class="chapter-number">Chapter {{ page.chapter_number }}</p>
 
