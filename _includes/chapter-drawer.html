@@ -35,7 +35,18 @@
 
                     {% for chapter in drawer_chapters %}
                         {% assign drawer_number = chapter.chapter_number | plus: 0 %}
-                        <a href="{{ chapter.url | relative_url }}" class="drawer-chapter-link{% if drawer_number == current_number %} is-current{% endif %}" {% if drawer_number == current_number %}aria-current="page"{% endif %}>
+                        {% assign first_section = nil %}
+
+                        {% for section in site.sections %}
+                            {% assign section_chapter_number = section.chapter_number | plus: 0 %}
+                            {% assign section_number = section.section_number | plus: 0 %}
+                            {% if section_chapter_number == drawer_number and section_number == 1 %}
+                                {% assign first_section = section %}
+                                {% break %}
+                            {% endif %}
+                        {% endfor %}
+
+                        <a href="{{ chapter.url | relative_url }}"{% if first_section %} data-short-url="{{ first_section.url | relative_url }}"{% endif %} class="drawer-chapter-link{% if drawer_number == current_number %} is-current{% endif %}" {% if drawer_number == current_number %}aria-current="page"{% endif %}>
                             <span class="drawer-chapter-number">{{ chapter.chapter_number }}</span>
                             <span class="drawer-chapter-title">{{ chapter.title }}</span>
                         </a>
