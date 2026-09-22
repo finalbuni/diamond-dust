@@ -1,0 +1,126 @@
+---
+layout: chapter
+volume: "Volume 2"
+chapter_number: 10
+chapter_id: "V2.4"
+title: "Alienation 2"
+korean_title: "소외 2"
+hybrid_short: true
+section_number: 4
+section_count: 7
+permalink: /sections/chapter-10/4/
+excerpt_separator: "<!-- section-excerpt-end -->"
+---
+<p>"Liu-ssi."</p>
+
+<p>Just as we were about to turn into the next booth after crossing a hall where an experimental installation piece — translucent sculptures suspended in the air to visualize the flow of air — was on display, someone called his name in a very cheerful tone.</p>
+
+<p>It was an East Asian man who looked about a head and a half shorter than him, with a sharp and capable impression. He responded quickly to the offered handshake with a business smile.</p>
+
+<p>"He's someone I worked with back in Hong Kong. I'll just say hello briefly, so look around this booth. There should be quite a few pieces you might find interesting."</p>
+
+<p>After reiterating once more that I should definitely stay in this booth and not move elsewhere, he disappeared around the corner with his former colleague. The well-dressed East Asian man, in a sharply tailored tuxedo suit that flowed over his frame, seemed to be leading him toward a group of others who would be pleased to see him.</p>
+
+<p>In any case, this was the city where he had been born and raised, and where he had worked before moving to Seoul. Running into an acquaintance anywhere wasn't strange at all.</p>
+
+<p>I hesitated slightly at the thought of entering the booth alone to look at paintings without him, but a staff member inside gave me courage with a slight smile and a welcoming gesture, as if to say it was perfectly fine to look around at my own pace.</p>
+
+<p>Whether it was a major gallery or not, the booth was quite spacious and there were many visitors. That was actually a relief — it meant the staff didn't have the leisure to pay much attention to me.</p>
+
+<p>Before I had even looked at a few pieces, I immediately understood why he had said there would be works that would catch my interest.</p>
+
+<p>Intensely or palely, overtly or coolly — regardless of the method of expression, the booth was filled with artworks speaking a language I could understand.</p>
+
+<p>"It's a shame it already sold for thirty-five million dollars, isn't it? If only we'd been a little quicker, we could have acquired it."</p>
+
+<p>I turned to the side and saw an unfamiliar face. I managed an awkward smile for the man who had addressed me in a joking tone.</p>
+
+<p>"Ah… you must be staff from one of the galleries attending the fair."</p>
+
+<p>"Yes."</p>
+
+<p>"Where… Seoul. Gallery… Phantom."</p>
+
+<p>The man leaned back to peer at the ID badge hanging around my neck and read out my affiliation aloud. Then he extended his hand for a handshake. Our eye levels were similar, but his hands were much larger than mine. I looked down at his hand for a moment before hesitantly grasping it. The sound of his faint chuckle seemed to see through all my bewilderment and awkwardness. It wasn't mockery.</p>
+
+<p>"This is who I am. I'm affiliated with a gallery in New York, but since I'm originally from Hong Kong, I know this side well too."</p>
+
+<p>The man, holding a champagne glass in one hand, carefully pulled a case from his jacket pocket and handed me a business card. The simple rectangular card, made of art paper, introduced the man's affiliation in English.</p>
+
+<p>The man looked to be of mixed East Asian and Western heritage. His facial structure and hair had a distinctly East Asian quality, but his eyes were a deep blue. Facing that incongruity, I recalled the shock I had felt the first time I saw him. <em>Perhaps this is what a Golden Alpha looks like…</em></p>
+
+<p>I didn't sense that same imposing presence or unique aura from the man who was casually talking about the painting hanging in front of him while I stood there, but we shared the somewhat broad commonality of being of mixed heritage and having blue eyes.</p>
+
+<p>"Our gallery is hosting a party in the Soho area on Sunday. If you're free, would you care to stop by with your other staff members? It would be great if you could make it. It's a chance for the galleries to connect, and if we're lucky, maybe even an opportunity to make some private travel memories…"</p>
+
+<p>As the man said this, lowering his voice slightly, a somewhat noisy group guided by a staff member crowded toward paintings in another section directly behind him. Turning sharply to avoid them, the man drew in close to me, slightly tilting his chin as he looked up at me strangely from beneath lowered eyelids. We were close enough in height that the distance between us was narrow enough to make me tense — a wrong turn of the head and our noses might brush.</p>
+
+<p>"Alpha? Beta?"</p>
+
+<p>Seeing him up close, his eyes were completely different from the Director's. His weren't that distinct, mineral-like blue, but something more precarious and delicate, as if they might vanish at any moment… like seafoam, or… yes, like a ghost…</p>
+
+<p>"Seo Ihyeon."</p>
+
+<p>At the sound of my name called from behind, I turned around immediately, as though my head had been pulled.</p>
+
+<p>He was striding quickly toward me from the booth entrance. His eyes, which usually seemed so delicate they might disappear at any moment, were now burning fiercely. This was entirely different from the coldness he had displayed in front of <em>Lovers on the Bed</em>.</p>
+
+<p>"Wow… just looking at him, he's a Golden Alpha. If I'd known you were going around with someone like that, I wouldn't have touched you."</p>
+
+<p>Muttering this to himself and shaking his head, the man offered a brief "nice to meet you" and fled the scene.</p>
+
+<p>"What the hell was that."</p>
+
+<p>Before I could reply, he stopped in front of me, seemingly taking the other man's place, and snatched the business card from my hand.</p>
+
+<p>"He seemed to be someone from a gallery in New York… He said there's a party on Sunday and asked if I'd come with the other staff…"</p>
+
+<p>I didn't know why I was making excuses, but his severe expression felt like it was demanding an explanation.</p>
+
+<p>After examining the business card, he glanced in the direction where the previous man had disappeared. He tracked the man's movements, and I tracked his gaze — then suddenly I remembered the question the vanished man had asked.</p>
+
+<p>The man had asked me if I was an Alpha or a Beta. Omega wasn't even an option.</p>
+
+<p>"You're already invited to another party on Sunday. So you won't need this, then."</p>
+
+<p>Before I could even lift my head from nodding in agreement, he had already crumpled the business card in his hand.</p>
+
+<p>Only this man suspected I was an Omega.</p>
+
+<p>"Your meeting with Suki Kim is scheduled for Friday."</p>
+
+<p>"……"</p>
+
+<p>Crumpling the card without throwing it away, he slipped it into his inner jacket pocket and spoke quickly.</p>
+
+<p>"It would have been nice to meet more leisurely on the last day, but since this was arranged on short notice, Friday was the only time I could secure."</p>
+
+<p>"No, it's fine. Even ten minutes… I'm grateful."</p>
+
+<p>He looked down at me silently for a moment, then swept a hand down his face from his forehead and sighed.</p>
+
+<p>"Keep this a secret from the others. If they find out you're meeting Suki Kim, they'll throw a fit demanding to be taken along."</p>
+
+<p>When I nodded, his eyes, fixed on me this time, calmed down a little. He scanned every corner of my face as if checking my safety, then muttered a low curse — the target of which I couldn't discern — and looked away.</p>
+
+<p>The works I saw afterward barely registered. My mind was entirely consumed with the thought of meeting Teacher Suki Kim.</p>
+
+<p>I had decided to come here because of his promise to arrange a meeting with her, but until this moment it hadn't felt real. Now, with the excitement finally settling into something tangible, I felt as though my feet were hovering an inch above the floor.</p>
+
+<p>He struck me as extraordinary all over again. Not just his ability to arrange a meeting with Teacher Suki Kim — but that tenacity, that commitment, to willingly endure such a bothersome process just to get me to paint. That steadfastness itself was astonishing.</p>
+
+<p>He had confidence in me, a complete stranger — but it was a different kind of conviction than the confidence Yeehan hyung's grandfather had in hyung's life, or Mr. Lim had in Morae nuna's.</p>
+
+<p>Could he really trust his own instincts that much? Even knowing that what I could produce right now would likely be nothing more than a heavily ornamented imitation — just like the work of the artist "Seonew"?</p>
+
+<p>After walking around the venue once, he returned to our booth. He seemed quite thirsty and immediately poured himself a full glass of champagne and downed it. Then he picked up a few nuts, tossed them into his mouth like popcorn, and promptly pushed the dish far away.</p>
+
+<p>"Ah, someone please clear this away. I don't even like these, but if they're in front of me, I keep eating them."</p>
+
+<p>"I brought them to snack on when I get sleepy. Unlike other booths, our booth spent three hours doing hard labor unwrapping bubble wrap."</p>
+
+<p>"Hmm, as far as I know, unlike all other booths, a certain booth is staying at Hotel F."</p>
+
+<p>"Damn it. I have nothing to say to that."</p>
+
+<p>Trading jokes with Juhan hyung, he had already returned to his usual self.</p>

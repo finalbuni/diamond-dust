@@ -1,0 +1,70 @@
+---
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#f7f8f8">
+    <title>Updates — Diamond Dust</title>
+    {% include favicon.html %}
+    {% include social-meta.html %}
+    {% include consent-init.html %}
+    {% include google-analytics.html %}
+    {% include microsoft-clarity.html %}
+    {% include theme-init.html %}
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,500;0,8..60,600;1,8..60,400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body data-page-type="updates">
+        {% include site-update-banner.html %}
+
+    <header class="site-header">
+        <div class="container header-inner">
+            <a href="{{ '/' | relative_url }}" class="site-logo">Diamond Dust</a>
+            <nav class="site-nav" aria-label="Main navigation">
+                <a href="{{ '/' | relative_url }}">Home</a>
+                <a href="{{ '/#chapters' | relative_url }}">Chapters</a>
+                <a href="{{ '/about/' | relative_url }}">About</a>
+                <button class="site-nav-icon theme-toggle" type="button" aria-label="Switch appearance"><span class="theme-toggle-icon" aria-hidden="true">☾</span></button>
+            </nav>
+            <div class="nonchapter-mobile-actions">
+                <button class="site-nav-icon theme-toggle" type="button" aria-label="Switch appearance"><span class="theme-toggle-icon" aria-hidden="true">☾</span></button>
+                <button class="mobile-reader-menu-trigger nonchapter-menu-trigger" type="button" aria-controls="mobile-reader-menu" aria-expanded="false" aria-label="Open site menu">
+                    <span aria-hidden="true">☰</span>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <main class="simple-page-main">
+        <div class="container">
+            <header class="simple-page-header">
+                <p class="eyebrow">Updates</p>
+                <h1>What’s new ♡</h1>
+            </header>
+            <div class="simple-page-content">
+                <!-- Add future dated updates ABOVE the existing update, newest first. -->
+                <article class="site-update-entry">
+                    <p class="eyebrow">September 2026</p>
+                    <p><strong>You asked, I listened!</strong> Thank you to everyone who answered my reader survey. Some of you enjoy reading a whole chapter without interruptions, while others wanted smaller pieces with clearer places to stop. A few of you also mentioned wanting to load an entire chapter before going offline.</p>
+                    <p>So I kept the original full-chapter experience <em>and</em> added another way to read: <strong>shorter sections</strong>. Each chapter is divided at its existing scene breaks. They aren’t all the same length, but you can read one section at a time and choose when to move to the next.</p>
+                    <p><strong>How to try it:</strong> Open any chapter as usual. Beside the reading time, choose <strong>Short sections</strong> from the reading-format selector. You can also switch formats in Reading Settings. If you switch while reading, the site takes you to the beginning of the corresponding section in the other format.</p>
+                    <p>Full chapters are still here, with their existing links. You can keep reading exactly as before if that’s what you prefer. ♡</p>
+                    <p>Thank you for helping me make this little corner of the internet better!</p>
+                    <p>Found something that isn’t working, or have an idea for the reading experience? <a href="https://forms.gle/UsUNrr7t3rVQjPC19" target="_blank" rel="noopener noreferrer">Report an issue or suggest a feature →</a></p>
+                </article>
+            </div>
+        </div>
+    </main>
+
+    {% include site-footer.html %}
+
+    {% include simple-mobile-menu.html %}
+
+    <script src="{{ '/assets/js/reading.js' | relative_url }}"></script>
+    {% include cookie-consent.html %}
+</body>
+</html>

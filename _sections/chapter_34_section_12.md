@@ -1,0 +1,137 @@
+---
+layout: chapter
+volume: "Side Story II"
+chapter_number: 34
+chapter_id: "S2.4"
+title: "Honeymoon"
+hybrid_short: true
+section_number: 12
+section_count: 17
+permalink: /sections/chapter-34/12/
+excerpt_separator: "<!-- section-excerpt-end -->"
+---
+<p>The waiting area near the gate at Ngurah Rai Airport.</p>
+
+<p>Standing by the window, Liu stared at the waiting aircraft on the ramp and the runway beyond, his hands shoved into his pants pockets. A drizzle, its intensity greatly diminished, swept across the floor, glistening where it was wet with rain.</p>
+
+<p>Shortly after they left the house, a downpour began, and just as Yuni had predicted, traffic thickened as they descended toward Ubud and neared the downtown area. However, since they had left with plenty of time to spare, they were able to reach the airport without any trouble.</p>
+
+<p>Liu worried they might face a delay, but thankfully, at least in Denpasar where the airport was located, the rain had subsided. There were no delays.</p>
+
+<p>After catching their breath for a moment in the lounge, Liu and his group were just heading toward the gate in time for boarding.</p>
+
+<p>The staff members, excited about the overseas business trip, were chatting happily in the chairs behind them. They mostly talked about the great restaurants, pubs, and clubs in Hong Kong. Occasionally, they mixed in talk about the major galleries participating in this fair. Since everyone except Yuni, including Michelle, was visiting Hong Kong for the first time, their anticipation seemed quite high. Liu smiled faintly as he listened to their conversation drift by.</p>
+
+<p>The memory of visiting Hong Kong with Ihyeon surfaced.</p>
+
+<p>Inside, the air was cool due to the air conditioning, but step one foot outside the door, and it was the hot, humid summer of Hong Kong.</p>
+
+<p>The tension between Ihyeon and Liu himself, before they were lovers, and the gazes that met, pulled away, and then found each other again, clinging together, tangled and close. Jealousy and relief, uncertainty and excitement, longing and affection. And finally, the surrender to falling in love.</p>
+
+<p>And the shock.</p>
+
+<p>The shock of someone's arrival, after which the knotting and Changing were no longer his to control.</p>
+
+<p>In the mere few days they stayed in Hong Kong, the existence of Seo Ihyeon had completely shaken him. It was almost to the point of destruction.</p>
+
+<p>He could still vividly recall the twenty-two-year-old Ihyeon, dizzy from the cigarette he was smoking for the first time on Soho Street.</p>
+
+<p>"Mr. Rabbit."</p>
+
+<p>It was also the moment Ihyeon first called him that: Mr. Rabbit.</p>
+
+<p>Because it was such a special city for the two of them, it was even more disappointing that Ihyeon could not accompany him on this trip to Hong Kong. Though they didn't express it outwardly, his parents also seemed quite disappointed not to see Ihyeon. <em>Well, they are the ones who are more fond of Ihyeon than they are of me anyway.</em> With that thought, Liu shrugged his shoulders lightly and smiled to himself.</p>
+
+<p>However, the real reason he found it especially hard to be separated from Ihyeon was something else entirely.</p>
+
+<p>Since that sudden heat last month, Ihyeon hadn't shown any particular symptoms. They had visited a relatively nearby clinic in Singapore for a checkup, but again, they couldn't find anything wrong with the Diamond Dust. The diagnosis confirmed that Ihyeon was a one hundred percent stable Omega.</p>
+
+<p>Despite this, Liu couldn't feel completely at ease.</p>
+
+<p>It wasn't just the sweet sentiment of not wanting to be separated from his mate while they were enjoying their honeymoon phase. He still hadn't fully shaken off the memory of that incident and the anxiety it caused.</p>
+
+<p>Liu's slate-blue eyes, fixed on the distant runway, subtly shifted to the right. Yuni's figure approaching from behind was reflected in the window. Yuni stopped beside him and asked in a lowered voice,</p>
+
+<p>"Director, what's wrong?"</p>
+
+<p>"What do you mean, what's wrong? What is it?"</p>
+
+<p>"You've been quiet ever since leaving, and you were distant from everyone else in the lounge, too. Is there a problem with the fair? If it's something I need to know about..."</p>
+
+<p>"Ah… um… No."</p>
+
+<p>Liu gave a wry smile and shook his head, adding awkwardly,</p>
+
+<p>"It's because of Ihyeon."</p>
+
+<p>"Oh, I thought it was something else."</p>
+
+<p>Only then did Yuni visibly relax, a look of relief washing over her face.</p>
+
+<p>"If there's one person in this world you don't need to worry about, it's Seo Ihyeon. You know how capable he is of taking care of himself. Don't worry so much."</p>
+
+<p>"No, I'm not talking about that usual overprotectiveness."</p>
+
+<p>"Then what is it?"</p>
+
+<p>Liu hesitated for a moment, then decided there was nothing he needed to hide from Yuni and started to speak.</p>
+
+<p>"Do you happen to know about Bonding?"</p>
+
+<p>"I've heard of it."</p>
+
+<p>"Really?"</p>
+
+<p>Liu had assumed Betas wouldn't know much about it, so Yuni's immediate nod surprised him.</p>
+
+<p>"There was that movie or drama based on it that was hugely popular for a while. I think Yoon Joo-ho starred in one like that a long time ago..."</p>
+
+<p>She narrowed her eyes, trying to recall the title, searching her memory for a moment. But she soon gave up and shrugged her shoulders.</p>
+
+<p>"Anyway, I hear these days people don't use pheromones much even between married couples. Just in case they get Bonded and then end up divorcing, that would be a big problem..."</p>
+
+<p>"......"</p>
+
+<p>Yuni's expression, which had been casual up until that point, gradually grew serious. She lowered her voice to a whisper, as if someone might overhear.</p>
+
+<p>"Are you anxious because you're separated from Ihyeon? Because of the Bonding?"</p>
+
+<p>"I'm not entirely sure, but I think that might be it."</p>
+
+<p>Otherwise, this intense and peculiar anxiety couldn't be explained. It was different from simple worry. No matter what he had been through, Liu himself knew better than anyone that Ihyeon was a capable person who didn't need to be worried about, just as Yuni had said.</p>
+
+<p>"Wow… is that actually possible?"</p>
+
+<p>"It is very rare in this day and age, though."</p>
+
+<p>"When an Alpha is separated from their Omega, doesn't a burst of superhuman strength come out and they tear through iron bars to escape, like in the Hollywood movies?"</p>
+
+<p>"That's just cinematic exaggeration."</p>
+
+<p>Liu couldn't help but laugh at Yuni's entirely Beta-like fantasy about Alphas and Omegas.</p>
+
+<p>With a light tap, Yuni placed her hand on Liu's shoulder and spoke with a serious expression.</p>
+
+<p>"And they become incredibly violent, too, right? Director, you can't behave like that when you're on a business trip. They're all clients."</p>
+
+<p>"Don't be cheeky."</p>
+
+<p>Even as she scolded him, Yuni's joke allowed Liu to ease some of his tension. Perhaps sensing this, Yuni gave a slight smile and added a word of comfort.</p>
+
+<p>"This is the first time you two have been apart for so long since getting married. Maybe that's why."</p>
+
+<p>"Yes, it probably is."</p>
+
+<p>Bonding is not a scientifically proven phenomenon. Just as much concerning pheromones remains a mystery. Many papers have been published arguing that Bonding is merely a psychological phenomenon, not a physical or chemical one.</p>
+
+<p><em>But what about Diamond Dust and Ghost?</em></p>
+
+<p>Exceptions could certainly exist. Like Ihyeon's last heat, which defied explanation.</p>
+
+<p>The announcement came on, stating that boarding would begin with priority passengers: business class travelers, the elderly, pregnant women, and those with disabilities. Liu and his companions gathered their carry-on luggage and headed for the gate.</p>
+
+<p>Before takeoff, while seated in his seat, Liu had one last call with Ihyeon. Hearing Ihyeon's voice telling him to have a good flight and call again upon arrival brought Liu a little more peace of mind.</p>
+
+<p>With his spirits somewhat lifted, he switched his cell phone to airplane mode.</p>
+
+<p>He had no idea what news he would receive from Ihyeon after the four-hour and forty-minute flight.</p>

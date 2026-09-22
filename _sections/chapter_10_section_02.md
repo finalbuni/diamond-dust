@@ -1,0 +1,130 @@
+---
+layout: chapter
+volume: "Volume 2"
+chapter_number: 10
+chapter_id: "V2.4"
+title: "Alienation 2"
+korean_title: "소외 2"
+hybrid_short: true
+section_number: 2
+section_count: 7
+permalink: /sections/chapter-10/2/
+excerpt_separator: "<!-- section-excerpt-end -->"
+---
+<p>Phantom was exhibiting about 120 pieces at this art fair.</p>
+
+<p>Without any time to marvel at the gorgeous harbor view of Victoria Harbour and Tsim Sha Tsui from the hotel room, or at the interior décor, we headed straight to the exhibition hall and began unpacking the roughly 120 paintings from their bubble wrap.</p>
+
+<p>Since we would have to rewrap the pieces in the same bubble wrap after the exhibition, we couldn't just tear it off haphazardly. The work of carefully unwrapping the layers that all five of us had spent the night securing could have been tedious, but perhaps owing to a light undercurrent of excitement, I felt neither boredom nor physical exhaustion. Unwrapping was also simpler than the wrapping had been.</p>
+
+<p>He dropped us off and left the hotel right away to meet with gallery contacts from other cities we had been in communication with, and Manager Han was scheduled to arrive a few hours later after wrapping up Phantom's business in Seoul. So the display setup fell to the three of us.</p>
+
+<p>The VIP preview opening event was scheduled to begin in five hours. We had to finish the display before then, return to the hotel to get ready, and come back again. The schedule wasn't generous, but we had enough confidence in our workflow by now.</p>
+
+<p>Yuni nuna was in charge of unpacking, and Juhan hyung was responsible for setting up the unwrapped pieces. I moved back and forth between them, lending a hand wherever it was needed at any given moment.</p>
+
+<p>"Those guys are infuriating, honestly."</p>
+
+<p>As I passed the thirty-second piece — received from nuna — over to Juhan hyung, he glanced over my shoulder at the booth across from us and muttered under his breath. I casually looked back, and well… their situation was quite different from ours.</p>
+
+<p>Unlike our booth, which was cluttered with separated bubble wrap and still-wrapped paintings monopolizing the entire space, the staff at the booth across the aisle were chatting leisurely while setting up their display. At a glance, they had brought maybe thirty pieces at most, so there was no need for them to rush.</p>
+
+<p>"They already sell their work for good prices back home, so there's no reason to burden themselves with airfare, shipping costs, and staff travel expenses to haul everything over here. And they probably brought expensive pieces that would recoup their investment with just a few sales."</p>
+
+<p>Yuni nuna said this while unwrapping with practiced, skillful hands. Her explanation continued.</p>
+
+<p>"Compared to small-to-medium-sized galleries back home, we're actually quite lucky to participate in international art fairs at all. Still, we'll probably have to keep grinding like this, hauling over a hundred pieces, for a few more years. Just watch — someday, I'm going to bring only twenty pieces, hang them up quickly, and head out for noodles at Kau Kee."</p>
+
+<p>Even though she seemed calm, nuna clearly felt competitive toward them too; she even stopped her unpacking to raise a fist in the air. If nuna said she'd do it, it felt like she really would.</p>
+
+<p>"Even so, they'll be stuck in cramped business hotels suffering from tourist noise. The only staff in this entire venue who got to ride here from the airport in a Phantom and have individual rooms at Hotel F — that's us. Even big galleries like Perrotin or Gagosian wouldn't go that far. In a way, we're the victors."</p>
+
+<p>Carefully lifting the next piece fresh from its bubble wrap, I carried it over to where Juhan hyung was standing. He hung the painting in the position marked on the layout diagram we had prepared, then drew a line through number 33 on the list.</p>
+
+<p>"That car earlier — its name was Phantom, wasn't it?"</p>
+
+<p>I asked casually while helping nuna remove the tape from the bubble wrap. Without stopping her work, nuna glanced up at me, gave me a quick look, and smiled.</p>
+
+<p>"Yeah, funny, right? I don't know whether the car Phantom came first or the gallery Phantom, but it seems to be the Director's thing. He apparently owns about three or four Phantom models alone. The one in Seoul is a Ghost — considered the baby Phantom model — but calling it a baby… it's bigger than most full-size luxury sedans. Cheaper than the Phantom, sure, but still costs over 400 million won, so if you had to put a name to it, it's more like a giant baby?"</p>
+
+<p>Handing me the thirty-fourth piece, nuna added:</p>
+
+<p>"From what I can tell, what matters to the Director isn't the price or prestige of those cars. It's the name. Phantom, Ghost… in the end, they're all spirits, aren't they?"</p>
+
+<p>Gallery Phantom.</p>
+
+<p>Thinking of his pale blue eyes — as fleeting as seafoam — and his indifferent, detached aura, it was certainly a fitting name. I had never thought about whether there was a reason behind it, but the psychology of collecting expensive cars named Phantom and Ghost, fixating on the meaning of "spirit" — that didn't seem like simple collector's obsession.</p>
+
+<p>But since even nuna and Juhan hyung didn't know the full story, it was clear that if I asked, he would just shrug and change the subject.</p>
+
+<p>"So until now, whenever you came to Hong Kong on a business trip, you stayed at the Director's apartment."</p>
+
+<p>It felt like a good moment to bring up the question that had been on my mind since the drive to the hotel.</p>
+
+<p>Juhan hyung, who had just drawn a line through number 34, put the cap back on the pen he'd been holding in his mouth and answered.</p>
+
+<p>"Yeah, that's right. This is the first time staying at a hotel. He has an apartment below Victoria Peak — it's on a hill and high up, so the view is incredible. He also owns a mansion with a pool not too far from there. That one is probably rented out. I heard some major bank here rented it for their employees or something."</p>
+
+<p>Hyung looked down at nuna as if requesting further explanation, and she picked up where he left off.</p>
+
+<p>"It's used as company-provided housing for high-level talent brought in from overseas. The monthly rent is something like 20 million won — and the company covers that. I wonder how much profit that one person generates to justify such an expense. Well, it's a world completely unrelated to ours."</p>
+
+<p>The story of the high-level employee whose tens-of-millions-per-month rent was paid by the company was one thing, but the Director — as the property owner earning tens of millions in monthly rental income — was equally from another world entirely compared to me. The fact that I knew him, that he existed within the sphere of my life, made that feel all the more true.</p>
+
+<p>Liu Weikun.</p>
+
+<p>From his name alone, I could tell from the start that his nationality was Hong Kong. Through conversations with Manager Han, hyung, and nuna, I had a rough sense that he was of mixed heritage with one Korean parent. I knew he hadn't been born and raised in Seoul, but learning that he was wealthy enough to own property of that magnitude in Hong Kong was new information.</p>
+
+<p>According to what he had said in the car on the way to the hotel, the source of his wealth in Hong Kong seemed to be mostly inheritance. He was clearly not from an ordinary family.</p>
+
+<p>"It might not be his personally — it could be his family's. They own a house in Repulse Bay, a neighborhood full of extraordinarily wealthy people by the sea. It's a vacation home, and last year, after the art fair ended, we all spent about three days there together. Ah… it was really wonderful."</p>
+
+<p>Juhan hyung's eyes traced the air with a wistful gaze, like an older person reminiscing about the golden days long past.</p>
+
+<p>The wealthiest person I had actually known was Morae nuna's father, Mr. Lim. The billions Mr. Lim reportedly earned in a year were numbers that never quite registered for me. It was unreasonable for someone like me to grasp the true scale of his wealth.</p>
+
+<p>"What does all this mean?"</p>
+
+<p>Nuna suddenly stopped her hands and drew our attention to herself. She then answered her own question.</p>
+
+<p>"It means Phantom isn't a matter of survival for the Director — it's a matter of self-affirmation."</p>
+
+<p>"……"</p>
+
+<p>"The real estate the Director owns isn't even the whole of it. The house and gallery in Seoul are his too, but those don't even register as major assets. As far as we know, he owns mansions in South Kensington in London and the Upper East Side in New York, and there might be even more properties held for investment purposes. That's why he didn't start Phantom just to make a living."</p>
+
+<p>Nuna handed me the thirty-fifth piece and stood up briefly, patting her legs and lower back, probably stiff from crouching for so long.</p>
+
+<p>"In Seoul, he's a self-made Golden Alpha who climbed up from nothing by himself, but in Hong Kong…"</p>
+
+<p>"He's just royalty, plain and simple."</p>
+
+<p>While nuna searched for the right words, Juhan hyung delivered the conclusion. Nuna frowned slightly, seemingly dissatisfied with the expression, but she couldn't come up with anything more fitting.</p>
+
+<p>"That's right — a prince. Though I much prefer the Director in Seoul."</p>
+
+<p>Juhan hyung didn't respond to nuna's words. Instead, he hung the thirty-fifth piece on the wall with a faint smile — a rare sight from him. It was unmistakably an expression of agreement. He too preferred the Director as he was in Seoul.</p>
+
+<p>They were two people who were completely open about their worldly pleasures — enthusiastic about luxury cars, unable to hide their joy at the prospect of staying in five-star hotels — and yet, even so, they preferred him when he was in Seoul.</p>
+
+<p>That might have seemed contradictory at first glance, but from my perspective, having spent only a few months with them, I dared to say that kind of contradiction didn't feel uncomfortable at all.</p>
+
+<p>The two were clearly worldly, but in some ways they were also the people who most fiercely challenged that worldliness. It seemed contradictory, but undeniably, that was the identity of Baek Yuni and Kwon Juhan.</p>
+
+<p>"Wow, it must be pouring rain in Korea right now. They say Seoul's rainfall today is over 60 millimeters?"</p>
+
+<p>Juhan hyung said this in a raised voice while glancing at his phone as he waited for the next piece. It was news that felt impossible to imagine given the perfectly clear weather in Hong Kong.</p>
+
+<p>"Hey, if you have time to check your phone, come help peel at least one of these."</p>
+
+<p>"I wasn't slacking — I was checking whether Manager Han could safely board her flight."</p>
+
+<p>"You can't even make a decent excuse."</p>
+
+<p>As they peeled the cover off the thirty-sixth large-scale piece — its combined width and height exceeding seven meters — Juhan hyung grinned and tapped Yuni nuna on the shoulder.</p>
+
+<p>"It'll still be monsoon season when we get back to Korea, but still — escaping for a few days is better than nothing, right? And everywhere here has the AC blasting."</p>
+
+<p>Before I realized it, the two had shifted from their discussion of real estate across various world cities back to the present, happily talking about the simple pleasure of escaping the humid rainy season for a few days on this business trip. It was a remarkable sense of balance.</p>
+
+<p>About four hours remained until the VIP preview event.</p>

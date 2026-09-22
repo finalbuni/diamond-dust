@@ -4,8 +4,10 @@ volume: "Side Story II"
 chapter_number: 33
 chapter_id: "S2.3"
 title: "Fiancé (2)"
+permalink: /chapters/chapter-33/
+excerpt_separator: "<!-- section-excerpt-end -->"
 ---
-
+<div id="section-1" class="hybrid-section" data-section="1">
 <!-- Chapter 33 — Fiancé (2) -->
 
 <p>Liu, having finished all his preparations to leave for the airport, stood at the kitchen counter. He intended to share one last cup of coffee with Ihyeon.</p>
@@ -357,9 +359,9 @@ title: "Fiancé (2)"
 <p>"Don't go... I'm scared."</p>
 
 <p>He couldn't believe he had made Ihyeon say those words to him again.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-2" class="hybrid-section" data-section="2">
 <p>Liu sat on the edge of the bed and looked down at Ihyeon's face. Sleeping, he looked peaceful. But Liu's heart and expression, as he looked at him, were anything but peaceful. They couldn't be.</p>
 
 <p>After sending the driver away, the two had gone up to Room 601 together.</p>
@@ -525,9 +527,9 @@ title: "Fiancé (2)"
 <p>It was a statement that had been ready within him for a long time. He had only been waiting for Ihyeon's permission. There was no reason to hesitate.</p>
 
 <p>"That's right. I'm going to propose to him."</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-3" class="hybrid-section" data-section="3">
 <p>Sunday, April 7th. Seoul.</p>
 
 <p>The high for the day was 23 degrees Celsius, higher than average. Humidity 42%. Chance of precipitation 0%.</p>
@@ -749,9 +751,9 @@ title: "Fiancé (2)"
 <p>Even as he said he understood, Ihyeon's gaze kept drifting toward the entrance of the garden. He knew it was absurd to think his father would leave the East Sea alone and make his way all the way here.</p>
 
 <p>Surrounded by people he loved, immersed in happiness, he still couldn't erase the absence. A single dark shadow stands out all the more sharply against brilliant light.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-4" class="hybrid-section" data-section="4">
 <p>"Is that true? Liu actually did that? I can't believe it."</p>
 
 <p>Shushu tilted his head, giving a perplexed smile.</p>
@@ -877,9 +879,9 @@ title: "Fiancé (2)"
 <p>Across from them, Choi Inwu threw up his hands like a gambler walking away from a table after losing everything.</p>
 
 <p>"I lose. I lost."</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-5" class="hybrid-section" data-section="5">
 <p>The day he had chased after Liu's limousine as it headed for the airport.</p>
 
 <p>After taking fever medicine and sleeping soundly, Ihyeon felt, belatedly, a creeping embarrassment at his own actions. He couldn't even understand what state of mind he had been in to do such a thing. It hadn't come from thought.</p>
@@ -1107,9 +1109,9 @@ title: "Fiancé (2)"
 <p>"This is my answer."</p>
 
 <p>As if in a trance, Liu reached out and cupped Ihyeon's cheek. Their lips met as naturally as the flow of the river. The boat passed beneath the Pont des Arts. The kiss continued — past the Louvre, the Tuileries Garden, the Place de la Concorde, until the Alexander III Bridge. The Seine and time itself seemed to slow.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-6" class="hybrid-section" data-section="6">
 <p>Yuni did most of the storytelling about the proposal. Though the couple themselves were present, they were either reluctant to recount it or simply too shy — and the guests were eager to hear it. So someone who had heard the story firsthand had no choice but to step in.</p>
 
 <p>Revisiting the memory of that day through a third party's telling, Liu and Ihyeon found they were holding each other's hands without either of them having consciously reached out first.</p>
@@ -1321,9 +1323,9 @@ title: "Fiancé (2)"
 <p>Lifting his glass to conceal his expression, Choi Inwu smiled — not in the teasing way he had all afternoon, but with something quieter behind it.</p>
 
 <p>A diamond, for a Diamond Dust. What better reason could there be?</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-7" class="hybrid-section" data-section="7">
 <p>Being half-pulled along by Liu, Ihyeon asked in an anxious voice.</p>
 
 <p>"Didn't we just finish the final check?"</p>
@@ -1551,3 +1553,4 @@ title: "Fiancé (2)"
 <p>He didn't say the words aloud — but his father pulled him close in return, arms tightening around his back. He patted the back he held, just as he used to when Ihyeon was very small.</p>
 
 <p>It was the moment all the preparations for the wedding were complete.</p>
+</div>

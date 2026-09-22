@@ -19,7 +19,7 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
 <body data-page-type="home">
-    {% include reader-survey.html %}
+    {% include site-update-banner.html %}
 
     <header class="site-header">
         <div class="container header-inner">
@@ -79,7 +79,7 @@
                             <p class="reading-cta-kicker" data-reading-cta-kicker>Start the story</p>
                             <p class="continue-reading-detail">Chapter {{ first_chapter.chapter_number }} · {{ first_chapter.title }}</p>
                         </div>
-                        <a href="{{ first_chapter.url | relative_url }}" class="button start-reading-button" data-start-url="{{ first_chapter.url | relative_url }}">
+                        <a href="{{ first_chapter.url | relative_url }}" class="button start-reading-button" data-start-url="{{ first_chapter.url | relative_url }}" data-short-start-url="{{ '/sections/chapter-01/1/' | relative_url }}">
                             <span class="start-reading-label">Start Reading</span>
                             <span class="button-arrow" aria-hidden="true">→</span>
                         </a>
@@ -115,13 +115,12 @@
                                     </div>
                                     <div class="chapter-list">
     {% for chapter in volume_chapters %}
-        <a href="{{ chapter.url | relative_url }}" class="chapter-list-item">
+        {% assign list_num = chapter.chapter_number | plus: 0 %}
+        {% if list_num < 10 %}{% assign list_slug = list_num | prepend: '0' | prepend: 'chapter-' %}{% else %}{% assign list_slug = list_num | prepend: 'chapter-' %}{% endif %}
+        <a href="{{ chapter.url | relative_url }}" class="chapter-list-item" data-full-url="{{ chapter.url | relative_url }}" data-short-url="{{ list_slug | prepend: '/sections/' | append: '/1/' | relative_url }}">
             <div class="chapter-list-copy">
                 <span class="chapter-number">Chapter {{ chapter.chapter_number }}</span>
                 <span class="chapter-title">{{ chapter.title }}</span>
-                {% if chapter.korean_title %}
-                    <span class="chapter-korean-list-title">{{ chapter.korean_title }}</span>
-                {% endif %}
                 <span class="chapter-reading-time-list">
                     {% include reading-time.html content=chapter.content %}
                 </span>
@@ -143,6 +142,7 @@
 
     {% include simple-mobile-menu.html %}
 
+    <script src="{{ '/assets/js/format-preference.js' | relative_url }}"></script>
     <script src="{{ '/assets/js/reading.js' | relative_url }}"></script>
     {% include cookie-consent.html %}
 </body>

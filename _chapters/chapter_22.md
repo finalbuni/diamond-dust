@@ -5,8 +5,10 @@ chapter_number: 22
 chapter_id: "V5.2"
 title: "D.D."
 korean_title: "디디"
+permalink: /chapters/chapter-22/
+excerpt_separator: "<!-- section-excerpt-end -->"
 ---
-
+<div id="section-1" class="hybrid-section" data-section="1">
 <!-- Chapter 22 — D.D. -->
 
 <p>It took about two hours to slowly tour Harvard University. Under a clear mid-September autumn sky, we strolled leisurely through the campus, which felt more like a rural village than a university.</p>
@@ -270,9 +272,9 @@ korean_title: "디디"
 <p>He wrapped his arm around the back of my neck as if cradling my head, swept my bangs back, and pressed his lips to my forehead. Then he kissed my eyelids, my cheeks, and finally my mouth. Ignoring the awkwardness and embarrassment of letting others see us like this, I closed my eyes and responded to his lips.</p>
 
 <p>Maybe people would think exactly what he said — that we were an Alpha and Omega couple. It didn't matter what else they thought.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-2" class="hybrid-section" data-section="2">
 <p>Dinner preparations were in full swing at Marcus and Ellen's house. Not only Margaret, who managed the household in the couple's place, but Marcus and Ellen themselves had gone into the kitchen. They were genuinely delighted by the visit of their second son — who happened to be older than their first — even though his schedule was brief: arrived yesterday, leaving tomorrow.</p>
 
 <p>When Marcus opened the front door in his apron, the smell of cooking that had already been drifting through the yard grew stronger. Since we had left the onion rings almost untouched at the pub, the scent of food set off a light twinge of appetite.</p>
@@ -358,9 +360,9 @@ korean_title: "디디"
 <p>He smiled faintly — or tried to. But he looked exhausted. There was something more he seemed to want to say, yet I knew it would be useless to press him. He was someone who could decide for himself the most fitting moment to speak.</p>
 
 <p>I simply nodded and wrapped my arms around his waist.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-3" class="hybrid-section" data-section="3">
 <p>Like the night before, dinner was lively, warm, and full of easy warmth. They were considerate enough to make sure I didn't feel left out — I hadn't shared those years with them — and kept the conversation going by telling me their memories. Because of that, I was able to hear many stories about his two years in Boston: stories that perhaps no one at Phantom, not even Inwu hyung or Shushu, had ever heard.</p>
 
 <p>His popularity back then, even while being homeschooled and not attending school — letters and gifts never stopped arriving. Ellen said it felt like living with a superstar, and that she felt strangely empty for a while after he left. The story of how the "Never Smile Boy" finally broke into a bright, open smile after completing a half-marathon, having been talked into entering by Ellen and Marcus, both devoted to running. And the ten-line letter he left behind on the day that stoic boy finally returned to Hong Kong for good.</p>
@@ -630,3 +632,4 @@ korean_title: "디디"
 <p>The September night wind coming in through the open window in Boston was not entirely gentle. He stubbed out his cigarette, stood, and leaned over with one hand braced on the back of my chair. He took the half-smoked cigarette from my hand, pressed out the ember, and kissed me. His lips were dry, but the tongue that parted into me, filling the inside, was hot and wet.</p>
 
 <p>Right there, I cupped his cheek — thinking of him at thirteen, buried under the particular loneliness of being special, the alienation of being something outside the universal. I hoped that someday I could offer him a comfort deeper than <em>Alienation</em>. That I could help bring about a maturity in which wounds were accepted as part of what made him himself. If not for my sake — then for his.</p>
+</div>

@@ -1,0 +1,148 @@
+---
+layout: chapter
+volume: "Volume 1"
+chapter_number: 5
+chapter_id: "V1.5"
+title: "Wonderland"
+korean_title: "이상한 나라"
+hybrid_short: true
+section_number: 7
+section_count: 12
+permalink: /sections/chapter-05/7/
+excerpt_separator: "<!-- section-excerpt-end -->"
+---
+<p>"Juhan hyung's trademark is his bangs — long enough to nearly poke your eyes out, but cut in a perfectly straight line, like someone used a ruler. They really suit him. When he's busy, he fixes them back with a plastic pin, and it makes him look kind of cute."</p>
+
+<p>On the spiral notebook Morae had given me, I drew Juhan hyung with his straight-cut bangs. I added the yellow ribbon-shaped plastic pin he sometimes used, too.</p>
+
+<p>I had no idea where he got that barrette — clearly meant for toddlers — but whenever he had to revise catalog mockups until morning, or wolf down jjajangmyeon in a corner of the office for a late lunch, he'd pull it out from somewhere and pin his bangs back. Once, he went out to receive visitors with it still on and came running back into the office cursing himself.</p>
+
+<p>"Yuni nuna has short hair. Very dark, very short — I thought she dyed it, but she says it's her natural color. Her eyes are big and her pupils are very clear. She's short and slight, yet she doesn't seem small. You only realize 'ah, nuna isn't that tall' when you're actually standing next to her. I think it's her presence — it's so large that her height doesn't register. Phantom would be paralyzed without her. Manager Han gets so anxious without Yuni nuna that Juhan hyung teases her about having separation anxiety."</p>
+
+<p>Morae sat beside me with her chin propped on her hand, eyes fixed with interest on the image of Yuni nuna I was completing. I was just finishing Yuni nuna's lip piercing with the ballpoint pen. I put two or three stars in the pupils, old cartoon style.</p>
+
+<p>"The two of them are like fraternal twins. More precisely — Juhan hyung feels like the male version of Yuni nuna, and Yuni nuna feels like the female version of Juhan hyung. But if I said that out loud, they'd probably hate it. They'd be angry, right?"</p>
+
+<p>I could already see and hear their displeased expressions — <em>How am I similar to him?</em> — so I drew a lightning bolt between the two figures and laughed to myself.</p>
+
+<p>"This is a complicated feeling."</p>
+
+<p>"What is?"</p>
+
+<p>Morae tilted her head, chin still propped on her hand, and narrowed her eyes at me.</p>
+
+<p>"Seeing how much Seo Ihyeon has grown makes me feel proud, but also a little wistful."</p>
+
+<p>I gave a faint, dismissive smile at her words, but I knew exactly what she meant. She was the one who, without any urging or persuasion, had opened the door to change for me — persistently and steadily, simply by being beside me — when I tried not to mingle with anyone outside of her and Yeehan hyung, finding even the smallest changes overwhelming.</p>
+
+<p>She did that not because I was her boyfriend's troublesome cousin, but simply because she was someone who couldn't treat another person's wound as lighter than her own just because it belonged to someone else. If anyone else had been in my place, she would have done the same.</p>
+
+<p>Without that steady, weighty warmth of someone with no blood tie to me — someone who owed me nothing — the current me wouldn't exist. It was a foundation she and Yeehan hyung had built over a long time.</p>
+
+<p>"You don't have to worry about me anymore."</p>
+
+<p>"Overflowing with confidence already? Thinking you've grown that much, huh?"</p>
+
+<p>Morae placed her hand on my shoulder and tapped it repeatedly. Her expression, swaggering like a thug about to shake me down, made me laugh.</p>
+
+<p>"It's not that I can do things well. It's that somehow they'll work out."</p>
+
+<p>If there was one thing that had changed most since coming to Seoul, that was it. I had tried to avoid stepping in any direction out of fear that something might change, but when I actually took a step, the world didn't crumble and I didn't transform into something else. Nothing like that happened.</p>
+
+<p>I looked at Morae and added, seeking her agreement.</p>
+
+<p>"That's how everyone lives, isn't it? Right?"</p>
+
+<p>"That's right. Nothing ever gives you enough time to wait until you're perfectly prepared. Whether it's time, or anything else."</p>
+
+<p>I applied her words to herself.</p>
+
+<p>I knew that the time she was spending here was not a completion or a destination for her. She wasn't someone who would reveal her anxieties to others, but she was likely still losing sleep over her next journey.</p>
+
+<p>"What about him? That Director of yours — what's he like?"</p>
+
+<p>She asked in a bright voice, shifting the atmosphere. The unexpected question made me pull back slightly and press my lips with the tip of the pen.</p>
+
+<p>"His cologne... he wears a remarkable one. A scent I'd never smelled before. Very unique."</p>
+
+<p>"Huh? That's it?"</p>
+
+<p>Morae looked disappointed. I laughed.</p>
+
+<p>But I honestly didn't know what other words to use to describe him. The color of his eyes, which seemed so mysterious to me as someone of pure Korean descent; his special constitution as a Golden Alpha; his exotic appearance; his unique way of running the gallery… Too many characteristics surfaced at once, yet none of them felt sufficient enough to define him.</p>
+
+<p>The image that surfaced the moment she asked was, amusingly, his scent.</p>
+
+<p>Yet that scent — which had so intensely seized my sense of smell — hovered at the tip of my nose like something just out of reach when I tried to recall it specifically. Impossible to pin down.</p>
+
+<p>I felt I could draw it, but it was impossible to express with a three-color ballpoint pen on a spiral notebook.</p>
+
+<p>A new group of customers entered "What Happened in Bali," and Morae briefly left her seat. I flipped through the notebook looking for a blank page to draw the Director for her. There weren't many left.</p>
+
+<p><em>Bali. Kuta. Surfing camp. 5th Anniversary Promotion. 1-year long-term program. 15 million won per person.</em></p>
+
+<p>My hand stopped at a brief memo that looked copied from somewhere. Each word was circled or underlined — traces of deliberation.</p>
+
+<p>Under the note "Condition: 2 or more persons," a scribbled comment read: "<em>Are they giving a discount because they only take groups of two or more?</em>" Two distinct handwriting styles were scattered across the page like doodles — Morae and Yeehan hyung must have discussed it over the notebook.</p>
+
+<p>A rough picture formed. It was information about a promotion at a surfing school in Kuta, Bali — a dramatically discounted price for groups of two or more on a one-year contract. The price likely covered everything: accommodation, lessons, all of it. I'd overheard enough of their conversations over the years that connecting the dots wasn't difficult.</p>
+
+<p>They were already quite advanced surfers, so the lesson fees alone would usually be considerable. For a one-year term including accommodation, it was definitely a steal. A long-term surfing trip had always been their dream, and spending a year in Bali would be the perfect opportunity to gauge what it would be like to settle there permanently.</p>
+
+<p>I glanced furtively at Morae's back. Watching her profile as she chatted cheerfully with what seemed like regulars, I was suddenly seized by fear.</p>
+
+<p>It had only been five minutes since I told her she didn't need to worry about me anymore, yet just imagining the parting felt desolate. Like standing alone in a desert at night, having lost everything.</p>
+
+<p>What snapped me out of my daze — standing there arms slack, mind blank, feeling like I needed to slap myself and try to navigate by stars if nothing else — was the name written in the corner of the notebook.</p>
+
+<p>Seo Ihyeon.</p>
+
+<p>And the circular border drawn over and over around that name.</p>
+
+<p>The name that always made them hesitate before a choice. Seo Ihyeon.</p>
+
+<p>Morae was collecting the menus after taking orders. I hurriedly turned the pages back.</p>
+
+<p>"They're regulars — they brought us gifts from their recent trip to Hong Kong. Try one."</p>
+
+<p>After relaying the order to Yeehan hyung in the kitchen, she set a tin box on the table. When she opened the lid with the teddy bear illustration, it was full of butter cookies.</p>
+
+<p>"Didn't your gallery mention a business trip to Hong Kong too? When was it again?"</p>
+
+<p>She picked up one of the cookies and sat back down beside me.</p>
+
+<p>A staff-wide business trip was scheduled around an art fair in Hong Kong in early July. Whether someone like me — practically an intern — would get to go hadn't been decided yet.</p>
+
+<p>"After this exhibition wraps up — so probably in two or three weeks. But I still don't know if I'll be going."</p>
+
+<p>"It would be great if you could. It's a good opportunity."</p>
+
+<p>"But wouldn't it be bad if there's a record of my entry and exit?"</p>
+
+<p>Morae finished the other half of her cookie, shoved her hands into her pockets, and stretched her legs out as she spoke.</p>
+
+<p>"Don't worry about that. It would be difficult to track someone's location with just an immigration record anyway... And honestly, if they wanted to find you right now, they probably could. The fact that there's been no news so far just means they're watching their timing. So just do what you want to do."</p>
+
+<p>She looked back at me and grinned.</p>
+
+<p>"The one Dad wants to track down and take his anger out on is me and Yeehan — you have nothing to do with this. No need to hold back."</p>
+
+<p>I just watched her profile. She reached into the box and brought a cookie to my lips. <em>Crunch.</em> I bit it in half; the other half disappeared into her mouth.</p>
+
+<p>"Mmm, it's good. Let's have it with coffee. It'd go perfectly with an americano."</p>
+
+<p>I followed Morae's back as she went behind the counter toward the coffee machine, clicking the pen in my hand compulsively.</p>
+
+<p>I wanted to say the same thing to them.</p>
+
+<p>That it was fine, that I'd manage somehow, that they no longer needed to hesitate in their choices because of me — to draw a line around the name Seo Ihyeon and be done with it. I wanted to say that to Yeehan hyung and Morae with confidence.</p>
+
+<p>Morae was someone who could stand up maintaining perfect balance even on precarious waves, but it had never been a reckless, "come what may" sort of thing. I didn't know anyone more genuinely devoted to life than her. Even if I hid my fear and said I was fine, I didn't think I could fool her.</p>
+
+<p><em>That this peace was nothing more than a sandcastle built at the edge of a beach where a wave could come at any moment. That my days now — working at Phantom surrounded by artworks and receiving a salary, living comfortably at Manager Han's place while studying illustration and Photoshop — were all built on the kind concern and understanding of people I was so grateful for.</em></p>
+
+<p>I drew a zigzag line over the sketch — the outline of the Director's face I'd been working on — and crossed it out.</p>
+
+<p>I needed to get a grip. For the sake of the people who, because they couldn't leave me alone, looked back at me even on the path they wanted for themselves. I needed to get a grip and move on my own two feet.</p>
+
+<p>Because I now clearly understood that choosing nothing would not preserve the present.</p>

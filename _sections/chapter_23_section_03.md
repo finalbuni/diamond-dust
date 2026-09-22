@@ -1,0 +1,430 @@
+---
+layout: chapter
+volume: "Volume 5"
+chapter_number: 23
+chapter_id: "V5.3"
+title: "Close Out"
+korean_title: "Close Out"
+hybrid_short: true
+section_number: 3
+section_count: 6
+permalink: /sections/chapter-23/3/
+excerpt_separator: "<!-- section-excerpt-end -->"
+---
+<p>Juhan, who had been listening in silence to the conversation flowing across the dinner table for some time, took a long pull from his beer, set the bottle down, and grimaced.</p>
+
+<p>"What are you talking about?"</p>
+
+<p>It was less displeasure than confusion — as if he hadn't fully grasped the meaning. Liu, seated directly across from him, avoided the question by lifting his glass and drinking his wine.</p>
+
+<p>"You're joking, right? How can you wrap everything up here and leave for New York in two weeks?"</p>
+
+<p>Juhan scoffed as if the idea were absurd and looked around at everyone seated at the table. When he realized no one would meet his eyes, his face stiffened.</p>
+
+<p>"What is this... Did everyone know except me?"</p>
+
+<p>"I only found out while I was on the business trip."</p>
+
+<p>"And you all just stayed quiet about it?"</p>
+
+<p>When Juhan snapped at Yuni, she lifted her head and glared back at him. Sensing the tension rising between them, Manager Han placed a hand on Juhan's shoulder and pressed down firmly.</p>
+
+<p>"Juhan, don't get emotional. This isn't the time for that. We set up this gathering to discuss things properly, and Yuni is hearing the details for the first time too."</p>
+
+<p>"......"</p>
+
+<p>He closed his mouth, but his expression remained defiant. His gaze wandered restlessly, as if he had been thrown into the middle of chaos. Liu looked down at Juhan's hand gripping the beer bottle so tightly his knuckles had gone white, then touched the slender neck of his wine glass and spoke in a strained voice.</p>
+
+<p>"Before the Chicago trip, both the business trip team and the joint exhibition team were completely swamped. I held off on bringing this up until after the trip because I was worried it would unsettle everyone further and make it impossible to focus on work. I hope you can understand the timing."</p>
+
+<p>"I can accept that you're telling us now. But leaving for New York in just two weeks... that's too sudden. Two weeks is..."</p>
+
+<p>"Too short to accept the separation and prepare for it?"</p>
+
+<p>"......"</p>
+
+<p>Picking up on Juhan's tendency to take things personally, Liu clenched his glass as if it might shatter and bit his lip. Then, making a conscious effort to soften his voice, he spoke again.</p>
+
+<p>"It's not always the best approach to wait patiently and keep working diligently. If you lack the judgment and drive to boldly seize an opportunity when it comes, Phantom wouldn't be what it is today."</p>
+
+<p>"......"</p>
+
+<p>Juhan stopped arguing, but the confusion and hurt were plain on his face. Looking at him — he resembled a child who had just been told his parents were divorcing — Liu pushed his plate aside, leaned his arms on the table, and leaned forward.</p>
+
+<p>"I'm not leaving to start another company. Phantom is expanding. This isn't something to be upset about. Once things stabilize there, I can create new opportunities for all of you too. Instead of struggling to adapt from the bottom at another gallery, you could work at Phantom's New York branch. Isn't that exciting?"</p>
+
+<p>"......"</p>
+
+<p>Despite Liu's efforts to lighten the mood, Juhan's expression didn't ease. Liu turned his attention to Yuni, who was seated at the head of the table.</p>
+
+<p>"Huh? Baek Yuni. I just said we're being called to New York. Cheer up, will you?"</p>
+
+<p>Her face was just as stiff as Juhan's. But she seemed deeply absorbed in her own thoughts.</p>
+
+<p>"I have something to say."</p>
+
+<p>At the tension in her voice, everyone's attention shifted to Yuni. Staring down at her empty plate, she continued in a calm, measured tone that nonetheless carried a tremor.</p>
+
+<p>"The Director went to the trouble of arranging this gathering and bringing up the New York branch... I feel like it would be dishonest to stay silent now, which is why I'm speaking up."</p>
+
+<p>She raised her head and slowly looked around at everyone.</p>
+
+<p>"I'm thinking of going to Paris."</p>
+
+<p>Liu lifted his glass and let the wine wash over his tongue. He had opened a good bottle for this important occasion, but he couldn't taste it. Staring down at the dark red liquid swirling in the glass, he spoke.</p>
+
+<p>"The Hands?"</p>
+
+<p>His voice was quiet — closer to confirming something already known than expressing surprise. Yuni looked at him with startled eyes for a moment, then, as if realizing it wasn't strange for him to know, changed her expression and nodded.</p>
+
+<p>"I received the offer when I was in Chicago. Unintentionally... the timing overlapped with the discussion about the New York branch, but that's not what solidified my decision."</p>
+
+<p>As if she didn't even understand why she was making excuses, Yuni smiled bitterly and bowed her head.</p>
+
+<p>For Manager Han and Juhan, who knew nothing of this, she briefly explained the situation in a calm but clearly strained voice. In truth, there was no need for a long explanation — the situation was clear.</p>
+
+<p>"No one thinks that accepting that offer means you're betraying Phantom."</p>
+
+<p>"Manager Han!"</p>
+
+<p>At Manager Han's words, Juhan grabbed her shoulder roughly and raised his voice. But he swallowed his next words when he met her composed gaze as she turned toward him.</p>
+
+<p>"This position was offered to you based on your hard work and everything you've built up. We know you've been working steadily because you wanted to work in a city where art is given more room to breathe. And if it's a global organization that doesn't borrow the identity of any single country or city — isn't that the best possible opportunity for you?"</p>
+
+<p>"......"</p>
+
+<p>Gently taking Yuni's arm, Manager Han looked deeply into her eyes, which were trembling with agitation.</p>
+
+<p>"You've been preparing for this all along. So why hesitate now that you've received a good offer? By working as hard as you have here since joining Phantom, you've fulfilled every obligation you owed them."</p>
+
+<p>At Manager Han's words, Yuni nodded — but her eyes still held a mixture of hesitation, guilt, and confusion.</p>
+
+<p>"Director, say something!"</p>
+
+<p>Juhan was far more agitated now than when he had heard that Liu and Ihyeon were leaving for the New York branch. Everyone in the room knew what Juhan and Yuni meant to each other — how the two of them, both cast out by their families, had leaned on one another throughout their shared history.</p>
+
+<p>It wasn't difficult to guess that Baek Yuni had found it difficult to bring this up with Juhan before making her decision. Though he was reacting now with shock and anger, Kwon Juhan would probably come to understand her feelings in time.</p>
+
+<p>"It's Yuni's life. What exactly do you expect me to say?"</p>
+
+<p>Knowing this, Liu deliberately poured cold water on Juhan's agitation — even more coldly than before.</p>
+
+<p>"It's because you're abandoning Phantom that Yuni is acting like this! It's your responsibility, so you need to fix it!"</p>
+
+<p>At Juhan's fierce accusation, Yuni raised her voice this time.</p>
+
+<p>"Kwon Juhan, what are you talking about? Do you really think I made this kind of decision out of some childish rebellion? That's not why I decided this. I don't even think the Director is abandoning Phantom."</p>
+
+<p>"Oh, really? Because to me, it looks like both you and the Director are abandoning it. What am I supposed to think?"</p>
+
+<p>Grinding his teeth and glaring, Juhan roughly pushed his chair back and stood up, snatching the jacket draped over the backrest.</p>
+
+<p>"Is this what all these years were for — just to end up receiving a done-deal announcement? If you were all going to claim sole ownership of your own lives like this... then why didn't you keep things strictly professional from the start? If this is how it was always going to be, why pretend to be friends... like family all this time?"</p>
+
+<p>No one could offer a plausible rebuttal to his words. Juhan's reaction was immature and emotional — but the people in that room, the people who had built this relationship together, couldn't use an objective standard to scold him and tell him to stop talking nonsense.</p>
+
+<p>Faced with the raw, unrefined cry of someone who wanted to believe that life is lived with precious others... they could not pretend to be adults, claiming in measured voices that life is ultimately each person's own burden — as if that were a bitter truth granted by time and experience.</p>
+
+<p>Liu spoke in a low, tightly controlled voice toward Juhan, who had picked up his phone and was turning to leave.</p>
+
+<p>"At least take the travel gift."</p>
+
+<p>Juhan glanced down at the shopping bag of miscellaneous souvenirs that had been handed out before the meal. Instead of picking it up, he looked at Ihyeon, seated next to Liu, and said forcefully, as if issuing a warning.</p>
+
+<p>"I told you, didn't I? He's not the type to try to stop you if you decide to leave. He might be kind and affectionate, but he never really tries to reach the deep parts, and he never lets anyone in either."</p>
+
+<p>"......"</p>
+
+<p>"Think carefully."</p>
+
+<p>Revealing the chill radiating from the raw surface of his wound, Juhan left the restaurant without looking back. Only after the sound of the door being deliberately slammed from the entrance beyond the living room faded did Liu exhale and rise from his seat.</p>
+
+<p>Feeling Ihyeon's gaze following his profile, Liu offered a stiff, awkward smile and briefly squeezed his shoulder. He did it hoping Ihyeon would feel reassured — but the eyes looking up at him still held concern.</p>
+
+<p>Liu gathered his cigarettes and lighter, walked to the window, leaned against the half-open frame, and lit up.</p>
+
+<p>Gazing at the three figures reflected in the glass — a mirror image of the room — he inhaled deeper and exhaled lower. The memory of all of them laughing and chatting over a barbecue in the garden just a few months ago felt like a lie. He shoved his free hand into his pocket and let out a dry, cynical chuckle.</p>
+
+<p>Ihyeon's figure in the dark glass, occasionally glancing his way, seemed like an elusive phantom. An image forms on the glass — but turn around, and it doesn't exist in the actual space.</p>
+
+<p>Thinking his sentimental imagination had grown disproportionately, Liu let out a brittle, mocking sound and pressed his forehead against the glass.</p>
+
+<p>In the silence where no one dared step forward, the sound of the front door opening and closing suddenly cut through the dining room. With a flicker of hope that Juhan had returned, everyone's gaze turned toward the entrance to the dining room.</p>
+
+<p>"Kwon Juhan stormed out looking completely furious. What's going on with him?"</p>
+
+<p>But it was Choi Inwu who appeared, shrugging his shoulders.</p>
+
+<p>"What are you doing here."</p>
+
+<p>Liu crushed the cigarette — barely half-smoked — and immediately showed an aggressive stance. The timing was terrible.</p>
+
+<p>"I was about to ring the bell when Kwon Juhan came rushing out. So I just came in?"</p>
+
+<p>"I didn't call for you. Why are you here?"</p>
+
+<p>"Just heard rumors you were back and hadn't heard from you, so I got curious. What? Problem?"</p>
+
+<p>Inwu looked up at Liu's face — scowling, leaning in close as if about to shove him at any second — and smirked provocatively. Then, spotting the three faces behind Liu's shoulder, he shook his head.</p>
+
+<p>"Hmm... seems like there is a problem. This isn't the Phantom overflowing with love and happiness, is it?"</p>
+
+<p>Manager Han, who had been lost in thought with her elbows on the table and a lightly clenched fist covering her mouth, stood up.</p>
+
+<p>"Let's go, Yuni. I'll give you a ride."</p>
+
+<p>Grabbing her trench coat and briefcase, Manager Han let out a heavy sigh before opening her mouth as if having made a decision.</p>
+
+<p>"If Director Liu says Phantom is his, I can't argue with that. But the fact that the others are shocked and hurt — Director Liu has to accept that. The owner made the decision, and since he insists on it, we'll proceed as instructed. But as someone who helped bring Phantom this far, this isn't a situation I can fully accept either."</p>
+
+<p>"I don't think of it as mine. If Manager Han hadn't come with me from Hong Kong, Phantom wouldn't exist."</p>
+
+<p>Standing near the dining room entrance behind her, Liu spoke while roughly running a hand through his hair as if disheveling it.</p>
+
+<p>"Yes, I don't doubt that. But fundamentally — and on paper — Phantom belongs to Director Liu. If we had taken more time and shown proper respect in preparing for this, no one would have had to get hurt. The reason it has to be pushed through like this, right now... honestly, I still don't fully understand it. You were never someone with that much ambition for success or influence. Or were there many things I didn't know about Director Liu?"</p>
+
+<p>Manager Han paused and looked down at Ihyeon for a moment. Hearing that Liu intended to take Ihyeon — one of Phantom's contracted artists who hadn't even officially debuted yet — to New York, Manager Han must have confirmed the nature of their relationship today.</p>
+
+<p>Guilt-ridden for keeping it secret, Ihyeon lowered his gaze — but Manager Han's eyes held not resentment but concern and worry. Staring at Ihyeon's bowed head across the table, Liu murmured weakly, like someone from whom all malice had been drained.</p>
+
+<p>"You can never know everything about anyone... Like Kwon Juhan said, I'm just someone who can't let anyone get too close."</p>
+
+<p>Ihyeon's face, unusually pale today, slowly turned toward him. Looking at that small face — trusting him, straining with everything it had to love him with a heart full of old wounds — Liu felt as though he were slowly sinking into an irredeemable abyss.</p>
+
+<p>"Then it shouldn't be surprising if there are things I haven't told anyone here either."</p>
+
+<p>He added this resignedly, his eyes and voice dull, then roughly shoved Inwu's shoulder and turned back toward the window to find his cigarettes.</p>
+
+<p>Manager Han's voice followed him.</p>
+
+<p>"Don't even think about dismissing Juhan's reaction as a matter of separating work and personal life. It's the result of Director Liu never treating the others as mere employees."</p>
+
+<p>Before following Manager Han out, Yuni placed a hand on Ihyeon's shoulder, and Ihyeon silently gripped her hand tightly.</p>
+
+<p>No one spoke until they heard the two of them leave the dining room, cross the living room, and disappear out the front door. All that remained under the table was the shopping bag of souvenirs they had left behind.</p>
+
+<p>"Isn't this Kyubei sushi? What a waste."</p>
+
+<p>Inwu collapsed into the seat Manager Han had occupied and looked around the table.</p>
+
+<p>The luxurious omakase sushi, specially prepared by a regular shop that didn't offer takeout, had been set out for dinner — but everyone had barely touched it. The food sat mostly untouched.</p>
+
+<p>"Just leave it."</p>
+
+<p>Liu stopped Ihyeon, who had hesitantly gotten up and picked up a plate, with a low voice. Ihyeon looked between Liu and Inwu, then quietly set the plate back down and smoothed his sleeve.</p>
+
+<p>"Then I'll... go downstairs."</p>
+
+<p>At the suggestion of going downstairs, Liu felt a wave of relief and was about to crush his cigarette in the ashtray when Inwu called out to Ihyeon as he turned to leave the dining area.</p>
+
+<p>"Ihyeon-ssi, how's your body feeling? It didn't get worse during the trip, did it?"</p>
+
+<p>"Yes... thanks to you...."</p>
+
+<p>Ignoring the precarious atmosphere, Inwu attempted casual conversation. Ihyeon gave an awkward expression and answered stiffly.</p>
+
+<p>Liu brought the cigarette he had been about to extinguish to his lips and took a deep, heavy drag. Involuntarily, a strong tension gripped the hand holding the window frame behind him.</p>
+
+<p>"You know psychosomatic conditions are harder to fully cure, right? If you lose your appetite or feel nauseous again, come to our hospital anytime. Even if I'm not there, I can see you personally for a consultation whenever you need it — so leave the medical advice to me. Okay?"</p>
+
+<p>"Yes, thank you...."</p>
+
+<p>Pretending not to notice Ihyeon's awkwardness, Inwu turned and took a sip of the wine someone had left unfinished on the table.</p>
+
+<p>"There was a major incident at our hospital while the two of you were away on business. After going through that, I really felt it — you truly never know when or where something might happen to a person."</p>
+
+<p>Holding the wine glass, Inwu turned back, resting his arm on the chair back, and smiled meaningfully, raising an eyebrow.</p>
+
+<p>"Always be careful, Ihyeon. There's no harm in being cautious."</p>
+
+<p>"......"</p>
+
+<p>Though he couldn't quite grasp the intent behind Inwu's quietly emphasized words, Ihyeon nodded with a puzzled expression. Then he looked toward Liu, standing by the window.</p>
+
+<p>Betrayed yet unaware of it, Liu groaned inwardly at the warm, worried light in those eyes looking at him. He stubbed out his cigarette carelessly and strode quickly toward him.</p>
+
+<p>"You must be tired. Go down and rest for a bit."</p>
+
+<p>He wrapped an arm around Ihyeon's shoulder and guided him out of the dining room. His mind was filled with nothing but the urgent need to separate him from Inwu as quickly as possible.</p>
+
+<p>Glancing back at Inwu, who sat at the table behind them, Ihyeon hesitated, clearly reluctant to leave the two of them alone together.</p>
+
+<p>"We'll have a drink together. It just so happens I'm in the mood to get drunk tonight, so this works out."</p>
+
+<p>It took considerable energy to act unfazed by Inwu's visit, even to play it off as a fortunate coincidence. Stroking the nape of Ihyeon's neck as he nodded understandingly, Liu played with his grown-out hair and whispered low. At the top of the stairs leading down to the studio, he gave him a brief kiss.</p>
+
+<p>Still clearly worried, Ihyeon glanced back at Liu several times as he descended, brushing the handrail. Liu leaned casually against the wall with his shoulder, watching him, and made a playful gesture of wiping away a tear. Only then did Ihyeon manage a faint smile.</p>
+
+<p>The moment Ihyeon disappeared from sight, Liu dropped the smile and crossed the living room at a rapid pace toward the dining room. He immediately lunged at Inwu, grabbing him by the collar and hauling him upright. The wine glass in Inwu's hand tipped over, spilling dark red liquid across the table — but Liu didn't notice.</p>
+
+<p>"What the hell are you doing?"</p>
+
+<p>"What am I doing?"</p>
+
+<p>Inwu didn't even try to shake him off — just lifted his chin.</p>
+
+<p>"You find this situation amusing, don't you?"</p>
+
+<p>"......"</p>
+
+<p>"Yeah, you must. Why wouldn't my restless, pathetic state be entertaining to you?"</p>
+
+<p>As if wanting to choke the breath from Inwu's throat in revenge for making him feel so suffocated, Liu tightened his grip and twisted the collar of his shirt further. His eyes gleamed with fear and madness in equal measure.</p>
+
+<p>"But, Choi Inwu. If Seo Ihyeon finds out because of you — whether by accident or on purpose — and everything falls apart... you won't be laughing then, will you? Huh?"</p>
+
+<p>He released the collar as if throwing Inwu away, shoved him aside, and stumbled back to the table, drinking wine straight from the bottle.</p>
+
+<p>"I heard rumors about the New York branch."</p>
+
+<p>"......"</p>
+
+<p>Wiping his mouth with the back of his hand, Liu turned back toward Inwu, who stood behind him looking prepared to do anything.</p>
+
+<p>"Quite an elaborate event for the man who promised to tell Ihyeon everything after returning from Chicago, wouldn't you say?"</p>
+
+<p>Seeing Liu's brows twitch and narrow, Inwu let out a slight smirk.</p>
+
+<p>"I'm not treated as highly as Shushu, but I'm still a Phantom artist. And while we might not be as close as you are with Manager Han, Manager Han and I are friends. Or was this supposed to be a secret?"</p>
+
+<p>In any case, how Choi Inwu had found out didn't matter. Liu brought the bottle to his lips again and tilted his head back to swallow more alcohol.</p>
+
+<p>Inwu pulled a thick wad of napkins from the holder at the center of the table and roughly pressed them over the spilled wine.</p>
+
+<p>"Everyone says it's strange that you're rushing the New York branch opening so much, worried that something might be wrong... but I think I know why. And it's not you I'm worried about. It's someone else."</p>
+
+<p>Liu set the near-empty bottle down loudly on the table, gripping the neck, and scoffed — as if the idea of anyone other than himself worrying about Ihyeon were laughable.</p>
+
+<p>"A patient who attempted suicide was rushed into the hospital."</p>
+
+<p>"......"</p>
+
+<p>Liu glanced back over his shoulder. Inwu had slumped heavily into his chair and was running his hands over his face several times.</p>
+
+<p>"It's a hospital that calls itself a general hospital but in practice sends all but the most critical patients elsewhere. But this patient was too critical for that."</p>
+
+<p>It was no longer the giggly or sarcastically provocative tone he'd used before. Liu turned fully around. Inwu's face was flushed red, and he looked somehow unsteady.</p>
+
+<p>"He had ingested pesticide."</p>
+
+<p>"......"</p>
+
+<p>"It was a relatively mild pesticide — the kind mainly used for home gardening. Because his mother found him immediately and rushed him to the hospital, his life was saved... but it was a nerve-wracking experience. It reminded me I was a doctor, for the first time in a long while."</p>
+
+<p>As if trying to shake off the dizzying memory resurfacing, Inwu forced his lips into a smile, but his eyes were saturated with fear.</p>
+
+<p>"Acephate isn't a lethally toxic compound compared to other pesticide ingredients, but the problem was the quantity he had ingested. We had to pump over 3,000cc of lavage solution into his stomach. His body temperature dropped from the fluid, and he was shaking all over."</p>
+
+<p>Blue veins stood out sharply on Liu's hand gripping the bottle. Surely Inwu hadn't sought him out at this specific moment just to unload the shock of the "major incident" that had occurred at the hospital while he was away on business.</p>
+
+<p>"She was twenty-four years old. About Yuni's or Juhan's age. Seemed young to be getting married, but the wedding was scheduled for a month away."</p>
+
+<p>"......"</p>
+
+<p>"To another Beta male."</p>
+
+<p>Liu's brow furrowed, and blue sparks seemed to fly from his eyes. He dropped the bottle, swept his hair back, then ran his hands roughly through it and snapped at Inwu.</p>
+
+<p>"Fuck, so what!"</p>
+
+<p>His voice wasn't loud — it sounded as if he were pulling the sound inward and swallowing it. But it was clearly a shout.</p>
+
+<p>Staring straight at Inwu, who was looking back up at him, Liu strained his eyes as if wanting to burn through them.</p>
+
+<p>"Too young to get married... but quite late to present as an Alpha."</p>
+
+<p>"......"</p>
+
+<p>Even standing still, his breathing was ragged, his broad shoulders heaving.</p>
+
+<p>Inwu twisted one corner of his mouth into a contemptuous smile.</p>
+
+<p>"You really never know what's going to happen."</p>
+
+<p>"It has nothing to do with us."</p>
+
+<p>Inwu shot to his feet and flung his resentment at Liu's retreating back as he tried to walk away from the situation.</p>
+
+<p>"You know what I felt looking at that patient? Why should I feel suffocated over the trashy shit you've done?!"</p>
+
+<p>Liu walked into the dark kitchen — lights off — and pulled a beer from the refrigerator, draining more than half of it on the spot like someone with a painful thirst. He tossed the can onto the wide island counter and leaned his head down, hands braced on the edge.</p>
+
+<p>"Did you think that taking him somewhere with no connections, and confessing everything there, would lower the odds of him abandoning you?"</p>
+
+<p>Inwu, standing before the counter, was clearly straining not to raise his voice, his face contorted. Liu turned his head and ran his tongue over his lower lip.</p>
+
+<p>"I poured a massive amount of money into this, hurt the Phantom family — all to open a gallery in New York, all for him. And now you're going to throw all of that away and leave? Are you trying to burden Ihyeon-ssi with that kind of responsibility?"</p>
+
+<p>"......"</p>
+
+<p>"Whatever reason you have for wanting to take him to New York, it seems like you have absolutely no intention of keeping the promise you made to me. If that happens, then I — who believed your word and got myself tangled up in this whole mess — end up looking like a bastard too, don't I?"</p>
+
+<p>Liu, who had been silently absorbing the criticism, finished the rest of the beer. Then he crushed the can in his hand and spoke.</p>
+
+<p>"I don't care what you think. Whether you become a bastard or trash to Seo Ihyeon — that matters even less."</p>
+
+<p>A sharp, blue gaze and a raw, unvarnished confession — so vivid it tasted of blood — flew toward Inwu, who let out a hollow laugh.</p>
+
+<p>"Yeah. Getting Seo Ihyeon out of here as soon as possible — that's the only thought in my head right now. In a place where he has no one but me — no, in a place where he has abandoned everything else and has nothing left but me — I'm going to beg and cling to him for forgiveness in the most desperate and pathetic way possible."</p>
+
+<p>"......"</p>
+
+<p>"What other means do I have left? Is there any dignified, conscientious way to clean this up now that it's come to this?"</p>
+
+<p>Liu, who had been pouring out words in a rapid torrent, suddenly shut his mouth. He stared down at the completely crushed, flattened can for a long moment, then threw it into the trash with a low curse.</p>
+
+<p>"Any right to be by his side in a just and upright way — I already threw that away with my own hands the night Seo Ihyeon was waiting for me in front of this house."</p>
+
+<p>He was talking about "that night" — the one Inwu neither knew nor could know. He was no longer conscious of his conversation partner. It sounded like resignation, like surrendering himself — and perhaps also like an excuse directed at Ihyeon, who wasn't there.</p>
+
+<p>Inwu, who had been standing by the dining table watching Liu's large silhouette motionless in the kitchen darkness, slowly walked toward him. He stepped through the open folding door frame separating the dining room and kitchen and entered the dim shadow.</p>
+
+<p>Standing across the counter from Liu, Inwu gripped the edge of the marble top and leaned forward.</p>
+
+<p>"Even if Seo Ihyeon completes the Changing into an Omega, he knows nothing about Alphas and Omegas. Knowing things in theory is useless."</p>
+
+<p>Inwu's tone had flattened, as if he had decided to stop provoking Liu emotionally. Instead it was now gentle, almost coaxing.</p>
+
+<p>"<em>The Ghost's instinct strongly drew me to you, and the Alpha's instinct stimulated the urge to become one with you...</em> No matter how much you say things like that — he can't understand it. He can't accept it. Even if his body has changed into an Omega, he has lived his entire life as a Beta, and his mind is still Beta. Having lived twenty years as an Alpha — you don't know that a Beta can never truly grasp the power of pheromones?"</p>
+
+<p>Liu, who had been silent and showing only his profile, turned his head and shot a look at Inwu.</p>
+
+<p>Perhaps Inwu wasn't wrong.</p>
+
+<p>Even though many Alphas and Omegas had risen into high society, the world still fundamentally revolved around Betas. In more open professional fields like the arts or entertainment, the situation was somewhat different — but unless they were Goldens, capable of regulating their pheromones to the point where Betas perceived them as nearly indistinguishable from Betas, the proportion of Alphas and Omegas entering politics was extremely low. That was true in any society.</p>
+
+<p>Movies, dramas, and commercials exaggerated and highlighted only the romanticized aspects of pheromones. Even in corporations owned by Alphas or Omegas, marketing inevitably targeted the purchasing power of Betas, their primary clientele.</p>
+
+<p>Alphas and Omegas who couldn't control their sexual urges. Underdeveloped beings who used pheromones to enjoy animalistic and promiscuous sex. Dangerous elements, essentially carrying legal narcotics...</p>
+
+<p>Outside of romance films, the image of Alphas and Omegas portrayed to ordinary Betas remained at that level — and having lived in that world until now, Liu knew well that it was nearly impossible to make a Beta understand the actual power and function of pheromones, which tilted toward neither romanticism nor danger.</p>
+
+<p>But for the same reason, Inwu could not understand the Ghost's powerful instinct pulling him toward his "Diamond Dust" — toward Ihyeon. Choi Inwu would understand even less about Marcus's remark: that it would be even harder to resist if he were also drawn to his human charm itself, and loved him spiritually.</p>
+
+<p>A Beta, a regular Alpha or Omega, or even a superior Golden close to perfection — no one could understand it.</p>
+
+<p>Something that slipped through the thick, solid defensive walls he had built as a Golden... like a ghost.</p>
+
+<p>Just as no advanced science can stop the changing of seasons from summer to autumn, or halt the sunrise at the end of night and the fiery sunset at the close of day — an existence he could not ignore or resist.</p>
+
+<p>Bending over the counter with both arms braced, Liu rubbed his face as if crushing it with one hand and spoke in a voice heavy with exhaustion.</p>
+
+<p>"Seo Ihyeon isn't just a Beta."</p>
+
+<p>"Then what is he?"</p>
+
+<p>"......"</p>
+
+<p>Liu said nothing. But the look he gave Inwu made it clear — not that he didn't know the answer, but that he knew it and had no intention of saying it.</p>
+
+<p>"Have him get a thorough examination first — see how far it's progressed. If the Changing is only around twenty percent, we can stop it now. There's a way to stop it and go back as if nothing happened."</p>
+
+<p>Liu let out a hollow, disbelieving scoff, his shoulders trembling faintly. Then he leaned back against the counter, crossing his arms, and looked at Inwu sideways.</p>
+
+<p>"Go back? Where?"</p>
+
+<p>His eyes looked faded, as if the color had been bleached out of them. His deep-set gaze narrowed, like someone standing under a harsh midday sun. Meeting those dull, ashen eyes — where all the blue vitality had long since evaporated and gray ash seemed to drift — Inwu spoke quietly.</p>
+
+<p>"You said it yourself — that it would be impossible to show restraint next to Ihyeon. I suppose that means going back to before you met him."</p>
+
+<p>Liu pushed himself off the counter, stepped back into deeper shadow — away from the faint light seeping from the dining room — and shook his head slowly.</p>

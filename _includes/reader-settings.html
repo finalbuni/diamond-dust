@@ -45,5 +45,16 @@
         <input id="reader-line-height" class="reader-range" type="range" min="1.4" max="1.8" step="0.1" value="1.6">
     </div>
 
+    {% if page.chapter_number %}
+    <div class="reader-setting-group hybrid-settings-group">
+        <div class="reader-setting-heading"><label for="hybrid-settings-format">Reading format</label></div>
+        <select id="hybrid-settings-format" class="hybrid-settings-select" aria-label="Reading format">
+            <option value="full" {% unless page.hybrid_short %}selected{% endunless %}>Full chapter</option>
+            <option value="short" {% if page.hybrid_short %}selected{% endif %}>Short sections</option>
+        </select>
+    </div>
+    {% endif %}
+
+
     <button type="button" class="reader-reset" data-reader-reset>Reset reading settings</button>
 </section>

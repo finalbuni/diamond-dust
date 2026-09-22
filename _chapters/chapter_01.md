@@ -5,8 +5,10 @@ chapter_number: 1
 chapter_id: "V1.1"
 title: "Paddling"
 korean_title: "패들링"
+permalink: /chapters/chapter-01/
+excerpt_separator: "<!-- section-excerpt-end -->"
 ---
-
+<div id="section-1" class="hybrid-section" data-section="1">
 <!-- Chapter 1 — Paddling -->
 
 <p>It was a clean cutback.</p>
@@ -136,9 +138,9 @@ korean_title: "패들링"
 <p>And then, miraculously, she stood up on that fragile white foam, which looked like it could vanish at any moment.</p>
 
 <p>No matter how many times I watched, or how many years passed, it was always an astonishing sight.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-2" class="hybrid-section" data-section="2">
 <p>The fish market was chaotic, preparing for the evening boats that would soon arrive. Near a few vessels that had come in slightly early, auctions were already underway. Perhaps because the weather had warmed up, quite a few tourists were visible as well. The shops selling iceboxes and ice buzzed with activity.</p>
 
 <p>Near the very end of the pier leading to the breakwater, I sat perched on a low concrete mooring pillar, looking out to sea.</p>
@@ -192,9 +194,9 @@ korean_title: "패들링"
 <p>His hands, plunging fearlessly into piles of fish with mechanical precision as he prepared for the next auction, were tough and thick, as if incapable of feeling any emotion or pain.</p>
 
 <p>My own soft hands, which had never once gutted a fish, suddenly felt tainted with guilt — like hands stained with blood after stabbing someone — and I quietly tucked them into my jacket pockets.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-3" class="hybrid-section" data-section="3">
 <p>Grandfather said he would kill Yeehan.</p>
 
 <p>He slammed the floor with a long pole kept in one corner of the yard, screaming that anyone who acted up without knowing their place and dragged their parents' name through the mud deserved to be beaten to death.</p>
@@ -300,9 +302,9 @@ korean_title: "패들링"
 <p>Grandfather's curses had now shifted toward the two of us — calling us heartless wretches who wouldn't even glance outside despite the chaos erupting in the household, whether son or grandson.</p>
 
 <p>I was worried about Morae nuna and whether she was all right, but I couldn't even send a single message — afraid that reaching out might give my family yet another reason to come at us.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-4" class="hybrid-section" data-section="4">
 <p>"Seo Ihyeon. Seo Ihyeon, wake up."</p>
 
 <p>I didn't know when I'd fallen asleep. I was curled up on the bare floor, still wearing the clothes I'd had on at the harbor.</p>
@@ -366,9 +368,9 @@ korean_title: "패들링"
 <p><em>Where are you going? Don't go.</em></p>
 
 <p>Father never said anything in the end.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-5" class="hybrid-section" data-section="5">
 <p>The interior of the antique vintage display cabinet was overflowing.</p>
 
 <p>Our policy was to arrange the contents exactly as they appeared in the photographs we took before removing the items, unless the client specified otherwise — but even being generous about it, the state of the cabinet in those photos could only be described as a mess. Regardless of how high-end the collectibles were, their display condition was extremely poor.</p>
@@ -490,3 +492,4 @@ korean_title: "패들링"
 <p>From beneath the brim of my pulled-down cap, I raised my eyes to confirm the face of the client who had called my name precisely. It was the first time I had properly looked at her that day.</p>
 
 <p>She had been a figure I'd consigned to the far edges of memory, to the backstage of my life. Now, without warning, she had stepped back to center.</p>
+</div>

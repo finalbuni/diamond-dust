@@ -23,7 +23,7 @@
 
 <body class="chapter-body" data-page-type="chapter" data-chapter-number="{{ page.chapter_number }}" data-chapter-title="{{ page.title | escape }}">
     
-    {% include reader-survey.html %}
+    {% include site-update-banner.html %}
 
     <div class="reading-progress" aria-hidden="true">
         <div class="reading-progress-bar"></div>
@@ -70,15 +70,48 @@
     {% endif %}
 </header>
 
-<p class="chapter-reading-time">
-    {% include reading-time.html content=content %}
-</p>
+{% assign hybrid_num = page.chapter_number | plus: 0 %}
+{% if hybrid_num < 10 %}{% assign hybrid_slug = hybrid_num | prepend: '0' | prepend: 'chapter-' %}{% else %}{% assign hybrid_slug = hybrid_num | prepend: 'chapter-' %}{% endif %}
+{% assign hybrid_full_path = hybrid_slug | prepend: '/chapters/' | append: '/' %}
+{% assign hybrid_short_path = hybrid_slug | prepend: '/sections/' | append: '/' %}
+{% assign hybrid_next_num = hybrid_num | plus: 1 %}
+{% if hybrid_next_num < 10 %}{% assign hybrid_next_slug = hybrid_next_num | prepend: '0' | prepend: 'chapter-' %}{% else %}{% assign hybrid_next_slug = hybrid_next_num | prepend: 'chapter-' %}{% endif %}
+{% assign hybrid_next_chapter_path = hybrid_next_slug | prepend: '/chapters/' | append: '/' %}
+{% if page.chapter_number %}
+<div class="hybrid-meta">
+  <p class="chapter-reading-time">{% include reading-time.html content=content %}</p>
+  <label class="hybrid-format-label" for="hybrid-format">Read in
+    <select id="hybrid-format" aria-label="Reading format" data-full-url="{{ hybrid_full_path | relative_url }}" data-short-base="{{ hybrid_short_path | relative_url }}" data-current-section="{% if page.hybrid_short %}{{ page.section_number }}{% endif %}">
+      <option value="full" {% unless page.hybrid_short %}selected{% endunless %}>Full chapter</option>
+      <option value="short" {% if page.hybrid_short %}selected{% endif %}>Short sections</option>
+    </select>
+  </label>
+</div>
+{% if page.hybrid_short %}<p class="hybrid-section-label">Section {{ page.section_number }} of {{ page.section_count }}</p>{% endif %}
+{% else %}
+<p class="chapter-reading-time">{% include reading-time.html content=content %}</p>
+{% endif %}
 
 <div class="chapter-content">
     {{ content }}
 </div>
         </article>
 
+        {% if page.hybrid_short %}
+        <nav class="chapter-navigation" aria-label="Section navigation">
+            {% assign previous_section = page.section_number | minus: 1 %}
+            {% assign next_section = page.section_number | plus: 1 %}
+            {% if previous_section > 0 %}<a class="chapter-nav-link chapter-nav-previous" href="{{ hybrid_short_path | append: previous_section | append: '/' | relative_url }}">← Previous section</a>{% elsif hybrid_num > 1 %}
+            {% assign hybrid_previous_num = hybrid_num | minus: 1 %}
+            {% assign hybrid_previous_chapter = site.chapters | where: 'chapter_number', hybrid_previous_num | first %}
+            {% assign hybrid_previous_sections = site.sections | where: 'chapter_number', hybrid_previous_num %}
+            {% assign hybrid_previous_count = hybrid_previous_sections.size %}
+            {% if hybrid_previous_num < 10 %}{% assign hybrid_previous_slug = hybrid_previous_num | prepend: '0' | prepend: 'chapter-' %}{% else %}{% assign hybrid_previous_slug = hybrid_previous_num | prepend: 'chapter-' %}{% endif %}
+            <a class="chapter-nav-link chapter-nav-previous" href="{{ hybrid_previous_slug | prepend: '/sections/' | append: '/' | append: hybrid_previous_count | append: '/' | relative_url }}">← Previous chapter</a>{% else %}<span class="chapter-nav-placeholder"></span>{% endif %}
+            <button class="chapter-index chapter-drawer-trigger" type="button" aria-controls="chapter-drawer" aria-expanded="false">Chapters</button>
+            {% if next_section <= page.section_count %}<a class="chapter-nav-link chapter-nav-next" href="{{ hybrid_short_path | append: next_section | append: '/' | relative_url }}">Next section →</a>{% elsif hybrid_next_num <= 34 %}<a class="chapter-nav-link chapter-nav-next" href="{{ hybrid_next_slug | prepend: "/sections/" | append: "/1/" | relative_url }}">Next chapter →</a>{% else %}<span class="chapter-nav-placeholder"></span>{% endif %}
+        </nav>
+        {% else %}
         <nav class="chapter-navigation" aria-label="Chapter navigation">
             {% assign current_chapter = page.chapter_number | plus: 0 %}
             {% assign previous_number = current_chapter | minus: 1 %}
@@ -116,6 +149,7 @@
                 <span class="chapter-nav-placeholder"></span>
             {% endif %}
         </nav>
+        {% endif %}
     </main>
 
     {% include site-footer.html %}
@@ -131,6 +165,7 @@
         </div>
     </aside>
 
+
     <a href="#" class="scroll-top-button" aria-label="Back to top" title="Back to top">↑</a>
 
     {% include mobile-reader-menu.html %}
@@ -139,6 +174,7 @@
     {% include reader-settings.html %}
 
     <script src="{{ '/assets/js/reading.js' | relative_url }}"></script>
+    <script src="{{ '/assets/js/hybrid.js' | relative_url }}" defer></script>
     {% include cookie-consent.html %}
 </body>
 

@@ -1,0 +1,192 @@
+---
+layout: chapter
+volume: "Volume 6"
+chapter_number: 26
+chapter_id: "V6.2"
+title: "Price of Silence"
+korean_title: "침묵의 대가"
+hybrid_short: true
+section_number: 3
+section_count: 10
+permalink: /sections/chapter-26/3/
+excerpt_separator: "<!-- section-excerpt-end -->"
+---
+<p>A monsoon season that wasn't much of one. The dry spell — oppressively humid with barely a proper downpour to show for it — had already passed by early July, and now they were saying a typhoon was on its way; the sound of raindrops striking the window was solid and insistent.</p>
+
+<p>Liu, who had been sorting through the books, art collections, printed reports, and pamphlet samples scattered around the room to select what to take home, paused and turned at the sound of a brief commotion outside the open door behind him. Choi Inwu, carrying shopping bags full of lunch boxes in both hands, was being greeted with enthusiastic cheers.</p>
+
+<p>Liu chuckled at the staff's reaction, unsure whether they were welcoming Inwu or the lunch boxes. Then he set down the Nyoman Gunarsa art book he had been quickly flipping through on top of the pile of already-selected items.</p>
+
+<p>Even though the New York branch opening had been canceled, they had gone ahead and hired the director they had already decided on — so despite Yuni nuna's departure, Phantom had ended up with two more employees than before.</p>
+
+<p>Thanks to this, Liu found himself working more often from his own room at the very back of the office, a space that hadn't seen much use before. Sitting behind the large desk with a sofa set in front of it, the physical distance it created between him and the rest of the staff wasn't his preferred arrangement, but he did find having time alone more comfortable.</p>
+
+<p>Honestly, the kind of fervor that had them sticking together even after hours when Phantom first opened — getting to know each other personally, building affection — was long gone. There were no longer any staff members who would barge in on a holiday morning insisting on using his home garden as a filming location. The 'Old Future' website was still active, and Yuni nuna's posts about her life in Paris were sporadically updated, but clothing sales had been discontinued for nearly a year now.</p>
+
+<p>It wasn't that the affection for Phantom or the passion for the work had cooled. It simply seemed like something he had to accept — that a certain period had passed, and these things were bound to become memories steeped in wistful nostalgia and tender feeling.</p>
+
+<p>"Everyone seemed really excited. I heard they're all going out for drinks after work?"</p>
+
+<p>Inwu entered the room, gesturing toward the office area with his chin as he placed his and Liu's lunch boxes on the coffee table. Liu set down what he was doing and helped open the boxes. Even at a glance, the lunch boxes — packed with at least five or six side dishes — were impressively arranged. No wonder the staff had cheered.</p>
+
+<p>"Why are you grinning like that again?"</p>
+
+<p>As Liu took two small water bottles from the refrigerator, the look on Inwu's face — glancing over and smiling to himself — bothered him, so he stopped before handing him a bottle and nudged his shoulder instead.</p>
+
+<p>"They don't even invite you anymore these days?"</p>
+
+<p>"Sorry to disappoint, but I have an early flight tomorrow morning, so I declined."</p>
+
+<p>Liu tossed him his water bottle, dropped onto the sofa, and twisted the cap off his own.</p>
+
+<p>"This is the first time the entire gallery has closed for two full weeks, isn't it?"</p>
+
+<p>"Last year… we couldn't even give you a proper vacation."</p>
+
+<p>Liu paused, his gaze briefly drifting away — clearly reluctant to bring up this time last year — then took a sip from his water bottle.</p>
+
+<p>This year, too, he had attended the same Hong Kong art fair as last year. They had gotten through it without any major issues with the new members, and the results were better than the previous year — commensurate with a year of growth. But now, for Liu, Hong Kong — at least Hong Kong during that particular stretch of time — was filled entirely with memories of Ihyeon.</p>
+
+<p>A time when they still knew far more about what they didn't know about each other than what they did; when they would steal glances and probe, interpreting the other's intentions through their own biases, sometimes feeling arbitrarily disappointed or passing quiet judgment for reasons they couldn't quite identify — yet ultimately being unable to look away from that person.</p>
+
+<p>The sensation of that body reaching out to look at photos, brushing against his chest. The single gaze exchanged through the smoke of a cigarette he had claimed never to have smoked before. Moments when he'd had to bite down gently on his lip. Back then, he'd tried not to look too closely, and even if he had noticed things, he would have just laughed them off and refused to acknowledge them. But there was still the memory of a quiet young man who kept stoking an undeniable curiosity — and the memory of that pull.</p>
+
+<p>It was also the memory of ripples spreading outward in layers, chasing his scent, whenever Ihyeon's fingertips grazed the surface of pheromones that had been still and stagnant for so very long.</p>
+
+<p>Liu puffed out his cheeks, let out a slow breath, set down his water bottle, and picked up his chopsticks. Inwu, who had come straight from an unusually late hospital shift, was already scooping up a spoonful of brown rice as if he were famished.</p>
+
+<p>"I got a week off in the middle of your vacation too. Would it be all right if I used your mother's studio in Gangwon-do then?"</p>
+
+<p>"If you're bringing someone, I wouldn't really recommend it. It's not the glamorous, sophisticated kind of place the people you casually date would expect."</p>
+
+<p>Inwu's chopsticks, which had been lifting a piece of japchae, slowed. Then, still hunched over his lunch box, he simply turned his head and looked up at Liu with a displeased expression.</p>
+
+<p>"I'm not asking to borrow it for that kind of thing."</p>
+
+<p>Liu shrugged at the aggrieved Inwu and pretended not to notice as he broke off a corner of the tteokgalbi with his chopsticks.</p>
+
+<p>"Even when I want to focus on my work, I never seem to get as much time as I think I will. I'm just going to paint during the vacation. I envy full-time artists sometimes."</p>
+
+<p>"……"</p>
+
+<p>"Ah… if it weren't for the hospital, I'd apply to 'The Hands' too."</p>
+
+<p>At the mention of painting through his entire vacation, Liu had glanced over at Inwu — but now he shifted his gaze back to the tteokgalbi. The broken piece of food, however, couldn't quite seem to make its way to his mouth.</p>
+
+<p>"Already starting preparations for the second half's joint exhibition? You've changed, Choi Inwu."</p>
+
+<p>"No — I'm preparing for a solo exhibition."</p>
+
+<p>"……"</p>
+
+<p>This time, Liu's chopsticks stopped completely.</p>
+
+<p>Inwu clearly possessed talent and a thirst to pour his emotions out through painting — yet until now, he had treated his art like someone maintaining a careful distance, afraid of sinking too deep, having already drawn a quiet line between himself and the person he had loved from afar with little hope.</p>
+
+<p>Although his output had increased and his style had gradually been shifting since late last year, Liu had never expected to hear Inwu — who had always worked in spare moments and typically presented just two or three pieces at joint exhibitions — say he wanted to hold a solo show.</p>
+
+<p>"You're not thinking of putting together a solo with just two or three pieces, are you? Do you even have any works set aside?"</p>
+
+<p>Rather than dwelling on each of those changes, Liu asked in an offhand, no-big-deal tone.</p>
+
+<p>"That's exactly why I'm skipping the group exhibition in the second half of the year. I'm going to focus with my solo show in early next year as the goal."</p>
+
+<p>"I'm against just filling the numbers for the sake of having a solo exhibition."</p>
+
+<p>"That's the very last thing I want."</p>
+
+<p>Not long after Liu returned from New York, Inwu had come to see him first.</p>
+
+<p>Quite a bit of time had already passed by the time Ihyeon learned of the situation, but they didn't not know each other well enough to require each word and action to be explained from scratch. Still, Inwu had done something uncharacteristic — he had carefully picked out his own faults and offered a formal apology.</p>
+
+<p>Regarding the words that had been too aggressive and too wounding, delivered as though he were a detached and objective judge passing sentence on the Changing.</p>
+
+<p>Although mixed with heightened emotion, Liu also thought that what Inwu and Shushu had said wasn't fundamentally wrong. But he couldn't be so lenient about the kiss with Ihyeon…</p>
+
+<p>"That's something you should apologize to Seo Ihyeon for, not me. If Seo Ihyeon has forgiven you, that's where it ends."</p>
+
+<p>Perhaps, by playing it so cool — what he had meant was that even if Ihyeon had forgiven Inwu, Liu shouldn't expect the same forgiveness to extend to himself.</p>
+
+<p>Once Inwu had completely emptied himself of the courage he had come with, Liu offered him coffee. Although his own lunch box was still half full, he brewed enough for two. While the coffee dripped, he leaned against the cabinet holding the coffee maker and looked out at the rain still coming down steadily outside.</p>
+
+<p>This rain wouldn't last all night, and from what he had checked earlier, it wasn't a typhoon with particularly threatening wind speeds. Tomorrow morning's flight would probably be fine.</p>
+
+<p>"You're really not going to tell Ihyeon…?"</p>
+
+<p>"……"</p>
+
+<p>Liu uncrossed his arms and turned back to Inwu, who was looking at him with a firm, unyielding expression that demanded a real answer. Liu showed no particular reaction, turned back around, and divided the freshly brewed coffee between two mugs.</p>
+
+<p>Inwu took his mug from Liu and cupped it in both hands. Perhaps it was the air conditioning cranked up high on account of the humidity, but even in the height of summer, the warmth coming through the mug seemed to be welcome.</p>
+
+<p>"Ihyeon also has the right to know what kind of being he is."</p>
+
+<p>"Without a Ghost beside him, Diamond Dust is just an ordinary Beta."</p>
+
+<p>Liu took a sip of coffee, set the mug down on the table, stood up, and walked over to his desk. He picked up the remote to adjust the air conditioner temperature and continued.</p>
+
+<p>"Right now, just managing his work abroad must already be overwhelming enough. What's the point of deliberately throwing him into confusion over something he doesn't need to worry about yet?"</p>
+
+<p>"Don't you want to see Seo Ihyeon, who is twenty-three now?"</p>
+
+<p>"……"</p>
+
+<p>Liu turned back toward Inwu, who had shifted the conversation so abruptly. He let out a dissatisfied sigh, gave a shrug, then picked up the mug he had left on the coffee table and returned to his desk, beginning to sort through the pile of materials stacked there.</p>
+
+<p>Inwu watched Liu's profile for a long moment — who was occasionally bringing the mug to his lips as if remembering it was there — then finally let his expression soften, let out a quiet laugh, and stood up from his seat.</p>
+
+<p>"I asked a foolish question. Have a good vacation."</p>
+
+<p>Whatever those around him understood about his longing for Ihyeon, or however they interpreted his silence and refusal to reach out, Liu himself was not trying to forget Ihyeon. Nor had he given up on him. He was even less trying to stop loving him.</p>
+
+<p>He simply knew that now was not the right time. As he had told Ihyeon, he would guard his truth and wait for the right moment.</p>
+
+<p>Just as he was nearly finished dividing the sorted materials between a shopping bag and a briefcase, someone knocked on the open door. It was Juhan.</p>
+
+<p>Liu glanced over and gestured for him to come in. Juhan approached with an uncharacteristic hesitance and held out a file.</p>
+
+<p>"What is this?"</p>
+
+<p>"Well… I suppose you could call it a kind of business proposal."</p>
+
+<p>Liu glanced at Juhan — who was scratching his cheek with one finger to hide his embarrassment while deliberately keeping his expression light and playful — and took the file.</p>
+
+<p>It was a proposal with the rather bold and ambitious title: <em>A Proposal for Phantom's Future: Achieving a 30% Increase in Annual Visitors!</em></p>
+
+<p>"You said you'd support us if we showed initiative. So I thought about it — a way for Phantom to transform from a place that exhibits art as a luxury reserved for a select few, into a friendly space where the public can embrace art as part of their daily lives. Of course… the Director might not love the idea of customers wandering through the gallery just to drink coffee, but the era of high-nosed art is long over. If the public engages with art more often like this…"</p>
+
+<p>"Did you show this to Manager Han?"</p>
+
+<p>"Huh? Yes."</p>
+
+<p>Liu quickly skimmed the proposal where he stood. It seemed quite plausible — with comparable case studies, budget estimates if approved, and projected revenue figures.</p>
+
+<p>Liu tightened his lips, suppressing a smile that threatened to surface, and slipped the file into his briefcase alongside the other documents.</p>
+
+<p>"Alright, I'll think about it during my vacation."</p>
+
+<p>"……Yes?"</p>
+
+<p>"I said I'll review it and give you an answer."</p>
+
+<p>"Oh… yes. Thank you…"</p>
+
+<p>Juhan had apparently prepared an impassioned rebuttal, fully expecting to be turned down on the spot — so Liu's response that he would actually consider it left him looking more stunned than pleased. He was like someone who had braced for a fight only to be met with an embrace.</p>
+
+<p>"Director, thank you for the business class seat."</p>
+
+<p>Only once he had reached the door did Juhan turn back and call out, as if he had nearly forgotten.</p>
+
+<p>"Bring me back a gift."</p>
+
+<p>"And thank you for the allowance, too."</p>
+
+<p>Liu nodded as he zipped up his briefcase — packed so full there wasn't room for even one more sheet of A4 paper. Juhan, leaning against the doorframe and fiddling with the doorknob, said in a voice that made no particular effort to sound casual, as if it were nothing at all.</p>
+
+<p>"I'll go buy Ihyeon something good to eat."</p>
+
+<p>"……"</p>
+
+<p>Liu finally went still and leaned back against his desk. Rain continued to stream down the window straight ahead. He could hear the faint stir of employees leaving the office, their voices bright with excitement about the long vacation ahead.</p>
+
+<p>He looked up at the ceiling and drew a breath, wetting his lips with his tongue. Then he looked down at the floor and exhaled. Without lifting his head, he turned to the side, and his hair fell forward, covering his eyes. He picked up his mug with his long fingers. He had adjusted the air conditioner to a warmer setting a little while ago — but the coffee had gone completely cold.</p>

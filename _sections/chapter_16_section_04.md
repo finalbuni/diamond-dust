@@ -1,0 +1,102 @@
+---
+layout: chapter
+volume: "Volume 3"
+chapter_number: 16
+chapter_id: "V3.4"
+title: "Change"
+korean_title: "변화"
+hybrid_short: true
+section_number: 4
+section_count: 6
+permalink: /sections/chapter-16/4/
+excerpt_separator: "<!-- section-excerpt-end -->"
+---
+<p class="sub-chapter"><strong>· Suppression ·</strong></p>
+
+<p>A weekday evening.</p>
+
+<p>The man stopped his car in front of a pharmacy on his way home. He stalled for a moment, smoking a cigarette, then seemed to make up his mind — hurriedly stubbing out the half-smoked cigarette in the ashtray and stepping out.</p>
+
+<p>Though it probably wasn't necessary to go this far, he had deliberately chosen a neighborhood with no connection to either his workplace or his home, somewhere he had no usual reason to visit. He entered the largest pharmacy among several located in front of a mid-sized general hospital.</p>
+
+<p>A plastic sign outside indicated the pharmacy was open until 10 p.m., but though it had only just turned eight, the inside was quiet.</p>
+
+<p>"Welcome."</p>
+
+<p>Instead of the casually dressed middle-aged man sitting with his back to the entrance, absorbed in a computer screen, a pharmacist in a white coat emerged from the dispensary in the back. She appeared to be in her early to mid-thirties, and replaced a question of what he needed with a gentle smile.</p>
+
+<p>The man was strikingly handsome with an exotic air rarely seen, and tall with a powerful build that drew attention even from a distance where his features weren't clearly visible — but he looked anxious, as though someone were chasing him.</p>
+
+<p>Still, she waited patiently.</p>
+
+<p>Judging by his clothing, where refined taste seemed to seep through effortlessly, and from the polished manners revealed even in the smallest unconscious movements, the man didn't appear to be a desperate criminal driven to robbery by financial ruin.</p>
+
+<p>Patients who came to pharmacies for conditions they found difficult to discuss were far more common than people tended to think. Even ailments as medically ordinary as athlete's foot or hemorrhoids could be difficult for patients to bring up.</p>
+
+<p>But the man's hesitation — even after stepping up to the counter with a tense expression — stemmed not from shame he wanted to hide from others, but from a humiliation he felt toward himself.</p>
+
+<p>And yet he had no choice. He forced his reluctant lips open.</p>
+
+<p>"I'd like to purchase... suppressants."</p>
+
+<p>"Certainly. May I see your identification?"</p>
+
+<p>Despite the man's clearly unusual demeanor, the pharmacist maintained a purely professional attitude. That response offered him a small measure of relief. He was grateful she hadn't glanced at him as though he were a beast, assuming he was an Alpha in rut. If she had, this would have been even more agonizing — particularly since he wasn't in rut.</p>
+
+<p>After confirming the Alpha designation on his ID, she returned it to him and asked,</p>
+
+<p>"If you usually take a specific brand, shall I give you that one?"</p>
+
+<p>He shook his head.</p>
+
+<p>"No. I don't have a particular one."</p>
+
+<p>Turning briefly away, the pharmacist scanned the shelves behind her, then set a paper box on the counter — its design emphasizing luxury through deep green and gold.</p>
+
+<p>"This is the one most people ask for."</p>
+
+<p>Pushing the box back toward her, the man said in a low, firm voice.</p>
+
+<p>"I've already tried this one. I'm looking for something stronger."</p>
+
+<p>The man had already purchased and taken suppressants from another pharmacy.</p>
+
+<p>Suppressants. The entirety of the man's experience with them amounted to a brief period as a supplementary measure during the early stages of his second puberty — the distant days of his boyhood. As a Golden Alpha, he had never needed them, and because he refused to become a beast that had to manage his urges with medicine, he had pushed himself all the harder to perfect himself as a Golden Alpha.</p>
+
+<p>But the suppressants he'd sought out again after nearly twenty years had almost no effect. At first, he thought there might be some slight result, but the moment "he" began to show sexual desire toward him, they quickly became useless.</p>
+
+<p>"As you know, an Omega's heat follows a somewhat regular cycle due to hormonal action, making fundamental suppression more stable — but an Alpha's rut is highly volatile, triggered by their own libido or stimulation from an Omega's pheromones. So even a suppressant can only work to dull the sense of smell to some extent."</p>
+
+<p>The pharmacist explained with a somewhat apologetic expression.</p>
+
+<p>The man already knew this well.</p>
+
+<p>An Omega's heat — during which sexual impulses intensified and large amounts of pheromones were secreted — occurred according to a fixed hormonal cycle. An Alpha's rut was different. No regularity, no cycle. The moment they felt desire, they emitted pheromones; conversely, exposure to an Omega's pheromones immediately triggered arousal.</p>
+
+<p>This was one of the reasons he had never been able to feel that Alphas were superior to Betas or Omegas, and also the reason he had poured so much effort into becoming a Golden Alpha.</p>
+
+<p>He had believed that this animalistic instinct — where pheromones opened in response to another's stimulation, and one surrendered to another's pheromones beyond one's own control — had ended completely alongside his immature boyhood.</p>
+
+<p>"We do carry a higher-potency product, but it can cause a near-total temporary loss of the sense of smell. With continuous use, it can affect olfactory function itself at a fundamental level. You are aware... of that, aren't you?"</p>
+
+<p>The pharmacist asked cautiously, watching the tension in his face.</p>
+
+<p>"I have no intention of taking it long-term. Two boxes of this one, please."</p>
+
+<p>At the man's words, she packaged two smaller boxes than the previous one and handed them over, along with instructions to take no more than two pills at a time, no more than twice a day.</p>
+
+<p>"Are you perhaps... a Golden Alpha?"</p>
+
+<p>After he completed payment, just as he turned to leave the counter, she called out to stop him. Then she added carefully, toward the man who had turned back,</p>
+
+<p>"If you are a Golden Alpha and have suddenly found yourself needing suppressants, it would be better to consult a specialist rather than relying on over-the-counter medication."</p>
+
+<p>The man nodded as if agreeing with her suggestion.</p>
+
+<p>"I'll do that."</p>
+
+<p>But even a specialist — indeed, even a world-renowned authority in the field — was unable to explain the situation the man was currently in. A Golden Alpha temporarily experiencing dysfunction in pheromone regulation. It was a problem far more complex than that.</p>
+
+<p>The man tossed the bag containing the medicine onto the passenger seat and lit a cigarette. The fact that the only thing he could rely on right now was a few trivial capsules was almost enough to make him laugh.</p>
+
+<p>Only after burning through three cigarettes in a row could the man finally grip the steering wheel again.</p>

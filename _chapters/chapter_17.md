@@ -5,8 +5,10 @@ chapter_number: 17
 chapter_id: "V4.1"
 title: "I’ll Do Better"
 korean_title: "내가 잘할게"
+permalink: /chapters/chapter-17/
+excerpt_separator: "<!-- section-excerpt-end -->"
 ---
-
+<div id="section-1" class="hybrid-section" data-section="1">
 <!-- Chapter 17 — I’ll Do Better -->
 
 <p>Even as I headed up to the second-floor study after my shower, hyung and nuna were still deep in conversation. Their voices were more animated than usual, but the details of their talk about studying abroad were too specific to belong to people who were drunk.</p>
@@ -1172,3 +1174,4 @@ korean_title: "내가 잘할게"
 <p>"Hmm..."</p>
 
 <p>As she pulled out of the villa's parking lot — solid as an impregnable fortress — she let out a sigh that came out more like a groan. As for the ending of the story starring Liu Weikun and Seo Ihyeon, she simply could not guess it. Not now, at least.</p>
+</div>

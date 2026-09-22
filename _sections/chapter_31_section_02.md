@@ -1,0 +1,397 @@
+---
+layout: chapter
+volume: "Side Story II"
+chapter_number: 31
+chapter_id: "S2.1"
+title: "Sumbisori"
+hybrid_short: true
+section_number: 2
+section_count: 9
+permalink: /sections/chapter-31/2/
+excerpt_separator: "<!-- section-excerpt-end -->"
+---
+<p>The group exhibition of artists belonging to the Autumn Collection was one of Phantom's annual events.</p>
+
+<p>Prior to the main exhibition, a pre-opening event was held for VIP clients. Because of this, the lights at Phantom remained on late into the night.</p>
+
+<p>Only a select few VIPs were invited to the after-party that followed the main event. Over the years, as Phantom maintained long-term ties with them, some of those clients had grown into relationships closer to acquaintances or friends than patrons. Because of this, the after-parties always flowed pleasantly, like a lively social gathering.</p>
+
+<p>That day was no different; only about ten VIPs remained until the very end.</p>
+
+<p>They mingled with the Phantom staff at tables set up in the second-floor hall. Plenty of food and drink had been prepared, and a professional DJ had been hired to play music suited to the atmosphere.</p>
+
+<p>Liu, who had been keeping company with the group, stepped away at the request of one of the clients to slowly walk through the gallery and introduce the artworks.</p>
+
+<p>"What about this piece? I feel like I've been seeing this artist around quite often lately."</p>
+
+<p>The man, who was around Liu's age, was a new client introduced through one of the existing VIPs. Though still young, he was a significant collector who had already purchased dozens of pieces in less than half a year.</p>
+
+<p>"This is the artist Jin Jaeyeon. He received a very positive reception at this year's Hong Kong Art Fair — all the pieces he exhibited there sold out. I think they would fit well with the collection you have, Jeongmin."</p>
+
+<p>"This artist is an Omega, correct…?"</p>
+
+<p>"Yes… that's right."</p>
+
+<p><em>What does an artist's gender have to do with their work?</em> It was an uncomfortable question, but he couldn't simply refuse to answer.</p>
+
+<p>"You must have met the artist as well, Director?"</p>
+
+<p>"Well… yes. He's one of our affiliated artists."</p>
+
+<p>"I used to enjoy painting quite a bit when I was young, too. Maybe I should have kept at it. Then perhaps I would have ended up as an artist affiliated with Phantom…."</p>
+
+<p>The man trailed off, glancing briefly at Liu before bringing his champagne flute to his lips.</p>
+
+<p>This man showing his interest in Liu was also an Omega. That much was certain, unless Liu's pheromone nervous system had completely broken down. And he was probably a Golden Omega at that.</p>
+
+<p>He was keeping tabs on the other Omegas around Liu, even though they had no relationship whatsoever.</p>
+
+<p>Liu wasn't naive enough to misread the intention behind the man's words and actions.</p>
+
+<p>And he was seasoned enough to naturally pretend he hadn't noticed, even while understanding everything.</p>
+
+<p>"I also heard I had some talent for painting when I was young…. But after meeting so many artists while doing this job, I realized it wasn't something I could achieve. It's a realm where overwhelming geniuses are active. Just being able to assist with their work and appreciate it up close is a great joy. Would you like to see another piece by Jin Jaeyeon?"</p>
+
+<p>The man didn't hide his disappointment at Liu's pretense of indifference. Nor did he back down.</p>
+
+<p>"If I purchase that painting from earlier, will you bring it over yourself, Director?"</p>
+
+<p>"Haha…. Deliveries are usually handled by staff member Kwon Juhan."</p>
+
+<p>"Hmm… What if I were to purchase three pieces?"</p>
+
+<p>"……"</p>
+
+<p>Liu stopped walking and turned to face the man.</p>
+
+<p>The Golden Omega, who had grown up with everything he desired, was displaying his attraction toward Liu more clearly than before. His expression and gaze were overtly seductive.</p>
+
+<p>Liu lowered his voice as he bent slightly toward him.</p>
+
+<p>"I am not an escort."</p>
+
+<p>Even as a VIP client, Liu refused to act subserviently.</p>
+
+<p>His policy was to respond politely and respectfully, but never to grovel just to sell a painting. If a gallery had good artists and good work, flattery was unnecessary — that had been Phantom's operating philosophy since opening day.</p>
+
+<p>Furthermore, many people maintained their VIP status at Phantom simply to cultivate a relationship with Liu Weikun, the heir of a Hong Kong art conglomerate family with unrivaled influence over both Eastern and Western art circles. There was no reason to grovel before them in the first place.</p>
+
+<p>However, the man was not intimidated by Liu's quiet authority.</p>
+
+<p>"I apologize. That's not what I meant."</p>
+
+<p>"That's insulting to me, but it's also insulting to the artwork. If that's your intention for purchasing, then we will decline. We have plenty of clients who genuinely want to own our artists' work."</p>
+
+<p>"Please don't be angry. It was meant as a joke. I was thoughtless."</p>
+
+<p>The man kept smiling at Liu, who was clearly angry. Liu sidestepped the man's reaching hand, took a step aside, and instead placed his own hand firmly on the man's shoulder.</p>
+
+<p>"And put away the pheromones. They wouldn't even penetrate my receptors at that level anyway."</p>
+
+<p>As Liu walked back toward the painting, the smile finally vanished from the man's face.</p>
+
+<p>Perhaps, viewed from a distance, even the two of them looked peaceful together. Among the lively group still gathered at the table, one middle-aged woman watched them with a fond, satisfied expression.</p>
+
+<p>"Those two look so good together. It's lovely to see."</p>
+
+<p>Wearing a large white brooch on her chest, she was a long-time VIP of Phantom and an ardent fan of Liu's mother, Suki Kim.</p>
+
+<p>"Director Liu looks like he's finally doing better?"</p>
+
+<p>"I know. He was in such a state for a while there, and he used to be so healthy."</p>
+
+<p>"No, he still looks drawn. He's thinner than before."</p>
+
+<p>Some agreed with her, while others disagreed. The woman with the white brooch shook her head while watching Liu intently.</p>
+
+<p>"Compare him to when he came back from New York. He looked like a ghost then. Don't you agree, Manager Han?"</p>
+
+<p>At the sound of her voice, Manager Han finally turned around and looked toward Liu, deeper inside the exhibition hall.</p>
+
+<p>Liu had returned to Seoul earlier that year after holing himself up in his New York apartment — the one he'd had renovated so Ihyeon could live there with him.</p>
+
+<p>At the time, he had truly looked like a wreck. Everyone around him was so shocked that they couldn't even bring themselves to ask him anything.</p>
+
+<p>Liu had judged that he was in no condition to face clients, and Manager Han agreed. After all, Liu Weikun was the symbol of Phantom. His background, as well as his bold and striking appearance, held undeniable appeal for clients.</p>
+
+<p>It was only after staying out of sight for about a month that Liu could finally show his face to clients again.</p>
+
+<p>To his concerned long-time VIPs, he had offered the excuse that the failed opening of the New York branch had left him with a great deal to sort out and he had been too busy resolving it.</p>
+
+<p>After his return, he seemed to dedicate himself to work normally. He often stared blankly out windows, and he socialized noticeably less than before — but he no longer looked like a complete wreck. It seemed he was slowly recovering his former life. At least, that's how it appeared on the surface.</p>
+
+<p>His demeanor while attending to clients now was much the same.</p>
+
+<p>Judging by his somewhat stiff expression and rigid posture, Liu seemed to be aware of the man's interest and was clearly signaling his refusal. To Manager Han, who knew Liu well, they did not appear to be hitting it off at all. The VIP client's hopes would likely remain just that.</p>
+
+<p>Other than that, there were no longer any signs of instability, or of someone so absorbed in his own world that he was unable to function socially.</p>
+
+<p>Manager Han turned back toward the group and nodded in agreement.</p>
+
+<p>"That's right. When he first got back from New York…. I was truly shocked then."</p>
+
+<p>"Right? I couldn't believe how much weight he'd lost. I almost didn't recognize him at first!"</p>
+
+<p>The woman with the white brooch looked triumphant once Manager Han agreed. A man in horn-rimmed glasses, another VIP client, grumbled jokingly.</p>
+
+<p>"But even looking that haggard, Director Liu was still so handsome. Life is so unfair."</p>
+
+<p>Affirming laughter burst out from various corners.</p>
+
+<p>Pretending to sip her champagne, Manager Han studied Liu's appearance more closely.</p>
+
+<p>Just as the clients had said, he seemed to be doing better. He looked like a man who had shed all the deep shadows he'd carried when he first returned from New York.</p>
+
+<p><em>Has he finally decided to forget Seo Ihyeon?</em></p>
+
+<p>Manager Han didn't think so.</p>
+
+<p>Liu's longing for Seo Ihyeon was something far beyond rational excitement, attraction, or sexual impulse driven by pheromones.</p>
+
+<p>He loved Seo Ihyeon's artistic world, was its most fervent fan, and almost reverently admired Seo Ihyeon as a human being.</p>
+
+<p>He had clearly been moved by Ihyeon's gentleness and the quiet, deeply rooted resolve beneath it — his steady persistence in trying to rise above his wounds. He had fallen in love with the inner beauty that Seo Ihyeon possessed as a person.</p>
+
+<p>That kind of love cannot be washed away. It cannot be replaced by anyone else.</p>
+
+<p>It wasn't that he had happened to fall in love with someone who was nearby. He had fallen in love precisely because it was that specific person.</p>
+
+<p>"Manager Han, is Director Liu really not seeing anyone?"</p>
+
+<p>The woman with the white brooch lowered her voice and asked discreetly. Manager Han could only respond with an ambiguous smile.</p>
+
+<p>"Haha…. As far as I know, no — but who can truly know what's going on inside him?"</p>
+
+<p>"People around him won't leave him alone, yet I haven't heard anything about him seeing someone. Look over there, Jeongmin is making a move on Director Liu right now. Am I wrong?"</p>
+
+<p>When the woman with the white brooch nudged her neighbor, the person next to her glanced toward Liu and nodded.</p>
+
+<p>"Of course it's a move. Otherwise, why would Jeongmin be buying up paintings like that?"</p>
+
+<p>"Please don't talk like that. He probably purchased them because he liked the artwork."</p>
+
+<p>Manager Han reacted with some firmness, sensing the conversation was veering in a strange direction. Vicious rumors always tended to start in settings like this.</p>
+
+<p><em>Jeongmin was making a move on Phantom's Director Liu, Director Liu didn't seem to mind, the two were dating, Jeongmin had even gone to pay a formal visit to Director Liu's family home….</em> Rumors swelled up just like that, in an instant.</p>
+
+<p>"Or maybe Director Liu has someone he's hiding overseas?"</p>
+
+<p>This time, the man in horn-rimmed glasses spoke up. The private life of a Golden Alpha — blessed with good looks and an excellent background — was bound to attract intense interest in high society.</p>
+
+<p>"It makes no sense for someone as accomplished as him to be single. There are no rumors about him dating anyone either, so it must be someone overseas. And another thing… I saw Director Liu at the airport recently."</p>
+
+<p>"At the airport?"</p>
+
+<p>This time, Manager Han showed interest first. Although all of Liu's important schedules were shared for business purposes, she had never heard anything about him traveling abroad recently.</p>
+
+<p>"Was it two weeks ago? That was when I went to Hawaii, right?"</p>
+
+<p>"That's right. It was the day our kid came home, so I remember it well."</p>
+
+<p>"Yes, that day. Two weeks ago, on a weekend. I saw Director Liu at the airport."</p>
+
+<p>The man in horn-rimmed glasses, having confirmed his departure date with an acquaintance beside him, began speaking animatedly as all eyes focused on him.</p>
+
+<p>"I almost said hello because I was happy to see him, but he rushed straight through to the gate. From what I saw, his destination was Paris."</p>
+
+<p>"……"</p>
+
+<p>Manager Han finished the champagne in her glass and turned to look at Liu.</p>
+
+<p><em>Two weeks ago — that was when Choi Inwu and I had tried to drag him out of his house to play tennis, the three of us. Liu had clearly refused with an annoyed expression.</em></p>
+
+<p><em>"We're not even four people, just three. What's the point of playing tennis? I'm too tired these days. I'm just going to stay home all weekend."</em></p>
+
+<p><em>And yet, a flight to Paris….</em></p>
+
+<p><em>He probably didn't go to spend time with Ihyeon. If those two had decided to get back together, there'd be no reason to keep it a secret.</em></p>
+
+<p><em>But if he flew to Paris for some other reason, there was no need to hide that either. Liu always let people know about long-distance travel in advance in case of an emergency at Phantom.</em></p>
+
+<p><em>What is it? Why has that man been creating so many secrets lately?</em></p>
+
+<p>"Director Liu, Jeongmin! Come over here already! Come mingle with us!"</p>
+
+<p>The woman with the white brooch waved her hand enthusiastically, calling the two of them over. Liu turned toward them and approached with a gentle smile.</p>
+
+<p>"Have you had enough champagne? Shall I ask them to bring more?"</p>
+
+<p>People quickly stopped Liu before he could call over the waiting staff.</p>
+
+<p>"We've already had plenty. How drunk do you intend to get us?"</p>
+
+<p>"There's still some left in the ice bucket, Director Liu."</p>
+
+<p>"Here, you two have a glass each."</p>
+
+<p>The woman with the white brooch stepped forward personally and filled the glasses for Liu and the man named Jeongmin.</p>
+
+<p>"What were you two talking about so intently? You both looked very serious."</p>
+
+<p>"I've been expanding my collection lately. I was just asking the Director for some advice."</p>
+
+<p>Judging by Liu's demeanor, he had clearly declined the man's advances, yet Jeongmin didn't seem the least bit discouraged.</p>
+
+<p>Manager Han glanced quickly at Liu's expression. He had taken a seat directly across from Jeongmin rather than beside him — clearly an intentional distance. Moreover, he showed no particular interest in Jeongmin's conversation, devoting his attention instead to the other guests. Not overtly cold, just naturally flowing, like water.</p>
+
+<p>Receiving others' interest was as common as breathing for Liu. Thus he couldn't help but become an expert at refusing it.</p>
+
+<p>"Oh, speaking of which, I heard Seo Ihyeon released another new work."</p>
+
+<p>It happened in an instant.</p>
+
+<p>"Oh my! Are you alright, Director Liu?"</p>
+
+<p>"Ah… I'm fine. Did I startle you?"</p>
+
+<p>Someone had mentioned the name Seo Ihyeon at an unexpected moment, and it had paralyzed Liu Weikun. He had just been lifting his glass from the table and instead knocked it over with a clumsy hand. It was an uncharacteristic mistake.</p>
+
+<p>"Oh dear, your thigh is soaked!"</p>
+
+<p>"We have spares in the office. Don't worry."</p>
+
+<p>Shaken by the name Seo Ihyeon, Liu reassured everyone with his usual smile. He roughly dabbed the champagne soaking his thigh with a napkin, then excused himself and stood up.</p>
+
+<p>"I should wash my hands first. Please continue your conversation. Excuse me."</p>
+
+<p>Manager Han watched Liu's retreating back as he crossed the hall toward the restroom.</p>
+
+<p>No one suspected any connection between the name Seo Ihyeon and Liu's blunder. Only Manager Han, Choi Inwu, and Kwon Juhan exchanged knowing, bitter glances.</p>
+
+<p>"I saw the article about Seo's new work too. The Colorful Ghosts series. The impact is incredible this time as well, isn't it?"</p>
+
+<p>"Seo is quite diligent for someone so young. Consistent work — that's a very important virtue for an artist."</p>
+
+<p>The woman with the white brooch, who had always held Ihyeon in high regard, nodded with a pleased expression. Behind her, someone raised a differing opinion in an excited tone.</p>
+
+<p>"But the critical reception to this latest series seems sharply divided, doesn't it?"</p>
+
+<p>"When you're young, you have to try making those kinds of pieces. Only by pushing your own style to the absolute limit does the real thing emerge. Can you call yourself an artist if you're just pandering to critics? Of course, his recent works are good, but I'm really looking forward to what Seo will release after he turns thirty."</p>
+
+<p>"Still, I find that artist a bit much."</p>
+
+<p>Jeongmin, who had been silently listening until then, interjected in a stiff voice.</p>
+
+<p>"Oh? A bit much how?"</p>
+
+<p>"Before being an artist, one must first be a decent human being. I'm the type who can't separate the art from the artist."</p>
+
+<p>"Why? What does that mean? Did Seo have some kind of scandal?"</p>
+
+<p>The man in the horn-rimmed glasses tilted his head and asked.</p>
+
+<p>"Honestly, it was thanks to Director Liu that Seo Ihyeon could get to where he is. The Director discovered him and barely gave him a foothold, and then he just left immediately for The Hands…. Frankly, it makes him look like an opportunist."</p>
+
+<p>Just as Jeongmin was finishing his sentence, Liu's footsteps could be heard returning. Manager Han involuntarily checked Liu's expression. It was calm and unreadable, but judging by the distance, he had certainly heard everything Jeongmin said.</p>
+
+<p>"Director Liu, your trousers — don't you need to change?"</p>
+
+<p>"The spare is downstairs. We'll be wrapping up soon anyway, so I'll change later."</p>
+
+<p>Liu shrugged in response to someone's concerned remark and sat back down. He must have heard Jeongmin's words, but seemed determined not to react to them. That was a relief.</p>
+
+<p>"Opportunist…. I've only met Seo Ihyeon a few times at Phantom, but he didn't strike me as that kind of person."</p>
+
+<p>"That's right. He was surprisingly gentle, given the intensity of the work he creates."</p>
+
+<p>"Seo is like mild milk soap."</p>
+
+<p>Manager Han hoped this topic would drop here, but the situation wasn't unfolding as she'd hoped.</p>
+
+<p>Liu pretended to be indifferent to the conversation, fiddling only with the stem of his champagne glass. Then, for a brief moment, a faint smile flickered across his lips before vanishing. It was a reaction to the comparison — being called mild milk soap. It was the kind of smile that suggested he was feeling nostalgic, perhaps moved after hearing news about someone he had once loved passionately.</p>
+
+<p><em>Was he finally okay with talk of Ihyeon now?</em></p>
+
+<p><em>Had those feelings — so abnormally obsessive once — faded into memory and the past?</em></p>
+
+<p><em>Was that slip-up earlier just a coincidence, nothing to do with the name Seo Ihyeon at all?</em></p>
+
+<p>"You can't know what someone is like just by looking at their outward appearance."</p>
+
+<p>Regardless of what others said, Jeongmin held firm in his opinion.</p>
+
+<p><em>Since Jeongmin only became a client of Phantom after Ihyeon had left for Paris, he wouldn't have had the chance to suspect anything was going on between Liu and Ihyeon. Was he genuinely misunderstanding Ihyeon's departure — and not just acting out of jealousy?</em></p>
+
+<p>"That might be true, too."</p>
+
+<p>Someone voiced reluctant agreement, but the woman with the white brooch spoke with conviction.</p>
+
+<p>"But it's also true that once you reach our age, you develop an eye for distinguishing what's real from what's fake. In my view, Seo isn't someone who says one thing and does another."</p>
+
+<p>"Still, it's an undeniable fact that he left Phantom and accepted an offer from somewhere else before the contract was even up."</p>
+
+<p>Jeongmin's assertiveness was slowly making the atmosphere awkward. Kwon Juhan, quick to notice this, slyly worked his way into the conversation with his characteristic easygoing manner.</p>
+
+<p>"Hey, don't put it so strongly. Seo Ihyeon received that offer because he had the talent, and it was the Director himself who practically pushed him toward that opportunity to gain experience."</p>
+
+<p>At the end of Juhan's remark, Jeongmin looked over at Liu, seated across from him. The indifferent man was sipping champagne, not even sparing Jeongmin a glance.</p>
+
+<p><em>Jeongmin thought: maybe trying to seduce Liu with pheromones had been too hasty a decision.</em></p>
+
+<p>The intentional release of pheromones was like standing naked in front of the other person. It was like stripping completely bare before him, only to be told, "Your nakedness doesn't excite me, so please put some clothes on."</p>
+
+<p><em>How desperate must he have been to go that far? Couldn't he have been more gracious about refusing — wrapped a towel around that naked body, at least?</em></p>
+
+<p>Even so, even after suffering that humiliation, Jeongmin couldn't bring himself to give up.</p>
+
+<p>"Director Liu always considers the artists' perspective. Someone as generous as him deserved more loyalty in return. Just because he recommended it doesn't mean Seo had to actually go…. I don't think it looks good."</p>
+
+<p>"Let's drop this topic. He was our affiliated artist, and it was an amicable agreement between both parties."</p>
+
+<p>Liu, who had been silent until then, spoke to Jeongmin in a low, measured voice.</p>
+
+<p>"It's because you, Director, are too generous and lenient that you were taken advantage of. That was an opportunity that wouldn't have existed without you in the first place — there's a limit to how ungrateful one can be."</p>
+
+<p>"No, I mean, Ihyeon — Seo Ihyeon didn't betray anyone."</p>
+
+<p>Kwon Juhan stood awkwardly, not knowing what to do, glancing at Liu. But Jeongmin, convinced that Liu had been betrayed by Seo Ihyeon, only intensified the criticism. It was his way of defending Liu.</p>
+
+<p>"Everyone was fooled by that demure appearance. In reality, he was more of a fox than anyone  — "</p>
+
+<p><em>Thwack.</em></p>
+
+<p>Liu slammed his empty champagne glass down with a rough hand. He glared at Jeongmin across the table, his eyes burning. As if the alcohol had hit him all at once, his eyes were glistening and red.</p>
+
+<p>"It might be the opposite."</p>
+
+<p>"The opposite?"</p>
+
+<p>"Perhaps Seo Ihyeon didn't use me — but rather, I committed a terrible sin against Seo Ihyeon that left him no choice but to leave."</p>
+
+<p>"How could that be? What fault could someone like you possibly have committed against such a rookie artist? Someone who goes around stabbing people in the back with that innocent face, knowing nothing  — "</p>
+
+<p>This time, Liu sprang to his feet. He walked around the long table until he was standing behind Jeongmin.</p>
+
+<p>"Get up."</p>
+
+<p>"…What?"</p>
+
+<p>"Shut your mouth, get up, and get out."</p>
+
+<p>"Excuse me?"</p>
+
+<p>"Get out of my gallery. Right now."</p>
+
+<p>It turned into chaos. Liu grabbed Jeongmin by the scruff of the neck and yanked him out of the chair.</p>
+
+<p>The chair fell over, the table shook, champagne glasses tipped, and the startled patrons rose from their seats in agitation. Ignoring Jeongmin's struggling, Liu dragged him toward the stairs.</p>
+
+<p>"What's gotten into Director Liu? I've never seen him act like that."</p>
+
+<p>"I know. Such a composed person…."</p>
+
+<p>"The Director must have had too much to drink today. You know how much he cares for his artists. He didn't part badly with Ihyeon — I mean, with Seo — but perhaps he got heated because of the constant misunderstandings."</p>
+
+<p>While Juhan skillfully calmed the other patrons, Manager Han called the event staff over to clean up. Meanwhile, the two men were halfway down the marble staircase, its curve sweeping elegantly.</p>
+
+<p>Manager Han let out a deep sigh and rubbed her temples, intending to follow. But someone placed a hand on her shoulder, stopping her. It was Choi Inwu.</p>
+
+<p>"I'll go."</p>
+
+<p>Downstairs, Liu had already thrown open the heavy double doors. Choi Inwu chased after him, running down the stairs.</p>
+
+<p><em>Who said he was getting better?</em></p>
+
+<p><em>He hadn't forgotten that man, nor did he have any intention of forgetting him.</em></p>
+
+<p><em>He might look fine on the outside, but it was clear he was bleeding somewhere no one could see, carrying a serious internal wound. His heart wasn't here. In this place without Ihyeon, he was merely wandering like a ghost.</em></p>

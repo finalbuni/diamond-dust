@@ -1,0 +1,240 @@
+---
+layout: chapter
+volume: "Volume 3"
+chapter_number: 14
+chapter_id: "V3.2"
+title: "An Impossible Being"
+korean_title: "있을 수 없는 존재"
+hybrid_short: true
+section_number: 1
+section_count: 1
+permalink: /sections/chapter-14/1/
+excerpt_separator: "<!-- section-excerpt-end -->"
+---
+<!-- Chapter 14 — An Impossible Being -->
+
+<p><em>GHOST</em></p>
+
+<p>A phantom, a spirit. An existence so faint one can barely tell if it's even there. Terrifying, eerie, dreadful. Everyone claims to fear it — yet it drifts, alienated from our lives, nothing more than a hazy curiosity.</p>
+
+<p>The room was heavy with the damp weight of the day's relentless monsoon rain.</p>
+
+<p>Outside the window, a bluish dawn was slowly breaking, but the study — blinds angled downward, slats tightly shut — still held the murk of night pooled inside it.</p>
+
+<p>The man sat lost in thought on a high-backed armchair, no lights on.</p>
+
+<p>The hand holding the glass with the bulbous bottom did not move an inch. His face, temple resting against the hand propped on the armrest, was equally still, as if caught under a spell. Only the slow rise and fall of his bare chest proved he was a living being and not a beautifully crafted wax figure.</p>
+
+<p>Breaking the air that was slowly solidifying around him, the man abruptly straightened — pulling himself up from where his back had sunk deep into the upholstery.</p>
+
+<p>5:59 AM. It would be around 4 PM in Boston.</p>
+
+<p>Having calculated the time difference, the man picked up the phone he'd done nothing but glare at from the side table.</p>
+
+<p>It might not connect. The person on the other end wasn't someone with idle time to spare. But luck was with him. After a few rings — shorter than usual — a welcome voice reached him across the fourteen-hour gap.</p>
+
+<p>A faint smile, however brief, spread across the man's face, which had been rigid as the very concept of blankness.</p>
+
+<p>For a short while, greetings and inquiries passed between them — the kind exchanged between people who are close, playful yet threaded through with deep affection and trust.</p>
+
+<p>But he couldn't drag it out. It wasn't only a matter of taking up the other person's time. He no longer had the strength to hold onto this problem for even a moment longer.</p>
+
+<p>"Ha... I don't know how to bring this up."</p>
+
+<p>He let out a hollow, breathy laugh and muttered to himself, biting and releasing his lip with a troubled expression. Then, as if having steeled himself, he said it aloud.</p>
+
+<p>"I underwent a Changing."</p>
+
+<p>He had braced himself with considerable effort, but his voice was surprisingly calm. As if he couldn't quite believe what he'd just said and needed to hear it again, the man closed his mouth once more.</p>
+
+<p>The initial reaction from the other end was also silence.</p>
+
+<p>"Of course there was someone else. Do you think I'd call it a Changing just because I knotted alone?"</p>
+
+<p>Brow furrowed, eyes shut, fingers pressed to his temple, the man replied with barely concealed irritation. He regretted it almost immediately and apologized politely.</p>
+
+<p>"The first problem is... it wasn't something I did of my own will. Nor did I have the other person's consent."</p>
+
+<p>The man's previously impassive face crumbled as he continued, becoming something that seemed to embody the very concept of pain. To numb it even slightly, he picked up the glass from the table and downed the harsh single malt whiskey in several hard swallows.</p>
+
+<p>"I couldn't help it. It was something that shouldn't even be possible, but... I was completely dominated by pheromones. I wasn't in my right mind. When I came to my senses... I realized I had knotted while in the middle of a Changing."</p>
+
+<p>Recalling the dizzying moment, the man's face lost all color in the darkness.</p>
+
+<p>"That's why I said it was something that shouldn't be possible."</p>
+
+<p>Unable to maintain his composure, his voice grew quickly anxious.</p>
+
+<p>"No — not an Omega. Not an Omega... but not a Beta either. That's the second problem."</p>
+
+<p>Frustrated with his own rambling, the man sighed and ran his free hand over his face several times. At the other person's suggestion, he took a slow breath, trying to explain calmly, and straightened his back.</p>
+
+<p>After a few more sips of whiskey, he let himself recall the time not long after they had first met.</p>
+
+<p>"It was clear he was an Omega, but he insisted he was one hundred percent Beta. I thought perhaps he was hiding the truth for some reason, but gradually it seemed that wasn't the case. He genuinely believed he was a Beta — had been tested as one, he said. At first... it wasn't that I specifically sensed his pheromones, but regardless of that, I thought he was an Omega. Because I can distinguish any Omega, even if they don't release pheromones. But none of the Alphas around me detected him as an Omega. It was strange, but I assumed he was simply an Omega who took suppressants consistently. As you know, the probability of even an Omega practically drowning in suppressants escaping my detection is nearly zero."</p>
+
+<p>He recalled the drinking session at a Spanish-style tavern where Inwu had teased him — asking whether he was trying to become a Beta, given how he practically despised using pheromones to seduce a partner or even to rely on them for his own pleasure during sex.</p>
+
+<p>He had never trusted people he didn't know well, and he made no effort to conceal the fact that he observed them with open hostility. There was some intention in it — to make others tread carefully around him. He had simply treated him the way he treated everyone. It was the same when Yuni brought Juhan along, and it had always been that way with anyone.</p>
+
+<p>But it hadn't taken long to conclude that he — someone who had learned painting from Manager Han so long ago — was not a person worth being wary of.</p>
+
+<p>What first caught his attention was the quiet diligence with which he fulfilled his duties, never causing a fuss. The simple movements were aesthetic enough to hold the eye: fingers slipping a pamphlet into an envelope, the slight upward tilt of his profile as he hung or removed a piece in the exhibition hall.</p>
+
+<p>From his features, to the lines of his body in motion, to his gaze and voice — he seemed as though he had just been washed clean, still dripping, perpetually hesitating at the boundary between boyhood and youth.</p>
+
+<p>He wasn't particularly sociable and appeared shy around strangers, but he never put up walls or turned hostile. The calm way he endured Inwu's relentless advances was proof enough of that. The fact that he was neither intimidated nor rattled spoke of something upright in him.</p>
+
+<p>"I'm... not an Omega either."</p>
+
+<p>His face wore a look of mild difficulty, and his eyes were so transparent they seemed to hide nothing, fabricate nothing.</p>
+
+<p>From the moment he declared he was a Beta — neither Alpha nor Omega — he became more than just an object of observation and curiosity for the man. He became an unsettling, subtly compelling unknown territory.</p>
+
+<p>"But he seemed absolutely certain he was a Beta. Here, anyone capable of pregnancy is exempt from military service. I confirmed through his documents that he completed his mandatory service normally — which means that at least before enlisting, no Omega manifestation had occurred. If he had manifested in the military, a normal discharge would have been impossible. That leads to the conclusion that he hadn't manifested as an Omega even recently."</p>
+
+<p>He remembered the direct gaze that had met his own, the one insisting that even if he were an Omega, he wouldn't have hidden it. Those dark eyes — not yet fully mature but never vague — had felt like a distilled essence of the pure, unspoiled time everyone carries within them.</p>
+
+<p>"I released a small amount of pheromones just to see how he'd react. There was no question he was an Omega, yet he was claiming to be a Beta. I couldn't believe it."</p>
+
+<p>He could barely remember how long it had been since he last opened his pheromones. To think he had done it simply to confirm whether or not someone wasn't truly an Omega. No matter how many times he replayed it, it was an unbecoming thing to have done.</p>
+
+<p>"The first few times it felt like hitting a wall, but soon he started to react. He began responding to my pheromones with his own — open, receptive. I thought he must be some more complex, lesser-known type of Omega. He could sense my pheromones and react to them, yet he thought they were... the scent of cologne."</p>
+
+<p>Even after that first uncharacteristic act, the pheromone release continued. He couldn't forget that innocent, unsuspecting face — tilting toward his shoulder in front of Shushu's work, perceiving pheromones as nothing more than cologne.</p>
+
+<p>It was the first time the awareness of being detected had produced not discomfort but a thrill, a sharp, electric stimulation.</p>
+
+<p>The man shook his head slowly but without hesitation at the interpretation offered from the other end of the line.</p>
+
+<p>"No... He's not someone who would be calculating about something like that. If he had known what pheromones were and was acting, I would have noticed. Surely I'm capable of seeing through the act of someone ten years younger than me..."</p>
+
+<p>The recognition that he had, in fact, used pheromones to seduce that very person — ten years his junior — to the point of losing his mind, three times, made the man fall briefly silent, embarrassed by himself.</p>
+
+<p>He could only hope Inwu didn't remember the time he had scolded him for having feelings for someone that much younger. But until now, someone that much younger simply hadn't been his type. He had never once considered a partner ten years younger — not as a romantic prospect, not even as someone to take to bed.</p>
+
+<p>"Anyway... he had some trouble, and though it's a method I absolutely do not prefer... I used pheromones to sleep with him, to calm him down. He reacted clearly. More intensely than anything before — and he released his own pheromones, strong ones. I was convinced he really was an Omega, but..."</p>
+
+<p>Recalling the excitement and bewilderment of the moment his hand had moved between the other's legs, the man pressed his lips together.</p>
+
+<p>"There was no slick. None at all."</p>
+
+<p>A heavy silence settled between the two of them. This was, in the most literal sense, a conversation about things that should not be possible.</p>
+
+<p>"At the time, the goal was only to calm him down and get him to sleep, so I didn't go further — but after that... his pheromones grew stronger. The second time we were together... I don't know if you'll believe me, but partway through, I couldn't control my pheromones at all."</p>
+
+<p>By the time they were heading to Hong Kong, his interest in him had already taken on a complexity that could no longer be explained by pheromones alone — but he wasn't calling to ask for relationship advice. The purpose of this call was to get information — anything at all — about what he was, in terms of pheromones.</p>
+
+<p>The fact that he had looked forward to their second night together in advance — going so far as to move their accommodations to a hotel, unlike his usual business trips, cunning enough to engineer an opportunity to pull him, who seemed cautious about sex, into bed — was not something he needed to be honest about.</p>
+
+<p>"Mouth, nape, groin, armpits, genitals, hole..."</p>
+
+<p>He had been listing them in a flat, detached voice when he suddenly became aware that he was disclosing his private life to the person on the other end and trailed off. It was only the transmission of information — like describing symptoms to a doctor — but even so, learning such intimate details about another person was unlikely to be pleasant.</p>
+
+<p>"I'm sorry for making you listen to all this."</p>
+
+<p>Whether an assurance came through or not, the man cleared his throat and continued.</p>
+
+<p>"Areas with developed sweat glands, places with strong body odor, the inner walls and bodily fluids — all of it registering more intensely there matched the characteristics of pheromones. He also reacted more sensitively to my pheromones than before, becoming honest about desire in a way that was completely unimaginable given his usual personality. When I pushed inside... we were both already entirely dominated by pheromones, not in our right minds, and when I came back to myself... I had already knotted and attempted a Changing. I couldn't... control anything. Couldn't defend against any of it."</p>
+
+<p>The man's voice lost its strength as he went on, growing hollow and distant. He cast a blank gaze into nowhere, like someone stripped of even the most basic human right — the right to govern oneself — insufficient even for self-reproach.</p>
+
+<p>Narrowing his eyes as if reaching for the faint outline of a barely remembered dream, the man slowly shook his head.</p>
+
+<p>"I told myself it was a mistake that could happen. I tried to believe that and stay calm. Why wouldn't I? But he wasn't taking contraceptives — so if he was an Omega, the probability of pregnancy was over ninety percent, and if he was a Beta, then what I had attempted was a Changing. How could I possibly... be sane?"</p>
+
+<p>The man emptied what remained in his glass in a single swallow. He wiped his lips roughly with the back of his hand — blue veins tracing down to his fingers — then hunched forward and dragged his hands through his hair.</p>
+
+<p>"I know. A change doesn't come from one or two attempts at Changing. But... a defensive wall that had never once been breached was broken through so easily. And by the most vulnerable opponent I never could have imagined. Do you understand what I'm saying?"</p>
+
+<p>His bare shoulders and chest seemed to swell tighter with the force of it.</p>
+
+<p>"What's even more astonishing is that after knotting and ejaculating inside him, his body was completely unharmed."</p>
+
+<p>He reached for the glass. It was already empty.</p>
+
+<p>"I told you this shouldn't be possible. A Beta withstanding my knotting without so much as a small wound? Twice? It's impossible. You know that. A regular Omega would suffer for at least a day or two, and even a Golden Omega would struggle. But he..."</p>
+
+<p>The man cut himself off abruptly, as if the other person had interrupted him, and hesitated like a child being scolded.</p>
+
+<p><em>A Beta withstanding my knotting without so much as a small wound? Twice?</em></p>
+
+<p>The rebuke had apparently turned to why he had created the conditions for a second time despite the first mistake. The man lowered his gaze and bit his lip.</p>
+
+<p>He could use the pull of pheromones after the first as an excuse — but while he might be able to deceive the person on the other end of the line, he couldn't deceive himself. He had not actively tried to avoid the situation.</p>
+
+<p>What if he hadn't come up to his bedroom? Would he have simply gone to bed quietly?</p>
+
+<p>What he knew with certainty was this: from the moment he had seen him shivering at his front gate, soaked through by the rain, an overwhelming rage had surged through him — a desire to destroy whatever or whoever had reduced him to that state — and alongside that rage, his desire for him had risen with equal, terrifying force.</p>
+
+<p>Through education, the man knew what kind of instinct produced that sort of rage and desire — the kind that seemed to lift the entire body off the ground.</p>
+
+<p>The protective instinct an Alpha develops for his Omega when he has kept a steady bond with that one Omega over a long period of time. It must have been the closest sensation to that.</p>
+
+<p>Though the physical circumstances that gave rise to such devotion had largely vanished in the modern era, he also knew about the Alpha trait — rare now, but documented — where an Alpha who remains faithful to a single Omega will not hesitate to lay down his life for that Omega.</p>
+
+<p>The sex education teacher at the time had explained it matter-of-factly: because of the biological imperatives of Alphas and Omegas, which prioritize reproduction, the safety of the Omega who can become pregnant is placed first. That detached explanation had made the boy deeply uncomfortable, as if it reduced him to nothing more than a vessel for breeding.</p>
+
+<p>And yet — if the rage and desire that had consumed him at the gate were something close to an Alpha's instinct to protect his Omega, then what he had actually felt was not as unpleasant as his aversion to the theory had led him to expect.</p>
+
+<p>On the contrary — in that moment, nothing in his sight had seemed so pitiable and so dear, and he had felt that if it meant protecting him from danger and letting him smile in peace, he could throw away everything he had. He had felt all of his energy focus with startling simplicity on the one person before him.</p>
+
+<p>He found no displeasure in that uncharacteristic spirit of sacrifice. But he couldn't understand it either.</p>
+
+<p>For one thing, this person was not an Omega he had spent years building a bond with. More than that — setting aside whether he was his Omega or not — he wasn't even an Omega. How could his Alpha instincts possibly be stirred by someone whose very existence was uncertain?</p>
+
+<p>"The second time, I was completely dominated by his pheromones, pulled along until I knotted again — and attempted another Changing. After the first mistake, I fought to hold onto myself, to stay conscious, but it was useless. His pheromones were like he was deliberately provoking and urging me to knot him, to Change him. It's no longer just a matter of my pheromones drawing out his..."</p>
+
+<p>The man's lips moved. And then, as if exhaling, as if pushing out the cold that had pooled inside him, he spoke.</p>
+
+<p>"What on earth... is he?"</p>
+
+<p>It seemed as though the entire long story had been spun simply to arrive at that one sentence.</p>
+
+<p>"No. No — that's not it."</p>
+
+<p>His reaction to the answer from the other end was resolute. He shook his head several times in denial.</p>
+
+<p>"Unstable, immature Omega pheromones? For a Golden Alpha of my caliber... to be stimulated by the unstable pheromones of an immature Omega — not even a Golden Omega — and lose all control. Is that truly possible?"</p>
+
+<p>His excitement rising sharply, the man clutched his head as if in pain.</p>
+
+<p>"Even if that were the case... then what am I? Am I really a Golden Alpha? Am I a Ghost?"</p>
+
+<p>His shoulders, hunched as he held his head, swelled and fell in the darkness, again and again.</p>
+
+<p>"I tried to calm down. To be rational. Many times."</p>
+
+<p>His voice was sharp — threaded through with deep regret, self-reproach, and the particular desperation of a human being trapped inside an uncertain future.</p>
+
+<p>"But lately, whenever I face him, I feel myself being pulled along helplessly. All I can do is try to suppress opening my pheromones at any given moment. Even that... if only the place and conditions for us to be physically together are met, I plunge immediately into a state where I want him so badly I feel as though I'll go mad. If he releases his pheromones toward me first, I cannot resist at all. There is no will to resist within me. I am utterly powerless before his pheromones."</p>
+
+<p>Elbow resting on his thigh, the man raised his head. He spread his large palm and pressed it against his lower jaw, as if he could crush the feeling out of himself.</p>
+
+<p>"This... being conquered by mere pheromones. Losing all self-control and going into rut. Is this all a Golden Alpha amounts to? Is this the beast I spent so long training myself to become?"</p>
+
+<p>His voice had quieted now, emptied out. The gaze fixed on the space before him was the same.</p>
+
+<p>The words of comfort from the other end were met with a short, dry laugh — as if he had just heard a weak joke.</p>
+
+<p>"It's not fear. It's confusion."</p>
+
+<p>In the end, he got no satisfying answer. But he hadn't expected one — not for something this complicated, not immediately. Even he, who knew quite a lot about Alpha and Omega dynamics, had never heard of anything like this, not even by rumor, and the person on the other end had seemed considerably flustered as well.</p>
+
+<p>He wanted to believe that simply unburdening himself to someone he trusted had lightened things somehow... but it hadn't. The problem remained exactly as it was, and he would have to face it entirely on his own.</p>
+
+<p>"I'll be in Chicago in September for an exhibition. I'll come to see you then. Before that — if you happen to know anything, or find anything out... Yes. Thank you."</p>
+
+<p>After hanging up, the man stayed exactly as he was, leaning forward, frozen. After a long moment, he straightened, pressed his knuckles against his brow, and muttered a low curse.</p>
+
+<p>Rising to pour himself another glass of whiskey and walking toward the makeshift bar, his foot caught on the power cord of the floor lamp stretched across the carpet. He reached out to catch the lamp as it tipped forward, but the thin, long metal slipped past his grasp by a hair.</p>
+
+<p>He managed to keep the shade and bulb from shattering by bracing them against his thigh and knee, but at a mistake so uncharacteristic of himself, he spat out a considerably stronger curse this time.</p>
+
+<p>He forgot about the drink. He laid the lamp flat on the carpet and simply sat down on the floor where he was. After blinking several times and forcing his eyelids open again and again, he leaned back against the sofa behind him as if in resignation and closed his eyes.</p>
+
+<p><em>It's not fear. It's confusion.</em> He had said it as if the very idea of being afraid was simply not something that could apply to him — but in truth, he couldn't be certain.</p>
+
+<p>He couldn't be certain about anything anymore. Not even about his own existence.</p>
+
+<p>He felt that if he stood before a mirror, he might not find himself inside it at all. There was no denying what that was.</p>

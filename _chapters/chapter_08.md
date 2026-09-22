@@ -5,8 +5,10 @@ chapter_number: 8
 chapter_id: "V2.2"
 title: "The Offer"
 korean_title: "제안"
+permalink: /chapters/chapter-08/
+excerpt_separator: "<!-- section-excerpt-end -->"
 ---
-
+<div id="section-1" class="hybrid-section" data-section="1">
 <!-- Chapter 8 — The Offer -->
 
 <p>I had assumed this dinner would be just the two of us—Manager Han and me—but parked along the curb of the two-lane road leading to the restaurant entrance was a white SUV with an elegant design reminiscent of a sleek sports car, its hazard lights blinking.</p>
@@ -312,9 +314,9 @@ korean_title: "제안"
 <p>To his question — "You would have regretted it, right?" — I nodded.</p>
 
 <p>He smiled more deeply than I had ever seen from him, the kind that pulled his jaw muscles taut and carved a deep dimple-like crease into the side of his cheek.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-2" class="hybrid-section" data-section="2">
 <p>Rainwater running down the umbrella borrowed from the restaurant dripped to my feet, spattering onto my sneakers and the cuffs of my jeans.</p>
 
 <p>It wasn't a downpour, but it was more than a drizzle you could ignore without an umbrella either. A foreign man with his windbreaker hood pulled up was heading toward us, a Golden Retriever leading the way.</p>
@@ -348,9 +350,9 @@ korean_title: "제안"
 <p>"Would you care to join me?"</p>
 
 <p>The inertia from how I've lived up to this point urged me to refuse the offer, turn tail, and run home, but this new stimulus — sweetly paralyzing that inertia — made me want to inhale his fragrance and taste it. I don't know where this impulse and greed came from within me. Even if it had existed before, I thought it would have all died out by now. His eyes, which had seemed pale as if they would fade quickly, looked unusually blue.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-3" class="hybrid-section" data-section="3">
 <p>Perhaps he had been holding back a craving to smoke for a long time, because as soon as we settled at the bar, he lit a cigarette. Flipping through the long, vertical pages of the menu — one given to each of us — indifferently, he spoke.</p>
 
 <p>"It's raining, how about something strong?"</p>
@@ -536,3 +538,4 @@ korean_title: "제안"
 <p>And then he played his trump card — one I simply couldn't refuse.</p>
 
 <p>Swept away by a dizzying current, the boat carrying me was already drifting downstream at an unstoppable speed.</p>
+</div>

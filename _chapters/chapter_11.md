@@ -5,8 +5,10 @@ chapter_number: 11
 chapter_id: "V2.5"
 title: "The Scent is a Drug"
 korean_title: "향기는 마약"
+permalink: /chapters/chapter-11/
+excerpt_separator: "<!-- section-excerpt-end -->"
 ---
-
+<div id="section-1" class="hybrid-section" data-section="1">
 <!-- Chapter 11 — The Scent is a Drug -->
 
 <p>The car he sent arrived at a grand mansion situated where the Hong Kong nightscape could be seen in full. The grounds were so vast that it took another two or three minutes by car just to reach the steps at the main entrance from the lower gate, where security guards were checking and admitting each vehicle.</p>
@@ -692,9 +694,9 @@ korean_title: "향기는 마약"
 <p>"I can't take it anymore. I want to put it in right now, thrust, and have sex with you."</p>
 
 <p>It was the voice of a man desperate for penetration and release. The fact that I was the object of that desire made my insides throb. I, too, wanted him inside me.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-2" class="hybrid-section" data-section="2">
 <p>He tossed me onto the pure white bed, immaculately made without a single wrinkle. It felt as though I sank into thousands of feathers, only to resurface.</p>
 
 <p>He looked down at me — my lower half completely bare, wearing only my shirt, my cock hard and exposed beneath the hem — and stripped naked beside the bed.</p>
@@ -1336,9 +1338,9 @@ korean_title: "향기는 마약"
 <p>The look in his eyes as if, having come back to his senses after being so passionately entwined with someone just moments before, he had realized he had done something terrible and was shocked by it… a look so confused, so complex, tinged with a hint of self-fear.</p>
 
 <p>That was the last image of him I saw before closing my eyes.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-3" class="hybrid-section" data-section="3">
 <p>It was the sound of a telephone ringing. The realization that it was a telephone rather than a cellphone brought awareness to where I was.</p>
 
 <p>My mind woke before my eyes, but the throbbing pain throughout my body kept me facedown and groaning for quite some time. All the while, the telephone kept patiently waiting for me.</p>
@@ -1496,9 +1498,9 @@ korean_title: "향기는 마약"
 <p>I picked up the robe draped over the back of the chair and buried my nose and lips in it. The cigarette resting in the ashtray had burned down close to the filter. I gently rubbed the ash — about the length of one knuckle — into the tray and rose from my seat.</p>
 
 <p>I could no longer smell his scent anywhere in the room — not even on the robe he had taken off and left behind.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-4" class="hybrid-section" data-section="4">
 <p>He was waiting for me in the back seat, dressed casually rather than in a suit. Even though the sun had completely set, he was wearing sunglasses inside the car.</p>
 
 <p>Though momentarily puzzled, I didn't press for a reason — he was someone with occasional odd whims.</p>
@@ -1642,3 +1644,4 @@ korean_title: "향기는 마약"
 <p>I smiled wryly as I realized, belatedly, that his comment about Seo Ihyeon being resilient was perhaps another way of saying he was glad I hadn't confused impulsive sex with genuine romantic feelings.</p>
 
 <p>By then, the lights of Hong Kong had completely disappeared from my view.</p>
+</div>

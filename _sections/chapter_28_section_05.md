@@ -1,0 +1,191 @@
+---
+layout: chapter
+volume: "Volume 6"
+chapter_number: 28
+chapter_id: "V6.4"
+title: "Back to the Sea"
+korean_title: "다시, 바다로"
+hybrid_short: true
+section_number: 5
+section_count: 5
+permalink: /sections/chapter-28/5/
+excerpt_separator: "<!-- section-excerpt-end -->"
+---
+<p>"Director. Director?"</p>
+
+<p>"Yeah."</p>
+
+<p>Resting his chin on his right hand while idly tapping the table with his left, alternating glances between his watch and his ring, Liu Weikun turned his head when Juhan, sitting beside him, leaned in close enough to speak right by his ear.</p>
+
+<p>"Coffee bean suppliers. I narrowed them down to five candidates — I wanted us to go look at them together during the renovation period. You weren't listening, were you?"</p>
+
+<p>"Ah... sorry. I was thinking about something else."</p>
+
+<p>"Something else? You were zoning out, staring at your ring."</p>
+
+<p>The two youngest staff members sitting across from them bowed their heads, making noises as if to suppress their laughter.</p>
+
+<p>"If you want to laugh, just laugh, you punks."</p>
+
+<p>Saying that with a resigned tone, Liu Weikun deliberately put his weight on Juhan's shoulder as he stood up.</p>
+
+<p>"Keep eating. I'm going out for a smoke."</p>
+
+<p>From behind him as he left the restaurant, he heard them whispering that smoking was obviously just an excuse. Liu Weikun only smiled. It was true, and it wasn't unpleasant to hear.</p>
+
+<p>Though the temperature was low, it was midday, and the terrace out front was flooded with sunlight. After confirming it was exactly 2 p.m. Korean time, Liu Weikun made the call.</p>
+
+<p>"Good morning."</p>
+
+<p>From the other end of the line came Ihyeon's low, sleepy voice as if he were rubbing his eyes, followed by a soft chuckle. It was pleasant to hear.</p>
+
+<p>[Mm... Kun... it's good afternoon.]</p>
+
+<p>"An afternoon where I'm getting nagged by Kwon Juhan."</p>
+
+<p>Speaking as if complaining, Liu Weikun stood at the terrace railing and shoved one hand into the back pocket of his jeans.</p>
+
+<p>[Are you in a study session?]</p>
+
+<p>"Yeah. At first I thought he just wanted to play the senior role in front of the new guys, but watching him, he's actually pretty serious."</p>
+
+<p>Because of the renovation, he was on paid leave for three months, and saying he couldn't just sit around doing nothing, Juhan had been holding weekly study sessions since the beginning of the year with two junior employees who had joined the company the year before last, focusing on the latest trends in the art world.</p>
+
+<p>"He even asked to use my place to save money on café coffee, and now they're eating jjajangmyeon."</p>
+
+<p>A smile crept into Ihyeon's voice at the grumbling.</p>
+
+<p>[I heard he's been studying coffee seriously lately too.]</p>
+
+<p>Juhan had started studying coffee last month. Phantom was covering the costs for his barista certification, but his own passion exceeded expectations.</p>
+
+<p>"It feels like watching a prodigal son come back. He's been pretty dependable these days."</p>
+
+<p>[When he had to separate from nuna, I was actually really worried about him. I'm glad.]</p>
+
+<p>"Yeah. I thought I knew him well, but maybe that was arrogance."</p>
+
+<p>Holding the phone steady with one raised shoulder, Liu Weikun pulled out a cigarette and let out a short laugh, and Ihyeon laughed along. By now Ihyeon sounded mostly awake.</p>
+
+<p>[I didn't get to tell you last night, but a new piece of mine will be exhibited in about two weeks.]</p>
+
+<p>"Really?"</p>
+
+<p>Raising the end of his sentence, Liu Weikun pulled the cigarette from his lips and dragged over a cold outdoor chair to sit down.</p>
+
+<p>[Will you come see it? It's been about a month since we last saw each other....]</p>
+
+<p>"Are you saying you miss me?"</p>
+
+<p>A smile overflowed from somewhere inside him, too full to hold back.</p>
+
+<p>After a brief hesitation, Ihyeon spoke clearly and without interruption.</p>
+
+<p>[Yes. I miss you. I'd like you to come here.]</p>
+
+<p>"......"</p>
+
+<p>For a moment, the smile vanished from Liu Weikun's face as if he couldn't believe his ears. Then the next instant, he collapsed forward, resting his arms on the table.</p>
+
+<p>"I think I just smelled your pheromones."</p>
+
+<p>[......]</p>
+
+<p>This time, silence fell on the other end. He could vividly picture Ihyeon's face flushed red all the way to the back of his neck and the edges of his ears.</p>
+
+<p>Liu Weikun straightened up and swept a hand through his hair. He missed him. Knowing he would see him soon only made him miss him more.</p>
+
+<p>"So, since the exhibition schedule is roughly set... can you tell me what kind of work it is? At least the subject or the theme. Hm? Is it the next piece in <em>Colorful Ghosts</em>?"</p>
+
+<p>[Mm... no.]</p>
+
+<p>"Really?"</p>
+
+<p>[Yes. And I think this will probably lead into a series as well.]</p>
+
+<p>"I'm curious."</p>
+
+<p>[It's a painting about a young cloud leaving its room and just setting off on a journey... but as I worked on it, I found myself wanting to draw it actually traveling from place to place.]</p>
+
+<p>So that Ihyeon wouldn't notice his surprise, Liu Weikun silently moistened his lips and wiped broadly around his mouth with his palm.</p>
+
+<p>Whether Ihyeon was consciously aware of it or not, Liu Weikun could feel it.</p>
+
+<p><em>A young cloud leaving a small room to begin a journey.</em></p>
+
+<p>Ihyeon was now trying to put his own story onto canvas. He had fully reclaimed his voice.</p>
+
+<p>Liu Weikun shifted in his seat and cleared his throat.</p>
+
+<p>"Now that you've finished a new piece, there's something I want to talk about...."</p>
+
+<p>He felt Ihyeon listening, his breath attentive.</p>
+
+<p>"I've been thinking about the remaining hundred million between us."</p>
+
+<p>[......]</p>
+
+<p>"Starting with this piece, I want you to stop sending me money."</p>
+
+<p>As expected, Ihyeon couldn't respond right away.</p>
+
+<p>[But that has nothing to do with the other things between us....]</p>
+
+<p>"At the time, the moment I saw you trembling in front of my house, my mind went blank and I genuinely wanted to help you with anything you were struggling with. But somewhere in that feeling there was also a calculation — thinking this might tie you to me just a little longer. That's why, to me, that money... doesn't feel clean. I haven't been able to touch any of what you've sent. The money you sent from Bali either. It never felt like it was mine to keep."</p>
+
+<p>Liu Weikun looked down at the ring shining on his left hand resting on the table. He hoped, at the very least, that this ring on his hand could be something he deserved.</p>
+
+<p>"What if I added the remainder to what you've already sent and donated the whole hundred million to organizations like 'Late Bloom'? I've already narrowed it down to a few groups that advocate for understanding between genders and support people struggling with gender identity."</p>
+
+<p>[Ah....]</p>
+
+<p>"It would mean something to me too. I know something about the loneliness and pain that come with being what one is."</p>
+
+<p>Ihyeon was silent for a moment. Liu Weikun waited without rushing him, letting the sunlight wash over him.</p>
+
+<p>[Thank you. It truly means a lot to me too. I'm probably... the only person in the world who has manifested 'late' in quite this way.]</p>
+
+<p>At Ihyeon's words, Liu Weikun smiled silently, only the corners of his lips lifting. He didn't think this meant everything had been shed. If anything, it was only the beginning.</p>
+
+<p>After ending the call, Liu Weikun let out a long, thin breath and lowered his tense shoulders.</p>
+
+<p>They shared their daily lives through several short calls a day, lay down together before sleep and woke up together in the morning... and yet calls with Ihyeon still required a certain tension.</p>
+
+<p>It wasn't because, as Ihyeon worried, he felt indebted to him. It was because he never wanted to love him wrongly again. Because he didn't want to grow lax under the guise of comfort.</p>
+
+<p>Standing up from his chair, Liu Weikun turned around. Beyond the wide front window, the richly layered blues of <em>Colorful Ghost</em> — now occupying the place where <em>Alienation</em> had once hung — caught his eye.</p>
+
+<p>Just as he had with <em>Alienation</em>, Liu Weikun still never failed to ask visitors to his home the same question.</p>
+
+<p>"What do you see in this painting?"</p>
+
+<p>But he no longer waited for anyone to give the correct answer. Partly because he had already met that person, and partly because he had come to accept that there was no correct or incorrect answer. As clichéd as it sounded, that was the truth.</p>
+
+<p>Even looking at the same painting, everyone projected their own experiences, emotions, and desires, so every impression differed. Now, listening to those differences, taking in the various colors, brought him joy.</p>
+
+<p>Habitually rubbing the ring on his left hand with his thumb while gazing at the painting in the living room, Liu Weikun suddenly felt that he had already received everything from Ihyeon.</p>
+
+<p>Ihyeon had once said:</p>
+
+<p><em>"I want to change. I want to be changed."</em></p>
+
+<p>And Liu Weikun himself had told him:</p>
+
+<p><em>"Me too. I want to be changed. Into something completely different."</em></p>
+
+<p>It had been a long-held wish, and at the same time a fate he had resigned himself to as something impossible.</p>
+
+<p>That night, Liu Weikun had not refused Ihyeon when he came to his bedroom. Perhaps, unconsciously, he had desperately wished for him to be someone who could shatter everything and render it all meaningless.</p>
+
+<p><em>"Will you change me, Seo Ihyeon?"</em></p>
+
+<p>And in the end, Ihyeon had.</p>
+
+<p>His body felt light, like the morning after a long, deep sleep. It felt as though countless tiny, delicate, shimmering particles were wrapping themselves around him. It was the scent of Ihyeon, the scent of Diamond Dust.</p>
+
+<div class="volume-end">
+
+<p><strong>Diamond Dust</strong>: Complete. Continues with the side stories.</p>
+<p class="glossary-entry"><strong>Pull Out</strong>: A surfing term. The act of exiting a wave you were riding based on your own judgment.</p>
+
+</div>

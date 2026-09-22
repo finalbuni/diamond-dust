@@ -5,8 +5,10 @@ chapter_number: 7
 chapter_id: "V2.1"
 title: "Golden’s Compulsion"
 korean_title: "골든의 결벽"
+permalink: /chapters/chapter-07/
+excerpt_separator: "<!-- section-excerpt-end -->"
 ---
-
+<div id="section-1" class="hybrid-section" data-section="1">
 <!-- Chapter 7 — Golden's Compulsion -->
 
 <p>Even though the weekday evening rush hour had passed, the lane connecting Yeonhui-dong to the Donggyo-dong intersection was narrow, and red taillights stretched ahead of us in a long line. It looked like we'd have to wait through at least two or three more light changes before we could make the right turn.</p>
@@ -250,9 +252,9 @@ korean_title: "골든의 결벽"
 <p>Resting her temple against my shoulder, Morae seemed to sense the complicated expression on my face. She tapped Mr. Rabbit on the notebook.</p>
 
 <p>"I like this one. Can I put it up in our café?"</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-2" class="hybrid-section" data-section="2">
 <p>Inwu hyung had offered to come pick me up wherever I was, but I felt perfectly fine — there was no reason to make him go to that trouble. When I kept insisting and only vaguely told him I was somewhere around Hongdae, he let out a sigh on the other end of the line and told me to meet him at a nearby location in a few minutes.</p>
 
 <p>The meeting spot was a newly opened hotel near Hongdae. As a boutique hotel, it wasn't the kind of place that demanded strict formality, but it was still intimidating in its own way — trendy and sophisticated enough to make me self-conscious.</p>
@@ -730,3 +732,4 @@ Beta. Pheromones.
 <p>But now, there was no need for even that assumption. There were no pheromones.</p>
 
 <p>His scent was just that — a scent.</p>
+</div>

@@ -1,0 +1,403 @@
+---
+layout: chapter
+volume: "Side Story I"
+chapter_number: 30
+chapter_id: "S1.2"
+title: "Side by Side"
+hybrid_short: true
+section_number: 2
+section_count: 3
+permalink: /sections/chapter-30/2/
+excerpt_separator: "<!-- section-excerpt-end -->"
+---
+<p>The two men stood just outside the center of the cascade pouring from the rain shower faucet. White foam slid down their bare skin. The abundant stream of water — falling with strong pressure like a waterfall, designed for its massage effect — continuously washed over Ihyeon's left shoulder as he stood facing the wall with his back to Liu.</p>
+
+<p>Liu kissed the nape of Ihyeon's neck and his shoulders, gently scrubbing his back with a sponge squeezed full of lather. The water running down from his left shoulder along the curve of his back washed the foam away the moment it touched Ihyeon's skin.</p>
+
+<p>Watching the white foam flow over his lean, toned body and disappear between the curves of his buttocks, Liu pressed his lips to the back of Ihyeon's neck and lightly bit his skin.</p>
+
+<p>"Mmm, I can do that part myself."</p>
+
+<p>Laughter colored Ihyeon's voice. The sponge had skipped ahead, drawn downward, gently pushing between his legs without having properly finished his back.</p>
+
+<p>Liu leaned his head over Ihyeon's shoulder and asked with practiced nonchalance,</p>
+
+<p>"Oh really? Can you?"</p>
+
+<p>Ihyeon wiped the water from his face with his palm and turned around. Liu's face was close enough that their noses nearly touched. He let his eyelids droop, gaze dropping to Liu's lips. Wet, they looked even more enticing than usual. Perhaps that was because they hadn't seen each other in five weeks before this homecoming.</p>
+
+<p>Ihyeon tilted his head back a little further and pressed his lips against Liu's. The time spent rubbing their soft, yielding flesh together was brief, but it was enough stimulation to make him crave something deeper.</p>
+
+<p>"Even if you can do it yourself, isn't it better when I do it for you?"</p>
+
+<p>At Liu's earnest request for agreement, Ihyeon burst out laughing and nodded. Liu followed with a low chuckle and gently bit his earlobe. The sponge, moving from his buttocks toward the front, pushed up his scrotum and stroked broadly across the inner skin of his thigh. Though Liu acted completely nonchalant, his touch was closer to caressing than to washing.</p>
+
+<p>"Mm..."</p>
+
+<p>At the sensation of Liu's bare hand — not the sponge — stroking over skin now slick with a mix of lather and water, Ihyeon bit down hard on his lip and closed his eyes. The sponge moved across his lower abdomen while Liu's right hand swept broadly around his buttocks. Unconsciously, Ihyeon tensed his glutes, and Liu's fingers dug into the cleft between his cheeks. Ihyeon knew immediately what Liu wanted.</p>
+
+<p>Ihyeon sensed his own pheromones.</p>
+
+<p>He could now clearly detect not only Liu's pheromones but his own as well. It was like a solid bath bomb slowly dissolving in warm water, gradually spreading a deeper color and scent. The more he was stimulated by Liu's desire and excitement, the more actively his own pheromones stirred.</p>
+
+<p>Yet even though desire dripped from the fingers pressing and rubbing around his entrance, Liu didn't immediately move to full sex. He seemed mindful of the time they had already thrown themselves at each other, nearly desperately, before the evening dinner.</p>
+
+<p>It had been five weeks since they'd seen each other in person. The moment they walked into the living room, without a word, they had clutched each other, devoured each other's lips, and practically ripped the clothes off each other.</p>
+
+<p>With his hips pressed tight against Liu's lower abdomen, grinding to feed his arousal, Ihyeon had wrapped his arms around Liu's shoulders. Over Liu's shoulder, he had come face to face with his own painting, <em>Colorful Ghost</em>, hanging above the sofa for the first time. It felt strange to be doing this in front of his own work.</p>
+
+<p>Once they moved to full penetration, the Changing couldn't be stopped, and that would mean Ihyeon would be restricted from going out because of Liu's eyes. He couldn't wear sunglasses at a dinner table with acquaintances. They had shown restraint, stopping at intense foreplay and coming only through each other's hands — but even without penetration, reaching climax three times in a row had exhausted him completely.</p>
+
+<p>This was something the old Ihyeon, who had been a Beta, couldn't have possibly imagined. Even if he had somehow managed to climax three times in a short period, recovering his desire and achieving an erection again that same day would have been out of the question.</p>
+
+<p>But he knew that just the brush of skin, or the intensity of Liu's gaze, was enough to instantly re-stimulate him — just as it had been since the moment he had first encountered Liu and Didi's pheromones had begun to stir.</p>
+
+<p>Liu, still gently cleaning his cock with the sponge while massaging around his entrance with his right hand, seemed satisfied with just that for now and pulled back. Turning to face him, Ihyeon took Liu's shoulders and turned him around, offering to wash his back. Liu turned with a reluctant, hesitant expression, for some reason, and his back looked even firmer than before.</p>
+
+<p>Ihyeon wiped the water from his face and squeezed a little more shower gel onto the sponge. Even with his arms hanging loosely, body completely relaxed, the contours of Liu's back muscles were clearly visible.</p>
+
+<p>He pressed the sponge firmly into the hollow where his nape met his back. The rich, water-heavy lather streamed down all at once, tracing the groove along his spine.</p>
+
+<p>His own pheromones were growing stronger in the presence of Liu's taut, well-balanced body. The intimacy still felt almost too exposed, as though his inner thoughts were being read aloud. While scrubbing the sponge over the back of Liu's unguarded shoulder, Ihyeon deliberately changed the subject.</p>
+
+<p>"You were bothered by the conversation you had with Inwu hyung earlier, weren't you?"</p>
+
+<p>"No. I didn't even know you two spoke privately."</p>
+
+<p>The immediate, stiff response was all the proof of jealousy he needed. It seemed Liu was expressing his displeasure indirectly.</p>
+
+<p>"In that case, I guess you don't need me to tell you what we talked about."</p>
+
+<p>"......"</p>
+
+<p>Even with Liu's back turned, Ihyeon felt like he could picture the crestfallen expression. He swallowed a laugh, pretending to clear his throat. As he stroked the lean yet firm waist with the sponge, he rested his chin on Liu's shoulder.</p>
+
+<p>"As you probably expected... he was apologizing for that surprise kiss."</p>
+
+<p>Before there had ever been a chance to apologize properly, everything had exploded at once — and by the time the fallout settled, Ihyeon had already left. Inwu, whom he was now meeting for the first time in nearly two years, had spoken with a noticeably changed demeanor, saying he had wanted to apologize in person for a long time.</p>
+
+<p>Although they had exchanged occasional messages to check in on each other during that time, there had been a certain distance between them, unlike the easy closeness of before. Ihyeon had never tried to bridge that gap, assuming it was because Inwu felt sorry for both him and Liu.</p>
+
+<p>Liu tilted his head sideways, rinsing his face under the stream of water. He turned to face Ihyeon and bent to give him a brief kiss. Then he snatched the sponge and began rubbing over Ihyeon's chest again — the part Ihyeon had already cleaned himself.</p>
+
+<p>He just wanted Liu to show what he felt. Whether it was trivial or weighty, Ihyeon wanted to receive it. He placed both hands on Liu's shoulders and stroked them gently outward.</p>
+
+<p>"I don't mind when you're jealous. You don't still think that I hate you... do you?"</p>
+
+<p>Liu lifted the eyes that had been cast downward.</p>
+
+<p>"I want to interfere, control, lock you away... Fortunately, it hasn't gotten to that point. But yes, honestly, I am bothered. It doesn't feel very good."</p>
+
+<p>"You're still not uncomfortable about the kiss, are you?"</p>
+
+<p>Liu wiped the water from his face and shook his head playfully.</p>
+
+<p>"It's not that. I just hate even having to mention it — that kiss, that whole incident."</p>
+
+<p>Once again, Liu's lips drew near at an unexpected moment. It might have been a stretch to read into it, but every time the word "kiss" came up, he was pressing his lips against Ihyeon's — as if trying to overwrite the memory of that other kiss with his own.</p>
+
+<p>Ihyeon could no longer hide his smile.</p>
+
+<p>"Why?"</p>
+
+<p>He looped his arms around the neck of Liu, who was sulking to cover the embarrassment of having his feelings seen.</p>
+
+<p>"Do you know why I like it when Awi is jealous?"</p>
+
+<p>"......"</p>
+
+<p>"Because he's incredibly... cute."</p>
+
+<p>Liu, who was considerate in every respect to the point of being almost flawless and never threw the kind of demanding tantrum lovers sometimes did, became flustered only when others showed affection toward Ihyeon. That fact made Ihyeon smile.</p>
+
+<p>Liu bit his lower lip as if suppressing a laugh and wrapped his arms around Ihyeon's waist. He looked a little awkward at being called cute, yet he didn't entirely dislike hearing it from Ihyeon.</p>
+
+<p>"Now that I think about it, that's strange."</p>
+
+<p>What was strange? Ihyeon asked the question with his eyes.</p>
+
+<p>"Inwu is older than me, so why am I 'Director'?"</p>
+
+<p>"I don't really call you 'Director' anymore..."</p>
+
+<p>"Hmm, you don't call me hyung either."</p>
+
+<p>A playful impulse sparked in Ihyeon.</p>
+
+<p>"Should I start calling you hyung from now on?"</p>
+
+<p>"I don't want to share a title with Choi Inwu."</p>
+
+<p>He shook his head firmly, scrunching his brow. These expressions — ones Ihyeon was sure Liu had never shown anyone else — were endearing. He wanted to see even more of them.</p>
+
+<p>Ihyeon cupped Liu's cheeks in both hands and toyed with them gently.</p>
+
+<p>"I don't know about Awi, but I like times like this too. Just... the two of us chattering about silly things..."</p>
+
+<p>He pulled Liu tighter against him. The gaze beneath those lowered eyelids was warm.</p>
+
+<p>"I like you, so how could I not like this?"</p>
+
+<p>"Don't always give me such perfectly right answers."</p>
+
+<p>"......"</p>
+
+<p>Liu looked down at Ihyeon with a puzzled expression, as if he didn't quite understand what was meant by that. Ihyeon pulled his wrist toward the center of the spray. They embraced, still covered in suds, and kissed. Even the water that slipped between their joined lips felt arousing.</p>
+
+<p>They finished showering, deliberately ignoring their already half-hard cocks. Their bodies, slightly warm from the steam inside the stall, dried quickly in the cool air the moment they stepped out into the bathroom. Without needing to rummage through the carry-on he had brought from Paris, Liu found underwear and pajamas that Ihyeon had left downstairs, neatly organized in his dressing room.</p>
+
+<p>Under the pretense of drying each other's hair, they tangled and played around for quite some time with a single hairdryer between them. By the time their hair was dry, they were both parched.</p>
+
+<p>"I'd like a beer. How about you, Awi?"</p>
+
+<p>"There's no beer in the bedroom fridge right now. I'll go get some."</p>
+
+<p>Ihyeon urgently grabbed Liu's shoulder just as he turned toward the door.</p>
+
+<p>"I'll go get it."</p>
+
+<p>"......"</p>
+
+<p>"You're making me feel spoiled."</p>
+
+<p>Liu chuckled and ruffled Ihyeon's dry hair.</p>
+
+<p>"Maybe it's okay for you to get a little spoiled."</p>
+
+<p>Even as he muttered that, he readily let Ihyeon go.</p>
+
+<p>The living room was bathed in moonlight, bright enough without the lights on. Before leaving with two beers, Ihyeon turned back as if drawn by something. The space was almost the same as he remembered — except that <em>Colorful Ghost</em> now hung where <em>Alienation</em> used to be.</p>
+
+<p>It felt as though he had started his day here just that morning, and yet it also felt like he had been away longer than the time he had actually spent in Paris. There wasn't a single corner of the apartment that wasn't filled with memories. It was in a place like this that he had waited for him, keeping silent.</p>
+
+<p>Ihyeon suddenly became aware that he was standing exactly where he had first discovered <em>Alienation</em>. He looked up at <em>Colorful Ghost</em> hanging above the sofa. It seemed pointless to try and tally what had been lost or gained, or what had been replaced by what, in the flow of time.</p>
+
+<p>He smiled faintly, as if recalling a pleasant memory, then left his spot and hurried back up the stairs. He passed through the hallway — motion sensors lighting the indirect lighting as he went — and opened the bedroom door.</p>
+
+<p>"......"</p>
+
+<p>Ihyeon paused just as he was about to step inside barefoot. Liu was sitting loosely against the headboard, shirtless. The scene recalled something from the past. Ihyeon smiled and approached the bed.</p>
+
+<p>Liu shifted further inward and patted the spot beside him. Just as Ihyeon was about to climb onto the bed, his gaze snagged on a framed picture on the bedside table.</p>
+
+<p>"This one... I'm actually a little embarrassed by this one."</p>
+
+<p>"Hm?"</p>
+
+<p>Liu, accepting the beer, bent over and looked in the direction Ihyeon was gazing. A smile touched his face the moment he spotted the frame. He reached out his arm toward Ihyeon, who had stopped awkwardly beside the bed.</p>
+
+<p>"Why? I like this one just as much as <em>Alienation</em> or <em>Colorful Ghost</em>."</p>
+
+<p>"Are you serious?"</p>
+
+<p>Liu's arm wrapped around Ihyeon's waist and yanked him close. Thrown off balance, Ihyeon landed squarely on Liu's thigh. Liu snatched a beer bottle from his hand and grinned.</p>
+
+<p>"If <em>Alienation</em> is a painting of Seo Ihyeon before he knew me, then <em>Mr. Rabbit</em> is how Seo Ihyeon saw me."</p>
+
+<p>Seeing his face light up with that boyish delight, Ihyeon couldn't help smiling too. He slid off Liu's lap and settled right beside him, facing him. They lightly clinked their bottles — which Liu had just twisted open — and quenched the thirst they had built up after showering. As he swallowed the ice-cold beer, cold enough to send a pleasant tingle through his head, Ihyeon glanced over at the drawing in the frame.</p>
+
+<p>Before heading out for the evening dinner, when he had come upstairs and first discovered the <em>Mr. Rabbit</em> drawing in the bedroom, Ihyeon had doubted his own eyes. It felt as if someone had cast a spell across time and space. And in the very next moment, heat had crept up his face, as though a private fancy from his past — something he had indulged alone while sharply conscious of Liu's existence — had been laid bare.</p>
+
+<p>Liu had explained that he had used his vacation time last summer to go to Bali. He recounted meeting Morae on Seminyak Beach, how Yeehan had joined them, how he had confessed everything about the Changing to both of them, and how the whole thing had ended with Yeehan punching him in the face.</p>
+
+<p>"I felt so relieved that the people who stayed by your side while you were in silence were those two. He absolutely had the right to hit me."</p>
+
+<p>Liu had said it with a smile, to Ihyeon, who hadn't known what to do.</p>
+
+<p>After the European museum tour ended, there had been a plan to go to Bali for a few days of vacation, and that plan had already been discussed with Morae and Yeehan. Yet even though Liu had mentioned visiting a few times, he had never once brought up having met them there or having told them about the Changing. That was why Ihyeon had been even more surprised.</p>
+
+<p>Liu set his beer bottle down, resting it across the upper part of his abdomen. He looked down at the green bottle and spoke carefully.</p>
+
+<p>"Morae was a Golden."</p>
+
+<p>"...Nuna was?"</p>
+
+<p>"It's very rare, but there are people who figure out how to control themselves. People who can objectively observe their own state or emotions and manage them with skill."</p>
+
+<p>In that case, it was entirely plausible that Morae had become a Golden without even realizing it herself. Ihyeon nodded.</p>
+
+<p>"I suggested she take the test. If she were officially certified as a Golden, it would make things easier in various ways. But Morae just... laughed."</p>
+
+<p>Ihyeon felt like he could almost picture exactly how Morae must have laughed at that suggestion. For her, official certification as a Golden was probably just an administrative distinction with little real significance. Whether recognized as a Golden or not, neither she nor her life would change because of it.</p>
+
+<p>Liu extended his arm and wrapped his hand around the back of Ihyeon's neck. Then he pressed his forehead against Ihyeon's and smiled.</p>
+
+<p>"It won't take Seo Ihyeon long to become a Golden either. Your ability to sense your own pheromones came very fast."</p>
+
+<p>Lightly massaging the back of his neck, Liu pressed his lips to Ihyeon's. Like gentle creatures confirming and communing with each other, they rubbed their noses and lips together, showing affection in quiet gestures. With their lips still touching, Ihyeon whispered,</p>
+
+<p>"I missed you."</p>
+
+<p>"......"</p>
+
+<p>Liu's face looked like someone who had just received an unexpected gift. Watching him brush his hand over his face, trying not to show how moved he was, Ihyeon felt a tremor of pain. He felt as if his own expressions were never enough to satisfy Liu emotionally.</p>
+
+<p>Liu never demanded affection or pestered him for it, but Ihyeon knew that this consideration wasn't solely born of guilt over the Changing. It was simply the way Liu loved him. Even if he had done nothing wrong, he would have cherished him in exactly the same way.</p>
+
+<p>"I missed you so much."</p>
+
+<p>It was an awkward, direct way of putting it. Catching the intention behind even that clumsy effort to express his feelings, Liu smiled and rubbed his nose against Ihyeon's.</p>
+
+<p>"I missed you very much too, Seo Ihyeon. I was so happy you were coming — but I was also frustrated that I had to wait an extra week to see you."</p>
+
+<p>A relatively chaste kiss followed — more akin to a peck than a proper kiss. With a soft sound, their lips parted briefly, then met again, just slightly deeper. They were slowly moving away from chaste.</p>
+
+<p>Liu savored the feel of soft flesh, shifting the angle of his jaw as he rubbed his lips against Ihyeon's, then slowly, firmly drew in his lower lip.</p>
+
+<p>"Mm... ugh..."</p>
+
+<p>Ihyeon groaned deep in his throat and placed a hand on Liu's bare chest. Liu pulled his face back slightly without releasing his lips. With a wet, intimate sound, Ihyeon's lips found their place again. The bitter taste of beer on their lips was gradually being overtaken by the scent of pheromones.</p>
+
+<p>Tapping the top of Liu's bare chest with his fingertips, Ihyeon murmured in a voice tinged with slight uncertainty,</p>
+
+<p>"Tomorrow, we're both free..."</p>
+
+<p>"......"</p>
+
+<p>Liu took the beer from Ihyeon's hand and set both glass bottles down on the bedside table.</p>
+
+<p>"What are you planning to do, tempting me like that?"</p>
+
+<p>He sighed as he swept his bangs back, then offered a playful smile. He wrapped his arms around Ihyeon's waist and pulled him back onto his lap, just as before. This was the time alone they had been waiting for all evening.</p>
+
+<p>As they shared a deep kiss, Liu pushed Ihyeon's T-shirt up over his chest. Ihyeon raised his arms to help him remove it. His eyes, already dark and narrowed, instantly sharpened with arousal. He felt his own pheromones twine with the potent scent Liu was releasing. Even that alone was enough to make his lower body twitch where it pressed close against him.</p>
+
+<p>Cupping Ihyeon's bare back with both hands, Liu pressed their lower bodies together and ground against him slowly. The firm swell of his cock inside his training pants was unmistakable even through the thin pajamas.</p>
+
+<p>"You kept glancing down there in the shower."</p>
+
+<p>Instead of staying quiet or denying it, Ihyeon gave a small, sly smile. Without hesitation, he shifted his hips, deliberately pressing back against the bulge pushing against his groin.</p>
+
+<p>"You were poking around down there too... nonstop... mmph."</p>
+
+<p>Ihyeon's retort was cut short. Liu's hands, which had been caressing his back, suddenly plunged inside his pajamas and gripped his buttocks firmly.</p>
+
+<p>Biting gently on his earlobe as Ihyeon buried his forehead into his shoulder and caught his breath, Liu suppressed his low voice and whispered quickly,</p>
+
+<p>"That's right. I was. I was trying to act composed, but honestly, I thought I was going to lose my mind from the moment we were at the airport. I was anticipating it. I even took my medication secretly as soon as we got home, without Seo Ihyeon knowing."</p>
+
+<p>Since first becoming aware of his pheromones back in February, Ihyeon had been taking the suppressant prescribed for Omegas. Although the doctor had said the chance of pregnancy was extremely slim before he fully presented, Liu had been consistently taking birth control pills since then — an oral contraceptive exclusive to Alphas that worked on the acrosome and tail of sperm for a set period, preventing penetration of the egg.</p>
+
+<p>But regardless of the suppressant for Omegas or the contraceptive for Alphas, the gravitational pull between Ghost and Didi remained unchanged. The two could still sense each other's pheromones and were completely unable to resist when the other's pheromones intensified beyond a certain threshold.</p>
+
+<p>Since there was no existing data or literature on how the situation between Ghost and Didi would change once the Changing was complete, they had no choice but to wait and see. Even Marcus could not speculate further at this point.</p>
+
+<p>But the outcome was not a particularly important issue for the two of them.</p>
+
+<p>Whether their relationship settled into one purely between an Alpha and an Omega, or whether the gravitational pull between Ghost and Didi remained and layered on top of that — they were prepared for any direction.</p>
+
+<p>"Ugh, mm..."</p>
+
+<p>Ihyeon let out a low groan at the kiss — the one that moved between his lips, holding his upper and lower lip in turn and releasing the tension with soft, wet sounds. He gazed down at Liu from beneath heavy, languid eyelids.</p>
+
+<p>Even while showering, drying each other's hair, and fooling around, he had gotten aroused and released his pheromones — but he hadn't tried to do anything about it. The thought that he had been tightly coiled with desire the whole time made Ihyeon laugh to himself. At the same time, he felt a wave of heat move through him.</p>
+
+<p>Liu's hands were pulling down the waistband of his pajamas. Ihyeon lifted his hips slightly and whispered into his ear,</p>
+
+<p>"You don't have to stop, no matter what I say. Pheromones... don't lie."</p>
+
+<p>Even though Ihyeon had warned him in advance, he never uttered a single word of restraint during the two ejaculations and knotting that followed. On the contrary — with his honest expressions of desire and the boldness of his body — he kept Liu's composure and self-control perpetually on the edge.</p>
+
+<p>Now that he could properly sense his own pheromones, Ihyeon had begun to relish a feeling of liberation rather than hesitation before sex. The problem was that sexual desire outside the normal range — driven by pheromones — could also collide with the limits of one's physical stamina.</p>
+
+<p>Of course, it was Liu who did the actual work: caressing his entire body, lifting him, moving his hips, burning through his muscles. But feeling pleasure throughout his whole body for an extended stretch, in a state of extreme sexual overstimulation, could also lead to exhaustion.</p>
+
+<p>Even after two rounds of knotting and ejaculation spanning several hours, Liu was still inside him. He would occasionally pull back to expel the fluid that had filled him to the point where inserting was difficult, but the moment just enough space was secured to move back and forth while seated inside, his cock would immediately block the entrance again.</p>
+
+<p>Ihyeon lay exhausted on the mattress, but Liu was still not satisfied. Pressing kisses to his cheek, the nape of his neck, and his shoulder as he lay facedown, Liu wrapped an arm around Ihyeon's stomach and lifted his upper body.</p>
+
+<p>They were joined, chest to back, with Liu kneeling. As the position shifted, Ihyeon felt Liu's cock find a new angle inside him and writhe.</p>
+
+<p>"Hahh, ngh... ah..."</p>
+
+<p>The lingering sensation from the second knotting still had Ihyeon's insides trembling faintly. When new stimulation layered on top of that, he couldn't bear it.</p>
+
+<p>He felt as if he had no energy left to feel anything more, yet his pheromones were still reacting. His mind and every cell were aflame, but he had no strength left to support his body, no way to keep his knees or his lower back steady.</p>
+
+<p>"It's okay. Let go of the tension and rely on me." The whisper alone sent a shiver through him. His entrance tightened on its own, and his pheromones tangled with Liu's. Ihyeon was nearly sobbing.</p>
+
+<p>He had thought Liu had reached the end — but he hadn't. Liu was slowly pressing deeper into the inner walls, which were narrower than usual, slick with semen and arousal. Ihyeon wished he would just thrust hard. He wanted him to go wild like during the knotting moments ago, to shatter this agonizing tension to pieces. The slow, deliberate penetration — like embracing the stiff, dry body of a male Beta — was scorching Ihyeon's mind.</p>
+
+<p>"Ah... ah!"</p>
+
+<p>Ihyeon's head, which had been hanging limp, suddenly snapped back as if someone had yanked it from behind. Sparks seemed to fly from somewhere below. Liu's glans slammed against the farthest point, the final wall of his depth.</p>
+
+<p>Ihyeon thought this was liberation. Now that he was fully inside, he expected a relentless pounding that would shatter his body. Being driven into limitless pleasure seemed better than this agonizing suspense.</p>
+
+<p>But that wasn't what happened.</p>
+
+<p>Liu paused with only half of himself inside, his hips thrusting in small, rapid strokes. Then came one heavy thrust, followed by several shallow in-and-outs before a final, deep drive all the way to the root. And the rhythm was entirely unpredictable — different every time. Ihyeon felt almost anxious about when the next deep thrust would come.</p>
+
+<p>The empty space left inside him felt unbearably itchy and hollow. Only knotting seemed like it could quench this thirst. He wanted the powerful pulse of his cock — rapidly expanding and contracting — to pound against his inner walls.</p>
+
+<p>It was precisely because of that knotting that his entire body had become so exquisitely sensitive that he had lost complete physical control, unable even to manage his own flowing saliva.</p>
+
+<p>And yet he found himself craving another knotting.</p>
+
+<p>Panting, Ihyeon lowered his head. His cock, visible in his line of sight, remained fully hard, entirely independent of his mental exhaustion. Liu's hips, pressed tight against his back and trembling, made it bob uncontrollably.</p>
+
+<p>"Hah... hah."</p>
+
+<p>Ihyeon twisted his shoulders and clawed at Liu's hands where they gripped his chest.</p>
+
+<p>"Seo Ihyeon, what is this? What have you done?"</p>
+
+<p>"Ah... <em>hic</em>... nngh... haah..."</p>
+
+<p>Liu had stopped thrusting, but he spoke in an agitated voice. Ihyeon couldn't properly process the words. All that felt vivid was his own sobbing — raw, like an appeal.</p>
+
+<p>Liu slowly pulled back once more, creating a gap between his cock and the inner wall. He was aware of the Omega instinct — the drive to stimulate an Alpha who hadn't been given enough, to push him toward ejaculation and knotting. He just hadn't experienced it before. Just as the Alpha instinct had been only theory to Liu until now.</p>
+
+<p>This was different from Ihyeon's arousal fluid up to this point. It wasn't the thick, clotted fluid that had occasionally welled up before. This was much thinner, much warmer — drenching the tip and seeping rapidly between the inner wall and his cock, flowing without stopping. It was as though Ihyeon's body was releasing a golden shower not through his cock but from deep inside, pouring over him from within.</p>
+
+<p>Liu felt himself boiling over.</p>
+
+<p>"Ngh... no, not there — !"</p>
+
+<p>As Liu's relentless thrusting continued, Ihyeon waved his hands in the air as if trying to swat away a mirage.</p>
+
+<p>"Can you feel it? You're completely..."</p>
+
+<p>"Stop... don't say it..."</p>
+
+<p>Ihyeon shook his head and sobbed. He clearly knew what the fluid soaking his insides, his groin, his thighs, and even the sheets resembled.</p>
+
+<p>Liu shook his head and rubbed his face against Ihyeon's shoulder. It felt as if he were releasing pheromones through every pore while drinking in Ihyeon's. Following where Ihyeon led him, responding to what his pheromones demanded, he had no choice but to move.</p>
+
+<p>"Seo Ihyeon — what are you? How do you even know how to do this? Huh?"</p>
+
+<p>"Hngh, *sob*... I didn't do anything..."</p>
+
+<p>Even held firmly by Liu's arm around his upper body, Ihyeon's thighs were trembling uncontrollably. Liu lowered his hips, spread his knees, and pulled Ihyeon's waist down onto his thighs.</p>
+
+<p>"Lean on me more. Sit closer."</p>
+
+<p>"It's deep... this is too deep..."</p>
+
+<p>As Liu gently rocked their bodies up and down to soothe Ihyeon, who was crying like a child, the internal movement stimulated him further, and Ihyeon cried even more pitifully.</p>
+
+<p>"It's... it's knotting again. I hate it..."</p>
+
+<p>"It's not knotting, Ihyeon. I'm the one moving."</p>
+
+<p>To calm him, Liu pressed several kisses to the side of his ear. Ihyeon's pheromones poured out an overwhelming, heavy scent signaling that he craved stronger pleasure — and yet his lips kept denying it.</p>
+
+<p>Meanwhile, thin, clear fluid continued to seep along the edges of the cock filling them together. The taut ridge of Liu's thigh was completely soaked, glistening obscenely. Liu had to hold Ihyeon's chest and lower abdomen even tighter to keep him from slipping.</p>
+
+<p>When Ihyeon felt the sensation of his inner walls being pushed outward, his belly swelling with it, he opened his eyes wide and thrashed his limbs.</p>
+
+<p>"Ah! Hah! You said it wasn't knotting — but..."</p>
+
+<p>"I'm sorry. I am. It really wasn't just a moment ago... I'm sorry, Ihyeon."</p>
+
+<p>"Kun... *sob*."</p>
+
+<p>Fumbling, Ihyeon found Liu's left hand — the one with the ring — and gripped it. As he called Liu's name over and over with their fingers tightly interlocked, Liu answered him again and again. Pressing kisses to his ear, stroking his chest, caressing between his legs — they passed through the knotting together.</p>
+
+<p>Drawn deeper inside, control crumbling, pulled by irresistible pheromones into the only form of union his body could crave.</p>
+
+<p><em>So this is what it means to be an Alpha.</em></p>
+
+<p>Liu found it almost absurd that he was only now — well past thirty — thinking this. His life as an Alpha had been lived in complete ignorance of what that actually meant, rendering even the title of Golden Alpha hollow. He had believed, rigidly, that suppression and concealment were the only way. Those beliefs might never have broken open if he had not met Ihyeon.</p>
+
+<p>Liu felt a fresh, boundless affection for the presence in his arms. Like the sea's endless longing for the shore — throwing itself onto the beach over and over, breaking apart, being absorbed — he knew his love for Ihyeon would never run dry. Pressing his lips against the bare shoulder before him, Liu spoke his love without a sound.</p>

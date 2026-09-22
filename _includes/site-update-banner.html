@@ -1,0 +1,24 @@
+<div class="reader-survey" id="site-update-banner" hidden>
+    <div class="reader-survey__inner">
+        <div class="reader-survey__message">
+            <span class="reader-survey__title">You have been heard! 💛</span>
+            <span class="reader-survey__text">I made some changes to the chapter layout based on your feedback.</span>
+        </div>
+        <a class="reader-survey__button" href="{{ '/updates/' | relative_url }}">See what’s new →</a>
+    </div>
+    <button class="reader-survey__close" id="site-update-banner-close" type="button" aria-label="Dismiss update announcement">×</button>
+</div>
+<script>
+(() => {
+    const banner = document.getElementById('site-update-banner');
+    const close = document.getElementById('site-update-banner-close');
+    if (!banner || !close) return;
+    const key = 'diamondDustHybridUpdateSeptember2026Dismissed';
+    try { if (localStorage.getItem(key) !== 'yes') banner.hidden = false; }
+    catch (_) { banner.hidden = false; }
+    close.addEventListener('click', () => {
+        banner.hidden = true;
+        try { localStorage.setItem(key, 'yes'); } catch (_) {}
+    });
+})();
+</script>

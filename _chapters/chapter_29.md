@@ -4,8 +4,10 @@ volume: "Side Story I"
 chapter_number: 29
 chapter_id: "S1.1"
 title: "One by One"
+permalink: /chapters/chapter-29/
+excerpt_separator: "<!-- section-excerpt-end -->"
 ---
-
+<div id="section-1" class="hybrid-section" data-section="1">
 <!-- Chapter 29 — One by One -->
 
 <p class="sub-chapter"><strong>· SEOUL ·</strong></p>
@@ -237,9 +239,9 @@ title: "One by One"
 <p>"If that's the case, just stop contacting him altogether. I'll pass along your regards."</p>
 
 <p>Once Liu stepped out the front door, he quickened his pace, making up for the time lost because of Choi Inwu.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-2" class="hybrid-section" data-section="2">
 <p>Liu had already been in the dressing room for thirty minutes. After piling clothes on the bench sofa and agonizing over the choice, he had finally settled on a white shirt and dark gray sweater. Having stripped his upper body to change, he paused with his hand on the shirt and hesitated. He wasn't feeling it.</p>
 
 <p>He went back to the innermost closet, where shirts were neatly arranged by color and material, and selected a new one — a black shirt in a soft, supple fabric that draped well against the body, with a wide collar that offered a subtle touch of style.</p>
@@ -1103,9 +1105,9 @@ title: "One by One"
 <p>In reality, he dreamed of Liu more often than he talked to him about it. He also couldn't tell Liu that sometimes he would sit alone in this room, gazing blankly at the ring in its case.</p>
 
 <p>Ihyeon closed the lid of the case, unable even to put it back in its proper place before being wearily pulled into sleep. Liu's parting remark — <em>dream of me</em> — had been meant as a joke to make him laugh, but just for tonight, Ihyeon wished that remark could become a spell.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-3" class="hybrid-section" data-section="3">
 {% capture excerpt %}
 <p>I leave for Florence in three days. This was decided two weeks ago, after about a month of careful discussion. My family is deliberately creating a cheerful atmosphere, as if I were merely leaving for a vacation, saying Florence — now the capital of the Kingdom of Italy — will be a vibrant city. But they fail entirely to grasp the true nature of the changes unfolding, relying only on news that drifts across the sea, news they interpret in the ways that suit their palates, while they sit at tables by the lake in the garden of their English estate.</p>
 
@@ -1147,9 +1149,9 @@ title: "One by One"
 {% endcapture %}
 
 {% include excerpt.html content=excerpt %}
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-4" class="hybrid-section" data-section="4">
 <p>I opened my eyes to the feeling of hot liquid running from the corner of my eye to my temple. I was lying on my back, staring at the ceiling in my room at The Hands' studio. My body ached as if I had violently pushed through the wall of time to cross over into reality from some point in the past. I had to lie there for a while, collecting myself, just to regain my sense of reality.</p>
 
 <p>It felt like I had dreamed of Erich and his Ghost, but I couldn't recall the details. Waking up in tears confirmed I had been dreaming right up until that moment, yet the memory had been completely erased.</p>
@@ -1587,9 +1589,9 @@ title: "One by One"
 <p>Ihyeon let out a weak laugh at the response, which was delivered with complete seriousness and no trace of humor. He wanted to exchange a few more of these nonsensical conversations, but he felt he couldn't possibly manage it anymore. A slow, devoted, long kiss began to envelop his prone body.</p>
 
 <p>If he fell asleep now, he thought he might dream of Erich and his Ghost finally reuniting in tumultuous Florence.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-5" class="hybrid-section" data-section="5">
 <p>The group gathered at a café not far from The Hands numbered around ten people. There were those he had greeted at the last Christmas party, like Ben and Jun, as well as people he had seen a few times when he used to linger around The Hands, and people he was meeting for the very first time.</p>
 
 <p>Regardless, these were Ihyeon's colleagues and neighbors who shared daily life with him in the same space, and since Liu occupied a seat here as Ihyeon's lover, his own impression would inevitably affect Ihyeon as well. For Liu, it was bound to be a tense gathering.</p>
@@ -1979,9 +1981,9 @@ title: "One by One"
 <p>Liu lowered his head to kiss him, but Ihyeon twisted his body to avoid his face. They spent quite some time like that, playing in front of the café. Neither of them felt the cold.</p>
 
 <p>When they returned inside the café together, both of their faces were flushed red, and Ihyeon was holding a small bouquet of yellow mimosa.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-6" class="hybrid-section" data-section="6">
 <p>"Not for long... just two or three days."</p>
 
 <p>Liu stood in the bathroom with the door cracked open just a sliver, speaking in a low voice on the phone. He had one hand tucked into the front pocket of his robe, which was tied loosely at the waist, and swept his hair back.</p>
@@ -2799,3 +2801,4 @@ title: "One by One"
 <p>Liu spoke, his voice not hiding its tremor. Ihyeon's smile — possessing a warmth softer than sunlight — materialized before his eyes. A gentle breeze carried the familiar and longed-for scent.</p>
 
 <p>He glided once more across clean waves, heading toward the beach. His painting. The language Ihyeon had given him. Like <em>Colorful Ghost</em>.</p>
+</div>

@@ -4,8 +4,10 @@ volume: "Side Story II"
 chapter_number: 32
 chapter_id: "S2.2"
 title: "Fiancé (1)"
+permalink: /chapters/chapter-32/
+excerpt_separator: "<!-- section-excerpt-end -->"
 ---
-
+<div id="section-1" class="hybrid-section" data-section="1">
 <!-- Chapter 32 — Fiancé (1) -->
 
 <p>Basel, Switzerland.</p>
@@ -533,9 +535,9 @@ title: "Fiancé (1)"
 <p><em>This unknown entity would make every approaching moment shine with mystery and delight.</em></p>
 
 <p><em>Today was being filled with the best moments. Just like yesterday.</em></p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-2" class="hybrid-section" data-section="2">
 <p>"Kun, how about a shared apartment for our accommodation? We could even cook for ourselves — wouldn't that be fun?"</p>
 
 <p>Ihyeon had said that when they were just starting to plan the trip.</p>
@@ -577,9 +579,9 @@ title: "Fiancé (1)"
 <p>It was a pleasure they wouldn't have found staying at a historic luxury hotel with all its services at hand.</p>
 
 <p>That pleasure was getting a glimpse of what living together would actually be like.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-3" class="hybrid-section" data-section="3">
 <p>While Ihyeon wrote a postcard at the standing-height table in the center of the post office, Liu looked around the interior.</p>
 
 <p>It was brighter and cleaner than he'd expected, looking quite modern. Various postal-related items were also for sale — postcards, writing paper, envelopes — which made it look almost more like a stationery shop than a post office.</p>
@@ -827,9 +829,9 @@ title: "Fiancé (1)"
 <p>Ihyeon's concern sent a sharp pang through Liu's chest. He rubbed his nose against Ihyeon's temple and whispered,</p>
 
 <p>"Yeah, I won't. My angel."</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-4" class="hybrid-section" data-section="4">
 <p>Whether at Coop or Migros, most checkout counters operated on a self-service basis. Self-checkout machines were becoming the trend in supermarkets across Europe, Paris included.</p>
 
 <p>Liu and Ihyeon pushed their cart toward the self-checkout area.</p>
@@ -1031,9 +1033,9 @@ title: "Fiancé (1)"
 <p>He wanted to tell his past self to wait a little longer. That such a wonderful day would come. That Seo Ihyeon was worth waiting a lifetime for.</p>
 
 <p>But there wasn't much need to say it. Because the Liu of that time had already known that fact well.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-5" class="hybrid-section" data-section="5">
 <p>Their lodging was on the first floor of a quaint two-story detached house.</p>
 
 <p>There was one bedroom separated only by a wall with no door, and the large window in the combined living room and kitchen overlooked a well-maintained courtyard. They had already enjoyed breakfast three times at the small table there over the past week. They also appreciated that the building was quiet despite facing the road, because the windows looked out over the courtyard.</p>
@@ -1225,9 +1227,9 @@ title: "Fiancé (1)"
 <p>Liu stroked Ihyeon's arms wrapped around his waist. They looked out at the same view.</p>
 
 <p>He felt a fierce urge to ask Ihyeon to marry him right then — to make this moment last forever. But Liu only offered an ambiguous smile in a place where Ihyeon couldn't see it.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-6" class="hybrid-section" data-section="6">
 <p>"Wow... it looks quite nice, doesn't it?"</p>
 
 <p>"It looks even better in the photo."</p>
@@ -1573,9 +1575,9 @@ title: "Fiancé (1)"
 <p>All he could think about was wanting this person before him to be his partner.</p>
 
 <p>The long candle had burned down to a stub. Even half-obscured by the maple tree in the courtyard, the light of the autumn moon was clear and bright.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-7" class="hybrid-section" data-section="7">
 <p>By the time they finished washing dishes side by side, the world outside had gone completely dark. Of the candles left burning on the dining table, one had gone out — only one remained, sputtering. It looked like it had about three hours left.</p>
 
 <p>Liu walked to the table and blew a puff of air at the remaining flame. After moving the smoking candlestick to the counter, he approached Ihyeon, who was finishing up the last of the dishes. He swept Ihyeon's hair back with his still slightly damp hands.</p>
@@ -1669,9 +1671,9 @@ title: "Fiancé (1)"
 <p>Liu wrapped his arm around Ihyeon's back and pressed his lips to his forehead, whispering like a vow.</p>
 
 <p>"I won't. My angel."</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-8" class="hybrid-section" data-section="8">
 <p>While shampooing each other's hair and rubbing shower gel foam over each other's bodies, they tangled playfully like boys. Admittedly, the playfulness carried a certain sensual edge.</p>
 
 <p>They giggled as they squeezed foam from the sponge onto each other's chests and nipples, and Ihyeon even used Liu's foam-covered hair to sculpt two little horns on either side of his head.</p>
@@ -2001,9 +2003,9 @@ title: "Fiancé (1)"
 <p>"Do it. Have Awi suck me here."</p>
 
 <p>Liu lost his composure entirely.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-9" class="hybrid-section" data-section="9">
 <p>Moonlight filtered in through the large window facing the courtyard, illuminating the kitchen and living room well enough — but that light could not reach past the partition wall into the bedroom.</p>
 
 <p>A dim glow fell vaguely over the bare skin of the two tangled together in the dark.</p>
@@ -2417,9 +2419,9 @@ title: "Fiancé (1)"
 <p>"Don't go."</p>
 
 <p>Until his body shattered. Until his soul vibrated. He wanted to cry it with his whole body, his whole soul: <em>Marry me.</em></p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-10" class="hybrid-section" data-section="10">
 <p>Leaning on Liu's arm, Ihyeon drained an entire bottle of water and then immediately flopped down. He appeared to have literally no energy left to twitch a single finger — to the point of not caring that his lower body was uncovered. Looking down at those moist eyes staring blankly at the ceiling, Liu gently stroked his cheek with the back of his hand.</p>
 
 <p>"Handsome men have it easy."</p>
@@ -2601,9 +2603,9 @@ title: "Fiancé (1)"
 <p>"If I'm looking forward to that too, that's a serious case, isn't it?"</p>
 
 <p>Thump. Ihyeon leaned his forehead against Liu's shoulder. Then he started laughing, muffling the sound. The tremor of that laughter transferred directly to Liu, as if they were one.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-11" class="hybrid-section" data-section="11">
 <p>Arriving at Basel Station about thirty minutes early, the two bought a cup of coffee each from a café inside the station and made their way to the platform.</p>
 
 <p>Basel Station was quite large, as it was where the Swiss rail line (SBB) and the French high-speed train (TGV) converged. Ihyeon held Liu's hand the entire time they moved through the station. This was because the day after Changing, Liu's eyes would go hazy — his vision dropping sharply.</p>
@@ -2791,3 +2793,4 @@ title: "Fiancé (1)"
 <p class="glossary-entry"><strong>Joyeux Noël</strong>: The French Christmas greeting, equivalent to the English "Merry Christmas."</p>
 
 <p class="glossary-entry"><strong>Bistro</strong>: A French term referring to a casual, informal restaurant.</p>
+</div>

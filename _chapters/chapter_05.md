@@ -5,8 +5,10 @@ chapter_number: 5
 chapter_id: "V1.5"
 title: "Wonderland"
 korean_title: "이상한 나라"
+permalink: /chapters/chapter-05/
+excerpt_separator: "<!-- section-excerpt-end -->"
 ---
-
+<div id="section-1" class="hybrid-section" data-section="1">
 <!-- Chapter 5 — Wonderland -->
 
 <p>Although it was still early June, the temperature already neared thirty degrees Celsius during the day, and the franchise café — just past lunchtime on a Saturday — was kept cool by an aggressively running air conditioner. I rubbed my bare arm beneath my short sleeves and pulled my chair a little closer to the laptop.</p>
@@ -26,9 +28,9 @@ korean_title: "이상한 나라"
 <p>The website Yuni nuna and Juhan hyung ran wasn't the casual hobby shop they'd made it sound like.</p>
 
 <p>Beyond the shop itself, the site featured photographs they had taken themselves, pictures of the two of them, moments from travel and daily life — and short pieces of writing that came out of those experiences.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-2" class="hybrid-section" data-section="2">
 {% capture excerpt %}
 <p>My favorite part of Hong Kong is the Old Town — the stretch of Noho, Soho, and Poho that faces itself along the steep climb up to Victoria Peak. It's a place that manages to be both a sophisticated, sought-after destination and somewhere the most ordinary, everyday Hong Kong still breathes.</p>
 
@@ -50,9 +52,9 @@ korean_title: "이상한 나라"
 {% endcapture %}
 
 {% include excerpt.html content=excerpt %}
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-3" class="hybrid-section" data-section="3">
 <p>In the photo, Yuni nuna and Juhan hyung stood in a narrow alley on a steep slope — looked comfortable as themselves without exaggeration or concealment — they looked like part of that city rather than tourists.</p>
 
 <p>Just as Bali symbolizes paradise for Morae nuna and Yeehan hyung, perhaps Hong Kong is that kind of city for Yuni nuna.</p>
@@ -254,9 +256,9 @@ korean_title: "이상한 나라"
 <p>"Let's get our drinks and head out. We need to leave if we're going to stop by the market before heading to the office. It should line up roughly with the Director's arrival at the gallery, right?"</p>
 
 <p>This place, where Phantom still existed, was still my reality.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-4" class="hybrid-section" data-section="4">
 <p>"Director!"</p>
 
 <p>Yuni nuna waved her hand out the taxi window and called out to him in her cheerful voice.</p>
@@ -450,9 +452,9 @@ korean_title: "이상한 나라"
 <p>But even that twisted interest didn't last long. His phone vibrated on the table. He pressed out the cigarette — barely half-smoked — without a moment's hesitation, and was on his feet immediately.</p>
 
 <p>The truck with the artworks had arrived.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-5" class="hybrid-section" data-section="5">
 {% capture excerpt %}
 <p>Eight months after <em>Body and Soul</em> — an exhibition that drew an enthusiastic response from visitors, critics, and industry media alike — Shushu now presents the <em>Body to Soul</em> series, solidifying his unique style while proving once again a deepened thematic consciousness.</p>
 
@@ -486,9 +488,9 @@ korean_title: "이상한 나라"
 {% endcapture %}
 
 {% include excerpt.html content=excerpt %}
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-6" class="hybrid-section" data-section="6">
 <p>The pamphlets had printed without a hitch. The color separation was correct, page 14 hadn't followed page 3, the binding wasn't crooked. They could be packaged today and sent to clients tomorrow — everything proceeding on schedule.</p>
 
 <p>While the address stickers were printing, I sat at the meeting table and picked up one of the roughly five hundred pamphlets stacked in front of me.</p>
@@ -668,9 +670,9 @@ korean_title: "이상한 나라"
 <p>What expression would he make, standing before my paintings?</p>
 
 <p>What kind of introduction would he write about my work? I suddenly wondered.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-7" class="hybrid-section" data-section="7">
 <p>"Juhan hyung's trademark is his bangs — long enough to nearly poke your eyes out, but cut in a perfectly straight line, like someone used a ruler. They really suit him. When he's busy, he fixes them back with a plastic pin, and it makes him look kind of cute."</p>
 
 <p>On the spiral notebook Morae had given me, I drew Juhan hyung with his straight-cut bangs. I added the yellow ribbon-shaped plastic pin he sometimes used, too.</p>
@@ -806,9 +808,9 @@ korean_title: "이상한 나라"
 <p>I needed to get a grip. For the sake of the people who, because they couldn't leave me alone, looked back at me even on the path they wanted for themselves. I needed to get a grip and move on my own two feet.</p>
 
 <p>Because I now clearly understood that choosing nothing would not preserve the present.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-8" class="hybrid-section" data-section="8">
 {% capture excerpt %}
 <p>The photographer, Shushu.</p>
 
@@ -834,9 +836,9 @@ korean_title: "이상한 나라"
 {% endcapture %}
 
 {% include excerpt.html content=excerpt %}
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-9" class="hybrid-section" data-section="9">
 <p>I had heard about it in advance, but the scale of the event was different from the previous joint artists' exhibition.</p>
 
 <p>For the press conference and VIP invitation opening party for Shushu's <em>Body to Soul</em> exhibition, a photo wall had even been erected in front of Phantom's main entrance.</p>
@@ -872,9 +874,9 @@ korean_title: "이상한 나라"
 <p>"I love everything about you, Shushu!"</p>
 
 <p>Perhaps mindful of his long time abroad, someone shouted that from beyond the barricades in English — maybe a foreign fan. Just before disappearing inside completely, Shushu turned slightly and waved with a smile.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-10" class="hybrid-section" data-section="10">
 <p>Shushu took a few sips from the drink in his tumbler, then puffed out his cheeks and let out a long breath.</p>
 
 <p>He was scheduled to wait in the office and take a short rest until Part 1 of the event — the press conference — began.</p>
@@ -1114,9 +1116,9 @@ korean_title: "이상한 나라"
 <p>Juhan hyung probably meant it as a joke, but to me the words carried weight and sank heavily into my heart. It felt like speaking of an immutable difference — determined even before birth — that I could never catch up to or surpass.</p>
 
 <p>That's a Golden Omega.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-11" class="hybrid-section" data-section="11">
 <p>"Just a few more shots."</p>
 
 <p>Juhan hyung said that, but it was already the third time, so I didn't put much stock in his words.</p>
@@ -1296,9 +1298,9 @@ korean_title: "이상한 나라"
 <p>"Got the best shot. Let's stop and grab a beer."</p>
 
 <p>He retracted the lens, straightened his back, and turned away without hesitation.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-12" class="hybrid-section" data-section="12">
 <p>The garden was indeed untended, just as I had heard — but because of the season, it wasn't as desolate as I'd expected. Amidst the tangled greens of varying shades, grown without any human intervention, a certain vitality still pulsed.</p>
 
 <p>As the sun dipped lower and the garden's shade expanded, we spread several mats across it at overlapping angles. Stripes, ethnic prints, checks, and even gaudy floral patterns. Laying out the delivered hamburgers, fries, and salad on top of these distinctly patterned mats, with beer sponsored by the Director, it felt just like a picnic in the park.</p>
@@ -1570,3 +1572,4 @@ korean_title: "이상한 나라"
 <p>When I focused on his grayish-blue eyes, his distinctive scent — grown as thick as his excitement — enveloped me as if it had lunged at my entire body. But this time, even the subtle, stimulating nature of that scent couldn't hook me. <em>Why did you think that?</em> I answered.</p>
 
 <p>"Because I painted it."</p>
+</div>

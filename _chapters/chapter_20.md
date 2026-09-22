@@ -5,8 +5,10 @@ chapter_number: 20
 chapter_id: "V4.4"
 title: "Confession"
 korean_title: "고백"
+permalink: /chapters/chapter-20/
+excerpt_separator: "<!-- section-excerpt-end -->"
 ---
-
+<div id="section-1" class="hybrid-section" data-section="1">
 <!-- Chapter 20 — Confession -->
 
 <p class="sub-chapter"><strong>· Lukewarm Water ·</strong></p>
@@ -484,9 +486,9 @@ korean_title: "고백"
 <p>Watching the man's back as he walked toward the hallway leading to the front door, a sudden surge of heat rose in him. It resembled anger, and it bordered on contempt — but if he had to name the emotion it most closely resembled, it would be jealousy.</p>
 
 <p>Toward what, toward whom, was unclear. It was simply a scorching jealousy, so intense it made him want to throw himself in and take it for his own.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-2" class="hybrid-section" data-section="2">
 <p>It was sudden, but Inwu hyung's visit was welcome.</p>
 
 <p>Thursdays were half-days for consultations, and when I received a call from hyung saying he'd stopped by a nearby liquor store and decided to reach out, I hesitated for a moment before readily agreeing.</p>
@@ -1596,9 +1598,9 @@ korean_title: "고백"
 <p>Couple. Whether he said it consciously or not, the word left an impression as lingering as the aftereffects of the knotting.</p>
 
 <p>Watching his profile as he sent the photo we'd just taken to his own number, I suddenly felt a longing for him even though he was right next to me. Even after he had knotted inside me twice moments ago, it felt as though it still wasn't enough. It wasn't a hunger born of distance. I couldn't explain it even to myself — so I simply pressed my forehead into his shoulder.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-3" class="hybrid-section" data-section="3">
 <p>Since even standing still felt like too much effort, refusing his offer to clean me up afterward would have been nothing but stubbornness.</p>
 
 <p>While he gently swept through my insides, I tried to hold on to the showerhead pole to keep myself upright, but it wasn't easy. "Don't fight it — just lean on me," he said in a voice full of pity, kissing my temples and cheeks several times while his skilled hands did their work.</p>
@@ -1913,4 +1915,5 @@ korean_title: "고백"
 
 <p><em>To be continued in Diamond Dust, Volume 5.</em></p>
 
+</div>
 </div>

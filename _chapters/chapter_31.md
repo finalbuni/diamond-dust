@@ -4,8 +4,10 @@ volume: "Side Story II"
 chapter_number: 31
 chapter_id: "S2.1"
 title: "Sumbisori"
+permalink: /chapters/chapter-31/
+excerpt_separator: "<!-- section-excerpt-end -->"
 ---
-
+<div id="section-1" class="hybrid-section" data-section="1">
 <!-- Chapter 31 — Sumbisori -->
 
 <p>Gallery Phantom.</p>
@@ -65,9 +67,9 @@ title: "Sumbisori"
 <p>In the castle called Phantom, built with his own hands, Liu drifted like a faint ghost.</p>
 
 <p>This is a story about Liu Weikun at that time.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-2" class="hybrid-section" data-section="2">
 <p>The group exhibition of artists belonging to the Autumn Collection was one of Phantom's annual events.</p>
 
 <p>Prior to the main exhibition, a pre-opening event was held for VIP clients. Because of this, the lights at Phantom remained on late into the night.</p>
@@ -453,9 +455,9 @@ title: "Sumbisori"
 <p><em>He hadn't forgotten that man, nor did he have any intention of forgetting him.</em></p>
 
 <p><em>He might look fine on the outside, but it was clear he was bleeding somewhere no one could see, carrying a serious internal wound. His heart wasn't here. In this place without Ihyeon, he was merely wandering like a ghost.</em></p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-3" class="hybrid-section" data-section="3">
 <p>As the two men stepped into the entryway, the overhead sensor switched on the light.</p>
 
 <p>"How far are you planning to follow me?"</p>
@@ -657,9 +659,9 @@ title: "Sumbisori"
 <p>He curled up tighter, hugging the pillow fiercely.</p>
 
 <p>"See you tomorrow, Ihyeon-ah."</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-4" class="hybrid-section" data-section="4">
 <p>Saturday.</p>
 
 <p>Seoul.</p>
@@ -761,9 +763,9 @@ title: "Sumbisori"
 <p>He booked a ticket to Paris, and this time, he didn't cancel it.</p>
 
 <p>That suspicious business trip began then.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-5" class="hybrid-section" data-section="5">
 <p>Paris.</p>
 
 <p>The 19th arrondissement.</p>
@@ -875,9 +877,9 @@ title: "Sumbisori"
 <p>"That's a wise decision. Since it's vacant, you can move in as soon as the sale is finalized."</p>
 
 <p>The apartment hunt, which had lasted nearly a month, was finally over. The realtor also looked relieved.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-6" class="hybrid-section" data-section="6">
 <p>His purpose in traveling to Paris was clear.</p>
 
 <p>To hover around Ihyeon and capture his image with his eyes.</p>
@@ -1259,9 +1261,9 @@ title: "Sumbisori"
 <p>Even if he couldn't be with him, he wanted to stay a little closer to Ihyeon's side.</p>
 
 <p>He didn't want to go back to Seoul.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-7" class="hybrid-section" data-section="7">
 <p>The flight to Seoul he had booked was scheduled to depart at 1 PM Paris time.</p>
 
 <p>It was the last flight that would allow him to barely make it to work at Phantom by 10 AM. He needed to leave the 19th arrondissement by 11 AM at the latest to board without rushing.</p>
@@ -1327,9 +1329,9 @@ title: "Sumbisori"
 <p>Liu buried his forehead on the steering wheel and collapsed.</p>
 
 <p>A short honk echoed down the deserted alley, where most shops had closed their shutters. It sounded like a heavy scream.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-8" class="hybrid-section" data-section="8">
 <p>Across the canal, Ihyeon's regular café was visible between the docked boats.</p>
 
 <p>He and his colleagues would surely appear down that road and return to The Hands. To watch them come back, it was safer to wait a short distance away. Liu waited for Ihyeon from across the canal.</p>
@@ -1531,9 +1533,9 @@ title: "Sumbisori"
 <p>While staring ahead impassively over his sunglasses, he kept rolling something in his hand.</p>
 
 <p>It was a Faber-Castell eraser.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-9" class="hybrid-section" data-section="9">
 <p>Paris, just a few days before Christmas.</p>
 
 <p>A monumental amount of snow had blanketed the whole of Paris in white. The sleet that began to flutter down early in the morning had turned into large, heavy flakes by mid-morning. After noon, the snow had piled up so deep that feet sank in with every step.</p>
@@ -1983,3 +1985,4 @@ title: "Sumbisori"
 <p>He held Ihyeon, who was telling him not to go, tightly in his arms. Both of Ihyeon's hands gripped him firmly. He squeezed Ihyeon's shoulders — bare even of a coat — tighter still, as if trying to hide him from the eyes of the whole world.</p>
 
 <p>Now he was saved. He felt like he could live.</p>
+</div>

@@ -1,0 +1,164 @@
+---
+layout: chapter
+volume: "Volume 3"
+chapter_number: 16
+chapter_id: "V3.4"
+title: "Change"
+korean_title: "변화"
+hybrid_short: true
+section_number: 1
+section_count: 6
+permalink: /sections/chapter-16/1/
+excerpt_separator: "<!-- section-excerpt-end -->"
+---
+<!-- Chapter 16 — Change -->
+
+<p>A couple who appeared to be in their late thirties were going through the check-in process at the counter with their daughter, who looked to be around first or second year of middle school, standing behind them.</p>
+
+<p>Perhaps they weren't very experienced with international travel as a family — the couple's faces were clearly tense, each carrying not just their checked luggage but a backpack and a crossbody bag as well.</p>
+
+<p>Once check-in was finally completed without incident, the couple was instructed to wait on a nearby bench until the final inspection of their checked baggage was finished. They pulled the now-empty cart over and settled down side-by-side in the seats directly across from where I was sitting.</p>
+
+<p>"You didn't put the camera battery in the suitcase, did you?"</p>
+
+<p>"No, it's in my backpack."</p>
+
+<p>The father asked while carefully brushing aside his daughter's hair, which had slipped down over her temple from being tied up loosely. The daughter answered in a slightly annoyed tone.</p>
+
+<p>"I'm worried because she didn't sleep well last night. She's going to be uncomfortable on the plane too."</p>
+
+<p>The mother said, looking at her daughter with a worried expression.</p>
+
+<p>"Mom, what time do we arrive in Prague? I want to go to Charles Bridge as soon as we land."</p>
+
+<p>Seeing their daughter asking about the schedule — tired but clearly excited about the trip — the parents wiped the worry from their faces and exchanged smiles.</p>
+
+<p>When the Phantom group traveled to Hong Kong together, I'd barely noticed my surroundings. There was excitement, yes, but the tension was stronger. Like this couple in front of me now. But sitting on an airport bench as a non-traveler, things I hadn't noticed before came into view.</p>
+
+<p>Morae nuna and Yeehan hyung had left.</p>
+
+<p>They'd decided against the cliché scene of watching until they disappeared through the departure gate. We'd said our goodbyes at the check-in counter instead — they would head toward the departure hall, I would go back the way we'd come. No one would linger to watch the other's back. We'd each go our separate ways.</p>
+
+<p>But after waving goodbye and turning around, I came back and sat down on this bench. I just felt like I shouldn't leave this place too quickly.</p>
+
+<p>Families setting off on trips for summer vacation and the holidays could be spotted everywhere in the airport. This was an era when thirty million people traveled abroad annually, and international travel had long ceased to be the exclusive domain of the wealthy.</p>
+
+<p>Even in my grandfather's village, there were opportunities several times a year for inexpensive package tours organized by groups like the fisheries cooperative, the agricultural association, and the women's group. Even back in middle school, after breaks ended and the semester started up again, I often heard friends' stories about traveling to various countries.</p>
+
+<p>The three of us — my mother, my father, and I — had never taken one of those trips, as ordinary as they'd become. My mother seemed to have traveled a lot in the past, but there had never been an opportunity for our family of three to go together.</p>
+
+<p>I never thought our family was unhappy because of that, and I never felt dejected listening to friends' travel stories. My parents prioritized economic activities that left time for painting, so our household wasn't wealthy, but I never felt unhappy or unfortunate simply because we couldn't wear brand-name shoes or clothes.</p>
+
+<p>I was thinking about the days immediately following my mother's award announcement.</p>
+
+<p>I was recalling my parents' faces, how they discussed at the dinner table every evening — happily, with bright expressions — how best to use the sizable prize money for our family.</p>
+
+<p>Should they put it toward replacing the used car they'd driven for over ten years? Or supplement my mother's digital equipment, replace the laptop I'd inherited from my father with a new one, have a suit tailored for him, and save the rest?</p>
+
+<p>The dinner table was lively with excited chatter every evening, as if the process of deliberating where to spend the money was more enjoyable than actually spending it. My mother never explicitly suggested it, but I knew at the time she had a European museum tour in mind — the three of us, together.</p>
+
+<p>But that scene had no reality to it now. Not a genuine memory of time spent with my family, but something that felt like a video staged to perform happiness. And then, as if the signal had been scrambled, the screen crackled and went dark. Like our plans — none of the options had ever materialized.</p>
+
+<p>The moment I sensed I had dug up too much, I felt a safety catch click at the back of my neck, deep inside my chest. A signal to stop.</p>
+
+<p>I pulled my gaze away from the girl flipping through a travel guide covered in colorful tape tabs and sticky notes marking important pages, and stood up.</p>
+
+<p>Following the driver's instructions to call when I was on my way out — he'd said he couldn't park long in front of the departure gates — I let him know I was leaving the airport. He told me to come to the gate in five minutes, but I hurried out without waiting.</p>
+
+<p>Outside, the drizzle from yesterday was still falling and the air was humid, but my body temperature had dropped from the air conditioning inside, so I didn't feel the heat.</p>
+
+<p>Everyone moving in and out in front of the departure hall wore expressions flushed with the excitement of imminent travel. Just like in front of the hotel, I felt out of place here too.</p>
+
+<p>Suddenly, exhaustion washed over me. As the tension eased, the weariness of a body that hadn't properly slept or rested in days seemed to crash down all at once.</p>
+
+<p>I crossed two traffic lights to reach the spot the driver had indicated. The black sedan that had transported us comfortably yesterday and today was approaching slowly, reducing its speed.</p>
+
+<p>I bowed my head toward the faint silhouette of the driver visible through the heavily tinted windshield of the stopped car, then approached the rear door and opened it.</p>
+
+<p>"You parted ways sooner than expected."</p>
+
+<p>It was his voice. He was inside.</p>
+
+<p>Resting one hand on the edge of the doorframe and leaning in, I froze in place for a moment.</p>
+
+<p>"How..."</p>
+
+<p>It was clearly the same car I had ridden in with Morae nuna and hyung, with the same driver. As far as I knew, he had never traveled in this car with us.</p>
+
+<p>Tsk — he clicked his tongue, shifted closer, and tugged at my wrist where my hand rested on the door.</p>
+
+<p>"You'll get soaked again. Get in quickly."</p>
+
+<p>Even after I climbed in awkwardly as he guided me, I couldn't quite process the situation. I sat pressed against the door, looking at him with eyes full of questions.</p>
+
+<p>"Is my being here really such a surprising thing?"</p>
+
+<p>On the contrary, he looked as though he hadn't expected me to be this surprised.</p>
+
+<p>Honestly, it wasn't surprise so much as relief. I was so glad to see him that I didn't know how to manage my expression. It was only after seeing Morae nuna and Yeehan hyung off safely that I'd realized just how frayed my heart had been over the past few days — as though someone had squeezed it mercilessly — and so his completely unexpected appearance was a joy. Just seeing him felt like the beginning of healing.</p>
+
+<p>He was already exerting the influence he held over me as someone I cared for deeply.</p>
+
+<p>"I truly never expected it..."</p>
+
+<p>The car pulled away, and I settled back more comfortably, murmuring to myself. For some reason, looking him directly in the eye felt awkward.</p>
+
+<p>"It doesn't seem that surprising for me to be in my own car."</p>
+
+<p>I laughed at his joke, delivered with that strange, stubborn logic of his. Whatever the reason he was here, the comfort he offered in this moment couldn't be undone.</p>
+
+<p>Afraid my delight at this unexpected encounter was showing too plainly, my gaze, which had been resting somewhere around his chest, caught sight of his sunglasses. It was the rainy season, but he still kept them tucked into the left breast pocket of his jacket out of habit.</p>
+
+<p>"Those sunglasses are cool..."</p>
+
+<p>"Hm?"</p>
+
+<p>Perhaps it was an unexpected topic — he raised the end of the word in question.</p>
+
+<p>"Can I... try them on?"</p>
+
+<p>That was a bold move for me. I wasn't sure if the exhaustion from the recent ordeal, combined with the excitement of his arrival, was drawing out a different side of me.</p>
+
+<p>He looked at me with an intrigued expression, as if I'd made a genuinely interesting proposal, then smiled silently, pulling up the corners of his lips, and readily handed them over. With their simple frames, dark lenses, and thin, sleek arms, they gave an intellectual impression and were perfectly suited for concealing one's expression.</p>
+
+<p>"Let me see. They look good on you."</p>
+
+<p>He turned me by the shoulders to look closely at my face, clearly amused — and I found I could hold his gaze without looking away. A very useful item.</p>
+
+<p>He stared intently at my face with shining eyes, as if examining something novel, before finally looking away after a long moment. Then he pulled a phone from his inner jacket pocket and held it out to me.</p>
+
+<p>"What is this...?"</p>
+
+<p>"This is Seo Ihyeon's new phone."</p>
+
+<p>The phone I accepted in my surprise was the latest model from the brand Juhan had been longing for lately.</p>
+
+<p>"Until now, their objective was those two, so there was no particular need to apply direct pressure on you, Seo Ihyeon. But once they realize they can no longer track those two, you become the only remaining target from whom they can extract information. The situation is different now. You could easily become a target. You need to prepare for it."</p>
+
+<p>He tapped numbers on his phone screen as he spoke, his voice devoid of humor, and a moment later a light vibration resonated in my hand. A message from him.</p>
+
+<p>"This is a new number, so use this one from now on."</p>
+
+<p>The blank message inbox displayed only his number, not yet saved to my contacts. The empty device in my hand, holding no trace of the past, felt like a futuristic tool that would allow me to reset everything and start anew. I silently mocked my own sentimental, groundless hope.</p>
+
+<p>"Where you work and where you live — finding out that much information within the country is easier than you might think. Even if they figure out where you are, it's best to stay somewhere they can't easily approach."</p>
+
+<p>Behind the sunglasses, his outline was a little hazier, but the color of his eyes seemed even clearer for it. His eyes — which during sex boiled up bright blue and white like carbonation — now turned toward me with calm steadiness.</p>
+
+<p>"I know a suitable place that can serve as Seo Ihyeon's atelier and temporary residence. I was thinking we could go there now — would that be alright?"</p>
+
+<p>Keeping up with the rapidly unfolding plan was a bit overwhelming, but dragging things out wouldn't change the situation anyway. I nodded, and he showed a satisfied smile.</p>
+
+<p>"You must have been at your physical and mental limits for days. Try to get some sleep on the way."</p>
+
+<p>Since I wasn't familiar with the seat controls, he reached across me to the console on my side, reclining my seat for me. The sight of his arm crossing in front of my chest, and the intensity of his cologne, made my whole body tense for a moment.</p>
+
+<p>It wasn't the usual cologne today. Though this deeper, heavier, more present scent suited him too, I felt a strange pang of disappointment for no particular reason. It was just cologne, after all.</p>
+
+<p>As he pulled his arm back, he glanced at my face, let out a soft, sigh-like sound, and lightly ruffled my hair.</p>
+
+<p>"I get it, so stop looking at me like that..."</p>
+
+<p>Saying that, he turned his head toward the window. The profile of him — brow furrowed, rubbing his mouth with his large hand — looked troubled.</p>
+
+<p><em>Stop looking at me like that. A strange thing to say. He couldn't even see my eyes through the sunglasses.</em></p>

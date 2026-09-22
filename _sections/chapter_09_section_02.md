@@ -1,0 +1,132 @@
+---
+layout: chapter
+volume: "Volume 2"
+chapter_number: 9
+chapter_id: "V2.3"
+title: "Take Off"
+korean_title: "Take Off"
+hybrid_short: true
+section_number: 2
+section_count: 5
+permalink: /sections/chapter-09/2/
+excerpt_separator: "<!-- section-excerpt-end -->"
+---
+<p>The moment I opened the front door and stepped inside, the boy came running with his sketchbook and practice notebook — a week's worth of sketches and color studies.</p>
+
+<p>Thanks to his parents — an oil painter and a cartoonist — the house overflowed with art supplies of every kind, and the boy had developed an exceptional instinct for choosing whichever medium best suited the feeling he wanted to express and using it effectively. His work — featuring crayons, poster paint, acrylics, oil paint, markers, colored pencils, even ballpoint pens — showed astonishing growth week after week.</p>
+
+<p>This wasn't simply a matter of innate talent. The boy was a practice fanatic, to an almost obsessive degree. Though for him, it felt more like play than practice.</p>
+
+<p>That week's theme was the profile view. One practice notebook, which looked to have over thirty pages at a glance, was filled entirely with drawings of people in profile. For some reason, he had become fixated on side views that week.</p>
+
+<p>The moment something caught his eye, the boy wanted to transfer exactly what he saw onto paper. He drew and redrew until he could express it to his satisfaction. In that process, technique developed naturally.</p>
+
+<p>Whether it was hyperrealist work demanding precise replication, or abstraction that involved omission, deletion, and simplification — solid descriptive ability was a fundamental quality required across all fields of art. And the boy possessed an intense, inherent drive for it.</p>
+
+<p>Whenever I discovered that almost fanatical tenacity and total immersion in a boy who appeared to be a perfectly ordinary elementary school student — shy and quiet, but quick to smile, lively, occasionally playful in the way an eleven-year-old could be, yet fundamentally bright and gentle — I couldn't help but feel a thrill at the potential of that talent.</p>
+
+<p>It was a crucially important disposition for a painter: the burning desire to bring exactly what one's eyes see onto the canvas. The feverish state — akin to jealousy — of feeling as though something had been stolen, making it impossible to sleep or eat unless it could be brought to fruition.</p>
+
+<p>As I flipped through the vibrant, precise paintings — capturing characteristics with an accuracy that seemed unbelievable for a boy about to turn twelve — I had to consciously hold back from showing too much excitement in front of him.</p>
+
+<p>In an age where gifted children seemed to emerge in every field, the painting skills of an eleven-year-old — not even a five or six-year-old — might not have warranted much of a stir.</p>
+
+<p>But what I discovered in the boy was more than just technical mastery.</p>
+
+<p>Simply copying something exactly, like a photocopier, is not art. This child was capable of adding his own emotions and interpretations of the subject onto the canvas. At only eleven years old. However clumsy, each painting was a unique "self-expression" that only that child could create.</p>
+
+<p>"Ihyeon, just how many of these are there? Didn't your arms hurt?"</p>
+
+<p>At my worried question, the child smiled. Rubbing the table where we sat facing each other with one hand, his silent smile seemed to express joy at being able to show me how much he had practiced. And yet he also looked a little bewildered, as if he hadn't quite grasped the meaning of my words.</p>
+
+<p>The question I had just asked was no different from asking a ten-year-old who had just come in from playing hard whether his legs were tired.</p>
+
+<p>Barring exceptional geniuses or prodigies, schoolwork was a game where results followed once you invested a certain amount of time and effort. It was a common gateway everyone passed through, with no need to feel miserable by comparing oneself to rare geniuses or prodigies.</p>
+
+<p>But painting was different.</p>
+
+<p>It was a field you chose to enter based on the judgment that you had more talent than others, and it was natural to feel wretched when you couldn't produce results there. The process of confirming that you — who had believed yourself special — were actually nothing special was a harsh one.</p>
+
+<p>Practicing and investing time would, of course, improve technique to some extent. But eventually, you would hit a limit that skill alone could not overcome. The realm of the real ones — those who could not be surpassed simply by being "good at painting." The moment you encountered the arena of those who truly spoke through their art and asserted themselves through it, you were forced to face the humiliation of realizing that what you had been painting was not the universe, but merely a corner of it.</p>
+
+<p>To put it rather cruelly, my paintings were nothing more than an "elevated diary" — stopping at the level of personal stories, incapable of moving anyone or drawing out genuine empathy.</p>
+
+<p>I, too, was an art student who had gone through prep academies and entered art university. But students who possessed their own style on top of technique were rare to a degree almost impossible to quantify as a percentage. Not a matter of ten or twenty percent — it was one in tens of thousands. Not even comparable to the ratio of Omegas, who were rarer than Alphas.</p>
+
+<p>When I first came to know of him — the one rumored to be a monster in the Oriental Painting department. When I encountered his paintings, which seemed to hesitate and waver one moment, then boldly assert themselves and charge forward head-on the next.</p>
+
+<p>I was seized by the shock of confronting another person's raw interior directly through their art. Before paintings that exposed the flaws everyone tried to keep quiet about — without exaggeration or reduction — technique and skill were secondary concerns.</p>
+
+<p>It was the first time I realized that my talent lay more in "recognizing" art than in "creating" it. Standing before his work, instead of feeling jealousy as a fellow art student, I found myself exhilarated by the desire to introduce his paintings to more people.</p>
+
+<p>We had been so strongly convinced that we were soulmates who understood each other's worlds best — so why, how, did we end up like this...?</p>
+
+<p>The child didn't know, but at the time, I was a married college student.</p>
+
+<p>It was a marriage between a female Alpha and a male Beta, undertaken against intense opposition from family and everyone around us. Because of it, I had nearly cut ties with my parents, moved out, and had to struggle through financial hardship — yet I had conviction in our choice and in his talent.</p>
+
+<p>But behind the passion that felt like floating on air, reality waited for us — the reality of having to accept each other's bare faces.</p>
+
+<p>His talent was exceptional. But he was overly self-conscious. He spent more days sinking into gloom, comparing himself to others more talented, than showing enthusiasm in front of his art.</p>
+
+<p>With my innate drive that charged at everything head-on, and his nature of turning inward and curling up, we were fundamentally unable to understand each other. I can accept far more about others now than I could back then, but at twenty-one or twenty-two, it was not easy to understand someone standing at the complete opposite end of the spectrum from myself.</p>
+
+<p>I admit it. As everyone around us said, we were too young to grasp the practical meaning of a union like marriage. We were at an age where we couldn't even properly control ourselves, let alone our own dreams — dreams that sometimes crushed us under their weight.</p>
+
+<p>Each time I encountered the boy's paintings — not yet fully mature, but possessing a style so distinctly his own that it set them apart from everything else and drew me in — the memory of that first tremor I felt standing before his work seemed to recede further and further into the distant past.</p>
+
+<p>Pushing away the bitter feelings that followed, I forced a smile and asked the child,</p>
+
+<p>"Where should we go today? What do you want to paint?"</p>
+
+<p>We usually went out and looked around the neighborhood to find something to paint for the day.</p>
+
+<p>"Hmm..."</p>
+
+<p>The child, who seemed to have something already in mind, paused for a moment, then grinned and pointed at me.</p>
+
+<p>"Me?"</p>
+
+<p>I widened my eyes and asked back, surprised by the unexpected answer. The child nodded, still smiling.</p>
+
+<p>That day, about ten months into our time painting together, I became the child's model.</p>
+
+<p>With the veranda full of plants as the backdrop, bathed in that house's uniquely cozy winter sunlight, I read a book — stealing glances at our little artist capturing my likeness in an eighth-size sketchbook, not a canvas — and allowed myself to dream again, if only for a little while, in the peace of it.</p>
+
+<p>And when I finally held the painting that the mere eleven-year-old had completed in two straight hours without even a ten-minute break...</p>
+
+<p>I learned that answering a worry wasn't the only form of genuine comfort. That words of understanding and agreement — which temporarily numb the current pain — weren't the only form of solace.</p>
+
+<p>Since the working time hadn't been long enough for coloring, the painting wasn't precise. Instead, he conveyed the atmosphere he wanted to express through other means. That was one of the child's specialties.</p>
+
+<p>Bold strokes that created a texture as if carved out with a rough chisel — though no oil paint had been used at all — a dark atmosphere drawn out by colors that seemed warm at first glance, or perhaps the warm hope embedded within that seemingly dark atmosphere.</p>
+
+<p>The me in the painting was suffering from dissonance and division. There was a person there who did not look happy. It was me at that time, rendered so vividly that the thickness and sharpness of the pain made me furrow my brow.</p>
+
+<p>Yet, strangely, there was comfort in it.</p>
+
+<p>It's not particularly unusual for children that age to comfort someone through a painting. But most children that age, when they want to comfort someone, paint that person smiling brightly or looking happy — with the wish that it would be so.</p>
+
+<p>But the child had captured my appearance exactly as it looked to him. It wasn't a comfort that packaged the situation, minimized it, patted my shoulder, and injected baseless optimism like, "Everything will be fine."</p>
+
+<p>So he had been watching my every change, every emotion, every expression, this closely. And he had been worried about me.</p>
+
+<p>It felt like I had long forgotten that the beginning of comfort is attention and empathy.</p>
+
+<p>In front of someone who already knew everything about me and wasn't trying to distort what they saw, there was no need to hide ourselves or feign our feelings. Being seen as we were — that itself was already a comfort.</p>
+
+<p>A child who speaks through paintings.</p>
+
+<p>People born with the fate of having no other way to speak but through paintings.</p>
+
+<p>When I received the painting the child made of me, I confirmed once again that making their language known to the world was my mission.</p>
+
+<p>I already knew the limits of my own talent when it came to painting, and I held no lingering attachment to that. Instead, a different role had been assigned to me — and my top priority was to get him, who was probably lying under his covers at home right now, to speak through art again in front of a canvas.</p>
+
+<p>"Thank you, our little artist."</p>
+
+<p>As if amused by the word "artist," the child laughed and hunched his shoulders. He laughed easily and had a decent sense of humor, but he was a very quiet child. Perhaps that was only natural. After all, he had a different language he was far more comfortable with.</p>
+
+<p>About three months after that, my husband and I left for Hong Kong. I believing only in his talent, he believing only in my passion. Just like our marriage, we defied everyone's opposition and ventured into an unknown world with no connections. Fearlessly.</p>
+
+<p>Those were the days when it seemed like everything would go well — when passion and drive alone felt like they could light the way.</p>

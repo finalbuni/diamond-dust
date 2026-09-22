@@ -1,0 +1,456 @@
+---
+layout: chapter
+volume: "Volume 6"
+chapter_number: 25
+chapter_id: "V6.1"
+title: "Pull Out"
+korean_title: "Pull Out"
+hybrid_short: true
+section_number: 4
+section_count: 6
+permalink: /sections/chapter-25/4/
+excerpt_separator: "<!-- section-excerpt-end -->"
+---
+<p>The clouds hung low and the wind was fierce, as if rain could pour down at any moment. As was usual on days when fishing was called off, his grandfather and uncle had already gone out separately to find someone to share soju with. Since both of them tended to come home late on days like this, his aunt had also taken the chance to visit the neighbors, leaving only Ihyeon and his father at home.</p>
+
+<p>Ihyeon spent the day sketching. This was already his third drawing notebook since arriving here. Though it was something he had once abandoned to protect himself, he was now clinging to it even more fiercely.</p>
+
+<p><em>What if I had made this choice back then?</em> Knowing it was a futile regret, he still couldn't help feeling restless when he thought about the years he had let his hands go still — the time felt like such a waste.</p>
+
+<p>He had to admit it: his desire to paint hadn't disappeared. It had only been unnaturally suppressed. It wasn't a relative desire — not the ambition to paint better than anyone else. What he wanted was the freedom to express the subjects he wished to paint, exactly as he envisioned them. For Ihyeon, who had never craved designer clothes or a generous allowance, painting was the only thing he had ever been greedy for, the only thing he had truly obsessed over.</p>
+
+<p>No, it wasn't the only thing he had been greedy for.</p>
+
+<p>At first, Liu had been someone he felt he would never even brush shoulders with. It was Liu, not him, who had closed the distance between them — Liu who had breathed certainty into what had been a hazy, undefined thing. Looking back, without much effort on his part, before he could even be tormented by the craving to have him or the pain of not possessing him, his heart had somehow already ended up in Liu's hands.</p>
+
+<p>Though it had taken time for the wariness he had shown Liu to soften, he had been just as cautious about opening his own heart — and afterward, Liu had never acted ambiguously, had never caused him unnecessary anxiety or hurt.</p>
+
+<p>The coldness that wanted to condemn him and the warmth that wanted to defend him still tumbled over each other dozens of times a day, unable to declare a final victor.</p>
+
+<p>His hand slowed as his thoughts tangled. Ihyeon had been sketching the Boston scenery from a photo open on his phone when he heard his father — who had been reading by the wall — stand up behind him. His father was pulling a jacket off the hook and slipping his arms through the sleeves.</p>
+
+<p>"It would be better to skip the walk today."</p>
+
+<p>"......"</p>
+
+<p>His father zipped up the jacket without pausing.</p>
+
+<p>Ihyeon gently pushed the door ajar and peered outside. Jindol — the mixed-breed dog his grandfather had gotten from a neighbor while Ihyeon was away — was lying with half his body out of his doghouse. Seeing Ihyeon open the door, he perked up his ears and stood. He was an affectionate creature who had started following Ihyeon around barely a day after he arrived.</p>
+
+<p>The weather had worsened in the meantime. But his father would not yield his stubbornness. Perhaps even this walk, repeated at the same time every day, held the meaning of self-punishment for his father.</p>
+
+<p>Giving up on dissuading him, just as he was about to close the door and prepare for the walk, there was a knock at the main gate.</p>
+
+<p>They rarely locked the gate unless everyone in the household had come home for the night, but it seemed the wind had managed to swing it shut on its own. Ihyeon pushed it further outward and raised his voice to ask who was there.</p>
+
+<p>"...Is grandfather home?"</p>
+
+<p>The answer, delivered after a brief pause, made Ihyeon falter. For just a moment, the awkward bitterness of having harbored a flicker of hope and then being disappointed by it settled over him — even though no one had seen it. <em>Who had he been expecting?</em></p>
+
+<p>With a wry smile, he slipped on his slippers and stepped down into the yard. When he pushed the gate open, Mr. Lim was standing there awkwardly, wearing an expression as if he had just swallowed something with an unpleasant aftertaste.</p>
+
+<p>Ihyeon offered a brief bow, using his shoulder to hold the gate, which kept trying to swing shut, while squinting against the strong wind.</p>
+
+<p>"Grandfather isn't here."</p>
+
+<p>"Could you... spare me a moment?"</p>
+
+<p>Mr. Lim, saying this while smacking his lips as if the taste were bitter, seemed to have come to see Ihyeon from the start — not his grandfather. Ihyeon stepped aside to clear the way. This was a moment he had steeled himself for since deciding to come here, so there was nothing to be flustered about.</p>
+
+<p>He had intended to guide Mr. Lim to the room his grandfather used, but Mr. Lim said he had to leave soon for an appointment and sat down on one side of the wooden porch instead. The only beverage offered to guests was instant coffee, and Ihyeon almost offered him a cup before stopping himself. After opening the door to tell his father to wait a moment, Ihyeon also sat down on the porch, leaving a gap of two or three people's width between them.</p>
+
+<p>The edges of the tarp covering the miscellaneous yard items — washbasins, buckets, brooms gathered in one corner to keep them from rolling around in the relentless sea wind — flapped fiercely. Watching the dog's innocent face, which merely tilted his head at the stranger rather than barking, Ihyeon fiddled with his loosely clenched fist with his other hand.</p>
+
+<p>"Is Morae... well?"</p>
+
+<p>"......"</p>
+
+<p>"I'm not trying to do anything. I just want to know if she's healthy."</p>
+
+<p>Mr. Lim glanced sideways at Ihyeon, who looked back with wary eyes, and added in a defensive tone.</p>
+
+<p>"I'm sorry, but as long as I consider you a potential threat to those two, I have no intention of answering any questions."</p>
+
+<p>Even as he felt Mr. Lim's gaze on his profile, Ihyeon kept his eyes fixed on the dog. After a long moment, Mr. Lim withdrew his gaze, let out a long sigh, and took out a cigarette to light it.</p>
+
+<p>"My first granddaughter was born last month."</p>
+
+<p>"......"</p>
+
+<p>Offering congratulations felt absurd in this situation, so Ihyeon sat quietly, rubbing the inside of his fist.</p>
+
+<p>"Normally... you can't know until secondary sexual characteristics develop during puberty... but the hospital said. The probability of her presenting as an Alpha is quite high."</p>
+
+<p>"......"</p>
+
+<p>Ihyeon stopped rubbing his hand. His head turned toward Mr. Lim on its own.</p>
+
+<p>"They say some children are born with signs — though it's very rare — and a high probability doesn't guarantee she'll become an Alpha... but you can't ignore the odds either."</p>
+
+<p>The bluish cigarette smoke Mr. Lim exhaled scattered wildly in front of Ihyeon's face like a phantom performing a frenzied dance. Mr. Lim, his brow furrowed deeply, stared at some point in the yard with a troubled expression.</p>
+
+<p>"I'm trying to prepare myself mentally now, just in case."</p>
+
+<p>It was Mr. Lim who, in this conservative fishing village — where a female Alpha was treated as a grotesque mutant — had hidden Morae's gender until now, and had opposed her relationship with Yeehan, a Beta male. For him to seek Ihyeon out specifically and reveal the family's secret was tantamount to asking him to convey a change of heart to Morae.</p>
+
+<p>Ihyeon studied Mr. Lim's profile carefully — he looked aged and worn, as if years rather than a few months had passed.</p>
+
+<p>"I don't know what kind of hardened resolve she made... but however I tried, the path was blocked, I couldn't follow her. She isn't the kind of child who's so cold-hearted... that she'd just leave her mother and father behind like that..."</p>
+
+<p>As Mr. Lim trailed off and brought the cigarette to his lips, Morae's face superimposed itself over his.</p>
+
+<p><em>"Won't your father forgive you someday, as time passes? He's always been so harsh about your affairs, ever since you were little."</em></p>
+
+<p>Ihyeon remembered Morae's tears, which had finally burst forth at his uncle's words. She had chosen a path toward her own happiness, but that didn't make her so immature as to deny her parents' love for her.</p>
+
+<p>Everyone loves in their own way. They make choices based on their own way of loving, and in the process, they sacrifice something. In all the real world Ihyeon had seen and heard up to that point, perfect love existed nowhere.</p>
+
+<p>If he were to be honest, perhaps somewhere deep in his subconscious he had believed that only Liu's love was flawless and whole — that his grateful love, which had compensated even for Ihyeon's past, had no cracks or weaknesses.</p>
+
+<p>"Could you... ask her to call, even just once in a while? Even if she hates me — she should do it for her mother's sake..."</p>
+
+<p>Mr. Lim ground the cigarette — already more than half burned — against the side of the wooden porch with a hiss and stood up. For a fleeting moment, Ihyeon felt a weak impulse to at least let him know she was well, but it wasn't his place to interfere.</p>
+
+<p>As Mr. Lim stood, the puppy came trotting over on bouncy legs and sniffed at his feet. Mr. Lim glanced down at the dog once, then hurried out of the yard as if he had lingered too long.</p>
+
+<p>The puppy, which had followed Mr. Lim to the gate, came running back to Ihyeon and grabbed the toe of his shoe, shaking it. Ihyeon bent down to stroke the dog's fur, then rubbed his arms against the cold he was only now registering as he went back inside.</p>
+
+<p>His father, who had been sitting against the wall waiting, stood up. Ihyeon quickly pulled on his jumper, rummaged through a drawer, and pulled out a worn muffler, which he carefully wrapped around his father's neck.</p>
+
+<p>"The wind is harsh."</p>
+
+<p>His father, standing there with an impassive gaze, turned around and left the room the moment Ihyeon removed his hands. Ihyeon took two umbrellas — his and his father's — and followed.</p>
+
+<p>The wind, which felt as if it were blowing from all directions rather than just one, couldn't stop his father's march. Unfazed by its resistance, his father ascended the hill at his usual brisk pace and sat on the bench as always, enduring the biting wind that made one squint and hunch one's shoulders.</p>
+
+<p>Ihyeon sat down beside him and looked out at the sea below the cliff, saying nothing. There was nothing further to add to the story about Liu — that had ended yesterday.</p>
+
+<p>The sea, raging and foaming white as if howling fiercely, brought his blue and white eyes to mind.</p>
+
+<p>His empathy — which had felt the pain of his past — and his love, which had opened the faint possibility of understanding his father and forgiving him... he could not believe that was all a lie.</p>
+
+<p>Yet paradoxically, it would have hurt less if everything had been a lie. What made it so confusing was that Liu had given him love and betrayal, empathy and silence, all at once.</p>
+
+<p>Ihyeon had half-wished for a heavy downpour, but the sky only rumbled low overhead as they descended the hill and passed through the center of the village. It was only when they reached the entrance of the northern incline leading to his grandfather's house — where the crude murals began — that Ihyeon felt one or two drops of rain on his cheeks and nose.</p>
+
+<p>And then he spotted a white SUV parked in front of the mural depicting a family of sharks. Ihyeon's pace slowed. His father, who would normally have kept his own speed without a second thought, slowed to match him.</p>
+
+<p>Liu got out of the driver's seat.</p>
+
+<p>Despite all the confusion and conflict of recent days, the first emotion Ihyeon felt upon seeing him was relief. Stunned and deflated by his own reaction, Ihyeon lowered his head and let out a short, hollow laugh.</p>
+
+<p><em>Blood will tell.</em> Or perhaps: <em>the body never lies.</em></p>
+
+<p>Of course, neither phrase exactly described this situation. But setting aside the taut struggle between his head and his heart, Ihyeon found those words rising to the surface in response to the immediate, instinctive reaction his body showed toward Liu.</p>
+
+<p>The next thought was how entirely out of place Liu looked here.</p>
+
+<p>He was dressed in jeans, a plain T-shirt, a simple jumper, and sneakers — an ensemble that still looked noticeably refined by contrast with this place. The foul weather meant there wasn't another soul passing by, but his striking features and towering height alone were enough to draw the attention of any local who happened to glance out.</p>
+
+<p>He hadn't come here to make Ihyeon anxious — he had come to do what needed to be done — but it would be a lie to say Ihyeon had never once imagined whether he might show up. In those imaginings, whenever he faced Liu, he always ended up averting his gaze, unable to reach a decision. The fantasy always stopped there.</p>
+
+<p>But in reality, he could look directly at his face. It didn't feel real that this man was standing here — in this very spot where he and Morae and Yeehan had loitered every morning and evening on the way to school. He couldn't tear his eyes away, as if watching a character step out of a film screen.</p>
+
+<p>Liu walked toward him at a pace neither slow nor fast and pulled the corners of his taut lips into an awkward smile.</p>
+
+<p>"Have you been... well?"</p>
+
+<p>He was cleanly shaved and his hair was neatly styled, but up close his face was a wreck. His skin was rough, his eyes sunken. And he had grown so thin that his jawline stood out even more sharply than usual.</p>
+
+<p>"It's only been a few days — does that greeting sound strange?"</p>
+
+<p>He said it while rubbing his jaw broadly, trying to project a calm, unremarkable demeanor, but he couldn't hide his tension and wariness.</p>
+
+<p>"I thought you might not be able to come... so I canceled our dinner plans for tonight."</p>
+
+<p>It seemed like a lighthearted joke offered in his own way, but Ihyeon couldn't laugh. Seeing his continued silence, Liu let out a small sigh and furrowed his brow beneath the dark, overcast sky.</p>
+
+<p>"Can you spare me a moment?"</p>
+
+<p>Ihyeon turned to look at his father standing beside him.</p>
+
+<p>"Go on ahead. I'll talk with him for a bit and then come."</p>
+
+<p>"......"</p>
+
+<p>His father's gaze shifted toward Liu. No discernible emotion surfaced in that look.</p>
+
+<p>Whether it was proper to offer a greeting, or whether such a gesture would be inappropriate given the circumstances — Liu seemed to be weighing it with a complex expression before he stepped slightly forward and bowed his head respectfully. It was the first time Ihyeon had ever seen Liu bow in greeting rather than extend a handshake.</p>
+
+<p>"Hello. I am Liu Weikun, the director of the gallery where Seo Ihyeon is affiliated."</p>
+
+<p>"......"</p>
+
+<p>Ihyeon, who had been watching his father's expressionless profile, took the first step and spoke toward Liu.</p>
+
+<p>"Let's go."</p>
+
+<p>But before he could take even two or three steps, his wrist was pulled back from behind. Ihyeon's startled eyes turned back to his father. It wasn't a strong grip, but his father was pulling him back.</p>
+
+<p>"......"</p>
+
+<p>His father took one step closer, closing the small distance between them. He untied the muffler Ihyeon had wrapped around his neck and wrapped it around Ihyeon's neck instead.</p>
+
+<p>In this moment, Ihyeon wasn't even conscious of Liu standing right beside him.</p>
+
+<p>His father's eyes remained shuttered, impossible to read. He still hadn't spoken a single word. Yet he had been listening to everything Ihyeon had said. His father knew who this man with the sudden, overcast blue eyes was. And perhaps... he was worried about the wound Ihyeon might receive from following him.</p>
+
+<p>His father's blunt fingertips squeezed the end of the muffler once before letting go. Then he took one of the two umbrellas from Ihyeon's hand, lightening his load, and slowly turned to begin walking up the incline.</p>
+
+<p>Ihyeon couldn't take his eyes off his father's back until he disappeared around the corner.</p>
+
+<p>This wasn't a resolution or a reconciliation. If anything, it might be the beginning of a fierce conflict. But that conflict was precisely the task he had long needed to pass through — physically, with his whole body — in order to reach resolution and forgiveness. Without it, not only resolution and forgiveness, but even the possibility of making the scar into something that defined him, would have been impossible.</p>
+
+<p>"Let's go somewhere quiet where we can talk."</p>
+
+<p>At the sound of Liu's voice, Ihyeon slowly turned his head. In this small village, Liu's appearance was too conspicuous. Wherever they went, he would draw attention. Ihyeon tucked his chin into the muffler and spoke quickly, in a calm voice.</p>
+
+<p>"It would be better to talk in the car. Let's go somewhere else, not here."</p>
+
+<p>The raindrops, which had been falling one or two at a time on the way there, had turned into a torrential downpour by the time they reached the coast. As if making up for lingering all day, the rain came down in sheets.</p>
+
+<p>Liu pulled over at the shops near the beach entrance, ran inside a convenience store, and came back out with two takeaway coffees. Then, just as Ihyeon had told him, he slowed down and carefully turned onto the narrow road along the edge of the beach — the closest spot they could park to the water.</p>
+
+<p>"Hyung and Morae nuna always used to surf here. I... would sit over there and watch the two of them."</p>
+
+<p>Ihyeon said this while pointing toward the sandy stretch in front of the shops.</p>
+
+<p>"You should have tried it once."</p>
+
+<p><em>Shall I teach you?</em> — Thinking of Morae's repeated invitations, Ihyeon smiled faintly and turned the coffee cup over in his hands.</p>
+
+<p>"You're right. With so much time — I really should have tried it at least once."</p>
+
+<p>Silence followed those words for a while. Ihyeon looked out at the beach stretching to his right, and Liu looked at Ihyeon's profile. Both of them brought the coffee to their lips only occasionally, as if remembering.</p>
+
+<p>The silence wasn't particularly harsh or sharp. But it wasn't the same comfort they had once shared either — that ease of accepting each other without the pressure or awkwardness of needing to fill the space. They weren't in the grip of the raw, violent emotions from when they had clashed at Phantom, but those feelings hadn't entirely vanished, either; they couldn't simply look at each other and smile.</p>
+
+<p>"The medication I took after seeing Choi Inwu — before I left for Chicago."</p>
+
+<p>At the sound of Liu's voice breaking the silence, Ihyeon slowly turned his head toward him. The muscles along his jaw were tightly clenched as he looked down at the coffee cup resting on his thigh.</p>
+
+<p>"Most of it was just supplements... but there were also very low-dose inhibitors mixed in. Just in case."</p>
+
+<p>"I heard from Inwu hyung."</p>
+
+<p>"......"</p>
+
+<p>Liu's face turned back toward Ihyeon. It was a quick, involuntary reaction. As if he regretted it the moment it happened, he bit his lip and looked away again.</p>
+
+<p>Liu had told him to keep his phone on — and then hadn't reached out even once. Ihyeon didn't want to understand or sympathize, but he could guess why Liu couldn't bring himself to call. So he hadn't waited.</p>
+
+<p>Inwu, on the other hand, had called once a day. Ihyeon had wondered if Liu might not be answering because he wanted to focus entirely on the situation here — but he couldn't shake the curiosity of possibly hearing some news about him through Inwu.</p>
+
+<p>He hadn't hoped Liu would visit or call, yet at the same time he was curious about how Liu was spending his days. The contradiction felt unfamiliar — like someone insisting they weren't watching, while glancing sideways anyway.</p>
+
+<p>Inwu had apologized repeatedly for the unexpected kiss and expressed regret over having told Liu about it. Liu, for his part, reacted visibly to the name Inwu, but he didn't press the issue of the kiss or try to confirm anything.</p>
+
+<p>The downpour showed no signs of letting up.</p>
+
+<p>The rain, pouring down as if he were standing in it without an umbrella, brought back the memory of the evening after they'd returned from Hong Kong — the hot pot, the small gathering. The car that had taken him home that night had been this same SUV. His thoughts drifted naturally to Liu, who had shown up silently and pulled him into a hug after he met with his uncle.</p>
+
+<p>After a long silence, Liu inhaled deeply, filling his chest, then let the air out slowly. Ihyeon stopped thinking and took a sip of coffee.</p>
+
+<p>"I don't know if anything I say can ease your suffering even a little... but I also thought that staying silent just because I have no right to ask for forgiveness isn't exactly a sufficient response."</p>
+
+<p>He deliberately avoided looking at Liu's face. He scratched the surface of the paper cup with his fingernail and waited for the words Liu had no doubt prepared in pain, without proper sleep or food.</p>
+
+<p>"I couldn't stop."</p>
+
+<p>"......"</p>
+
+<p>"I knew it was a grave mistake, and unlike what Choi Inwu or Shushu might have thought, I didn't even have the confidence to make you understand. Yet why I couldn't stop — I couldn't understand it myself then, and I still can't now. I was that foolish and reckless."</p>
+
+<p>A brief sigh followed before the story continued.</p>
+
+<p>"I wanted to make you an Omega. But more than that... I wanted to be your Alpha. I know it will only sound like an excuse, but that's probably the honest reason."</p>
+
+<p>Liu placed the paper cup back into the holder and rested his hands on the steering wheel.</p>
+
+<p>"The intensity of an Alpha's response toward an Omega — a sexual hunger beyond anything a Beta could imagine, a blindly protective instinct like that of a loyal guard dog — I found those qualities barbaric and humiliating, so I drove myself harder than anyone else to become Golden. But if you were the one bringing that out of me... I would have gladly, willingly, put that leash on myself."</p>
+
+<p>As if to prove these were words strained through many sieves until nothing remained but his bare, naked self, his voice trembled — yet it wasn't emotional. One could feel him forcefully restraining himself each time feeling threatened to flood in and mix with his speech.</p>
+
+<p>"For the first time, I felt joy in being an Alpha who could be bound to someone from something more primal than conversation and the exchange of emotion — something deeper than what exists between Betas. But... while I was learning what love was, my own Alpha nature awoke. That was only my side of it. You are a Beta. You probably wanted to love me as a Beta."</p>
+
+<p>The hand gripping the top of the steering wheel came into view. In response, Ihyeon's hand around the paper cup also tightened.</p>
+
+<p>"I've spent my life scoffing at anything that presumes to be a lifelong promise — but like Shushu said, I suppose I can't help it either."</p>
+
+<p>He let out a dry laugh and turned slightly toward Ihyeon.</p>
+
+<p>"Everything I've said until now — it's all sincere."</p>
+
+<p>"......"</p>
+
+<p>"For my entire life, no one will ever know what my pheromone smells like. Only you can make me an Alpha, and only you can let me accept myself as one. My reason, my emotions, and even the very essence of my Alpha body beyond that — they are yours. Forever."</p>
+
+<p>The content was grand, but he didn't speak like someone delivering a grand declaration. He was almost humble — as if this were the most trivial and meager thing imaginable.</p>
+
+<p>Only then did Ihyeon raise his head and meet Liu's gaze.</p>
+
+<p>"I'm not saying this to ask for forgiveness... I'm simply offering it to you. Even if you don't accept it, I have no choice but to give it..."</p>
+
+<p>Unlike a moment ago, when he had hesitated as if pitying someone just out of reach, his eyes were now meeting Ihyeon's directly. The calm, ash-tinged blue held neither a plea nor a demand.</p>
+
+<p>In that moment, he was entirely absorbed in the act of conveying love itself. Whether it was a magnificent love or a twisted one — just as it was.</p>
+
+<p>Ihyeon's lips moved slightly. Liu, whose gaze had been fixed on that small movement, inhaled deeply. Noticing the way Liu's hands tightened on the steering wheel, Ihyeon quietly opened his mouth.</p>
+
+<p>"I don't doubt the things you just said."</p>
+
+<p>Though Liu seemed to be trying his utmost not to show it, Ihyeon could see his eyes waver with faint hope. Aware of how sensitively Liu was reacting to his every word, Ihyeon wrapped both hands around the paper cup.</p>
+
+<p>"But separate from that... I'm still confused about how I'm supposed to accept the situation that brought us here."</p>
+
+<p>Liu leaned forward as if about to say something, then bit his lower lip and pulled back again. His hands on the steering wheel were now clenched into fists.</p>
+
+<p>"You said you wanted to love me even as an Alpha... but I don't know what it feels like to be controlled by pheromones."</p>
+
+<p>"You have no reason or obligation to know that."</p>
+
+<p>"......"</p>
+
+<p>Ihyeon shook his head, looking at Liu, who had spoken quickly and decisively.</p>
+
+<p>"I do have an obligation. Before I knew the Director was Changing me, I said I loved you — and believed it — but I never tried to understand you as an Alpha."</p>
+
+<p>"My desire to Change you came from my Alpha nature, but I wasn't saying that my Alpha nature is something I can't help — I wasn't asking for that kind of understanding."</p>
+
+<p>Ihyeon shook his head firmly.</p>
+
+<p>"I'm talking about this separately from the Director having Changed me. The fact that I didn't try to understand the Director as an Alpha doesn't mean I'm therefore obligated to understand the Changing."</p>
+
+<p>Liu, who had been watching Ihyeon in silence, swept a hand across his face, then turned toward the front and exhaled something close to a groan.</p>
+
+<p>"...Right."</p>
+
+<p>His voice was low, as if it might go out at any moment.</p>
+
+<p>He leaned over the steering wheel, biting down on his lower lip, staring out at the sea being hammered by rain. He looked as though he were forcibly containing what was filling him up inside and threatening to overflow. Ihyeon felt the same.</p>
+
+<p>Before coming here — when he had gone to Phantom to confront Liu — confusion, bewilderment, and simmering betrayal had been the dominant forces. Now that the initial wave had subsided somewhat, what he felt when he looked at the situation was closer to sadness. And pity.</p>
+
+<p>"As a Golden Alpha, you must be nearly perfect when it comes to pheromone control. I don't know the specifics, but I just thought it was something like a Beta. That's how I understood it."</p>
+
+<p>The same way he had never paid special attention to Morae's nature as an Alpha.</p>
+
+<p>Ihyeon hung his head, staring down at the paper cup in his hands. His throat felt so tight that opening his mouth was difficult.</p>
+
+<p>"I'm a Beta — so how did I stimulate the Director's pheromones?"</p>
+
+<p>Liu's face, which had been aimed straight ahead, turned toward Ihyeon with a rigid expression.</p>
+
+<p>"Inwu hyung said it, didn't he? He asked what the point was of suppressing your pheromones that thoroughly. He asked if you were trying to become a Beta. Someone who can exercise that level of control over their pheromones... why couldn't you do that for me — a Beta, not an Omega?"</p>
+
+<p>Regretting the torrent of useless words that had come spilling out, Ihyeon turned his head toward the passenger-side window. He bit his lower lip and tensed against the stinging behind his eyes. He wished what he was holding were alcohol, not coffee.</p>
+
+<p>After a long silence, he heard Liu quietly strike a match beside him and light a cigarette. The sharp scent of tobacco spread through the car. After two or three slow, deliberate puffs, Liu spoke in a tired voice.</p>
+
+<p>"I was adept at defending against pheromones that stimulated me from the outside — but perhaps not against stimulation that came from within. The desire for the person I love begins from inside me."</p>
+
+<p>"......"</p>
+
+<p>"Since you're the first person I have ever desired this intensely, I can't give you a definitive answer... but perhaps I knew how to control others' pheromones without knowing how to control myself — how to engage in mature love."</p>
+
+<p>He couldn't accept that. What he had received from Liu wasn't simply material comfort and a stable life. All the empathy, the advice, the fulfillment of being heard and understood when he had confided his past — those things still lived inside him. Liu was by no means an immature person.</p>
+
+<p>But Ihyeon already knew from experience. Even mature people sometimes make immature mistakes.</p>
+
+<p>His father, too — before his mother's accident — had been one of the most mature people young Ihyeon could imagine. Someone with a gentle center who didn't let other people's standards disturb his own life.</p>
+
+<p>Following a slow drag on his cigarette, Liu's heavy voice continued.</p>
+
+<p>"It went beyond immaturity. It was ugly and selfish. Perhaps it's one of the most terrible things you can do to someone you love."</p>
+
+<p>It wasn't self-criticism meant to draw Ihyeon's sympathy. If anything, his tone sounded as if he were speaking about someone else.</p>
+
+<p>Looking down at the coffee cup — already cooling, barely touched — Ihyeon recalled Inwu's ruthless coldness when he had compared Liu's Changing to rape. His clear-cut verdict, neatly separating Ihyeon as the victim and Liu as the one who had done the harm.</p>
+
+<p>For the past few days, he had returned to the same question over and over, convinced there had to be a correct answer somewhere. But cutting Liu off entirely — or accepting him. Neither option felt wholly satisfying. He couldn't isolate the Changing and consider it alone, the way Inwu had — but he also couldn't completely cover it over with everything else.</p>
+
+<p>"You're right. It was selfish, ugly, and terrible."</p>
+
+<p>"......"</p>
+
+<p>"But... that wasn't everything."</p>
+
+<p>"......"</p>
+
+<p>"Because I know that... that's why I'm stuck here, unable to move forward or back."</p>
+
+<p>That was the honesty of it: the cycle of hesitation that came from being unable to coldly push him away, yet unable to fully accept him.</p>
+
+<p>"Because it was my body the Director changed — in this matter, I'm the only one who can pass judgment on the Director. There isn't some objective right answer out there somewhere. The decision I make is the right one for me..."</p>
+
+<p>Ihyeon pressed the heels of his palms against his eyes. Liu, who had quickly stubbed out his cigarette, took the paper cup from Ihyeon's hand and secured it in the holder. He turned toward Ihyeon and reached a hand out — but couldn't quite bring himself to touch his shoulder.</p>
+
+<p>"Yes. That's right. You are the only one who can pass that judgment. The decision you make is the right one. No one can apply a different standard to it, or judge you for what you decide."</p>
+
+<p>Ihyeon's face twisted as he struggled to hold back tears. As if he couldn't bear to watch any longer, Liu wrapped his hand around the back of Ihyeon's neck and drew him closer. His lips brushed Ihyeon's temple.</p>
+
+<p>"Do you remember what I said back then? In Chicago. The moment we first told each other we loved each other."</p>
+
+<p>The moment he had said <em>I love you</em> to someone for the first time in his life — and heard it said back — was not something he could easily forget.</p>
+
+<p>"I asked you back then, didn't I? Whatever happens from now on, I hoped the sincerity of those words would never be doubted or tarnished."</p>
+
+<p>"......"</p>
+
+<p>"I don't dare even mention forgiveness in front of you. Just... know that I love you. I will keep my promise — that no one else will ever catch my pheromone. I will stay here..."</p>
+
+<p>Ihyeon shook his head. He wanted to give up on cornering Liu and himself with nothing but venom, and finally be honest. That seemed like it would be far more bearable.</p>
+
+<p>"I don't know... I truly resent you, Director, and I want to lash out, demanding to know why you put me in this situation... but if I leave... what will happen to you?"</p>
+
+<p>Liu pulled back and gripped both of Ihyeon's shoulders firmly. He lowered his head to meet Ihyeon's eyes. His eyes were red-rimmed but no longer wavering.</p>
+
+<p>"Ihyeon-ah."</p>
+
+<p>"......"</p>
+
+<p>"Even before you knew about the Changing, you already knew you had to go to Paris. Don't sacrifice the path you have to take... in order to forgive me."</p>
+
+<p>The memories of finding comfort leaning against him — of confronting himself and his own past within Liu's love — hadn't been undone. But continuously expecting from another person a value that one cannot give oneself is not love. The Changing wasn't the only reason he had to leave.</p>
+
+<p>Liu's touch gently pulled Ihyeon closer.</p>
+
+<p><em>I'm fine. I'm truly fine.</em>  — he whispered it into his ear, again and again.</p>
+
+<p>"I will keep loving you. If you suddenly feel like seeing me, even on a whim, I'll come running immediately. And if you then say you can't stand the sight of me, I'll disappear right away. I don't care how many times we repeat that cycle. So don't give up anything because of me."</p>
+
+<p>Ihyeon took a breath. He gripped the front of Liu's shirt tightly.</p>
+
+<p>"You've already changed enough... all because of me."</p>
+
+<p>His voice, softly permeating, was the Liu Weikun he knew. But he hadn't wanted to take only softness from him.</p>
+
+<p>"Paris isn't that hard a place for me to reach — you know that. I used to go once or twice a year anyway. With you there, couldn't I go once a month? Even once a week? Physical distance means nothing."</p>
+
+<p>He knew Liu wouldn't come. But Ihyeon bit his lip and nodded. He curled his fingers, gripping his shirt even tighter. The sound of the rain — like tons of sand pouring down onto the roof of the car — was almost a relief. It felt as though they were sealed alone inside it, cut off from everything in the world, or having cut the entire world off themselves.</p>
+
+<p>They simply listened to the rain, staying still until their emotions settled — or at least until they could conceal them well enough on the surface.</p>
+
+<p>Ihyeon, who had been resting his cheek against Liu's neck, slowly pulled away, pushing gently at his chest with the hand that had been clutching his shirt, and sat upright. The car pulled slowly away from the beach.</p>
+
+<p>Neither of them spoke a single word during the drive back to the small clearing at the foot of the incline. Ihyeon had an umbrella, but Liu unfurled the large one he always kept in the trunk — almost like a parasol — and held it over both of them as they walked up the slope.</p>
+
+<p>Even after reaching the main gate, neither of them could easily turn away. Ihyeon stood close under the umbrella and looked up at Liu for a long time. Back when he had passed through this gate every day, he could never have imagined a day would come when someone would enter his life this deeply. It felt as if the present had thrust itself, abruptly, into a past that had long since gone still.</p>
+
+<p>The look in Liu's eyes as he gazed at Ihyeon was subdued. His resolve was firm — he would not let Ihyeon waver by letting any tender longing show, any desire to reach out and touch him, any wish to stay and hold on.</p>
+
+<p>"Drive... carefully."</p>
+
+<p>Liu smiled faintly, as though hearing those words from Ihyeon's mouth was the greatest happiness in the world, and nodded.</p>
+
+<p>After crossing the narrow yard and stepping onto the porch, when Ihyeon turned to look back, Liu's umbrella was still jutting up above the main gate. He tore his gaze away from the motionless umbrella and went inside — and found his father sitting by the floor lamp at the desk, looking at Ihyeon's painting. It was the first time this had happened, but he was so physically and mentally depleted that he didn't even have the energy to feel surprised or moved.</p>
+
+<p>The emotions he had concentrated on suppressing while he was with Liu slowly began to seep out. He leaned his back against the wall and slid down to sit on the floor, and his vision blurred instantly, as if it had been waiting for him.</p>
+
+<p>He pulled his knees up and rested his arms across them. As he bowed his head, tears that could no longer bear their own weight dropped onto his thighs. He clenched his fists, but couldn't entirely silence his sobs. Even so, his father did not turn around. But that didn't matter. If anything, he preferred it that way.</p>
+
+<p>Perhaps his father — who had known what it was to be separated from someone he loved — understood that there was no adequate comfort for a moment like this.</p>
+
+<p>If one kept calling the past into the present instead of burying it, perhaps someday the past could be reborn with a different shape and meaning. Perhaps a moment would come when the wound transformed into something that defined him. But for now, not even that hope could thin the pain.</p>
+
+<p>He wanted to throw everything aside, run to the door, pull it open, and chase after him — he might still be at the gate, or not far beyond it — and just hold him. The sound of the rain took a long, long time to slowly subside.</p>
