@@ -1,0 +1,279 @@
+---
+layout: chapter
+volume: "Side Story II"
+chapter_number: 34
+chapter_id: "S2.4"
+title: "Honeymoon"
+hybrid_short: true
+section_number: 16
+section_count: 17
+permalink: /sections/chapter-34/16/
+excerpt_separator: "<!-- section-excerpt-end -->"
+---
+<p>Ihyeon placed the empty skewer, which had held a chicken satay, onto his own plate. It was the last of the five satays Liu had portioned out for him in advance.</p>
+
+<p>"I heard your morning sickness went away. I'm glad to see you're eating well now, Ihyeon."</p>
+
+<p>Morae, who had been observing Ihyeon intently from across the dining table, spoke in a warm tone. The atmosphere suggested she might even applaud Ihyeon for finishing his meal so well.</p>
+
+<p>Yeehan chimed in.</p>
+
+<p>"That's right. There were times when he couldn't eat anything at all because it was so severe."</p>
+
+<p>"It wasn't <em>nothing</em> I could eat."</p>
+
+<p>"It wasn't?"</p>
+
+<p>"I still managed to eat the egg porridge."</p>
+
+<p>"Oh, the egg porridge your husband made for you?"</p>
+
+<p>Hearing Ihyeon's small defense, Yeehan raised his eyebrows and teased him.</p>
+
+<p>In the early stages of his pregnancy, Ihyeon suffered from severe morning sickness. Ihyeon, who used to eat anything well — whether Korean, traditional Balinese, French, or Italian — had become extremely picky.</p>
+
+<p>The only thing he could barely manage to eat was the egg porridge that Liu always made for him whenever Ihyeon wasn't feeling well.</p>
+
+<p>Because of that, Liu had tried various things to enrich the nutrition even a little. He tried finely slicing the top-grade black truffles or abalone that Ihyeon's parents had sent from Hong Kong, or melting cheese into it.</p>
+
+<p>Every time, Ihyeon would rush to the bathroom as soon as he put a single spoonful in his mouth. The baby would only permit the standard, basic egg porridge.</p>
+
+<p>"Our Didi is very particular about her tastes, isn't she? I only added a tiny bit — how did she notice? Huh?"</p>
+
+<p>Liu would sometimes say that while stroking Ihyeon's still-flat stomach.</p>
+
+<p>The severe morning sickness vanished as if by magic once he entered the fourth month of pregnancy. Thanks to that, this was the first dinner gathering with friends they'd had in a long time.</p>
+
+<p>Yuni and Michelle, Leo and Leo's parents, Morae, and Yeehan had all come to Ubud, leaving Parang with the babysitter.</p>
+
+<p>"I honestly thought Ihyeon's morning sickness would never go away. It was so painful to watch."</p>
+
+<p>Yuni, who watched Ihyeon up close every day while working at the gallery, looked at him with pitying eyes — a gaze brimming with affection.</p>
+
+<p>"He became so sensitive to smells that he couldn't even step outside the door."</p>
+
+<p>Liu, who had taken the seat right next to his mate, spoke while gently stroking Ihyeon's hair. His chair, placed at the very end of the table, was angled about thirty degrees toward Ihyeon.</p>
+
+<p>"He couldn't even stand the smell of food like that, but one morning he woke up and the first thing he said was that he wanted bulgogi."</p>
+
+<p>"You must have been happy, hyung."</p>
+
+<p>Liu nodded toward Yeehan.</p>
+
+<p>"I thought I was going to cry."</p>
+
+<p>Baek Yuni finished eating last, wiping her hands on a napkin, and shrugged her shoulders.</p>
+
+<p>"For the Director, there must be some kind of mystery of the human body that makes him feel full just by watching Ihyeon put something in his mouth."</p>
+
+<p>Everyone laughed at her words, but at the same time, everyone agreed.</p>
+
+<p>"It's good that Ihyeon's morning sickness has improved, and it's good to see his face like this."</p>
+
+<p>"Tell me about it. Even though we live only five minutes away, this is the first time I've seen Ihyeon since the New Year."</p>
+
+<p>Leo's parents, who had grown close by running a nearby restaurant, were also happy that Ihyeon was free from morning sickness.</p>
+
+<p>Morae smiled at Ihyeon and brought up something as if she had just remembered.</p>
+
+<p>"Oh, by the way, I noticed your stomach is starting to show a little bit now?"</p>
+
+<p>"You have no idea how cute he is."</p>
+
+<p>Liu's face overflowed with a happy smile as he carefully placed his hand on Ihyeon's stomach.</p>
+
+<p>"Yes, I'm sure that's how it is."</p>
+
+<p>"Look at that face — like he owns all the happiness in the world."</p>
+
+<p>The affectionate teasing from his friends rained down on Liu.</p>
+
+<p>Yeehan narrowed his eyes, gazing into the air as he tried to recall something, then tilted his head.</p>
+
+<p>"Ihyeon is only twenty-six, and we haven't even been married six months. Who was it that so firmly said it was too soon to have a baby… who was that again?"</p>
+
+<p>Liu nodded as if admitting guilt, raising his left hand.</p>
+
+<p>"Yes, that was me. I did say that."</p>
+
+<p>"And yet, the moment he found out about the pregnancy, his grin stretched from ear to ear..."</p>
+
+<p>"Besides, he didn't confess it to us first; we found out by accident."</p>
+
+<p>Liu, who had flown straight from Hong Kong to Bali the moment he heard the news of the pregnancy, did not tell Yuni or the other staff members even after returning to Hong Kong the next day. They only knew that Ihyeon had been feeling unwell.</p>
+
+<p>Without telling anyone — not his parents in Hong Kong, not Ihyeon's family by the East Sea, not his friends — Liu held onto that happiness as his own secret for a month.</p>
+
+<p>He felt that such great happiness might invite envy.</p>
+
+<p>It was a happiness too precious to dare speak of carelessly.</p>
+
+<p>It was the kind of happiness that wasn't meant to be shown off while wearing it, but rather kept deep inside a drawer, only to be secretly taken out late at night and gazed upon with satisfaction. It was just like how Ihyeon treated the diamond necklace Liu had given him during his proposal.</p>
+
+<p>However, because the happiness was so immense, it was also inevitable that it would eventually be discovered.</p>
+
+<p>It happened because Liu overreacted when he found Ihyeon helping move artwork in the gallery ahead of his solo exhibition.</p>
+
+<p>"That was the first time I'd ever seen the Director act so frighteningly. Ihyeon isn't a gallery employee; he's an affiliated artist. Why would you make him do that kind of work?"</p>
+
+<p>Yuni added, setting down her glass after finishing the last bit of wine.</p>
+
+<p>"It's a good thing we knew Ihyeon was pregnant; otherwise I really might have quit right then and there."</p>
+
+<p>Even without having seen the situation, his friends knew exactly what had happened and chimed in about Liu's overprotectiveness.</p>
+
+<p>Liu willingly played the sacrificial lamb, appearing completely unbothered as if inviting them to tease him all they wanted. No amount of teasing about Ihyeon and the baby could possibly put even a small dent in his happiness. Moreover, the teasing from everyone gathered there was rooted in strong affection, so there was no reason to feel displeased.</p>
+
+<p>It seemed the meal was entirely finished.</p>
+
+<p>Some time had passed since everyone had put down their food, and the wine was nearly gone as well.</p>
+
+<p>Ihyeon, the host, and Liu exchanged a meaningful glance. It was time to bring out dessert.</p>
+
+<p>As Ihyeon stood up first, followed immediately by Liu, Yeehan pointed at Liu as if he had been waiting for this moment.</p>
+
+<p>"Look at that, look! See how he scurries right after Ihyeon as soon as he gets up!"</p>
+
+<p>Liu turned around and threatened playfully.</p>
+
+<p>"I'm just going to get the dessert. The carrot cake that your wife loves."</p>
+
+<p>"Does only Morae like carrot cake? Everyone here knows that Ihyeon will wake up even from a dead sleep for Omia's carrot cake."</p>
+
+<p>That was true. Liu feigned ignorance, shrugged his shoulders, and hurried into the kitchen after Ihyeon.</p>
+
+<p>"There's probably no one to whom the word 'scurrying' is less fitting."</p>
+
+<p>A burst of cheerful laughter erupted from behind the two of them at someone's remark. It was a lively sound they hadn't heard in the house for a long time.</p>
+
+<p>There was a slight distance between the dining area, set up with a large communal table, and the kitchen. Despite that, the guests' jokes and laughter carried vividly into the kitchen. Thanks to that, Liu and Ihyeon couldn't help but smirk the entire time they were preparing the dessert.</p>
+
+<p>Ihyeon placed the large whole cake onto the cake stand, and Liu took out dessert plates for the number of guests from the cabinet. Liu approached the counter with the plates, patted Ihyeon's shoulder, and asked kindly,</p>
+
+<p>"Are you sleepy? Not tired?"</p>
+
+<p>"A little sleepy, yes, but I'm okay for now. It's fun because everyone is gathered after a long time. I want to socialize a bit longer."</p>
+
+<p>"That's a relief then."</p>
+
+<p>Gently pulling Ihyeon closer into an embrace, Liu kissed the center of his mate's temple. Then, with a slightly flushed expression, he asked Ihyeon.</p>
+
+<p>"Shall we bring out 'that' now?"</p>
+
+<p>Ihyeon nodded with a smile, and Liu brought out a bundle from the pantry connected to the kitchen. It was a shopping basket containing several small paper boxes.</p>
+
+<p>"So when are you announcing it? I'm dying of curiosity!"</p>
+
+<p>Someone from the dining area called out loudly to the hosts, full of playful mischief.</p>
+
+<p>Liu and Ihyeon, who were transferring the boxes onto a large tray, looked at each other and grinned.</p>
+
+<p>When Liu appeared holding the cake and plates, and Ihyeon holding the tray with the boxes, all the guests' attention immediately focused on them.</p>
+
+<p>"Ooh, what is that?"</p>
+
+<p>"Are those presents?"</p>
+
+<p>The reaction was good.</p>
+
+<p>Cream-colored boxes tied with cream-colored ribbons were placed in front of each guest. Cream white was the color the two hosts had chosen for their wedding attire.</p>
+
+<p>Some guests picked up the boxes and shook them, while others held them up high to catch the light. Leo, the only young guest, was the first to untie the ribbon and open his box.</p>
+
+<p>"Balloons! Dad, they're balloons!"</p>
+
+<p>As soon as Leo shouted excitedly, Liu immediately gave advice to the boy's father.</p>
+
+<p>"Be careful, Leo, because you have to pierce it with a pin."</p>
+
+<p>Led by Leo, the other guests also opened their boxes.</p>
+
+<p>A small balloon inside the paper box and a small pin attached to the box to pop the balloon. Morae and Yeehan were the first to figure out its purpose. After all, they had also thrown a gender reveal party for Parang's surrogate mother.</p>
+
+<p>"You said you weren't doing a separate gender reveal — when did you prepare something like this?"</p>
+
+<p>"Because we said we'd throw a party for you."</p>
+
+<p>"No, nothing that elaborate."</p>
+
+<p>Ihyeon, standing next to Liu in front of the table, smiled faintly. Being the focus of a party was still something Ihyeon felt slightly awkward about.</p>
+
+<p>"You invited us for dinner, but you two were making this all afternoon?"</p>
+
+<p>"You two are really adorable."</p>
+
+<p>The other guests held a box in their hands, enjoying themselves like children.</p>
+
+<p>"What is it? How do we do this?"</p>
+
+<p>Michelle kindly explained to Yuni, who had no idea how a gender reveal usually proceeded, standing next to her.</p>
+
+<p>"It says right here on the box. Purple for a girl, yellow for a boy."</p>
+
+<p>Leo's father, who had the boy sitting on his lap, also explained it to Leo, who was showing interest in the balloon.</p>
+
+<p>"Leo, it's about Kun and Ihyeon's baby. If it's a little sister, purple paper will come out of the balloon, and if it's a little brother, yellow paper will come out."</p>
+
+<p>Liu, leaning over while gripping the edge of the dining table with both hands, made eye contact with Leo and asked,</p>
+
+<p>"Leo, would you prefer purple to come out, or yellow?"</p>
+
+<p>"Purple!"</p>
+
+<p>The child shouted decisively, raising his arms high without even hesitating.</p>
+
+<p>"Purple? Why?"</p>
+
+<p>"Parang and I are both boys, so I think it would be nice to have a little sister to play with."</p>
+
+<p>Hearing Leo's answer, Liu and Ihyeon secretly exchanged glances and smiles that only they could understand.</p>
+
+<p>"Leo, when I say one, two, three, we all pop them together, okay?"</p>
+
+<p>One, two, three.</p>
+
+<p>Pop, pop-pop, pop.</p>
+
+<p>Someone failed to pierce it cleanly on the first try, and the air just hissed out. But most of them popped the balloons almost simultaneously with only a very slight delay.</p>
+
+<p>A quiet stillness settled over the room for a brief moment.</p>
+
+<p>What scattered across the table and the floor when the balloons burst was purple confetti.</p>
+
+<p>"Ihyeon, is it a girl?"</p>
+
+<p>The first to break the silence was Morae's flushed voice. Ihyeon nodded with a smile.</p>
+
+<p>"Yes, nuna. Our Didi is a girl."</p>
+
+<p>"How wonderful. What a beautiful baby she must be!"</p>
+
+<p>Morae rose from her seat and approached Ihyeon. Not just her, but all the other guests followed suit and stood up. They congratulated and blessed the couple, exchanging hugs or kissing their cheeks.</p>
+
+<p>"Daughter-obsessed Liu Weikun — that's easy to predict, isn't it?"</p>
+
+<p>When Yeehan jokingly nudged Liu's arm, the other guests chimed in with their own comments.</p>
+
+<p>"Are you going to carry her around constantly, never letting her walk on her own two feet?"</p>
+
+<p>"How will you ever let her get married, she's too precious!"</p>
+
+<p>Liu shrugged, wrinkling the bridge of his nose.</p>
+
+<p>"We're already talking about marriage? What about all the steps in between?"</p>
+
+<p>Yuni and Michelle gathered the confetti that had fallen onto the table and sprinkled it over Liu and Ihyeon's heads. Liu gently picked a piece of paper off Ihyeon's face and put on a playful front toward the guests.</p>
+
+<p>"Alright, now that we know Didi's gender, everyone go home. Ihyeon is tired."</p>
+
+<p>"We've only just had one bite of cake. Are you kicking us out?"</p>
+
+<p>Yeehan held up his fork, looking aggrieved. Yuni scooped a piece of cake onto a plate and took over what Yeehan had started saying.</p>
+
+<p>"They say that anything a husband does that disappoints you during pregnancy stays with you forever. But when I asked Ihyeon, he said he didn't feel even a speck of disappointment."</p>
+
+<p>"It makes sense he wouldn't. He's been so devoted."</p>
+
+<p>"But aren't <em>we</em> disappointed? He's been so cold to us ever since Ihyeon got pregnant."</p>
+
+<p>Moonlight streamed in through the large window next to the dining table. The purple confetti scattered around the table twinkled as if coming to life in the moonlight.</p>

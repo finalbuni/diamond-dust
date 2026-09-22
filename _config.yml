@@ -7,6 +7,9 @@ plugins:
   - jekyll-sitemap
 
 collections:
+  sections:
+    output: true
+    permalink: /sections/:name/
   chapters:
     output: true
     permalink: /chapters/:name/

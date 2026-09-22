@@ -1,0 +1,46 @@
+---
+layout: chapter
+volume: "Volume 1"
+chapter_number: 5
+chapter_id: "V1.5"
+title: "Wonderland"
+korean_title: "이상한 나라"
+hybrid_short: true
+section_number: 5
+section_count: 12
+permalink: /sections/chapter-05/5/
+excerpt_separator: "<!-- section-excerpt-end -->"
+---
+{% capture excerpt %}
+<p>Eight months after <em>Body and Soul</em> — an exhibition that drew an enthusiastic response from visitors, critics, and industry media alike — Shushu now presents the <em>Body to Soul</em> series, solidifying his unique style while proving once again a deepened thematic consciousness.</p>
+
+<p>The <em>body</em> as a means of expressing the <em>soul</em>.</p>
+
+<p>The <em>body</em> suffering from discord with the <em>soul</em>.</p>
+
+<p>The <em>body</em> existing physically, independent of the <em>soul</em>.</p>
+
+<p>In handling the <em>body</em> as the subject matter of his works, Shushu has already reached a level of mastery unbelievable for his age and career.</p>
+
+<p>As if delivering a mature sneer at the antiquated perspectives of some art professionals who still do not recognize photography as an artistic domain and treat it merely as an auxiliary tool for documentation, he presents a radical method in this <em>Body to Soul</em> series, utilizing only light and shadow — line and plane — in what amounts to a radical reduction.</p>
+
+<p>The resulting works, which nearly abandon the realistic characteristics inherent to photography, are closer to traditional painting in meaning than to the medium itself.</p>
+
+<p>As everyone knows, the simpler the style, the more clearly the depth of its foundation is revealed. To use a Korean food analogy, he has made an excellent meal from nothing more than a handful of rice and a simple kimchi. Honestly simple, yet never losing its dignity or individuality.</p>
+
+<p>Before the unique style that only Shushu can show — and more than just style, before the serious and essential contemplation of life and humanity, the profound thematic consciousness engraved into the works after strict self-reflection — one cannot help but marvel at the external and internal world of this young artist.</p>
+
+<p>Before his works, I always feel anguish.</p>
+
+<p>I discover myself in his works — a self I do not want to face — and want to look away, pretend not to see, and walk.</p>
+
+<p>And at the same time, I feel an impulse unlike myself: if only I could, if only I had a little more courage, to face that self just once. Because he too must have poured his soul into these works after going through such a painful process.</p>
+
+<p>But I know — it is not something one can attempt with mere impulsive courage. I will probably remain cowardly.</p>
+
+<p>And through his works I will awaken, if only briefly, to my own cowardice, and live on with that thin consolation of having defended the minimum of my humanity. Whatever anyone says, that is what art holds for me: placing us before immense things, so that we might contemplate the vague meaning of life hidden behind the ordinary continuity of days.</p>
+
+<p>As his dealer, collector, and ardent fan, I await the works he will show us with both excitement and anguish.</p>
+{% endcapture %}
+
+{% include excerpt.html content=excerpt %}

@@ -1,0 +1,203 @@
+---
+layout: chapter
+volume: "Side Story II"
+chapter_number: 32
+chapter_id: "S2.2"
+title: "Fiancé (1)"
+hybrid_short: true
+section_number: 5
+section_count: 11
+permalink: /sections/chapter-32/5/
+excerpt_separator: "<!-- section-excerpt-end -->"
+---
+<p>Their lodging was on the first floor of a quaint two-story detached house.</p>
+
+<p>There was one bedroom separated only by a wall with no door, and the large window in the combined living room and kitchen overlooked a well-maintained courtyard. They had already enjoyed breakfast three times at the small table there over the past week. They also appreciated that the building was quiet despite facing the road, because the windows looked out over the courtyard.</p>
+
+<p>Even though they had only stayed a week, they had grown quite accustomed to the neighborhood's atmosphere and the house itself. The way they unlocked the door with the key and stepped inside felt so natural that the two of them looked less like visitors and more like residents.</p>
+
+<p>"Shall we start cooking right away?"</p>
+
+<p>"Yeah, let's. Can you start organizing the ingredients? I'll put the flowers in a vase first."</p>
+
+<p>"Then, Awi, could you also take out the gnocchi dough?"</p>
+
+<p>"Got it."</p>
+
+<p>Ihyeon chuckled at Liu's playful tone.</p>
+
+<p>While Ihyeon unpacked the groceries, Liu first took the dough out of the freezer. Then he spread out the chrysanthemum bouquet and filled a vase with water. Using the scissors provided with the accommodation, he trimmed the stems to match the vase height. All the while, he hummed unconsciously.</p>
+
+<p>Ihyeon, laying items out from the grocery bag onto the counter, suddenly said in a voice tinged with regret.</p>
+
+<p>"We're leaving tomorrow, and I think I bought way too much of everything."</p>
+
+<p>"Let me see."</p>
+
+<p>Liu, scissors in one hand and flowers in the other, came over to look.</p>
+
+<p>Italian persimmons, Swiss figs, South African tangerines. Three or four kinds of vegetables, 500 grams of sirloin for steak, bacon, basil pesto sauce, Mövenpick ice cream for dessert — Ihyeon had chosen mango sorbet, Liu chocolate — plus two bottles of wine.</p>
+
+<p>"Hmm... No, I don't think it's too much. After breakfast tomorrow, there won't be anything left, right?"</p>
+
+<p>"Are we really going to eat all of this?"</p>
+
+<p>"Of course. I plan on using up quite a lot of energy tonight."</p>
+
+<p>"......"</p>
+
+<p>At the mention of sex, Ihyeon immediately clamped his mouth shut. It was his strategy of pretending not to have heard.</p>
+
+<p>When they talked about things like this outside, Ihyeon felt more guarded than shy — worried about who might be listening. But alone like this, it was different. The shyness and tension were sharper here. He was acutely aware that this was a place where they could ignite at any moment.</p>
+
+<p>The very fact that Ihyeon was conscious of this thrilled Liu all the more. He couldn't help but tease him more deliberately when he saw that kind of reaction. What could he do when someone was simultaneously so cute and so sexy?</p>
+
+<p>And besides, tonight was the final night of their forty-day trip. Even if the world ended, he had no intention of letting this night pass uneventfully.</p>
+
+<p>Trying to hide his embarrassment, Ihyeon began organizing the ingredients with unnecessarily fussy movements. Liu wore a faint smile but didn't press him further.</p>
+
+<p>By the time Liu had cleared away the cut stems and wrapping paper and arranged the flowers in the vase, Ihyeon was looking down at his phone by the counter.</p>
+
+<p>"Did you get a message?"</p>
+
+<p>"It's Gabriella. She's asking what time would be good for checkout tomorrow."</p>
+
+<p>"Hmm... our train is at 10:34, so shall we say around 8:30?"</p>
+
+<p>"Sounds good. I'll tell her that."</p>
+
+<p>Gabriella was the host of the accommodation. She lived on the second floor of the adjacent building and ran a café downstairs. When they checked in, they met her, exchanged greetings, and were treated to welcome coffees at her café — during which she also gave them information about the city.</p>
+
+<p>Though her manner of speaking was brusque, she was someone who expressed kindness through actions rather than words. Whenever the two were having a late breakfast in the garden, she would bring them lattes from the café. She also shared chestnuts she had gathered from a nearby mountain. It was Gabriella who told them that chestnuts and acorns were abundant throughout most of the Swiss highlands in autumn.</p>
+
+<p>Among the shared accommodations they'd stayed in over forty days, some were managed by professional companies and others had no-contact systems where they never saw the host at all. But every host they did meet in person had been kind. With a few of them, they'd connected well enough to go out for meals together or exchange email addresses.</p>
+
+<p>"Ihyeon, once you're done with those messages, could you wash the vegetables?"</p>
+
+<p>"Yes, got it."</p>
+
+<p>Seeing Ihyeon absorbed in messaging, Liu slipped away toward the bedroom. Being careful not to make noise, he took a large beach towel from the closet and spread it out over the bedsheets. This was in preparation for what would come after dinner.</p>
+
+<p>Unlike hotels, you couldn't change the sheets in a shared rental as often as you liked. It was possible for an additional fee, but no spare sheets were left out for guests to change themselves. That meant they couldn't fall asleep on fresh sheets after sex.</p>
+
+<p>With that in mind, Liu had packed three beach towels before the trip. It had significantly added to the volume of his luggage — but that was no matter. For Liu, those towels were as essential as condoms were for a Beta man heading on a trip with his lover.</p>
+
+<p>During sex, Ihyeon secreted a considerable amount of arousal fluid. Lately, the amount had been increasing even more. Liu didn't want Ihyeon to be unable to focus because he was worried about soaking the sheets. He also wanted him to be able to sleep on clean sheets afterward.</p>
+
+<p>After spreading out the towel, Liu took out a small cardboard box from the nightstand drawer. It was an oral contraceptive for Alphas, to be taken before intimacy.</p>
+
+<p>Ihyeon had not yet fully manifested as an Omega, so the chance of pregnancy was close to zero. His doctor had even advised that contraception wasn't strictly necessary yet. Still, Liu couldn't let his guard down. Ihyeon wasn't just any Beta going through the process of manifesting as an Omega — he was the Diamond Dust.</p>
+
+<p>The moment he tilted his head back and swallowed the pill without water, Ihyeon's voice grew closer from the hallway.</p>
+
+<p>"Kun, I finished washing all the vegetables. Do you want me to open the wine ahead of — uh...."</p>
+
+<p>Ihyeon, who had just stepped into the bedroom, stopped dead in his tracks.</p>
+
+<p>His gaze, having caught Liu swallowing the pill, shifted to the box in Liu's hand. His face, already flushed crimson just from that, burst into flame the next moment — he had seen the towel spread out on the bed.</p>
+
+<p>Liu, who had also paused momentarily, returned the box to its place and spoke as if nothing had happened.</p>
+
+<p>"Ah, opening the wine now would be good. But I'll do it. Just in case you hurt your hand."</p>
+
+<p>Liu circled around the bed and placed both hands on Ihyeon's shoulders from behind. He nudged the bewildered Ihyeon toward the kitchen. Without a word, Ihyeon kept his head bowed and moved as Liu guided him.</p>
+
+<p>In the awkward silence, Liu opened the wine and Ihyeon put water on to boil the gnocchi dough. Liu, stealing glances at Ihyeon from the corner of his eye, approached the induction cooktop where he was standing as if unconcerned. Then, as he put the corkscrew away in a drawer, he tossed out the words casually.</p>
+
+<p>"I was just taking my medicine, Ihyeon."</p>
+
+<p>"...I know."</p>
+
+<p>After closing the drawer, he placed his hand on Ihyeon's shoulder and moved close behind him. His lips grazed the curve of Ihyeon's ear. Liu added in a murmur,</p>
+
+<p>"I wasn't masturbating."</p>
+
+<p>"Ugh, seriously...!"</p>
+
+<p>Ihyeon's flushed face snapped around toward Liu. He pressed his left ear — where Liu had whispered — with his hand, his eyes full of reproach. Liu poked his cheek with one finger and smirked.</p>
+
+<p>"Are you still that embarrassed just seeing me take my birth control? Still?"</p>
+
+<p>"I'm not embarrassed. I was just... caught off guard."</p>
+
+<p>Ihyeon turned his head, trying to leave the spot. Liu caught his arm and drew him back into a light embrace from behind.</p>
+
+<p>"But once we get started… Seo Ihyeon, you're not exactly innocent, are you?"</p>
+
+<p>"That's because of the pheromones!"</p>
+
+<p>"Ah... so you can't help it when you're exposed to pheromones."</p>
+
+<p>"That's right. Kun, you know what happens when we're exposed to pheromones."</p>
+
+<p>"I thought maybe you were just like that because you love me so much."</p>
+
+<p>"......"</p>
+
+<p>Seo Ihyeon, unable to deny it, was unbearably endearing.</p>
+
+<p>The struggling to get free from his arms gradually stilled. Liu gazed down at Ihyeon's flushed cheeks and earlobes with quiet contentment. But Ihyeon, biting his lower lip, murmured in a small, slightly aggrieved voice.</p>
+
+<p>"Awi too..."</p>
+
+<p>"Hmm?"</p>
+
+<p>"Awi is embarrassed right now too."</p>
+
+<p>"I am."</p>
+
+<p>"......"</p>
+
+<p>A bewildered look came over Ihyeon's face — the look of someone who'd momentarily lost their words. <em>Why is he admitting it so readily?</em> That was the expression.</p>
+
+<p>Liu released Ihyeon's waist and walked toward the counter. Though he wasn't going to eat any, he idly fiddled with the persimmons Ihyeon had washed and piled there. Then he let the truth out.</p>
+
+<p>"I suppose I still want to be the perfect man in front of you."</p>
+
+<p>"......"</p>
+
+<p>No reaction. A wave of unease prompted Liu to turn back. Ihyeon was frowning slightly, as if he didn't quite follow what Liu meant. After watching him for a moment, Liu decided to speak his heart and let out a quiet sigh.</p>
+
+<p>"When the mood builds and we go to the bedroom, I want to show you the perfectly prepared result. I don't want you to see me getting ready for it."</p>
+
+<p>He felt like a teenage boy, awkward and unsure when it came to love. But he didn't hate that feeling. He did want to be someone perfect for Ihyeon — but more than that, he didn't want to approach him with anything calculated or practiced.</p>
+
+<p>Ihyeon's lips twitched at the confession. He seemed to be holding back a smile, worried that Liu might be upset if he let it show. From behind, Ihyeon wrapped his arms around Liu's waist and pulled him into a hug. The situation had reversed from just moments ago.</p>
+
+<p>"That doesn't make Awi seem any less."</p>
+
+<p>"You don't think I'm just a guy who only thinks about sex?"</p>
+
+<p>"Awi told me something honest, so should I tell you something honest too?"</p>
+
+<p>"..."</p>
+
+<p>"If you looked like you didn't want to be with me at all... I think I'd hate that even more."</p>
+
+<p>"Ah..."</p>
+
+<p>A soft sound of wonder escaped Liu's lips. The words from his lover — ten years younger and still shy about all of this — were nearly shocking.</p>
+
+<p>"It's not that it's the only thing on your mind. You're doing it because of me. That's why Awi is perfect."</p>
+
+<p>Liu tried to turn around, but Ihyeon held him even tighter. The next moment, Ihyeon's forehead came to rest heavily on Liu's shoulder.</p>
+
+<p>"Don't look at me right now."</p>
+
+<p>"I want to. Can't I?"</p>
+
+<p>"If you see me right now, I'll never tell you anything honest again."</p>
+
+<p>That couldn't happen. Those words could not be spoken. Liu quietly closed his mouth.</p>
+
+<p>He stood there for a moment, with Ihyeon holding him from behind. The scent of chrysanthemums drifted from the vase on the counter, and beyond the window, the maple tree in the courtyard was visible.</p>
+
+<p>"The maples at Awi's house in Seoul must be changing color too."</p>
+
+<p>"They are. They'll be blazing red and yellow when we get back."</p>
+
+<p>The last day of the trip. This moment felt like the last square of chocolate.</p>
+
+<p>Liu stroked Ihyeon's arms wrapped around his waist. They looked out at the same view.</p>
+
+<p>He felt a fierce urge to ask Ihyeon to marry him right then — to make this moment last forever. But Liu only offered an ambiguous smile in a place where Ihyeon couldn't see it.</p>

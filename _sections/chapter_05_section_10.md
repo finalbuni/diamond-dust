@@ -1,0 +1,252 @@
+---
+layout: chapter
+volume: "Volume 1"
+chapter_number: 5
+chapter_id: "V1.5"
+title: "Wonderland"
+korean_title: "이상한 나라"
+hybrid_short: true
+section_number: 10
+section_count: 12
+permalink: /sections/chapter-05/10/
+excerpt_separator: "<!-- section-excerpt-end -->"
+---
+<p>Shushu took a few sips from the drink in his tumbler, then puffed out his cheeks and let out a long breath.</p>
+
+<p>He was scheduled to wait in the office and take a short rest until Part 1 of the event — the press conference — began.</p>
+
+<p>Manager Han and the artist sat side by side at the conference table, while the Director, instead of taking the seat next to the artist, leaned obliquely against the table about a step away from him. His gaze stayed fixed on the artist the whole time, and the faint smile that seemed to light up not just the corners of his mouth but his entire face — it made him feel like someone I didn't know.</p>
+
+<p>"Taking photos… can't we skip them next time?"</p>
+
+<p>Shushu looked up at him and asked carefully, yet sincerely.</p>
+
+<p>Unlike how he'd been at the photo wall — a little shy but clearly practiced at it — his slightly downturned eyes filled with worry and his lips pressed together; he looked like a child sulking about not wanting to eat his carrots. Not the kind who throws a tantrum to make life difficult — the kind whose sulking is so endearing you'd want to give them anything they asked.</p>
+
+<p>"What power do I have? Talk to Manager Han."</p>
+
+<p>That thought wasn't mine alone — the Director's gaze, passing the answer to Manager Han while looking down at the artist, was so soft it seemed he might reach out and brush the artist's hair back at any moment. He had the air of an elder happily indulging a much younger person's trivial worries. Yet as far as I knew, the two were the same age.</p>
+
+<p>The artist's gentle eyes turned toward Manager Han beside him.</p>
+
+<p>"Manager Han, is it really not possible?"</p>
+
+<p>"You always say that, but once it starts you handle it so skillfully. Being in the spotlight is your destiny, Shushu. Accept it."</p>
+
+<p>"That might have been before — but now I'm not the one being photographed, I'm the one taking pictures."</p>
+
+<p>Perhaps it was his calm, measured speech and pleasant, resonant voice. Even though he was practically pleading about a work-related matter, it didn't sound unpleasant.</p>
+
+<p>"You saw them earlier. The fans are out there. Let's do this little bit of fan service for the people who love you. Okay?"</p>
+
+<p>When Manager Han took his hand and squeezed it a couple of times, mentioning the fans, he let out another long breath — resigned, with nothing left to say.</p>
+
+<p>"Then you'll come into the exclusive interview with me, right?"</p>
+
+<p>"Hmm… I might be busy seeing off the clients."</p>
+
+<p>After both Part 1 — the press conference — and Part 2 — the socializing and party — were over, an exclusive interview between Shushu and a major art magazine was scheduled in the gallery's reception room.</p>
+
+<p>I had heard in advance that he relied heavily on Manager Han, but it seemed more severe than I'd expected. At the suggestion that Manager Han might not be able to accompany him to the interview, he made a face as if — somewhat exaggeratedly — the end of the world had been declared.</p>
+
+<p>Across the room, standing with me in front of the partition, Juhan hyung turned his head and laughed under his breath — quietly enough that only I could hear. Even Juhan hyung found those aspects of the considerably older Shushu endearing.</p>
+
+<p>"I'll cover seeing the clients off, so go in with him. We can't do anything without Manager Han."</p>
+
+<p>The Director, pushing off from the table he'd been leaning against, lightly placed a hand on the artist's shoulder as he passed behind the chairs where Shushu and Manager Han were sitting.</p>
+
+<p>"Ugh — looking at me with that face is cheating. It's a face you just can't say no to."</p>
+
+<p>When Manager Han, glancing at the artist's pleading expression, waved the white flag, the artist finally showed a relieved smile. That silent smile that bared teeth seemed to have the power to purify the very air around it, making it transparent.</p>
+
+<p>He was only the second person I'd known who could simply change the atmosphere of a room — by being in it, or by speaking. The Director, who in this very office made me feel as though I'd been sealed behind glass walls and separated from everything — and now Shushu, right in front of me.</p>
+
+<p>Although Shushu was today's protagonist, it was clear that everyone in the office gathering their attention around him wasn't solely for that reason.</p>
+
+<p>"It's because Manager Han never says no to him."</p>
+
+<p>"Wow — Director Liu, are you blaming me right now? About Shushu?"</p>
+
+<p>At Manager Han's aggrieved voice, the Director — who had been standing in front of the windowsill shelf pouring a glass of champagne — turned around and smiled.</p>
+
+<p>This side of him, enjoying this kind of banter, was also unfamiliar. As far as I knew, he wasn't someone who particularly enjoyed jokes in the first place, and even when he did joke with Juhan hyung or Yuni nuna, it was mostly a matter of teasing each other.</p>
+
+<p>"Right. When there's a problem with the work, rushing over even at 2 or 3 in the morning and acting as an assistant is just baseline — and clearing the entire schedule of other artists to unconditionally prioritize Shushu was probably Manager Han too, wasn't it?"</p>
+
+<p>Even Inwu hyung, who had arrived at the gallery early to avoid the photo wall event, joined in, volunteering to be a witness to the Director's favoritism toward Shushu.</p>
+
+<p>"He's the most important artist at the gallery. Is that wrong?"</p>
+
+<p>Placing the slender champagne flute in front of Shushu, the Director wore an innocent expression.</p>
+
+<p>Next to the glass, he set down a small box decorated with a ribbon in royal blue and gray. He had brought a deep navy shopping bag when he came to work and I'd wondered why — it must have been the box inside it.</p>
+
+<p>"Is it Debauve & Gallais bonbons? Did you buy these specially?"</p>
+
+<p>Perhaps it was a favorite brand — recognizing the contents just by the box, the artist made a delighted expression.</p>
+
+<p>"I need you to get through the event in top condition. Have some. You'll be less nervous during the press conference."</p>
+
+<p>He was framing it as business-level consideration, but I already knew well what the Director's "business smile" looked like. Right now, he wore an expression even happier than Shushu, who had just received the gift.</p>
+
+<p>Inside the box were chocolates, each one meticulously crafted into different shapes — almost too beautiful to eat. A rich sweetness mingled with the coffee aroma spreading from the coffee machine Manager Han had turned on. Absurdly, the scent seemed to come not from the chocolate but from Shushu himself.</p>
+
+<p>Staring blankly at the Director and Shushu — who looked like a magazine spread or a movie poster — I quickly poured a glass of champagne for Inwu hyung, who was complaining that no matter the difference in sales between artists, the disparity in treatment was too great — that he hadn't even been offered a glass of the champagne sitting right there, let alone expensive chocolates.</p>
+
+<p>"I didn't mean to bother you, Ihyeon. The one who should feel guilty doesn't even care. Sorry. I'll enjoy it."</p>
+
+<p>I tried to smile at Inwu hyung as he said that, but all I could manage was to awkwardly lift the corners of my mouth.</p>
+
+<p>Since it was a large-scale event and a PR agency had been hired, on the actual opening day there was surprisingly little to do. Yuni nuna, the practical general manager, was supervising final preparations on the second floor, but Juhan hyung and I were waiting in a corner of the office for Part 1 to begin. Standing still and watching the close conversation of others felt awkward, and I wished someone would give me something, anything, to do.</p>
+
+<p>"Let's share these. I can't eat them all by myself anyway."</p>
+
+<p>"No, this is a gift, so you eat it alone. If there's any left, you can just take it home and eat it later."</p>
+
+<p>The Director gently caught the artist's wrist to stop him as he pushed the box toward the center of the table. But the artist, having handed a chocolate to Manager Han and one to Inwu hyung, now targeted the Director.</p>
+
+<p>"I said try one. The person who bought them should taste them too."</p>
+
+<p>The artist picked up a leaf-shaped chocolate and raised his arm toward the Director standing beside him. The Director only narrowed his eyes slightly as if pondering while looking down at the chocolate — but he soon bent at the waist and accepted it.</p>
+
+<p>As if wondering who had frowned just moments ago after eating Yuni nuna's ice cream and declared that sweets weren't his thing — there wasn't even a subtle change in his expression after putting the chocolate in his mouth.</p>
+
+<p>All those scenes and conversations felt like a movie playing on a screen just across the table — a movie that had nothing to do with me. A movie that had nothing to do with me, and yet one that stirred something in my chest, shook my heart, made me root for someone and resent someone all at once.</p>
+
+<p>"It tastes better when everyone eats together. Juhan, you try one too. Do you perhaps not like sweets?"</p>
+
+<p>The artist's gaze, which had been directed at Juhan hyung, shifted naturally to me standing beside him.</p>
+
+<p>"Oh… but this person is…"</p>
+
+<p>And those soft, brownish eyes wanted to know my identity.</p>
+
+<p>It was the first time we had made eye contact at such a close distance. There was nothing threatening about him whatsoever, yet I momentarily wanted to flee the spot.</p>
+
+<p>"Ah, sorry. Was that uncomfortable?"</p>
+
+<p>But I didn't need to respond. The Director stepped forward as if to protect Shushu, placing a hand on his shoulder — his face clearly showing flustered surprise. The next moment, a cold, swift command was directed at me.</p>
+
+<p>"Could you step aside for a moment? He's very shy around strangers and gets uncomfortable when there's someone he doesn't know. How could no one have thought of this beforehand?"</p>
+
+<p>He ended by sharpening his tone toward the others in the office.</p>
+
+<p>It had been a while. His way, his rhetoric — not caring in the slightest if other people's feelings were hurt for the sake of someone precious to him.</p>
+
+<p>It had only been a lull recently; there was nothing new about this. He had always been that kind of person. Juhan hyung, Manager Han — they were all precious to him, but when there was someone even more precious, they could be pushed down the priority list at any moment.</p>
+
+<p>So there was no need to even mention my own feelings.</p>
+
+<p>"Awi."</p>
+
+<p>It was Shushu who broke the awkwardly stiffened air.</p>
+
+<p>At the artist's words, the Director looked at him, and since the artist was looking up at the Director as he spoke, that unfamiliar address must have been meant for him.</p>
+
+<p>Instead of using "Kun" like many others did, the artist was calling him by a different name. Gone was the milky softness of everything he'd said so far — this was resolute, with solid force behind it.</p>
+
+<p>"I just asked who he was — why are you acting like that? I'm not like that anymore. You're going to make him think I'm strange because of you."</p>
+
+<p>The artist's rebuke silenced him — but it did nothing to fix what had twisted in me. In fact, the more I heard Shushu defending me, the more pathetic I felt — not just in my mood, but in my very being.</p>
+
+<p>I felt an almost uncontrollable urge to say to him — the Director, who had fallen silent at just a few words from the artist: <em>Since when have you been so good at listening to other people?</em></p>
+
+<p>"I'm sorry, Shushu. It's been so hectic I couldn't even make introductions. This is a new Phantom employee who just joined. His name is Seo Ihyeon."</p>
+
+<p>At Manager Han's introduction, I stepped forward and bowed my head.</p>
+
+<p>"Hello, I am Seo Ihyeon."</p>
+
+<p>"Nice to meet you. Please understand him — he sometimes says strange things. His manner of speaking is a bit blunt, isn't it? He wasn't this bad before, but it seems he's gotten more prickly since getting into the business."</p>
+
+<p>"No, it's fine."</p>
+
+<p>On the surface the words seemed to express concern for my feelings, but underneath they felt like a defense of the Director. I was surprised at my own cynicism, interpreting kindness with such suspicion. Not wanting anyone to notice, I quickly pushed the thought away.</p>
+
+<p>Inwu hyung stood up holding the empty champagne glass and pushed his chair back with a somewhat loud scrape. A gesture that clearly displayed intentional displeasure.</p>
+
+<p>"Whether it's now or before, you always speak in a way that puts people off, don't you? You only pretended to be nice in front of Shushu, so you remember it differently. If anything, since getting into the business you've at least learned to force a smile, so in a way you're more developed now."</p>
+
+<p>"It wasn't that bad…"</p>
+
+<p>At Inwu hyung's attack, Shushu defended him in an uncertain voice.</p>
+
+<p>"Let it be. It's not a false statement."</p>
+
+<p>He didn't particularly try to deny his long-standing favoritism toward Shushu, or the prickly personality Inwu hyung had pointed out.</p>
+
+<p>"Before" probably meant before Phantom existed, so of course Shushu wasn't a Phantom artist back then. But I could now easily picture him being the nice version of himself only in front of Shushu, even back then.</p>
+
+<p><em>"Is there really such a thing as a good man? I've never seen one."</em> The words he had spoken at Manager Han's dining table — might those have been a self-deprecating admission that he had never been entirely good to any single person?</p>
+
+<p>That thought grazed my rigid mind, but it was something I couldn't confirm and had nothing to do with me. It was certainly not something I should be dwelling on right now.</p>
+
+<p>"I'm one of the affiliated artists. I'm sorry my greeting is so late — it's been hectic. We'll be seeing each other often from now on, so I look forward to working with you."</p>
+
+<p>The distance between us was such that we didn't shake hands, but the artist smiled brightly at me. A smile beautiful enough that you felt it had a value of its own. But this time, I couldn't even manage a strained forced smile.</p>
+
+<p>"I… look forward to working with you as well."</p>
+
+<p>My greeting — barely audible even as I said it — was swallowed immediately by the Director's voice.</p>
+
+<p>"Don't waste energy on things you don't normally do. Nobody here doesn't know you're shy. Forget the greetings — you should take care of yourself first. You're going to leave without eating even one piece of chocolate."</p>
+
+<p>He looked almost painfully anxious that Shushu might be called to the press conference before tasting even one piece of the chocolate.</p>
+
+<p>Just as Shushu finished swallowing one chocolate and had drunk about half a glass of champagne, Yuni nuna opened the office door.</p>
+
+<p>"Director, could you take a look at finishing up the photo wall? Shushu, come with me to preview the manuscript briefly."</p>
+
+<p>The moment Yuni nuna disappeared into the inner reception room with Manager Han and Shushu, Inwu hyung, who had been standing by the window, twisted his face toward the Director.</p>
+
+<p>"Still as overprotective as ever. Making Manager Han do all the bad roles while you try to take only the good ones — that's so like you. Manipulating everything from behind while cleverly pretending you're not involved."</p>
+
+<p>"Thanks for the compliment."</p>
+
+<p>He didn't even bat an eye at Inwu hyung's attack. He was entirely absorbed in repacking the box of chocolates Shushu had left behind into the shopping bag.</p>
+
+<p>"I'm not criticizing the overprotectiveness itself, but stop sacrificing the people around you while coddling only Shushu. When it comes to business, you can think of ten things at once — how can you only see one person?"</p>
+
+<p>"……"</p>
+
+<p>At his expression of utter incomprehension, Inwu hyung sighed. I understood that what Inwu hyung was trying to say was for my sake. But I wished he would stop.</p>
+
+<p>As they left the office together, Inwu hyung grabbed his shoulder with some force.</p>
+
+<p>"Do you always have to phrase it like that? We've long since written it off as just how you are… but from the outside, it really looks…"</p>
+
+<p>Only then, perhaps finally grasping the meaning, he glanced back at me — but the door closed almost immediately, so it was only a brief, fleeting moment. I couldn't hear what kind of comment he made to Inwu hyung about it afterward.</p>
+
+<p>"Don't take the Director's words too much to heart. He doesn't mince words when it comes to work, you know. He's especially sensitive about anything involving Shushu. Shushu is our flagship artist, after all. On a day like today, we just have to understand."</p>
+
+<p>Once everyone was gone, Juhan hyung seemed to feel a bit of relief as well. He let out a long breath, placed a hand on my shoulder, and patted it as if to encourage me.</p>
+
+<p>Was the fact that Shushu was the gallery's flagship artist and today was his opening event truly the whole story? Everyone else seemed to accept it that way — was I the only one attaching some peculiar interpretation to it?</p>
+
+<p>"Yes. It was actually somewhat satisfying that Shushu spoke up on my behalf."</p>
+
+<p>Contrary to my usual habit of failing to say what needed to be said and letting things pass, I added an unnecessary lie. In truth, I felt even more wretched because of Shushu's sharp remark toward the Director, and because of the artist's kindness toward me.</p>
+
+<p>Juhan hyung moved the champagne glass Shushu had left behind to the windowsill shelf and drank the remaining half. Now we also had to tidy up and head upstairs to the second floor.</p>
+
+<p>"That's just how he is. Probably because he grew up so sheltered in a wealthy family, but he seems to know nothing about the dirty side of things. Simply put, he's kind-hearted but a bit naive about the ways of the world. That might be why the Director and Manager Han look out for him even more. I worry that if left to his own devices, he'd go somewhere and sign some strange contract. His fame as an artist is one thing, but with looks like that, he attracts all sorts of annoying pests."</p>
+
+<p>It was a sufficiently convincing statement. Not just because of his simply beautiful features, but the unique atmosphere layered on top of them was peerless — to people who connected everything to business, he could appear as an attractive asset.</p>
+
+<p>"He looked like an actor."</p>
+
+<p>As I nodded in agreement, Juhan hyung, who had been standing by the shelf, swiftly turned around. His face, now looking back, was flushed as if he himself had received a compliment.</p>
+
+<p>"Right? When I first saw him in person, I almost fell over. It's not just that he's handsome or pretty — it's something… the person himself just seems sublime."</p>
+
+<p>I chuckled at hyung's exaggerated gesture, but the content of his words wasn't much of an exaggeration. He was the kind of person who seemed to emit a mysterious, subtle halo — like the actors who played elves in some fantasy movie I once saw.</p>
+
+<p>"Even if they say there's no genetic difference other than reproductive function, there's something — this aura that's just different from Betas. It's not just that he draws you in — he consumes you. Looking at him makes your mind go hazy, like you're about to be bewitched."</p>
+
+<p>Finishing his speech as if focusing his gaze on a point in the air, hyung narrowed his eyes, then tapped my back lightly and lifted his chin with a haughty expression, as if to say, <em>Now do you understand?</em></p>
+
+<p>"That's a Golden Omega."</p>
+
+<p>Juhan hyung probably meant it as a joke, but to me the words carried weight and sank heavily into my heart. It felt like speaking of an immutable difference — determined even before birth — that I could never catch up to or surpass.</p>
+
+<p>That's a Golden Omega.</p>

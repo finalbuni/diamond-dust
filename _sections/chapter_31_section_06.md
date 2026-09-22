@@ -1,0 +1,393 @@
+---
+layout: chapter
+volume: "Side Story II"
+chapter_number: 31
+chapter_id: "S2.1"
+title: "Sumbisori"
+hybrid_short: true
+section_number: 6
+section_count: 9
+permalink: /sections/chapter-31/6/
+excerpt_separator: "<!-- section-excerpt-end -->"
+---
+<p>His purpose in traveling to Paris was clear.</p>
+
+<p>To hover around Ihyeon and capture his image with his eyes.</p>
+
+<p>In the beginning, after starting to travel between Seoul and Paris, his focus was on figuring out Ihyeon's daily schedule.</p>
+
+<p>Just as when they lived together in Seoul, Ihyeon's day was extremely regular. His working hours, his times for going out, and the cafés or restaurants he frequented were almost fixed. Ihyeon was an easy target to stalk.</p>
+
+<p>After getting a rough grasp of his routine, he stopped following him step by step. It wasn't easy to tail someone by car in Paris, which was made up of narrow alleys, and he couldn't risk tailing him on foot either.</p>
+
+<p>If he just waited in advance at a set location, he could see Ihyeon almost without fail. It was as if they had made an appointment.</p>
+
+<p>That much was satisfying enough. And it had to be satisfying.</p>
+
+<p>The day after signing the lease for the apartment, Liu left the hotel and parked his car diagonally across from The Hands. He was waiting for Ihyeon to leave for his morning walk.</p>
+
+<p>The nondescript car with heavily tinted windows was suitable for hiding.</p>
+
+<p>Until now, he had rented a car every time he visited Paris, but after parting ways with the broker yesterday, he had signed a contract for a new car. Now that he had a fixed residence in Paris, it seemed appropriate to buy a car.</p>
+
+<p>Purchasing an apartment as a foreigner required complicated paperwork and administrative procedures, but those were matters the broker and his agent would handle. Having an apartment and a car would significantly reduce wasted time.</p>
+
+<p>That would buy him even a little more time to focus on Ihyeon. Liu was satisfied with his improved stalking environment.</p>
+
+<p>"……"</p>
+
+<p>Liu's brow twitched as he leaned over the steering wheel, watching the main entrance of The Hands.</p>
+
+<p>Without taking his eyes off his target, he slowly sat up.</p>
+
+<p>Ihyeon, with an eco-bag slung over his shoulder, was just stepping out of the building. In the narrow, shabby alley of the 19th arrondissement, it felt as if a real morning was finally beginning — at least, that's how it felt to Liu. His heart pounded quickly.</p>
+
+<p>"Seo Ihyeon, good morning."</p>
+
+<p>He murmured the greeting softly to Ihyeon, who couldn't hear him.</p>
+
+<p>Ihyeon would surely turn the corner and stop at his regular café first. After grabbing a quick meal — a sandwich, a salad, or perhaps just a piece of bread with coffee — he would then set out for his morning walk.</p>
+
+<p>His usual walking spots were around the canal or Buttes-Chaumont Park. Sometimes he went to Parc de la Villette, and occasionally, with a deeply thoughtful expression, he would walk the nearly two-hour round trip to Père Lachaise Cemetery. Based on his observations so far, he was certain.</p>
+
+<p>Liu's car was parked on the opposite side of the street from Ihyeon's usual café, in the direction he was heading. Nevertheless, the stalker's heart fluttered with the fear of being discovered.</p>
+
+<p>Only after Ihyeon had rounded the corner and disappeared from sight did Liu's sedan begin to move. Since he already knew the destination, there was no need to follow too closely and risk exposure.</p>
+
+<p>Ihyeon's regular café was situated along the canal. The first floor of the adjacent building housed a pizza shop. Liu slowly pulled his car over in front of the pizza shop.</p>
+
+<p>Ihyeon was sitting at an outdoor table of the café, dressed in jeans and wearing an autumn coat. Under the blue awning, he occupied the table furthest in the corner — his preferred spot whenever he chose to sit outside.</p>
+
+<p>"Isn't it a bit chilly to be sitting outside?"</p>
+
+<p>Liu immediately checked the temperature on the car's tablet screen. It was eight degrees Celsius.</p>
+
+<p>His gaze, filled with concern, settled on Ihyeon. He was taking out a sketchbook and pencils while waiting for his order to arrive — a light warm-up before starting his day.</p>
+
+<p>Although he didn't appear to be shivering from the cold, Liu couldn't shake a feeling of unease. His coat didn't look thick enough, either.</p>
+
+<p>Even in the dead of winter, Parisians could often be seen reading books on benches in the Luxembourg Gardens or the Tuileries Garden whenever the sun was out. But at this temperature, it was weather that would have tourists avoiding the outdoors entirely in favor of warm indoor spaces.</p>
+
+<p>Even though Ihyeon's neck, without even a scarf, looked cold, and even though he wanted to button up his coat for him, there was nothing the current version of himself could do. He had once been right beside him, even inside him….</p>
+
+<p>Liu forced a smile, hiding his bitterness as if speaking directly to Seo Ihyeon.</p>
+
+<p>"Our Seo Ihyeon has truly become a Parisian."</p>
+
+<p>Unaware that someone was watching him, Ihyeon began sketching objects, scenery, and people around him. Judging by the way his focused gaze kept tracking the busy movements of passersby, it seemed he was drawing a bicycle parked nearby.</p>
+
+<p>As he watched Ihyeon's intensely concentrated and composed face, the rigid worry on Liu's face slowly melted away. In its place, a gentle fondness welled up.</p>
+
+<p>Ihyeon exchanged a few words with the waiter who brought his food. They even laughed at something being said.</p>
+
+<p>Every time Ihyeon laughed, Liu found himself smiling without realizing it — much like an audience member immersed in a film, crying and laughing along with the protagonist's emotions.</p>
+
+<p>For Liu Weikun, Seo Ihyeon was like a beautifully constructed film — a masterpiece that never grew tiresome no matter how many times he watched it, always prompting the same admiration at the same scenes.</p>
+
+<p>As he chewed his food and sipped his coffee, Ihyeon would occasionally set down his pen and gaze into the distance. His sharp, observant eyes would capture the peaceful ripples on the canal, or perhaps rest on the modern apartment building across the way. Sometimes he would look up at the bare, nearly leafless tree standing in front of the café, and then pause, staring for a long moment toward where Liu's car was parked.</p>
+
+<p>There were also moments when it felt — though it was impossible — that his eyes had met Ihyeon's.</p>
+
+<p>In those instances, it felt as though his rapidly beating heart had simply stopped. He was immobilized, like a stag beetle pinned to a display board, its heart pierced and fixed in place.</p>
+
+<p><em>Wouldn't Ihyeon notice something right then and there?</em></p>
+
+<p><em>Wouldn't he stare intensely in this direction, then put down his coffee and walk closer?</em></p>
+
+<p><em>Or maybe he would circle the car, and finally knock, knock, knock on the driver's side window.</em></p>
+
+<p><em>Was I afraid that such a thing might happen? Or was I hoping it would?</em></p>
+
+<p>Fortunately or unfortunately, that never happened even once.</p>
+
+<p>After finishing his meal, Ihyeon began to gather his things. He took out his pencil case, put his pencils inside, and closed his notebook before putting it in his bag.</p>
+
+<p>"Are you leaving already?"</p>
+
+<p>Liu, his face clearly showing disappointment, gripped the steering wheel and tapped its surface lightly.</p>
+
+<p>"Just show me your face a little longer."</p>
+
+<p>Just as Ihyeon was about to get up after paying, a couple approached the outdoor seating area. With their arms around each other's waists and shoulders, they had brought a large-eared dog with them.</p>
+
+<p>While the two of them hesitated for a moment over which seat to take, the puppy showed interest in Ihyeon. This energetic creature, who still looked young, lunged toward Ihyeon's calves, begging for attention.</p>
+
+<p>Just as he was about to stand up, Ihyeon placed his eco-bag back on the chair's backrest and indulged the puppy's antics. He turned his body fully toward the dog, allowing his face to be seen more clearly than before. As his coat parted on both sides, the T-shirt he wore underneath was slightly exposed. Inevitably, it was striped.</p>
+
+<p>A smile, both welcoming and nostalgic, escaped Liu's lips.</p>
+
+<p>Ihyeon's striped T-shirt seemed like proof that Seo Ihyeon, who had once declared his love, and the current Seo Ihyeon were still the same person — that he hadn't changed.</p>
+
+<p>Noticing the puppy's movements, the couple addressed Ihyeon. As he stroked the dog with both hands, Ihyeon looked up and continued the conversation with them.</p>
+
+<p>"You must be quite popular with animals. Who wouldn't like you?"</p>
+
+<p>Liu rested his chin atop his hands, which were placed on the steering wheel, and gazed endlessly at Ihyeon with a pleased smile. He was grateful for the dog, as it allowed him to see him for even a little longer.</p>
+
+<p>The way Ihyeon stroked the dog's face and neck looked quite skillful. Not the first time he had done this.</p>
+
+<p>Every time he came to the café, he was so popular with the neighborhood dogs that he might have looked up how to pet them just right. Ihyeon was certainly the type to do that.</p>
+
+<p>As they chatted with Ihyeon, the couple naturally took seats at the table next to him. Even from a distance, their atmosphere looked wonderful. How could anyone not be charmed by an East Asian young man with a clear, pure ink-wash painting kind of beauty, who also possessed a gentle smile and voice?</p>
+
+<p>"Don't be so overly kind."</p>
+
+<p>Liu rested his chin on the steering wheel and whispered quietly.</p>
+
+<p>"What if both of them fall for you?"</p>
+
+<p>One-third of it was genuine, one-third was teasing. And the remaining third was pride in having a lover adored by everyone.</p>
+
+<p>Lover….</p>
+
+<p>The smile gradually faded from Liu's contented face. A deeper shade of gray, rather than blue, colored his eyes.</p>
+
+<p>He looked at Ihyeon gently stroking the dog's small face and asked quietly.</p>
+
+<p>"Are we still lovers, Ihyeon-ah?"</p>
+
+<p>But of course, he couldn't get an answer from him.</p>
+
+<p>Ihyeon took out his cell phone. Judging by his gesture, it seemed he was asking the couple if he could take a picture of the dog. They readily agreed.</p>
+
+<p>Ihyeon seemed to take quite a few pictures of the little guy's playful face resting its front paws on his knee. Laughter flowed constantly among the three of them, as if they were old friends.</p>
+
+<p>Seeing Ihyeon laughing here in this distant place, far from him, stirred conflicting emotions in Liu.</p>
+
+<p>Yet he couldn't possibly wish for Ihyeon to spend his days in tears, either….</p>
+
+<p>Finally, Ihyeon stood up and slung his bag over his shoulder. The dog, hanging its front paws on Ihyeon's calf, seemed to be holding him back, begging him not to go. After stroking the dog's head a few more times, Ihyeon completely left the café area.</p>
+
+<p>The dog watched Ihyeon move away, then turned back to its owners. Then it looked back at Ihyeon again. Its posture suggested it couldn't understand why Ihyeon was leaving already without playing with it more.</p>
+
+<p>Because the dog was acting that way, Ihyeon stopped walking and looked back several times. He let out an affectionate laugh and waved to the dog and the couple.</p>
+
+<p>"You're the cuter one."</p>
+
+<p>Watching Ihyeon wave, Liu opened the hand that had been resting on his chin and gave a small wave back.</p>
+
+<p>Stalking wasn't something just anyone could do. It was about talking to someone who didn't answer, smiling at a laugh not meant for you, and waving at a person who was looking at someone else.</p>
+
+<p>Liu suddenly realized something.</p>
+
+<p>This was similar to one-sided love.</p>
+
+<p><em>One-sided love? He hadn't even experienced that during his most sentimental teenage years.</em></p>
+
+<p>Come to think of it, it was during those very teenage years that Liu had received the "sentence" of being a Ghost and left for Boston, USA, with his mother almost as if fleeing. Even a secret, agonizing crush on someone was a luxury for Liu at that time.</p>
+
+<p>Over there, he had clung only to the training required to become Golden. Anything to avoid unknowingly turning some random Beta into an Omega. To avoid committing such a terrible act.</p>
+
+<p>Liu let out a bitter, self-mocking laugh, his shoulders shaking slightly.</p>
+
+<p>In vain, though, because he had caused the very person most precious to him to undergo a Changing.</p>
+
+<p>If he became a Golden Alpha and could control his pheromones, he could also prevent a Changing. After all, a Changing was ultimately a matter of pheromones.</p>
+
+<p>If a top-tier Golden Omega were determined enough, they could disrupt and interfere with a Golden Alpha's control. However, a Changing was the process of transforming a Beta into an Omega. For Liu Weikun, controlling his own pheromones and the Changing process against a Beta who possessed no pheromones was not difficult at all.</p>
+
+<p>That was true for everyone, except for one very special Beta.</p>
+
+<p>Diamond Dust.</p>
+
+<p>Liu fixed his gaze on the retreating back of Diamond Dust.</p>
+
+<p>Judging by the direction he was walking, his destination today seemed to be Parc de la Villette, further north, rather than Buttes-Chaumont Park.</p>
+
+<p>Only when Ihyeon's calm figure walking along the canal was about fifty meters away did Liu finally get out of the driver's seat and head toward the café. He went to the very table where Ihyeon had been sitting just moments before and took a seat.</p>
+
+<p>It was a lucky day. Often, someone else would snatch the spot immediately after Ihyeon got up.</p>
+
+<p>The dog that had been so friendly to Ihyeon sat obediently by its owners and looked up at Liu. It tilted its head, stared intently, and let out only a small bark; the creature made no move to approach. It even whined and moved to the opposite side of the table.</p>
+
+<p>As the weather had turned chilly, the warmth of the person who had been sitting there still lingered on the chair. The warmth Ihyeon had left behind.</p>
+
+<p>He didn't try to calm the emotions rising even hotter than that residual warmth. He simply allowed the sudden surge that shook him to be, letting it stay as it was. Everything that came from Ihyeon held value worth savoring.</p>
+
+<p>He ordered a warm latte and a croissant. The exact same items Ihyeon had eaten at this table just moments before. Since they were ordinary choices, the waiter taking his order didn't find anything strange.</p>
+
+<p><em>Hiding outside that person's regular café, watching him, then sitting in the seat he had occupied, and ordering the exact same things he had ordered…. A full-fledged stalker.</em></p>
+
+<p>He mocked himself with that thought and drank his coffee. The very same taste and aroma of coffee that must have warmed Ihyeon's body.</p>
+
+<p>In truth, he was going out of his mind with worry for Ihyeon's health, a worry that was almost as intense as his desire to miss him and be by his side.</p>
+
+<p>Ihyeon was about fifty percent along the path to becoming an Omega. If no further Changing occurred due to the Ghost, the transformation would likely stop there. While what had already happened internally couldn't be reversed, on the outside, he could continue living the life of an ordinary Beta just as he had before.</p>
+
+<p>He knew, intellectually, that without the Ghost nearby, Diamond Dust was just an ordinary Beta. But he worried constantly that Ihyeon's still-immature sex hormones might cause an unexpected problem. That was what made him anxious.</p>
+
+<p>Although he had asked Yuni to monitor Ihyeon's health and report any abnormalities — keeping it secret from Ihyeon — he couldn't feel completely reassured. This was especially true because he knew Ihyeon wouldn't let people around him notice if he wasn't feeling well.</p>
+
+<p>"Even if it meant physically separating you from him, you should have removed him from that situation entirely."</p>
+
+<p>When he confessed that he was the Ghost and that he was Changing Ihyeon, Choi Inwu had said that with contempt in his eyes. He said that if Liu couldn't resist the power of pheromones near Ihyeon, he should have maintained a distance where they couldn't work.</p>
+
+<p><em>The "physical separation" Choi Inwu mentioned must have meant a situation exactly like this one. Seo Ihyeon and I living like strangers, separating myself from Seo Ihyeon's life. That was how I was supposed to protect Seo Ihyeon from being Changed.</em></p>
+
+<p>Liu, who had been silently gazing in the direction Ihyeon had disappeared, lowered his eyes to the tabletop. He rummaged through the pockets of his trench coat, pulled out a cigarette, and lit it.</p>
+
+<p>The pheromonal attraction that exists between a Ghost and a Diamond Dust.</p>
+
+<p>It possessed an almost destructive power that couldn't compare to the pheromones between an Alpha and an Omega. A strength so immense that Choi Inwu, stuck awkwardly between Regular and Golden, couldn't even imagine it.</p>
+
+<p>No Golden Omega had ever managed to breach Liu's defenses.</p>
+
+<p>Liu had lived his life without using his own pheromones, nor being swayed by anyone else's — so much so that he was often teased about trying to become a Beta. That was Liu's pride.</p>
+
+<p>Yet Seo Ihyeon's pheromones, those of a Diamond Dust, so easily broke down Liu's defenses. Broke them down? No — dissolved them without a trace.</p>
+
+<p>He even tried taking more than the prescribed amount of suppressants, something he hadn't needed since becoming a Golden, but it was useless. Ihyeon's pheromones easily tore through such things like scrap paper, engulfing and sweeping over Liu. Meanwhile, Ihyeon himself didn't even know he was emitting pheromones.</p>
+
+<p>No, the pheromones weren't the issue. That wasn't the heart of the problem.</p>
+
+<p>As Choi Inwu had said, if he had cut ties with Ihyeon and they had gone their separate ways, Ihyeon would have been safe.</p>
+
+<p>But he simply couldn't do it.</p>
+
+<p>He lacked the courage to confess what a Ghost was and ask Ihyeon to accept the changes gradually turning him into an Omega every time they were intimate — just as he lacked the courage to push Ihyeon away and send him far off.</p>
+
+<p>Even if he could return to that moment, it would be the same.</p>
+
+<p>It was wrong, and he regretted it with every fiber of his being, because of it he had lost Ihyeon.</p>
+
+<p>However, he knew that even if he went back, he would repeat the same mistake. Even while tormented by fear, he would have no choice but to commit the same sin again — like a machine rendered useless and broken before some inexplicable force.</p>
+
+<p>For now, he was relieved that Ihyeon seemed to be doing well here without any trouble. Since he wasn't a fully realized Omega, he had no issues with daily life even without taking suppressants. Now that he was free from the Ghost, Ihyeon was simply a Beta.</p>
+
+<p>A Beta….</p>
+
+<p>Liu deeply inhaled the filter of his cigarette.</p>
+
+<p>He remembered Ihyeon's pheromones. That richness and power, as if secreted by the highest-ranking Golden Omega, forcing a state of willing submission. They would call out and pull close his own pheromones, hidden deep beyond the defensive walls, and then seductively wrap around them and swallow them whole….</p>
+
+<p>He remembered the ecstasy when the two pheromones achieved complete union, maximizing their communion. How could he possibly forget?</p>
+
+<p>This was on an entirely different level from the so-called pheromone sex that certain groups spouted, treating pheromones like some kind of drug or hallucinogen.</p>
+
+<p>It was a process of completely lowering one's defenses through trust in the other person, allowing one's own pheromones to react sensitively to the color and rhythm created by the partner's pheromones, and gradually becoming entangled with them.</p>
+
+<p>In that state of total surrender to the experience — where the intermingled pheromones constantly shifted in color, scent, and intensity — reason and instinct achieved a perfect, unified harmony.</p>
+
+<p>This was not the animalistic pheromonal display that Liu had despised his entire life.</p>
+
+<p>With Ihyeon, sex was a delicate second language, spoken through pheromones.</p>
+
+<p>He could speak to Ihyeon through pheromones: <em>I love you, so much it frightens me.</em></p>
+
+<p>Ihyeon's pheromones were surely speaking to Liu as well: <em>I love you. I feel your love.</em></p>
+
+<p>Even if Ihyeon himself wasn't consciously aware of the movements of his pheromones, his instincts were revealing them to Liu without any concealment.</p>
+
+<p>And yet, that Ihyeon — my one and only Diamond Dust — was living as a Beta, here in this distant place, nine thousand kilometers away from me.</p>
+
+<p>Liu's hand, which had been flicking ash, froze above the ashtray for a moment.</p>
+
+<p>It was only after a long pause that his hand began to move again.</p>
+
+<p><em>Vrrrr.</em></p>
+
+<p>As Liu slowly brought the cigarette toward his lips, he paused. His cell phone was ringing from his inner pocket. It was Manager Han.</p>
+
+<p>After quickly calculating the time back in Korea, he answered the call.</p>
+
+<p>"Yeah? What's up?"</p>
+
+<p>[You call on a weekend and immediately bring that up?]</p>
+
+<p>"Sunday's almost over, I thought something urgent might have come up…"</p>
+
+<p>[We're at Shushu's studio with Choi Inwu. I just thought of you and called.]</p>
+
+<p>"Oh… is that so?"</p>
+
+<p>[We're about to head out for dinner. Want to come?]</p>
+
+<p>When he was in Paris, he often received calls from Manager Han or others. He frequently didn't answer because he didn't want to lie every time, but he couldn't always avoid it.</p>
+
+<p>"Thanks for the invite, but… I'm good."</p>
+
+<p>[Why? Where are you right now?]</p>
+
+<p>At Manager Han's question, the gesture of Liu flicking ash became agitated. If he said he was at home, they might suggest coming over.</p>
+
+<p>"I'm out. Just stepped outside for a bit."</p>
+
+<p>It wasn't a lie.</p>
+
+<p>[Out where? Out of town?]</p>
+
+<p>"Yeah, out of town. I probably won't be back until late tonight."</p>
+
+<p>[Really? Well, there's nothing we can do then.]</p>
+
+<p>Choi Inwu's voice came through in the background, threatening that if Liu kept pushing them away like this, he might stop getting invited. Thanks to that, Liu managed a somewhat convincing laugh.</p>
+
+<p>[But where are you going every weekend lately?]</p>
+
+<p>"You told me not to just stay at home. I'm going out to get some fresh air."</p>
+
+<p>[Well… that's probably better. Where out of town? Your voice sounds really far away.]</p>
+
+<p>"Maybe my phone connection isn't good? Have a good dinner, and I'll see you at Phantom tomorrow."</p>
+
+<p>Pretending to have something urgent to attend to, he hurried to end the call.</p>
+
+<p><em>Manager Han seemed to be probing a bit persistently today, but it seemed like he had managed to dodge it well. His stalking and excuse-making skills were improving day by day.</em></p>
+
+<p>There wasn't any particular reason for keeping his Paris trips a secret. He simply wanted to prevent the people around him from letting their imaginations run wild based on this one fact alone.</p>
+
+<p>Liu was well aware that they were hoping for his reunion with Ihyeon. He was grateful for that.</p>
+
+<p>But there were many sensitive and complicated aspects that were difficult to explain to them fully. The subtle emotional exchanges that only the parties involved — Liu and Ihyeon — could understand, the kind that happen only between lovers.</p>
+
+<p>Any speculation or premature celebration was unwelcome right now. This was the penance Ihyeon had decreed, and he wanted to bear the full weight of it entirely alone.</p>
+
+<p>Liu put down his coffee, ground the shortened cigarette butt out, and picked up the pack again. As he brought a fresh cigarette to his lips, his eyes suddenly narrowed.</p>
+
+<p>"A guy who can't produce results can't just keep squatting here. I'm conscious of it, and it's stressful… I'm looking for other options."</p>
+
+<p>English, heavily mixed with a German accent. A familiar voice. Liu slowly lifted his head.</p>
+
+<p>A man with shoulder-length hair pulled back tightly, frowning, walking quickly past the café.</p>
+
+<p>It was Ben, a painter affiliated with The Hands.</p>
+
+<p>He meticulously checked The Hands' website page introducing its affiliated artists every time it was updated. Since they were Ihyeon's colleagues, he wanted to know what kind of people they were. He had even been monitoring The Hands' main entrance every weekend, so he knew the faces of all the affiliated artists as well as the office staff.</p>
+
+<p>Whether things weren't going his way or not, the man's expression and gait looked rushed and anxious.</p>
+
+<p>In Liu's memory, Ben was always frivolous when he was with his colleagues — the type to hold back from everything, act nonchalant, avoid serious conversations, and be quite playful. Yet even such a man seemed to have worries. He just didn't share them with others.</p>
+
+<p>As far as Liu knew, Ben hadn't been able to release any new work for several months now.</p>
+
+<p>Running a gallery, he had seen many artists fall into slumps. While some overcame them and produced even better work, that wasn't always the case. If it wasn't a temporary slump but rather a complete depletion of the inspiration needed to create, recovery was regrettably difficult.</p>
+
+<p>The world Ihyeon had stepped into was this cold and brutal. It was a battlefield where monsters possessing both talent and diligence fiercely competed. If an artist couldn't continuously present noteworthy work, they were immediately ignored.</p>
+
+<p>The art world today changed just as rapidly as the fashion industry. New stars emerged in droves, and just as many were pushed aside. Many artists, despite retaining their talent, left on their own because their mental fortitude couldn't keep up.</p>
+
+<p>Liu let out a heavy sigh as he watched Ben's retreating figure cross the bridge over the canal and disappear into the distance.</p>
+
+<p>It was bitter, but unavoidable. He supposed The Hands was also trying hard to help their affiliated artists overcome slumps. He stubbed out the cigarette he had briefly smoked in the ashtray. The taste in his mouth was bitter.</p>
+
+<p>When he raised his cup to finish the remaining coffee, something flickered into his vision. His gaze inadvertently landed on a white object lying on the floor beneath the chair. He first thought it was a pebble, but it was an eraser.</p>
+
+<p>"……"</p>
+
+<p>Liu picked it up.</p>
+
+<p>It was a product from Faber-Castell, the brand Ihyeon favored.</p>
+
+<p>The paper wrapping around the edges had been peeled away, showing signs of use where all four sides were evenly and smoothly worn down. It was exactly like Ihyeon's habit. It must have dropped out while he was putting things into or taking them out of his pencil case.</p>
+
+<p>As if he had discovered a jewel on a deserted night street, Liu clutched the eraser tightly, worried someone might see him. The hand gripping it moved toward his left chest, toward his heart, without him even realizing it.</p>
+
+<p>His heart pounded quickly from this unexpected good fortune.</p>
+
+<p>It was a lucky day. He had gotten to see a new side of Ihyeon playing with the dog, and thanks to that, he had seen his smiling face many times. What's more, he had obtained a fragment that had come from Ihyeon himself. He was grateful to Ihyeon for making the mistake of dropping the eraser.</p>
+
+<p>He shoved the hand clutching the eraser into the pocket of his trench coat and finished his coffee.</p>
+
+<p>Even if he couldn't be with him, he wanted to stay a little closer to Ihyeon's side.</p>
+
+<p>He didn't want to go back to Seoul.</p>

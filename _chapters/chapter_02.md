@@ -5,8 +5,10 @@ chapter_number: 2
 chapter_id: "V1.2"
 title: "Golden"
 korean_title: "골든"
+permalink: /chapters/chapter-02/
+excerpt_separator: "<!-- section-excerpt-end -->"
 ---
-
+<div id="section-1" class="hybrid-section" data-section="1">
 <!-- Chapter 2 — Golden -->
 
 <p>The escape had been more meticulously planned than I expected. Everything was arranged through people none of us knew directly.</p>
@@ -152,9 +154,9 @@ korean_title: "골든"
 <p>Even though I'd told them I wasn't sure what to do when they asked, I was well aware that this was not the time to be picky. If the work paid, I had to do something first.</p>
 
 <p>Even when I lay down to sleep, even when I closed my eyes, the absence of the sound of waves made me truly feel how far we — how far <em>I</em> — had come.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-2" class="hybrid-section" data-section="2">
 <p>I drew alone every day. Around fourth grade, I wanted to try attending an art academy. My parents enrolled me right away. But once I actually went, it wasn't very fun.</p>
 
 <p>What I wanted was a way to express the things I wanted to draw the way I imagined them. Most of the time, we just smeared paint on our palms and stamped it onto sketchbooks, or idly swished our brushes around in water containers.</p>
@@ -270,9 +272,9 @@ korean_title: "골든"
 <p>Still holding the container, I nodded awkwardly. The Teacher strode forward and took hold of my wet hand.</p>
 
 <p>"Ihyeon-ah, save me. No — save my kids."</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-3" class="hybrid-section" data-section="3">
 <p>Gallery Phantom.</p>
 
 <p>The gallery, with its somewhat grandiose name, was located midway up the slope leading toward Bugaksan, tucked behind the Hanok Village. The lot wasn't particularly spacious, but compared to the charming, smaller buildings surrounding it, it was a fairly substantial two-story structure.</p>
@@ -600,9 +602,9 @@ korean_title: "골든"
 <p>The moment I got into the taxi heading home and closed the door, reality rushed in as if that had been its cue. The song playing on the radio, the driver humming along from the front seat, the scenery outside the window — all of it demanded energy just to be accepted as real.</p>
 
 <p>If I turned the taxi around right now and went back, I felt certain that the place called "Gallery Phantom" would simply have vanished.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-4" class="hybrid-section" data-section="4">
 <p>The VIP opening was scheduled to begin at 3:00 PM.</p>
 
 <p>Yuni explained the later-than-expected opening time:</p>
@@ -1148,9 +1150,9 @@ korean_title: "골든"
 <p>With a click of his tongue, the Director said that, then turned his back and returned to his original spot.</p>
 
 <p>As the passenger went on about knowing the best mandu-guk place in Seoul and wanting to make time for it sometime soon, I found myself wondering: <em>had I ever mentioned my age to him?</em></p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-5" class="hybrid-section" data-section="5">
 <p>"Did you really read the Editor-in-Chief's book — with underlining and everything?"</p>
 
 <p>Juhan and I set five or six leftover bottles of champagne from the party onto the large conference table in the office. The Director opened one and poured a glass, asking the question with a teasing smile.</p>
@@ -1270,3 +1272,4 @@ korean_title: "골든"
 <p>And yet I found myself curious. What would it feel like to be specifically disliked by him?</p>
 
 <p>Among the people who had filled the exhibition hall just a while ago, there were probably quite a few who would have preferred his hostility to his indifference — if it meant becoming something "special" to him.</p>
+</div>

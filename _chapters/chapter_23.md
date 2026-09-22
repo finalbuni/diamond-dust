@@ -5,8 +5,10 @@ chapter_number: 23
 chapter_id: "V5.3"
 title: "Close Out"
 korean_title: "Close Out"
+permalink: /chapters/chapter-23/
+excerpt_separator: "<!-- section-excerpt-end -->"
 ---
-
+<div id="section-1" class="hybrid-section" data-section="1">
 <!-- Chapter 23 — Close Out -->
 
 <p>The sedan left the airport expressway, crossed the Banghwa Bridge, and was now just entering Gangbyeonbuk-ro.</p>
@@ -126,9 +128,9 @@ korean_title: "Close Out"
 <p>"Ah... that one would just egg Yuni and Juhan on. Let's meet him separately later. For now, let's take care of the Phantom family first."</p>
 
 <p>Facing Ihyeon, who nodded, Liu smiled with the unlit cigarette still between his lips. He felt the effort of feigning ease in front of him becoming increasingly burdensome, and he clenched the cigarette pack tightly in his hand. Behind them, the western end of the city — similar to before he left, yet somehow distinctly changed — watched the autumn sun, suddenly shorter, begin to set.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-2" class="hybrid-section" data-section="2">
 <p>Seated at the table farthest from the entrance, by the window, Liu looked out at the drizzling autumn rain. In the roughly five days he had been gone, Seoul's temperature had dropped considerably. The trees in the hotel garden below were already in full autumn color.</p>
 
 <p>Seasonal changes always felt abrupt. Especially the transition from summer to autumn. Just the day before, the high temperature could still exceed thirty degrees, making September feel like a lie — only to plunge overnight to the point where you'd need a trench coat. And before you could properly enjoy the foliage or the high, clear skies, winter would rush in.</p>
@@ -294,9 +296,9 @@ korean_title: "Close Out"
 <p>A man worn down and exhausted, driven into a corner — yet willing to throw away everything else just to hold on to the one thing in his hand.</p>
 
 <p>No matter where he looked or what he faced, he could not escape it. The greed of that specter — the Ghost that lived within him, the one that looked exactly like himself.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-3" class="hybrid-section" data-section="3">
 <p>Juhan, who had been listening in silence to the conversation flowing across the dinner table for some time, took a long pull from his beer, set the bottle down, and grimaced.</p>
 
 <p>"What are you talking about?"</p>
@@ -714,9 +716,9 @@ korean_title: "Close Out"
 <p>"You said it yourself — that it would be impossible to show restraint next to Ihyeon. I suppose that means going back to before you met him."</p>
 
 <p>Liu pushed himself off the counter, stepped back into deeper shadow — away from the faint light seeping from the dining room — and shook his head slowly.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-4" class="hybrid-section" data-section="4">
 {% capture excerpt %}
 <p>A few years ago, a young artist drew intense attention from the domestic art scene. Still in his mid-twenties — barely entering his late twenties by Korean age reckoning — he made a spectacular debut by signing an exclusive contract with a well-established gallery in New York, the forefront of contemporary art.</p>
 
@@ -738,9 +740,9 @@ korean_title: "Close Out"
 {% endcapture %}
 
 {% include excerpt.html content=excerpt %}
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-5" class="hybrid-section" data-section="5">
 <p>It was one of the periodicals he subscribed to regularly — published just yesterday and delivered to the house that morning. It was also one of the magazines Liu and Ihyeon enjoyed most, because it maintained a flexible perspective rather than asserting its authority through rigid orthodoxy. Having begun reading carefully from the "Editor's Preface" as he always did, Ihyeon set the open magazine on his lap and took a slow, deep breath.</p>
 
 <p>Although Hong Seon-yu's name — or the name SEONEW — was never mentioned anywhere in the text, the further he read, the more certain he became that the piece was aimed directly at him.</p>
@@ -1024,9 +1026,9 @@ korean_title: "Close Out"
 <p>If previous knotting had been an experience of intense, burning heat that dissolved reason and set his body on fire, this time the pulse of the knotting struck his inner walls and resonated through his entire body with such clarity that it felt as though he had entered Liu's heart itself.</p>
 
 <p>In a terrifying sense of unity — as if his own blood were circulating through the other man's heart — Ihyeon reached climax several times without even releasing. They held each other and mingled their tongues and shared their scents until the lingering pleasure completely faded. It felt as if there was nothing left to share between them.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-6" class="hybrid-section" data-section="6">
 <p>Standing in front of the closet, Ihyeon adjusted his grip on his phone. He was still in the middle of persuading Liu, who wanted to send a driver for him.</p>
 
 <p>"Hyung said he'd come pick me up himself, so you really don't have to worry."</p>
@@ -1294,3 +1296,4 @@ korean_title: "Close Out"
 <p>"......"</p>
 
 <p>"You should go to the hospital."</p>
+</div>

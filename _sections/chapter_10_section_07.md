@@ -1,0 +1,382 @@
+---
+layout: chapter
+volume: "Volume 2"
+chapter_number: 10
+chapter_id: "V2.4"
+title: "Alienation 2"
+korean_title: "소외 2"
+hybrid_short: true
+section_number: 7
+section_count: 7
+permalink: /sections/chapter-10/7/
+excerpt_separator: "<!-- section-excerpt-end -->"
+---
+<p>The intersection where traffic descending from the park famous for its monkeys met vehicles coming up from the main thoroughfare in Central via Ice House Street, and cars that had passed through Soho along Hollywood Road, was overflowing with people.</p>
+
+<p>After leaving the restaurant, we had drunk tequila at a bar for about an hour, and now we were wandering through the crowds on Soho's streets, searching for a suitable pub for the second round.</p>
+
+<p>While I drank three or four shots of tequila and the other three drank roughly double that, the crowd had swelled so much that not a single four-person table was available anywhere we looked.</p>
+
+<p>I didn't feel bored at all, distracted as I was by the exotic scenery and the sheer variety of people.</p>
+
+<p>Signs hanging over the streets in different languages and styles than those in Seoul, narrow and somewhat shabby buildings each seemingly carrying their own history and stories, luxury cars lined up on roads that felt impossibly cramped due to early modernization efforts — all of it contrasting with the city's vibrancy and further emphasized by the angular, retro red taxis. People drinking beer and chatting with their companions right on the street, others swaying to the rhythm in the middle of the road to music spilling out from pubs and clubs…</p>
+
+<p>Everywhere my gaze landed was filled with unfamiliarity and life.</p>
+
+<p>Perhaps it was because I'd had three or four shots of tequila in a place that felt less like a bar and more like a club — my heart was beating at a different rhythm than usual. My chest felt light, and I kept breaking into involuntary smiles, grinning whenever I caught hyung's or nuna's eye.</p>
+
+<p>It wasn't just us; everyone passing by felt the same way. There wasn't a single serious or gloomy face in sight. Surely everyone carried their own worries and burdens about daily life underneath, but in this time and place, it seemed as though everyone had agreed to temporarily numb their awareness of those problems.</p>
+
+<p>Truthfully, a flashy street packed with people and noise like this didn't suit me. If I had to come and go to a place like this every day, I wouldn't be confident at all. But here, I was an observer, not a resident. Someone who would taste a foreign culture briefly before returning to their original place.</p>
+
+<p>This identity as an outsider — knowing that my real life existed separately somewhere else — actually provided the emotional foundation that allowed me to blend into this space without feeling uncomfortable. Perhaps that was what people called the charm of travel, or maybe the thrill of stepping outside the norm.</p>
+
+<p>Normally, after leaving Teacher Suki Kim's studio, I would have tried to process the shock by quietly secluding myself in my hotel room to replay the conversation and my feelings. But right now, I was suspending that process and following an impulse.</p>
+
+<p>I wanted to be wherever he was.</p>
+
+<p>I wanted to talk to him about the feeling of <em>alienation</em>, but even if I couldn't, I simply wanted to be with him. And I moved simply because I wanted to. Whatever others might think, for me, that very process was already a deviation from my usual path.</p>
+
+<p>Wherever that led, I felt it would be better than the version of me who was afraid of making choices and moving.</p>
+
+<p>It had been that way from the start.</p>
+
+<p>When I was with him, my composure would scatter, my emotions would twist and surge, and sharp edges would suddenly emerge. Now… I wanted to expose myself to that kind of stimulation even more. I wanted change now, and he was someone who drew unexpected sides out of me.</p>
+
+<p>As we passed the entrance to a pub next to a hamburger joint for the third time, we managed to time it perfectly with a group that was just getting up, and we finally secured a table.</p>
+
+<p>We took the outermost seat facing the street, a spot where the entire folding door was wide open and we could fully take in the atmosphere outside. We were lucky.</p>
+
+<p>"What is it, Seo Ihyeon? Are you actually drunk?"</p>
+
+<p>Nuna bent backward, laughing at me as I fumbled and couldn't hop onto the high stool in one go. Watching her, I burst out laughing too. We were all a little strange right now. Well… except for one person.</p>
+
+<p>"Be careful. The stools are high — if you fall, you could get seriously hurt. I've seen plenty of people break their noses drinking in places like this."</p>
+
+<p>He, already settled in, firmly gripped my left arm as if to steady me. Leaning on his arm, I was able to finally perch onto the stool.</p>
+
+<p>He had drunk far more than I had, yet seemed perfectly fine. Although he was matching nuna and hyung's energy appropriately, I couldn't sense any intoxication in his face or voice. I had wanted to see him a little drunk, but given that he and I had started drinking together, it seemed impossible to see him tipsy before me.</p>
+
+<p>Without even sitting down, nuna and hyung were already back to dancing next to the table, beer bottles in hand, blending in with the people on the floor. Foreigners nearby burst out laughing at Juhan hyung's comical gestures mixed in with his dancing, aiming their phone cameras at him. His sociability was remarkable, just as at the bar earlier.</p>
+
+<p>Leaving the two of them — unlikely to sit anytime soon — to their own devices, he ordered drinks and recommended a Brooklyn beer, saying it would suit me well.</p>
+
+<p>"It seems like there's nothing the Director doesn't know."</p>
+
+<p>He suddenly turned to look at me, raising his eyebrows with an expression asking what I meant by that.</p>
+
+<p>At the tall, narrow round table, he and I were sitting side by side across from the seats where nuna and hyung had tossed their bags. In truth, there was almost no space between him and me. It was difficult to shift my posture even slightly without our knees or upper thighs brushing against each other.</p>
+
+<p>I let out a soft laugh, thinking the comment sounded quite random even to me.</p>
+
+<p>"No, I don't."</p>
+
+<p>I shook my head and rested my elbows on the table.</p>
+
+<p><em>"It seems like there's nothing you don't know."</em> That sounded like something a five or six-year-old would say while looking up at a middle schooler. I had no desire for him to think of me as a kid — so why had I said it?</p>
+
+<p>The beer, served in a transparent plastic cup, arrived quickly, and Yuni nuna and Juhan hyung, spotting it, returned to the table. After another toast — I had long since lost count — we drank. The beer he had chosen was easy and smooth to drink, with a slight sweetness following its bitterness.</p>
+
+<p>Perhaps because they had been dancing, nuna and hyung emptied their glasses almost instantly. Already somewhat floaty from the high proof of the tequila, I still kept bringing the beer glass to my lips, driven by an impulse to get even more intoxicated.</p>
+
+<p>"You guys are the gallery staff from Seoul, right?"</p>
+
+<p>A group passing in front of our table stopped, their faces lighting up with recognition, and called out to us. They seemed to be staff from another gallery attending the fair.</p>
+
+<p>Yuni nuna and Juhan hyung, who had been sitting with their backs to the street, both turned around and exchanged loud high-fives with the group, as if running into old friends.</p>
+
+<p>"We remember you because your staff's style is so distinctive. You look amazing even on your day off!"</p>
+
+<p>"Ah… thanks for the compliment, but aren't you recognizing us because of our boss's looks, not ours?"</p>
+
+<p>Juhan hyung pointed at him and asked playfully.</p>
+
+<p>"I can't exactly say no to that."</p>
+
+<p>Laughter erupted from both sides.</p>
+
+<p>"Ah, what was it again… Gallery… Ghost?"</p>
+
+<p>The most cheerful-looking man among them scratched his beard with his index finger.</p>
+
+<p>"It's Phantom. Gallery Phantom."</p>
+
+<p>"Oh, Phantom! My apologies. I remembered it had a similar meaning."</p>
+
+<p>"That's pretty close."</p>
+
+<p>Yuni nuna patted the bearded man on the back as if to encourage him.</p>
+
+<p>They mentioned with quiet pride that they were attending the fair for the first time with about twenty pieces and had already, luckily, sold out. The three friends, who had each majored in different art genres and were jointly running a small gallery in Amsterdam, seemed to hit it off particularly well with Yuni nuna.</p>
+
+<p>At someone's suggestion to take a commemorative photo, the group took a selfie together on one of their phones, followed by another taken with his camera. He stood up, moved out into the street himself, and took a shot capturing the three of us and their group of three.</p>
+
+<p>While nuna and hyung exchanged SNS handles with them after the photo session, he leaned against the railing between the sidewalk and the road, smoking and looking this way. Letting their lively conversation drift past me, I kept sneaking glances at him through the gaps between their arms and shoulders.</p>
+
+<p>"Excuse me."</p>
+
+<p>I flinched and leaned back slightly as a face suddenly intruded into my line of sight. The cheerful bearded man pulled one of his colleagues over and put an arm around his neck. He was a cute-looking guy with distinctive freckles. Around my age, perhaps?</p>
+
+<p>"Actually, this guy fell for you at first sight when he saw you at the event. He spotted you just now as you passed and recognized you! Could you share your SNS account if you have one?"</p>
+
+<p>The freckled man seemed a little shy, but he didn't try to stop his colleague or deny what had been said.</p>
+
+<p>My expression stiffened slightly as I searched for the right words in this sudden situation.</p>
+
+<p>In the world I had belonged to until now — where Betas were the majority — most people were uncomfortable not only with same-sex relationships between Betas but also with the very existence of Alphas and Omegas. This was an unfamiliar scenario for me.</p>
+
+<p>Whether it was a characteristic of Hong Kong itself, or a common trait of societies with a high ratio of Alphas and Omegas, both the man at the VIP preview and this man now were expressing interest in me — a man — with a completely casual attitude, as if it were nothing special. It was the awkward reaction that would have stood out here, not the expression of interest.</p>
+
+<p>"Ah… I'm sorry. I don't use social media…"</p>
+
+<p>It wasn't an excuse; it was the truth.</p>
+
+<p>"Well, that's okay. We kind of figured."</p>
+
+<p>Instead of the freckled man, the bearded man shrugged and easily stepped back.</p>
+
+<p>As they left, they attempted another loud high-five, playfully shoving the freckled man forward to prompt a high-five between him and me. Perhaps the freckled man was only acting with exaggerated playfulness fueled by alcohol, but the delight on his face — as if he had just shaken hands with a favorite celebrity — was genuinely memorable.</p>
+
+<p>That must have been because no one, regardless of gender, had ever expressed their liking for me so directly and openly before. Inwu hyung had been somewhat like that, but he was always playful. Probably more than half of it was just joking, in the end.</p>
+
+<p>After they left, nuna and hyung also got off their stools to light up another cigarette. While smoking was generally prohibited indoors, in Hong Kong outdoor smoking seemed to face almost no restriction anywhere. He had just finished one cigarette, but lit a new one along with nuna and hyung. Then, he took a few steps back, raising his camera to capture them.</p>
+
+<p>It was exactly the scene I had seen in the Old Future post.</p>
+
+<p>The setting was different, and hyung and nuna were dressed differently, but the situation matched the photograph credited with "Photo by Kun."</p>
+
+<p>The two of them, naturally blending into the streets of Soho, comfortably enjoying the moment in their own way — and him, just as naturally capturing those moments of theirs in a photograph.</p>
+
+<p>Suddenly, all the noise around me faded away. There was no barrier between them and me, and he wasn't erecting an invisible glass wall between us like before — yet the mere few steps separating us felt like a distinct dividing line between the people who shone and myself, who did not.</p>
+
+<p>Just as I reached for my beer with a touch of bitterness, his lens suddenly turned toward me.</p>
+
+<p>Before I even had a chance to look away, the shutter clicked. He immediately checked the photo on the LCD screen. Watching him bring the cigarette to lips faintly curved in a smile, I stepped down from the stool and approached them.</p>
+
+<p>Nuna smiled and draped her arm over my shoulder.</p>
+
+<p>"Seo Ihyeon, your popularity is truly international."</p>
+
+<p>Nuna's words drew laughter from hyung too. But he just looked down at me while taking a drag from his cigarette, offering no smile.</p>
+
+<p>"I… I'd like to try smoking too."</p>
+
+<p>"……"</p>
+
+<p>All three of them stopped mid-drag and focused on me. Wondering if I'd said something I shouldn't have, I scanned their expressions one by one. Finally I looked up at his face. He slowly moved the hand that had paused while bringing the cigarette to his lips, and drew on the filter again. The ash-gray ember burned red at the corner of his mouth.</p>
+
+<p>Nuna tilted her head slightly and smiled.</p>
+
+<p>"Can I ask why you want to try?"</p>
+
+<p>"Before… when I saw nuna's post about Hong Kong on the Old Future site. I thought… that if I ever got to go to Hong Kong, I'd want to try it at least once."</p>
+
+<p>I added, stroking my arm.</p>
+
+<p>"At the time, I didn't know I'd be coming to Hong Kong this soon."</p>
+
+<p>Nuna removed the arm she had draped around my neck and nodded.</p>
+
+<p>"Well, it wouldn't make sense for us to tell you it's bad for you when we're right here smoking ourselves."</p>
+
+<p>Then she looked up at him and asked:</p>
+
+<p>"Is it okay to give him one?"</p>
+
+<p>"Why are you asking my permission? Is there a minor here?"</p>
+
+<p>Nuna gave a slight smile — the look of someone who had expected exactly that answer. Then she rummaged through her back pants pocket. As she handed me a cigarette and a lighter, she shook her head lightly.</p>
+
+<p>"Ugh, why do I feel like I'm doing something bad? You are twenty-two, right?"</p>
+
+<p>Nuna and hyung were people you could barely call smokers. So I could understand completely why they wouldn't want to encourage me to start. Instead of launching into a lengthy explanation that I had no intention of becoming a smoker, I just smiled, and nuna smiled back, ruffling my hair. Then the two of them dove back into the pub as the music changed.</p>
+
+<p>Watching them instantly get caught up in the crowd — perhaps it was a song they liked — I brought the cigarette in my hand to my lips.</p>
+
+<p>Every single step — striking the lighter, holding the flame to the tip of the cigarette, and drawing in that first puff — felt clumsy, even to me.</p>
+
+<p>Contrary to what he had said, implying it was no big deal, he was watching every step of my awkward first attempt at smoking with an embarrassing intensity. Then he picked up his camera.</p>
+
+<p>"Don't… take pictures."</p>
+
+<p>I pulled down his wrist as he adjusted the lens toward me and turned my head away.</p>
+
+<p>"Why not?"</p>
+
+<p>His voice held a hint of amusement.</p>
+
+<p>"It wouldn't be interesting to photograph."</p>
+
+<p>"Are you saying the pictures I take aren't interesting?"</p>
+
+<p>"……"</p>
+
+<p>Even knowing he was joking, I didn't want him to misunderstand, and my gaze wavered. He seized the momentary pause to point the lens at me again. The shutter clicked in an instant.</p>
+
+<p>"At least, the pictures I take of you, Seo Ihyeon — those seem interesting to me."</p>
+
+<p>He lowered the camera as if satisfied and leaned his hand on the railing beside me. His chest and shoulder, angled toward me, were right in front of my eyes. I wanted to lean into him — using the dizziness from the mixed tequila and beer, and the disorientation of having smoked for the first time, as an excuse.</p>
+
+<p>But that would have been an overstep — an act too bold to attempt, let alone carry out on impulse. Surprised by the very thought, I took another drag of the cigarette, as if trying to blow away the notion with its noxious smoke.</p>
+
+<p>The unfamiliar, acrid air felt like it was constricting my throat. My tongue tingled, and I vividly sensed that I was injecting harmful substances into my windpipe and lungs.</p>
+
+<p>Even when I was younger and more naive, I had never thought smoking looked cool. Nor was I developing some belated, affected sense of style now. As nuna had written in her post, I just wanted to share that feeling of releasing the tension that kept one's everyday self in check — perhaps a little recklessly, or generously — and looking around at the surroundings.</p>
+
+<p>To be more honest, I wanted to get a little closer to the "Wonderland" that included nuna, hyung, and him. In the end, a weak laugh escaped me as I wondered if this was just the childish urge to imitate — like mimicking a favorite actor's performance in a movie.</p>
+
+<p>"It really feels like I've come to a strange land."</p>
+
+<p>The wooziness spinning before my eyes made my voice naturally languid.</p>
+
+<p>I focused on him, watching me without a single eyebrow raised.</p>
+
+<p>"Mr. Rabbit."</p>
+
+<p>"Rabbit?"</p>
+
+<p>This time, one of his eyebrows arched upward. <em>Mr. Rabbit.</em> The words had slipped out before I could stop them. I wiped my face with the hand not holding the cigarette, trying to regain my composure, and laughed to myself. Looking back, he truly was the Mr. Rabbit who had led me into this Wonderland.</p>
+
+<p>"I'm sorry. I must be drunk. Strange things keep coming out of my mouth."</p>
+
+<p>To hide the heat rising in my face, I took one last drag from the almost-finished cigarette. His hand reached out and covered mine where I held the cigarette, then gently took it from between my lips. It was a very soft touch.</p>
+
+<p>When I looked up, he was looking down at me, drawing a deep drag from the cigarette he'd taken — so deep his cheeks hollowed slightly. Then he slowly exhaled a long stream of smoke through his lips and skillfully tapped the ash off with his index finger.</p>
+
+<p>"Let's get drunker, then. That's what we came out for."</p>
+
+<p>As he tossed the butt into the ashtray the pub provided and turned to leave the railing area, someone carefully grasped my arm.</p>
+
+<p>"Excuse me…"</p>
+
+<p>"……"</p>
+
+<p>It was the freckled man. My eyes widened involuntarily at the unexpected situation.</p>
+
+<p>The man's companions were nowhere in sight. He seemed to have rushed back the way he came, his breathing ragged and his face flushed.</p>
+
+<p>"Sorry, but I was wondering if we could perhaps exchange email addresses."</p>
+
+<p>The man smiled, looking into my eyes, though he seemed somewhat shy.</p>
+
+<p>I felt something pure emanating from the man's goodwill, like raw energy. It was different from the sticky flirting the man at the VIP preview had used while hinting at travel memories. To feel such genuine goodwill toward someone, and to express it so openly yet cleanly… separate from the fact that the goodwill was directed at me, it simply looked wonderful.</p>
+
+<p>"Actually, I'm planning a trip to Korea this winter, and I thought maybe we could exchange emails, and if things go well, perhaps meet up again in Seoul then… Ah, please forget what that guy said earlier about me being instantly smitten! It's just that, it's such a long distance anyway, and I thought we could at least be friends…"</p>
+
+<p>While nervously rubbing the back of his neck, the man kept glancing sideways at him. He was certainly not oblivious when it came to matters like this, yet for some reason he wasn't leaving, choosing instead to stay and witness the entire situation.</p>
+
+<p>"Ah… my boy…friend… he's a bit particular about that sort of thing. I'm sorry."</p>
+
+<p>The man's confession wasn't unpleasant at all, and I was genuinely interested in his background — just as he had said, enough to want to be friends. However, I couldn't deny that my heart was elsewhere.</p>
+
+<p>I was completely unaccustomed to receiving confessions, nor did I know how to gracefully sidestep such a situation, so I clumsily spun a lie based on something I'd seen or heard somewhere.</p>
+
+<p>"I see. So… you already have a boyfriend."</p>
+
+<p>As I glanced over at the man offering a bittersweet smile, I suddenly realized my mistake. I hadn't meant to imply I had a "boyfriend," but I could see how it had come out that way.</p>
+
+<p>"Well then. I hope you have a wonderful trip. It was nice talking with you."</p>
+
+<p>Watching the young man turn away, his disappointment plainly visible, I felt a pang of regret. I regretted responding so dishonestly to such sincere goodwill with a needless lie.</p>
+
+<p>"Hmm… I didn't realize you had a boyfriend."</p>
+
+<p>I also felt apologetic toward the man who had just, by circumstance, become my boyfriend. Contrary to my worries, however, he seemed completely unbothered by the misunderstanding — in fact, he appeared rather pleased.</p>
+
+<p>"You know I don't."</p>
+
+<p>The embarrassment of having exposed the entire scene of confession and rejection to him washed over me belatedly, and as soon as I sat down I drank beer after beer. Nuna and hyung must have gone deep into the back of the hall, as they were nowhere in sight.</p>
+
+<p>"I didn't know. How would I? Did we ever talk about such things?"</p>
+
+<p>He remained full of playful energy, in a very good mood for reasons unknown.</p>
+
+<p>Wanting to change the subject somehow, I reached out toward the camera hanging around his neck.</p>
+
+<p>"Can I see the pictures?"</p>
+
+<p>"……"</p>
+
+<p>As my hand touched the camera, he stiffened. It was a bold move for me — but since I hadn't actually touched him, I hadn't expected such a startled reaction. Normally, I would have backed off at this point, but a slightly mischievous stubbornness surfaced. Sometimes this happened around him, even without the excuse of being tipsy.</p>
+
+<p>"You won't let me?"</p>
+
+<p>He pulled the camera closer toward himself and asked one more time.</p>
+
+<p>He didn't seem like the type to strap a camera around his neck and head out into the streets upon arriving in a new city, so it was quite surprising when he casually slipped the strap over his neck as he got out of the car. The sight of him with this compact camera — smaller than his palm — made him look like an excited tourist on a trip. Which was, somehow… a little endearing.</p>
+
+<p>"Hmm… I don't think I should show you."</p>
+
+<p>He removed the strap, held the camera in his left hand, and stretched his arm out of my reach as he spoke.</p>
+
+<p>"Why not?"</p>
+
+<p>I asked with a hint of dissatisfaction. He had taken plenty of pictures even while I, unused to cameras, felt awkward, yet now he wouldn't show me the results. It felt unfair.</p>
+
+<p>"Seo Ihyeon, you're a fortune teller. If you look at my photos, you'll read everything about me, won't you?"</p>
+
+<p>"…Read what?"</p>
+
+<p>"……"</p>
+
+<p>Our eyes met. I had said it without much thought, but he instantly clamped his mouth shut, like someone whose secret had been exposed. Somehow, I had ended up lunging toward him as if trying to snatch the camera into my chest, and he had his arm wrapped around my back, pulling me backward to stop me.</p>
+
+<p>At that very close distance, his eyes meticulously scanned every part of my face, as if searching for something. He would look at me like this sometimes. Perhaps because we were so close, the scent of his cologne tickled my nose.</p>
+
+<p>"That time — how much did you drink with Choi Inwu?"</p>
+
+<p>"What? When…"</p>
+
+<p>At the unexpected mention of Inwu hyung's name, I was just trying to dredge up the memory when Juhan hyung suddenly appeared from behind and threw himself onto him in an embrace, as if piggybacking.</p>
+
+<p>"Director, I'm dying of thirst! Beer, give me beer!"</p>
+
+<p>"Ah… this is really annoying."</p>
+
+<p>He grumbled with an openly vexed expression, but because his attitude was no different than usual, it all felt like a joke. Neither hyung nor nuna seemed to care at all.</p>
+
+<p>"You can stay out later, so why don't you two go hang out somewhere else? Want to go to a club? I'll give you my card."</p>
+
+<p>"I'd love to go out, but we still have two days left for the fair, so we should be back in bed by midnight. We can party to our heart's content at the Sunday party."</p>
+
+<p>Draining the beer left in his glass, hyung fanned his sweat-soaked face with his hand.</p>
+
+<p>The tension that had been tautly drawn between him and me just moments before vanished as if it had never been, and our table, like all the others surrounding us, instantly erupted into lively chatter.</p>
+
+<p>"Wait a minute. But why are you suddenly trying to send us to a club? We always have to be back by midnight before the fair ends."</p>
+
+<p>Nuna eyed him suspiciously from beneath narrowed lids.</p>
+
+<p>"You're planning on sending us to a club so you can slip away somewhere nice by yourself, aren't you?"</p>
+
+<p>Wiping the corner of his mouth with the back of his hand, hyung jumped up this time. He scowled and reattached the camera strap around his neck — which he had loosened to keep it out of harm's way.</p>
+
+<p>"You weren't sitting still, so I said if you're going to be like that, just go to a club. Is this really something to be suspicious about?"</p>
+
+<p>"Hmm… He's not the type to do that…"</p>
+
+<p>"If you're not going, then get up. I need to drop you off at your hotel and then go pick up Manager Han."</p>
+
+<p>He glanced at the watch on his left wrist and stood up from his seat.</p>
+
+<p>Manager Han, who was responsible for Phantom's operations, was also attending parties hosted by various galleries that evening. Since he had an obligation to pick her up, even if nuna and hyung went to the club, he couldn't just slip away to a "nice place."</p>
+
+<p>We left the pub and waited for a car near a nearby crosswalk. Nuna and hyung hadn't quite calmed down yet — they couldn't stand still for a moment, swaying to the music drifting from the surrounding shops. It was time for us to return to our lodging, but Soho's Friday night was still in full swing.</p>
+
+<p>I felt regretful. Because of the alcohol, my emotions were surely more exposed than usual. To hide even a fraction of my feelings, I shouldn't have been looking at him — yet my gaze kept searching for him.</p>
+
+<p>In truth, I had a lot I wanted to say. Since I wasn't very articulate, even if I were given the chance, I probably wouldn't be able to steer the conversation skillfully — but I also had many questions.</p>
+
+<p>What was the source of his alienation — the non-universal kind that had made him empathize with <em>Alienation</em>? When he realized that <em>Alienation</em> was my painting… how had he felt? Was he disappointed, or was it unexpected? Or perhaps, no matter how much he cherished the painting, the artist and the work were entirely separate entities to him — meaning the painting itself had never made him see me differently at all.</p>
+
+<p>Such… miscellaneous and trivial thoughts.</p>
+
+<p>He looked at me, arms tightly crossed over his chest, then sighed and ran a hand through his hair. With a sharp click of his tongue, he strode closer and grabbed my arm forcefully, as if about to lift me up.</p>
+
+<p>"And you're still a Beta, even now?"</p>
+
+<p>After that murmur — which demanded no answer from me — he stared straight down at me with eyes that sparked like embers.</p>
+
+<p>"On Sunday, I will not be interrupted."</p>
+
+<p>I didn't know what kind of interruption he meant, but the sudden onslaught of his fragrance — seeming to engulf me entirely — made such details irrelevant. I had once thought of his scent as merely strange. Now I was already craving it.</p>

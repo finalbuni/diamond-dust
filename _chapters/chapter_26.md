@@ -5,10 +5,12 @@ chapter_number: 26
 chapter_id: "V6.2"
 title: "Price of Silence"
 korean_title: "침묵의 대가"
+permalink: /chapters/chapter-26/
+excerpt_separator: "<!-- section-excerpt-end -->"
 ---
-
+<div id="section-1" class="hybrid-section" data-section="1">
 <!-- Chapter 26 — The Price of Silence -->
-
+ 
 <p>From the H&W Gallery on 69th Street to Liu's apartment, which faced the southeastern edge of Central Park, the distance was usually a short five-minute drive or a ten-minute walk. But on the last day of the year, things were different. Not only were the roads leading toward Midtown — where the Ball Drop event was in full swing — completely jammed, the entire Manhattan road network had turned into one enormous parking lot.</p>
 
 <p>But Liu had no reason to rush. With his arms crossed, he sank deep into the seat and gazed out the car window at the excited, flushed faces of the people passing by. New York's average winter temperature was higher than Seoul's, but the cold here had a strange way of making one feel more chilled than the actual temperature warranted.</p>
@@ -266,9 +268,9 @@ korean_title: "침묵의 대가"
 <p>At Liu's question, Shushu shrugged, let his shoulders drop with a sigh, set the hat he'd been turning over in his hands back on his head, and stood up.</p>
 
 <p>"Let's go out and count down to the New Year — like we used to."</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-2" class="hybrid-section" data-section="2">
 <p>"That will be 156 euros total."</p>
 
 <p>"Yes, may I have the receipt, please?"</p>
@@ -588,9 +590,9 @@ korean_title: "침묵의 대가"
 <p>Happy New Year.</p>
 
 <p>……Awi.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-3" class="hybrid-section" data-section="3">
 <p>A monsoon season that wasn't much of one. The dry spell — oppressively humid with barely a proper downpour to show for it — had already passed by early July, and now they were saying a typhoon was on its way; the sound of raindrops striking the window was solid and insistent.</p>
 
 <p>Liu, who had been sorting through the books, art collections, printed reports, and pamphlet samples scattered around the room to select what to take home, paused and turned at the sound of a brief commotion outside the open door behind him. Choi Inwu, carrying shopping bags full of lunch boxes in both hands, was being greeted with enthusiastic cheers.</p>
@@ -770,9 +772,9 @@ korean_title: "침묵의 대가"
 <p>Liu finally went still and leaned back against his desk. Rain continued to stream down the window straight ahead. He could hear the faint stir of employees leaving the office, their voices bright with excitement about the long vacation ahead.</p>
 
 <p>He looked up at the ceiling and drew a breath, wetting his lips with his tongue. Then he looked down at the floor and exhaled. Without lifting his head, he turned to the side, and his hair fell forward, covering his eyes. He picked up his mug with his long fingers. He had adjusted the air conditioner to a warmer setting a little while ago — but the coffee had gone completely cold.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-4" class="hybrid-section" data-section="4">
 <p>The boy still built walls with thorns bristling from behind them. Watching him throughout the meeting — arms crossed, glaring somewhere into the empty air with a sullen, crooked expression — it was impossible to tell whether he was even listening to what people said.</p>
 
 <p>Even so, Beau Beau's position was that the very fact he kept coming back of his own accord — this being no mandatory gathering — was a sign of hope, and that the right thing was to wait patiently.</p>
@@ -960,9 +962,9 @@ korean_title: "침묵의 대가"
 <p>Ihyeon looked down at the box and checked the sender's name. Even in the handwriting, there was something neat and warm.</p>
 
 <p>Marcus Dunham. It was Marcus.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-5" class="hybrid-section" data-section="5">
 <p>From the resort in Jimbaran to Double Six Beach, the drive took over forty minutes. The straight-line distance wasn't far, but the road closest to the beach was too narrow for cars, forcing a longer route along winding inland roads.</p>
 
 <p>Liu parked in front of a café building whose walls showed bare plaster threaded with climbing vines, then walked toward the beach, passing a row of parked motorcycles.</p>
@@ -1038,9 +1040,9 @@ korean_title: "침묵의 대가"
 <p>He understood now what it meant for emotion to crash over you like a wave. The patience he had held onto for nearly a year crumbled all at once, and he felt as though he were being pulled back to that moment — the two of them staring out at the rain-hammered sea. That moment when he had wanted, by any means, to remind Ihyeon of the love still living inside him, even if it meant trading away his own past to earn his pity, to cling to him and beg him not to leave.</p>
 
 <p>The cold dampness of the sea radiated from the woman standing beside him. Liu covered his eyes.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-6" class="hybrid-section" data-section="6">
 {% capture excerpt %}
 <p>It was the third day since my arrival here, and I had my first meeting with Josef Ruse.</p>
 
@@ -1148,9 +1150,9 @@ korean_title: "침묵의 대가"
 {% endcapture %}
 
 {% include excerpt.html content=excerpt %}
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-7" class="hybrid-section" data-section="7">
 <p>Ihyeon straightened his back and slowly turned toward the window.</p>
 
 <p>Although evening was approaching, the sky outside remained as bright and blue as midday. Yet, whether it was his mood or simply the angle of the setting sun, a shadow seemed to have fallen over the room, regardless of the light outside.</p>
@@ -1204,9 +1206,9 @@ korean_title: "침묵의 대가"
 <p>A quiet sobbing — not ragged, but steady, like the slow catching of breath after a long uphill climb — continued for a long time.</p>
 
 <p>Though it was nearing nine o'clock, the sky over Paris was still a bright, unwavering blue.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-8" class="hybrid-section" data-section="8">
 <p>Liu stepped out of the taxi, slipped his hands into his coat pockets, and exhaled a long breath. Through the mist of that breath, the sight of Phantom looked unfamiliar.</p>
 
 <p>The narrow parking lot in front of the building was completely choked with trucks loaded with demolition equipment and debris already pulled from the structure. The main entrance, wide open in contrast to usual, offered a glimpse of the bustling activity inside.</p>
@@ -1310,9 +1312,9 @@ korean_title: "침묵의 대가"
 <p>He tossed the stub and his mask into a trash bag and walked out of Phantom, hands back in his coat pockets. The northwesterly wind sweeping down from Bukhansan made him pull his shoulders in. It was the second winter since Ihyeon had left. Just as he didn't know the twenty-three-year-old Seo Ihyeon, the winter version of him was uncharted territory too.</p>
 
 <p>Beneath a sky that hung low as though snow might fall at any moment, Liu started down the slope — imagining Ihyeon walking the path beside him, wrapped in a scarf, breathing out small white clouds into the cold air.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-9" class="hybrid-section" data-section="9">
 <p>Ihyeon carried two mugs of freshly brewed coffee to the table and set one down in front of Jun.</p>
 
 <p>"Thank you for the coffee."</p>
@@ -1452,9 +1454,9 @@ korean_title: "침묵의 대가"
 <p>Since coming here, he had come to understand more clearly what Liu had done for his affiliated artists, why marketing mattered, and how fortunate it was for an artist to encounter a gallery like Phantom. But the harder truth was that not everyone got the chance to meet a dealer like 'The Hands' or Phantom.</p>
 
 <p>Watching Jun's young face lost in thought, Ihyeon unconsciously raised the mug to his lips. The coffee had gone cold, and it tasted more bitter now than it had when it was warm.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-10" class="hybrid-section" data-section="10">
 <p>The Neo-Byzantine stained glass adorning the dome-shaped ceiling — reportedly thirty-three meters high — was intricate and beautiful. The enormous tree erected beneath it amplified the splendor to its peak, making the entire department store feel like one massive Christmas tree. It was less like simply appreciating a gorgeous visual and more like stepping into a fairy tale, a fantasy constructed from material things.</p>
 
 <p>It was obviously a commercial strategy — designed to stoke the already excited emotions of the year-end crowd and coax them into spending more — and yet everyone, wearing expressions of happiness as though performing contentment, seemed more than willing to be fooled by it.</p>
@@ -1568,3 +1570,4 @@ korean_title: "침묵의 대가"
 <p>Liu's hands slowed, then cupped his face with both palms, and he pressed their foreheads together. He nodded.</p>
 
 <p>"I won't go anywhere until you tell me to."</p>
+</div>

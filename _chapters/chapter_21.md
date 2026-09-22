@@ -5,8 +5,10 @@ chapter_number: 21
 chapter_id: "V5.1"
 title: "City of Wind"
 korean_title: "바람의 도시"
+permalink: /chapters/chapter-21/
+excerpt_separator: "<!-- section-excerpt-end -->"
 ---
-
+<div id="section-1" class="hybrid-section" data-section="1">
 <!-- Chapter 21 — City of Wind -->
 
 <p>Through his bedroom window facing North Michigan Avenue, the John Hancock Center — famous as one of the best spots to enjoy the Chicago skyline alongside the Willis Tower — stood directly in front of me.</p>
@@ -262,9 +264,9 @@ korean_title: "바람의 도시"
 <p>"See you later. Don't dress up too beautifully."</p>
 
 <p>I shook my head, thinking: <em>Look in the mirror before you say something like that, Director.</em></p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-2" class="hybrid-section" data-section="2">
 <p>The luxury sedan he had arranged with the hotel began its journey north toward the wealthy enclave of Chicago's Old Town.</p>
 
 <p>The high-rises were shrouded in a hazy fog, likely due to Lake Michigan, making it impossible to distinguish what lay at the end of the long, straight road. The car, gliding smoothly over the pavement without sound or vibration, felt as if it were willingly being drawn into a story full of adventure, with no telling what waited at the end.</p>
@@ -1012,9 +1014,9 @@ korean_title: "바람의 도시"
 <p>The heat left by our kiss moments ago already felt like a distant past, so I touched my lips. I pinched them as hard as he always did, painfully, but there was no pleasure in it this time.</p>
 
 <p>The Chicago moon, shrouded in thick fog as seen from the terrace shadows, was blurred and looked like a mirror incapable of reflecting anything.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-3" class="hybrid-section" data-section="3">
 <p>The party lasted until 2:00 a.m. Most guests left between midnight and one o'clock, but the final group, including us, was seen off by Jane and Conner and scattered into the Chicago night in their respective sedans around 2:00 a.m.</p>
 
 <p>After enthusiastically greeting people as if they were old friends, he got into the car, immediately ran his fingers through his hair to muss it up, and put a cigarette in his mouth. When he, in the front passenger seat, rolled down the window, the cold, humid night air brushed against my face. It felt refreshing.</p>
@@ -1172,9 +1174,9 @@ korean_title: "바람의 도시"
 <p>"I'm sorry. That last comment was just a stupid outburst. I'm sorry... I think I'm just on edge because so much happened today... So, let's just sleep separately tonight, as you suggested."</p>
 
 <p>Just like Yuni, he also forced a smile. <em>Thank you for enduring such a hard day well. Sleep well.</em> He gave me a careful goodnight kiss, but I couldn't sleep properly. He was probably the same. <em>If I'd known it would be like this, I should have just slept together, tracing each other's bare skin and body heat to soothe the fatigue and anxiety.</em> I tossed and turned for a long time, regretting it.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-4" class="hybrid-section" data-section="4">
 <p>When they had researched beforehand in Seoul, they were told that it rains in Chicago about once every four days in September. We encountered rain on the morning of the second day.</p>
 
 <p>The scenery — a mix of low-hanging slate-gray clouds and fog swirling among Chicago's grand, distinctive architecture — possessed enough atmosphere to make one want to stroll the streets all day with an umbrella hooked over one shoulder, but it inevitably caused disruptions to the event schedule.</p>
@@ -2270,9 +2272,9 @@ korean_title: "바람의 도시"
 <p>The memories of him proposing and of us allowing each other to use the word "love" felt so distant it was hard to believe they were real, yet the strength of his arms pulling me closer as I shifted, and the pressure of his lips on my forehead, were proof of it all.</p>
 
 <p>He kissed my forehead and brushed back my hair, murmuring it was time to sleep, and I closed my eyes. My deepest sleep was always in his embrace.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-5" class="hybrid-section" data-section="5">
 <p>The wind grew stronger as we neared the lake, but the weather was clear enough to see the sky, which was an unreal shade of blue.</p>
 
 <p>"It's Sunday — I wondered where all the Chicagoans went, but it turns out they all gathered at Navy Pier."</p>
@@ -2486,3 +2488,4 @@ korean_title: "바람의 도시"
 <p>Shushu and Yuni were heading to Seoul, while he and I were going to Boston.</p>
 
 <p>The next day, we left Chicago — the Windy City, the city of wind that blows everything away and mixes it all up — heading in different directions.</p>
+</div>

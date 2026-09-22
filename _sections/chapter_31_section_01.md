@@ -1,0 +1,71 @@
+---
+layout: chapter
+volume: "Side Story II"
+chapter_number: 31
+chapter_id: "S2.1"
+title: "Sumbisori"
+hybrid_short: true
+section_number: 1
+section_count: 9
+permalink: /sections/chapter-31/1/
+excerpt_separator: "<!-- section-excerpt-end -->"
+---
+<!-- Chapter 31 — Sumbisori -->
+
+<p>Gallery Phantom.</p>
+
+<p>Among the galleries scattered throughout Samcheong-dong, this one was particularly recognized for its ability to discover new talent.</p>
+
+<p>If a promising artist signed an exclusive contract with Phantom — said to have a ghost's eye for recognizing emerging talent — success was practically guaranteed, not only in the domestic market but in overseas markets as well. Such rumors circulated not only among established artists but also among art students who dreamed of becoming full-time painters.</p>
+
+<p>Young, ambitious artists who pursued experimental and distinctive work while also seeking recognition for it visited Phantom directly with their portfolios several times a week.</p>
+
+<p>They first had to go through an interview with Manager Han. Afterward, a select few deemed promising by Manager Han would be sent to the Director, Liu Weikun.</p>
+
+<p>"I heard that Seo Ihyeon was discovered here at Phantom."</p>
+
+<p>And six or seven out of ten of them inevitably brought up Seo Ihyeon's name.</p>
+
+<p>Each time, Liu's hand as he turned the portfolio pages would pause.</p>
+
+<p>Pretending not to be surprised, pretending his heart hadn't dropped at that name, he would try to maintain a composed demeanor and ask,</p>
+
+<p>"Is the fact that we discovered Seo Ihyeon the reason you want to sign with us?"</p>
+
+<p>"He's a fairly successful artist in our generation. I'm not interested in recognition from the mainstream market, but I don't want to be ignored either. If I'm going to do work that divides opinion anyway, I'd rather be clearly hated and clearly loved. For people like me, he's practically a role model."</p>
+
+<p>Even from a place this far removed, Ihyeon's name was still being heard. He was continuing to grow — not by Liu Weikun's side.</p>
+
+<p>"But of course, I'll be different from Seo Ihyeon."</p>
+
+<p>"What do you mean by that?"</p>
+
+<p>"Even if I receive a better offer elsewhere before my contract ends, I will never betray Phantom."</p>
+
+<p>Occasionally, some applicants would add remarks like that.</p>
+
+<p>There was a group who believed that Seo Ihyeon — nothing more than a fledgling artist at the time — had received an offer from The Hands, a Paris-based art foundation, and had betrayed Phantom, the gallery that discovered him, to go there.</p>
+
+<p>No artist who blindly believed and repeated those rumors ever brought a decent portfolio. There was no need to feel any regret in turning them away. It was a relief.</p>
+
+<p>Liu would close the portfolio and explain to each of them, every time.</p>
+
+<p>"Seo Ihyeon didn't betray Phantom. It was simply a decision made after mutual consultation because we judged it to be a very good opportunity for him. He wasn't our business tool — he was a friend."</p>
+
+<p>After they left with expressions of having made a mistake, he inevitably wanted a cigarette. Sometimes he felt something almost vicious stir in him. It was anger directed at himself.</p>
+
+<p>Even without the Changing, Ihyeon should have gone to The Hands. It was too great an opportunity for him as an artist, and the experience there would allow him to grow far more. He couldn't ask him to give up such a chance. That wouldn't be love.</p>
+
+<p>And perhaps, if it hadn't been for the Changing, Liu himself would have abandoned Phantom for Ihyeon and gone to Paris with him. The word "abandon" might sound harsh, but he wouldn't have hesitated for a moment. That was the truth.</p>
+
+<p>But he was not permitted to follow Ihyeon.</p>
+
+<p>Because of the terrible sin he had committed against him.</p>
+
+<p>He remained here only because he was not permitted to leave.</p>
+
+<p>There was no other reason. No other purpose.</p>
+
+<p>In the castle called Phantom, built with his own hands, Liu drifted like a faint ghost.</p>
+
+<p>This is a story about Liu Weikun at that time.</p>

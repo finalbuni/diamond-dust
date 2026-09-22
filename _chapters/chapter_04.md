@@ -5,8 +5,10 @@ chapter_number: 4
 chapter_id: "V1.4"
 title: "A Distinct Scent"
 korean_title: "독특한 향수"
+permalink: /chapters/chapter-04/
+excerpt_separator: "<!-- section-excerpt-end -->"
 ---
-
+<div id="section-1" class="hybrid-section" data-section="1">
 <!-- Chapter 4 — A Distinct Scent -->
 
 <p>The final day of an exhibition was never as hectic as the opening. Depending on the show, artists and buyers were sometimes invited to a closing party, but since this was a group exhibition with multiple artists, coordinating schedules was difficult. The plan was to wrap things up with the Director and the Teacher hosting a separate reception off-site for the artists and key clients who could make it.</p>
@@ -164,9 +166,9 @@ korean_title: "독특한 향수"
 <p>"Then let's get going. Give us ten minutes."</p>
 
 <p>That was Yuni nuna's crisp reply after checking her wristwatch.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-2" class="hybrid-section" data-section="2">
 <p>The bar, tucked into a narrow alley deeper inside a bustling entertainment district, felt like a perfect hideout. It specialized in Spanish tapas and wine, with no more than four or five tables inside.</p>
 
 <p>The atmosphere was neither solemn nor stiff. The way the other patrons were dressed, the pitch of their conversations, the music drifting through the room — taken together, the effect was surprisingly casual.</p>
@@ -724,3 +726,4 @@ korean_title: "독특한 향수"
 <p>Excessive drinking was bad for health in any number of ways, but the greater danger, I was learning, was this: the sudden, overwhelming kind of want that had no clear place to go.</p>
 
 <p>Even though it had been more intense than anything I'd ever done before, when I finally collapsed onto the bed — utterly spent — what I felt was more thirst than relief. I twisted the sheets in my fist, then let them go, and swore out loud for the first time in years.</p>
+</div>

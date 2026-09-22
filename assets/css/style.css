@@ -3708,3 +3708,38 @@ a:hover {
     font-weight: 400;
     color: var(--muted);
 }
+/* Hybrid reading pilot: generous breathing room around chapter metadata. */
+.hybrid-meta {
+  display:flex; align-items:center; justify-content:space-between;
+  gap:1rem 1.5rem; flex-wrap:wrap;
+  padding:1.4rem 0 1.8rem;
+}
+.hybrid-meta .chapter-reading-time { margin:0; }
+.hybrid-format-label {
+  font:inherit; font-size:.85rem; display:flex; align-items:center; gap:.5rem;
+}
+.hybrid-format-label select, .hybrid-settings-select {
+  font:inherit; color:inherit; background:var(--background-color, transparent);
+  border:1px solid var(--border-strong); border-radius:8px;
+  padding:.45rem 2.1rem .45rem .75rem; max-width:100%; cursor:pointer;
+  -webkit-appearance:none; appearance:none;
+  background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath d='m1 1 5 5 5-5' fill='none' stroke='%23808080' stroke-width='1.6' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
+  background-repeat:no-repeat; background-position:right .8rem center; background-size:12px 8px;
+}
+.hybrid-format-label select:focus-visible, .hybrid-settings-select:focus-visible {
+  outline:2px solid var(--accent); outline-offset:2px;
+}
+.hybrid-settings-select { width:100%; }
+.hybrid-section-label { text-align:center; opacity:.7; font-size:.9rem; margin:0 0 1.8rem; }
+.hybrid-section { scroll-margin-top:5rem; }
+@media (max-width:700px) {
+  .hybrid-meta { padding:1.25rem 0 1.65rem; }
+}
+
+/* Site update announcement and archive */
+#site-update-banner .reader-survey__message { white-space: normal; flex-wrap: wrap; column-gap: .4rem; }
+.site-update-entry { padding-bottom: 2rem; }
+.site-update-entry h2 { margin-top: .35rem; }
+@media (max-width: 640px) {
+  #site-update-banner .reader-survey__inner { gap: 12px; flex-wrap: wrap; }
+}

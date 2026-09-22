@@ -1,0 +1,137 @@
+---
+layout: chapter
+volume: "Side Story II"
+chapter_number: 34
+chapter_id: "S2.4"
+title: "Honeymoon"
+hybrid_short: true
+section_number: 14
+section_count: 17
+permalink: /sections/chapter-34/14/
+excerpt_separator: "<!-- section-excerpt-end -->"
+---
+<p>Even after parking the car in his home's driveway, Ihyeon sat still in the driver's seat for a moment.</p>
+
+<p>He had been desperate to check immediately, but now that he had arrived home, he didn't feel ready yet.</p>
+
+<p>Ready to confirm that he wasn't pregnant.</p>
+
+<p>Sitting motionless amidst the sound of rain covering the entire world, he listened to the music playing.</p>
+
+<p>Aaron Kellim's "Stay In Love."</p>
+
+<p>It was a song Liu had recommended.</p>
+
+<p>Memories associated with the music brought a smile to Ihyeon's lips.</p>
+
+<p>It was a Sunday, less than a month after they had moved to Bali. When he woke up after sleeping in a little later than usual, Liu wasn't in bed next to him. Without even changing out of his pajamas, Ihyeon left the bedroom to look for Liu.</p>
+
+<p>The sweet scent of pancake batter tickled his nose, and the fresh air and sunlight of a late Sunday morning poured in through all the windows in the living room and kitchen. The song was playing from the Bluetooth speaker in the kitchen, and Liu, standing in front of the counter, was flipping pancakes while singing along.</p>
+
+<p>Ihyeon stood in the kitchen doorway and watched his back for a long time. Until this song ended.</p>
+
+<p>Liu was enjoying his Sunday morning, pouring batter onto the griddle, shaping it with the spatula, singing the song while humming the parts whose lyrics he didn't know, and occasionally rubbing his right instep against his left calf.</p>
+
+<p>It was then that Ihyeon felt he could finally accept this place as their real home, after adjusting for about a month.</p>
+
+<p>The place where Liu hummed on a Sunday morning while cooking pancakes for him. Wherever that place was, that was his home. And this man was his mate. That was the memory where he realized it with his very soul.</p>
+
+<p>He had quietly approached and hugged his back tightly. He had pressed his cheek against the thin T-shirt, feeling his warmth and the movement of his muscles — feeling that he was alive.</p>
+
+<p>"Did you sleep well?"</p>
+
+<p>"I slept soundly."</p>
+
+<p>"You slept like a baby. You didn't even notice when I watched you for a long time."</p>
+
+<p>"We agreed you wouldn't watch me while I sleep anymore."</p>
+
+<p>"Five pancakes will be enough, right?"</p>
+
+<p>Ihyeon recalled him changing the subject with a slight deflection and let out a soft chuckle.</p>
+
+<p>It would be a lie to say he was glad Liu wasn't here right now.</p>
+
+<p>In this moment, he wished Liu was here with him. Even if it was just to confirm that he wasn't pregnant.</p>
+
+<p>Ihyeon waited for the song to end, then turned off the player and got out of the car. He felt like he finally had the courage to accept the results.</p>
+
+<p>Carrying the bag, he headed toward the bathroom in the master bedroom.</p>
+
+<p>He carefully read the testing instructions written on the package. He even let out a dry laugh, thinking that thanks to the structure of his reproductive organs, the test might be a bit easier for him than for a female Beta or female Omega.</p>
+
+<p><em>As instructed on the package, I let the stick absorb the urine, then placed the test kit on a small tray I had prepared on the edge of the bathtub.</em></p>
+
+<p><em>I set a three-minute timer on my phone and paced around the bathroom.</em></p>
+
+<p><em>I tried to distract myself by reading the news or checking my friends' daily updates on social media, but everything failed.</em></p>
+
+<p><em>Liu would be halfway to Hong Kong by now. It would still take him over two more hours to arrive.</em></p>
+
+<p>Beep, beep.</p>
+
+<p>At the timer's alarm, Ihyeon, who had been pacing, stopped dead in his tracks. He quickly glanced back toward the tray a few steps away. He gnawed at his lips. His heart hammered wildly.</p>
+
+<p>Why was he so nervous when he already knew the answer?</p>
+
+<p>Unable to walk straight toward it, Ihyeon shuffled sideways, one step at a time, his eyes gradually widening.</p>
+
+<p>"Wha... wha... what?"</p>
+
+<p>Before he could even pick up the test kit, Ihyeon instinctively backed away. Yet his eyes remained fixed on the tray.</p>
+
+<p>Two distinct red lines had clearly appeared beneath the letters T and C.</p>
+
+<p>He was pregnant.</p>
+
+<p>Goosebumps prickled Ihyeon's right cheek, his side, and his thighs several times over. Eventually, he felt the hairs on his head stand on end.</p>
+
+<p>He couldn't say how many minutes he stood there dumbfounded, his mouth covered.</p>
+
+<p>Swoosh. The sound of rain finally pierced Ihyeon's ears, which had been blocked to all other sounds for a while. It was like a deafening roar.</p>
+
+<p>Now, Ihyeon began to move with unexpected calm.</p>
+
+<p>He knew that one test kit wasn't enough to confirm a pregnancy. He rummaged through the bag left on the bathroom shelf and found a test from a different company. Even if the companies were different, the instructions were similar.</p>
+
+<p>He washed his hands thoroughly again and took out the package, repeating the procedure. He wondered how it would go since he had just urinated, but fortunately, the test kit was usable.</p>
+
+<p>This time, too, the result was two red lines.</p>
+
+<p>"This is impossible. This is seriously impossible," he muttered.</p>
+
+<p>Although he had secretly hoped for it, he knew this was something that absolutely couldn't happen. So when he was faced with this result, he felt bewildered rather than happy.</p>
+
+<p>He wanted to take at least two more tests. It was a ridiculous thought, but he needed more urine.</p>
+
+<p>Ihyeon went to the kitchen for more water and opened the cabinet to take out a clean cup.</p>
+
+<p>"Ah."</p>
+
+<p>He had only lightly brushed against the cabinet door, but his chest hurt strangely. Bending his upper body slightly, Ihyeon gripped his chest with his hand. He didn't really feel any change in volume. But perhaps it was just his imagination — it felt subtly firmer than usual.</p>
+
+<p><em>Was it really? Really?</em></p>
+
+<p>His heart began to beat fast again. Ihyeon filled a cup with water and moved to the living room. He sat on the sofa, took a deep breath, and slowly drank the water. It was dim inside because of the rain, but he didn't even think about turning on a light.</p>
+
+<p>He sat in the dim living room, quietly staring straight ahead.</p>
+
+<p>Precious memories with Liu, family, and friends were displayed on the shelf. And on the wall behind them hung a small canvas. It was the painting Ihyeon's father had brought as a gift for Ihyeon and Liu's wedding.</p>
+
+<p>The southern cliff overlooking the East Sea.</p>
+
+<p>His father used to go up there alone and sit blankly on a bench, gazing out at the sea.</p>
+
+<p>It was also the place where Ihyeon first broke his silence with his father, ended their estrangement, and confessed that he was turning into an Omega.</p>
+
+<p>His father had painted that view for him: a clean sky, a sparkling sea, and two men sitting side by side on the bench.</p>
+
+<p>It was a painting very similar to one his father had drawn during the time Ihyeon remembered as the happiest for the whole family — a gentle, warm silhouette and color palette. It was a painting that only his father could have created, one that felt like balloons drifting lightly up toward the sky.</p>
+
+<p>Ihyeon gently placed a hand on his lower abdomen and smiled softly. The intense pounding in his chest seemed to have settled down.</p>
+
+<p>He waited for another hour to feel enough of an urge to take the test.</p>
+
+<p>The third time, and the fourth time, the result was undeniably two clear red lines.</p>
+
+<p>Then Ihyeon crawled into the hanger rack inside the dressing room where he and Liu had had their heat. There was no way the freshly laundered shirts would actually smell like Liu's scent, but psychologically, that wasn't the case. He curled up, surrounded by Liu's shirts, and waited for one more hour — until his plane arrived in Hong Kong.</p>

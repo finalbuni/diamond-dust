@@ -5,8 +5,10 @@ chapter_number: 28
 chapter_id: "V6.4"
 title: "Back to the Sea"
 korean_title: "다시, 바다로"
+permalink: /chapters/chapter-28/
+excerpt_separator: "<!-- section-excerpt-end -->"
 ---
-
+<div id="section-1" class="hybrid-section" data-section="1">
 <!-- Chapter 28 — Back to the Sea -->
 
 <p>By nightfall, the snow had nearly melted. Only the dirty piles people had pushed to the road's edges before the snowplows came were still clumped here and there. The sight wasn't much different from Korea.</p>
@@ -454,9 +456,9 @@ korean_title: "다시, 바다로"
 <p>At the sudden laughter, Liu Weikun leaned in with a curious expression. Perhaps because Ihyeon was laughing, Liu Weikun began to smile too, without knowing why. Ihyeon cupped his cheek and shook his head.</p>
 
 <p>They were intruders from strange lands to each other, each carrying the gift the other had needed most.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-2" class="hybrid-section" data-section="2">
 <p>Like any gallery in Paris, The Hands held a party for the Christmas season, but those who attended the party on the night of the 24th were mostly singles living apart from their families. In France, Christmas was still strongly regarded as a holiday to spend with family.</p>
 
 <p>"This is no different from last year."</p>
@@ -720,9 +722,9 @@ korean_title: "다시, 바다로"
 <p>Tracing Ihyeon's face carefully with his gaze, Liu Weikun tilted his head slightly, then swept his lower lip softly down over Ihyeon's lips.</p>
 
 <p>"It's a little... earlier than planned. But should we sneak out now?"</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-3" class="hybrid-section" data-section="3">
 <p>The plan had been to stay at The Hands until the Christmas countdown, then leave the party and watch the White Eiffel — the tower lit entirely in white — from across the Seine near the Museum of Modern Art at 1 a.m.</p>
 
 <p>But the sedan that came to pick them up in front of The Hands didn't continue down toward Place de la Concorde. Instead, it turned left toward Place Vendôme and entered Rue de la Paix. Passing the square with the Tuileries Garden on the left wouldn't have been much of a detour.</p>
@@ -1024,9 +1026,9 @@ korean_title: "다시, 바다로"
 <p>He curled his fingers and clutched the jacket tightly. He closed his eyes and buried himself in the scent rising from him. A change he seemed to have longed for without realizing it — for a very long time — was drawing close, into the near future, into the present.</p>
 
 <p>"I love you. And I will keep loving you."</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-4" class="hybrid-section" data-section="4">
 <p>Paris to Incheon. Flight AF0268.</p>
 
 <p>Arrival at the terminal at 06:19, twenty-four minutes behind schedule.</p>
@@ -1154,9 +1156,9 @@ korean_title: "다시, 바다로"
 <p>Lowering himself to his knees in front of the painting, Liu Weikun carefully traced the blue texture — like the scales of a mermaid — with his fingertips. The living room, which had felt like parched, bone-dry sand after Ihyeon left, was now filled with rolling blue currents and white waves.</p>
 
 <p>Liu Weikun tightly clenched his ringed left hand with his right.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-5" class="hybrid-section" data-section="5">
 <p>"Director. Director?"</p>
 
 <p>"Yeah."</p>
@@ -1334,4 +1336,5 @@ korean_title: "다시, 바다로"
 <p><strong>Diamond Dust</strong>: Complete. Continues with the side stories.</p>
 <p class="glossary-entry"><strong>Pull Out</strong>: A surfing term. The act of exiting a wave you were riding based on your own judgment.</p>
 
+</div>
 </div>

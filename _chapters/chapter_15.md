@@ -5,8 +5,10 @@ chapter_number: 15
 chapter_id: "V3.3"
 title: "A Choice That Demands Sacrifice"
 korean_title: "희생이 따르는 선택"
+permalink: /chapters/chapter-15/
+excerpt_separator: "<!-- section-excerpt-end -->"
 ---
-
+<div id="section-1" class="hybrid-section" data-section="1">
 <!-- Chapter 15 — A Choice That Demands Sacrifice -->
 
 <p>Hyung and Morae, their hands clasped tightly, walked through the lobby and into the coffee shop. It wasn't a sight you saw often. Hyung's face was stiff, his eyes sweeping their surroundings, but Morae spotted me right away, waved, and came over exactly as she always did.</p>
@@ -332,9 +334,9 @@ korean_title: "희생이 따르는 선택"
 <p>Then she squeezed my shoulder firmly and made her decision known.</p>
 
 <p>"Let's rely on Seo Ihyeon this time."</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-2" class="hybrid-section" data-section="2">
 <p>The moment I stepped out of the bathroom, the view stopped me again. The Han River at night — the same view I looked at every day from Manager Han's living room — yet every time it entered my sight when I wasn't braced for it, it struck me new. It didn't matter where I was seeing it from.</p>
 
 <p>The city lights scattered across the calm water reminded me of Hong Kong at night. Memories of Hong Kong came in a chain, making me feel clearly how much I had changed, and how many chances I had been given to find my way here.</p>
@@ -654,3 +656,4 @@ korean_title: "희생이 따르는 선택"
 <p>He had told me to send a message before bed, but I wanted to call. I wanted to hear his voice. I wanted to see his face. I wanted to hold him, to touch his bare skin, to feel his warmth. And I wanted to tell him all of that.</p>
 
 <p>I imagined actually doing it — the confession, out loud. The next scene that unfolded in that imagining was his face, awkward and slightly pained, laughing it off while he looked somewhere else.</p>
+</div>

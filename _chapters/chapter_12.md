@@ -5,8 +5,10 @@ chapter_number: 12
 chapter_id: "V2.6"
 title: "Visitors"
 korean_title: "방문객"
+permalink: /chapters/chapter-12/
+excerpt_separator: "<!-- section-excerpt-end -->"
 ---
-
+<div id="section-1" class="hybrid-section" data-section="1">
 <!-- Chapter 12 — Visitors -->
 
 <p>I hadn't expected the number of visitors to keep increasing right up until the final day of the fair. If anything, it seemed like the largest crowd came flooding in on that last day.</p>
@@ -112,9 +114,9 @@ korean_title: "방문객"
 <p>But even for Golden Alpha Liu Weikun, he couldn't have anticipated the exact situation where such a family would visit our booth and create an episode like this.</p>
 
 <p>However, if he had been aiming for the shock and stimulation I would receive through people who freely enjoy and love art in their own ways... then I would have to acknowledge the effectiveness of his strategy in bringing me along on this trip.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-2" class="hybrid-section" data-section="2">
 <p>"That happened? Something clicked. That kid is no ordinary kid — they'll be something great no matter what they become."</p>
 
 <p>Inwu hyung set down his beer glass and nodded vigorously with a bright expression.</p>
@@ -364,9 +366,9 @@ korean_title: "방문객"
 <p>"And, I happen to have a few things I'd like to talk about."</p>
 
 <p>I looked up at the slow cadence of his voice. He wasn't looking at me; he was looking at Inwu hyung. Following his gaze, I turned to look at hyung without much thought. Hyung was simply smiling at him with an unreadable expression from across the table.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-3" class="hybrid-section" data-section="3">
 <p>"Feels more like a typhoon than the rainy season."</p>
 
 <p>As soon as we pulled out of the underground parking lot, he muttered while glancing out the window at the rain hammering the car.</p>
@@ -604,4 +606,5 @@ korean_title: "방문객"
 <p><em>To be continued in Diamond Dust, Volume 3.</em></p>
 <p class="glossary-entry"><strong>Take Off</strong>: A surfing term. The motion of identifying a wave and standing up on the board. This marks the true beginning of riding the wave.</p>
 
+</div>
 </div>

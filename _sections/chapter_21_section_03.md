@@ -1,0 +1,170 @@
+---
+layout: chapter
+volume: "Volume 5"
+chapter_number: 21
+chapter_id: "V5.1"
+title: "City of Wind"
+korean_title: "바람의 도시"
+hybrid_short: true
+section_number: 3
+section_count: 5
+permalink: /sections/chapter-21/3/
+excerpt_separator: "<!-- section-excerpt-end -->"
+---
+<p>The party lasted until 2:00 a.m. Most guests left between midnight and one o'clock, but the final group, including us, was seen off by Jane and Conner and scattered into the Chicago night in their respective sedans around 2:00 a.m.</p>
+
+<p>After enthusiastically greeting people as if they were old friends, he got into the car, immediately ran his fingers through his hair to muss it up, and put a cigarette in his mouth. When he, in the front passenger seat, rolled down the window, the cold, humid night air brushed against my face. It felt refreshing.</p>
+
+<p>"About the New York branch. Don't you have anything to tell me?"</p>
+
+<p>Yuni, sitting right behind the driver, couldn't wait any longer and started the conversation first.</p>
+
+<p>"You know it's something I've been thinking about for a long time. Why act so surprised, as if you're hearing it for the first time?"</p>
+
+<p>He answered, exhaling a long stream of smoke toward the window. His voice was heavy and raspy from exhaustion.</p>
+
+<p>"You mentioned someday opening an overseas branch — casually, like a dream you hoped to achieve someday in the distant future — over drinks, over lunch, over coffee. But then you suddenly tell me that dream has become a reality without my even knowing, and you have to go to New York right away... How can I not be surprised?"</p>
+
+<p>Her tone wasn't accusatory or rushed. It seemed Yuni was doing her best to remain as unemotional as possible. Her arms were crossed, her hands gripping her own arms tightly.</p>
+
+<p>"Between the Chicago exhibition and preparing for the second half of the year's joint exhibition, the entire gallery was hectic. I knew bringing up the New York branch then would only upset you, so I deliberately kept quiet. I intended to talk about it once we were back in Seoul. I apologize that you found out this way... Yuni."</p>
+
+<p>He turned his body to meet Yuni's eyes.</p>
+
+<p>"Let's not read too much into the timing of when I brought it up. Okay?"</p>
+
+<p>I couldn't see his face head-on from where I was, but just by the rough look of his profile, I knew the day had not been easy for him.</p>
+
+<p>But that was probably true for Yuni as well. I didn't know if she had heard about the commotion involving the blond man, but without trying to objectively compare degrees of severity — thinking that tonight couldn't have been entirely pleasant for him, for Yuni, and for me — I felt a pang of regret for the unavoidable chill in the atmosphere.</p>
+
+<p>"Does Manager Han know?"</p>
+
+<p>Yuni asked. He turned back to face forward and took a drag from his cigarette.</p>
+
+<p>"She is opposing it, saying it's too soon. If I go back and talk about the results we achieved this time, her response will change. I'll persuade her one way or another."</p>
+
+<p>"Why the sudden rush?"</p>
+
+<p>"......"</p>
+
+<p>She waited a moment for an opening, but she couldn't get an answer to that question.</p>
+
+<p>"First, you suddenly agree to an interview, and then you throw a party on an excessive scale, even dipping into your personal funds... I thought something was strange. You've never used your personal money for business matters before."</p>
+
+<p>Yuni paused briefly, let out a long, deep breath — <em>haah</em> — and ran her fingers through her hair. The distance from Old Town to the hotel wasn't far. Although the entire city was still shrouded in fog, I could see the destination drawing nearer at the end of the straight road stretching out before us.</p>
+
+<p>"You covered all the expenses — including flights and accommodations — for the representatives from the major New York galleries who were invited, didn't you?"</p>
+
+<p>He rested his right arm on the window frame and pressed his fingers to his temple. Even from the back seat, his inhale as he drew on his cigarette sounded deep.</p>
+
+<p>"It's not that I consciously tried to keep my personal funds and Phantom's funds strictly separate; it's just that I never felt the need to invest it before."</p>
+
+<p>"I've known you for years, Director. Do you really think I'd believe that?"</p>
+
+<p>"......"</p>
+
+<p>He leaned back in his seat and stubbed out his cigarette in the car's ashtray.</p>
+
+<p>"I always knew you weren't from an ordinary family. But... I also know you haven't used your background once since Phantom opened. So why the sudden, massive desire for a branch? Enough to reveal the family background you've kept hidden all this time?"</p>
+
+<p>Yuni's voice sounded more confused than accusatory. His behavior today was baffling even to me, so I could only imagine how she felt after years by his side. It didn't take much imagination to picture it.</p>
+
+<p>Even after the smoke had completely cleared, he still didn't roll up the window, replying in a dry voice.</p>
+
+<p>"I made the decision purely from a business perspective. Shushu's exhibition is a great opportunity, and there's no better publicity than opening the branch while giving Seo Ihyeon's debut show an explosive launch. That's all there is to it. Once I decided, I simply changed course and moved boldly accordingly."</p>
+
+<p>If that was the answer I would receive from him when asking the same question Yuni asked, I probably wouldn't be able to accept it fully.</p>
+
+<p>The complex feelings toward his parents, the skepticism he'd felt among people who linked his every move to his background — it didn't just stop at dissatisfaction with a life vaguely lumped together as "dark"; it seemed to have become part of his foundational beliefs or identity.</p>
+
+<p>His choice not to reveal his background, nor to use it to benefit his business, could not have been meaningless. That was the impression I got from hearing him talk about his family. To borrow the words of Yuni and Juhan from Hong Kong, their thoughts weren't much different either.</p>
+
+<p>Soon, the hotel's outline became clear through the mist. Yuni rubbed her exposed arms and spoke.</p>
+
+<p>"After returning from Hong Kong, you started working from the UN Village villa... and you've been pushing things related to the New York branch from there, right?"</p>
+
+<p>Even Yuni's voice sounded quite weary now. It seemed she had no intention of pressing him further for an answer, at least not here.</p>
+
+<p>"Juhan was right. I can't believe you were really plotting something over there."</p>
+
+<p>Thinking back to a joke Juhan had made one day when the four of them were eating hamburgers on the roof of his house — back when summer was still in full swing — she let out a belated, deflating laugh.</p>
+
+<p>The car stopped in front of the hotel's main entrance. In the dry silence, she was the first to get out.</p>
+
+<p>Glancing at his face as they walked toward the elevator lobby, she saw that he barely reacted to her confusion. He seemed consumed by some other issue, something bigger, though she didn't know what.</p>
+
+<p>It was just the three of us in the elevator at two in the morning.</p>
+
+<p>Yuni, who had to get off on the twelfth floor before us, stood by the door, fiddling with her clutch, and said,</p>
+
+<p>"I know the Director is the owner of Phantom, and that he technically doesn't have an obligation to explain every decision about Phantom to us as they happen. That goes doubly for his private life or family matters. And yet... finding out like this... I can't help but feel disappointed. I'm sorry. No matter how much I pretend, I'm still just a kid."</p>
+
+<p>He stood leaning against the wall opposite the door, looking at Yuni's retreating back and hesitating to speak. He merely swept back his hair and let out a long sigh. The elevator was just moving from the seventh floor to the eighth.</p>
+
+<p>Yuni turned halfway around to face me.</p>
+
+<p>"Did you... know?"</p>
+
+<p>Her gaze held a suspicion that I might have known, but only halfway. Put another way, she wasn't entirely sure.</p>
+
+<p>"Ah... well..."</p>
+
+<p>"Seo Ihyeon only heard about the New York branch this afternoon as well."</p>
+
+<p>While I was debating what the wisest answer would be, he answered for me. Depending on how one heard it, it might sound like he was trying to shield me.</p>
+
+<p>"So, you're saying you already knew that the Director is Nick Liu and Suki Kim's son?"</p>
+
+<p>It was a sharp question from Yuni. That didn't mean it was a malicious question — not like waiting for an opening and immediately plunging a knife in.</p>
+
+<p>"......"</p>
+
+<p>He didn't deny it, and Yuni let out a sigh. Then she reached out and casually placed her hand on my shoulder.</p>
+
+<p>"I wasn't asking because he told you but hid it from us. I'm genuinely curious, so don't make that face."</p>
+
+<p>The doors opened with the calm, automated announcement that we had arrived on the twelfth floor. Yuni offered a strained smile that was worse than no smile at all, then squeezed my shoulder once before her tired gaze fixed on him.</p>
+
+<p>"Thank you for all your hard work today. I'll see you in the lobby tomorrow at ten."</p>
+
+<p>Before he could even finish offering his thanks to Yuni, the door shut.</p>
+
+<p>The less-than-one-minute ride from the twelfth to the sixteenth floor felt suffocating, as if the silence was soundlessly sucking all the air out of the space.</p>
+
+<p>"It looks like we won't be able to spend Sunday together."</p>
+
+<p>Perhaps trying to change the mood, he brought up a completely different topic as we stepped out of the elevator and draped an arm over my shoulder. I could sense a deep exhaustion radiating from him as he pulled my head close and kissed my temple.</p>
+
+<p>Toward the end of the party, he had received an invitation to a Sunday lunch gathering with several key figures, including Chloe Kent. The conversation he'd had with Kent seemed to be developing in a positive direction. Because of that, our lunch plans had to be canceled.</p>
+
+<p>Those were not the things I wanted to ask him or hear from him right now, but it didn't seem like the right time.</p>
+
+<p>"Still, we can spend the evening together..."</p>
+
+<p>I murmured, looping my arm awkwardly around his waist as he opened the front door to the room with the key card. <em>Click.</em> As he pushed the right-hand door of the entryway inward, he gave me a brief smile, as if grateful for my understanding.</p>
+
+<p>In the small hall just past the entrance, where the path split toward his room, the master bedroom, the living room, and my room, he didn't let go of me, instead pulling me straight toward his bedroom.</p>
+
+<p>"Um..."</p>
+
+<p>As I hesitated and tried to pull my arm back, he stopped walking and looked back.</p>
+
+<p>"Should we sleep separately tonight?"</p>
+
+<p>"..."</p>
+
+<p>"It's quite late now... and you have to head out in the morning for the official opening tomorrow."</p>
+
+<p>For a moment, his eyes looked like the screen of a phone that had been dragged across asphalt, leaving a loud, deep scratch.</p>
+
+<p>He let go of my hand and his fingertips absently traced the edge of the decorative cabinet holding the flower vase, the lamp, and the telephone. It was as if he were checking whether everything had been properly cleaned.</p>
+
+<p>"Are you genuinely worried about me? Or are you indirectly expressing that you want to sleep separately?"</p>
+
+<p>"..."</p>
+
+<p>I knew he regretted his words even before he finished speaking them. He clamped his mouth shut, let out a heavy breath through his nose, and ran a hand over his face as if trying to smooth it out.</p>
+
+<p>"I'm sorry. That last comment was just a stupid outburst. I'm sorry... I think I'm just on edge because so much happened today... So, let's just sleep separately tonight, as you suggested."</p>
+
+<p>Just like Yuni, he also forced a smile. <em>Thank you for enduring such a hard day well. Sleep well.</em> He gave me a careful goodnight kiss, but I couldn't sleep properly. He was probably the same. <em>If I'd known it would be like this, I should have just slept together, tracing each other's bare skin and body heat to soothe the fatigue and anxiety.</em> I tossed and turned for a long time, regretting it.</p>

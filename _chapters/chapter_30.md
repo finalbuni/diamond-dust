@@ -4,8 +4,10 @@ volume: "Side Story I"
 chapter_number: 30
 chapter_id: "S1.2"
 title: "Side by Side"
+permalink: /chapters/chapter-30/
+excerpt_separator: "<!-- section-excerpt-end -->"
 ---
-
+<div id="section-1" class="hybrid-section" data-section="1">
 <!-- Chapter 30 — Side by Side -->
 
 <p>Someone is blowing a bubble of gum.</p>
@@ -187,9 +189,9 @@ title: "Side by Side"
 <p>As if waiting for the right moment, a visitor cautiously approached and asked Shushu if they could take a picture together. Shushu readily agreed. To avoid interrupting them, Liu exchanged a farewell with only a nod.</p>
 
 <p>He walked out of Phantom holding the iced coffee that Juhan had transferred into a takeout cup. The sky above was clean, like an empty canvas. Liu put on the sunglasses he had tucked into his left breast pocket and got into the driver's seat. They were the same brand he had once gifted to Ihyeon.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-2" class="hybrid-section" data-section="2">
 <p>The two men stood just outside the center of the cascade pouring from the rain shower faucet. White foam slid down their bare skin. The abundant stream of water — falling with strong pressure like a waterfall, designed for its massage effect — continuously washed over Ihyeon's left shoulder as he stood facing the wall with his back to Liu.</p>
 
 <p>Liu kissed the nape of Ihyeon's neck and his shoulders, gently scrubbing his back with a sponge squeezed full of lather. The water running down from his left shoulder along the curve of his back washed the foam away the moment it touched Ihyeon's skin.</p>
@@ -581,9 +583,9 @@ title: "Side by Side"
 <p>Liu found it almost absurd that he was only now — well past thirty — thinking this. His life as an Alpha had been lived in complete ignorance of what that actually meant, rendering even the title of Golden Alpha hollow. He had believed, rigidly, that suppression and concealment were the only way. Those beliefs might never have broken open if he had not met Ihyeon.</p>
 
 <p>Liu felt a fresh, boundless affection for the presence in his arms. Like the sea's endless longing for the shore — throwing itself onto the beach over and over, breaking apart, being absorbed — he knew his love for Ihyeon would never run dry. Pressing his lips against the bare shoulder before him, Liu spoke his love without a sound.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-3" class="hybrid-section" data-section="3">
 <p>When he opened his eyes, his vision was blurrier than usual.</p>
 
 <p>Liu recognized that the hazy, unfamiliar sensation was the aftermath of last night's Changing, so he closed his eyes again and reached his arm toward the space beside him. But nothing met his hand.</p>
@@ -751,4 +753,5 @@ title: "Side by Side"
 
 <p>End of the <em>Diamond Dust</em> side story I.</p>
 
+</div>
 </div>

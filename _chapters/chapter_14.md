@@ -5,8 +5,10 @@ chapter_number: 14
 chapter_id: "V3.2"
 title: "An Impossible Being"
 korean_title: "있을 수 없는 존재"
+permalink: /chapters/chapter-14/
+excerpt_separator: "<!-- section-excerpt-end -->"
 ---
-
+<div id="section-1" class="hybrid-section" data-section="1">
 <!-- Chapter 14 — An Impossible Being -->
 
 <p><em>GHOST</em></p>
@@ -234,3 +236,4 @@ korean_title: "있을 수 없는 존재"
 <p>He couldn't be certain about anything anymore. Not even about his own existence.</p>
 
 <p>He felt that if he stood before a mirror, he might not find himself inside it at all. There was no denying what that was.</p>
+</div>

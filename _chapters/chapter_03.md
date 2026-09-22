@@ -5,8 +5,10 @@ chapter_number: 3
 chapter_id: "V1.3"
 title: "Parting"
 korean_title: "분리"
+permalink: /chapters/chapter-03/
+excerpt_separator: "<!-- section-excerpt-end -->"
 ---
-
+<div id="section-1" class="hybrid-section" data-section="1">
 <!-- Chapter 3 — Parting -->
 
 <p>Kwon Juhan. 22 years old at the time.</p>
@@ -162,9 +164,9 @@ korean_title: "분리"
 <p>Juhan shouted as he followed. When she opened the door, the cold winter air rushed in as if it had been waiting.</p>
 
 <p>"Do you think that counts as revenge? An eye for an eye. If you're going to be socially destroyed, you repay it with social destruction."</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-2" class="hybrid-section" data-section="2">
 <p>Being in Hongdae didn't guarantee good business. Even on a Saturday evening, there were only two or three tables of customers inside the bar. The table closest to the entrance seemed to be occupied by the owner's acquaintances.</p>
 
 <p>The interior wasn't particularly stylish, but it had a comfortable and distinctive atmosphere. The music was well curated at a moderate volume, and the drinks were inexpensive — and yet, Juhan hyung and Yuni nuna explained, the place didn't get many customers. It simply didn't photograph well.</p>
@@ -330,9 +332,9 @@ korean_title: "분리"
 <p>That day, I drank three glasses of beer for the first time. After hearing about everything they'd each been through, both of them felt closer and more comfortable than before — and something restless in me kept pushing the glass back to my lips faster than usual.</p>
 
 <p>On the stairs leading home, I had to stop twice to rest. Sitting there and looking out at the Seoul night view, I no longer saw the squid fishing boats I used to picture from the harbor.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-3" class="hybrid-section" data-section="3">
 <p>Almond cereal, a one-liter carton of milk, a pack of plain yogurt, and finally cranberry juice — I placed them into the basket and was heading toward the register when I noticed the Korean melons were already out.</p>
 
 <p>You could eat watermelon in the dead of winter and tangerines in the height of summer, but the melons sitting on the green nonwoven fabric-covered stand were, despite being brought out a little early, undeniably seasonal fruit.</p>
@@ -620,9 +622,9 @@ korean_title: "분리"
 <p>I bowed slightly, grabbed my bag, and got out of the car. As I climbed the stairs, I wanted to look back several times — but each time, I gripped the strap of my bag more tightly and stopped myself.</p>
 
 <p>If I couldn't leave a mark on him, I at least wanted to rattle him. He was a rock as hard as a diamond — and even if all I'd thrown was a raw egg, it still landed.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-4" class="hybrid-section" data-section="4">
 <p>"What are you drawing?"</p>
 
 <p>I stopped the hand that had been scribbling lines across the notebook Morae nuna had torn open for me — using a cheap three-color ballpoint pen — red, blue, and black all in one barrel — and looked up. She smiled down at me.</p>
@@ -814,3 +816,4 @@ korean_title: "분리"
 <p>The rooftop room and "What Happened in Bali" were both close enough that I could visit anytime I wanted — but from now on, they would be places I had to make a conscious decision to go to.</p>
 
 <p>As I boarded the bus and watched the scenery recede, I felt something strange in the knowledge that I was moving somewhere alone, separated from Morae nuna and Yeehan hyung. It didn't feel like moving at all. It felt like setting off on a trip. A very long one.</p>
+</div>

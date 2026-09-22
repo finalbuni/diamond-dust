@@ -5,8 +5,10 @@ chapter_number: 13
 chapter_id: "V3.1"
 title: "Craving for Change"
 korean_title: "변화에 대한 갈구"
+permalink: /chapters/chapter-13/
+excerpt_separator: "<!-- section-excerpt-end -->"
 ---
-
+<div id="section-1" class="hybrid-section" data-section="1">
 <!-- Chapter 13 — A Craving for Change -->
 
 <p>I don't know why I came here.</p>
@@ -456,9 +458,9 @@ korean_title: "변화에 대한 갈구"
 <p>Having said that, he didn't say any more about it.</p>
 
 <p>"I think I understand." That was an unexpected response.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-2" class="hybrid-section" data-section="2">
 <p>The raindrops hammered against the windowpane with a sharp intensity, driven by the strong wind. Intermittently, it sounded as if someone were throwing handfuls of sand against the glass with all their might. The rain seemed ready to burst through the thick soundproof windows and flood the room.</p>
 
 <p>However, the reason I couldn't sleep wasn't the eerie sound of the rain or the unfamiliar bed. I probably wouldn't have been able to sleep tonight no matter where I lay down.</p>
@@ -1358,9 +1360,9 @@ korean_title: "변화에 대한 갈구"
 <p>Unlike last time, when he had awkwardly stopped things after ejaculating with knotting and frantically tried to scrape the semen out of me, this time he changed positions and came inside me one more time.</p>
 
 <p>It felt as if my entire body was reeking of his scent, not mine — not just the interior of my inner walls, which had been thoroughly slicked with his semen three times — but everywhere. Something had definitely changed.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-3" class="hybrid-section" data-section="3">
 <p>The small table next to the single-person sofa, which held a vase with a few simple flowers and a couple of books, was actually a small wooden refrigerator. He retrieved a bottle of water from it and gently lifted my shoulders, as I was too limp to even bother covering myself.</p>
 
 <p>"Drink some water."</p>
@@ -1868,3 +1870,4 @@ korean_title: "변화에 대한 갈구"
 <p>It was hard to believe that just a few hours ago, I had been trembling with such intense fear the moment I saw my uncle standing at the front gate. If he said everything was fine, I felt like it really would be fine.</p>
 
 <p>Perhaps that was an ability as formidable as actually resolving the issue. Thinking that, I closed my eyes, which were growing heavy.</p>
+</div>

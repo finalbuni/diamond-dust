@@ -1,0 +1,180 @@
+---
+layout: chapter
+volume: "Side Story I"
+chapter_number: 30
+chapter_id: "S1.2"
+title: "Side by Side"
+hybrid_short: true
+section_number: 3
+section_count: 3
+permalink: /sections/chapter-30/3/
+excerpt_separator: "<!-- section-excerpt-end -->"
+---
+<p>When he opened his eyes, his vision was blurrier than usual.</p>
+
+<p>Liu recognized that the hazy, unfamiliar sensation was the aftermath of last night's Changing, so he closed his eyes again and reached his arm toward the space beside him. But nothing met his hand.</p>
+
+<p>Liu sat up. His bare skin, exposed outside the sheets, felt cool from the air conditioning running on sleep mode.</p>
+
+<p>He had wanted to linger in bed a while longer, caressing Ihyeon's warm body, but he scrubbed his face several times to shake off the sleep. Then, with a dissatisfied look, he rested his chin on his hand and stared at the empty space beside him.</p>
+
+<p>"......"</p>
+
+<p>As if the occupant hadn't been gone long, a single sheet of paper lay on the pillow, which hadn't yet fully regained its shape. It was a page torn from a painting notebook.</p>
+
+{% capture note %}
+<p>I'll be in the garden.</p>
+<p>While I was watching your sleeping face,</p>
+<p>you were so handsome I had to draw you.</p>
+<p>Isn't this better than <em>Mr. Rabbit</em>?</p>
+{% endcapture %}
+
+{% include sticky-note.html content=note %}
+
+<p>When Liu flipped over the note — which seemed to have been deliberately written large with a permanent marker to accommodate his eyesight — the back displayed a croquis sketch of Liu himself, captured with bold, confident lines emphasizing his features.</p>
+
+<p>The emptiness in his chest vanished. He got out of bed with a quiet chuckle. His plan was to make up for having their morning stolen by smothering Ihyeon with hugs and kisses.</p>
+
+<p>After a quick rinse in the shower, he headed straight downstairs. The front door, visible directly from the staircase, was wide open. Unlike the air-conditioned bedroom, the air drifting in from outside was already humid, even at this hour of the morning.</p>
+
+<p>"Hmm..."</p>
+
+<p>The desk clock he had checked before going to the bathroom showed it was well past eleven — late by any measure to still be calling it morning. Then again, he had good reason for sleeping in. Recalling the special intimacy that had lasted until dawn, Liu swept his uncombed hair back and chuckled once more.</p>
+
+<p>Just as expected, Ihyeon was in the garden, watering the plants.</p>
+
+<p>Postponing his plan to punish Ihyeon with kisses for a moment, Liu leaned against the doorframe of the front entrance.</p>
+
+<p>For a while after Ihyeon left, the garden had fallen into neglect. Then it had become unbearable to watch the space he had watered and tended fall into disarray. Liu had periodically watered it himself and even trimmed the branches with pruning shears, but it had never looked as vibrant as when Ihyeon took care of it.</p>
+
+<p>Watching Ihyeon's back — more focused on creating rainbows with the water gun than on actually watering — Liu realized the problem was never purely a matter of gardening skill. Perhaps he had known it, somewhere underneath, even back then. He had simply buried that thought, because examining every single reason why would have made it impossible to endure.</p>
+
+<p>It was early summer, before the real heat had fully settled in. The plump, green leaves and Ihyeon's silhouette arcing rainbows with the water gun. They were about ten meters apart, so every outline was hazily blurred, but the freshness emanating from him was as sharp and clear as a line drawn with a permanent marker.</p>
+
+<p>He remembered standing right here, watching this exact scene, sometime before he had been forced to let Ihyeon go. Back then, Liu had not been able to smile looking at Ihyeon's back. That was what made this moment feel even more precious.</p>
+
+<p>It was a scene he could have gazed upon forever.</p>
+
+<p>He walked into that scene. It was dazzling, but he didn't want to put on sunglasses. That felt like a kind of privilege. Lowering his footsteps as he approached, Liu hugged Ihyeon's bare torso from behind, holding on tight.</p>
+
+<p>"Was I ugly while I was sleeping? Next time, draw me while I'm awake. I'm sure I can do better than Kwon Juhan."</p>
+
+<p>Ihyeon laughed and stroked Liu's arm.</p>
+
+<p>"Did you sleep well?"</p>
+
+<p>"Mm. I slept well, thanks to working out in bed until dawn... but it was lonely waking up without Seo Ihyeon next to me."</p>
+
+<p>Liu's voice, which had been chattering while he held Ihyeon with his chin resting on his shoulder, suddenly cut off. In the garden, the only sound was the water arching up and falling onto the grass.</p>
+
+<p>"Ihyeon-ah..."</p>
+
+<p>His voice trembled around the name. If he didn't say it, he felt like he might suffocate from the scent that had instantly filled his lungs. No — that was an illusion. Ihyeon wasn't releasing any pheromones.</p>
+
+<p>Ihyeon turned off the water gun and turned to face him. A few residual drops fell from the nozzle before it went still.</p>
+
+<p>"I'm sorry I couldn't tell you my decision clearly — the way Awi did."</p>
+
+<p>Liu knew Ihyeon worried about his own awkwardness when it came to expressing affection. But contrary to that worry, Liu had never considered it a flaw. Whispering love at every moment didn't make it deeper. And besides, when it came to the things that truly mattered — the things that needed to be said clearly — Ihyeon had never stayed silent or vague.</p>
+
+<p>On a snow-covered street in Paris one night, Ihyeon had clearly told him not to go. When Liu had come with his father's painting, Ihyeon had told him directly how unbearable it would have been to face that painting alone, and how grateful he was that Liu had stayed.</p>
+
+<p>Above all, Ihyeon had forgiven him and accepted him again. There could be no greater love than that.</p>
+
+<p>"But if I can be a little greedy... this ring itself is my heart, my love. I hope it reaches Awi."</p>
+
+<p>Liu forced a smile onto his frozen expression and lightly tapped Ihyeon's cheek.</p>
+
+<p>"See? You make sure to say what needs to be said clearly."</p>
+
+<p>"......"</p>
+
+<p>Ihyeon tilted his head, his expression asking what Liu meant.</p>
+
+<p>"It means Seo Ihyeon is perfectly fine exactly as he is now. There's nothing that needs to change."</p>
+
+<p>"That doesn't seem quite right..."</p>
+
+<p>Even after already giving what had seemed like the greatest love possible — a love that seemed impossible to surpass — Ihyeon was giving something even bigger. Not wanting to show tears, Liu turned Ihyeon around and hugged him from behind again. As Liu smiled and pressed his lips to the crown of Ihyeon's head, Ihyeon asked,</p>
+
+<p>"Why are you smiling?"</p>
+
+<p>"It reminded me of something that happened at our restaurant a long time ago."</p>
+
+<p>"Ah..."</p>
+
+<p>Ihyeon, who understood from just that small hint, laughed along with him.</p>
+
+<p>In early spring, when new buds were beginning to sprout in Buttes-Chaumont Park where they had walked, the two of them had dinner at the restaurant in the hotel where Liu had proposed. It was to celebrate Ihyeon's birthday. Since it was lunchtime, bright light poured in through the restaurant's greenhouse-like ceiling.</p>
+
+<p>The next table appeared to be holding a business lunch that doubled as a meeting. Liu hadn't paid much attention at first, since the tables weren't particularly close together, but it began to feel as though one of the men kept stealing glances in their direction.</p>
+
+<p>Whether it was his imagination or not, when the man's companions briefly excused themselves, he approached Liu with an almost solemn formality.</p>
+
+<p>He explained that he had been searching for the ideal wedding ring for several weeks. The wedding was less than a month away, but his partner was apparently unwilling to compromise on the ring.</p>
+
+<p>The man's earnest gaze dropped to Liu's left hand, and he asked, very carefully, whether Liu might tell him the brand and model of the ring.</p>
+
+<p>Liu and Ihyeon glanced at each other. The man seemed to take Liu's pause as awkwardness.</p>
+
+<p>He apologized repeatedly, acknowledging that it was entirely inappropriate to ask about someone else's wedding ring — but explained that he was so desperate he had committed the rudeness anyway.</p>
+
+<p>"No, it's not really like that..."</p>
+
+<p>They had had a few episodes involving rings before, but nothing quite like this.</p>
+
+<p>Liu let his words trail off, gently took Ihyeon's left hand where it rested on the table, and asked,</p>
+
+<p>"What do you think? Is it okay if I tell him?"</p>
+
+<p>The man couldn't hide his shock, openly glancing back and forth between Liu's hand and Ihyeon's. It must have been an involuntary reaction born of sheer surprise. Since only one of them was wearing a ring, it hadn't been unreasonable to assume that the person seated across — Ihyeon — wasn't Liu's partner. It was understandable.</p>
+
+<p>"I wonder if that person managed to get the ring safely."</p>
+
+<p>"Hmm, I don't know."</p>
+
+<p>Liu answered absently, rubbing his lips against the crown of Ihyeon's head. He had brought up the old memory to have something to smile at, so he wouldn't show tears — but coherent thought wasn't quite possible.</p>
+
+<p>Ihyeon, who had been leaning his back against Liu's chest and gazing up at the oak tree, wondering what Liu was thinking about so intently, finally spoke quietly.</p>
+
+<p>"The diary... did Awi read all the way to the end?"</p>
+
+<p>Liu answered after a brief pause.</p>
+
+<p>"Back then, I had to grasp at any straw I could find. I reread it several times, hoping there might be some clue that could reverse what had happened. Though there was no antidote for what I was looking for."</p>
+
+<p>"Did that person and Erich meet in Florence?"</p>
+
+<p>"......"</p>
+
+<p>Liu swept Ihyeon's bangs back with his left hand. Then, pressing his forehead gently to tilt Ihyeon's head back, he gave him a quick, sealing kiss.</p>
+
+<p>"Well..."</p>
+
+<p>Ihyeon straightened up, lightly nudged Liu's side with his elbow, and turned around. His face was full of smiles.</p>
+
+<p>"Is 'well' the answer to every question?"</p>
+
+<p>"Ask me if I love you."</p>
+
+<p>Liu puffed out his chest with a confident expression. Ihyeon shrugged as if in disbelief and laughed.</p>
+
+<p>The someone who had planted the identity of "Ghost" — an identity he had never wanted — onto him had, mockingly, hidden Didi somewhere in this vast universe. There had been a time when Liu stayed alone in this house, resenting that person just as much as he resented himself. But if Ihyeon had forgiven him, then he too had to find some tolerance toward that person.</p>
+
+<p>Ihyeon suddenly moved close. They were close enough for his face to be completely clear.</p>
+
+<p>"Kun."</p>
+
+<p>"Yeah?"</p>
+
+<p>"I love you."</p>
+
+<p>"......"</p>
+
+<p>Liu stood there, hands hanging limply at his sides. As if a little embarrassed, Ihyeon tilted his head and smiled. A sweet ache spread from the place in his chest where Ihyeon had struck. It was a sight he could have gazed upon forever and still never been satisfied.</p>
+
+<div class="volume-end">
+
+<p>End of the <em>Diamond Dust</em> side story I.</p>
+
+</div>

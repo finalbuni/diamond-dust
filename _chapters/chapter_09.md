@@ -5,8 +5,10 @@ chapter_number: 9
 chapter_id: "V2.3"
 title: "Take Off"
 korean_title: "Take Off"
+permalink: /chapters/chapter-09/
+excerpt_separator: "<!-- section-excerpt-end -->"
 ---
-
+<div id="section-1" class="hybrid-section" data-section="1">
 <!-- Chapter 9 — Take Off -->
 
 <p class="sub-chapter"><strong>· The Old Future ·</strong></p>
@@ -42,9 +44,9 @@ korean_title: "Take Off"
 <p>"I'm heading out. Make sure you eat."</p>
 
 <p>I left him behind — his jumper dropped on the floor, himself already crawling back under the covers. Outside, the air was chilly enough that I had to pull my coat collar up tighter, yet breathing felt just as suffocating as inhaling through a 40-degree heatwave.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-2" class="hybrid-section" data-section="2">
 <p>The moment I opened the front door and stepped inside, the boy came running with his sketchbook and practice notebook — a week's worth of sketches and color studies.</p>
 
 <p>Thanks to his parents — an oil painter and a cartoonist — the house overflowed with art supplies of every kind, and the boy had developed an exceptional instinct for choosing whichever medium best suited the feeling he wanted to express and using it effectively. His work — featuring crayons, poster paint, acrylics, oil paint, markers, colored pencils, even ballpoint pens — showed astonishing growth week after week.</p>
@@ -164,9 +166,9 @@ korean_title: "Take Off"
 <p>About three months after that, my husband and I left for Hong Kong. I believing only in his talent, he believing only in my passion. Just like our marriage, we defied everyone's opposition and ventured into an unknown world with no connections. Fearlessly.</p>
 
 <p>Those were the days when it seemed like everything would go well — when passion and drive alone felt like they could light the way.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-3" class="hybrid-section" data-section="3">
 <p>Manager Han lightly shook the can in her hand. Throughout her story, her gaze had remained fixed on the river before her. Perhaps she was layering the past over the flowing water.</p>
 
 <p>"It didn't work out in Hong Kong either, in the end. I got a job at a gallery and worked day and night. He seemed stimulated at first — I thought his creative drive might return — but before long he started to wander again... We ended up forcing ourselves onto each other... until we were both worn ragged, and only then did we decide to go our separate ways. He returned to Korea, and I stayed in Hong Kong."</p>
@@ -252,9 +254,9 @@ korean_title: "Take Off"
 <p>As I listened to Manager Han, what pressed in around my chest and demanded I make some kind of decision wasn't, strangely enough, painting. It was something bigger, something that included painting. A concept that hadn't quite landed yet — but if I had to put it into words, something like... life.</p>
 
 <p>Manager Han's last words settled heavily in my chest — like a steady, undeniable, solemn warning, like a boulder slowly sinking to the bottom of a flowing river and remaining there, unmoving. <em>Before it's too late.</em></p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-4" class="hybrid-section" data-section="4">
 <p>Spicy seasoned stingray, glossy springy pig's trotters, tuna kimbap, and potato pancakes. Not exactly a harmonious spread, but more than enough for a long-awaited lavish meal shared among the three of us. A meal accompanied by drinks.</p>
 
 <p>Yuni nuna and Juhan hyung often joked that a love of money and alcohol was the common trait among Phantom members. Even if getting drunk wasn't strictly necessary, I had to admit that adding drinks to a conversation made it a lot easier to get started.</p>
@@ -332,9 +334,9 @@ korean_title: "Take Off"
 <p>Morae and Yeehan's eyes went wide. They showed a far stronger reaction to the possibility of me painting again than to my suggestion that they go to Bali.</p>
 
 <p>I hadn't settled anything definite about painting yet. But even if I didn't end up painting, I was firm in my decision that I would no longer keep the two of them tied to this place under the name Seo Ihyeon. On that point alone, my mind was clear. My first step would start right there.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-5" class="hybrid-section" data-section="5">
 <p>My saying I might paint again made the two of them happier than I expected — but even so, they showed complicated reactions, still reluctant to leave me behind.</p>
 
 <p>I explained everything in detail so they could be reassured: encountering <em>Alienation</em> at the Director's house, his suggestion that I try painting again after learning I was the artist, and even the proposal for a Hong Kong business trip. But I left out the part about the panic attack and where I slept that night afterward.</p>
@@ -422,3 +424,4 @@ korean_title: "Take Off"
 <p>He spoke with strong conviction, yet his tone was gentle.</p>
 
 <p>I had never wished for anything more than for his words to come true.</p>
+</div>

@@ -5,8 +5,10 @@ chapter_number: 19
 chapter_id: "V4.3"
 title: "Worry"
 korean_title: "걱정"
+permalink: /chapters/chapter-19/
+excerpt_separator: "<!-- section-excerpt-end -->"
 ---
-
+<div id="section-1" class="hybrid-section" data-section="1">
 <!-- Chapter 19 — Worry -->
 
 <p>There was no trace of the awkwardness from the first day in Juhan's pose or expression.</p>
@@ -608,9 +610,9 @@ korean_title: "걱정"
 <p><em>It might be a dream.</em> I thought this even as I shifted, rubbing my forehead against the nape of his neck to find the most comfortable position.</p>
 
 <p>But now, I didn't care if it was a dream. Because even if this was a dream, someone who could give me this much affection and security was waiting for me in the real world. The arm wrapped around my back held me gently. A pair of lips touched the crown of my head. <em>Sleep well.</em> As if I had been waiting for precisely those words, my consciousness sank deeply beneath the surface of sleep after the low whisper.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-2" class="hybrid-section" data-section="2">
 <p>Waking up after a deep, motionless sleep always felt abrupt. As if I had been suddenly pushed from one world into another in an instant, I always needed a moment after waking to gather my thoughts about where I was.</p>
 
 <p>"Did you sleep well?"</p>
@@ -730,9 +732,9 @@ korean_title: "걱정"
 <p>"I'll get breakfast ready, so would you mind taking care of the garden in the meantime?"</p>
 
 <p>Truly, this was a start to a day that placed an immense strain on my heart.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-3" class="hybrid-section" data-section="3">
 <p>I want to remember the heat of August — a month that flowed more slowly and lazily than any other, yet left behind clearer imprints than any other — like an ice pop melting into sticky sweetness.</p>
 
 <p>I want to remember the August sun blazing down on the garden. The parabolic arc of a rainbow cast over the water spraying from the aqua gun connected to the hose. The cry of the cicadas clinging to the oak tree, seeming to symbolize summer itself. The awareness of being alive that came from the tiny beads of sweat beginning to seep out onto my skin after I took off my t-shirt.</p>
@@ -826,3 +828,4 @@ korean_title: "걱정"
 <p>I wanted to remember every detail — the heat of August, the sensation of his kiss painting new feelings onto my lips and tongue that I hadn't known before, and the sweet, sour, hot — and sometimes startlingly unfamiliar — taste of those summer days as my first feelings for another person carefully ripened.</p>
 
 <p>About the first infatuation they say becomes the benchmark for all subsequent relationships in a person's history, and the object of that infatuation, whom I could never forget — Liu Weikun.</p>
+</div>

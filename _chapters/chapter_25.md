@@ -5,8 +5,10 @@ chapter_number: 25
 chapter_id: "V6.1"
 title: "Pull Out"
 korean_title: "Pull Out"
+permalink: /chapters/chapter-25/
+excerpt_separator: "<!-- section-excerpt-end -->"
 ---
-
+<div id="section-1" class="hybrid-section" data-section="1">
 <!-- Chapter 25 — Pull Out -->
 
 <p>A barricade stood before the entrance to the building, along with a sign announcing the end of viewing hours, yet the massive main door, though closed, was not locked. Ihyeon pushed it open with almost his entire body — it felt heavier than he remembered — and stepped inside.</p>
@@ -646,9 +648,9 @@ korean_title: "Pull Out"
 <p>"Who said that? Who said I lost Seo Ihyeon?"</p>
 
 <p>Saying that with an impassive face, Liu shook off Inwu's hand and walked out through the entrance without delay. Contrary to the words themselves, his voice was hollow, like an empty shell stripped of its core, carrying no conviction at all.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-2" class="hybrid-section" data-section="2">
 <p>Seo Yeehan — Hani, as he was sometimes called — used to say it like a personal mantra: that even if he didn't want to be a fisherman, he could never give up a piece of fresh sashimi eaten right there on the boat with a glass of soju.</p>
 
 <p>Anyone who had tasted that would have to agree, but for Ihyeon, something even more special was a cup of instant coffee drunk while standing at the bow of a returning fishing boat, watching the distant harbor shimmer as it slowly drew closer. Focusing on the bittersweet warmth spreading through his labor-weary body and the heat seeping through the paper cup, the weight of everything waiting on land felt a little lighter. For just a moment, he even thought that a life without resistance — simply swaying with the waves — might not be so bad. Like his grandfather and his uncle.</p>
@@ -810,9 +812,9 @@ korean_title: "Pull Out"
 <p>There was something almost absurd about confiding his most desperate need for forgiveness to the very person he could least forgive — the one he had walled off with the sturdiest silence he possessed. But this time, he couldn't even manage a sneer.</p>
 
 <p>Ihyeon closed his eyes beside his unresponsive father. Because he had tilted his head back, tears slid down from the corners of his eyes toward his temples and ears. The tears that had burned hot at the corners of his eyes had already gone cold by the time they reached his ears.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-3" class="hybrid-section" data-section="3">
 <p>The fifty-something model, who had retired from the stage eight years ago and was now active as a choreographer and professor, moved with such grace that she could easily be mistaken for a dancer still in her prime.</p>
 
 <p>On the studio's roughly thirty-square-meter backdrop, she drew lines and placed points in three-dimensional space, tracing ascent and descent, elation and despair — with nothing but her own body, without the aid of a single prop or tool.</p>
@@ -1096,9 +1098,9 @@ korean_title: "Pull Out"
 <p>"......"</p>
 
 <p>Instead of answering, Liu crushed the cigarette — still long, barely smoked — shrugged his shoulders, and offered a smile that was worse than crying. That was all.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-4" class="hybrid-section" data-section="4">
 <p>The clouds hung low and the wind was fierce, as if rain could pour down at any moment. As was usual on days when fishing was called off, his grandfather and uncle had already gone out separately to find someone to share soju with. Since both of them tended to come home late on days like this, his aunt had also taken the chance to visit the neighbors, leaving only Ihyeon and his father at home.</p>
 
 <p>Ihyeon spent the day sketching. This was already his third drawing notebook since arriving here. Though it was something he had once abandoned to protect himself, he was now clinging to it even more fiercely.</p>
@@ -1542,9 +1544,9 @@ korean_title: "Pull Out"
 <p>If one kept calling the past into the present instead of burying it, perhaps someday the past could be reborn with a different shape and meaning. Perhaps a moment would come when the wound transformed into something that defined him. But for now, not even that hope could thin the pain.</p>
 
 <p>He wanted to throw everything aside, run to the door, pull it open, and chase after him — he might still be at the gate, or not far beyond it — and just hold him. The sound of the rain took a long, long time to slowly subside.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-5" class="hybrid-section" data-section="5">
 <p>The two held hands tightly, their fingers interlocked. Their shoulders were pressed together without any gap between them. They didn't seem to be talking about anything particularly significant, yet enthusiastic reactions followed every word the other spoke. Even as he slipped his phone into the front pocket of his bag, the man never let go of the hand he was holding. It was mid-October, but a summer hat woven from raffia rested on each of their laps.</p>
 
 <p>A couple at the peak of happiness. They looked like newlyweds heading off to a warm resort for their honeymoon.</p>
@@ -1588,9 +1590,9 @@ korean_title: "Pull Out"
 <p>He felt as if someone were watching him from somewhere — wearing the sunglasses Liu always kept tucked in his chest pocket. Even if that were true, he had no desire to find him and confirm it. And even if it wasn't literally true, it felt no different from being watched by him.</p>
 
 <p>The flight to Charles de Gaulle Airport, with layovers in Shanghai and Amsterdam, would take well over twenty-five hours. The economy seat was cramped and hard, but Ihyeon could feel neither boredom nor discomfort. With his left shoulder given over to the sleeping Yuni, inside the darkened cabin, he thought of only one thing.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-6" class="hybrid-section" data-section="6">
 <p>"I just took one last look around the exhibition hall. The layout was good."</p>
 
 <p>"The gallery has been operating for years — what's so surprising about it now?"</p>
@@ -1630,3 +1632,4 @@ korean_title: "Pull Out"
 <p>Liu let his arms hang loosely at his sides and looked around in a kind of bewilderment, like someone suddenly relieved of everything they had been holding. Then, sweeping his bangs back, he walked over to the bar cart beside the sofa and poured whiskey into a glass, about halfway up. He sank onto the sofa and swiveled the high-backed armchair to face him.</p>
 
 <p>He let the whiskey, neat, slide down his throat, and gazed for a long time into the darkness at the single painting hung on the wall directly across from the bed.</p>
+</div>

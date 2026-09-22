@@ -1,0 +1,66 @@
+---
+layout: chapter
+volume: "Volume 6"
+chapter_number: 26
+chapter_id: "V6.2"
+title: "Price of Silence"
+korean_title: "침묵의 대가"
+hybrid_short: true
+section_number: 7
+section_count: 10
+permalink: /sections/chapter-26/7/
+excerpt_separator: "<!-- section-excerpt-end -->"
+---
+<p>Ihyeon straightened his back and slowly turned toward the window.</p>
+
+<p>Although evening was approaching, the sky outside remained as bright and blue as midday. Yet, whether it was his mood or simply the angle of the setting sun, a shadow seemed to have fallen over the room, regardless of the light outside.</p>
+
+<p>He set down the bundle of papers in his hand and got off the bed. He walked to the small sink in the corner across from the bed, poured himself a glass of tap water, and drank it. Then, as if that wasn't enough, he began to wash his face.</p>
+
+<p>Even splashing cold water over his face several times did little to restore his sense of reality. Everything before his eyes felt at once familiar and strange, like someone who had been held captive for a long time and had only just found their way home.</p>
+
+<p>Without bothering to dry his face, he stumbled backward like a dazed person and leaned against the sink. The contents he had pulled from the box — which he had eagerly torn open the moment he returned to his room — lay scattered across the bed.</p>
+
+<p>What Marcus had sent were a long, handwritten letter; a diary in the most worn condition Ihyeon had ever seen; and a bundle of typed pages transcribing the diary's contents, though portions were smudged or molded to the point of illegibility.</p>
+
+<p>Nearly half the pages still remained, but he couldn't bring himself to read any further.</p>
+
+<p>Ihyeon swallowed dryly and slowly dragged his hands over his wet face. As Ben had said, the room was stifling — yet goosebumps rose along his skin. The silence around him was unsettlingly deep. As if the room had been submerged underwater, the familiar background noise he usually took for granted was entirely blocked out.</p>
+
+<p>As if grateful to have something to do with his hands, Ihyeon walked over to the desk by the window and took out a cigarette and a lighter. The same brand Liu smoked. He had bought them sometime around the beginning of spring and the pack was about half full. They tasted stale and dry, but he wasn't smoking for enjoyment.</p>
+
+<p>Knowing that someone was watching him did nothing to ease the pain of longing.</p>
+
+<p>He started his days early, divided his work between morning and afternoon sessions, studied English and French, and occasionally helped out with office tasks. His colleagues at 'The Hands' would tease him half-admiringly, saying he seemed less like an artist and more like a disciplined office worker or civil servant — so composed he appeared immune to turmoil. But the reality was different.</p>
+
+<p>He was not okay. He was not at peace.</p>
+
+<p>"When things are hard — mentally or physically — it's best to keep your usual routine as much as you can."</p>
+
+<p>He was simply enduring the pain by holding his routine together, by not letting it crack, by refusing to give the shadowy things inside him any opening to crawl through.</p>
+
+<p>The reason Nicholas couldn't tell his father he had manifested as an Omega. The reason the diary's owner couldn't bring himself to speak openly to Erich about the pheromones he sensed from him. The reason Liu couldn't reveal his true identity. Though the forms were slightly different, the underlying foundation of each concealment was essentially the same.</p>
+
+<p>He understood now that his own passivity — not holding Alphas and Omegas in contempt, but failing to seek understanding or knowledge of them as fellow members of society — had itself been a form of Beta-centric thinking.</p>
+
+<p>Ihyeon leaned against the open window and exhaled smoke slowly, his breath carrying a faint tremor. Before he could finish his third drag, tears slid down his cheeks. He didn't try to hold them back.</p>
+
+<p>He had held back for so long. He wanted to say he missed him. He wanted to say he still loved him. He wanted to abandon everything here, return to Seoul, and hold him. He wanted to feel his own lips pressing hard against that lower lip — the one Liu always drew between his teeth.</p>
+
+<p>He had wanted him inside him, had longed to feel the sensation of knotting, and had wanted to see him come undone with pleasure as an Alpha — because of him.</p>
+
+<p>The intensity of his desire for him wasn't solely a product of Erich's pheromones, which only the diary's owner could sense, or of his own pheromones, which only Liu had ever been able to detect. The understanding and connection he had built with Liu over time couldn't be reduced to the manipulation of pheromones alone.</p>
+
+<p>And yet — the passionate, almost startlingly bold version of himself that emerged in intimacy with Liu, so unfamiliar it had sometimes felt alien — that, too, was not entirely the product of his emotional love alone.</p>
+
+<p>Leaning his head against the window frame, Ihyeon let his hand drop, forgetting even the cigarette, and allowed himself to think of Liu without any restraint, avoidance, or diminishment.</p>
+
+<p>If the Changing was Liu's greed, his mistake, his undeniable sin — then his silence, in the moment he could have lightened the weight of that sin by revealing the existence of Ihyeon's own pheromones, could not be understood as anything other than love.</p>
+
+<p>His love, which had sought to leave Ihyeon free to choose his own future without being bound by guilt or obligation, was also not the influence of pheromones.</p>
+
+<p>He was grateful that when Liu had confessed — only able to say "I love you" — he hadn't dismissed it as a lie. He was grateful that he hadn't negated the wholeness of Liu's love, which he had felt so clearly through the trembling of his own skin, through the trembling of something deep inside him.</p>
+
+<p>A quiet sobbing — not ragged, but steady, like the slow catching of breath after a long uphill climb — continued for a long time.</p>
+
+<p>Though it was nearing nine o'clock, the sky over Paris was still a bright, unwavering blue.</p>

@@ -5,8 +5,10 @@ chapter_number: 16
 chapter_id: "V3.4"
 title: "Change"
 korean_title: "변화"
+permalink: /chapters/chapter-16/
+excerpt_separator: "<!-- section-excerpt-end -->"
 ---
-
+<div id="section-1" class="hybrid-section" data-section="1">
 <!-- Chapter 16 — Change -->
 
 <p>A couple who appeared to be in their late thirties were going through the check-in process at the counter with their daughter, who looked to be around first or second year of middle school, standing behind them.</p>
@@ -158,9 +160,9 @@ korean_title: "변화"
 <p>Saying that, he turned his head toward the window. The profile of him — brow furrowed, rubbing his mouth with his large hand — looked troubled.</p>
 
 <p><em>Stop looking at me like that. A strange thing to say. He couldn't even see my eyes through the sunglasses.</em></p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-2" class="hybrid-section" data-section="2">
 <p>"Each floor has its own private elevator and dedicated hall, so residents rarely run into each other."</p>
 
 <p>He spoke as he unlocked the glass door directly in front of where he had parked with a card key. Inside was a hall space of about ten to thirteen square meters, furnished with a comfortable three-seater sofa.</p>
@@ -820,9 +822,9 @@ korean_title: "변화"
 <p>This sex — where I was crushed and driven by overwhelming force — made me forget myself. It was sex that demanded I let everything about me be disassembled and exposed, and in turn accept everything exposed about him.</p>
 
 <p>Everything was swept away, and in that void, everything that was him rushed in all at once. A strange sense of relief, born from the vague certainty that this sex meant the same thing to him, settled over me as I closed my eyes within his scent.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-3" class="hybrid-section" data-section="3">
 <p>He returned from the dressing room inside the bedroom with fresh sheets and draped them over my naked, curled-up form. It was embarrassing that my throat, hoarse from trying to thank him, was so wrecked — but I didn't even have the energy to clear it.</p>
 
 <p>Even without screaming, my throat always ended up raw after being with him. Even the effort to artificially suppress moans seemed to strain my voice.</p>
@@ -934,9 +936,9 @@ korean_title: "변화"
 <p>Before going to Hong Kong, when we spoke on the phone outside the entrance to my rooftop room — he had been certain that I would find something new I wanted to paint. And he was right.</p>
 
 <p>The pulse throbbing above my head felt as if it were hammering through my whole body. Just like when he was knotting inside me.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-4" class="hybrid-section" data-section="4">
 <p class="sub-chapter"><strong>· Suppression ·</strong></p>
 
 <p>A weekday evening.</p>
@@ -1026,9 +1028,9 @@ korean_title: "변화"
 <p>The man tossed the bag containing the medicine onto the passenger seat and lit a cigarette. The fact that the only thing he could rely on right now was a few trivial capsules was almost enough to make him laugh.</p>
 
 <p>Only after burning through three cigarettes in a row could the man finally grip the steering wheel again.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-5" class="hybrid-section" data-section="5">
 <p>"So then he rejected them all again!"</p>
 
 <p>Yuni nuna spread her arms wide, her voice rising with an aggrieved expression.</p>
@@ -1610,9 +1612,9 @@ korean_title: "변화"
 <p>"So I'm a nude model? Is this finally the chance to show off this physique?"</p>
 
 <p>I gave an awkward laugh at hyung's joke as he poured his beer into my empty wine glass.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-6" class="hybrid-section" data-section="6">
 <p>Through the open front door, the laughter of nuna and Juhan drifted into the kitchen. I was tidying up the food with him — everything except for what could serve as side dishes — when I paused for a moment at the lively noise created by just the two of them.</p>
 
 <p>"Ah... those two are a long way from done. They'll probably keep going until dawn."</p>
@@ -1773,4 +1775,5 @@ korean_title: "변화"
 
 <p><em>To be continued in Diamond Dust, Volume 4.</em></p>
 
+</div>
 </div>

@@ -5,8 +5,10 @@ chapter_number: 18
 chapter_id: "V4.2"
 title: "Silence and Lies"
 korean_title: "침묵과 거짓"
+permalink: /chapters/chapter-18/
+excerpt_separator: "<!-- section-excerpt-end -->"
 ---
-
+<div id="section-1" class="hybrid-section" data-section="1">
 <!-- Chapter 18 — Silence and Lies -->
 
 <p>The front door opened, and cool air spilled out from inside, as if a refrigerator door had swung wide.</p>
@@ -512,9 +514,9 @@ korean_title: "침묵과 거짓"
 <p>When I met his gaze looking at me like this, a sense of certainty settled naturally in my chest. Along with the careful prediction that this might be the right pace and direction for him and me.</p>
 
 <p>I squeezed his hand back firmly. The violin solo in Tchaikovsky's concerto was racing toward its climax.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-2" class="hybrid-section" data-section="2">
 <p>The exhibition was held at a small, experimental gallery in an old detached house far from the city center. Its theme was <em>Silence and Lies</em>.</p>
 
 <p>According to the pamphlet, the Helsinki-born artist had never received formal art education. Although she had been offered world-class training by a prominent figure who recognized her talent, she declined.</p>
@@ -1172,3 +1174,4 @@ korean_title: "침묵과 거짓"
 <p>His voice whispering my name by my ear overlapped with the voice that had called out to me when I'd been searching for him. I hoped that even if I were to lose him, he would find me like that, call out to me. And that I could do the same for him.</p>
 
 <p>Instead of answering, I buried my face deeper into his nape and quietly felt the steady beat of his heart against my own chest.</p>
+</div>

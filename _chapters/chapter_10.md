@@ -5,8 +5,10 @@ chapter_number: 10
 chapter_id: "V2.4"
 title: "Alienation 2"
 korean_title: "소외 2"
+permalink: /chapters/chapter-10/
+excerpt_separator: "<!-- section-excerpt-end -->"
 ---
-
+<div id="section-1" class="hybrid-section" data-section="1">
 <!-- Chapter 10 — Alienation (2) -->
 
 <p>It was music that grabbed the ears — a catchy melody and a singing style to match. Not a fast-tempo track with a stimulating beat, but its funky rhythm was charming enough to make even someone as easily bored as me wiggle my toes inside my sneakers.</p>
@@ -144,9 +146,9 @@ korean_title: "소외 2"
 <p>Keeping a large, old-looking beige building to his right, he turned the steering wheel left. Soon, the lavishly decorated hotel entrance appeared. The car slowed, but my heart seemed to race ahead of it.</p>
 
 <p>My first impression of Hong Kong was passionate humidity and heat, a blend of past and present, a subtle balance born from disorder, and gazes probing each other through a rearview mirror.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-2" class="hybrid-section" data-section="2">
 <p>Phantom was exhibiting about 120 pieces at this art fair.</p>
 
 <p>Without any time to marvel at the gorgeous harbor view of Victoria Harbour and Tsim Sha Tsui from the hotel room, or at the interior décor, we headed straight to the exhibition hall and began unpacking the roughly 120 paintings from their bubble wrap.</p>
@@ -264,9 +266,9 @@ korean_title: "소외 2"
 <p>Before I realized it, the two had shifted from their discussion of real estate across various world cities back to the present, happily talking about the simple pleasure of escaping the humid rainy season for a few days on this business trip. It was a remarkable sense of balance.</p>
 
 <p>About four hours remained until the VIP preview event.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-3" class="hybrid-section" data-section="3">
 <p>Our booth wasn't particularly large relative to the number of pieces, since we couldn't pour in the budget that the "rich galleries" — as nuna and hyung described them — could afford.</p>
 
 <p>A booth that was too large wouldn't have been practical anyway, since nuna and hyung were essentially responsible for managing it on their own, aside from him and Manager Han, who often had to step away.</p>
@@ -518,9 +520,9 @@ korean_title: "소외 2"
 <p>That wasn't the only residue <em>Lovers on the Bed</em> left in me.</p>
 
 <p>Could it have been a coincidence that he had asked for my impression in front of that specific painting and no other? The bluish coldness burning in his eyes bothered me. <em>Lovers on the Bed</em>. If I hadn't misread it, the artist's name was "SEONEW." Seonew. A Korean artist in their twenties. I repeated the name silently to myself, savoring it so I wouldn't forget.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-4" class="hybrid-section" data-section="4">
 <p>"Liu-ssi."</p>
 
 <p>Just as we were about to turn into the next booth after crossing a hall where an experimental installation piece — translucent sculptures suspended in the air to visualize the flow of air — was on display, someone called his name in a very cheerful tone.</p>
@@ -634,9 +636,9 @@ korean_title: "소외 2"
 <p>"Damn it. I have nothing to say to that."</p>
 
 <p>Trading jokes with Juhan hyung, he had already returned to his usual self.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-5" class="hybrid-section" data-section="5">
 <p>Without realizing how many times I had checked my phone, I let out a long breath and set it down beside me. To distract myself even slightly, I got out of bed and walked over to the floor-to-ceiling window.</p>
 
 <p>From Tsim Sha Tsui at the western tip of the peninsula to Kowloon Bay in the east, the view spread out before me without obstruction.</p>
@@ -998,9 +1000,9 @@ korean_title: "소외 2"
 <p>He didn't try to persuade me further.</p>
 
 <p>For a moment he looked as if he were dismantling himself; then he quickly averted his gaze and brushed past me. He stood with the back door open, urging me with his eyes to get in. I followed the faint scent that briefly bloomed from his shoulder and climbed into the car.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-6" class="hybrid-section" data-section="6">
 <p>It was a local restaurant with a bright sign in bold golden Chinese characters.</p>
 
 <p>As I stepped inside with him, several people were finishing late meals at tables lined along a narrow corridor to the right. Contrary to the grandeur of the sign, the interior décor was simple and welcoming. It was the kind of casual Hong Kong eatery where one could fill up without feeling out of place.</p>
@@ -1138,9 +1140,9 @@ korean_title: "소외 2"
 <p>"The condition is that you're back at the hotel by midnight, no exceptions. There are still two days left for the fair."</p>
 
 <p>"Ah, of course. Why are you acting like a rookie? We don't have time, so we need to get drunk first. Starting with tequila for the first round."</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-7" class="hybrid-section" data-section="7">
 <p>The intersection where traffic descending from the park famous for its monkeys met vehicles coming up from the main thoroughfare in Central via Ice House Street, and cars that had passed through Soho along Hollywood Road, was overflowing with people.</p>
 
 <p>After leaving the restaurant, we had drunk tequila at a bar for about an hour, and now we were wandering through the crowds on Soho's streets, searching for a suitable pub for the second round.</p>
@@ -1510,3 +1512,4 @@ korean_title: "소외 2"
 <p>"On Sunday, I will not be interrupted."</p>
 
 <p>I didn't know what kind of interruption he meant, but the sudden onslaught of his fragrance — seeming to engulf me entirely — made such details irrelevant. I had once thought of his scent as merely strange. Now I was already craving it.</p>
+</div>

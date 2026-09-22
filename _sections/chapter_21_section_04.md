@@ -1,0 +1,1108 @@
+---
+layout: chapter
+volume: "Volume 5"
+chapter_number: 21
+chapter_id: "V5.1"
+title: "City of Wind"
+korean_title: "바람의 도시"
+hybrid_short: true
+section_number: 4
+section_count: 5
+permalink: /sections/chapter-21/4/
+excerpt_separator: "<!-- section-excerpt-end -->"
+---
+<p>When they had researched beforehand in Seoul, they were told that it rains in Chicago about once every four days in September. We encountered rain on the morning of the second day.</p>
+
+<p>The scenery — a mix of low-hanging slate-gray clouds and fog swirling among Chicago's grand, distinctive architecture — possessed enough atmosphere to make one want to stroll the streets all day with an umbrella hooked over one shoulder, but it inevitably caused disruptions to the event schedule.</p>
+
+<p>The photo wall set up at the gallery entrance became useless, so the schedule was changed to allow for a brief photo session during the Q&A session with the artist, which was set up inside instead.</p>
+
+<p>The gallery interior and exterior were chaotic for a time as staff led the considerable number of people indoors.</p>
+
+<p>Because today was the official opening day of the exhibition, the gallery and even the surrounding area were bustling, packed with various Chicago media outlets, administrators of art-focused social media and blogs, and general visitors alike.</p>
+
+<p>I grabbed a canned drink provided by the gallery and was swept along by the crowd as I made my way to the second floor, finally finding a spot near the relatively quieter railing, not far from the stairs.</p>
+
+<p>Shushu was standing behind the desk set up in the center of the temporary exhibition hall, and I could easily spot him and Yuni waiting a half-step behind him, as if assisting him. Although Shushu and Yuni kept disappearing behind people, even here — where the average height is a bit taller than in Seoul — his face rose more than a hand's span above everyone else's heads.</p>
+
+<p>The attention garnered by the beautiful Golden Omega photographer — who captured delicate yet intense photographs after flying in from an Eastern city — was immense even in Chicago. There was also a significant number of teenage and twenty-something visitors requesting selfies and autographs with Shushu.</p>
+
+<p>Since this was Shushu's first solo exhibition in America, I felt it was proper etiquette to visit the gallery and offer my congratulations when it opened. However, seeing him surrounded by people, sweating, and forcing an awkward smile, I figured adding my congratulations to the mix might actually be more of a hindrance than a help.</p>
+
+<p>When he'd left for the gallery about an hour before me, he'd said, half-teasingly, that I'd have to see him with Shushu — was I really okay with that, he was worried I might jump into his arms out of jealousy and cover him with kisses, turning the gallery into chaos... but now, it didn't bother me at all, making my previous reluctance to send him to Shushu about three weeks ago seem pointless. It wasn't because I didn't trust him back then that I was jealous anyway...</p>
+
+<p>I had been worried that our parting the night before might create an awkward atmosphere when we met, but thankfully, he seemed to have recovered his composure when I saw him in the living room this morning.</p>
+
+<p>Although it was unofficial, he had even prepared a bouquet — no, a flower basket — saying it was the day my work would first be revealed to the world. It was a lush, beautiful basket, so abundant that lifting it with both arms would obscure my view. It was so splendid and extravagant it could be called a small garden in itself.</p>
+
+<p>When I came out into the living room, he was almost ready to leave. He apologized once more, referencing last night's events. Then, he mentioned he had made a reservation at a wonderful place for dinner, and we agreed to meet in the hotel room around five, as he thought he could be back by then.</p>
+
+<p>"It won't be a romantic date, though, since Baek Yuni has to come with us."</p>
+
+<p>Even though he'd had no intention of going anywhere without Yuni from the start, he said it as if complaining, and I was the first to kiss his cheek. Of course, it developed into a deeper kiss too.</p>
+
+<p>As I stood in the living room, thinking about the morning kiss we shared amidst the fragrance of flowers, I froze for a moment, feeling as if I had just made eye contact with him in the present. I wondered if it was a delusion — but he made a playful, pained face as if he was dying. His gaze was definitely directed at me.</p>
+
+<p>Letting out a small laugh, I pointed downward with my index finger to indicate I'd go down to the first floor. He nodded and gave me an okay sign.</p>
+
+<p>The stairs were already quite crowded with newly arriving visitors. Still, the line going down was better off than the one going up. Among the flow of people ascending to the upper floors, a group that looked like teenagers was chattering excitedly about Shushu's appearance.</p>
+
+<p>Someone else was talking about the tall man standing next to Shushu, noting his rare combination of "black hair and eyes like blue diamonds." Then another person mentioned a famous Hollywood actor from England, saying he resembled him. "What? Are you kidding? That guy is way better-looking!" — the chic-looking girl who had compared his eyes to blue diamonds refuted firmly, linking her arm through another's.</p>
+
+<p>I could understand why people were making such a fuss. Although Shushu was the main attraction today, he was the kind of person who couldn't blend into the background and hide his presence no matter what. If I let myself get provoked by every bit of curiosity, admiration, or excitement people showed just by looking at his looks, my nerves wouldn't last.</p>
+
+<p>Just as I finally managed to descend the stairs, led by the gallery staff, my cell phone rang in my pocket. It was Inwu. I slipped out of the procession heading toward the gallery exit and turned into the first-floor lobby before answering the call.</p>
+
+<p>"Yes, hyung."</p>
+
+<p>[...Hmm. What is it? Did Ihyeon always greet me like this?]</p>
+
+<p>When he spoke after a brief pause, his voice sounded genuinely curious, so I laughed awkwardly. It was true that receiving a call from an acquaintance while abroad made me happier than usual.</p>
+
+<p>[I called to congratulate you on the first exhibition. Are you busy?]</p>
+
+<p>"No, I'm alone right now."</p>
+
+<p>[How does it feel now that the first exhibition has started?]</p>
+
+<p>"I was upstairs, and I just came down to see. Maybe because I haven't seen them hung up yet... I still don't really feel it."</p>
+
+<p>[Hearing you talk, I guess you haven't received my bouquet yet.]</p>
+
+<p>"Pardon?"</p>
+
+<p>[I asked the hotel to prepare it so you could receive it before you left. I guess the timing didn't work out.]</p>
+
+<p>I felt bad for him, who was clearly trying to hide his disappointment. I sat down on the bench next to the large areca palm and thanked him for his consideration. He just laughed, asking what I had to be thankful for when I hadn't even received it yet.</p>
+
+<p>[Yesterday was the VIP opening, right? Did your painting sell?]</p>
+
+<p>"Ah... no. The Director said this time he only wanted to check the exhibition's response..."</p>
+
+<p>[He's not selling them?]</p>
+
+<p>"No. Not this time."</p>
+
+<p>I wondered if he even intended to sell them at all. I fiddled with the can of my drink while listening to him mutter like that to himself. A young couple, who looked like they were in their early twenties, walked past the bench toward the inner exhibition hall — the direction of the room where my painting was displayed. My heart fluttered for no real reason.</p>
+
+<p>[How are you feeling? Is eating uncomfortable?]</p>
+
+<p>"I'm much better. My appetite has almost fully returned, and thanks to the nutritional supplements you recommended, my condition is good too."</p>
+
+<p>[Hmm... Looks like he still hasn't said anything.]</p>
+
+<p>"Pardon?"</p>
+
+<p>I could sense him pulling the corners of his mouth into a smile on the other end of the phone.</p>
+
+<p>[I boasted a little — said who wouldn't get better with treatment from me.]</p>
+
+<p>The call ended after he earnestly joked that while Chicago didn't really have any standout souvenirs, a Starbucks city tumbler would make for an obvious, yet good, travel gift.</p>
+
+<p>I felt a slight easing of tension. Unlike my time with him, where I couldn't afford to relax because I still wanted to look good and was always aware of his gaze, talking with Inwu felt comfortable. The tension he created was a pleasant tightness, entirely different from discomfort, but I still needed moments where I could let my guard down.</p>
+
+<p>I got up from the bench, slipping my phone into my pocket with a much lighter expression than I'd had before.</p>
+
+<p>Unlike the second floor, which was crowded all the way to the stairs, the lower level was significantly quieter. Following the stylish typography on the wall that pointed toward the exhibition hall, I walked further inside. As I moved away from the noise of the entrance and the upper floor, the calm, slightly hazy lounge music playing inside began to register in my ears.</p>
+
+<p>"......"</p>
+
+<p>Turning the corner of the concrete wall, I felt my toes twitch inside my Converse sneakers the moment I saw the painting hanging under the soft, indirect lighting. Heat rushed to my face. I could feel the tops of my ears burning bright red.</p>
+
+<p>It felt like walking into school one day and finding my diary plastered on the bulletin board, page by page. Or, it was closer to that awful feeling I sometimes get in dreams, where I'm standing naked among fully clothed people, watching another version of myself suffer the embarrassment.</p>
+
+<p>That was my first impression.</p>
+
+<p>The roughly twenty or so visitors seemed mostly like people just killing time, waiting for the upper floor to clear out a bit. But it didn't matter. I was a complete unknown, and I wasn't foolish enough not to know that simply getting this opportunity in my position was a huge stroke of luck and something to be grateful for.</p>
+
+<p>Three paintings hung in a row, spaced apart from one another: <em>Alienation</em>, the nude portrait of Juhan which was temporarily titled <em>Untitled</em> because I hadn't settled on a final name yet, and one other piece I had completed after that.</p>
+
+<p>The exhibition space was not as small as I had expected. The ten or so pieces were displayed with enough room between them so that their individual character wouldn't interfere with the others. I watched the people wandering in front of the paintings in their own ways, then walked over to the empty wall to the right of the entrance — where nothing was hung — and casually leaned my shoulder against it.</p>
+
+<p>Although there were only a few visitors, most of them seemed more interested in the two newest pieces, while one man lingered unusually long in front of <em>Alienation</em>.</p>
+
+<p>The man was an East Asian with long hair that brushed his shoulders, standing ramrod straight while leaning on a long umbrella in a plastic cover. Though I couldn't be certain just from a quick glance at his profile, he looked Korean. And even from that brief side view, I could tell the man possessed a remarkably neat and handsome appearance.</p>
+
+<p>Even after navigating past two or three teenagers who had been giggling in front of <em>Alienation</em> — a work overflowing with bold defiance and playfulness compared to the two recent pieces — the man remained stopped for quite some time.</p>
+
+<p>After that, the man moved back and forth between the three paintings, checking the captions several times. It was as if he needed to confirm that what he was seeing was indeed true.</p>
+
+<p>Amidst the crowd who lingered in front of the paintings for perhaps ten seconds at most, moving along the path as if on a leisurely stroll, the man's behavior was impossible to ignore.</p>
+
+<p>It was the first time I had encountered, in person, the meaning of a painting not as a means of self-expression, but as something viewers interpreted, felt, and accepted entirely according to their own will.</p>
+
+<p>The initial shame began to fade. What was displayed there was no longer my own dirty secret.</p>
+
+<p>It was fodder for light conversation among all the viewers present, including the long-haired man; it was an unremarkable part of daily life, like a streetlight or a shop window that one passes by; or perhaps it was the viewers' own secrets they were projecting onto the canvas.</p>
+
+<p>The man finally began to walk away slowly.</p>
+
+<p>He walked a few paces away from the painting, then turned back. As expected, the man was strikingly handsome. His eyes met mine as I leaned against the wall, and I offered a slight smile, adhering to the etiquette I'd learned from my English teacher, but the man ignored the greeting and left the exhibition hall with a stony expression.</p>
+
+<p>The expression on his face was not the delighted look of someone who had just found a painting they loved. A pang of guilt struck me, sensing that his prolonged scrutiny of my work likely wasn't for a positive reason, but the pieces already hanging there existed independently of my touch now. Even if my painting made someone's face harden, there was nothing I could do about it anymore.</p>
+
+<p>I leaned against the wall for about thirty minutes, observing the other visitors. As I watched the varied reactions of people viewing my work, I was strangely stimulated by a sudden urge to paint something.</p>
+
+<p>This urge to create, which had always originated from within me, was now being provoked by an external reaction.</p>
+
+<p>While I wanted to expose myself further to this intriguing, unfamiliar sensation, it was time to move on to stick to my schedule.</p>
+
+<p>Before exiting the gallery, I turned back again, just like that man from earlier. The paintings — they had come from within me and were once a part of me, but now they existed separate from me, breathing and changing shape according to the perspectives of others who assigned them new meanings.</p>
+
+<p>A couple who had walked past me while I was sitting on the bench earlier stopped in front of <em>Alienation</em> and were talking with serious expressions. I watched them a bit longer before leaving the gallery with a step that showed no lingering regret.</p>
+
+<p>The second floor was still noisy as if a party was in full swing, but fortunately I was able to offer my congratulations to Shushu directly. In the midst of his busyness, he briefly left his spot and escorted me all the way to the gallery entrance.</p>
+
+<p>"I tried not to do it unless necessary, worried you'd complain about being overprotected... But it's an unfamiliar city and it's raining — why don't you just move around by car?"</p>
+
+<p>He held up an umbrella wide enough for two people without any trouble, tilting it more toward me, and his face was filled with concern.</p>
+
+<p>But before I met him, I had lived perfectly fine — accepting the inconvenience of taking the bus under an umbrella on a rainy day and the discomfort of wet socks soaking through my sneakers as just a natural part of life. In fact, the rain had softened considerably, now just a light drizzle.</p>
+
+<p>I couldn't help but laugh looking at his face, which looked as though I had just announced I was going to jump into a fire with nothing on.</p>
+
+<p>"I'll just visit the two galleries we couldn't get to yesterday and head straight back to the hotel, and I'll message you immediately every time I make a move. You know I wouldn't do anything to make you worry."</p>
+
+<p>He pulled his hand out of his pants pocket and lightly sighed as he adjusted the collar area of the jacket I was wearing. I felt his warm breath brush against my forehead.</p>
+
+<p>"Generally, yes. It's just that every once in a while you do something unexpected that makes my heart jump."</p>
+
+<p>Did I? I didn't think I had ever done anything that would warrant worry. When I looked up at him with a puzzled expression, he smiled as if admitting defeat and handed me the umbrella.</p>
+
+<p>Afterward, I practically forced him — still looking tense and listing off all sorts of common-sense warnings — to go ahead of me first, and then I started walking down the rainy street.</p>
+
+<p>It took over four hours to slowly visit the two galleries I hadn't been able to see yesterday, and then walk back to the hotel. Except for a brief fifteen-minute break for coffee and a muffin at a cafe near one of the galleries, I had been standing the entire time, so my legs felt heavy by the end.</p>
+
+<p>In the elevator heading to the hotel room, I had to hold onto the rail and lean against a corner. Thinking about how long it had been since I'd felt this kind of physical exhaustion, I let out a vacant chuckle while looking at my reflection in the gleaming elevator doors.</p>
+
+<p>It felt like ages ago that just a few months prior, it was my daily routine to sweat through T-shirts moving boxes almost every day. And now I was in Chicago, a city I'd never even thought about.</p>
+
+<p>Although my body was tired, my mind was racing with all the images I wanted to paint. What he had said — that experience is an artist's treasure — was true. From the moment this morning when I faced my own work hanging in the gallery until I returned to the hotel, everything I saw, heard, and sensed was a sharp stimulus, pricking the skin of my senses like needles, drawing out vivid drops of red.</p>
+
+<p>Though the images were scattered, not yet coalescing into a single concept, I wanted to capture them before they faded.</p>
+
+<p>As soon as I reached the room, I tossed off my jacket and immediately began sketching. I recorded the desired images in brief croquis across several pages, adding short notes where necessary.</p>
+
+<p>Time was short, so after intently finishing four or five pages of sketches, I quickly undressed and headed to the bathroom. When I came out after showering, he was already in my room.</p>
+
+<p>He was standing at the table by the window, looking down at my drawing notebook, and he looked up toward me when he noticed I was there.</p>
+
+<p>"When did you get here?"</p>
+
+<p>Even without trying, the muscles in my face relaxed the moment I spotted him, and a smile threatened to break through. I firmly bit my lower lip and forced my steps to slow down as I approached him. He quickly scanned my entire body in a brief moment. I felt his gaze — fervent and hungry — tightly wrapping around my just-showered body.</p>
+
+<p>"Oh... I'm sorry. It was open, so I took a quick look."</p>
+
+<p>He apologized, suppressing the desire emanating from his eyes.</p>
+
+<p>"It's fine."</p>
+
+<p>I smiled and shook my head at him as he set down the page he was holding, looking apologetic. He lightly wrapped his arms around my waist, rubbing my wet hair between his fingers. It seemed that my saying it was okay for him to look at the sketches had made him happy.</p>
+
+<p>I wanted to inhale a little more of his scent — deep, intense, yet never vulgar, carrying a kind of sinking weight — so I carefully buried my nose in the shoulder of his jacket. That particular scent was faint, almost imperceptible, but I loved every perfume he wore and every combination he used.</p>
+
+<p>"Did the event go well?"</p>
+
+<p>"Well, the event itself went fine, but..."</p>
+
+<p>I looked up at his face as he trailed off. He narrowed his eyes, brushed my wet hair behind my ear, and spoke.</p>
+
+<p>"When I asked Shushu to come to the lunch gathering tomorrow, he complained a lot... It's not always about business or anything like that — you can build rapport with people even informally. Even though he's improved from before, he remains stubbornly closed off."</p>
+
+<p>Realizing he might have complained too long about something I didn't need to know, he stopped talking. Then he checked his wristwatch and softened his expression into a gentle smile.</p>
+
+<p>"I want to take one more shower before we go out. Will you wait while I get ready?"</p>
+
+<p>"I will."</p>
+
+<p>After he returned to his room, I dried my hair first. I wasn't intentionally growing it out, but since the last time I got a haircut with him before coming to Chicago, it had only been trimmed, so the length was awkward — a little messy if I didn't tuck it behind my ears.</p>
+
+<p>Not knowing how to style it with gel or wax, I was thinking I should probably cut it short once I got back to Seoul. Just as I loosened the tie of my robe to change clothes, the doorbell rang. I figured it must be Yuni, who had finished getting ready earlier than expected and come up ahead of time. I re-tied the sash around my waist and headed for the door.</p>
+
+<p>"Who is it?"</p>
+
+<p>"...Is Liu Weikun-ssi here?"</p>
+
+<p>"......"</p>
+
+<p>After a brief pause, the voice outside the door continued, and it wasn't Yuni.</p>
+
+<p>Peering through the peephole to check the hallway, I saw a man lingering by the door. He didn't look like hotel staff, but since the person had come specifically asking for him by name, I couldn't pretend not to be home.</p>
+
+<p>As soon as I grabbed the handle of the left door and pulled it open, I recognized the visitor instantly. It was the man who had been standing in front of my painting, <em>Alienation</em>, at the gallery that morning.</p>
+
+<p>I couldn't help but widen my eyes at the strange coincidence, but he didn't seem to recognize me at all. The man, radiating an air of impatience, narrowed his brow and stared intently at my face.</p>
+
+<p>"Are you Korean?"</p>
+
+<p>When I answered yes, his suspicious gaze swept over me once more, taking in my shower robe. The man made no attempt to hide his intention to figure out exactly who I was.</p>
+
+<p>"Where is the owner of this room? You can't just open the door like that. He's going to be furious."</p>
+
+<p>His tone suggested he knew the man who owned the room better than I did — the one who had just opened the door for him.</p>
+
+<p>"He's... taking a shower right now."</p>
+
+<p>At my answer, the man shrugged as if the situation were absurd and clicked his tongue. Judging by his mutter — something like, <em>What a thing to be doing in broad daylight</em> — he must have assumed that the owner of the room and I had just been entangled in sex. Furthermore, he seemed to have concluded that I was merely the person he had brought up to his room for sex.</p>
+
+<p>"I'll come in and wait. Is that alright?"</p>
+
+<p>Though he asked for permission, the man didn't wait for an answer and stepped inside the room. However, I didn't have the right to let just anyone into his room. I subtly blocked his way and put on a troubled expression.</p>
+
+<p>"First, could you please tell me who I should say is here...?"</p>
+
+<p>The man glanced back at me, his lips twisting. He showed no intention of hiding or softening any emotion he felt toward me.</p>
+
+<p>"Has Baek Yuni arrived already?"</p>
+
+<p>It was his voice.</p>
+
+<p>He pulled down the towel covering his head, looked out from the master bedroom toward the entrance hall, and then slowly stepped outside the door. With his expressionless face and gaze, it was difficult to read the feelings he had for the man.</p>
+
+<p>"What is it?"</p>
+
+<p>At his hostile reaction, the man shook his head and laughed.</p>
+
+<p>"Is that all you have to say after all these years?"</p>
+
+<p>"What is it?"</p>
+
+<p>Barefoot, he walked up to the entrance and pulled my arm, drawing me behind him. Seeing the way he aggressively cornered the other man, it was clear this wasn't a welcome guest.</p>
+
+<p>The man, who glanced back and forth between him and me — both of us clad only in bathrobes — soon looked straight at him as if that didn't matter, and spoke.</p>
+
+<p>"I came because I have something to say."</p>
+
+<p>"Since when did we have a relationship where I have to drop everything and listen just because you show up unannounced like this?"</p>
+
+<p>"Shushu's work is selling well. It's opening day, and I saw almost everything was marked sold out. You're staying in the same hotel, aren't you?"</p>
+
+<p>"And? Are you threatening me?"</p>
+
+<p>The man scoffed, letting his gaze drop sideways. Then, he tapped the tile floor with the plastic-wrapped umbrella.</p>
+
+<p>"Hyung, you're amazing. You really surprised me. You finally tracked down the artist behind <em>Alienation</em>, didn't you?"</p>
+
+<p>"......"</p>
+
+<p>He seemed like someone poking around everywhere, trying to find some hidden weakness the other might have. Yet, for someone targeting another's vulnerability, the man himself looked cornered.</p>
+
+<p>Unsure how to handle the situation, he stared intently at the man's face with a complicated expression. He then glanced briefly over his left shoulder at me, before making a decision.</p>
+
+<p>"Go wait in the study."</p>
+
+<p>He had never used such a firm, commanding tone with me, nor with anyone else at Phantom.</p>
+
+<p>Pointing to the door of the study visible right across — just beside the master bedroom, separated by the corner — he moved aside. Passing by me and glancing at me briefly with a light mix of contempt and curiosity, the man entered the study and closed the door.</p>
+
+<p>After letting out a deep sigh that sounded as if it were drawn up from the very bottom of his lungs, he turned fully toward me. His face, etched with fatigue, managed a troubled smile.</p>
+
+<p>"I know him from way back... He's an artist. I don't know why he came all the way to Chicago, but I think we need to hear him out first."</p>
+
+<p>"......"</p>
+
+<p>"As you can see... this isn't the kind of situation we can just brush off..."</p>
+
+<p>"That's true..."</p>
+
+<p>"<em>Sigh</em>... This really wasn't how I planned for things to go.... What am I supposed to do? Now I won't be able to keep my promise again. How about you and Yuni go by yourselves?"</p>
+
+<p>Seeing my passive reaction, he seemed to think I was displeased with the situation. He gripped both of my shoulders, bent at the waist, and looked down at me, his face filled with apology as he gauged my mood. It was the expression of a man flustered because he had unintentionally canceled our date two times in a row.</p>
+
+<p>However, I wasn't at all unhappy that the evening plans were canceled. While spending time together would certainly have been better, this situation wasn't his fault, and I had no intention of showing displeasure or resentment.</p>
+
+<p>"If I stay here... will it bother you?"</p>
+
+<p>"......"</p>
+
+<p>He paused for a moment, perhaps surprised by my question, before quickly shaking his head several times.</p>
+
+<p>"No, why would it bother me? Not at all. I was just worried you might be disappointed because the appointments kept getting canceled."</p>
+
+<p>"It wasn't that I wanted to go out; it was that I wanted to be with you, Director. If it's okay, I'd just like to stay here. I'm also... worried about what's going on."</p>
+
+<p>With the hand still holding my shoulder, he gently lifted my chin. My gaze, which had been fixed on his chest, met his eyes. I felt like he was about to see the pettiness hidden within my expression of "worry" — the desire not to leave him alone with another man.</p>
+
+<p>"By any chance, in the past..."</p>
+
+<p>"......"</p>
+
+<p>His face, which had come close as if to kiss me, stopped. I shook my head and nudged the chest before me lightly. I felt unfamiliar with myself for trying to ask this question. Although I was aware we were dating, I still needed more time to adjust to myself acting like a lover.</p>
+
+<p>"No, never mind. I'll explain everything clearly to Yuni. You should go inside now."</p>
+
+<p>As I turned to leave, he grabbed my shoulder again, stopping me.</p>
+
+<p>"Are you asking if I dated him before?"</p>
+
+<p>"......"</p>
+
+<p>"Well?"</p>
+
+<p>Even if such a relationship had existed, I knew it was irrelevant to our current relationship. It wasn't that I didn't trust him. That's why — not wanting to show such an ugly side of myself — I didn't answer. I wanted to hide somewhere. I could feel my earlobes burning and heat rushing to my face.</p>
+
+<p>"You can ask. You are someone who has the right to question me over something like that."</p>
+
+<p>He kept trying to look at my face, gently shaking my shoulder. I pushed him away, raising my arm to cover my face.</p>
+
+<p>"F-First, why don't you talk to him?"</p>
+
+<p>His hand, which had been gripping my shoulder, slid down to my arm, and in the end, he uncovered my face. My reddened face was now exposed, but he didn't make fun of it. The face looking down at me was only serious.</p>
+
+<p>"I'll tell you everything later..."</p>
+
+<p>As soon as he finished speaking, he pulled me into a hug. While hugging wasn't unusual between us, I was a little surprised because this wasn't the timing I expected. Moreover, the strength tightening around my upper body felt as if he were trying to engrave me into his embrace.</p>
+
+<p>Thinking about his journey since arriving in Chicago — where he hadn't had much time or mental space — I felt this hug implied more than just the current situation. I felt sorry that I hadn't embraced him first, sensing that he must have been going through a particularly hard time.</p>
+
+<p>"I'll tell you everything."</p>
+
+<p>I nodded, wrapping my arms around his broad back in response to his voice, which murmured the words as if emphasizing them one more time. After a moment's hesitation, I patted his back a couple of times, and he laughed as if he had unexpectedly received comfort from a child four or five years old.</p>
+
+<p>He returned to the master bedroom to change clothes first, and I walked to my room to let Yuni know the situation over the phone.</p>
+
+<p>I worried Yuni would be disappointed that our plans were canceled, but she actually looked relieved. She said she felt burdened by the need to feign a warm atmosphere when we both clearly felt awkward inside, so she was glad it had fallen through. Hearing that, I couldn't say anything else.</p>
+
+<p>To distract myself from my preoccupation with the study, I took off my robe and changed clothes after finishing the call. I sat down at the table, intending to refine the sketches from earlier, but focusing was difficult.</p>
+
+<p>Just as I was about to take a can of beer from the refrigerator in the small kitchen between the living room and my room, the doorbell rang again.</p>
+
+<p>"Oh, Ihyeon... Awi, Director Liu, is he inside?"</p>
+
+<p>This time it was Shushu. He was still wearing the outfit he had worn to the opening event at the gallery that morning.</p>
+
+<p>"Yes... but he's talking to a guest right now."</p>
+
+<p>He was probably just managing his connections because of the New York branch anyway. Shushu grumbled, clearly displeased, and pointed toward the inside of the door.</p>
+
+<p>"May I wait in the living room?"</p>
+
+<p>It seemed another headache had found him... but if it was Shushu, there was no reason not to let him in.</p>
+
+<p>After leading him to the living room, I asked if he needed a drink. Shushu, who had requested coffee, stopped me as I headed to the kitchen and asked for a beer instead. I returned to the living room holding two bottles of beer.</p>
+
+<p>"Thanks. Don't mind me; you should go rest in your room, Ihyeon."</p>
+
+<p>"Not at all. I was just taking out a beer for myself right before you arrived."</p>
+
+<p>"I'd be happy if you'd drink with me while I wait."</p>
+
+<p>Shushu didn't refuse.</p>
+
+<p>I took a seat on the matching sofa, separated from Shushu by a small table. Shushu was sitting on a single-seater velvet sofa adorned with light-blue silk cushions. From my seat, the right window offered a view of eastern Chicago, and straight ahead, the entire living room was visible at a glance. Besides where we were sitting, there were two more sofa sets in the living room, providing enough space and facilities for about twenty people to have a casual party.</p>
+
+<p>"I enjoyed your work," he said.</p>
+
+<p>"Ah... You must have been busy, yet you made time to see my work. Thank you."</p>
+
+<p>"I only just found out today that the artist behind <em>Alienation</em> is you, Ihyeon."</p>
+
+<p>"......"</p>
+
+<p>"That bastard Awi — even though he's involved in the art world, he usually doesn't display many paintings in his home. But he always hung that specific piece in a prominent spot every time he moved."</p>
+
+<p>Everyone who knew him well spoke unanimously about how special <em>Alienation</em> was to him. Hearing such things was certainly pleasant, but I hadn't expected Shushu to join in on those remarks.</p>
+
+<p>"...Why?"</p>
+
+<p>Shushu noticed my gaze, took his mouth off the beer bottle, and smiled. Realizing I must have been staring too intently, I quickly turned my head away and apologized.</p>
+
+<p>"No, it's just... I was surprised you called him 'that bastard'..."</p>
+
+<p>Shushu smiled again, as if he had expected my reaction. He then tilted the beer bottle again and playfully raised his eyebrows at me.</p>
+
+<p>"When a piece isn't going well during the creative process, I say things much worse than that."</p>
+
+<p>Shushu kept laughing as he looked at my face, which must have shown my disbelief.</p>
+
+<p>"It was like Awi's little game — asking everyone visiting his home for the first time what they thought the theme of that painting was.</p>
+
+<p>Even though he owns several famous pieces, he was particularly obsessed with that one painting... But to think that you, Ihyeon, are the artist behind <em>Alienation</em>, and that you have a past connection with Manager Han. I don't know how things get so tangled up. I haven't lived that long, but sometimes life is truly funny, isn't it?"</p>
+
+<p>Shushu took a drink of beer, smiling wryly as if he, too, had once been a subject in life's unfolding comedy.</p>
+
+<p>Life for him, who seemed so perpetually cheerful, must also have been a real-life situation unfolding in the wilderness, not a greenhouse. I suddenly felt a pang of guilt, wondering if I had, without realizing it, started viewing Shushu through my own preconceptions, even while knowing that what's seen isn't always the whole story.</p>
+
+<p>"Is Awi treating you well?"</p>
+
+<p>"......Pardon?"</p>
+
+<p>The sudden question made beer get stuck in my throat, and I coughed ungracefully. At least I could blame my flushed face on choking.</p>
+
+<p>Even as he apologized and asked if I was okay, Shushu smiled as if wondering why I was so surprised.</p>
+
+<p>"Awi and I have been friends since kindergarten. You can tell just by the way he treats Ihyeon. Besides, that guy doesn't even seem to be trying to hide anything, anyway."</p>
+
+<p><em>I knew that if he truly wanted to hide something, that son of a gun could fool even God about who he was dating.</em> Hearing Shushu add that, I nervously fiddled with the beer bottle.</p>
+
+<p>"I asked if he treats you well, but in your case, Seo Ihyeon, it seems like he'd be head over heels for you. Right?"</p>
+
+<p>Urging me to talk, Shushu seemed somewhat amused by my reaction. The more he did, the more my face burned. I wasn't even completely accustomed to the relationship between just the two of us yet; talking about it in front of others was still too high a hurdle for me.</p>
+
+<p>As I struggled to steer the conversation elsewhere, I heard the sound of the study door opening down the hallway connected to the living room. It seemed their conversation was over. Thinking this was a stroke of luck, I let out a breath of relief, set the beer bottle on the table, and stood up.</p>
+
+<p>"......Seon-yu?"</p>
+
+<p>The hallway connecting the living room to the study and the master bedroom wasn't long. Furthermore, from where Shushu and I were sitting, we had a clear view into the hallway. Shushu, rising slowly from the sofa as if he had seen a ghost, called out — but it wasn't him he was addressing. Shushu's brow furrowed, as if doubting his own eyes.</p>
+
+<p>"H-Hyung..."</p>
+
+<p>Before that, the man emerging from the study reacted to Shushu's voice, and the person following him out noticed the situation, scowled, and bit down hard on his lower lip. His expression was one of defeat. However, Shushu's eyes were fixed only on that man.</p>
+
+<p>"Why are... you... here..."</p>
+
+<p>"Oh... Well, I'm looking into opening a solo exhibition in Seoul this time, and since someone at a gallery here said they knew a good place, I came specifically, and... it's Kun hyung."</p>
+
+<p>The man walked hesitantly down the hallway to the entrance of the living room, offered an awkward smile, and rubbed the back of his neck. Then, with a complicated look in his eyes, he cautiously addressed Shushu.</p>
+
+<p>"Have you been well? Your work... it's gotten even better."</p>
+
+<p>"......"</p>
+
+<p>"How's your ankle...?"</p>
+
+<p>"That was ages ago."</p>
+
+<p>Shushu gave a bitter smile and looked down at the beer bottle in his hand.</p>
+
+<p>The moment I heard about the ankle, a page unfolded in my memory. The search results from the portal site that told me about Shushu's past, how he had to give up dancing due to consecutive ankle injuries and complications from surgical site infections.</p>
+
+<p>As I watched their gazes cautiously meet in the air — as if even eye contact without physical substance were weapons capable of inflicting mortal wounds — I suddenly thought that perhaps the man's past partner wasn't him, but Shushu.</p>
+
+<p>If the tension swirling between him and the man at the entrance was close to hostility, the atmosphere between Shushu and the man now was much more complex and strange. Rather, he — standing behind the man with his arms crossed — seemed like a third party who had taken a step back from the situation. Though his expression was quite severe...</p>
+
+<p>"What are you going to do? Are you going to have tea while catching up on how you've been?"</p>
+
+<p>He asked, looking at Shushu over the man's shoulder. His tone and expression carried a subtle pressure, implying that there was no need for them to speak to each other this way.</p>
+
+<p>But Shushu couldn't answer right away, only parting his lips repeatedly. The man, too, just bit his lower lip while looking at Shushu, unable to get any words out. As the two of them stood unable to approach and close the distance or turn away, he stepped in instead.</p>
+
+<p>"Hong Seon-yu, do you have anything else to do here?"</p>
+
+<p>Urged with the nuance of <em>think carefully</em> about whether he had any more business, the man turned to look at him. And when he looked back at Shushu standing in front of the sofa, the man's gaze was visibly shaken.</p>
+
+<p>The man firmly pressed his lips together, speaking slowly in a dry voice.</p>
+
+<p>"Congratulations on the exhibition. Well then..."</p>
+
+<p>And even as he turned completely away, the man couldn't take his eyes off Shushu. Shushu remained silent.</p>
+
+<p>As I looked back and forth between the man disappearing toward the entrance, his retreating figure, and Shushu standing there frozen in bewilderment, an inexplicable tension seemed to transfer to me, stiffening my body and mind. I couldn't even take a deep breath next to Shushu.</p>
+
+<p>He soon returned to the living room. Feeling that it would be best to give them space, I gathered the empty beer bottles Shushu and I had finished, took them to the kitchen, and went into my room. I sat back down in front of the table, but there was no way I could paint.</p>
+
+<p>Seon-yu.</p>
+
+<p>Though it had only happened once, Shushu had definitely called the man that, and he himself had called the man Hong Seon-yu.</p>
+
+<p>It might be an excessive delusion, but the memory of the painting <em>Lovers on the Bed</em>, which I had viewed with him at the Hong Kong Art Fair, overlapped with the present moment.</p>
+
+<p>At the time, because his reaction in front of the painting had been so striking, I had committed the artist's name to memory so I wouldn't forget it: SEONEW. A Korean artist in his twenties. He was affiliated with a gallery in New York.</p>
+
+<p>Back then, he had acted as if he wanted to hear what I had to say about that painting and the artist. It didn't feel like he was just asking for my impression of one piece that happened to catch his eye. I even felt as if he were goading me, urging me to criticize the painting more frankly and sharply, given my hesitation. He himself had offered a cold assessment, saying it was a work whose bubble would burst within a year or two, causing its value to drop by more than half.</p>
+
+<p>Adding to that explanation from earlier in the entrance hall — it didn't seem like a completely far-fetched delusion.</p>
+
+<p>But even if that man was SEONEW of <em>Lovers on the Bed</em>, there was nothing more I could deduce from that fact. I could search for more information, but I felt reluctant, as if I were digging into the private lives of people close to me, like Shushu or him.</p>
+
+<p>Perhaps I had been lost deep in thought without realizing it, because when I heard a knock, I jumped, startling myself upright in the chair.</p>
+
+<p>"Yes?"</p>
+
+<p>After my stiff reply, the door leading to the living room opened quietly.</p>
+
+<p>"Can we talk for a moment?"</p>
+
+<p>He stood in the doorway without entering the room as he spoke. I nodded, taking it as a sign to come into the living room, and moved forward.</p>
+
+<p>Shushu had already left. On the table in front of the three-seater sofa, opposite the set of single armchairs where Shushu and I had been sitting just a moment ago, whiskey, an on-the-rocks glass, an ashtray, cigarettes, and a lighter were scattered haphazardly.</p>
+
+<p>After having me sit on the long, calm ivory-colored fabric sofa, he asked if I wanted more beer. I didn't want to get drunk, but I did feel like I needed something to drink. When I nodded, he brought a bottle of beer from the kitchen. Then, he pulled a dining chair from the dining area between my room and the living room and sat down near the corner of the table, to my right.</p>
+
+<p>Turning the glass, which still had about a third of the whiskey left, over and over in his hand, he spoke.</p>
+
+<p>"The atmosphere suddenly got a little strange, didn't it... You must have wondered what was going on. I'm sorry."</p>
+
+<p>I didn't answer right away, waiting for him to continue. His face, fixed on some spot on the table edged with antique gold, hinted that the story I was about to hear would not be pleasant. Though moisture was rapidly beading on the surface of the beer bottle in my hand, I didn't even have the urge to wet my throat with the liquid inside.</p>
+
+<p>"I know that hearing this story... might be a burden for you, Ihyeon."</p>
+
+<p>Without looking away from that spot on the table, he took a sip of his whiskey.</p>
+
+<p>"I'd hate for you to misunderstand anything about Shushu or... that jerk just now, Hong Seon-yu, so I'll tell you."</p>
+
+<p>He had been leaning forward with his arms on his knees, but he lifted his head to look at me. His face was pale, devoid of all emotion rather than calm.</p>
+
+<p>"Do you remember the painting we saw together at the Hong Kong Art Fair, <em>Lovers on the Bed</em>?"</p>
+
+<p>My heart began to race at the possibility that my suspicion might not have been just an overactive imagination. I unconsciously tightened my grip on the beer bottle and slowly nodded toward him.</p>
+
+<p>"The man who arrived a moment ago is Hong Seon-yu. He is the artist who painted that piece."</p>
+
+<p>After offering just that brief piece of information, he couldn't continue the story for a while. Although he had said he would tell me, he seemed unsure if revealing everything to me was truly the wisest choice.</p>
+
+<p>Rubbing the surface of the beer bottle, which I hadn't taken a single sip from, with my thumb, I spoke to him.</p>
+
+<p>"If this isn't something I absolutely need to know... that is to say, if it doesn't directly affect the Director and me... you don't have to tell me. Since other people are involved too..."</p>
+
+<p>His gaze rested on me wordlessly once more. I quietly met his eyes and waited for his decision. His lips, looking drier than usual, slowly parted.</p>
+
+<p>"Hong Seon-yu... was Shushu's lover, and the person responsible for the decisive accident that forced Shushu to quit dancing."</p>
+
+<p>"......"</p>
+
+<p>"And, even before that, he was a man I dated."</p>
+
+<p>"......"</p>
+
+<p>Upon hearing that last addition, I inhaled without realizing it, then held my breath. I knew my wide, round eyes were revealing all my shock to him, yet I couldn't compose myself.</p>
+
+<p>He watched my reaction, yet his own expression remained calm. It was the look of someone who had either anticipated or steeled himself for this kind of response.</p>
+
+<p>"It was hardly what you'd call a relationship... like all my other connections before that, it was just a meaningless physical arrangement that didn't even last six months... but regardless, we did have something. This was after I finished the H.M.I.S. program in Hong Kong and moved to London for university. I was in my final year at my British university, and Hong Seon-yu was a first-year at the Royal College of Art. His entire family had moved to London when he was in middle school for his father's business, and everything was going so well that he was incredibly self-assured and arrogant. He was young, too. I was young back then as well, and I guess I found that attractive for a while."</p>
+
+<p>He gave a short, cynical sneer, lifting one corner of his mouth as if mocking his younger self from those days.</p>
+
+<p>"That's not to say I tolerated or indulged that insolence, though."</p>
+
+<p>He downed the last sip of whiskey, refilled his glass, and continued speaking.</p>
+
+<p>"I was a person who had neither the time nor the emotional capacity to pour into dating or love. Since I was in my final year, I was overwhelmed just by my own problems, so I just thought of him as someone I met up with occasionally to blow off steam. He knew I was seeing a few other people besides him, but I didn't care at all."</p>
+
+<p>He paused his story and glanced at me quickly.</p>
+
+<p>"Telling you about this past... I doubt it will earn me any points."</p>
+
+<p>Just based on what he had said so far, Juhan's guesses about his romantic history seemed somewhat accurate. In my case, however, it was actually harder to imagine his detached arrangements where he focused only on himself.</p>
+
+<p>"Just as there was never any talk of becoming an exclusive couple, of making any sort of commitment to each other, when we parted ways, it was the same — we just gradually drifted apart as our contact faded... It was around the time I was agonizing over whether to stay in London and build my own career or return to Hong Kong as my father suggested and learn the family business, that he suddenly contacted me again. He said his father's business was in trouble, so the family — excluding his father — had to give up their life in London and return to Korea... and he asked me to let him stay in London. Said that feeding and supporting just one person through his studies wasn't a big deal for me."</p>
+
+<p>He clicked his tongue and laughed, as if still amazed by the audacity of it all.</p>
+
+<p>"I have to admit, for someone with such a proud personality, it took courage to approach me — someone he'd only had a physical arrangement with, and one that was already over — and make such a request. But the way he rushed at me, as if he were collecting on an outstanding debt even at a moment like that, made me lose whatever small affection I had left for him. His obsession with success was strong to begin with, but once the financial backing disappeared, it seemed all that remained was a fierce drive to succeed, with no pure passion for art left in him anymore. So there wasn't even a shred of appeal left."</p>
+
+<p>He pressed his lips together, furrowing his brow. He spun the rocks glass in his hand once before wetting his dry lips with whiskey.</p>
+
+<p>"After that, Hong Seon-yu had no choice but to leave London, so I just thought that was the end of it. He was one of those people I'd completely erased from my memory, someone I'd never expect to see again, until Shushu — who was living in Seoul — introduced him to me as his lover."</p>
+
+<p>"Ah..."</p>
+
+<p>A sound escaped me, an involuntary groan. But he looked at me and gave a crooked smile, as if that wasn't the whole story.</p>
+
+<p>"I knew Shushu was head-over-heels for someone before the introduction, but I never expected it to be Hong Seon-yu. When he introduced us, he looked like he'd seen a ghost. How could he not?"</p>
+
+<p>He stared into the empty air, letting the calm tone crack as he spoke through tightly pressed lips.</p>
+
+<p>"Shushu is an Omega, and Hong Seon-yu — as far as I know — is a Beta gay man who is a bottom to the bone. And not just any bottom — one who's twice as hungry for sex as anyone else. But a guy like that with an Omega?"</p>
+
+<p>That doesn't make any sense. As if Hong Seon-yu were right there in front of him, he added, as if to condemn the man standing there.</p>
+
+<p>"Of course, it's not that Omega males universally prefer the receiving role in sex, but most Omegas' instincts naturally lean that way. The sexual drives of Alphas and Omegas function much more dominantly than those of Betas. And from the moment Shushu manifested as an Omega, he was someone who had grown up conforming to his instincts and his nature. If you were to compare Shushu and Hong Seon-yu to two gay Beta men, it would be like two people who are both absolute bottoms dating — their tendencies absolutely couldn't change. From my perspective, knowing Hong Seon-yu's true nature, I was flabbergasted. Two grown men aren't going to have a platonic love affair. The idea that those two could be in a relationship that included a sex life was absurd."</p>
+
+<p>He paused for a moment, then asked if he could smoke. Instead of answering, I picked up the pack of cigarettes and the lighter that were closer to me and handed them to him. A bitter scent rose up with the smoke. He exhaled a long breath, mirroring how deeply he had inhaled, and then spoke.</p>
+
+<p>"The moment I heard that he was going to study abroad in New York with Shushu, I thought I had a rough idea of Hong Seon-yu's objective... but the problem was..."</p>
+
+<p>His brow furrowed tightly, and he pressed hard against his eyelids as if suffering from a headache. It wasn't hard to deduce that Shushu must have been the source of the funding for that study abroad trip.</p>
+
+<p>"That I had a past with Hong Seon-yu, that I knew what kind of man he was, and that <em>your boyfriend was trying to use you for his own success</em>. That's what I couldn't tell Shushu."</p>
+
+<p>None of that was something one could easily say to a longtime friend. He ran a hand over his face once, took a deep drag of his cigarette, and settled back into a different position.</p>
+
+<p>"<em>You are an Omega. There is no future with a Beta male</em>... I tried to persuade him with those obvious, insincere platitudes, but it had absolutely no effect."</p>
+
+<p>The two had already been together for over a year at that point, and the only way to completely separate them was to shock Shushu by revealing everything about his entanglement with Hong Seon-yu. However, facing his friend's happy face — deeply in love and trusting his partner — that choice was far from easy.</p>
+
+<p>"If I told him everything... I might have been able to stop Shushu from leaving for New York with Hong Seon-yu immediately, but he would have suffered the shock of betrayal anyway. If the shock that his cherished first love was involved with his best friend were added on top of that... I don't know if the young man — who was much more fragile back then than he is now — could have endured it."</p>
+
+<p>He lowered his gaze toward the tip of the cigarette, smoke curling up as he rested the hand holding it on the armrest. Then, he slowly brought the cigarette to his lips.</p>
+
+<p>"At the time, I was only briefly in Seoul on vacation, so I had to return to Hong Kong, and once I was back to my routine, there were even greater limits to stopping him over the phone in a foreign country."</p>
+
+<p>This time, he hung his head as if he were a sinner.</p>
+
+<p>"In the end, that was it. I was afraid of the shock he would immediately face right in front of me, so I couldn't try harder to stop him."</p>
+
+<p>His voice was laced with self-reproach. Suddenly, he lifted his glass and swallowed several gulps of neat whiskey, then took a long drag from his cigarette. He seemed like someone trying to punish himself indirectly through substances bad for the body.</p>
+
+<p>Shushu's lover was a man who had a past relationship with him. I thought the story would unfold to the point where Shushu found out and had no choice but to break up with his lover, but the situation was more complicated than that.</p>
+
+<p>It seemed he ultimately chose not to tell Shushu about Hong Seon-yu's past and true nature, which meant the reason they broke up couldn't have been about that either.</p>
+
+<p>"The two of them ended up leaving for New York as planned, and surprisingly, they lived together for two more years after going there."</p>
+
+<p>After taking another sip of liquor, he let out a short, dry laugh. Now, his story was flowing like a monologue recalling the past.</p>
+
+<p>"Well, even those two years they weren't separated — we can't know if they were wholly focused on each other. Maybe that sort of behavior went on for the entire two years; who knows, maybe he just wasn't caught."</p>
+
+<p>He twisted the corner of his mouth cynically, then roughly stubbed out the nearly finished cigarette in the ashtray.</p>
+
+<p>"Shushu had surgery to repair his Achilles tendon due to an injury sustained during practice. He was regularly going to a center for physical therapy. At the time, the surgery results were perfect, and the chances of him being able to continue dancing were very high. It wasn't at a worrying level. But one day, his assigned therapist had to leave early due to family circumstances, and Shushu — who was very shy around strangers — changed his schedule and went home much earlier than planned instead of training with a different therapist."</p>
+
+<p>Given his earlier reference to "that sort of behavior," I could somewhat anticipate what happened next. Despite being able to anticipate it, my mouth felt completely dry, so for the first time, I drank the beer I was holding. The beer had already gone lukewarm.</p>
+
+<p>"In the very bed where he slept every night and woke up every morning with his lover — or at least, the man he believed to be his lover — he had to witness a scene where his partner was so absorbed in sex, moaning and screaming, that he didn't even notice the bedroom door opening, while another man's cock was deep inside him. The sight of his lover gasping in pleasure, completely unlike when he was with Shushu, being held by another man..."</p>
+
+<p>His face crumpled as if he were witnessing that scene firsthand. He set the beer bottle down on the table, covered his head with both hands, and bowed his head. It was a horrific story.</p>
+
+<p>"After that... everything fell apart. I only heard a brief account from Shushu, so I don't know all the details, but Shushu ran out, and that bastard chased after him completely naked — not even wearing a stitch — trying to stop him... While they were grappling on the apartment stairs, Shushu, who was screaming and thrashing around like a madman, missed a step and re-injured the same ankle that had undergone surgery. I hear he didn't even feel the pain at the time... that's how beside himself he was."</p>
+
+<p>Perhaps he wouldn't have felt it even if the pain had been greater. It had been a year since he introduced Hong Seon-yu, and two years since Shushu left for New York. After spending a total of three years together, anyone — not just Shushu — would lose their composure upon witnessing such a betrayal. Me... if it were me...</p>
+
+<p>I picked up the beer bottle I had set down. The lukewarm beer had become intensely bitter and the carbonation flat, but I mechanically swallowed the liquid anyway.</p>
+
+<p>"That ended both Shushu's life as a dancer and their relationship. Of course, Hong Seon-yu could no longer receive financial support from Shushu. I don't know what he did afterward, but he took a one-year leave of absence and eventually managed to graduate."</p>
+
+<p>He spoke of Hong Seon-yu's aftermath dismissively, then refilled his glass. As he slowly drained it, he continued the painful story.</p>
+
+<p>About a year after the accident, he opened Phantom in Seoul with Manager Han, and it took another year before he could even hand a camera to Shushu — who had become a complete wreck — and make him focus on photography enough to hold his first solo exhibition.</p>
+
+<p>During that time, he heavily confessed the guilt he had felt while watching over Shushu. I couldn't say anything to him.</p>
+
+<p>"Now that everything is over with Hong Seon-yu, if Shushu finds out about my past with that bastard, and that we both kept quiet about it... it probably won't be fixable this time. He'll think that every suggestion and every word I spoke to him during that time was just pity stemming from guilt. Since he's the type whose thoughts naturally flow in a negative direction."</p>
+
+<p>I couldn't claim to understand everything — like why he had shown such hostility toward the artwork or the artist in front of <em>Lovers on the Bed</em>, or how he felt when Hong Seon-yu reappeared before his eyes — but I could guess and empathize to a certain degree.</p>
+
+<p>Thinking about the time he had spent treating Shushu while carrying the weight of a guilt that was far from light as a part of himself, I lowered my gaze and spoke carefully.</p>
+
+<p>"I'm sorry..."</p>
+
+<p>"......"</p>
+
+<p>Although it was a very small voice, he didn't miss it. I felt his gaze on my face but couldn't meet his eyes, so I answered the question his gaze was offering.</p>
+
+<p>"About Shushu... I was just childishly jealous..."</p>
+
+<p>He let out a short laugh. It was the kind of laugh that suggested he hadn't expected me to react that way. When I lifted my gaze from his knees, his face — etched with a faint smile and radiating warmth — was looking at me. He was no longer lost in the past, rambling to himself as he seemed to have been for a while, but had returned to the present moment, looking at me now.</p>
+
+<p>"Choi Inwu transferred to Minton from the middle school division right after his manifestation, and we've been friends since then... but Shushu and I have been together since kindergarten."</p>
+
+<p>H.M.I.S., where the children of wealthy Asian families gathered, never officially declared itself an educational facility exclusively for Alphas and Omegas, but after the middle school division, enrollment required confirmation that the student themselves had manifested as an Alpha or an Omega. For admission to kindergarten and elementary divisions, at least one parent had to be an Alpha or an Omega. While this was not an official requirement, it was a clearly existing, unspoken condition.</p>
+
+<p>Although Beta students occasionally mingled in the middle and high school divisions, this was only permitted if the family's influence was exceptionally strong. In cases where manifestation had not occurred, most students transferred schools under unspoken pressure. In fact, this was recognized within H.M.I.S. as almost a tradition, a natural procedure. Therefore, his explanation was that any student who completed their secondary education there could safely be considered an Alpha or Omega from the highest echelon of the established elite.</p>
+
+<p>"He's like a brother to me, who grew up with me despite being an only child who was called cold for being indifferent to others... but... no one, under any circumstances, takes precedence over your feelings."</p>
+
+<p>He stated this with an air of certainty, driving the point home unequivocally. Based on his past actions, I already trusted him completely on that matter.</p>
+
+<p>"I'm not worried about that..."</p>
+
+<p>After offering me a smile once more at my murmur, he simply gazed at me for a long time. We had both endured exhausting days and hadn't even managed dinner, yet I didn't feel hungry. Outside the window, it had already grown completely dark.</p>
+
+<p>"When it comes to other people's problems, anyone can maintain an objective distance and a cool perspective to reach a plausible conclusion and offer clear advice. But when it comes to your own affairs... even after the conclusion has been reached, you hesitate. The reason is simple. No matter how perfect a conclusion seems, there are always weak points, and the small probability of failure that you could easily dismiss when looking at someone else's life becomes an unavoidable fear when it concerns your own. The fear of even a one percent chance of failure silences you, ties your feet, and makes you the foolish person who knows the problem will only get worse over time yet still cannot make a decision."</p>
+
+<p>I knew better than anyone what he was talking about. It was precisely because of that fear that I had ignored my father's silence and turned a blind eye to the problem.</p>
+
+<p>I was afraid of being rejected again, so I hadn't taken any action to pull my father out of his silence. I knew that if I didn't try anything, the relationship wouldn't change, but even knowing that... I still chose to just stand by and watch the situation unfold.</p>
+
+<p>He looked at me again for a long time, as if savoring his own words. I couldn't look away from his gaze, which was a lighter shade of blue than usual. He had an expression that looked like he might collapse the moment I looked away. It was the face of someone struggling to hold on, and I understood his struggle.</p>
+
+<p>"I lashed out at Shushu, asking if his judgment was clouded by being swept up in something like love — an emotion that could vanish at any moment — but now..."</p>
+
+<p>He didn't finish the sentence, instead turning his head as if to flee and taking a drink. Then he looked back at me, took a deep breath, and opened his mouth.</p>
+
+<p>"I think about what would happen if I lost you every day."</p>
+
+<p>"......"</p>
+
+<p>"That thought seizes me several times a day. Not just when you're not beside me, but even when we're together like this... even in the moment of climax, fully submerged in the pleasure you give me after entering you and connecting through knotting, the truth is, I'm afraid."</p>
+
+<p>It was such an unexpected confession that I felt a slight shock. It seemed like a confession of love as deep as that, but I didn't want the most overwhelming emotion he experienced through me to be fear.</p>
+
+<p>"Seo Ihyeon."</p>
+
+<p>His voice was calm and steady, without any agitation or tremor, yet strangely, there was something about it that made me feel a vague dread about what he was about to say next. My chest felt chaotic, like an ill-fitting door rattling in a strong wind.</p>
+
+<p>"......"</p>
+
+<p>"......Shall we get married?"</p>
+
+<p>However, the statement his lips uttered with such a composed expression was not a threat.</p>
+
+<p>If it had been impulsive, I would have sensed some faint excitement, but his voice, the way he looked at me, and his expression were all steady and calm, as if he were sharing something he had prepared for a long time.</p>
+
+<p>Though my heart was full of so many things I wanted to say, things I felt I <em>had</em> to say, it felt as though he was using that single phrase to stand in for all of them — I even sensed a humble caution in it.</p>
+
+<p>Regardless of his seriousness, it was such a sudden proposition that I looked at him with a somewhat dazed smile.</p>
+
+<p>He leaned forward, loosely gripping the rocks glass in both hands.</p>
+
+<p>"Whether it's the UK, France, Germany, or the US... as long as it's a country where the marriage between an Alpha male and a Beta male is legal. It wouldn't be hard for me to obtain permanent residency or citizenship in any country. If I did that, all my rights would be legally guaranteed to you as well... and if something were to happen to me, I could safely transfer all those rights into your name."</p>
+
+<p>Hearing him talk as if the possibility of something happening to him was imminent made my expression harden slightly. Seeing my rigidity, he closed his mouth for a moment as if he had spoken out of turn, and avoided my gaze.</p>
+
+<p>"It's not that I'm trying to tie you down using some petty material benefit as an excuse, but..."</p>
+
+<p>No, maybe that wasn't entirely untrue. He muttered to himself with self-deprecation and broadly rubbed his jaw. Then he ran his fingers through his hair, which had dried naturally after his shower without any product in it.</p>
+
+<p>"Bringing up marriage with you, when you're only twenty-two... it must sound insane."</p>
+
+<p>He seemed to interpret my lack of reaction as a negative response to his proposal, or perhaps that I wasn't taking it seriously. He put his glass down, roughly swept a hand over his face, and then took out a cigarette and lit it.</p>
+
+<p>I realized now that his composed demeanor when bringing up marriage wasn't calmness, but rather a blank expression born of tension and anxiety — a kind of rigidness.</p>
+
+<p>Leaning forward deeply with his elbows resting on his thighs, he just repeatedly brought the cigarette to his lips for a while. Looking at his bowed head, which seemed disheartened by my reaction, I twisted the beer bottle in my hand.</p>
+
+<p>Even though I thought I was running toward him with my whole heart, his love always seemed a few steps ahead of mine. That wasn't to say I couldn't keep up. It was just that a vague fear arose: if he had to stop every time to wait for my slower pace, wouldn't he eventually grow weary?</p>
+
+<p>Biting down lightly on my lower lip, I looked down at his face and slowly opened my mouth.</p>
+
+<p>"If... it's not a suggestion brought up as if chased by something... but something you say after fully considering your future or life plans... Director... then I too, at that time, will answer with all my heart."</p>
+
+<p>He looked at me, straightened his upper body, and spoke in a dry voice.</p>
+
+<p>"It's true that I said it impulsively, but that doesn't mean it lacks substance."</p>
+
+<p>"......"</p>
+
+<p>"And it's definitely not something I said just on a whim without sincerity."</p>
+
+<p>Watching him crush the cigarette, which was only half-smoked, into the ashtray, I started to feel a little anxious this time.</p>
+
+<p>It wasn't that I was trying to ignore his sincerity. How could I not know that when a man like him brought up the word marriage, nothing light could possibly be mixed into it?</p>
+
+<p>While I was happy that he desired me enough to feel impatient... I didn't want marriage chosen as a method to resolve that.</p>
+
+<p>I tightly gripped the beer bottle, now beaded with condensation, with both hands.</p>
+
+<p>"Since this is my first time having this kind of relationship... I don't know if I've made you anxious somewhere. But... my feelings are definitely not light."</p>
+
+<p>Looking back, he had always craved deeper affection from me. Sometimes it was like a joke, and sometimes it was in his serious eyes. But he never once forced it on me, so I just accepted it as one of the minor emotions that make up a relationship, much like my jealousy toward Shushu.</p>
+
+<p>I thought I was showing him everything — my feelings, which, unlike his, had nothing to begin with but were just starting to grow again, however meagerly, and even my past that I had buried and tried to ignore.</p>
+
+<p>Was I still unconsciously holding something back inside me, refusing to give it to him? Was that why he was feeling anxious?</p>
+
+<p>Intellectually, I knew that the balance of love between two people was unrelated to objective circumstances... but sometimes I couldn't believe the impatience he showed toward me, someone who shouldn't need to feel anxious regardless of whom he was dating. Compared to him, I was like a clueless child, yet I was so completely falling for him...</p>
+
+<p>"I don't know how you'll take this, but... I only got this far because of you, Director."</p>
+
+<p>"......"</p>
+
+<p>"Whether it was the issue with Morae nuna and Yeehan hyung, starting to paint again, or even being able to talk about my father to someone... all of it was possible because you were here, Director."</p>
+
+<p>If I was the only one who could erase his anxiety, I had to find the courage to break the silence. I took a deep breath and continued speaking, as if savoring the air in small sips. The moisture on the beer bottle in my hand felt like sweat seeping from me.</p>
+
+<p>"Even as I think that you might have said that impulsively... just as I was happy when I heard about the marriage talk, putting everything else aside... I, too, want Awi... and I love you."</p>
+
+<p>"......"</p>
+
+<p>His face looked as if he had heard a declaration of separation rather than a confession of love.</p>
+
+<p>He looked like a person standing beneath a collapsing sky.</p>
+
+<p>His lips parted as if in a sigh, and his furrowed eyelids trembled slightly, like someone who had just heard a cruel sentence taking everything away, not a tender murmur meant to fill and satisfy.</p>
+
+<p>Taking a deep breath to release the air I'd been holding, I placed the beer bottle on the table and rubbed my damp hands on my pants. My lips instinctively pressed into a firm line.</p>
+
+<p>Was my confession too immature? Was the word "love," uttered by a twenty-two-year-old after only a few months of dating, too flimsy to inspire belief?</p>
+
+<p>But I was sure that the feelings melted into our shared connection, though unspoken, had evolved naturally into love before I knew it.</p>
+
+<p>My feelings for him were too complex to be contained within the simple phrase "I like you." What I saw through him wasn't just rosy palpitations or butterflies. If the definition of love ultimately differs for every person and every lover, then no matter how carefully I searched, the word closest to what I felt looking at him now was love.</p>
+
+<p>"......"</p>
+
+<p>"......"</p>
+
+<p>As if shaking off a deep sleep, he blinked and shook his head a few times. Then he roughly rubbed his face with both hands. When he looked at me again, the whites of his eyes were bloodshot.</p>
+
+<p>He stared at me for a long time, his expression resembling that of someone stung by harsh words and now feeling the sting. Then he stood up from his seat and moved to the one next to mine. Hmm... The breath escaping his tightly closed lips was heavy.</p>
+
+<p>He cupped my cheek, turning my face toward him, and used his long, neat fingers to brush my hair behind my ear.</p>
+
+<p>"Even knowing I'm a man who has never had a serious partner... does Seo Ihyeon still love me?"</p>
+
+<p>I offered him a silent smile as he tried to crack a joke in a tightly controlled voice. He smiled back, rubbing my earlobe with his thumb. He was so warm when he smiled at me. At those times, he looked happy, like someone who had everything he wanted, and I thought I was successfully conveying my feelings to him.</p>
+
+<p>I lowered my head, brushing my cheek against his jawline, and rested my forehead on his shoulder.</p>
+
+<p>"If you knew my true desires beneath this barely contained rationality... you would be very surprised."</p>
+
+<p>It wasn't disappointment over the casual past arrangements he'd had, but rather relief and happiness that he had never given his sincere feelings to anyone other than me before.</p>
+
+<p>He cupped my face again, turning it toward him. His face was overflowing with emotion as he looked at me, but that flow wasn't pointing in one specific direction. I wondered if I had looked similarly complex when he mentioned marriage to me — a feeling that couldn't be defined by a single word.</p>
+
+<p>While still holding my cheeks, his gaze traced my face, and the distance between us slowly closed. His lips were drier than usual. After our lips touched just enough to slightly press against each other, they parted. He brushed his nose against mine, lowered his eyes, and spoke in a low voice.</p>
+
+<p>"From the perspective of someone who can't and isn't trying to restrain himself, I wouldn't think you'd be that surprised."</p>
+
+<p>The hand stroking my cheek moved up to cup the back of my head, resting at my neck. With our foreheads touching, he whispered once more.</p>
+
+<p>"Love me in a way that surprises me even more."</p>
+
+<p>"......"</p>
+
+<p>"It doesn't have to be the right or healthy way. Just love me enough to truly shock me — forget all restraint and dignity when it comes to me. I want you to be so greedy for me that people point fingers and call me a bad man."</p>
+
+<p>"......"</p>
+
+<p>"It has to be that way, or it won't work. I don't think it can."</p>
+
+<p>It sounded as if he was saying that he himself was already loving me in that manner, beyond all measure.</p>
+
+<p>I gently stroked his arms as they firmly encircled my neck with both hands. He pressed his lips to my eyelids and the bridge of my nose. Then, he pulled my neck closer, pressing our faces tightly together, and kissed my temples and ears lingeringly.</p>
+
+<p>"This is the only value I think I can give you with these words — that I've never said them to anyone else before..."</p>
+
+<p>As if to say his confession was insignificant compared to my love, he whispered into my ear in a dry voice, sounding as if he might crumble away like a piece of cookie, breathing softly like the wind.</p>
+
+<p>"I love you."</p>
+
+<p>It was such a small whisper that only I could hear it. But for me, hearing it was all that mattered.</p>
+
+<p>Behind the whispered "I love you," delivered in a low, husky voice, our lips met, and in the moments they weren't touching, he spoke of love. It was as if his lips existed solely to kiss me and declare his love.</p>
+
+<p>Although we had always implicitly avoided direct expressions that defined our relationship, even while sharing many emotions and stories, it seemed he had now decided not to hold back his words anymore.</p>
+
+<p>Even after repeating it so many times, the meaning of love whispered from his lips never felt lightened in the slightest. On the contrary, it was as if every time he uttered the word, a piece of him was being carved away; as if he were bracing himself for that level of sacrifice to speak it aloud, his love flowed into me, carrying weight and accumulating within.</p>
+
+<p>In truth, I had always dismissed words as not very important once feelings were clear. Yet, paradoxically, it was precisely because I knew their importance that I held back from voicing them, even when my own heart was certain.</p>
+
+<p>Perhaps that, too, was one of the things I kept, never giving it to him, which in turn made him anxious. In any case, I realized I needed to be more expressive in every way.</p>
+
+<p>"Don't say it's pathetic..."</p>
+
+<p>I said this while gently stroking his cheek with my fingertips, close enough that our lips could brush. As soon as I finished speaking, my lips were swallowed up. The surface of his lips was dry, but the inner walls beneath and the flesh pressing in were hot and wet.</p>
+
+<p>The word "love" he spoke of seemed to seep into a more essential space beyond the realm of romance, beyond sweetness or emotional fulfillment. My chest swelled every time I heard him whisper. I wanted him immediately.</p>
+
+<p>He parted his lips, alternating between my upper and lower lip, then traced up my cheek with a kiss while sliding his hand from my neck down to my chest. The moment his hand, bunching up my T-shirt, slipped inside to caress my bare skin, I let out a moan and held the back of his head.</p>
+
+<p>While he caressed my ear with his lips and tongue, he moved his hands behind my back, dug into my pants, and grabbed my ass. The way I slightly lifted my body to make it easier for his hands to move — easier for him to touch me — made me realize anew how accustomed I had become to this.</p>
+
+<p>But that thought soon dissipated as he pushed me down onto the sofa with his weight.</p>
+
+<p>Just feeling the pressure of his body — long, which appeared sleek in clothes despite his thick build — pressing down on me made my chin lift and my lips part. As if a puzzle piece fitting into place, his lips settled over mine where they were parted.</p>
+
+<p>His hand, which had slipped between our lower abdomens, had already unfastened the buckle of my jeans. Even while doing that, he didn't stop moving his hips, grinding against my lower body where we were pressed flush together.</p>
+
+<p>"<em>Ugh, mmm... ah.</em>"</p>
+
+<p>As friction and heat built from the movement, I fumbled with my arms to grip the back of the sofa tightly.</p>
+
+<p>After pulling my jeans wide open, he pushed my T-shirt up and traced his hot tongue up my bare skin. Once the shirt was pushed up to my armpit, he circled my nipple a few times with his thumb before licking from the bottom up in a caressing motion.</p>
+
+<p>"<em>Ngh... ah.</em>"</p>
+
+<p>The stimulation from his tongue repeatedly licking my nipple — which had become hard and more prominent than usual — made my back arch upward. Watching my reaction with wide eyes, he traced down my exposed upper body with his hands until he reached my hips. Grabbing both my jeans and my briefs at my side, he sucked strongly on the flesh around my nipple.</p>
+
+<p>"<em>Ah, yes! Hngh.</em>"</p>
+
+<p>I gripped his shoulders tightly with the hand that had been tearing at the sofa's backrest, and he continued to look up at me, dragging the small piece of flesh in his mouth with the tip of his tongue. Only after I bucked my hips hard several times, clutching his shoulder painfully instead of the sofa back, did he release my nipple with a wet sound.</p>
+
+<p>He hooked his fingers into my jeans and briefs — already dragged low enough to expose my hips and the heat between my thighs — and pulled them off in one swift motion. I raised my legs, letting him. The jeans, peeled inside out, were flung under the sofa, while the white briefs I'd put on after my shower stayed clenched in his hand.</p>
+
+<p>"......"</p>
+
+<p>He straightened his waist and positioned himself between my legs, looking down at me with narrowed eyes. Then, with his nose and mouth covered by the briefs, he stroked the inner thigh resting over his own thigh and slowly ground his hips against me. It looked as if he were breathing in the briefs, or perhaps pressing his lips to them.</p>
+
+<p>Feeling the heat between my legs after so long, intensified by the lingering atmosphere of our confession, I could only gasp for breath as I looked up at him. <em>Smooch.</em> He made a kissing sound against the briefs, then took off his black short-sleeved T-shirt in one motion, tossing it and the underwear onto the floor.</p>
+
+<p>Then he laid down, squeezing into the small gap between the sofa and me. I shifted my body sideways to make room for him, and he lay down pressing his body tightly against my back, then took one of the cushions rolling around on the sofa and placed it under my head. He slipped his arm into the space beneath my neck, pulled my chest toward him, and kissed the nape of my neck, nipping lightly at my skin with his teeth. His firm thigh wedged itself between my legs.</p>
+
+<p>"<em>Mmmph... Ah, mmm.</em>"</p>
+
+<p>As my eyelids grew heavy, my body went limp. I placed my hand over his as he stroked my chest, and when I looked back at him, our lips met. His upper lip pushed down against my lower lip, and then my plump lower lip pressed back up against his. The kiss, without the use of tongues, felt tantalizingly teasing, but the movement of his thigh rubbing between my legs, and the touch of his hand stroking my cock was explicit.</p>
+
+<p>He was wearing indoor pants with a drawstring and elastic waistband, fabric far too thin and soft to conceal the growing bulk of his cock hardening between my cleft.</p>
+
+<p>"Seo Ihyeon...."</p>
+
+<p>Just hearing my name whispered while he rubbed his nose and lips against my earlobe made my body tremble. It truly was a great voice, too. Not inherently a comforting sound, but that particular low rasp created an impressive accent that made it unforgettable. Especially when he lowered his tone even further during intimacy, infusing it with breath as he whispered in my ear... even more so then.</p>
+
+<p>"I love you."</p>
+
+<p>Hearing such a confession while he grazed his lips across the curves of my ear, accompanied by his warm breath — it was indescribably sexier.</p>
+
+<p>Extending his arm over my waist to grip my cock and quickly stroke upward, he kept pressing his body against mine. Half-crushed beneath him, I stroked his cheek.</p>
+
+<p>"<em>Hngh, hngh.</em>"</p>
+
+<p>Grasping his wrist tightly as he pinched, twisted, and tugged at my nipple, I pushed my hips back, pressing myself flush against his cock.</p>
+
+<p>After broadly sweeping his hand over me, he slipped his hand between his groin and my ass. His index and ring fingers spread open both sides of my entrance, while his middle finger rubbed around the entrance as if exploring before sliding in through the narrowly closed folds of flesh. I bit my lower lip and let out a muffled moan. It wasn't from pain.</p>
+
+<p>"<em>Haa, hngh. Hngh.</em>"</p>
+
+<p>Letting go of his wrist that I had been clinging to, I reached my arms back and grabbed his ass. Beneath the thin fabric, I could feel the movement of tightly bunched, writhing muscle.</p>
+
+<p>Without rushing, without being rough, yet concealing an intense excitement right behind him, poised on the brink of explosion. His long, firm fingers probed inside, stirring, sliding lightly over the sensitive inner wall, and then, mimicking penetration, they stabbed rapidly into my depths.</p>
+
+<p>"<em>Haa, ah. Ah. Hnh... ah.</em>"</p>
+
+<p>Perhaps deliberately, each time his fingers pressed heavily over the most sensitive spot inside me, I tilted my chin up, closed my eyes, and pulled his hips harder toward me.</p>
+
+<p>"Already... your scent is so potent..."</p>
+
+<p>I opened my eyes at the sound of his voice, heated as if savoring something, and turned around. His lips, which had been kissing my jawline, cheek, and earlobe, seemed to be waiting, and then they enveloped my lips, parted by excitement and moans. His lips were no longer dry.</p>
+
+<p>It seemed that the strength of the scent indicated the level of my arousal to him. If it meant my reaction was faster than usual, that was true. However, his own scent was thoroughly saturated in the air of the entire living room, pressing down on everything in the space, including me.</p>
+
+<p>Inside me, his fingers curled, pressing against the heat within, as he looked down at me with damp eyes and whispered — our parted lips barely brushing —</p>
+
+<p>"Your scent... it makes me feel... human."</p>
+
+<p>A deep kiss immediately followed. The sheer delight of being the one to break down his defenses made me dizzy, as if I might collapse even while lying down. As the scent rushed in with the kiss, I opened myself completely and closed my eyes.</p>
+
+<p>"<em>...Ah.</em>"</p>
+
+<p>But in the next moment, a strange sensation registered deep inside my body, and I reflexively grabbed his wrist. I turned my head, pushing away his tongue that was sweetly conquering my mouth, and looked down. Annoyed at being interrupted, he let out a soft, unsteady breath near my ear, ignoring my resistance as he continued moving his fingers.</p>
+
+<p>"Hey, just a moment... right now, I'm a little..."</p>
+
+<p>He climbed over me so that I was almost completely on my stomach, creating a huge arch in his body as if he were already inside me, and driving his fingers as deep as they could possibly go as he pushed my hips up.</p>
+
+<p>"It's not 'just a moment'... Why should I stop?"</p>
+
+<p>"I think something came out... inside..."</p>
+
+<p>"......"</p>
+
+<p>He paused his movements for a moment. But soon, he began thrusting inside faster than before, grinding his entire body against mine. His wet breaths, moistening my ear and panting close by, overwhelmed my thoughts with arousal. His other hand slipped inside my parted lips, touching the soft inside of my cheek, and I instinctively sucked in, drawing his long finger deep into my mouth.</p>
+
+<p>"It's just pre-cum flowing in."</p>
+
+<p>"It's not that... Hngh."</p>
+
+<p>I couldn't finish my sentence as his fingers smoothly slid out from between my legs. His fingers, alternately applying pressure and tracing my tongue, were so soft and flexible that they seemed to awaken every sensation in my mouth that I hadn't even known existed. Further thought was impossible.</p>
+
+<p>The withdrawn hand rubbed in and out between my legs with obscene movements. The palm left a slick wetness wherever it swept past, and he deliberately twisted his palm to create lewd sounds, looking down as if to remind me.</p>
+
+<p>"Look at this. You've leaked so much... If it's like this, every time you twitch, it's just going to seep inside..."</p>
+
+<p>Instead of telling him to look away, I reached back, pulled his neck toward me, and kissed him. At this point, I didn't care what happened; I just wanted him deeper, closer, now. No matter how much I breathed in his scent through the kiss, I couldn't quench the burning thirst throughout my body.</p>
+
+<p>As his fingers withdrew, he ground his cock hard against me from behind, pressing himself tightly against me, and then he bit down gently on my lower lip. Releasing the soft flesh he had been holding between his lips, he spoke in a voice so low it felt secretive.</p>
+
+<p>"Shall we go to the bedroom?"</p>
+
+<p>"......"</p>
+
+<p>I nodded. Sitting up, he pulled me to sit facing him on his thighs. Even as he carried me like that across the room to the bedroom, he didn't let my arousal cool even slightly, moving his lips constantly from my mouth to my jawline, my neck, my shoulders... kissing everywhere his lips touched.</p>
+
+<p>With me clinging to his waist, he got onto the bed on his knees and immediately tumbled onto the mattress with me. His blue eyes were right in front of my face, looking over every part of my face as he stroked my hair, which was buried in the large pillow.</p>
+
+<p>His eyes, reminiscent of a turbulent sea, were captivating enough to be unforgettable even after a fleeting glance. It wasn't just that he was flawlessly perfect, like a painting or a sculpture; he radiated a mysterious aura and presence, leaving a deep mark on the impressions of those who he gazed upon... The fact that this beautiful man was the one I loved, and the one who loved me, felt newly profound. Perhaps it was because, only today, we had first permitted each other the expression of love.</p>
+
+<p>As I stared at him as if entranced, he lifted his upper body after kissing my nose and lips. The front of his black loungewear was unnaturally prominent, and the fabric between his legs was stained a deeper black from the copious pre-ejaculate of a Golden Alpha.</p>
+
+<p>He quickly shed his lower garments and, even in his semi-erect state — his cock already exceeding the maximum expansion of many men — he slid it onto me, positioning himself between my legs.</p>
+
+<p>"<em>Hhh... mm...</em>"</p>
+
+<p>Just the feeling of his cock brushing against my skin made my hips lift off the surface. He swept his hands down my legs, gripping both ankles and pushing them up toward my chest. Naturally, my knees bent, and the next moment, my bent legs straightened again, my ankles hooking over his shoulders. The angle pressed his groin even tighter against my ass. The feel of our bodies together made my breathing even more ragged. As he stroked my thighs and calves, he arched his back, applying friction to what lay between us.</p>
+
+<p>"<em>Hah, ngh. Ah. Ngh, hnh.</em>"</p>
+
+<p>With our eyes locked on each other, our heaving chests created a tense atmosphere with their irregular rhythm.</p>
+
+<p>As he braced his hands beside my shoulders and bent his upper body, my lower body folded in half along with his movement. I cupped his face as it approached, brushing aside his sweat-dampened hair with my hands. As I looked at his face — repeatedly drawing close to kiss and then pulling back — I waited for his hot Alpha, rubbing against me, to press into my depths.</p>
+
+<p>"<em>Ah, hah!</em>"</p>
+
+<p>I gripped the sheets and bit my lip, but what I felt from below as his length pushed in was far from pain.</p>
+
+<p>The thick, slickly wet shaft penetrated the walls of my body, which had contracted back to their original state after days without sex, without hesitation. It wasn't quite painful, but I vividly felt the sensation of raw flesh — which had been healing and sealing together — being forcibly pulled open by the merciless intrusion from outside.</p>
+
+<p>To be honest, I preferred it that way. I tilted my chin up and parted my lips, fully satisfied as something huge and scalding slowly, distinctly filled me. His cock always felt like it was piercing straight to my lungs and heart, suffocating me and interrupting my blood circulation. Yet, with barely any breath and only a slight amount of blood, I felt more alive than ever before.</p>
+
+<p>He lowered his upper body, watching every reaction I had as if swallowing it whole, and took my lower lip into his mouth, sending a tingling stimulation through with his lips and teeth, accompanied by a dizzying, thick, potent, and lewd scent.</p>
+
+<p>"<em>Mmm, mmm... Haa, ugh.</em>"</p>
+
+<p>The moment he pressed his body close enough for my knees to touch his shoulders, the deeper parts inside me spread open. I tilted my chin up, stroking his flexing arms, and lifted my head. He was withdrawing, only to thrust back in deeper than before, his face contorting to match his own rhythm of repeated thrusts. I released my grip on his arms, letting my hands travel up over his broad, thick shoulders and the taut, long, strong nape of his neck.</p>
+
+<p>I slowly traced my fingers down his features: the dark eyebrows that furrowed sharply toward his brow when he was serious, displeased, or sometimes just feeling mischievous; the deep, slate-gray eyes set closely below those brows, as if proving his somewhat complex heritage; the straight bridge of his nose, lending him masculine breadth and height; and finally, his sensual lips, which looked sexy whether they were closed, slightly parted, or especially when he pronounced the English letters F and L.</p>
+
+<p>He was breathing in deeply, his shoulders rising and falling, focused entirely on driving deeper inside me while letting my touch linger on his face. As my fingers traced over his lips, he pursed his mouth and kissed them. I looked up into his eyes — eyes that were pulling my lower lip wide before drawing it up to rub against my finger — and forced out a tight, constricted voice.</p>
+
+<p>"Awi's pheromones... I sometimes wonder what they smell like."</p>
+
+<p>"......"</p>
+
+<p>Perhaps surprised by the unexpected topic, his eyes narrowed slightly. He gave his lower lip a quick, moist sweep with his tongue, then briefly slowed the pace of his hips.</p>
+
+<p>"I bet they're a really... good scent, right?"</p>
+
+<p>"......"</p>
+
+<p>"I... won't be able to know, though."</p>
+
+<p>He looked down at me for a moment before starting to move his hips with renewed fluidity. Bending his arms, he leaned his upper body completely toward me, driving himself deeper inside me and stealing my breath. I couldn't think or say anything else. All I could do was feel him, hold him, inhale the perfume he wore instead of his pheromones, and become one with the rhythm he set.</p>
+
+<p>He buried his lips deep in my neck, hidden by my hair, sucking at my skin to leave a mark, driving himself deeper. The entire mattress swayed with the force of his movements inside me.</p>
+
+<p>"<em>Hah, ugh... hnh....</em>"</p>
+
+<p>As I ran my fingers through his hair and slowly opened and closed my eyes, his face was right in front of mine.</p>
+
+<p>"Did you forget I'm a Golden?"</p>
+
+<p>"......"</p>
+
+<p>"I won't let anyone smell it...."</p>
+
+<p>He told me not to make that face. He promised — even though I hadn't asked him to — that he would make sure no one else could catch that scent.</p>
+
+<p>I nodded. I pulled on his sweat-dampened nape and kissed him first, whispering for him to keep it from anyone else's notice. I didn't want to think about whether this greedy desire — wanting to claim even his scent, which I couldn't smell, as mine, to seal it away as mine — was a healthy form of love.</p>
+
+<p>The heat building inside my body from his rhythmic movements prevented me from sustaining any longer thoughts.</p>
+
+<p>He restrained himself until my inner walls had fully adjusted to his size, and then he lunged as if challenging me, swallowing my lips and beginning to thrust his hips as violently as he desired.</p>
+
+<p>He didn't just use his hips or his cock; his method, which always involved causing ripples throughout my entire body, demanded tremendous energy and, in turn, unleashed an equally tremendous pleasure.</p>
+
+<p>Scraping my inner walls as he withdrew, then thrusting in at once with a tight heaviness enough for the fluid pooled thickly inside to spatter out, I repeatedly spread and closed the toes of my feet resting on his shoulders.</p>
+
+<p>"<em>Haa, ah. Ah. Hah.</em>"</p>
+
+<p>Sensing the tidal wave rolling in from the distant sea, I clung tightly to his shoulders and gasped, as the approaching sensation of knotting slowly stirred the blood within me.</p>
+
+<p>If the previous instances of knotting had felt like accidents completely dominated by arousal, this time was different. Although his eyes, looking down at me, were glazed over with pleasure, they were clear. They were eyes that were fully aware of what he was doing. In fact, the intense friction happening inside me felt surprisingly calm and collected.</p>
+
+<p>Inside my body, accepting the powerful pulsing of his knotting — as if to prove to me that he was alive — I came even without touching my cock. But the initial release was no longer the issue. The pleasure and orgasm continued even after it ended. My highly sensitized cock kept leaking fluids, reacting on its own accord.</p>
+
+<p>After a deep kiss, he rubbed his face against my cheek until my nose felt crushed, and called my name amidst his ragged breathing.</p>
+
+<p>"Seo Ihyeon..."</p>
+
+<p>"......"</p>
+
+<p>"I love you."</p>
+
+<p>"......I love you too."</p>
+
+<p>He pulled his eyebrows together near the bridge of his nose and murmured against my lips, hoping that whatever happened in the future, the sincerity of this moment would never be doubted or damaged.</p>
+
+<p>Then he added, his voice sounding as if something were tightly blocking it.</p>
+
+<p>"I'll... I'll really do well."</p>
+
+<p>I remembered hearing him say something like that before. I wrapped my arms around his neck, which seemed to be thinking only about what he couldn't give despite all he had already given, and kissed his hot lips.</p>
+
+<p>Whether it was because of the pleasure of the knotting inside me, or something else, I stroked his contorted face, kissed his eyelids, nose, cheeks, and lips, called his name, and told him I loved him. His words — that he was actually anxious even at the moment of knotting inside me — lingered in my heart.</p>
+
+<p>Whether he realized my intention or not, he looked down at me with a hazy smile. Stroking my hair, pouring kisses all over my body, leaving marks, tightly pulling my body into an embrace, he came, heating my insides with his swollen knot, expanding my inner walls to the maximum. Even the sensation of an enormous amount of cum trickling out between my legs as the knot subsided was an extension of sex.</p>
+
+<p>Without eating, we clung to each other's bodies until past midnight. All that remained on his bed after the sex was one naked body, its sheets soaked with sweat, cum, fluids that looked like an overturned two-liter bottle of water, and the angry red marks he had left all over my skin.</p>
+
+<p>For me, too exhausted even to stand in the shower, he — never seeming to tire and still fully hard as always — prepared a bath for me in the tub. I had no appetite, but he brought me a banana and a glass of milk while I soaked limply in the water.</p>
+
+<p>After bathing just long enough to wash off the fluids, we went to my room instead of his ravaged bed and got into bed together.</p>
+
+<p>I was giddy about sleeping together for the first time since we'd had sex. And, unusually, it was hard to hide. We shared one large pillow, lying facing each other and stroking the other's body as if enjoying the afterglow.</p>
+
+<p>He bent the arm he had slipped into the space between my neck and shoulder beneath the pillow, wrapping it around my shoulder, while his other arm held my waist, slowly stroking my side near my ribs.</p>
+
+<p>I wrapped my arms around his back, my thumb tracing patterns on his skin, then lifted my chin to look up at him and asked,</p>
+
+<p>"When I wake up tomorrow, I won't have turned into a toad or a beast, right?"</p>
+
+<p>He smiled without opening his eyes. Then, stroking the curve of my shoulder where he held me, he said,</p>
+
+<p>"Isn't the story usually about a toad or a beast turning human after realizing true love? I think the order is reversed."</p>
+
+<p>The memories of him proposing and of us allowing each other to use the word "love" felt so distant it was hard to believe they were real, yet the strength of his arms pulling me closer as I shifted, and the pressure of his lips on my forehead, were proof of it all.</p>
+
+<p>He kissed my forehead and brushed back my hair, murmuring it was time to sleep, and I closed my eyes. My deepest sleep was always in his embrace.</p>

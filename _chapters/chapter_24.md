@@ -5,8 +5,10 @@ chapter_number: 24
 chapter_id: "V5.4"
 title: "Ding"
 korean_title: "Ding"
+permalink: /chapters/chapter-24/
+excerpt_separator: "<!-- section-excerpt-end -->"
 ---
-
+<div id="section-1" class="hybrid-section" data-section="1">
 <!-- Chapter 24 — Ding -->
 
 <p>Unlike Juhan's surprisingly simple room, Yuni's space was so cramped with all kinds of belongings that it was difficult for three people to move around at once. On top of that, a uniquely restless energy drifted through the air, the particular disorder left behind by someone about to leave.</p>
@@ -172,9 +174,9 @@ korean_title: "Ding"
 <p>Who should he contact? There was no need to think long. The meager contact list saved on his phone didn't even reach ten numbers.</p>
 
 <p>He stared blankly at the name saved as "Awi" — previously "Director" — and rubbed his thumb over it for a long time. Whether he was tracing the memories represented by that name, or wishing for them to be erased, Ihyeon himself didn't know.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-2" class="hybrid-section" data-section="2">
 <p>"Ihyeon-ssi."</p>
 
 <p>At the urgent voice, he looked up. Inwu, who had parked tight against the curb, was already walking quickly toward him, half-running. Ihyeon shifted awkwardly and stood.</p>
@@ -598,9 +600,9 @@ korean_title: "Ding"
 <p>"At least then... something will happen."</p>
 
 <p>The voice that came from behind him was no longer laughing.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-3" class="hybrid-section" data-section="3">
 <p>Among the many books Morae nuna had collected, there was a work by the French philosopher Jacques Derrida. He had often borrowed whatever he felt like reading from her back then, regardless of genre or content — any well-regarded book was nothing more than a way to kill time. Now, he could no longer remember what had led him to choose that particular one, unpolished as it was and riddled with mistranslations.</p>
 
 <p>At the time, reading had been a mechanical act — filling envelopes of time with words until they were full, setting them aside, then opening the next one and filling it again. The elegance of the prose, whether the sentences flowed — those things hadn't mattered to him then.</p>
@@ -664,4 +666,5 @@ korean_title: "Ding"
 <p class="glossary-entry"><strong>Ding</strong>: A surfing term. A crack or break in a surfboard.</p>
 <p>3) Ted W. Jennings, <em>Reading Derrida / Thinking Paul: On Justice</em>, translated by Park Sung-hoon, Greenbee (2014).</p>
 
+</div>
 </div>

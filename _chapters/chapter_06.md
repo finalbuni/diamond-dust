@@ -5,8 +5,10 @@ chapter_number: 6
 chapter_id: "V1.6"
 title: "Alienation 1"
 korean_title: "소외 1"
+permalink: /chapters/chapter-06/
+excerpt_separator: "<!-- section-excerpt-end -->"
 ---
-
+<div id="section-1" class="hybrid-section" data-section="1">
 <!-- Chapter 6 — Alienation (1) -->
 
 <p>The probability of winning the lottery jackpot: 1 in 8,145,060.</p>
@@ -242,9 +244,9 @@ korean_title: "소외 1"
 <p>The silver sedan, struck violently on its rear passenger door, spun out of control — thrown backward, lunging directly toward the backseat of her taxi alongside the truck that had hit it. The taxi driver sustained serious injuries. She died instantly.</p>
 
 <p>From the moment the driver shouted and she looked up, everything had unfolded in less than thirty seconds.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-2" class="hybrid-section" data-section="2">
 <p>The place where I opened my eyes was unfamiliar.</p>
 
 <p>It wasn't the room I used at Manager Han's house.</p>
@@ -930,4 +932,5 @@ korean_title: "소외 1"
 <p><em>To be continued in Diamond Dust, Volume 2.</em></p>
 <p class="glossary-entry"><strong>Paddling</strong>: A surfing term. The act of lying prone on the board and using one's arms to move through the water, in order to reach a position to catch a wave.</p>
 
+</div>
 </div>

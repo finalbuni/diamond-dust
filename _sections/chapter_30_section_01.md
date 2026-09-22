@@ -1,0 +1,193 @@
+---
+layout: chapter
+volume: "Side Story I"
+chapter_number: 30
+chapter_id: "S1.2"
+title: "Side by Side"
+hybrid_short: true
+section_number: 1
+section_count: 3
+permalink: /sections/chapter-30/1/
+excerpt_separator: "<!-- section-excerpt-end -->"
+---
+<!-- Chapter 30 — Side by Side -->
+
+<p>Someone is blowing a bubble of gum.</p>
+
+<p>A bust of a person blowing bubblegum filled a rectangular canvas roughly 110 centimeters tall and 80 centimeters wide, but because the bubble itself was so large, the person's face was hidden entirely. The vivid pink of the background — the kind that seemed like it would emit the sweet scent of a lollipop if you leaned in close — and the blue of the bubble were artificial colors reminiscent of cheap candy, far from anything natural or healthy. That contrast threw Choi Inwu's signature quality into sharp relief: a bizarre cheerfulness, an unsettling cheerfulness, entirely his own.</p>
+
+<p>"The pieces — I heard they're all sold already."</p>
+
+<p>Shushu, who had lingered in front of the bubblegum canvas longer than any of the three works Inwu was presenting at this exhibition, finally spoke.</p>
+
+<p>"He has quite a few fans now. There are even two or three enthusiastic collectors."</p>
+
+<p>"The solo exhibition was really impressive. And everything since then has been great too."</p>
+
+<p>Shushu nodded, as if to say it was only natural.</p>
+
+<p>For his solo exhibition — which also marked Phantom gallery's reopening — Inwu had presented a total of eighteen works. The show was a great success, earning praise for carrying forward his singular individuality while simultaneously revealing a deeper self, a more expansive world, and a serious contemplation of art. Every single piece sold during the exhibition period, which surprised both Liu and Manager Han. Considering the days when one of Inwu's paintings had been among the last remaining works at the Hong Kong Art Fair, the result was nothing short of astonishing.</p>
+
+<p>"Outside of his clinic hours he's almost always in the studio, so it's hard to see him these days."</p>
+
+<p>Shushu smiled at Liu's comment, which had the tone of someone marveling at the unbelievable transformation of a wayward son. The two left the area in front of Inwu's paintings and moved on to the final exhibition room.</p>
+
+<p>During the recent renovation, the second-floor gallery at Phantom had its original concrete wall — the one that had divided the hall into two large rooms — demolished. This made it far easier than before to rearrange the space to suit the nature and scale of each exhibition. Even the placement and size of the windows had been completely redesigned, so that works suited to natural light and those that were not could each be displayed to their best effect.</p>
+
+<p>For this exhibition, the hall was divided into three rooms. Each room was connected to the others through labyrinthine corridors, giving visitors the feeling of embarking on a brief but interesting journey. It was an approach Phantom had never taken in previous exhibitions, which had always centered solely on the artwork itself.</p>
+
+<p>Projected onto the walls of these labyrinthine corridors were the faces of visitors who had come to Phantom over the past three months. Liu had personally photographed those visitors who consented after the purpose of the shoot was explained, and the images were woven together into a video piece. It was his idea for expressing the exhibition's theme: "Variety."</p>
+
+<p>People striking confident, model-like poses. People smiling while shyly covering their mouths. People stiff and rigid. People pulling exaggeratedly funny faces. People gazing comfortably and openly into the lens.</p>
+
+<p>Walking slowly, following the sights of people whose personalities were as varied as their appearances, visitors could eventually reach the final room — where sunlight poured in brightly, like encountering light at the end of a cave.</p>
+
+<p>This was the only exhibition room bathed in natural light. The summer sun pouring through the steeply angled skylight was dazzling. Eyes emerging from the dark corridor needed a moment to adjust. The whole structure had been designed to compress the experience of exiting a tunnel or cave and finally reaching a destination.</p>
+
+<p>"The exhibition planning is excellent. You really put a lot of effort into this one, considering it's the last."</p>
+
+<p>It was true. Ever since the decision to leave Phantom had been made, Liu had poured everything into preparing this exhibition over the past five months, determined to have no lingering regrets. He didn't bother denying it.</p>
+
+<p>"I'm glad I came to see it early today. Once the exhibition opens, it won't feel like this anymore."</p>
+
+<p>Captivated by the quiet exhibition room itself — bathed in a white light so abundant it felt almost unreal — Shushu walked slowly toward the center of the room, taking it all in.</p>
+
+<p>"......"</p>
+
+<p>As he turned to take in each work, his gaze gradually fixed on one piece in particular. It was a work that Ihyeon had sent after obtaining permission from "The Hands" to have it included in Liu's final exhibition at Phantom.</p>
+
+<p>The large-scale piece, which occupied an entire wall of the exhibition room, depicted a bright sky filled with countless stars and suns existing together.</p>
+
+<p>The coexistence of things that could not coexist. All the various beings who already share the world as its members — whether one likes it or not, whether one acknowledges it or not.</p>
+
+<p>Ihyeon's work, which resonated so deeply with the theme of this exhibition, brought to mind his joint project with Ben that had been unveiled last winter. Just as the moon and stars are not the sole rulers of the night sky, the stars do not disappear from the daytime sky simply because they cannot be seen.</p>
+
+<p>It was no accident that Liu had chosen "Variety" as the theme for this exhibition — the first and last he had planned and executed alone at Phantom — nor was it a coincidence that Ihyeon's works, which showed flexible shifts in technique and style, consistently carried an undercurrent of respecting diversity and coexistence.</p>
+
+<p>Experiences that had shaken his sense of self and his relationships to their very roots were changing the very perspective through which he viewed himself and the world.</p>
+
+<p>Shushu glanced back at Liu, who had been standing a few steps behind so as not to interrupt his contemplation. Liu sensed mischief coming. Judging by the expression on his face — lips pressed tightly together, suppressing a smile while shaking his head — teasing was sure to follow.</p>
+
+<p>"What's it like dating someone who paints things like this?"</p>
+
+<p>"Hmm... a feeling you wouldn't understand even if I told you?"</p>
+
+<p>"Boring guy."</p>
+
+<p>After his relationship with Ihyeon had been mended and they officially announced to the people around them that they were lovers, Liu had been the target of relentless teasing. The reason was that he was in an absurdly dramatic relationship that seemed entirely out of character for him.</p>
+
+<p>Feeling unfairly singled out every time, Liu played dumb and countered with dry sarcasm, which prompted Shushu to turn back toward the painting with a disgruntled look.</p>
+
+<p>"You really can't afford to lose Ihyeon-ssi — not as a lover, and certainly not as a gallerist."</p>
+
+<p>Liu nodded deeply, indicating he knew exactly what that meant. Then he walked a few steps forward and stood beside Shushu.</p>
+
+<p>"I thought I would die if I couldn't acquire it. This time it was genuinely a close call."</p>
+
+<p>Shushu let out a small scoff, as if telling him not to pretend to be pained, but Liu was serious. It wasn't simply possessiveness as a lover; as a collector who cherished art, his desire to own this particular piece was exceptional.</p>
+
+<p>"So it's already sold?"</p>
+
+<p>"He's an artist causing a stir in Paris, and this is his first exhibition in Korea. Many people wanted to buy it without even seeing the work."</p>
+
+<p>"And you held back? That's admirable. Real patience worthy of praise."</p>
+
+<p>Shushu casually draped an arm over his shoulder and gave it a playful pat.</p>
+
+<p>"I'm just waiting for it to hit the secondary market. What patience are you talking about?"</p>
+
+<p>"You're learning to control your impulses. There's potential for growth."</p>
+
+<p>Liu nudged his side with an elbow and laughed, shaking his head dismissively. Just as the playful mood began to fade, Shushu strolled toward the other pieces and said casually,</p>
+
+<p>"Actually, about two weeks ago? Seon-yu visited the studio once."</p>
+
+<p>"......"</p>
+
+<p>"He came to say thank you for connecting him with the opportunity to hold the exhibition, and brought a piece as a gift."</p>
+
+<p>After returning to Korea, Hong Seon-yu had been searching for a gallery to host an exhibition, but quietly disappeared without any success. By then, Ihyeon had already left for Paris, Liu was no longer in a state to devote energy to other people's affairs, and Shushu had stopped mentioning Seon-yu's name altogether.</p>
+
+<p>More than a year passed. As the name Hong Seon-yu — and the unfavorable impression the Korean art world held toward it — gradually faded from memory, his first exhibition under the name "Hong Seon-yu," rather than "SEONEW," was held at a small private gallery in the metropolitan area. Shushu had arranged it.</p>
+
+<p>"He said he wanted to... start over with me. That he'd been thinking about it a lot during that time."</p>
+
+<p>"......"</p>
+
+<p>Though unintentional, Liu's steps halted without him realizing it.</p>
+
+<p>"Don't make that face. I refused him."</p>
+
+<p>"So what? It's your life and your decision. I won't interfere with whatever choice you make anymore."</p>
+
+<p>Shushu smiled faintly as he watched Liu awkwardly avert his gaze and rub his jawline.</p>
+
+<p>"Watching the downfall of someone I once loved with everything I had... it was bitter. It wasn't that I still had feelings for Seon-yu."</p>
+
+<p>When he had first heard that story, Liu hadn't been able to believe it, nor understand it. He had focused only on the fact that Hong Seon-yu had betrayed Shushu, and had condemned Shushu for being foolish enough to try and help him even after such a betrayal. Even now, perhaps he couldn't say he fully understood.</p>
+
+<p>But he could nod his head at the understanding that a deeply entangled relationship cannot be clearly judged from a few clues observed on the outside.</p>
+
+<p>"His work seems to have changed a lot — probably from hitting rock bottom after losing everything. If it hadn't changed, I wouldn't have been able to connect him with the gallery. I made the introduction, but if the owner hadn't liked the work, that exhibition never would have happened."</p>
+
+<p>"It's a relief, I suppose." Shushu added, deliberately keeping his tone casual, then stopped just before fully leaving the exhibition hall and looked back one last time.</p>
+
+<p>It felt like watching the end of an adventure or a journey — a lingering sadness, yet also a sense of anticipation for the ordinary days that would follow, like finishing a film. Setting aside the quality of the individual pieces, Shushu thought it was a great exhibition. He tapped Liu on the back with a smile. Liu, who had been leading the way, stopped and turned around. He took one last look at Ihyeon's work over Shushu's shoulder, then checked his wristwatch and signaled it was time to head downstairs.</p>
+
+<p>The two descended the stairs and, without needing to say a word, naturally drifted toward the café located deeper inside the first floor. Unlike in the past — when visits to Phantom were mostly work-related — the café had played a significant role in increasing the frequency of Shushu's visits. Sometimes he even stopped by privately just to have a coffee and leave.</p>
+
+<p>Although all of Phantom's exhibition halls were closed to visitors that day for the "Variety" exhibition, there were only a few empty seats left in the café. The entire south and west walls facing the outside had been replaced with windows, offering excellent views and natural light, and that alone had been enough to quickly establish it as a social media hotspot. For a month or two there had actually been more café customers than exhibition visitors, but things had since settled into a stable rhythm, and the gallery itself was no longer paralyzed.</p>
+
+<p>Just as Juhan had intended when he first pushed for the café, many customers who came to take photos ended up browsing the exhibition afterward, and quite a few looked closely at the brochures on offer. With that result, it seemed his goal of lowering the barrier to entry for the gallery could be considered a success.</p>
+
+<p>"So Juhan has completely settled into managing the café now?"</p>
+
+<p>"Surprisingly, customer service seems to suit him perfectly. He's like a fish in water."</p>
+
+<p>The two of them chuckled as they watched Juhan skillfully handle orders and prepare drinks all by himself behind the bar. While Shushu secured the last available window seat, Liu placed their order. Pickup was supposed to be self-service, but Juhan personally brought the tray to their table.</p>
+
+<p>"Shushu, you're coming tonight, right?"</p>
+
+<p>Setting down an iced coffee with rattling ice, Juhan brought it up first. His wide eyes and raised eyebrows were practically demanding their attendance.</p>
+
+<p>Ihyeon and Yuni were flying in from Paris to see Liu Weikun's final exhibition at Phantom. Aside from Yuni's brief visit in December two years ago due to visa issues, this was the first time either of them had been back home. Juhan had invited acquaintances and arranged a welcome dinner for them.</p>
+
+<p>"You're excited to see your soulmate after so long, Kwon Juhan."</p>
+
+<p>"It seems like the real soulmate is over there now, anyway."</p>
+
+<p>A hint of hurt flickered across Juhan's face as he replied drily, tucking the tray under his arm.</p>
+
+<p>"Anyway, Shushu, don't even think about skipping out — you absolutely must come. Got it?"</p>
+
+<p>Shushu nodded at Juhan, who was seeking repeated assurance. Only then did Juhan relax his expression, boasted that he had prepared especially delicious coffee, and left the table. Though he was pretending to be displeased that Yuni had a lover, his retreating figure looked quite cheerful.</p>
+
+<p>Shushu glanced over at Liu, who checked his wristwatch once more before reaching for his coffee, and lightly stirred his drink with a stainless steel straw.</p>
+
+<p>"You should have asked for a to-go cup."</p>
+
+<p>"Huh?"</p>
+
+<p>"The flight. I think they arrive at five?"</p>
+
+<p>"Yeah."</p>
+
+<p>"You should go."</p>
+
+<p>"...I still have time."</p>
+
+<p>"Your mind is already at the airport. You've been checking your watch for a while now."</p>
+
+<p>Liu, who had been trying hard not to show it, let out a small laugh at the thought that his efforts had been entirely in vain. In truth, he felt more light-footed than Juhan looked excited. He had been in this state ever since hearing Ihyeon say he was coming to Seoul for the exhibition.</p>
+
+<p>Ihyeon had mentioned that once he finished at "The Hands" he planned to do a tour of European art museums, and since they would continue to be part of the same group afterward, there was no need to strain himself adjusting his schedule — but Ihyeon had insisted on coming, showing a rare stubbornness about it.</p>
+
+<p>"You see each other every single month, yet you're still this happy?"</p>
+
+<p>"Me going there is different from Seo Ihyeon coming here."</p>
+
+<p>Avoiding Shushu, who was teasing him with a look that suggested he didn't understand the difference, Liu stood up and took his glass of coffee with him.</p>
+
+<p>As if waiting for the right moment, a visitor cautiously approached and asked Shushu if they could take a picture together. Shushu readily agreed. To avoid interrupting them, Liu exchanged a farewell with only a nod.</p>
+
+<p>He walked out of Phantom holding the iced coffee that Juhan had transferred into a takeout cup. The sky above was clean, like an empty canvas. Liu put on the sunglasses he had tucked into his left breast pocket and got into the driver's seat. They were the same brand he had once gifted to Ihyeon.</p>

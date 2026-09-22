@@ -1,0 +1,174 @@
+---
+layout: chapter
+volume: "Volume 3"
+chapter_number: 16
+chapter_id: "V3.4"
+title: "Change"
+korean_title: "변화"
+hybrid_short: true
+section_number: 6
+section_count: 6
+permalink: /sections/chapter-16/6/
+excerpt_separator: "<!-- section-excerpt-end -->"
+---
+<p>Through the open front door, the laughter of nuna and Juhan drifted into the kitchen. I was tidying up the food with him — everything except for what could serve as side dishes — when I paused for a moment at the lively noise created by just the two of them.</p>
+
+<p>"Ah... those two are a long way from done. They'll probably keep going until dawn."</p>
+
+<p>He turned toward the counter and said this while wiping grease from the plates with paper towels at the sink, so the housekeeper could wash them easily in the morning.</p>
+
+<p>Manager Han, who had come straight here after work, had already called a designated driver and gone home — saying she needed to change and rest properly — but nuna and Juhan were heating up their conversation as if the real fun was just starting.</p>
+
+<p>From ideas for Old Future's autumn season, to nuna's impressions of the diversity of the American art market she'd encountered while preparing for the Chicago exhibition and the management philosophy of that gallery, and finally to the future the two of them dreamed of and were working toward — the topics were endless, and in this they were alike: the more they drank, the deeper the conversation grew.</p>
+
+<p>"It's only midnight, and they'll go until morning?"</p>
+
+<p>After placing the last plate in the sink, he began washing the grease from his hands with liquid soap.</p>
+
+<p>"They're at an age when there's so much to say. They want to explain themselves, be understood, talk hopefully about uncertain plans. Even if they pretend not to like each other, they get along well."</p>
+
+<p>He added that if left alone, they would find their way to the guest room and go to sleep on their own, so there was no need to worry about them. Then he shook the water from his hands and turned toward me. He leaned against the edge of the sink.</p>
+
+<p>"But."</p>
+
+<p>"......"</p>
+
+<p>Just his slightly tilted gaze and the subtle shift in his tone as he changed the subject were enough to create a light tension in the air between us.</p>
+
+<p>"I didn't realize you talked to Choi Inwu every other day."</p>
+
+<p>His voice was gentle, and he smiled slightly as he touched his damp bangs.</p>
+
+<p>"There's nothing special... just everyday talk..."</p>
+
+<p>"Everyday talk like what? About food again?"</p>
+
+<p>Seeing him ask teasingly, I nodded.</p>
+
+<p>"Are you really sure you don't have feelings for Choi Inwu?"</p>
+
+<p>"......"</p>
+
+<p>I stared intently at his face — even knowing it might reveal my own anxiety — hoping to get some hint about his intention in bringing back a topic I'd thought was settled at the table.</p>
+
+<p>Was he perhaps bothered by it?</p>
+
+<p>But to interpret things that favorably... He had been warning me about my relationship with Inwu hyung from quite early on — even back when he treated me as an outsider, as nothing more than an object of suspicion and observation, with no apparent interest in me at all.</p>
+
+<p>As frustrated as I was by my inability to read his mind, I at least hoped I could remain unknown territory to him. But then I remembered how transparently the thoughts of a twelve-year-old — ten years my junior — were laid bare to my eyes. That made me feel a little bleak.</p>
+
+<p>"Not yet..."</p>
+
+<p>"......"</p>
+
+<p>Perhaps it was a reckless gamble I took out of frustration. The alcohol warming my cheeks played a part too.</p>
+
+<p>He pushed himself off the sink and walked toward me. I was the one who had thrown out the bait, yet I was the one whose lips were drying out, unable to predict his reaction.</p>
+
+<p>He walked to the counter — now clean and empty after the leftover food had been put away — and slowly traced the edge of the gleaming marble surface with his finger, looking down at his own fingertips.</p>
+
+<p>"You'll stick to using the car I prepared when you go out, right?"</p>
+
+<p>"......"</p>
+
+<p>He looked up, having abruptly shifted the conversation somewhere entirely removed from Inwu hyung. His eyes seemed to plead for an affirmative answer, so I met his gaze and slowly nodded. I knew everyone around me was worried, and I didn't want to cause trouble through unnecessary actions.</p>
+
+<p>As if that were enough, he smiled, slipped both hands into the back pockets of his jeans, and spoke in a voice that seemed deliberately cheerful.</p>
+
+<p>"Can you come up to the study for a bit before bed? Unlike those two, who came to the housewarming empty-handed, I actually have a gift for you."</p>
+
+<p>"Ah..."</p>
+
+<p>"That's not the face of someone who just heard there's a gift waiting. That's not the expression I was hoping for."</p>
+
+<p>I had always believed that feeling obligated to repay a material gift with something of equal material value could actually be disrespectful to the giver's feelings. But now that I was in a position of receiving so much while having absolutely nothing to give in return, I couldn't shake the feeling that I was in debt — as if I'd borrowed something I had to repay.</p>
+
+<p>"Hm..."</p>
+
+<p>He sighed and leaned down, resting his elbows on the counter, looking at my face — which must have looked like someone meeting a debt collector. His profile was now lower than mine.</p>
+
+<p>"I know I keep saying this, but I'm not sacrificing anything for you, Seo Ihyeon. I'm not stretching myself financially to support you or buy you gifts, and I give gifts to those two and Manager Han quite often. So if you just accept it with a happy face, that would feel like enough of a return to me."</p>
+
+<p>If it were Juhan or Yuni nuna, they would have reacted with clear delight to his gift... In that case, did I think of nuna and hyung — who accepted his gifts without feeling burdened — as shameless? That wasn't it... When it came to my own affairs, judgment was hard. The gifts exchanged among Morae nuna, Yeehan hyung, and me had always been things like books, pens, or keychains.</p>
+
+<p>"Ah, then you do me one favor as well, Seo Ihyeon. Fair and square. That should work."</p>
+
+<p>"......"</p>
+
+<p>He straightened up from leaning on the counter with an expression as if a good idea had just struck him.</p>
+
+<p>"I'd like to see the paintings you've started since moving here."</p>
+
+<p>His smiling face tilted slightly, as if urging an answer.</p>
+
+<p>"...Now?"</p>
+
+<p>He nodded.</p>
+
+<p>"Now."</p>
+
+<p>He said it with an expression that suggested there was no reason why not.</p>
+
+<p>"If you have a strict rule about never showing your work until it's hanging in a gallery, then there's nothing to be done... but since you'll inevitably end up showing Kwon Juhan anyway, once you use him as a model... I don't think you're in the 'absolutely no exceptions' camp. What do you say?"</p>
+
+<p>I didn't really have any ironclad rules I strictly adhered to. And since he was the owner of the gallery that would be managing my work going forward, wanting to check an artist's progress wasn't an unreasonable request.</p>
+
+<p>No — honestly, there was no need to even invoke our positions as gallery owner and a fledgling artist with no income yet.</p>
+
+<p>If there was something he wanted from me, even without the sense of obligation to repay his kindness... I would have wanted to agree to anything.</p>
+
+<p>I looked at his face — hands shoved in his front pockets, shoulders slightly raised, waiting for my answer — and nodded. With that single nod, he broke into a satisfied smile, revealing his even teeth.</p>
+
+<p>The fact that he — someone who felt larger than me in every way, a person so complete and multifaceted he embodied everything adulthood meant to me — was smiling with the pure, unguarded joy of a child receiving a desired toy, and that I was the one who had caused that smile in that moment: it sent a small jolt through me.</p>
+
+<p>It wasn't that I had never experienced another person's joy and happiness directly becoming my own — but this felt different in nature from the warm contentment I felt through Morae nuna or Yeehan hyung.</p>
+
+<p>Every reaction that came through him carried an intensity that muddled my thinking — drawing out impulses and courage I hadn't known I possessed.</p>
+
+<p>Feeling a desire — whose origin and foundation I couldn't even trace — to see that expression more often, and to be the reason for it, along with a deeply sentimental foolishness so characteristic of a twenty-two-year-old, the certainty that if only that wish could come true I could shed everything else and move forward... In this unexpected moment, without any dramatic exchange or special revelation, I truly realized that I liked him very much.</p>
+
+<p>If I feared change, the thing I should have been most wary of was falling for someone. Because it changes you without needing your choice or agreement.</p>
+
+<p>It occurred to me that the version of myself who had sometimes felt an uncharacteristic burst of defiance against rejection and indifference — back when I first met him — might have been a preview of the present. A self-deprecating smile escaped. I deliberately avoided his gaze, smiled faintly, and rubbed my arm for no particular reason.</p>
+
+<p>When I looked up again, he was smiling faintly back at me. Probably just mirroring me — not knowing why I was smiling.</p>
+
+<p>"Shall we go, then?"</p>
+
+<p>I followed him as he led the way down to the basement.</p>
+
+<p>There, and out in the garden, I took several drawing notebooks containing the sketches I'd worked on over five days from the built-in bookshelf and handed them to him. My palms were damp with sweat, my throat dry.</p>
+
+<p>He held the notebooks for a moment, lightly shaking them as if gauging their weight, and raised an eyebrow at me.</p>
+
+<p>"Are all of these things you drew after coming here?"</p>
+
+<p>"Yes."</p>
+
+<p>"Hmm. Looks like you only drew real paintings after I left for work."</p>
+
+<p>He said it with a smile, clearly in good spirits.</p>
+
+<p>Declining my offer to sit, he leaned against the back of the three-seater sofa set away from the wall and silently flipped through the three drawing notebooks. He remained silent even as he checked all the canvases leaning face-down against the wall.</p>
+
+<p>I explained, almost defensively, that the color work was only a test to see if I could mix the shades I wanted with oil paint — but he simply raised a hand, dismissing the concern.</p>
+
+<p>Even criticism or harsh comments would have been better than nothing. His expression, calm and unchanged as ever — neither frowning nor expressing admiration — revealed nothing. If this was how he responded to practice sketches and studies, I would need considerable preparation before I could show him paintings with myself truly inside them.</p>
+
+<p>He reopened the notebooks and looked through a few pages once more, and the faintest smile touched the corners of his lips.</p>
+
+<p>"This... makes the gift I prepared seem awfully meager."</p>
+
+<p>His gaze remained on the pages of the notebook.</p>
+
+<p>He murmured it almost to himself, that barely visible smile, then closed the notebook and rubbed his lower jaw with his large hand, as if covering his mouth.</p>
+
+<p>After holding that pose for a moment — looking down somewhere on the floor, lost in thought — he handed the notebook back to me. Our fingers overlapped slightly as I took it, and he lightly hooked his pinky finger around mine on my ring finger.</p>
+
+<p>"Then I'll wait for you in the study."</p>
+
+<div class="volume-end">
+
+<p><em>To be continued in Diamond Dust, Volume 4.</em></p>
+
+</div>

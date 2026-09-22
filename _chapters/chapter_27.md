@@ -5,8 +5,10 @@ chapter_number: 27
 chapter_id: "V6.3"
 title: "Without Hiding Anything"
 korean_title: "숨김없이"
+permalink: /chapters/chapter-27/
+excerpt_separator: "<!-- section-excerpt-end -->"
 ---
-
+<div id="section-1" class="hybrid-section" data-section="1">
 <!-- Chapter 27 — Without Hiding Anything -->
 
 <p>Liu moved to stand beside him, wrapping an arm around his shoulder as if to steady him. Ihyeon held onto the hem of his coat and followed wherever he led. Before they had walked more than a few steps, he stopped in front of a typical old apartment building in Paris. He entered a passcode on the keypad mounted beside the double doors, and the main entrance unlocked. They stepped into the cramped elevator — barely large enough for two or three people — and headed for the sixth floor.</p>
@@ -1012,9 +1014,9 @@ korean_title: "숨김없이"
 <p>With the burning sensation pounding inside his core, Ihyeon unknowingly rocked his hips and turned his head on the pillow. With half his face hidden by the soft white-covered pillow, he looked back at Liu. The expression looking down at him was so desperate — so at odds with the hips still slamming forward and back — that Ihyeon wanted to say anything at all. But with his body being shaken inside and out, it was impossible.</p>
 
 <p>Just before surrendering completely to the deepening tide of pheromones, he managed only to whisper that he loved him. He couldn't be sure whether the words reached his ears.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-2" class="hybrid-section" data-section="2">
 <p>When he opened his eyes, he wasn't in his own room — the one with the sink across from the bed and the old desk placed before two windows at his feet.</p>
 
 <p>Ihyeon blinked, taking in the scene before him. It took a moment to understand where he was and how he had ended up lying there.</p>
@@ -1328,3 +1330,4 @@ korean_title: "숨김없이"
 <p>Ihyeon tightened his grip on the mug, careful not to let the coffee spill, and thought.</p>
 
 <p>Last night hadn't been their first time together. But it was their first morning after — the first morning they had woken up side by side. And somehow, he felt he would remember this morning for a very long time. Perhaps for the rest of his life.</p>
+</div>

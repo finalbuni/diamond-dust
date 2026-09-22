@@ -4,8 +4,10 @@ volume: "Side Story II"
 chapter_number: 34
 chapter_id: "S2.4"
 title: "Honeymoon"
+permalink: /chapters/chapter-34/
+excerpt_separator: "<!-- section-excerpt-end -->"
 ---
-
+<div id="section-1" class="hybrid-section" data-section="1">
 <!-- Chapter 34 — Honeymoon -->
 
 <p>"Kun, Kun! Let's do spelling practice!"</p>
@@ -245,9 +247,9 @@ title: "Honeymoon"
 <p>Leo was the first to react happily to the visitor. Liu checked his wristwatch and lifted Parang high.</p>
 
 <p>"Parang, looks like Daddy's here."</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-2" class="hybrid-section" data-section="2">
 <p>Even after promising marriage, Liu and Ihyeon couldn't move in together right away. There were still practical matters they needed to handle. But the fact that they had definitively promised marriage alone made the time they had to spend apart significantly less painful.</p>
 
 <p>After their engagement, the two first came to Bali and signed the lease for their current house. The property, made up of two buildings, had appealed to them instantly. The building facing the road would be the gallery, and the one behind it was perfect as their home. They decided to renovate a small storeroom between the two buildings into Ihyeon's atelier.</p>
@@ -677,9 +679,9 @@ title: "Honeymoon"
 <p>Explosively potent pheromones, high body temperature, heat in his lower abdomen, an overwhelming amount of slick, and intense sexual desire...</p>
 
 <p>As far as Liu knew, this was a heat.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-3" class="hybrid-section" data-section="3">
 <p>Ihyeon couldn't stand on his own legs, as if all the strength had left his knees. When Liu forcibly helped him up, his thighs trembled violently, and the spot where he had been sitting was soaked with slick. Seeing the dark stain coloring the gray tiles, Liu felt like he was about to lose control and pounce on Ihyeon.</p>
 
 <p>He gritted his teeth and shook his head. Then he practically lifted Ihyeon up and settled him onto the sofa.</p>
@@ -815,9 +817,9 @@ title: "Honeymoon"
 <p><em>Just to the bed. Just to the bed. Just to the bed.</em></p>
 
 <p><em>Just to the bed.</em></p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-4" class="hybrid-section" data-section="4">
 <p>Entering the house, Liu went straight to the master bedroom, the innermost room down the hall. Contrary to the haste with which he kicked the door open, the movement of setting Ihyeon down on the neatly made bed was careful.</p>
 
 <p>As soon as he was placed on the bed, Ihyeon dragged his hips back and hugged a pillow.</p>
@@ -1081,9 +1083,9 @@ title: "Honeymoon"
 <p>"You'll take responsibility, right?"</p>
 
 <p>Before he could get an answer, Liu covered Ihyeon's lips.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-5" class="hybrid-section" data-section="5">
 <p>Eumhwa.</p>
 
 <p>The fully developed opening of a mature male Omega.</p>
@@ -1433,9 +1435,9 @@ title: "Honeymoon"
 <p>Liu shook his head and flashed a grin at Ihyeon.</p>
 
 <p>"I really can't talk you out of anything."</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-6" class="hybrid-section" data-section="6">
 <p>Two more knots followed while Liu remained inside him. A mixture of arousal fluid and semen continued to leak from around the point of entry, even with the knot plugging the passage. Despite the plug, he had released so much that there was no more space left inside Ihyeon's body.</p>
 
 <p>The two finished the third knot with Ihyeon facing down, taken from behind. Even after finishing, Liu remained draped over Ihyeon's body, rubbing against him for a long time. Then he kissed Ihyeon's bare shoulder and cheek before sitting up.</p>
@@ -1773,9 +1775,9 @@ title: "Honeymoon"
 <p>"No way."</p>
 
 <p>This was how terrifying a rut could be.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-7" class="hybrid-section" data-section="7">
 <p>After another knotting concluded, Ihyeon rested his cheek on Liu's shoulder and went limp. Liu held him, stroking his back until the swollen root finally withdrew.</p>
 
 <p>"Ugh..."</p>
@@ -1883,9 +1885,9 @@ title: "Honeymoon"
 <p>"..."</p>
 
 <p>"Can't our honeymoon last a little longer? Hmm?"</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-8" class="hybrid-section" data-section="8">
 <p>After Ihyeon got out of the tub, Liu wrapped him in a robe and seated him in front of the mirror in the powder room.</p>
 
 <p>Ihyeon looked like he could fall asleep at any moment. With his eyelids half-closed, he looked at Liu through the mirror.</p>
@@ -2067,9 +2069,9 @@ title: "Honeymoon"
 <p>"Dry it thoroughly. Just like when I do it for you."</p>
 
 <p>Liu kissed the damp hair, grabbed his cell phone, and left the bedroom. Ihyeon's flushed face didn't return to normal until some time later.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-9" class="hybrid-section" data-section="9">
 <p>The sunlight was piercingly intense. Liu had to pause for a moment on the steps in front of the main door.</p>
 
 <p>Waiting there for his pupils to adjust to the light, he looked anew at the routine scenery he encountered every day.</p>
@@ -2473,9 +2475,9 @@ title: "Honeymoon"
 <p>Ihyeon, who had only his face peeking out from under the blanket, closed his eyes.</p>
 
 <p>After dropping a comment like that, he instantly fell asleep. Liu, looking down at his irresponsible partner, was filled with a sense of injustice. However, it didn't last long. His partner, who had experienced his first heat with him the night before, was several times more adorable than usual.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-10" class="hybrid-section" data-section="10">
 <p>After confirming Ihyeon was deeply asleep, Liu hastily cleaned up the traces of the previous night. He gathered a huge pile of towels and underwear scattered on the floor and tossed them into the laundry basket before leaving the bedroom.</p>
 
 <p>There were five face towels and eight bath towels in total. These towels, along with the clothes soaked in Ihyeon's fluids, were not something he could entrust to a dry cleaner. Besides, he had already told the cleaning lady to take the day off.</p>
@@ -2665,9 +2667,9 @@ title: "Honeymoon"
 <p>[Let's stay healthy until then and meet.]</p>
 
 <p>Ihyeon's safety and health — that was what Liu desired above all else.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-11" class="hybrid-section" data-section="11">
 <p>Liu, holding a sizable Boston bag, left the bedroom. He walked down the hall and placed the bag on top of the rolling suitcase set near the front door.</p>
 
 <p>It turned out to be quite a bit of luggage after packing two suits, a couple of more casual outfits, three or four pairs of shoes, loungewear to substitute for pajamas, and other basic necessities. It was his baggage for a six-day business trip to Hong Kong.</p>
@@ -2905,9 +2907,9 @@ title: "Honeymoon"
 <p>A large amount of slick flooded out from between his legs — literally pouring out.</p>
 
 <p>Outside the window, the squall danced like waves.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-12" class="hybrid-section" data-section="12">
 <p>The waiting area near the gate at Ngurah Rai Airport.</p>
 
 <p>Standing by the window, Liu stared at the waiting aircraft on the ramp and the runway beyond, his hands shoved into his pants pockets. A drizzle, its intensity greatly diminished, swept across the floor, glistening where it was wet with rain.</p>
@@ -3033,9 +3035,9 @@ title: "Honeymoon"
 <p>With his spirits somewhat lifted, he switched his cell phone to airplane mode.</p>
 
 <p>He had no idea what news he would receive from Ihyeon after the four-hour and forty-minute flight.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-13" class="hybrid-section" data-section="13">
 <p>Ihyeon froze in place for a moment. He didn't know what to do.</p>
 
 <p>The slick that had flooded out soaked his underwear and was now running down his thighs from inside his pants.</p>
@@ -3123,9 +3125,9 @@ title: "Honeymoon"
 <p>Maybe it was better that Liu wasn't here right now. He could test alone in this excited state, and if the result was negative, he could just keep it a secret. When they actually had a baby years from now, he could tell Liu then.</p>
 
 <p>Watching the rain pour down like a curtain, immediately overcome by the wipers, Ihyeon nervously gnawed on his lower lip.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-14" class="hybrid-section" data-section="14">
 <p>Even after parking the car in his home's driveway, Ihyeon sat still in the driver's seat for a moment.</p>
 
 <p>He had been desperate to check immediately, but now that he had arrived home, he didn't feel ready yet.</p>
@@ -3251,9 +3253,9 @@ title: "Honeymoon"
 <p>The third time, and the fourth time, the result was undeniably two clear red lines.</p>
 
 <p>Then Ihyeon crawled into the hanger rack inside the dressing room where he and Liu had had their heat. There was no way the freshly laundered shirts would actually smell like Liu's scent, but psychologically, that wasn't the case. He curled up, surrounded by Liu's shirts, and waited for one more hour — until his plane arrived in Hong Kong.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-15" class="hybrid-section" data-section="15">
 <p>Unlike when leaving Bali, the sky over Hong Kong was perfectly clear. Far in the distance, the densely packed high-rises of the Kowloon Peninsula and Hong Kong Island spread out below. The reality of being in Hong Kong finally began to sink in.</p>
 
 <p>As the plane landed and taxied to the terminal, an announcement indicated that cell phones could now be turned on, and Liu immediately disabled airplane mode.</p>
@@ -3459,9 +3461,9 @@ title: "Honeymoon"
 <p>[Yes, our baby.]</p>
 
 <p>On the other end of the line, Ihyeon repeated Liu's words. The phrase felt like a new kind of love that had never existed in the world before. This time, Liu's eyes welled up.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-16" class="hybrid-section" data-section="16">
 <p>Ihyeon placed the empty skewer, which had held a chicken satay, onto his own plate. It was the last of the five satays Liu had portioned out for him in advance.</p>
 
 <p>"I heard your morning sickness went away. I'm glad to see you're eating well now, Ihyeon."</p>
@@ -3729,9 +3731,9 @@ title: "Honeymoon"
 <p>"But aren't <em>we</em> disappointed? He's been so cold to us ever since Ihyeon got pregnant."</p>
 
 <p>Moonlight streamed in through the large window next to the dining table. The purple confetti scattered around the table twinkled as if coming to life in the moonlight.</p>
-
+</div>
 {% include scene-break.html %}
-
+<div id="section-17" class="hybrid-section" data-section="17">
 <p>By the time he saw the guests out to the front gate and returned, it was past eleven at night. It had been quite a while since Ihyeon had stayed up this late.</p>
 
 <p>As soon as he closed the front door and they were alone, Liu gently wrapped his arms around Ihyeon's back and stroked his hair. Ihyeon looked a little tired.</p>
@@ -3804,4 +3806,5 @@ title: "Honeymoon"
 <p class="glossary-entry"><strong>Satay</strong>: A traditional skewered dish from Malay-speaking regions. Each piece is relatively small in size.</p>
 <p class="glossary-entry"><strong>Gender Reveal</strong>: The act of announcing a baby's sex to those around you, or the party held for that purpose.</p>
 
+</div>
 </div>

@@ -1,0 +1,332 @@
+---
+layout: chapter
+volume: "Volume 3"
+chapter_number: 15
+chapter_id: "V3.3"
+title: "A Choice That Demands Sacrifice"
+korean_title: "희생이 따르는 선택"
+hybrid_short: true
+section_number: 2
+section_count: 2
+permalink: /sections/chapter-15/2/
+excerpt_separator: "<!-- section-excerpt-end -->"
+---
+<p>The moment I stepped out of the bathroom, the view stopped me again. The Han River at night — the same view I looked at every day from Manager Han's living room — yet every time it entered my sight when I wasn't braced for it, it struck me new. It didn't matter where I was seeing it from.</p>
+
+<p>The city lights scattered across the calm water reminded me of Hong Kong at night. Memories of Hong Kong came in a chain, making me feel clearly how much I had changed, and how many chances I had been given to find my way here.</p>
+
+<p>Back then, waiting in a hotel room for his call before going to meet Teacher Suki Kim. Now, standing at the window of the penthouse he had arranged for Morae nuna and Yeehan hyung. Both of those moments had been made by his goodwill.</p>
+
+<p><em>Is it truly all right for you to be so complicated with me?</em></p>
+
+<p>I had answered his question by saying I would repay the debt, even if it meant taking other work, but in truth I was afraid. Not afraid of some third-rate movie scenario — of being caught at a disadvantage, of being used.</p>
+
+<p>As I came to understand that his large hands and broad embrace were not only cold and unyielding, as I slowly learned the many layers of his particular colors hidden beneath the surface — that was where the fear lived. The fear of where my heart and emotions were leading me, how deeply entangled I was becoming with him.</p>
+
+<p><em>Buzz. Buzz.</em> I turned back toward the bed as my phone vibrated where I'd left it and walked over. The name saved on the screen read: Director.</p>
+
+<p>The clash of contradictory feelings — a sharp ache and a thrilling flutter attacking from both sides at once — was already more than I could easily carry. I breathed out slowly, sat on the mattress, and picked up the phone.</p>
+
+<p>I cleared my throat and answered.</p>
+
+<p>"Yes?"</p>
+
+<p>[......]</p>
+
+<p>As if he hadn't expected me to pick up. A beat of silence from the other end. Then a deep sigh, the kind that might be suppressing anger — or might be profound relief.</p>
+
+<p>[Why wasn't the call connecting?]</p>
+
+<p>"Oh — I was just getting out of the shower. Were you calling?"</p>
+
+<p>[Don't be alarmed when you see the missed calls later. I don't have stalker tendencies. I was just worried when you weren't picking up today.]</p>
+
+<p>"I'm sorry. I thought since I'd already told you I got in safely, everything would be fine..."</p>
+
+<p>Both of them had accepted the plan and wanted to leave tomorrow. I had contacted him immediately outside the hotel. He'd said there was no problem, just pack your bags right away and head to the accommodation I've prepared.</p>
+
+<p>After arriving at the penthouse in the car he had sent — a place he'd described as safe due to tight security — Morae and Yeehan had turned their worry toward me. <em>What if the Director's goal isn't to hand us over to Father, but to earn your trust by treating us so well, and then sell you off somewhere?</em></p>
+
+<p>What would he get by selling me off? The only thing that could be called a notable history was the faint trace of having painted, back when it still meant something.</p>
+
+<p>I had contacted him the moment I walked through the door, before I'd even sat down, so it hadn't occurred to me that he would worry simply because the call didn't connect while I was showering.</p>
+
+<p>[I suppose I sound like someone who'd want a report before every shower. Now that I say it out loud, I do seem like a strange person.]</p>
+
+<p>He laughed, a little embarrassed at himself. I shook my head vigorously, even though he couldn't see it.</p>
+
+<p>Considering the time, effort, and money he had poured into all of this, he had every right to know the details as thoroughly as he wanted.</p>
+
+<p>"No — it's just that I'm not very accustomed to keeping in regular contact, so your concern doesn't seem... strange... I don't think..."</p>
+
+<p>I felt like I might have been getting too worked up over something he had said without much thought behind it, and my voice softened and trailed off toward the end.</p>
+
+<p>A brief silence on the other end of the line. Then he spoke with a very soft laugh in his voice.</p>
+
+<p>[Thank you for defending me so earnestly on my behalf.]</p>
+
+<p>A low resonance, like something vibrating deep metal from the base of his throat — a pleasant laugh and a pleasant voice.</p>
+
+<p>Hearing his voice over the phone made me feel as if all the blood in my veins had drained away at once. I bit my lower lip and closed my eyes, a dim sense of dismay settling over me at the realization that this was more serious than I'd expected.</p>
+
+<p>He wasn't making his voice especially sweet. I was simply receiving everything about him that way.</p>
+
+<p>[So — today you're sleeping tucked in between your hyung and nuna, acting spoiled?]</p>
+
+<p>The playfulness made his voice even better to listen to. To shake off the illusion of his broad chest pressed against my hunched back, I deliberately got up and moved toward the window.</p>
+
+<p>[Someone who had such a passionate night yesterday pretending to be an innocent younger sibling who knows nothing, nestled between hyung and nuna... that's quite the scam.]</p>
+
+<p>His tone was still playful, but I had no practiced ease to parry with. Frustrated by my inability to secure even a sliver of composure in his presence, I pressed my forehead against the glass — cooled by the air conditioning. This wasn't simply a matter of age or experience. It was more about personality.</p>
+
+<p>Perhaps accustomed to my uninteresting reactions by now, he let out a small laugh to himself and shifted the subject naturally.</p>
+
+<p>[How did your body feel today?]</p>
+
+<p>"Better than... before."</p>
+
+<p>The next topic was also high difficulty for me, but I didn't want to act like a fool this time. He was my first in everything, but I was still a proper adult.</p>
+
+<p>[Hmm... that's good. I still wish you could have rested today. It was uncomfortable, wasn't it?]</p>
+
+<p>"No, really... my body is fine. The... after..."</p>
+
+<p>[After?]</p>
+
+<p>He asked back, his voice curling up as if he didn't follow. I could almost see the clean lines of his face, one eyebrow lifted in mild confusion.</p>
+
+<p>I pulled my forehead from the glass and looked forward. My own face, reflected in the black window that mirrored the nighttime city, was burning red.</p>
+
+<p>"Because I... cleaned up right away... it was much better than last time."</p>
+
+<p>[......]</p>
+
+<p>His silence made my face heat further. I had wanted to say it casually, naturally — and I didn't think I had succeeded.</p>
+
+<p>[Is it that hard to say "cleaned up"?]</p>
+
+<p>I could hear the dangerous mischief in his voice.</p>
+
+<p>[When we're doing it, you're so honest with me...]</p>
+
+<p>"Director! You must have been exhausted today too, Director?"</p>
+
+<p>I rushed to cut him off and my voice cracked — but he didn't laugh or tease me about that. Instead, he suffocated me with a silence that was even harder to endure. I could almost feel the weight of his grey-blue eyes, intent and unhurried, watching me.</p>
+
+<p>Perhaps deciding to relent, he broke the silence with a soft chuckle.</p>
+
+<p>[I came home this afternoon and slept well, so you don't need to worry. Missing one proper night of sleep isn't anything.]</p>
+
+<p>It was astonishing enough that he had even thought about my wet clothes in a state where he hadn't slept at all — and yet here he was speaking as if everything he had arranged today was nothing. So that I wouldn't feel too guilty, or too grateful.</p>
+
+<p>I perched on the low ledge beneath the floor-to-ceiling window and pulled the towel from around my neck, turning it over in my hands.</p>
+
+<p>"Thank you so much for all of this... I wouldn't have known how to solve it on my own. There would have been no answer."</p>
+
+<p>He was quiet for a moment. Not the kind of silence that gauges the weight of words or probes for weakness — the kind that leaves space empty, patiently waiting for something to settle into it. The kind I didn't want to break.</p>
+
+<p>[So... you'll wear it, won't you? The sexy lingerie.]</p>
+
+<p>I blinked at the direction that had taken, and then a light laugh escaped me.</p>
+
+<p>[Hey — why are you trying to brush this off with a laugh? I'm being serious.]</p>
+
+<p>He was deflecting my gratitude with practiced ease. I had to admit that his ability to resolve this situation wasn't solely a product of his wealth and connections.</p>
+
+<p>I wondered, briefly, whether answering "okay" here would naturally append a new clause to our relationship — that we were people who satisfied each other's desires — and scrubbed my face with the towel.</p>
+
+<p>Whether I wanted to push myself into that kind of relationship, whether I didn't — I had been about to say even that was uncertain. But that would have been dishonest.</p>
+
+<p>I could no longer pretend not to know that, given the chance, I would sleep with him again without hesitation.</p>
+
+<p>The faint laughter faded, and his voice turned more serious.</p>
+
+<p>[I feel like I should tell Manager Han that you've started painting again. Regarding this matter — how much can I tell her? If there are parts you'd rather not share, or want to tell her yourself, I'll stay quiet about those. I know it may seem a little rushed, but once I've decided on something like this, I tend to want to get it cleanly down on paper.]</p>
+
+<p>"Everything I told you — you can tell her all of it. It's fine."</p>
+
+<p>[Very well. Then while you're having your farewell with hyung and nuna, I'll be busy drafting the contract that says all future paintings of yours belong to me.]</p>
+
+<p>"I leave it in your hands."</p>
+
+<p>I said it with a silent smile, trusting he would catch the faint trace of it in my voice.</p>
+
+<p>[It's a small thing to ask, but please send me one message before you sleep tonight, and one when you wake up tomorrow.]</p>
+
+<p>"I will."</p>
+
+<p>After all that, he didn't say anything about hanging up. He simply went quiet again. I didn't offer a closing remark either. A silence built between us — not unpleasant, full of a kind of tension — like clumsy lovers early in a new relationship who can't quite bring themselves to end the call.</p>
+
+<p>It was him who gently broke it first.</p>
+
+<p>[It's your last night, and I've kept you too long. Well then — have a good time.]</p>
+
+<p>The call had lasted nearly twenty minutes. Like finishing a film, there was a particular quality of aftertaste to it. Not wanting it to fade, I held the phone and sat there for a while before growing curious about the missed calls he had made while I was in the shower.</p>
+
+<p>I had lingered a little longer than usual under the hot water, enjoying the languid loosening of fatigue — but the shower was still only about thirty minutes. In those thirty minutes, he had left twenty-six missed calls. The most I had ever received from any single person.</p>
+
+<p>I chuckled — that explained the preemptive disclaimer about not having stalker tendencies — and got up. I tossed the phone onto the bed and started for the door, then stopped. I turned back, picked it up, and put it in my pants pocket. I didn't want to make him a stalker again.</p>
+
+<p>In the living room, Yeehan and Morae were already drinking beer. The long, vertical room offered a much more open view than the guest room I'd just come from.</p>
+
+<p>"Seo Ihyeon, this room is seven million won a night."</p>
+
+<p>Morae, who had been looking at her phone beside hyung on one end of the sofa, turned toward me with a worried face as I sat down. Back when I had known less about his wealth, that number would have been difficult to believe. Even now it didn't quite feel real.</p>
+
+<p>"You're not seriously being sold off to a deep-sea fishing trawler or something?"</p>
+
+<p>She had apparently looked up the cost in the meantime and shoved her phone screen toward me.</p>
+
+<p>"How much would I even fetch on a deep-sea fishing trawler?"</p>
+
+<p>"Fair point. You've got more backbone than you look, but Seo Ihyeon isn't exactly built for hard labor."</p>
+
+<p>Morae quickly agreed, reached for a fresh beer from the table, and handed it to me.</p>
+
+<p>Twisting off the cap, I glanced sideways and saw two backpacks resting beside the single armchair across the room. Everything the two of them owned, packed for tomorrow — and it was remarkably sparse. They looked like people setting off on a light three-day domestic trip, not relocating to another country.</p>
+
+<p>I looked at the pair of backpacks leaned back-to-back, then turned my head away and started drinking my beer.</p>
+
+<p>"So — your Director. What exactly does he do? Is the gallery just a hobby, is he actually some third-generation chaebol?"</p>
+
+<p>The main sofa was long and deep enough for all three of us with comfortable space between us. Morae, seated between Yeehan and me, leaned her head back and turned to look at me.</p>
+
+<p>"Probably... something like that."</p>
+
+<p>Considering what Yuni nuna and Juhan hyung had casually mentioned about his — or his family's — financial position back in Hong Kong, calling him a chaebol heir wouldn't be far from the truth.</p>
+
+<p>"Still, the gallery isn't just a hobby for him."</p>
+
+<p>Phantom meant more to him than a plausible title on a business card. No one would build a gallery from the ground up — enduring whispers about using pheromones to sell paintings — just for a line on a business card.</p>
+
+<p>"Given that kind of wealth, it makes sense that he'd be sharp about these things. I don't know that world, but this doesn't seem like the scale of a neighborhood rich guy. And having money doesn't mean you get to grow up sheltered from reality. Political battles with outsiders, infighting within the family — you'd have no one to trust around you. He might have been exposed to some ugly situations from a young age. Looking at what he arranged — his skills are no joke."</p>
+
+<p>Morae was talking about the escape plan he had put together.</p>
+
+<p>While we had stopped by the "What Happened in Bali" owner's place to collect the luggage and then made our way here, he had created a temporary email address and sent through detailed documents of the plan he had prepared.</p>
+
+<p>According to the plan, Yeehan and Morae were to depart tomorrow and arrive in Bali after fifteen nights and sixteen days, passing through a total of nine countries — not counting brief layovers. The route didn't rely on planes alone; there were segments where they would cross borders by boat and bus.</p>
+
+<p>By making the route that complicated, he explained, tracking would be impossible for any private investigator, no matter how capable. Since it had come to this, he had also arranged the schedule to allow them to enjoy the journey — adding a smiley emoji and wishing them a good time.</p>
+
+<p>After reviewing the plan, Morae had seemed to trust him completely. She had even used the word infatuated, and for once, hyung showed a rare flash of jealousy.</p>
+
+<p>"Hey — where even is Minsk in Belarus? I didn't know that country had a city like that, let alone knew it existed."</p>
+
+<p>Hyung, who had packed everything and was heading for the bedroom at last, turned back to call out. Nuna and I exchanged a look and smiled.</p>
+
+<p>It had been a heavy day for all three of us. Tomorrow, a completely different life would begin. Without putting words to the sad exhaustion or the vague fear stirring in our chests, we were trying to spend the evening the way we always did.</p>
+
+<p>This was our way. If we were the type to drag everything out and lay it bare and confirm it with each other... if that were Morae and hyung's way, I wouldn't have been able to endure it.</p>
+
+<p>"Your Director."</p>
+
+<p>"Huh?"</p>
+
+<p>I had been staring at my beer bottle, lost in thought, and reacted too sharply at the mention of Director — like a thief caught mid-act.</p>
+
+<p>"He must have enormous confidence in your talent. I don't know anything about that world, but still — paying that large a sum as an advance just from seeing one work, and helping out with something like this on top of it... that can't be ordinary. He must be completely captivated by your paintings."</p>
+
+<p>It was coming from Morae nuna — a third party, someone who had never even met him — and it was about my art, not about me as a romantic interest. But hearing that he was captivated by some part of me... honestly, it felt good to hear.</p>
+
+<p>Before I had ever experienced falling for someone with clumsy, earnest feelings — before I had ever felt that flutter, that particular rhythm of a heart beating differently from its daily pace — I had dulled my own emotions out of fear of where they might expand. The result was a dry, meager emotional range that wasn't stirred by much of anything I saw or heard.</p>
+
+<p>It wasn't the kind of toughness formed through training. It was closer to depletion — having worn through the very material needed to feel and experience things richly.</p>
+
+<p>The moisture seeping into even those dried-out sensibilities was strange to me.</p>
+
+<p>And moreover: I held no optimism about a future with him, and I had no confidence to act toward one. And yet my ability to find reasons, moment by moment, to sustain these feelings toward him — that, at least, was something to be quietly astonished by.</p>
+
+<p>Morae, sitting with her knees pulled up on the sofa, stared vaguely at the beer label and murmured almost to herself.</p>
+
+<p>"They say meeting someone who recognizes your talent is just as important as the talent itself. You're lucky."</p>
+
+<p>Her murmur — which seemed to leave out the words <em>lucky to have met someone like that before we leave</em> — reminded me that the unreal departure was happening tomorrow.</p>
+
+<p>"Since we're moving out before the lease ends, we'll probably need to cover the agent's fee for finding the next tenant. We should get back a little under thirty million won. We'll pay your Director back with that first, and once we both get to Bali, we'll find work and send you a little each month. I'm looking into instructor spots at a Korean-run surf camp — since we're planning to stay long-term, they'll probably give us priority."</p>
+
+<p>Three healthy people in their twenties should be able to pay back seventy million won quickly enough — don't stress about money, just focus on your art, she added. And she lightly ruffled my hair, smiling as if she knew exactly what I'd been worrying about.</p>
+
+<p>Morae had stayed by my side since that vague, bewildering time when I didn't know how to handle my own existence.</p>
+
+<p>Whether it was experience or something she was simply born with, the fact that his words had understood me just as well as hers did — that still felt astonishing, even now, thinking back on it.</p>
+
+<p>"Isn't that why your Director helped us? To build an environment where you can paint without worrying. Whether that's because he's personally a fan of your work or because he has a gallery owner's instinct, either way — he must have judged that you're worth that investment. So just focus on your painting. Oh, and please keep it a secret from him that I initially suspected he might be in cahoots with my father."</p>
+
+<p>I smiled at Morae's last words — but there was something in what she'd said that I couldn't let go of.</p>
+
+<p>Unconsciously tilting the beer bottle in my hand, I found myself wanting to ask her something.</p>
+
+<p>If I'd consulted Juhan hyung or Yuni nuna, they would have seen through who I was talking about in an instant. But Morae, who had never even met him — even if she guessed, the impact would be minimal. At least I wouldn't have to squirm in front of both of them at once.</p>
+
+<p>"Nuna."</p>
+
+<p>I pushed aside the soggy label — softened by the condensation on the bottle — with one finger, and opened my mouth with what felt like gravity.</p>
+
+<p>"If... someone's parents had to go through something difficult because of them, and they feel guilty about it — would they probably hold a skeptical view of love or relationships?"</p>
+
+<p>I immediately regretted being so direct.</p>
+
+<p>"Like... they might have physical intimacy with someone, but draw a line before anything goes deeper..."</p>
+
+<p>It was as nerve-wracking as confessing directly to him, my heart lodged somewhere in my throat. But I already knew it was ultimately pointless. What could I possibly confirm by asking someone who wasn't the person involved?</p>
+
+<p>"I'm like that too, actually. I'm also... afraid of becoming someone's person. Of sharing everything with them."</p>
+
+<p>That was why the thought of Morae nuna and Yeehan hyung breaking up frightened me too. The deeper the empathy when two people are together, the more destructive the severance. I had experienced that force hitting the very center of my existence. Both the impulse to leap toward someone and the impulse to flee — ultimately, those all trace back to things that have already happened.</p>
+
+<p>"But isn't that the same as saying you're drawn to it even though it scares you?"</p>
+
+<p>"Huh... huh?"</p>
+
+<p>"You keep being drawn to that person — that's why you're asking. Isn't it."</p>
+
+<p>"......"</p>
+
+<p>Morae's face as she asked was calm. I hadn't said I was drawn to anyone — but she was asking with complete certainty. There seemed no point in denying it. I managed a nod, my face burning.</p>
+
+<p>"Then couldn't it be the same for that person? Just as you can't help being drawn to him even in your unstable state — couldn't someone appear for him too, someone he wants badly enough to break past his skepticism and cross his own lines?"</p>
+
+<p>Romantic feelings aren't decorations placed on top of a tower built from logic, people say. He could be swept away by something he didn't choose, even against himself. But imagining that <em>I</em> could be the one to shake him so deeply, to bring his whole structure down — that was somehow difficult to picture.</p>
+
+<p>"Honestly, I'm scared too."</p>
+
+<p>Morae's voice had dropped suddenly, as if she'd become conscious of someone overhearing. I looked at her face, unsure if I'd misheard, but she seemed completely absorbed in thought and didn't notice my gaze.</p>
+
+<p>"Earlier I spoke as if I had the confidence not to be swayed by mere whims of the heart — but as uncle said, hearts can change, and no one can be certain about the future. Whatever ending awaits, I won't regret the act of choosing it myself — but that doesn't mean I'm not at all afraid of the pain that choice might bring. Whether it's the loss of parting from Seo Yeehan, or guilt toward my family...."</p>
+
+<p>Morae took a few more sips of beer and looked down at the scattered printed documents on the table — the materials he had sent her — then continued.</p>
+
+<p>"In the end, I think what matters is figuring out what causes you more pain. For me, making a choice without fully examining what I want and handing it to someone else — that itself is painful. But for someone else, the vagueness of having no guarantee of safety might be more painful. Even if there are general measures, the actual sensation of happiness or pain differs from person to person. It might not be that you're not afraid — it might be that this is a choice made to avoid something even more terrifying."</p>
+
+<p>She finished speaking calmly, then suddenly turned to look at me, narrowing her eyes into a smile.</p>
+
+<p>"But — is this about Rabbit, by any chance?"</p>
+
+<p>Heat ignited instantly across my face and the tips of my ears, impossible to hide.</p>
+
+<p>That Morae — who had never once met him — could see through me this easily. I thought, <em>I have to keep this from Yuni nuna and Juhan hyung no matter what,</em> and my body trembled slightly with the light fear of what would happen if those two ever found out.</p>
+
+<p>"Hmm, I see... So that's how it was."</p>
+
+<p>She muttered something incomprehensible with that suggestive smile, her eyes still narrowed. I couldn't tell what she was agreeing to, but I didn't have the courage to ask — afraid it would lead to more questions about me.</p>
+
+<p>"What a shame. Seo Ihyeon's first love — and I have to leave without ever getting to see his face."</p>
+
+<p>After that, Morae didn't pry any further.</p>
+
+<p>But as sweet as her guess was — that he had been completely captivated by my paintings — the definition of this feeling as "first love" was simply bewildering.</p>
+
+<p>The word "first love" carries an impression somehow different from a second or third love.</p>
+
+<p>It suggests a clumsy honesty and freshness — throwing yourself forward without calculation, raw and unguarded — like the tender kind of leaf that could never bloom on a dried-out branch. A short, incredulous laugh escaped me, the way it does when you're confronted with one of your own absurd mistakes.</p>
+
+<p>I had no intention of claiming I'd fallen for him over a few nights and a handful of conversations. Love, as I understand it, isn't that uncomplicated a concept.</p>
+
+<p>But this feeling had the potential to become love. And love was still the most frightening change I could imagine. And yet I was doing nothing to control it. For the foolish reason, the only reason, that it didn't hurt right now.</p>
+
+<p>If the way he looked at me and spoke to me had stayed as indifferent as it was at first, I would have let this feeling dry up before it could grow — if only to avoid the immediate pain.</p>
+
+<p>He had told me to send a message before bed, but I wanted to call. I wanted to hear his voice. I wanted to see his face. I wanted to hold him, to touch his bare skin, to feel his warmth. And I wanted to tell him all of that.</p>
+
+<p>I imagined actually doing it — the confession, out loud. The next scene that unfolded in that imagining was his face, awkward and slightly pained, laughing it off while he looked somewhere else.</p>
