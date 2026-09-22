@@ -1,10 +1,9 @@
 <div class="reader-survey" id="site-update-banner" hidden>
     <div class="reader-survey__inner">
         <div class="reader-survey__message">
-            <span class="reader-survey__title">You have been heard! 💛</span>
-            <span class="reader-survey__text">I made some changes to the chapter layout based on your feedback.</span>
+            <span class="reader-survey__text">You can now switch between <strong>full chapters and shorter sections</strong>. :)</span>
         </div>
-        <a class="reader-survey__button" href="{{ '/updates/' | relative_url }}">See what’s new →</a>
+        <a class="reader-survey__button" href="{{ '/updates/' | relative_url }}">See how it works →</a>
     </div>
     <button class="reader-survey__close" id="site-update-banner-close" type="button" aria-label="Dismiss update announcement">×</button>
 </div>
@@ -13,7 +12,7 @@
     const banner = document.getElementById('site-update-banner');
     const close = document.getElementById('site-update-banner-close');
     if (!banner || !close) return;
-    const key = 'diamondDustHybridUpdateSeptember2026Dismissed';
+    const key = 'diamondDustReadingFormatAnnouncementSeptember2026Dismissed';
     try { if (localStorage.getItem(key) !== 'yes') banner.hidden = false; }
     catch (_) { banner.hidden = false; }
 close.addEventListener('click', () => {
