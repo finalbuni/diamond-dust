@@ -203,6 +203,27 @@ document.addEventListener("DOMContentLoaded", () => {
     const mobileMenuClosers = document.querySelectorAll("[data-mobile-menu-close]");
     const chapterArticle = document.querySelector(".chapter");
 
+    const updateMobileNavPosition = () => {
+    const banner = document.getElementById("site-update-banner");
+    const nav = document.querySelector(".mobile-reader-controls");
+
+    if (!nav || !isChapter || !mobileQuery.matches) return;
+
+    if (!banner || banner.hidden) {
+        nav.style.top = "0px";
+        return;
+    }
+
+    const bannerBottom = banner.getBoundingClientRect().bottom;
+    nav.style.top = `${Math.max(0, bannerBottom)}px`;
+};
+
+updateMobileNavPosition();
+
+window.addEventListener("scroll", updateMobileNavPosition, { passive: true });
+window.addEventListener("resize", updateMobileNavPosition);
+
+
     function showMobileControls() {
         if (!isChapter || !mobileQuery.matches) return;
         body.classList.add("reader-controls-visible");
@@ -669,9 +690,14 @@ document.addEventListener("DOMContentLoaded", () => {
                 updateBackToTop();
                 scheduleSave();
 
-                if (mobileQuery.matches && Math.abs(window.scrollY - lastScrollY) > 8) {
-                    closeMobileControls();
-                    backToTop?.classList.remove("is-visible");
+                if (mobileQuery.matches) {
+                    if (window.scrollY <= 2 && lastScrollY > 2) {
+                        // Returning to the top reveals the navigation beneath the announcement.
+                        showMobileControls();
+                    } else if (window.scrollY > 2 && Math.abs(window.scrollY - lastScrollY) > 8) {
+                        closeMobileControls();
+                        backToTop?.classList.remove("is-visible");
+                    }
                 }
                 lastScrollY = window.scrollY;
             },

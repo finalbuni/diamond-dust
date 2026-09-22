@@ -16,9 +16,13 @@
     const key = 'diamondDustHybridUpdateSeptember2026Dismissed';
     try { if (localStorage.getItem(key) !== 'yes') banner.hidden = false; }
     catch (_) { banner.hidden = false; }
-    close.addEventListener('click', () => {
-        banner.hidden = true;
-        try { localStorage.setItem(key, 'yes'); } catch (_) {}
-    });
+close.addEventListener('click', () => {
+    banner.hidden = true;
+    window.dispatchEvent(new Event('resize'));
+    if (document.body.dataset.pageType === 'chapter' && window.scrollY <= 2) {
+        document.body.classList.add('reader-controls-visible');
+    }
+    try { localStorage.setItem(key, 'yes'); } catch (_) {}
+});
 })();
 </script>
