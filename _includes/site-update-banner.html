@@ -19,6 +19,9 @@
 close.addEventListener('click', () => {
     banner.hidden = true;
     window.dispatchEvent(new Event('resize'));
+    if (document.body.dataset.pageType === 'chapter' && window.scrollY <= 2) {
+        document.body.classList.add('reader-controls-visible');
+    }
     try { localStorage.setItem(key, 'yes'); } catch (_) {}
 });
 })();

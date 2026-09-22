@@ -690,9 +690,14 @@ window.addEventListener("resize", updateMobileNavPosition);
                 updateBackToTop();
                 scheduleSave();
 
-                if (mobileQuery.matches && Math.abs(window.scrollY - lastScrollY) > 8) {
-                    closeMobileControls();
-                    backToTop?.classList.remove("is-visible");
+                if (mobileQuery.matches) {
+                    if (window.scrollY <= 2 && lastScrollY > 2) {
+                        // Returning to the top reveals the navigation beneath the announcement.
+                        showMobileControls();
+                    } else if (window.scrollY > 2 && Math.abs(window.scrollY - lastScrollY) > 8) {
+                        closeMobileControls();
+                        backToTop?.classList.remove("is-visible");
+                    }
                 }
                 lastScrollY = window.scrollY;
             },
