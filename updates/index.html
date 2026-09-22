@@ -17,9 +17,13 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,500;0,8..60,600;1,8..60,400&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    <style>
+        .reading-format-guide-image { margin: 1rem 0 1.5rem; }
+        .reading-format-guide-image img { display: block; width: 100%; max-width: 340px; height: auto; border-radius: 12px; }
+    </style>
 </head>
 <body data-page-type="updates">
-        {% include site-update-banner.html %}
+    {% include site-update-banner.html %}
 
     <header class="site-header">
         <div class="container header-inner">
@@ -43,18 +47,30 @@
         <div class="container">
             <header class="simple-page-header">
                 <p class="eyebrow">Updates</p>
-                <h1>What’s new ♡</h1>
+                <h1>What's new? <i>Aka: wth is going on?</i></h1>
             </header>
             <div class="simple-page-content">
                 <!-- Add future dated updates ABOVE the existing update, newest first. -->
                 <article class="site-update-entry">
                     <p class="eyebrow">September 2026</p>
-                    <p><strong>You asked, I listened!</strong> Thank you to everyone who answered my reader survey. Some of you enjoy reading a whole chapter without interruptions, while others wanted smaller pieces with clearer places to stop. A few of you also mentioned wanting to load an entire chapter before going offline.</p>
-                    <p>So I kept the original full-chapter experience <em>and</em> added another way to read: <strong>shorter sections</strong>. Each chapter is divided at its existing scene breaks. They aren’t all the same length, but you can read one section at a time and choose when to move to the next.</p>
-                    <p><strong>How to try it:</strong> Open any chapter as usual. Beside the reading time, choose <strong>Short sections</strong> from the reading-format selector. You can also switch formats in Reading Settings. If you switch while reading, the site takes you to the beginning of the corresponding section in the other format.</p>
-                    <p>Full chapters are still here, with their existing links. You can keep reading exactly as before if that’s what you prefer. ♡</p>
-                    <p>Thank you for helping me make this little corner of the internet better!</p>
-                    <p>Found something that isn’t working, or have an idea for the reading experience? <a href="https://forms.gle/UsUNrr7t3rVQjPC19" target="_blank" rel="noopener noreferrer">Report an issue or suggest a feature →</a></p>
+                    <h2>A new way to read chapters</h2>                        
+                    <p>Thank you to everyone who answered my reader survey! 💛 </p>
+                    <p>You can now choose how you want to read each chapter: <strong>the original full chapter or shorter sections.</strong></p>
+                    <h3>Choose your reading format</h3>
+                    <p>Open any chapter and use the <strong>Read in</strong> dropdown beside the reading time to switch between formats.</p>
+                    <figure class="reading-format-guide-image">
+                        <img src="{{ '/assets/images/reading-format-chapter.png' | relative_url }}" alt="On a chapter page, the Read in dropdown beside the reading time is highlighted." loading="lazy">
+                    </figure>
+
+                    <h3>Change your mind anytime</h3>
+                    <p>You can also switch formats in <strong>Reading Settings</strong>.</p>
+                    <figure class="reading-format-guide-image">
+                        <img src="{{ '/assets/images/reading-format-settings.png' | relative_url }}" alt="In Reading Settings, the Reading format dropdown is highlighted." loading="lazy">
+                    </figure>
+                    
+                    <p>Short sections are divided at the chapter’s existing scene breaks, so their lengths vary. If you switch formats partway through a chapter, you’ll be taken to the beginning of the corresponding section.</p>
+                    <p>And <strong>I HAVEN'T TOUCHED THE FULL CHAPTERS!!</strong> They're still available at their original links, so you can keep reading exactly as before. :)</p>
+                    <p>Found something that isn’t working, or have an idea for the reading experience? → <a href="https://forms.gle/UsUNrr7t3rVQjPC19" target="_blank" rel="noopener noreferrer">Report an issue or suggest a feature</a></p>
                 </article>
             </div>
         </div>
