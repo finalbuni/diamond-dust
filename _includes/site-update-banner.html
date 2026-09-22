@@ -16,9 +16,10 @@
     const key = 'diamondDustHybridUpdateSeptember2026Dismissed';
     try { if (localStorage.getItem(key) !== 'yes') banner.hidden = false; }
     catch (_) { banner.hidden = false; }
-    close.addEventListener('click', () => {
-        banner.hidden = true;
-        try { localStorage.setItem(key, 'yes'); } catch (_) {}
-    });
+close.addEventListener('click', () => {
+    banner.hidden = true;
+    window.dispatchEvent(new Event('resize'));
+    try { localStorage.setItem(key, 'yes'); } catch (_) {}
+});
 })();
 </script>
