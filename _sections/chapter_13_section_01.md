@@ -283,7 +283,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Hmm." He crossed his arms and let out a long breath, his eyes seeming to review the details.</p>
 
-<p>"So, you came here immediately after stopping your uncle from meeting them? Seo Ihyeon-ssi was trying to resolve this without the couple knowing?"</p>
+<p>"So, you came here immediately after stopping your uncle from meeting them? Seo Yeehyeon-ssi was trying to resolve this without the couple knowing?"</p>
 
 <p>It wasn't a question laced with criticism that what they had done was foolish.</p>
 
@@ -313,7 +313,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>His faintly smiling face seemed to convey that it wasn't that he couldn't do such things, but rather that he chose not to — that he could easily approach the problem that way if he only decided to.</p>
 
-<p>It was the same look he had when he warned me about life with Manager Han, saying, "I hope she can live safely, peacefully, and securely, right? Seo Ihyeon-ssi."</p>
+<p>It was the same look he had when he warned me about life with Manager Han, saying, "I hope she can live safely, peacefully, and securely, right? Seo Yeehyeon-ssi."</p>
 
 <p>"Well, yes. In any case, money will be needed."</p>
 
@@ -329,7 +329,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He set his glass back down on the table, resting both arms on the armrests and loosely clasping his hands together.</p>
 
-<p>"I'll pay you an advance on the contract fee. Seo Ihyeon-ssi, you are someone I persuaded because I wanted you, and I can certainly offer you that level of special treatment."</p>
+<p>"I'll pay you an advance on the contract fee. Seo Yeehyeon-ssi, you are someone I persuaded because I wanted you, and I can certainly offer you that level of special treatment."</p>
 
 <p>It was an answer refreshingly free of hesitation.</p>
 
@@ -339,7 +339,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>His expression subtly contorted when he heard the amount, thirty million won. It was the look of someone doubting their own ears, or perhaps someone who had just heard something deeply unpleasant.</p>
 
-<p>"Are you saying that Seo Ihyeon-ssi's family is being tormented like that because of a thirty-million-won debt?"</p>
+<p>"Are you saying that Seo Yeehyeon-ssi's family is being tormented like that because of a thirty-million-won debt?"</p>
 
 <p>"Ah... that's not it."</p>
 
@@ -347,7 +347,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>The light from the floor lamp, positioned between him and me instead of the ceiling fixture, cast a long, distinct shadow of his eyelashes across his cheek. After briefly tapping the rim of his glass in thought, he shifted his gaze to look at me.</p>
 
-<p>"Rather than just that, let's eliminate the root cause entirely. If we pay off Seo Ihyeon-ssi's family's debt, at least the direct cause of the threat will be removed to some extent, won't it?"</p>
+<p>"Rather than just that, let's eliminate the root cause entirely. If we pay off Seo Yeehyeon-ssi's family's debt, at least the direct cause of the threat will be removed to some extent, won't it?"</p>
 
 <p>"But, even that is too much money...."</p>
 
@@ -365,7 +365,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"I don't have the confidence to repay an amount like that."</p>
 
-<p>"You can repay it slowly over time. I have no intention of rushing you until Seo Ihyeon-ssi decides to stop painting."</p>
+<p>"You can repay it slowly over time. I have no intention of rushing you until Seo Yeehyeon-ssi decides to stop painting."</p>
 
 <p>"I truly appreciate your words, but... grandfather and uncle probably won't agree to leave that village."</p>
 
@@ -377,13 +377,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He took a few more slow sips of the liquor in his glass, lost in thought, before finally speaking after a long pause.</p>
 
-<p>"What I want is an environment where Seo Ihyeon-ssi can fully concentrate on his art without any further distractions. Moving the family elsewhere might be too much to ask, but at the very least, the debt needs to be settled for that to be possible."</p>
+<p>"What I want is an environment where Seo Yeehyeon-ssi can fully concentrate on his art without any further distractions. Moving the family elsewhere might be too much to ask, but at the very least, the debt needs to be settled for that to be possible."</p>
 
 <p>"......"</p>
 
 <p>He couldn't deny it.</p>
 
-<p>"I will arrange for Seo Ihyeon-ssi's hyung and nuna to move to their desired location via an untraceable route within five days. And I will also settle the debt for Seo Ihyeon-ssi's family. One hundred million won. That ties things up nicely."</p>
+<p>"I will arrange for Seo Yeehyeon-ssi's hyung and nuna to move to their desired location via an untraceable route within five days. And I will also settle the debt for Seo Yeehyeon-ssi's family. One hundred million won. That ties things up nicely."</p>
 
 <p>After saying that, even managing a faint smile, he stood up to refill his empty glass before waiting for my reply.</p>
 
@@ -393,7 +393,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He returned with two glasses served on the rocks, having promised not to give me any alcohol. He took the now-cold teacup from my hand and handed me a whiskey diluted with a high ratio of tonic water, giving it a lighter color. His own glass was a deep amber.</p>
 
-<p>"If you put it nicely, it's an advance payment, but since it's an amount that needs to be recovered by selling Seo Ihyeon-ssi's artwork, it's practically the same as a loan, isn't it?"</p>
+<p>"If you put it nicely, it's an advance payment, but since it's an amount that needs to be recovered by selling Seo Yeehyeon-ssi's artwork, it's practically the same as a loan, isn't it?"</p>
 
 <p>As he sat down across from me again, he leaned back loosely against the armrest. Although there was no tension in his crooked gaze, I straightened my back, gripped by an inexplicable tension.</p>
 
@@ -407,7 +407,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He quickly composed himself, shaking off any disturbance in his gaze, and then, as if remembering something, he picked up a cigarette from the side table and lit it.</p>
 
-<p>"This is an advance for the paintings you're going to create; it's not a loan where I pressure you like a loan shark. So, once this matter is resolved, don't worry about anything else and focus entirely on your art. If you neglect your painting, then Seo Ihyeon-ssi will be seen as failing to meet his obligation."</p>
+<p>"This is an advance for the paintings you're going to create; it's not a loan where I pressure you like a loan shark. So, once this matter is resolved, don't worry about anything else and focus entirely on your art. If you neglect your painting, then Seo Yeehyeon-ssi will be seen as failing to meet his obligation."</p>
 
 <p>I nodded with the utmost caution.</p>
 
@@ -417,7 +417,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>This time, he faced me directly and asked in a flat tone.</p>
 
-<p>"I understand that the two people, your hyung and nuna, are important to Seo Ihyeon-ssi... but still, why is Seo Ihyeon-ssi so afraid that their relationship will be threatened that he would tremble like this and come to me asking for help?"</p>
+<p>"I understand that the two people, your hyung and nuna, are important to Seo Yeehyeon-ssi... but still, why is Seo Yeehyeon-ssi so afraid that their relationship will be threatened that he would tremble like this and come to me asking for help?"</p>
 
 <p>I thought it would be a question about the information needed to solve the problem, but it was unexpectedly about his personal curiosity. He probably wouldn't press me for an answer even if I didn't give one. Whether I answered or not was entirely up to me.</p>
 

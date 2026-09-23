@@ -31,11 +31,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Above all, this wasn't something he needed to apologize for. We had spent the night together because we both wanted to, and he had been perfectly considerate — taking his time to ensure I was fully relaxed, even though we weren't lovers.  An apology from him would only make me feel used, and I would rather not hear one if at all possible.</p>
 
-<p>"You're quite resilient, Seo Ihyeon. I thought you might be a little more… shaken."</p>
+<p>"You're quite resilient, Seo Yeehyeon. I thought you might be a little more… shaken."</p>
 
 <p>Tapping the slender paper bag in his hand against his crossed leg, he muttered without looking at me.</p>
 
-<p>"I'm glad you're a resilient person, Seo Ihyeon."</p>
+<p>"I'm glad you're a resilient person, Seo Yeehyeon."</p>
 
 <p>I couldn't be entirely certain what he meant by <em>shaken.</em></p>
 
@@ -151,6 +151,6 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>In a way, my thinking back then had been wildly off the mark. Someone I liked could feel miserable even from sleeping with me, rather than someone else.</p>
 
-<p>I smiled wryly as I realized, belatedly, that his comment about Seo Ihyeon being resilient was perhaps another way of saying he was glad I hadn't confused impulsive sex with genuine romantic feelings.</p>
+<p>I smiled wryly as I realized, belatedly, that his comment about Seo Yeehyeon being resilient was perhaps another way of saying he was glad I hadn't confused impulsive sex with genuine romantic feelings.</p>
 
 <p>By then, the lights of Hong Kong had completely disappeared from my view.</p>

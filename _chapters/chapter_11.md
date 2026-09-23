@@ -103,7 +103,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"I'll just have something to drink at the bar. It's my first time at a place like this, so just sitting and people-watching should be interesting enough for me. Please don't worry about me."</p>
 
-<p>"I went to the trouble of inviting all our gallery staff, so don't be like that. At least you, Seo Ihyeon, could go over and show your face to the gallery hosts. You only need to stay long enough to make polite introductions, and then you can leave."</p>
+<p>"I went to the trouble of inviting all our gallery staff, so don't be like that. At least you, Seo Yeehyeon, could go over and show your face to the gallery hosts. You only need to stay long enough to make polite introductions, and then you can leave."</p>
 
 <p>Seeing his slightly troubled expression, I couldn't refuse any further.</p>
 
@@ -675,7 +675,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>His voice was one that savored pain, swallowing each word whole.</p>
 
-<p>"You know what I mean, don't you? Seo Ihyeon — I want to enter you."</p>
+<p>"You know what I mean, don't you? Seo Yeehyeon — I want to enter you."</p>
 
 <p>A moan escaped me at his desperate, anxious whisper. As my lips parted, he twisted his head and sucked on my lower lip. Simultaneously, he slid his hand — slick with my pre-cum — into the cleft between my cheeks and began rubbing in circles over my entrance.</p>
 
@@ -921,7 +921,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p><em>I'm sure I left it right here, but I can't find it anywhere.</em> That was the look on his face.</p>
 
-<p>"Seo Ihyeon-ssi."</p>
+<p>"Seo Yeehyeon-ssi."</p>
 
 <p>"……"</p>
 
@@ -1315,13 +1315,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He stared at me silently for a long time, his eyes empty, as if everything had been taken from him. His eyes looked vacant and slackened — as if he had just been confronted with the shabby, crude underbelly of life. He looked so utterly helpless and fragile, like a young boy, despite his large and solid build. A clear sort of sorrow seemed to pool in his eyes.</p>
 
-<p>"Yes… you're a Beta, Seo Ihyeon."</p>
+<p>"Yes… you're a Beta, Seo Yeehyeon."</p>
 
 <p>After a long while, he finally muttered. But he didn't look relieved. His eyes were still dazed and unfocused. It felt like a lie that we had been so heated just moments before.</p>
 
 <p>He removed his hand from between my legs and rubbed his face several times with his palm.</p>
 
-<p>"You probably… have internal injuries. A Beta like Seo Ihyeon wouldn't have been able to withstand the knotting."</p>
+<p>"You probably… have internal injuries. A Beta like Seo Yeehyeon wouldn't have been able to withstand the knotting."</p>
 
 <p>He worried about me, insisting I should go to the hospital right away to check for even the slightest tear or scrape — but all I felt at that moment was a dull emptiness between my legs. And, though I couldn't tell him honestly, the lingering afterglow of that tingling pleasure was stronger. I felt like it would be more comfortable if he would just firmly fill the space that had become so hollowly empty. Contrary to his concern, I felt no particular pain.</p>
 
@@ -1521,11 +1521,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Above all, this wasn't something he needed to apologize for. We had spent the night together because we both wanted to, and he had been perfectly considerate — taking his time to ensure I was fully relaxed, even though we weren't lovers.  An apology from him would only make me feel used, and I would rather not hear one if at all possible.</p>
 
-<p>"You're quite resilient, Seo Ihyeon. I thought you might be a little more… shaken."</p>
+<p>"You're quite resilient, Seo Yeehyeon. I thought you might be a little more… shaken."</p>
 
 <p>Tapping the slender paper bag in his hand against his crossed leg, he muttered without looking at me.</p>
 
-<p>"I'm glad you're a resilient person, Seo Ihyeon."</p>
+<p>"I'm glad you're a resilient person, Seo Yeehyeon."</p>
 
 <p>I couldn't be entirely certain what he meant by <em>shaken.</em></p>
 
@@ -1641,7 +1641,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>In a way, my thinking back then had been wildly off the mark. Someone I liked could feel miserable even from sleeping with me, rather than someone else.</p>
 
-<p>I smiled wryly as I realized, belatedly, that his comment about Seo Ihyeon being resilient was perhaps another way of saying he was glad I hadn't confused impulsive sex with genuine romantic feelings.</p>
+<p>I smiled wryly as I realized, belatedly, that his comment about Seo Yeehyeon being resilient was perhaps another way of saying he was glad I hadn't confused impulsive sex with genuine romantic feelings.</p>
 
 <p>By then, the lights of Hong Kong had completely disappeared from my view.</p>
 </div>

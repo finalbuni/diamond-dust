@@ -57,7 +57,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He was choosing a party outfit in front of the innermost wardrobe. I awkwardly perched on the velvet bench situated between the dresser and the full-length mirror, directly across from the bathroom entrance.</p>
 
-<p>"How was it? If it were Seo Ihyeon, I think he'd have liked the second floor of the main building the most."</p>
+<p>"How was it? If it were Seo Yeehyeon, I think he'd have liked the second floor of the main building the most."</p>
 
 <p>I chuckled and rubbed the back of my neck at his accurate guess. The second floor of the main building he mentioned housed European paintings from the 15th century onward. Many familiar works I'd often seen in my parents' art books were there. Back then, like a child picking out illustrations, I hadn't bothered checking the artist's name or the title, but this time was different.</p>
 
@@ -109,7 +109,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Then, after standing up his collar and tying on the bowtie, he looked down at me and smiled faintly.</p>
 
-<p>"It's only been a few hours since we were apart, and so much has already changed in Seo Ihyeon. Are there other thoughts you're hiding from me?"</p>
+<p>"It's only been a few hours since we were apart, and so much has already changed in Seo Yeehyeon. Are there other thoughts you're hiding from me?"</p>
 
 <p>I let out a soft laugh at his tone and pressed my thumb into my right palm as if massaging it — an action born of shyness. I was terrible at putting my organized thoughts or resolutions into words, but his help up to this point had been immense. He deserved to hear it. Actually, I wanted to share it with him.</p>
 
@@ -151,7 +151,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>His voice trailed off, and his gaze, which had been slanting toward the dressing room floor, shifted to me.</p>
 
-<p>"The truth is, I wanted Seo Ihyeon's debut to happen in the States — I wanted his activities to begin here. While this exhibition is somewhat informal for a debut, the gallery owners, curators, and collectors attending today's VIP party and tomorrow's opening event are the most influential figures in the industry, so it's practically the same as holding a real debut exhibition."</p>
+<p>"The truth is, I wanted Seo Yeehyeon's debut to happen in the States — I wanted his activities to begin here. While this exhibition is somewhat informal for a debut, the gallery owners, curators, and collectors attending today's VIP party and tomorrow's opening event are the most influential figures in the industry, so it's practically the same as holding a real debut exhibition."</p>
 
 <p>I was aware that he had personally negotiated with the hosting gallery to display about ten of my pieces alongside works by Phantom's other affiliated artists in a separate, smaller hall, distinct from Shushu's exhibition.</p>
 
@@ -165,7 +165,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>I nodded in his hand, but my heart was pounding.</p>
 
-<p>"I want you to work in the best environment and under the best conditions, and I want you to receive recognition that matches that. That is the most certain support I can give you as a gallerist and as a dealer, Seo Ihyeon."</p>
+<p>"I want you to work in the best environment and under the best conditions, and I want you to receive recognition that matches that. That is the most certain support I can give you as a gallerist and as a dealer, Seo Yeehyeon."</p>
 
 <p>As he spoke, stroking my lower lip with his thumb, his eyes and expression conveyed the firmness of someone who had already made a decision and steeled their resolve.</p>
 
@@ -203,15 +203,15 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He cupped both of my cheeks, gently lifting my face so I had to look at him.</p>
 
-<p>"You're so understanding and thoughtful — you're perfect... so why do I keep wanting to see the needy side of you, the Seo Ihyeon who throws tantrums?"</p>
+<p>"You're so understanding and thoughtful — you're perfect... so why do I keep wanting to see the needy side of you, the Seo Yeehyeon who throws tantrums?"</p>
 
 <p>"......"</p>
 
-<p>"The one who wishes I didn't have to go to parties and could just stay together. The one who wishes this was a trip for the two of us instead of a business trip. That Seo Ihyeon who sulks and won't let go of me."</p>
+<p>"The one who wishes I didn't have to go to parties and could just stay together. The one who wishes this was a trip for the two of us instead of a business trip. That Seo Yeehyeon who sulks and won't let go of me."</p>
 
 <p>His wishes were always this specific, and the expression on his face as he joked was so seriously sincere that it made me laugh. He chuckled along with me.</p>
 
-<p>"Well, if I actually started throwing tantrums like that, I wouldn't really be Seo Ihyeon anymore, would I?"</p>
+<p>"Well, if I actually started throwing tantrums like that, I wouldn't really be Seo Yeehyeon anymore, would I?"</p>
 
 <p>I gripped his hands holding my face and rubbed my cheek against his palm, which smelled faintly of cologne.</p>
 
@@ -227,7 +227,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>His hand stroking the back of my head made my lower belly tingle. I thought about how much I was looking forward to the journey to Boston, when we would finally be alone together after all the schedules were done. I almost confessed how childish I felt, but instead I firmly bit my lower lip, let go, and raised my head.</p>
 
-<p>"Just remember this: I will always welcome the Seo Ihyeon who isn't holding back."</p>
+<p>"Just remember this: I will always welcome the Seo Yeehyeon who isn't holding back."</p>
 
 <p>He bent down and pressed his lips to mine. A sweet sigh escaped at the light brush of lips before he reluctantly pulled away. Smiling, he ruffled my hair, checked the time, grabbed a few belongings — his phone and cigarettes — and left the dressing room.</p>
 
@@ -289,7 +289,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Yuni, still facing me, radiated the excitement from the party in her expression and voice. I was reminded of her in Hong Kong — diligently greeting people and exchanging cards, hoping someone might recognize her talent and potential and scout her. Whether it was studying abroad or a new job, it was clear Yuni wanted experience overseas.</p>
 
-<p>"What's wrong, Ihyeon? Are you still nervous? You've gone so quiet."</p>
+<p>"What's wrong, Yeehyeon? Are you still nervous? You've gone so quiet."</p>
 
 <p>Sipping the coffee she'd placed in the cup holder on the armrest between us, Yuni poked my stiff face and playfully pinched my cheek.</p>
 
@@ -317,11 +317,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>As if to signal that a party was taking place inside, the entrance of the stately, massive brick building was decorated with dazzling lights.</p>
 
-<p>"The lighting here must be incredible. Ihyeon, take a picture of me."</p>
+<p>"The lighting here must be incredible. Yeehyeon, take a picture of me."</p>
 
 <p>Yuni, reaching into her small clutch bag while looking at the lights — which reminded me of Christmas luminaries — suddenly frowned.</p>
 
-<p>"Oh, the battery.... My power bank is dead, too. Ihyeon, take a picture with your phone. I'm uploading this Chicago trip in real-time on social media. I even posted a picture of your artwork on display — look, there are already over a hundred comments... oh... it just died."</p>
+<p>"Oh, the battery.... My power bank is dead, too. Yeehyeon, take a picture with your phone. I'm uploading this Chicago trip in real-time on social media. I even posted a picture of your artwork on display — look, there are already over a hundred comments... oh... it just died."</p>
 
 <p>We burst out laughing over the phone that had gone completely dark in Yuni's hand.</p>
 
@@ -331,7 +331,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Her eyes narrowed, giving her a sly look.</p>
 
-<p>"Since when did Honeybee Seo Ihyeon start setting a passcode on his phone?"</p>
+<p>"Since when did Honeybee Seo Yeehyeon start setting a passcode on his phone?"</p>
 
 <p>"Ah... it's not that... I was worried I might lose it while traveling... I'm on roaming, so if someone found it, I didn't want them making calls..."</p>
 
@@ -377,7 +377,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Conner and I enjoy buying good work from lesser-known artists. Honestly, the pieces by already famous artists are just outrageously expensive," Jane exclaimed as if protesting, but it was immediately clear that the couple wasn't refraining from buying famous artists' works for financial reasons.</p>
 
-<p>"I saw Ihyeon's nude painting at the gallery and immediately told Awi I wanted to buy it, but he refused, saying it wasn't available for sale yet."</p>
+<p>"I saw Yeehyeon's nude painting at the gallery and immediately told Awi I wanted to buy it, but he refused, saying it wasn't available for sale yet."</p>
 
 <p>Jane shot him a look, calling it petty for dangling something he wouldn't even give away, but thankfully, Conner brought cocktails from the bar set up on one side of the hall for Yuni and me.</p>
 
@@ -467,7 +467,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>While Jane, Conner, and the other adults around them enjoyed and responded to the jazz piano performance, Yuni and Reed continued their conversation.</p>
 
-<p>Yuni apologized for the late introduction and introduced the man to me. Reed seemed to find the pronunciation of "Ihyeon" amusing despite its difficulty. He commented that while the name "Yuni" was convenient and lovely for international use, the resistance felt in his vocal cords when producing the name "Ihyeon" gave him an exotic feeling, which earned him a light rebuke from Yuni.</p>
+<p>Yuni apologized for the late introduction and introduced the man to me. Reed seemed to find the pronunciation of "Yeehyeon" amusing despite its difficulty. He commented that while the name "Yuni" was convenient and lovely for international use, the resistance felt in his vocal cords when producing the name "Yeehyeon" gave him an exotic feeling, which earned him a light rebuke from Yuni.</p>
 
 <p>"My name is the worst. While anyone, regardless of their language background, can pronounce it easily, that's exactly why it doesn't stick in anyone's memory."</p>
 
@@ -513,7 +513,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Between the sofas, and around the round standing tables apparently prepared specifically for tonight's party, a group of five or six people clustered together were talking quietly, unlike the others who were swaying to the music.</p>
 
-<p>"Chloe, these are the friends I mentioned. Yuni, the director of Phantom, and the artist... Ihyeon."</p>
+<p>"Chloe, these are the friends I mentioned. Yuni, the director of Phantom, and the artist... Yeehyeon."</p>
 
 <p>He squeezed the hands resting on Yuni's and my shoulders alternately, introducing us to them — or rather, to the woman in the black suit. Now it was our turn to be introduced to her.</p>
 
@@ -537,7 +537,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Chloe Kent, who seemed to possess a dazzling career as the Senior Director of the New York branch of a global gallery with seven main and branch offices worldwide, naturally guided us to an empty standing table next to the sofa. A waiter circulating through the hall quickly approached, cleared away an empty glass someone had left, and brought us fresh drinks as ordered.</p>
 
-<p>"This is Seo Ihyeon, a newcomer who has not yet officially debuted. He will be showing a few pieces through Shushu's exhibition this time, but it's only an informal, test-level unveiling. We intend to spare no expense to support a debut exhibition that will leave a powerful impression on the art world."</p>
+<p>"This is Seo Yeehyeon, a newcomer who has not yet officially debuted. He will be showing a few pieces through Shushu's exhibition this time, but it's only an informal, test-level unveiling. We intend to spare no expense to support a debut exhibition that will leave a powerful impression on the art world."</p>
 
 <p>At his cautious yet confident remark, Kent took a slight sip of her champagne glass, just enough to moisten her lips, and offered a subtle smile — a smile that suggested she understood exactly what he meant.</p>
 
@@ -613,7 +613,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He placed a hand firmly on my shoulder, squeezing it for emphasis, and leaned his upper body a little closer toward Kent.</p>
 
-<p>"Actually, I plan to open the New York branch of my gallery starting with the exhibition of artist Seo Ihyeon. Naturally, I hope to establish a cooperative relationship with H&W, which holds immense influence in the New York art world."</p>
+<p>"Actually, I plan to open the New York branch of my gallery starting with the exhibition of artist Seo Yeehyeon. Naturally, I hope to establish a cooperative relationship with H&W, which holds immense influence in the New York art world."</p>
 
 <p>"Director."</p>
 
@@ -757,7 +757,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He and Jane sat side by side on the three-seater sofa, and as Jane suggested, I took a seat on the armchair opposite them. He tried not to let go of my hand, but Jane persuaded him, saying it was better to do so for now.</p>
 
-<p>"Ihyeon is in the same room, right in front of you. It's fine. It's not dangerous. It's fine."</p>
+<p>"Yeehyeon is in the same room, right in front of you. It's fine. It's not dangerous. It's fine."</p>
 
 <p>She offered him whiskey, without ice, and a cigarette. I worried if offering alcohol to someone in an agitated state was appropriate, but by the time he finished one glass of whiskey and one cigarette, his eyes had almost returned to normal.</p>
 
@@ -773,7 +773,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Adding that, she patted his back a couple of times before looking back and forth between him and me with a cautious gaze.</p>
 
-<p>"Ihyeon, he's an Omega you're involved with, right?"</p>
+<p>"Yeehyeon, he's an Omega you're involved with, right?"</p>
 
 <p>"......"</p>
 
@@ -803,7 +803,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>A look of confusion crossed Jane's face.</p>
 
-<p>"Really? I made a big mistake... Your reaction just now... it was exactly that sort of sign. I'm sorry, Ihyeon. I jumped to conclusions."</p>
+<p>"Really? I made a big mistake... Your reaction just now... it was exactly that sort of sign. I'm sorry, Yeehyeon. I jumped to conclusions."</p>
 
 <p>"It's nothing. Please, really... don't worry about it."</p>
 
@@ -991,7 +991,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"......"</p>
 
-<p>"Seo Ihyeon's face right now..."</p>
+<p>"Seo Yeehyeon's face right now..."</p>
 
 <p>I understood what he meant and didn't ask. He stood up first, offering an awkward smile.</p>
 
@@ -1077,7 +1077,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Even after the smoke had completely cleared, he still didn't roll up the window, replying in a dry voice.</p>
 
-<p>"I made the decision purely from a business perspective. Shushu's exhibition is a great opportunity, and there's no better publicity than opening the branch while giving Seo Ihyeon's debut show an explosive launch. That's all there is to it. Once I decided, I simply changed course and moved boldly accordingly."</p>
+<p>"I made the decision purely from a business perspective. Shushu's exhibition is a great opportunity, and there's no better publicity than opening the branch while giving Seo Yeehyeon's debut show an explosive launch. That's all there is to it. Once I decided, I simply changed course and moved boldly accordingly."</p>
 
 <p>If that was the answer I would receive from him when asking the same question Yuni asked, I probably wouldn't be able to accept it fully.</p>
 
@@ -1115,7 +1115,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Ah... well..."</p>
 
-<p>"Seo Ihyeon only heard about the New York branch this afternoon as well."</p>
+<p>"Seo Yeehyeon only heard about the New York branch this afternoon as well."</p>
 
 <p>While I was debating what the wisest answer would be, he answered for me. Depending on how one heard it, it might sound like he was trying to shield me.</p>
 
@@ -1221,7 +1221,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Yes, hyung."</p>
 
-<p>[...Hmm. What is it? Did Ihyeon always greet me like this?]</p>
+<p>[...Hmm. What is it? Did Yeehyeon always greet me like this?]</p>
 
 <p>When he spoke after a brief pause, his voice sounded genuinely curious, so I laughed awkwardly. It was true that receiving a call from an acquaintance while abroad made me happier than usual.</p>
 
@@ -1533,7 +1533,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Just as I was about to take a can of beer from the refrigerator in the small kitchen between the living room and my room, the doorbell rang again.</p>
 
-<p>"Oh, Ihyeon... Awi, Director Liu, is he inside?"</p>
+<p>"Oh, Yeehyeon... Awi, Director Liu, is he inside?"</p>
 
 <p>This time it was Shushu. He was still wearing the outfit he had worn to the opening event at the gallery that morning.</p>
 
@@ -1547,7 +1547,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>After leading him to the living room, I asked if he needed a drink. Shushu, who had requested coffee, stopped me as I headed to the kitchen and asked for a beer instead. I returned to the living room holding two bottles of beer.</p>
 
-<p>"Thanks. Don't mind me; you should go rest in your room, Ihyeon."</p>
+<p>"Thanks. Don't mind me; you should go rest in your room, Yeehyeon."</p>
 
 <p>"Not at all. I was just taking out a beer for myself right before you arrived."</p>
 
@@ -1561,7 +1561,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Ah... You must have been busy, yet you made time to see my work. Thank you."</p>
 
-<p>"I only just found out today that the artist behind <em>Alienation</em> is you, Ihyeon."</p>
+<p>"I only just found out today that the artist behind <em>Alienation</em> is you, Yeehyeon."</p>
 
 <p>"......"</p>
 
@@ -1583,7 +1583,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"It was like Awi's little game — asking everyone visiting his home for the first time what they thought the theme of that painting was.</p>
 
-<p>Even though he owns several famous pieces, he was particularly obsessed with that one painting... But to think that you, Ihyeon, are the artist behind <em>Alienation</em>, and that you have a past connection with Manager Han. I don't know how things get so tangled up. I haven't lived that long, but sometimes life is truly funny, isn't it?"</p>
+<p>Even though he owns several famous pieces, he was particularly obsessed with that one painting... But to think that you, Yeehyeon, are the artist behind <em>Alienation</em>, and that you have a past connection with Manager Han. I don't know how things get so tangled up. I haven't lived that long, but sometimes life is truly funny, isn't it?"</p>
 
 <p>Shushu took a drink of beer, smiling wryly as if he, too, had once been a subject in life's unfolding comedy.</p>
 
@@ -1597,11 +1597,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Even as he apologized and asked if I was okay, Shushu smiled as if wondering why I was so surprised.</p>
 
-<p>"Awi and I have been friends since kindergarten. You can tell just by the way he treats Ihyeon. Besides, that guy doesn't even seem to be trying to hide anything, anyway."</p>
+<p>"Awi and I have been friends since kindergarten. You can tell just by the way he treats Yeehyeon. Besides, that guy doesn't even seem to be trying to hide anything, anyway."</p>
 
 <p><em>I knew that if he truly wanted to hide something, that son of a gun could fool even God about who he was dating.</em> Hearing Shushu add that, I nervously fiddled with the beer bottle.</p>
 
-<p>"I asked if he treats you well, but in your case, Seo Ihyeon, it seems like he'd be head over heels for you. Right?"</p>
+<p>"I asked if he treats you well, but in your case, Seo Yeehyeon, it seems like he'd be head over heels for you. Right?"</p>
 
 <p>Urging me to talk, Shushu seemed somewhat amused by my reaction. The more he did, the more my face burned. I wasn't even completely accustomed to the relationship between just the two of us yet; talking about it in front of others was still too high a hurdle for me.</p>
 
@@ -1691,7 +1691,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>I didn't answer right away, waiting for him to continue. His face, fixed on some spot on the table edged with antique gold, hinted that the story I was about to hear would not be pleasant. Though moisture was rapidly beading on the surface of the beer bottle in my hand, I didn't even have the urge to wet my throat with the liquid inside.</p>
 
-<p>"I know that hearing this story... might be a burden for you, Ihyeon."</p>
+<p>"I know that hearing this story... might be a burden for you, Yeehyeon."</p>
 
 <p>Without looking away from that spot on the table, he took a sip of his whiskey.</p>
 
@@ -1875,7 +1875,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>It was such an unexpected confession that I felt a slight shock. It seemed like a confession of love as deep as that, but I didn't want the most overwhelming emotion he experienced through me to be fear.</p>
 
-<p>"Seo Ihyeon."</p>
+<p>"Seo Yeehyeon."</p>
 
 <p>His voice was calm and steady, without any agitation or tremor, yet strangely, there was something about it that made me feel a vague dread about what he was about to say next. My chest felt chaotic, like an ill-fitting door rattling in a strong wind.</p>
 
@@ -1977,7 +1977,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He cupped my cheek, turning my face toward him, and used his long, neat fingers to brush my hair behind my ear.</p>
 
-<p>"Even knowing I'm a man who has never had a serious partner... does Seo Ihyeon still love me?"</p>
+<p>"Even knowing I'm a man who has never had a serious partner... does Seo Yeehyeon still love me?"</p>
 
 <p>I offered him a silent smile as he tried to crack a joke in a tightly controlled voice. He smiled back, rubbing my earlobe with his thumb. He was so warm when he smiled at me. At those times, he looked happy, like someone who had everything he wanted, and I thought I was successfully conveying my feelings to him.</p>
 
@@ -2073,7 +2073,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He was wearing indoor pants with a drawstring and elastic waistband, fabric far too thin and soft to conceal the growing bulk of his cock hardening between my cleft.</p>
 
-<p>"Seo Ihyeon...."</p>
+<p>"Seo Yeehyeon...."</p>
 
 <p>Just hearing my name whispered while he rubbed his nose and lips against my earlobe made my body tremble. It truly was a great voice, too. Not inherently a comforting sound, but that particular low rasp created an impressive accent that made it unforgettable. Especially when he lowered his tone even further during intimacy, infusing it with breath as he whispered in my ear... even more so then.</p>
 
@@ -2231,7 +2231,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>After a deep kiss, he rubbed his face against my cheek until my nose felt crushed, and called my name amidst his ragged breathing.</p>
 
-<p>"Seo Ihyeon..."</p>
+<p>"Seo Yeehyeon..."</p>
 
 <p>"......"</p>
 

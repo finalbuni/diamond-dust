@@ -235,7 +235,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p><em>I'm sure I left it right here, but I can't find it anywhere.</em> That was the look on his face.</p>
 
-<p>"Seo Ihyeon-ssi."</p>
+<p>"Seo Yeehyeon-ssi."</p>
 
 <p>"……"</p>
 
@@ -629,13 +629,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He stared at me silently for a long time, his eyes empty, as if everything had been taken from him. His eyes looked vacant and slackened — as if he had just been confronted with the shabby, crude underbelly of life. He looked so utterly helpless and fragile, like a young boy, despite his large and solid build. A clear sort of sorrow seemed to pool in his eyes.</p>
 
-<p>"Yes… you're a Beta, Seo Ihyeon."</p>
+<p>"Yes… you're a Beta, Seo Yeehyeon."</p>
 
 <p>After a long while, he finally muttered. But he didn't look relieved. His eyes were still dazed and unfocused. It felt like a lie that we had been so heated just moments before.</p>
 
 <p>He removed his hand from between my legs and rubbed his face several times with his palm.</p>
 
-<p>"You probably… have internal injuries. A Beta like Seo Ihyeon wouldn't have been able to withstand the knotting."</p>
+<p>"You probably… have internal injuries. A Beta like Seo Yeehyeon wouldn't have been able to withstand the knotting."</p>
 
 <p>He worried about me, insisting I should go to the hospital right away to check for even the slightest tear or scrape — but all I felt at that moment was a dull emptiness between my legs. And, though I couldn't tell him honestly, the lingering afterglow of that tingling pleasure was stronger. I felt like it would be more comfortable if he would just firmly fill the space that had become so hollowly empty. Contrary to his concern, I felt no particular pain.</p>
 

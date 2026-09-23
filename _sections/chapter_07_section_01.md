@@ -65,7 +65,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Juhan hyung said playfully, tapping the bottom of the steering wheel lightly with his fist. Then he added,</p>
 
-<p>"More accurately, the elopement plus Seo Ihyeon?"</p>
+<p>"More accurately, the elopement plus Seo Yeehyeon?"</p>
 
 <p>"......"</p>
 
@@ -111,7 +111,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Since it was a narrow residential alley, he couldn't leave the car parked for long. I thanked him for the ride and got out, and Juhan hyung quickly drove off down the alley.</p>
 
-<p>"Seo Ihyeon!"</p>
+<p>"Seo Yeehyeon!"</p>
 
 <p>I turned around. Morae nuna was standing outside the café, smiling with her hands tucked into the pockets of her apron. It had been almost a week since I'd last seen her.</p>
 
@@ -231,7 +231,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"No, really. I didn't bring it up because I wanted to go. I won't go. I don't want to."</p>
 
-<p>"Seo Ihyeon."</p>
+<p>"Seo Yeehyeon."</p>
 
 <p>She deliberately draped an arm over my shoulder and leaned her weight into me.</p>
 

@@ -147,11 +147,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>As nuna scolded him and sat back down, Inwu hyung pretended not to hear, turning his head so far that his chin nearly sank into his shoulder to look at me. His characteristic mischievous smile played on his lips.</p>
 
-<p>"Then, during the Chicago business trip... Ihyeon will be all alone, won't you?"</p>
+<p>"Then, during the Chicago business trip... Yeehyeon will be all alone, won't you?"</p>
 
 <p>"..."</p>
 
-<p>"Why would Ihyeon be alone? Manager Han is here, and so am I."</p>
+<p>"Why would Yeehyeon be alone? Manager Han is here, and so am I."</p>
 
 <p>By now Juhan hyung seemed to have eaten his fill; he was leaning back in his chair, drinking cola. Inwu hyung looked over at him and shook his head.</p>
 
@@ -165,7 +165,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Inwu hyung asked, peering into one of the paper bags.</p>
 
-<p>"Seo Ihyeon is going to sleep over at his hyung and nuna's tonight. The Director packed that for him."</p>
+<p>"Seo Yeehyeon is going to sleep over at his hyung and nuna's tonight. The Director packed that for him."</p>
 
 <p>At Juhan hyung's answer, everyone looked at me and laughed.</p>
 
@@ -179,13 +179,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Expecting him to respond to my feelings the way others did would lead nowhere. Steadily suppressing expectations and learning to let go of hope was the best way to keep things from getting any worse. Probably.</p>
 
-<p>"Huh? Then Ihyeon isn't coming to the second round?"</p>
+<p>"Huh? Then Yeehyeon isn't coming to the second round?"</p>
 
 <p>Even after everyone else had gotten up, Inwu hyung remained seated, grabbing my wrist and shaking it with a mournful expression, the corners of his eyes pulled down.</p>
 
 <p>"Well... we were supposed to meet right after I got back, but I kept being busy and couldn't find the time. So it was a bit..."</p>
 
-<p>"Ah... right. Ihyeon came back a day late because he was sick again."</p>
+<p>"Ah... right. Yeehyeon came back a day late because he was sick again."</p>
 
 <p>Hyung said that with a subtle emphasis, and glanced sidelong at the man sitting across from him. It was probably an overthought, but sometimes hyung seemed like someone who knew things he hadn't been told, which was unsettling.</p>
 
@@ -205,7 +205,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>The joy he'd expressed in Hong Kong about escaping the rainy season for a few days had amounted to nothing — Seoul was still deep in the monsoon. The rain that had kept everyone worrying about the humidity in the underground storage and exhibition hall all week was peaking today.</p>
 
-<p>"Inwu hyung and Manager Han will need to call their drivers... Director Liu, you didn't drink, right? Could you drop Ihyeon-ah off on your way? It's raining so hard."</p>
+<p>"Inwu hyung and Manager Han will need to call their drivers... Director Liu, you didn't drink, right? Could you drop Yeehyeon-ah off on your way? It's raining so hard."</p>
 
 <p>He had slipped his arms into a deep navy summer jacket and turned toward me at nuna's words.</p>
 

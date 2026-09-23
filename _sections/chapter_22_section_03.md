@@ -199,7 +199,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"...Why?"</p>
 
-<p>"I never imagined Seo Ihyeon would be the one to ask about this first. I'm glad you've become curious enough about me to want to know..."</p>
+<p>"I never imagined Seo Yeehyeon would be the one to ask about this first. I'm glad you've become curious enough about me to want to know..."</p>
 
 <p>Glad, and on the other hand — what else? He left the thought unfinished and smiled with a vagueness that gave nothing away, tapping the eraser end of the pencil lightly against the tabletop.</p>
 
@@ -259,7 +259,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He inhaled, deepening the hollows in his cheekbones — sharper-seeming than when we first met — and spoke with the cigarette held between his fingers.</p>
 
-<p>"I don't know how Seo Ihyeon evaluates himself, but he's someone who tries — however slowly — to face himself and his surroundings honestly. Don't talk about painting as though it's a hurdle that has to be cleared."</p>
+<p>"I don't know how Seo Yeehyeon evaluates himself, but he's someone who tries — however slowly — to face himself and his surroundings honestly. Don't talk about painting as though it's a hurdle that has to be cleared."</p>
 
 <p>"......"</p>
 

@@ -15,7 +15,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Hyung and Morae, their hands clasped tightly, walked through the lobby and into the coffee shop. It wasn't a sight you saw often. Hyung's face was stiff, his eyes sweeping their surroundings, but Morae spotted me right away, waved, and came over exactly as she always did.</p>
 
-<p>"Nice spot you found, Seo Ihyeon."</p>
+<p>"Nice spot you found, Seo Yeehyeon."</p>
 
 <p>She dropped onto the sofa across from me — I was seated by the window, a grand piano at my back — and carried on about how lucky we were to get a window seat, as if she'd come here to enjoy her afternoon.</p>
 
@@ -335,4 +335,4 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Then she squeezed my shoulder firmly and made her decision known.</p>
 
-<p>"Let's rely on Seo Ihyeon this time."</p>
+<p>"Let's rely on Seo Yeehyeon this time."</p>

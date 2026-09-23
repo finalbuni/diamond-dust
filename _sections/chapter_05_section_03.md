@@ -73,7 +73,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>A daily life that would continue even without doing anything — I had already given that up myself, from that rainy dawn when I stepped over the threshold of the front gate and left my father behind.</p>
 
-<p>"What's this, Seo Ihyeon, studying illustration these days?"</p>
+<p>"What's this, Seo Yeehyeon, studying illustration these days?"</p>
 
 <p>Someone placed a hand on my right shoulder from behind and leaned their face over my left shoulder. It was Juhan hyung.</p>
 
@@ -119,7 +119,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>It was the same feeling I'd had in the taxi on the way home after my first day at Phantom — that strange fear that if I went back, Phantom would simply be gone.</p>
 
-<p><em>It was all a dream, Seo Ihyeon-ssi. Time to return to reality</em> — as if someone was about to grab me by the collar and say those words.</p>
+<p><em>It was all a dream, Seo Yeehyeon-ssi. Time to return to reality</em> — as if someone was about to grab me by the collar and say those words.</p>
 
 <p>"Oh? Were you looking at the Old Future website?"</p>
 
@@ -171,7 +171,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>This time I just nodded, and Juhan hyung nudged me with his elbow, smiling somewhat slyly.</p>
 
-<p>"Hey — Seo Ihyeon has no sense of social cues."</p>
+<p>"Hey — Seo Yeehyeon has no sense of social cues."</p>
 
 <p>"You think he'd just thoughtlessly wedge himself between a couple? There has to be more to it than that."</p>
 
@@ -195,11 +195,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Right now, I wanted badly to be part of Phantom — badly enough to take the risk.</p>
 
-<p>"But I see you differently now, Seo Ihyeon. I thought you were just a good boy from a good home, but you turn out to be a troublemaker with a burner phone. Still — you aren't running around after committing some crime, are you?"</p>
+<p>"But I see you differently now, Seo Yeehyeon. I thought you were just a good boy from a good home, but you turn out to be a troublemaker with a burner phone. Still — you aren't running around after committing some crime, are you?"</p>
 
 <p>Juhan hyung gnawed at the end of a green straw as he asked, and I burst out laughing and shook my head. Perhaps embarrassed by his own question, he let out a small laugh too.</p>
 
-<p>"I'm curious about your story, but just looking at you, Seo Ihyeon, you're clearly not the type to spill — so I won't ask."</p>
+<p>"I'm curious about your story, but just looking at you, Seo Yeehyeon, you're clearly not the type to spill — so I won't ask."</p>
 
 <p>Nuna playfully draped an arm over my shoulder and said,</p>
 

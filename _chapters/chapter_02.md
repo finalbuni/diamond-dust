@@ -103,7 +103,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>But seeing the Teacher's face hadn't felt difficult at all. In fact, the very first honest emotion that came to mind when I recognized her was that I was glad to see her. Her face wasn't connected to painful memories.</p>
 
-<p>"Seo Ihyeon is practically a god when it comes to organizing. She's not offering this because she knows your situation and wants to help — she happened to need someone qualified, and you fit perfectly. If you're worried about being a burden, don't be. That would be more of an insult to her. Just decide based on what you truly want."</p>
+<p>"Seo Yeehyeon is practically a god when it comes to organizing. She's not offering this because she knows your situation and wants to help — she happened to need someone qualified, and you fit perfectly. If you're worried about being a burden, don't be. That would be more of an insult to her. Just decide based on what you truly want."</p>
 
 <p>After finishing her meal, Morae said this and took a long, refreshing gulp of the beer she'd been saving.</p>
 
@@ -129,7 +129,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Even if they didn't act like a couple in front of me, I knew their relationship wasn't made up only of the easy, friendly warmth they showed me.</p>
 
-<p>"Ihyeon-ah, just sleep in the room with us. I'm fine, okay?"</p>
+<p>"Yeehyeon-ah, just sleep in the room with us. I'm fine, okay?"</p>
 
 <p>Leaning against the frame of the open sliding door, Morae nuna watched me lay out my bedding in the kitchen and delivered the same line as always.</p>
 
@@ -207,7 +207,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"I'm sorry."</p>
 
-<p>"Ihyeon-ah, don't be like that. What is there to be sorry about? I was just wondering how you've been lately. I haven't picked up a brush in quite a while myself, you know."</p>
+<p>"Yeehyeon-ah, don't be like that. What is there to be sorry about? I was just wondering how you've been lately. I haven't picked up a brush in quite a while myself, you know."</p>
 
 <p>The Teacher said this in a light tone, as if it truly meant nothing, and tilted the water bottle to drink.</p>
 
@@ -261,7 +261,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>From what I could hear, it sounded like another problem had erupted at the gallery. I was glad she'd at least finished eating, and rinsed out the lunchbox containers.</p>
 
-<p>"Ihyeon-ah, what should I do? Something came up at the office — I need to get back quickly. I'm sorry, I said I'd give you a ride first. Take a taxi instead, okay?"</p>
+<p>"Yeehyeon-ah, what should I do? Something came up at the office — I need to get back quickly. I'm sorry, I said I'd give you a ride first. Take a taxi instead, okay?"</p>
 
 <p>"No, it's fine. I've finished cleaning up, and if I leave now I can still catch the bus."</p>
 
@@ -271,7 +271,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Still holding the container, I nodded awkwardly. The Teacher strode forward and took hold of my wet hand.</p>
 
-<p>"Ihyeon-ah, save me. No — save my kids."</p>
+<p>"Yeehyeon-ah, save me. No — save my kids."</p>
 </div>
 {% include scene-break.html %}
 <div id="section-3" class="hybrid-section" data-section="3">
@@ -369,7 +369,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"I didn't realize you'd be this young. What's your name? Even if it's just for one night, we should at least know each other's names. I'm Kwon Juhan."</p>
 
-<p>"Seo Ihyeon."</p>
+<p>"Seo Yeehyeon."</p>
 
 <p>He knelt before a painting while I held the edge of the canvas to keep it from tipping. We shook hands — much later than we should have.</p>
 
@@ -379,7 +379,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He brushed the dust from his knees and stood up. Now we had to move the paintings upstairs. Twenty-four pieces in total, some mixed in that looked to be size 120 or larger. These were the works and items that would be exhibited and sold starting tomorrow. We decided to carry everything together — excluding the smallest pieces — to handle them with care.</p>
 
-<p>"I might not look that sturdy, but you don't look much sturdier yourself... These are quite heavy. You absolutely cannot drop them, so stay focused. Seriously. If you drop one, our Director won't leave you, Ihyeon, alive."</p>
+<p>"I might not look that sturdy, but you don't look much sturdier yourself... These are quite heavy. You absolutely cannot drop them, so stay focused. Seriously. If you drop one, our Director won't leave you, Yeehyeon, alive."</p>
 
 <p>We positioned ourselves on opposite sides of the first piece. Juhan gave me a light warning, his shoulders already trembling slightly at what the Director might say.</p>
 
@@ -423,7 +423,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Juhan, who'd declared he couldn't lift another finger, seemed to have recharged somewhat and suddenly sprang up, grabbing an ion drink from the makeshift workbench and twisting off the cap. I wasn't particularly thirsty, but he offered me one and I took a couple of sips.</p>
 
-<p>"By the way — did you greet Ihyeon yet? You didn't, right? You probably just put him to work the second you saw him, without so much as a hello."</p>
+<p>"By the way — did you greet Yeehyeon yet? You didn't, right? You probably just put him to work the second you saw him, without so much as a hello."</p>
 
 <p>"Is it wrong to ask someone to work when we met specifically to work?"</p>
 
@@ -431,13 +431,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"I'm Baek Yuni."</p>
 
-<p>"I'm Seo Ihyeon."</p>
+<p>"I'm Seo Yeehyeon."</p>
 
 <p><em>This is a pencil, and that is a desk.</em></p>
 
 <p>Juhan, watching our introduction — as flat as the example sentences from a beginner's English textbook — stifled a laugh from across the way, his shoulders shaking.</p>
 
-<p>"That was painful to watch. Call each other Yuni and Ihyeon — that's what we agreed on with me too."</p>
+<p>"That was painful to watch. Call each other Yuni and Yeehyeon — that's what we agreed on with me too."</p>
 
 <p>It wasn't at all surprising that he judged me as shy. Anyone looking at me could probably tell I wasn't outgoing. I had that much self-awareness. But his assessment of her was unexpected.</p>
 
@@ -493,11 +493,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>My own gaze, which had been stealing glances at him out of curiosity about this unfamiliar presence, dropped instinctively toward the base of his neck.</p>
 
-<p>"Manager Han brought him just a little while ago. Asked him to help out for today only. Ihyeon, this is our Director."</p>
+<p>"Manager Han brought him just a little while ago. Asked him to help out for today only. Yeehyeon, this is our Director."</p>
 
 <p>Even without looking directly at him, his gaze was inescapable. It showed no consideration for how I might perceive being stared at — he surveyed me freely, from whatever angle he pleased, as much as he wanted. The sensation was like a vice slowly tightening around my entire body.</p>
 
-<p>"Hello. I'm Seo Ihyeon."</p>
+<p>"Hello. I'm Seo Yeehyeon."</p>
 
 <p>I forced the words out over the reluctance that made me want to shrink back, and greeted him.</p>
 
@@ -541,7 +541,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>It was different from being simply ignored. There was something deliberate in it — a cool, sustained indifference directed at me specifically.</p>
 
-<p>"Manager Han, Ihyeon works well. Compared to when Kwon Juhan first started, you'd believe he'd already had experience."</p>
+<p>"Manager Han, Yeehyeon works well. Compared to when Kwon Juhan first started, you'd believe he'd already had experience."</p>
 
 <p>Yuni's praise — which she didn't seem like the type to offer lightly — was a small comfort.</p>
 
@@ -557,7 +557,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>That didn't make him look shabby, though. Just a little tired. And because of that — a little more sensitive, a little fiercer.</p>
 
-<p>"Thank you, Ihyeon-ah. If it weren't for you, we might've stayed here all night and rushed to wash up at a nearby hotel before the opening. I don't know what I would have done if I hadn't run into you."</p>
+<p>"Thank you, Yeehyeon-ah. If it weren't for you, we might've stayed here all night and rushed to wash up at a nearby hotel before the opening. I don't know what I would have done if I hadn't run into you."</p>
 
 <p>The Teacher, seated beside me, rested her temple against my shoulder and pretended to cry. Whether it was my imagination or not, the gaze coming from the man across the table felt sharp.</p>
 
@@ -567,7 +567,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>I tucked the sandwich into my bag and was about to say goodbye when Yuni — who had been sitting at the head of the table with a corner between us — suddenly sprang to her feet.</p>
 
-<p>"Ihyeon! Could you possibly come back for tomorrow's event, just one more time?"</p>
+<p>"Yeehyeon! Could you possibly come back for tomorrow's event, just one more time?"</p>
 
 <p>She seemed surprised by her own words, as though she'd blurted out the thought the moment it surfaced. She took off her glasses and set them on the table, her dark eyes still sharp after working through the night.</p>
 
@@ -687,13 +687,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>With only the upstairs catering setup left to finish, the 3:00 opening would be fine. We gathered around the table, each with a cup of coffee the Teacher had brought, to enjoy one last moment of ease before things got underway.</p>
 
-<p>"Yuni and Juhan will take turns with clients. There are times when clients have questions about the artwork and both the Director and I are unavailable. When it gets busy, there might even be moments where both Yuni and Juhan have to leave the desk unattended. Ihyeon, all you need to do is hand out pamphlets at the desk."</p>
+<p>"Yuni and Juhan will take turns with clients. There are times when clients have questions about the artwork and both the Director and I are unavailable. When it gets busy, there might even be moments where both Yuni and Juhan have to leave the desk unattended. Yeehyeon, all you need to do is hand out pamphlets at the desk."</p>
 
 <p>I wasn't shy — just unused to this kind of thing — so I figured I could manage that much somehow.</p>
 
 <p>"Smiling and being warm... will it be all right if I can't quite manage that?"</p>
 
-<p>"It's fine, it's fine. Ihyeon, your expressionless face is actually charming — clients will probably like it even more. Don't worry about that..."</p>
+<p>"It's fine, it's fine. Yeehyeon, your expressionless face is actually charming — clients will probably like it even more. Don't worry about that..."</p>
 
 <p>The Teacher's encouraging words — that my deadpan expression was charming, a claim I found hard to agree with — gradually trailed off and then stopped entirely. The smile slowly drained from her face until, in the end, it contorted into a full grimace, as though she'd just swallowed something bitter.</p>
 
@@ -1037,7 +1037,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>His gaze drifted toward my chest, as if searching for a name tag.</p>
 
-<p>"Seo Ihyeon."</p>
+<p>"Seo Yeehyeon."</p>
 
 <p>He studied me for a moment, then gave a slow shake of his head.</p>
 
@@ -1047,7 +1047,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Since he hadn't made any direct proposition, I couldn't find a reason to react. He didn't seem to expect one, either.</p>
 
-<p>"I'd like Ihyeon to recommend one piece. What do you think would be good? Something relaxing."</p>
+<p>"I'd like Yeehyeon to recommend one piece. What do you think would be good? Something relaxing."</p>
 
 <p>"I'm just a part-timer helping out for today..."</p>
 
@@ -1163,7 +1163,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Then what was it?"</p>
 
-<p>"What was it, Ihyeon-ah?"</p>
+<p>"What was it, Yeehyeon-ah?"</p>
 
 <p>As if she'd been curious all along, the Teacher turned to me for an answer.</p>
 
@@ -1179,7 +1179,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"I only thought it needed to look like it had actually been read. I'm sorry."</p>
 
-<p>"Ihyeon-ah, what do you have to apologize for? Kun — what is this? You're going too far."</p>
+<p>"Yeehyeon-ah, what do you have to apologize for? Kun — what is this? You're going too far."</p>
 
 <p>The Teacher set her champagne glass down on the table with a sharp thud.</p>
 
@@ -1189,7 +1189,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>The icy hostility from yesterday wasn't there, but the sharp edge remained. The Teacher looked mildly annoyed. That was rare.</p>
 
-<p>"You are results-oriented and performance-driven. Thanks to Ihyeon, the Editor-in-Chief was in a good mood and sales went up. You should be rewarding that, not picking fights. I brought him here. Do you have something against him?"</p>
+<p>"You are results-oriented and performance-driven. Thanks to Yeehyeon, the Editor-in-Chief was in a good mood and sales went up. You should be rewarding that, not picking fights. I brought him here. Do you have something against him?"</p>
 
 <p>His eyes turned slowly toward me. I didn't know what their private relationship was or how close they were, but I could sense that he trusted the Teacher completely. Toward her, at least, he didn't wear that expression of weary annoyance, or that villainous smile, or the mechanical smile armed with artificially sweet charm — the kind that felt manufactured rather than meant.</p>
 
@@ -1221,7 +1221,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Our Director is... a bit overwhelming, isn't he?"</p>
 
-<p>"Don't worry too much about it. He's not like that only with Ihyeon — he's just like that with everyone he meets for the first time," Yuni added.</p>
+<p>"Don't worry too much about it. He's not like that only with Yeehyeon — he's just like that with everyone he meets for the first time," Yuni added.</p>
 
 <p>I smiled to show it was fine and folded the legs of a temporary table that had been set aside.</p>
 
@@ -1243,7 +1243,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Perhaps embarrassed by how flimsy his own defense sounded — especially after the lengthy explanation he'd just given me about the Golden Alpha Director's exceptional pheromone control — Juhan shot me a self-conscious glance.</p>
 
-<p>"What I'm trying to say is, the Director's personality is just rough — he doesn't particularly dislike you, Ihyeon. That's the point. He's not hostile because he dislikes someone. He treats everyone like that before he starts to like them."</p>
+<p>"What I'm trying to say is, the Director's personality is just rough — he doesn't particularly dislike you, Yeehyeon. That's the point. He's not hostile because he dislikes someone. He treats everyone like that before he starts to like them."</p>
 
 <p>I wasn't sure whether that was comforting, but at least it seemed true that he wasn't singling me out specifically for torment.</p>
 

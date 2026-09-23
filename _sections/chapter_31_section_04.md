@@ -72,7 +72,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Getting into the back seat of the waiting sedan, Liu let out a small, dry laugh to himself.</p>
 
-<p><em>Ah, but maybe she had a point. Waiting for and hoping for Seo Ihyeon — that certainly meant his standards were impossibly high. That made sense.</em></p>
+<p><em>Ah, but maybe she had a point. Waiting for and hoping for Seo Yeehyeon — that certainly meant his standards were impossibly high. That made sense.</em></p>
 
 <p>With a bitter smile, he looked out the window. The foliage around the Han River was now showing the full colors of autumn.</p>
 
@@ -80,11 +80,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He had met Morae and Yeehan at Double Six Beach in Bali.</p>
 
-<p>Meeting them had never been the initial goal. He hadn't expected them to recognize him at all. It was practically a scouting trip — perhaps he had just wanted to soothe his longing indirectly by watching over the people who were precious to Ihyeon.</p>
+<p>Meeting them had never been the initial goal. He hadn't expected them to recognize him at all. It was practically a scouting trip — perhaps he had just wanted to soothe his longing indirectly by watching over the people who were precious to Yeehyeon.</p>
 
-<p>But Morae recognized Liu immediately and approached him. Then, pointing to the painting of Liu that Ihyeon had done, she said:</p>
+<p>But Morae recognized Liu immediately and approached him. Then, pointing to the painting of Liu that Yeehyeon had done, she said:</p>
 
-<p>"How could I not recognize him? Ihyeon really has a talent."</p>
+<p>"How could I not recognize him? Yeehyeon really has a talent."</p>
 
 <p>The man in the painting — wearing large rabbit ears and looking at the pocket watch dangling from his vest. It was unmistakably Liu, from every angle.</p>
 
@@ -92,21 +92,21 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>The White Rabbit with the pocket watch, leading her to Wonderland.</p>
 
-<p>That was how Ihyeon had depicted Liu.</p>
+<p>That was how Yeehyeon had depicted Liu.</p>
 
 <p>Standing before that painting, he could no longer control his longing. In the very place he went to ease his feelings, he had completely broken down emotionally.</p>
 
-<p>Up until that moment, Liu had been at a loss after letting Ihyeon go.</p>
+<p>Up until that moment, Liu had been at a loss after letting Yeehyeon go.</p>
 
-<p><em>Should he fly to Paris and cling to him selfishly? If he cried and begged, saying it felt like he would die or go mad, would Ihyeon take him back, even out of pity?</em> He had thought thoughts like that countless times a day. In fact, he had booked tickets to Paris several times.</p>
+<p><em>Should he fly to Paris and cling to him selfishly? If he cried and begged, saying it felt like he would die or go mad, would Yeehyeon take him back, even out of pity?</em> He had thought thoughts like that countless times a day. In fact, he had booked tickets to Paris several times.</p>
 
-<p>But that wasn't the kind of reception he wanted from Ihyeon.</p>
+<p>But that wasn't the kind of reception he wanted from Yeehyeon.</p>
 
-<p>Simple pity wasn't enough. He wanted Ihyeon's entire heart.</p>
+<p>Simple pity wasn't enough. He wanted Yeehyeon's entire heart.</p>
 
 <p>After repeatedly booking and canceling plane tickets, Liu changed his mind following the Bali trip.</p>
 
-<p>For now, he decided to focus only on surviving. He had to live and endure if he wanted to wait for him. To do that, he accepted the conclusion that he could only breathe by looking at Ihyeon, even from afar.</p>
+<p>For now, he decided to focus only on surviving. He had to live and endure if he wanted to wait for him. To do that, he accepted the conclusion that he could only breathe by looking at Yeehyeon, even from afar.</p>
 
 <p>He booked a ticket to Paris, and this time, he didn't cancel it.</p>
 

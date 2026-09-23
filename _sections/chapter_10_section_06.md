@@ -93,7 +93,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Under the bright fluorescent lights, surrounded by familiar faces, their conversation, and the rich smell of food, my hazy senses slowly began to regain a sense of reality.</p>
 
-<p>"We came fully prepared today to properly set up our Seo Ihyeon…"</p>
+<p>"We came fully prepared today to properly set up our Seo Yeehyeon…"</p>
 
 <p>Nuna set down her milk tea and dug into one of the shopping bags under the table, pulling out a T-shirt. It was a striped knit tee. She held it up under my chin to see if it suited me, but I grabbed her hand.</p>
 
@@ -103,7 +103,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>That was Juhan hyung, who had just drained the last of his wonton noodle soup.</p>
 
-<p>"Yeah, we're forcing a sale here. So don't refuse, Ihyeon."</p>
+<p>"Yeah, we're forcing a sale here. So don't refuse, Yeehyeon."</p>
 
 <p>Nuna pulled my hand away. I knew they were saying this on purpose to make me feel more comfortable. Setting aside whether I paid or not, I was simply grateful that they had thought of me even while so tired and busy.</p>
 
@@ -131,7 +131,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Why are you like that again?"</p>
 
-<p>"You think things like that while looking at Ihyeon? What an animal."</p>
+<p>"You think things like that while looking at Yeehyeon? What an animal."</p>
 
 <p>While criticizing him with an aggrieved expression, nuna spread out the knit top and covered my face with it. I resented my own immaturity for getting flustered so easily over such a light, meaningless tease. I wanted to handle myself and the situation with more skill and composure, but all I could manage as my best defense was to shut my mouth.</p>
 

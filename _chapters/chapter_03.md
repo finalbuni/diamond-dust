@@ -249,7 +249,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Three glasses clinked together over the now-cold fries. I didn't know exactly what we were celebrating, but it felt like a toast marking something real.</p>
 
-<p>"So, Ihyeon-ah — would you like to work at Phantom officially?"</p>
+<p>"So, Yeehyeon-ah — would you like to work at Phantom officially?"</p>
 
 <p>"Pardon?"</p>
 
@@ -281,7 +281,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Then that works out even better! If you move into Manager Han's place, you could do the helper work and still work at Phantom!"</p>
 
-<p>"Hey — if Ihyeon works at Phantom, he'll be commuting every day and working overtime. How is he supposed to manage live-in helper duties on top of that? Do you think housework is that easy?"</p>
+<p>"Hey — if Yeehyeon works at Phantom, he'll be commuting every day and working overtime. How is he supposed to manage live-in helper duties on top of that? Do you think housework is that easy?"</p>
 
 <p>"I'm a single guy who does his own laundry and takes out the food waste on time, thank you. Baek Yuni... your true colors are showing."</p>
 
@@ -289,7 +289,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"What."</p>
 
-<p>"You're just jealous because Ihyeon is going to move into Manager Han's place."</p>
+<p>"You're just jealous because Yeehyeon is going to move into Manager Han's place."</p>
 
 <p>Yuni nuna stared at Juhan hyung in silence for a moment, then shook her head.</p>
 
@@ -327,7 +327,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Probably just because he's handsome."</p>
 
-<p>"You were practically singing about recruiting him every time you saw the Director, and now you're acting all tsundere. You'll just have to get used to him, Ihyeon-ah."</p>
+<p>"You were practically singing about recruiting him every time you saw the Director, and now you're acting all tsundere. You'll just have to get used to him, Yeehyeon-ah."</p>
 
 <p>That day, I drank three glasses of beer for the first time. After hearing about everything they'd each been through, both of them felt closer and more comfortable than before — and something restless in me kept pushing the glass back to my lips faster than usual.</p>
 
@@ -349,7 +349,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>The Teacher's place was a luxury apartment with a view of the Han River, but it was a small complex made up of only two buildings, so there was no commercial area inside. The complex next door had a small row of shops, but it only contained a small supermarket — so I usually did my grocery shopping at a large mart about a ten-minute walk away and walked to work from there.</p>
 
-<p>"Seo Ihyeon!"</p>
+<p>"Seo Yeehyeon!"</p>
 
 <p>I was just entering the alley that led straight from the crosswalk to the apartment when someone called my name. I turned reflexively toward the sound and saw the Teacher smiling at me from the passenger seat of a sleek white SUV. I smiled back instinctively and started walking toward the car — but over the Teacher's shoulder, I caught sight of the person in the driver's seat.</p>
 
@@ -393,7 +393,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"What does it matter what people say? If something happens to Manager Han, do you think those people will take responsibility for Phantom in their place?"</p>
 
-<p>"Ihyeon-ah, you heard what Director Liu just said, right? This is what they call being a tsundere, isn't it?"</p>
+<p>"Yeehyeon-ah, you heard what Director Liu just said, right? This is what they call being a tsundere, isn't it?"</p>
 
 <p>The Teacher turned to look at me in the back seat and asked. It wasn't really a question seeking genuine agreement.</p>
 
@@ -461,7 +461,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>I understood the concern about a precious person potentially living under the same roof as someone who wasn't family. It was, perhaps, a natural and reasonable worry. But as the person who had become the cause of that concern, it was hard to say the conversation felt particularly pleasant.</p>
 
-<p>"I know you're worried, but I've already thought everything through. I don't want Ihyeon hearing this, so if you really don't want to see me get angry, let's stop."</p>
+<p>"I know you're worried, but I've already thought everything through. I don't want Yeehyeon hearing this, so if you really don't want to see me get angry, let's stop."</p>
 
 <p>He stopped there for the moment. The topic shifted back to the artist named Shushu. The Director wanted to hold the exhibition as soon as possible, while the Teacher hesitated, saying the schedule was too tight. The conversation went on like that.</p>
 
@@ -471,7 +471,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>After finishing the living room, kitchen, and dining area, I reached for my bag from the sofa — but just then the Teacher pushed back from the dining table, as if the discussion had concluded, and walked over.</p>
 
-<p>"Ihyeon-ah, if you don't have a shift at the moving company next Saturday, could you help out at Phantom that day?"</p>
+<p>"Yeehyeon-ah, if you don't have a shift at the moving company next Saturday, could you help out at Phantom that day?"</p>
 
 <p>"I'm free next Saturday."</p>
 
@@ -491,7 +491,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Of course. The real power at Phantom is Manager Han." He picked up the summer jacket draped over the adjacent chair, checked the wristwatch beneath his rolled-up shirt sleeves, and quickly took another sip of coffee while standing.</p>
 
-<p>"Kun, give Ihyeon a ride on your way out."</p>
+<p>"Kun, give Yeehyeon a ride on your way out."</p>
 
 <p>"Oh, no — I'm really fine."</p>
 
@@ -557,7 +557,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He rested both hands on the upper part of the steering wheel, leaning his upper body forward slightly, and turned to look at me. I held his gaze without looking away. The cigarette in his left hand looked as though it might brush against my hair.</p>
 
-<p>"Quietly. Peacefully. I hope your life here stays that way. Do we understand each other, Seo Ihyeon-ssi?"</p>
+<p>"Quietly. Peacefully. I hope your life here stays that way. Do we understand each other, Seo Yeehyeon-ssi?"</p>
 
 <p>In that moment, the man who had seemed like the very symbol of a refined, elegant world — a Golden Alpha who looked as though he had never once touched dirt or dust — suddenly looked like someone from the underworld, someone who wouldn't hesitate to resort to threats or backroom schemes to get what he wanted. More convincing, even, than the private investigation agency director who had helped us get burner phones and find a place to rent.</p>
 

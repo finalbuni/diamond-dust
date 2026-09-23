@@ -29,7 +29,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"You wore a striped T-shirt on the VIP opening day, and the day before. I honestly didn't think you'd show up in stripes again today. Thanks to you, I lost the bet."</p>
 
-<p>"Thanks to you, Ihyeon-ah, Baek Yuni owes me a meal."</p>
+<p>"Thanks to you, Yeehyeon-ah, Baek Yuni owes me a meal."</p>
 
 <p>Juhan hyung, still slumped over with only his head turned toward us, flashed a V-sign with his fingers from that position and grinned.</p>
 
@@ -57,7 +57,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"No — <em>do</em> feel pressure. Take it, feel pressured, and come work with us. Yeah?"</p>
 
-<p>Juhan hyung had moved to the seat across from me at some point; he reached across the table, grabbed my hand, and put on his most earnest expression. His plea for me to stay was sincere enough that it made me genuinely happy and grateful — but I could only manage an ambiguous smile, my mind drifting to the image of the man who had stressed "peace and safety" to me with all the intensity of someone from the back alleys, saying, <em>Do we understand each other, Seo Ihyeon-ssi?</em></p>
+<p>Juhan hyung had moved to the seat across from me at some point; he reached across the table, grabbed my hand, and put on his most earnest expression. His plea for me to stay was sincere enough that it made me genuinely happy and grateful — but I could only manage an ambiguous smile, my mind drifting to the image of the man who had stressed "peace and safety" to me with all the intensity of someone from the back alleys, saying, <em>Do we understand each other, Seo Yeehyeon-ssi?</em></p>
 
 <p>"But... you run a store?"</p>
 
@@ -99,7 +99,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Yuni nuna said this smugly, arms crossed, chin tilted up. Juhan hyung, still seated, made a face.</p>
 
-<p>"Baek Yuni-nim, Ihyeon was pretty even when he was just wearing plain black pants and a plain T-shirt."</p>
+<p>"Baek Yuni-nim, Yeehyeon was pretty even when he was just wearing plain black pants and a plain T-shirt."</p>
 
 <p>"He was pretty before, but now he's even prettier. Admit it, you little punk."</p>
 
@@ -121,13 +121,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Juhan hyung, who looked about five to seven centimeters taller than me, was already tapping rapidly at his screen again, seemingly mid-game. In my eyes, he was the one who looked like a model — I'd felt that way since the first time I saw him in the basement storage.</p>
 
-<p>"Good proportions and a good face — just swap out that T-shirt over black jeans and you'd look exactly like a model. Ihyeon, you must have had people ask if you were an Alpha."</p>
+<p>"Good proportions and a good face — just swap out that T-shirt over black jeans and you'd look exactly like a model. Yeehyeon, you must have had people ask if you were an Alpha."</p>
 
 <p>Yuni nuna said it almost as a certainty, but no matter how much I searched my memory, I couldn't recall ever being mistaken for one. At least, no one had ever said it to my face.</p>
 
 <p>"No, not at all..."</p>
 
-<p>"Ay, Ihyeon is less like an Alpha and more like..."</p>
+<p>"Ay, Yeehyeon is less like an Alpha and more like..."</p>
 
 <p>Juhan hyung had lifted his eyes from the screen and was looking at me with a slightly subtle expression — a gaze that pressed down gently, like a hand resting with weight — when a commotion erupted outside the office door.</p>
 
@@ -151,13 +151,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He complained loudly at the Director's back, then — without giving him a chance to respond — came straight to me, bending slightly at the waist until his face was close. A very faint trace of wine. Nothing strong.</p>
 
-<p>"Ihyeon, have you been well?"</p>
+<p>"Yeehyeon, have you been well?"</p>
 
 <p>"Yes. Hello."</p>
 
 <p>The Director had moved past the table and was brewing himself a coffee at the machine by the window, one hand resting on his hip. Seen from behind, he looked a little worn out.</p>
 
-<p>"You said you came to buy us something delicious, but you really came to see Ihyeon."</p>
+<p>"You said you came to buy us something delicious, but you really came to see Yeehyeon."</p>
 
 <p>Juhan hyung grumbled, and the man threw an arm over my shoulder, turning to face where Yuni nuna and Juhan hyung were sitting.</p>
 
@@ -179,7 +179,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>All four of the others seemed to know the restaurant's owner personally. That alone said something — at minimum, they were close enough to share a regular spot.</p>
 
-<p>"Mind if I call you Ihyeon?"</p>
+<p>"Mind if I call you Yeehyeon?"</p>
 
 <p>I had been nervously sipping water; I quickly set the glass down and nodded at the man across from me.</p>
 
@@ -191,7 +191,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Juhan hyung said it with a slight needle in his voice, and the man rested his crossed arms on the table with a frown.</p>
 
-<p>"I'm not Ihyeon's doctor — why should I be called ssaem? I hate it."</p>
+<p>"I'm not Yeehyeon's doctor — why should I be called ssaem? I hate it."</p>
 
 <p>"Then why do we call you ssaem? You're not our doctor either."</p>
 
@@ -293,7 +293,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>His words, delivered with a smile, sounded sincere, so I smiled back. I thought I could vaguely imagine the feeling he was describing. Perhaps overwhelming, exciting — maybe even the sense of fate he'd mentioned. Like discovering the one person who had decoded your own secret language.</p>
 
-<p>"Ah, speaking of Ihyeon — aren't you curious what he'd say about the painting in your living room?"</p>
+<p>"Ah, speaking of Yeehyeon — aren't you curious what he'd say about the painting in your living room?"</p>
 
 <p>Inwu hyung set down his wine and nudged the Director's arm. At the question, the Director's gaze turned slowly toward me.</p>
 
@@ -331,7 +331,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Shushu. The sweetness that name evoked might not have been simply the sound of the word.</p>
 
-<p>"Ihyeon, try some of this. You could stand to gain a little weight."</p>
+<p>"Yeehyeon, try some of this. You could stand to gain a little weight."</p>
 
 <p>At Inwu hyung's voice, I drew back my gaze — it had been stealing glances at the Director's back from behind my wine glass.</p>
 
@@ -343,17 +343,17 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>In reality, anyone could do moving work. Even the actual movers tended to be average in build — nimble rather than bulky, more often than not.</p>
 
-<p>"Did you know? That Ihyeon here works part-time at a moving company."</p>
+<p>"Did you know? That Yeehyeon here works part-time at a moving company."</p>
 
 <p>Inwu hyung looked up at the Director as he returned to his seat after finishing his call.</p>
 
 <p>The Director gave a small shrug, said nothing, and sat back down to his wine. Inwu hyung, seemingly unsurprised by the lack of reaction, turned his attention back to me.</p>
 
-<p>"No matter how I look at you, you seem like the artistic type... but a moving company. It just keeps getting more interesting, Ihyeon."</p>
+<p>"No matter how I look at you, you seem like the artistic type... but a moving company. It just keeps getting more interesting, Yeehyeon."</p>
 
 <p>He used the phrase <em>jeomipgagyeong</em> — a word for a situation going from bad to worse — as a term of genuine fondness, shaking his head with a smile.</p>
 
-<p>"Speaking of which, Ihyeon, your vibe is a little different today... Last time, you looked like a well-behaved student who'd come to the gallery holding his parents' hands. Today, there's a slight touch of decadent charm to you."</p>
+<p>"Speaking of which, Yeehyeon, your vibe is a little different today... Last time, you looked like a well-behaved student who'd come to the gallery holding his parents' hands. Today, there's a slight touch of decadent charm to you."</p>
 
 <p>It was a compliment unlike any I'd heard before. I lowered my head and looked down at myself, then tugged at the hem of my T-shirt and let it fall.</p>
 
@@ -363,7 +363,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>The words came directly out of his mouth. It was the phrase printed on the shopping bag Yuni nuna had handed me — most likely the title of the website she and Juhan hyung ran.</p>
 
-<p>"Come to think of it, Ihyeon, Old Future would really suit you. Better than on these two — something a little less obvious. Leaves a bit to the imagination."</p>
+<p>"Come to think of it, Yeehyeon, Old Future would really suit you. Better than on these two — something a little less obvious. Leaves a bit to the imagination."</p>
 
 <p>"What is that supposed to mean, ssaem?"</p>
 
@@ -371,7 +371,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"You two — your whole thing is just aggressively punk. No element of surprise."</p>
 
-<p>"Wow... ssaem, that's really harsh. Even if you like Ihyeon this much, still. And you weren't this forward when I first came around — I'm quite hurt."</p>
+<p>"Wow... ssaem, that's really harsh. Even if you like Yeehyeon this much, still. And you weren't this forward when I first came around — I'm quite hurt."</p>
 
 <p>Juhan hyung joined in cornering Inwu hyung.</p>
 
@@ -385,11 +385,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"My aesthetic standards are simply high. I apologize."</p>
 
-<p>"Seeing you act like this even after how Ihyeon handled you that day — you really are something. I'd have avoided him."</p>
+<p>"Seeing you act like this even after how Yeehyeon handled you that day — you really are something. I'd have avoided him."</p>
 
 <p>Juhan hyung wasn't the type to just let things go. He drank his wine with an easy expression and brought up the VIP opening incident again — the moment I had said something about "honesty" in relation to Inwu hyung's painting.</p>
 
-<p>"Avoid him? That's probably <em>exactly</em> why you got more interested in Ihyeon, ssaem."</p>
+<p>"Avoid him? That's probably <em>exactly</em> why you got more interested in Yeehyeon, ssaem."</p>
 
 <p>At Yuni nuna's remark, Inwu hyung smiled ambiguously. His gaze drifted toward me over the rim of his wine glass. There was something in his eyes: a smile, and behind it, something that could have been a hidden signal — or just the easy warmth of a drinking table. I genuinely couldn't tell.</p>
 
@@ -397,7 +397,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Setting his wine glass down, Inwu hyung spoke as if something had just occurred to him.</p>
 
-<p>"You're an Alpha, aren't you, Ihyeon?"</p>
+<p>"You're an Alpha, aren't you, Yeehyeon?"</p>
 
 <p>His tone implied it was a certainty he was merely stating aloud, not really expecting confirmation. He sounded so confident that it took a moment for my answer to surface.</p>
 
@@ -411,7 +411,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Had the two of them been talking about me? First whether I'd studied art — now whether I was an Alpha?</p>
 
-<p>"That's strange... Even if pheromones are being suppressed, there's no way I'd fail to recognize an Omega... So, Ihyeon — are you perhaps something like a Diamond Omega, one level above a Golden Omega? The kind no one can detect if you decide to hide it?"</p>
+<p>"That's strange... Even if pheromones are being suppressed, there's no way I'd fail to recognize an Omega... So, Yeehyeon — are you perhaps something like a Diamond Omega, one level above a Golden Omega? The kind no one can detect if you decide to hide it?"</p>
 
 <p>"A Diamond Omega — where does something like that even exist?" Yuni nuna scoffed. Inwu hyung bristled. "Can you not tell when I'm joking?"</p>
 
@@ -477,7 +477,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>His face, still carrying a fierce expression, turned toward me — and then Inwu hyung reached across from the other side and tapped the edge of the table.</p>
 
-<p>"Ihyeon — that was my foot, actually."</p>
+<p>"Yeehyeon — that was my foot, actually."</p>
 
 <p>Inwu hyung looked at me with a lingering gaze, brought his wine glass to his lips. Then, very slowly, let his eyes move between me and the Director.</p>
 
@@ -497,11 +497,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>The wine had me floating too, tasting it for the first time like this. My body felt light and untethered, the edges of my focus softening. I was staring down at my feet, blinking slowly, when a hand closed around my wrist and shook it gently.</p>
 
-<p>"Ihyeon, where do you live? I'll take you home."</p>
+<p>"Yeehyeon, where do you live? I'll take you home."</p>
 
 <p>It was Inwu hyung.</p>
 
-<p>"No no no, ssaem, you take us home. The Director will take Ihyeon."</p>
+<p>"No no no, ssaem, you take us home. The Director will take Yeehyeon."</p>
 
 <p>"Hmm... why can't it be the other way around?"</p>
 
@@ -511,7 +511,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Juhan hyung, buzzing with energy as if he'd downed an energy drink, grabbed Inwu hyung's wrist and started running toward the car parked by the roadside.</p>
 
-<p>"Director, please take good care of Ihyeon!"</p>
+<p>"Director, please take good care of Yeehyeon!"</p>
 
 <p>They waved enthusiastically and disappeared into Inwu hyung's car. The street went instantly quiet. Only then did I notice that most of the surrounding shops had already closed, and there wasn't a single person walking past.</p>
 
@@ -559,7 +559,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>The Teacher was a smoker too, and ashtrays were always kept out on both the coffee table and the dining table. He asked if he could smoke; I nodded and got up to open the kitchen window.</p>
 
-<p>"How tall are you, Seo Ihyeon-ssi?"</p>
+<p>"How tall are you, Seo Yeehyeon-ssi?"</p>
 
 <p>He asked as I returned to my seat, tapping ash from his cigarette. For some reason, a lot of people had asked about my height today.</p>
 
@@ -603,7 +603,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"No... not really, not like that... We just exchanged numbers earlier today..."</p>
 
-<p>"You said you were gay, but it seems Seo Ihyeon-ssi isn't entirely indifferent to Choi Inwu either."</p>
+<p>"You said you were gay, but it seems Seo Yeehyeon-ssi isn't entirely indifferent to Choi Inwu either."</p>
 
 <p>Since the claim about being gay had been a lie — or at minimum, an impulsive, unverified declaration — I didn't know how to respond to that.</p>
 
@@ -623,7 +623,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Perhaps reading my lack of reaction as a failure to grasp the seriousness of what he was saying, he leaned his upper body forward across the table and made a more pointed expression.</p>
 
-<p>"He's not on a level a novice like Seo Ihyeon-ssi can handle. From what I can see, you seem like someone who values taking things slowly, building understanding over time... and that kind of relationship is worlds away from what he does."</p>
+<p>"He's not on a level a novice like Seo Yeehyeon-ssi can handle. From what I can see, you seem like someone who values taking things slowly, building understanding over time... and that kind of relationship is worlds away from what he does."</p>
 
 <p>"What about the Director?"</p>
 
@@ -643,13 +643,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>But I couldn't ask for the specifics. In the very next moment, that self-deprecating smile had already vanished from his face.</p>
 
-<p>"I'm saying this because I feel something like a sense of responsibility, having been the one through whom you met Choi Inwu at Phantom. Don't take everything that guy says to heart. Well... that said, I can't comment if Seo Ihyeon-ssi actually has feelings for him."</p>
+<p>"I'm saying this because I feel something like a sense of responsibility, having been the one through whom you met Choi Inwu at Phantom. Don't take everything that guy says to heart. Well... that said, I can't comment if Seo Yeehyeon-ssi actually has feelings for him."</p>
 
 <p>If that was his intent, then it was, as he'd described, only <em>something like</em> responsibility — not the real thing. He had no intention of actively talking me out of anything, but this was a thin preemptive shield to ease whatever lingering discomfort he'd feel if something went wrong and it could be traced back to him.</p>
 
 <p>As if to signal he had said enough on the subject, he pushed the hair falling over his forehead back with the back of his left hand — the one holding the cigarette — and changed the subject.</p>
 
-<p>"I'd like you to come work at Phantom officially. We've taken on more artists lately, and the number and scale of our exhibitions have been growing, so the staff has been struggling. I'd been thinking about hiring more people, but I'm somewhat... particular about who I bring on, which has made things harder for the team. I'd be glad if Seo Ihyeon-ssi came to work here. That's what I came up to discuss. Manager Han will fill you in on the details."</p>
+<p>"I'd like you to come work at Phantom officially. We've taken on more artists lately, and the number and scale of our exhibitions have been growing, so the staff has been struggling. I'd been thinking about hiring more people, but I'm somewhat... particular about who I bring on, which has made things harder for the team. I'd be glad if Seo Yeehyeon-ssi came to work here. That's what I came up to discuss. Manager Han will fill you in on the details."</p>
 
 <p>He said it in a quick, decisive tone — like a man ready to stand and leave the moment the conversation was over — and yet he kept smoking even after he finished.</p>
 

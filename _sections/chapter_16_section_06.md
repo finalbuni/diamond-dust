@@ -87,11 +87,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He sighed and leaned down, resting his elbows on the counter, looking at my face — which must have looked like someone meeting a debt collector. His profile was now lower than mine.</p>
 
-<p>"I know I keep saying this, but I'm not sacrificing anything for you, Seo Ihyeon. I'm not stretching myself financially to support you or buy you gifts, and I give gifts to those two and Manager Han quite often. So if you just accept it with a happy face, that would feel like enough of a return to me."</p>
+<p>"I know I keep saying this, but I'm not sacrificing anything for you, Seo Yeehyeon. I'm not stretching myself financially to support you or buy you gifts, and I give gifts to those two and Manager Han quite often. So if you just accept it with a happy face, that would feel like enough of a return to me."</p>
 
 <p>If it were Juhan or Yuni nuna, they would have reacted with clear delight to his gift... In that case, did I think of nuna and hyung — who accepted his gifts without feeling burdened — as shameless? That wasn't it... When it came to my own affairs, judgment was hard. The gifts exchanged among Morae nuna, Yeehan hyung, and me had always been things like books, pens, or keychains.</p>
 
-<p>"Ah, then you do me one favor as well, Seo Ihyeon. Fair and square. That should work."</p>
+<p>"Ah, then you do me one favor as well, Seo Yeehyeon. Fair and square. That should work."</p>
 
 <p>"......"</p>
 

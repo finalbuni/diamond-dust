@@ -22,21 +22,21 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>They first had to go through an interview with Manager Han. Afterward, a select few deemed promising by Manager Han would be sent to the Director, Liu Weikun.</p>
 
-<p>"I heard that Seo Ihyeon was discovered here at Phantom."</p>
+<p>"I heard that Seo Yeehyeon was discovered here at Phantom."</p>
 
-<p>And six or seven out of ten of them inevitably brought up Seo Ihyeon's name.</p>
+<p>And six or seven out of ten of them inevitably brought up Seo Yeehyeon's name.</p>
 
 <p>Each time, Liu's hand as he turned the portfolio pages would pause.</p>
 
 <p>Pretending not to be surprised, pretending his heart hadn't dropped at that name, he would try to maintain a composed demeanor and ask,</p>
 
-<p>"Is the fact that we discovered Seo Ihyeon the reason you want to sign with us?"</p>
+<p>"Is the fact that we discovered Seo Yeehyeon the reason you want to sign with us?"</p>
 
 <p>"He's a fairly successful artist in our generation. I'm not interested in recognition from the mainstream market, but I don't want to be ignored either. If I'm going to do work that divides opinion anyway, I'd rather be clearly hated and clearly loved. For people like me, he's practically a role model."</p>
 
-<p>Even from a place this far removed, Ihyeon's name was still being heard. He was continuing to grow — not by Liu Weikun's side.</p>
+<p>Even from a place this far removed, Yeehyeon's name was still being heard. He was continuing to grow — not by Liu Weikun's side.</p>
 
-<p>"But of course, I'll be different from Seo Ihyeon."</p>
+<p>"But of course, I'll be different from Seo Yeehyeon."</p>
 
 <p>"What do you mean by that?"</p>
 
@@ -44,21 +44,21 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Occasionally, some applicants would add remarks like that.</p>
 
-<p>There was a group who believed that Seo Ihyeon — nothing more than a fledgling artist at the time — had received an offer from The Hands, a Paris-based art foundation, and had betrayed Phantom, the gallery that discovered him, to go there.</p>
+<p>There was a group who believed that Seo Yeehyeon — nothing more than a fledgling artist at the time — had received an offer from The Hands, a Paris-based art foundation, and had betrayed Phantom, the gallery that discovered him, to go there.</p>
 
 <p>No artist who blindly believed and repeated those rumors ever brought a decent portfolio. There was no need to feel any regret in turning them away. It was a relief.</p>
 
 <p>Liu would close the portfolio and explain to each of them, every time.</p>
 
-<p>"Seo Ihyeon didn't betray Phantom. It was simply a decision made after mutual consultation because we judged it to be a very good opportunity for him. He wasn't our business tool — he was a friend."</p>
+<p>"Seo Yeehyeon didn't betray Phantom. It was simply a decision made after mutual consultation because we judged it to be a very good opportunity for him. He wasn't our business tool — he was a friend."</p>
 
 <p>After they left with expressions of having made a mistake, he inevitably wanted a cigarette. Sometimes he felt something almost vicious stir in him. It was anger directed at himself.</p>
 
-<p>Even without the Changing, Ihyeon should have gone to The Hands. It was too great an opportunity for him as an artist, and the experience there would allow him to grow far more. He couldn't ask him to give up such a chance. That wouldn't be love.</p>
+<p>Even without the Changing, Yeehyeon should have gone to The Hands. It was too great an opportunity for him as an artist, and the experience there would allow him to grow far more. He couldn't ask him to give up such a chance. That wouldn't be love.</p>
 
-<p>And perhaps, if it hadn't been for the Changing, Liu himself would have abandoned Phantom for Ihyeon and gone to Paris with him. The word "abandon" might sound harsh, but he wouldn't have hesitated for a moment. That was the truth.</p>
+<p>And perhaps, if it hadn't been for the Changing, Liu himself would have abandoned Phantom for Yeehyeon and gone to Paris with him. The word "abandon" might sound harsh, but he wouldn't have hesitated for a moment. That was the truth.</p>
 
-<p>But he was not permitted to follow Ihyeon.</p>
+<p>But he was not permitted to follow Yeehyeon.</p>
 
 <p>Because of the terrible sin he had committed against him.</p>
 

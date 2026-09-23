@@ -10,9 +10,9 @@ section_count: 17
 permalink: /sections/chapter-34/4/
 excerpt_separator: "<!-- section-excerpt-end -->"
 ---
-<p>Entering the house, Liu went straight to the master bedroom, the innermost room down the hall. Contrary to the haste with which he kicked the door open, the movement of setting Ihyeon down on the neatly made bed was careful.</p>
+<p>Entering the house, Liu went straight to the master bedroom, the innermost room down the hall. Contrary to the haste with which he kicked the door open, the movement of setting Yeehyeon down on the neatly made bed was careful.</p>
 
-<p>As soon as he was placed on the bed, Ihyeon dragged his hips back and hugged a pillow.</p>
+<p>As soon as he was placed on the bed, Yeehyeon dragged his hips back and hugged a pillow.</p>
 
 <p>"I was just getting things organized to go home... when suddenly, the wetness just surged out..."</p>
 
@@ -36,11 +36,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"The symptoms were exactly like what I read about in the book."</p>
 
-<p>Ihyeon mumbled, still hugging the pillow tightly.</p>
+<p>Yeehyeon mumbled, still hugging the pillow tightly.</p>
 
-<p>Books? Ah... Thanks to all the theoretical texts, histories, and essays on Alphas and Omegas he had diligently studied since Paris, Ihyeon was far more knowledgeable about the subject than most Alphas or Omegas who had experienced their secondary sexual characteristics firsthand.</p>
+<p>Books? Ah... Thanks to all the theoretical texts, histories, and essays on Alphas and Omegas he had diligently studied since Paris, Yeehyeon was far more knowledgeable about the subject than most Alphas or Omegas who had experienced their secondary sexual characteristics firsthand.</p>
 
-<p>Finally, Ihyeon lifted his head and looked up at Liu.</p>
+<p>Finally, Yeehyeon lifted his head and looked up at Liu.</p>
 
 <p>"Kun, this... is a heat, right?"</p>
 
@@ -48,11 +48,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Why? I've been taking my suppressants diligently, never missing a single dose."</p>
 
-<p>Muttering indignantly, Ihyeon buried his face in the pillow. The back of his jeans, where his knees were bent up, was damp.</p>
+<p>Muttering indignantly, Yeehyeon buried his face in the pillow. The back of his jeans, where his knees were bent up, was damp.</p>
 
 <p>Noticing the stain, Liu's breathing hitched and his chest swelled. He licked his own blood-tinged lips, then pulled off his top and carelessly dropped it onto the floor.</p>
 
-<p>Climbing onto the mattress, he crawled from the foot of the bed toward Ihyeon on his knees. Liu rubbed his cheek against Ihyeon's raised knee. He was like a large, sleek feline predator.</p>
+<p>Climbing onto the mattress, he crawled from the foot of the bed toward Yeehyeon on his knees. Liu rubbed his cheek against Yeehyeon's raised knee. He was like a large, sleek feline predator.</p>
 
 <p>"It's not your fault."</p>
 
@@ -60,11 +60,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"It must be because it's Diamond Dust."</p>
 
-<p>He took the pillow Ihyeon was holding and pushed his stubbornly closed knees apart, then crawled deeper into the space created. He gripped Ihyeon's chin and gently lifted his head.</p>
+<p>He took the pillow Yeehyeon was holding and pushed his stubbornly closed knees apart, then crawled deeper into the space created. He gripped Yeehyeon's chin and gently lifted his head.</p>
 
-<p>"Seo Ihyeon."</p>
+<p>"Seo Yeehyeon."</p>
 
-<p>Liu stroked the underside of his chin with his thumb and managed a strained smile, hoping to ease some of Ihyeon's tension.</p>
+<p>Liu stroked the underside of his chin with his thumb and managed a strained smile, hoping to ease some of Yeehyeon's tension.</p>
 
 <p>"You were just tidying up, and suddenly your heat just hit?"</p>
 
@@ -72,21 +72,21 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Really?"</p>
 
-<p>That couldn't be right. Even if Ihyeon had a unique secondary gender trait, if his heat had suddenly broken through the suppressants he took regularly, there had to have been a trigger.</p>
+<p>That couldn't be right. Even if Yeehyeon had a unique secondary gender trait, if his heat had suddenly broken through the suppressants he took regularly, there had to have been a trigger.</p>
 
-<p>Ihyeon glanced at Liu's bare body but seemed reluctant to touch him. It was clear that his instinct to take his Alpha, coupled with fear of that unfamiliar intensity, was causing conflict within him.</p>
+<p>Yeehyeon glanced at Liu's bare body but seemed reluctant to touch him. It was clear that his instinct to take his Alpha, coupled with fear of that unfamiliar intensity, was causing conflict within him.</p>
 
-<p>Even though he was struggling immensely to endure what felt like an imminent rut, Ihyeon seemed so endearing and lovely that a smile escaped Liu. He let out another hollow laugh, thinking he must be seriously afflicted.</p>
+<p>Even though he was struggling immensely to endure what felt like an imminent rut, Yeehyeon seemed so endearing and lovely that a smile escaped Liu. He let out another hollow laugh, thinking he must be seriously afflicted.</p>
 
-<p>Liu released Ihyeon's chin and pressed his cheek against Ihyeon's. His lips brushed against the soft curve of the ear. He licked it gently with his tongue, scraped it with his teeth, and whispered.</p>
+<p>Liu released Yeehyeon's chin and pressed his cheek against Yeehyeon's. His lips brushed against the soft curve of the ear. He licked it gently with his tongue, scraped it with his teeth, and whispered.</p>
 
-<p>"We're a married couple, Ihyeon-ah."</p>
+<p>"We're a married couple, Yeehyeon-ah."</p>
 
 <p>"Haa... ngh."</p>
 
-<p>Ihyeon immediately flinched, his shoulders tensing. His ears were one of his erogenous zones.</p>
+<p>Yeehyeon immediately flinched, his shoulders tensing. His ears were one of his erogenous zones.</p>
 
-<p>Liu's tongue traced slowly over the delicate cartilage of Ihyeon's ear.</p>
+<p>Liu's tongue traced slowly over the delicate cartilage of Yeehyeon's ear.</p>
 
 <p>"Married couples should be honest with each other. We promised we would be."</p>
 
@@ -94,23 +94,23 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Last night.</p>
 
-<p>Last night, Liu had cooked, and Ihyeon had been in charge of the dishes.</p>
+<p>Last night, Liu had cooked, and Yeehyeon had been in charge of the dishes.</p>
 
-<p>Liu had approached Ihyeon from behind as he was rinsing dishes before putting them in the dishwasher. He'd wrapped his arms around Ihyeon's waist as he stood there wearing an apron. At first, he just held him like that. Ihyeon tried to push him away, annoyed, but he knew Liu wasn't serious.</p>
+<p>Liu had approached Yeehyeon from behind as he was rinsing dishes before putting them in the dishwasher. He'd wrapped his arms around Yeehyeon's waist as he stood there wearing an apron. At first, he just held him like that. Yeehyeon tried to push him away, annoyed, but he knew Liu wasn't serious.</p>
 
-<p>When Liu rested his chin on Ihyeon's shoulder and turned his head, there was a long, smooth nape of neck — and Liu lightly kissed that skin. The nape was also one of Ihyeon's sensitive spots.</p>
+<p>When Liu rested his chin on Yeehyeon's shoulder and turned his head, there was a long, smooth nape of neck — and Liu lightly kissed that skin. The nape was also one of Yeehyeon's sensitive spots.</p>
 
-<p>Unable to concentrate on the dishes, Ihyeon began releasing pheromones at some point, and Liu couldn't resist them. It was impossible. And the result was exactly what anyone could have predicted.</p>
+<p>Unable to concentrate on the dishes, Yeehyeon began releasing pheromones at some point, and Liu couldn't resist them. It was impossible. And the result was exactly what anyone could have predicted.</p>
 
-<p>Liu frantically swallowed a contraceptive from the kitchen drawer, then quickly pulled down Ihyeon's lower garment while keeping him standing at the sink, and thrust in deep from behind.</p>
+<p>Liu frantically swallowed a contraceptive from the kitchen drawer, then quickly pulled down Yeehyeon's lower garment while keeping him standing at the sink, and thrust in deep from behind.</p>
 
-<p>Ihyeon pleaded that the feeling of his arousal rubbing against the apron was strange. Liu, who had spread Ihyeon's legs apart by placing his knees between his constantly trying-to-close thighs, ultimately lifted Ihyeon's left leg. Ihyeon's elbows, gripping the edge of the sink, bent sharply.</p>
+<p>Yeehyeon pleaded that the feeling of his arousal rubbing against the apron was strange. Liu, who had spread Yeehyeon's legs apart by placing his knees between his constantly trying-to-close thighs, ultimately lifted Yeehyeon's left leg. Yeehyeon's elbows, gripping the edge of the sink, bent sharply.</p>
 
-<p>Wanting to see where they were joined, Liu pushed Ihyeon's T-shirt upward. The long ribbon strings of the apron, which had slipped down over his white hips, were intensely erotic.</p>
+<p>Wanting to see where they were joined, Liu pushed Yeehyeon's T-shirt upward. The long ribbon strings of the apron, which had slipped down over his white hips, were intensely erotic.</p>
 
 <p><em>So, thinking about that sex triggered his heat... my other half.</em></p>
 
-<p>Liu pulled back slightly and met Ihyeon's eyes. Close enough for their noses to touch, he inhaled the pheromones escaping Ihyeon's lips. With his mouth open, Ihyeon yearned for Liu's pheromones and kissed Liu's split lower lip — probably without even realizing it.</p>
+<p>Liu pulled back slightly and met Yeehyeon's eyes. Close enough for their noses to touch, he inhaled the pheromones escaping Yeehyeon's lips. With his mouth open, Yeehyeon yearned for Liu's pheromones and kissed Liu's split lower lip — probably without even realizing it.</p>
 
 <p>"You said you didn't want it, but you actually did, didn't you?"</p>
 
@@ -118,43 +118,43 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"I knew it."</p>
 
-<p>Liu whispered that much while his lips were still touching Ihyeon's.</p>
+<p>Liu whispered that much while his lips were still touching Yeehyeon's.</p>
 
 <p>Fearing what would happen once their tongues and saliva mixed, neither of them dared to push deeper into the other's mouth.</p>
 
 <p><em>Mmph... mnh.</em></p>
 
-<p>Liu kissed Ihyeon's dry lips, then traced his jawline and neck before sliding down toward his chest. Erect nipples stood out sharply even through the T-shirt. Nestled almost completely between Ihyeon's wet legs, Liu sought out and latched onto his mate's breast.</p>
+<p>Liu kissed Yeehyeon's dry lips, then traced his jawline and neck before sliding down toward his chest. Erect nipples stood out sharply even through the T-shirt. Nestled almost completely between Yeehyeon's wet legs, Liu sought out and latched onto his mate's breast.</p>
 
 <p>"Hngh! <em>Sob</em>... yes."</p>
 
-<p>Ihyeon reacted immediately. His nipples were one of his erogenous zones. He gripped Liu's bare shoulder and squeezed hard.</p>
+<p>Yeehyeon reacted immediately. His nipples were one of his erogenous zones. He gripped Liu's bare shoulder and squeezed hard.</p>
 
 <p>He could distinctly feel the shape of the nipple in his mouth — soft yet firm at the core, larger than before his heat had manifested. Liu deliberately rubbed his tongue over it, soaking the shirt further.</p>
 
 <p>"Haa... haa... <em>ngh</em>... aah..."</p>
 
-<p>Ihyeon's fingertips squeezed as if trying to dig into Liu's shoulder. His waist kept giving way, and he found himself slowly lying back without realizing it.</p>
+<p>Yeehyeon's fingertips squeezed as if trying to dig into Liu's shoulder. His waist kept giving way, and he found himself slowly lying back without realizing it.</p>
 
 <p>Because of the heat, his nipples were larger than usual, changing the feeling of fullness in Liu's mouth. It was a more substantial sensation. Liu couldn't let go. He pressed down with the tip of his tongue and chewed at it roughly while holding it between his teeth.</p>
 
 <p>"Ah! It hurts... it hurts."</p>
 
-<p>In that instant, Ihyeon flinched intensely and pulled Liu's head close.</p>
+<p>In that instant, Yeehyeon flinched intensely and pulled Liu's head close.</p>
 
 <p>"Over the clothes... S-stop... Aah! Kun, it hurts!"</p>
 
 <p>Realizing he had completely lost control and bitten down too hard, Liu quickly released what was in his mouth.</p>
 
-<p>Pressed down by Liu's weight, Ihyeon lay sprawled on the bed, gasping for breath. He was sure they had been sitting up just a moment ago. When had things gone this far?</p>
+<p>Pressed down by Liu's weight, Yeehyeon lay sprawled on the bed, gasping for breath. He was sure they had been sitting up just a moment ago. When had things gone this far?</p>
 
-<p>Liu's breathing was also completely ragged. He shook his head, trying to regain his composure, and looked down at Ihyeon lying beneath him.</p>
+<p>Liu's breathing was also completely ragged. He shook his head, trying to regain his composure, and looked down at Yeehyeon lying beneath him.</p>
 
 <p>The crisp blue and white striped T-shirt was soaked in circular patches over both breasts, clinging to his skin. The shape of the protruding nipples and their flushed color were faintly visible through the damp fabric.</p>
 
-<p>Ihyeon, feeling Liu's gaze, looked down at his own chest. Then he tugged at the T-shirt with his hand, peeling the clinging fabric away. This action only fanned the flames.</p>
+<p>Yeehyeon, feeling Liu's gaze, looked down at his own chest. Then he tugged at the T-shirt with his hand, peeling the clinging fabric away. This action only fanned the flames.</p>
 
-<p>Liu's hand burrowed beneath Ihyeon's T-shirt. He traced his palm upward toward the chest, pushing the shirt further up.</p>
+<p>Liu's hand burrowed beneath Yeehyeon's T-shirt. He traced his palm upward toward the chest, pushing the shirt further up.</p>
 
 <p>"I'm sorry for hurting you. But right now, I can't stand it."</p>
 
@@ -162,31 +162,31 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>The areolae were swollen higher than usual, as if something were filling them from within, and the nipple at the center was hard and engorged. A slick sheen covered the entire nipple. He looked like an Omega early in pregnancy. It was because of the heat — the heat was altering his body to optimize it for reproduction.</p>
 
-<p>A rounded, bulging softness. It looked like it would instantly release if squeezed between two fingers. It was the kind no Alpha could resist. Ihyeon's nipples, responding to the heat, were more voluptuous than ever.</p>
+<p>A rounded, bulging softness. It looked like it would instantly release if squeezed between two fingers. It was the kind no Alpha could resist. Yeehyeon's nipples, responding to the heat, were more voluptuous than ever.</p>
 
-<p>Liu, positioned atop Ihyeon with only his upper body raised, gasped for breath. His mind kept drifting away. His lower body, already hardened past firmness, kept thrusting against Ihyeon's groin.</p>
+<p>Liu, positioned atop Yeehyeon with only his upper body raised, gasped for breath. His mind kept drifting away. His lower body, already hardened past firmness, kept thrusting against Yeehyeon's groin.</p>
 
 <p>"Kun..."</p>
 
-<p>Ihyeon's desperate voice called out for Liu.</p>
+<p>Yeehyeon's desperate voice called out for Liu.</p>
 
 <p>"Yeah."</p>
 
-<p>Very rarely, even when Ihyeon called him, Liu's gaze was fixed not on his mate's face but on his chest.</p>
+<p>Very rarely, even when Yeehyeon called him, Liu's gaze was fixed not on his mate's face but on his chest.</p>
 
-<p>For a moment, Ihyeon's pheromones flared brightly. He used his palm to stroke over his own chest.</p>
+<p>For a moment, Yeehyeon's pheromones flared brightly. He used his palm to stroke over his own chest.</p>
 
 <p>"Don't just stare. Do something about it."</p>
 
-<p>Lying down, Ihyeon writhed and twisted his hips, crying out in distress. Liu leaned down again. He took the soft flesh between his lips and sucked it in with a jjok — using only the strength of his lips, not his teeth.</p>
+<p>Lying down, Yeehyeon writhed and twisted his hips, crying out in distress. Liu leaned down again. He took the soft flesh between his lips and sucked it in with a jjok — using only the strength of his lips, not his teeth.</p>
 
 <p>"Aah... yes. Haa... mm."</p>
 
-<p>Ihyeon pulled Liu's head close and buried his face in the back of it. As he did so, Liu sucked on his nipple to his heart's content, pushing the T-shirt further up until it came off.</p>
+<p>Yeehyeon pulled Liu's head close and buried his face in the back of it. As he did so, Liu sucked on his nipple to his heart's content, pushing the T-shirt further up until it came off.</p>
 
-<p>Having shed their tops, the two embraced and lost themselves in each other. Ihyeon's thigh rubbed against Liu's side, and Liu repeatedly pressed his arousal against Ihyeon's crotch. Even so, neither dared to kiss the other on the lips.</p>
+<p>Having shed their tops, the two embraced and lost themselves in each other. Yeehyeon's thigh rubbed against Liu's side, and Liu repeatedly pressed his arousal against Yeehyeon's crotch. Even so, neither dared to kiss the other on the lips.</p>
 
-<p>Raking his fingers through Liu's rugged back, Ihyeon whispered in his ear.</p>
+<p>Raking his fingers through Liu's rugged back, Yeehyeon whispered in his ear.</p>
 
 <p>"I, I want Kun so much."</p>
 
@@ -198,7 +198,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Outside my body, inside my body... it all hurts. I'm thirsty. No, it feels like my insides are... burning. It's itchy."</p>
 
-<p>Ihyeon pushed up, rubbing his stomach and groin against Liu's abdomen.</p>
+<p>Yeehyeon pushed up, rubbing his stomach and groin against Liu's abdomen.</p>
 
 <p>It was one of the main symptoms of a heat. The core temperature rises, making one feel heat in the stomach, sometimes mistaking that heat for an itch — like how skin feels itchy after shivering in the cold and then plunging into a hot bath.</p>
 
@@ -206,7 +206,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Instinctively, one knows that the only way to be freed from that heat is to be inside the Omega, thrusting wildly. It's like a newborn chick instinctively seeking its mother's milk, even without anyone telling it to.</p>
 
-<p>Liu pulled Ihyeon close, embracing him tightly with both arms. He buried his nose and mouth into the fragrant nape of Ihyeon's neck and bare shoulders, inhaling his mate's pheromones — those powerful heat pheromones that strike the brain and paralyze it.</p>
+<p>Liu pulled Yeehyeon close, embracing him tightly with both arms. He buried his nose and mouth into the fragrant nape of Yeehyeon's neck and bare shoulders, inhaling his mate's pheromones — those powerful heat pheromones that strike the brain and paralyze it.</p>
 
 <p>"If you just say that, how am I supposed to know? Where does it hurt that badly?"</p>
 
@@ -216,33 +216,33 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Will this really get better? Does it actually get better?"</p>
 
-<p>Ihyeon was nearly tearful. His first heat, which had burst forth despite diligently taking his suppressants — how terrifying that must be.</p>
+<p>Yeehyeon was nearly tearful. His first heat, which had burst forth despite diligently taking his suppressants — how terrifying that must be.</p>
 
-<p>Liu lifted his head and met Ihyeon's eyes. He swept the hair back from Ihyeon's forehead and stroked his cheek with his thumb. He rubbed noses with him and managed an awkward smile.</p>
+<p>Liu lifted his head and met Yeehyeon's eyes. He swept the hair back from Yeehyeon's forehead and stroked his cheek with his thumb. He rubbed noses with him and managed an awkward smile.</p>
 
 <p>"That's why I'm here. Your Alpha."</p>
 
-<p>Beneath slowly blinking eyelids, Ihyeon searched for Liu's eyes.</p>
+<p>Beneath slowly blinking eyelids, Yeehyeon searched for Liu's eyes.</p>
 
 <p>"Don't talk about it like... like you're just a tool."</p>
 
-<p>Even in this situation, Ihyeon taking his side was adorable.</p>
+<p>Even in this situation, Yeehyeon taking his side was adorable.</p>
 
-<p>Maintaining eye contact, Liu let his hand trail down between himself and Ihyeon's lower abdomen. He undid Ihyeon's jeans and pulled down the zipper. Pushing his hand behind, he grabbed the waistband of the jeans and yanked them down in one swift motion along with the underwear. Pheromones immediately wafted up from the exposed lower body.</p>
+<p>Maintaining eye contact, Liu let his hand trail down between himself and Yeehyeon's lower abdomen. He undid Yeehyeon's jeans and pulled down the zipper. Pushing his hand behind, he grabbed the waistband of the jeans and yanked them down in one swift motion along with the underwear. Pheromones immediately wafted up from the exposed lower body.</p>
 
-<p>As he peeled Ihyeon's jeans off one leg at a time — just as he had done for Parang — Liu gave the lying Ihyeon a knowing smirk. Sweat was dripping heavily from his face as he endured the pheromones.</p>
+<p>As he peeled Yeehyeon's jeans off one leg at a time — just as he had done for Parang — Liu gave the lying Yeehyeon a knowing smirk. Sweat was dripping heavily from his face as he endured the pheromones.</p>
 
 <p>"Tell your husband. Where does it hurt the most."</p>
 
-<p>A single drop of sweat that had pooled on the tip of Liu's chin fell onto Ihyeon's lower abdomen. Ihyeon reached out toward Liu. Liu instinctively bent over, and Ihyeon swept his hand from Liu's shoulder all the way down his left arm.</p>
+<p>A single drop of sweat that had pooled on the tip of Liu's chin fell onto Yeehyeon's lower abdomen. Yeehyeon reached out toward Liu. Liu instinctively bent over, and Yeehyeon swept his hand from Liu's shoulder all the way down his left arm.</p>
 
-<p>Ihyeon — naked, disheveled, panting in short breaths during his heat — was a pheromone bomb in human form. Liu could not resist him.</p>
+<p>Yeehyeon — naked, disheveled, panting in short breaths during his heat — was a pheromone bomb in human form. Liu could not resist him.</p>
 
-<p>Ihyeon gripped Liu's wrist and led his hand to his own damp, warm crotch. The strong, veined back of his hand completely covered the slick area.</p>
+<p>Yeehyeon gripped Liu's wrist and led his hand to his own damp, warm crotch. The strong, veined back of his hand completely covered the slick area.</p>
 
-<p>In that moment, a burst of pheromones exploded from Ihyeon. It was like a river overflowing its banks — a tidal wave that crushed and submerged everything. Liu was helplessly swept away by his mate's pheromones.</p>
+<p>In that moment, a burst of pheromones exploded from Yeehyeon. It was like a river overflowing its banks — a tidal wave that crushed and submerged everything. Liu was helplessly swept away by his mate's pheromones.</p>
 
-<p>As he used Liu's hand to rub his most sensitive spot, Ihyeon spread his legs wider.</p>
+<p>As he used Liu's hand to rub his most sensitive spot, Yeehyeon spread his legs wider.</p>
 
 <p>"Right here. This is where Awi made me an Omega."</p>
 
@@ -254,17 +254,17 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Liu bit down hard on his lip and let out a long breath through his nose. A sensation he had never felt before quickly blossomed from his cock — a burning heat, like being set on fire, mixed with an intense itchiness. His temples throbbed. The taste of blood seeped through his clenched lips.</p>
 
-<p>"Seo Ihyeon."</p>
+<p>"Seo Yeehyeon."</p>
 
 <p>"Mmm... Kuh, Kun."</p>
 
-<p>Liu, who had allowed Ihyeon to direct things, now moved his own hand. He caressed the soft flesh gently, yet obscenely.</p>
+<p>Liu, who had allowed Yeehyeon to direct things, now moved his own hand. He caressed the soft flesh gently, yet obscenely.</p>
 
 <p>"Whatever I do or say today, it's because of the rut."</p>
 
 <p>"...Rut?"</p>
 
-<p>Liu nodded toward Ihyeon, who looked up in surprise.</p>
+<p>Liu nodded toward Yeehyeon, who looked up in surprise.</p>
 
 <p>"I think I've officially hit my rut."</p>
 
@@ -272,4 +272,4 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"You'll take responsibility, right?"</p>
 
-<p>Before he could get an answer, Liu covered Ihyeon's lips.</p>
+<p>Before he could get an answer, Liu covered Yeehyeon's lips.</p>

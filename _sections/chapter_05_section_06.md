@@ -113,7 +113,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Nuna was still lying back with her chin tilted up at the ceiling. She blinked and smiled up at me. Then she called me back just as I was about to open the door.</p>
 
-<p>"Ihyeon, when you go up, could you ask the Director if he wants to come for pho with us? He should still be upstairs."</p>
+<p>"Yeehyeon, when you go up, could you ask the Director if he wants to come for pho with us? He should still be upstairs."</p>
 
 <p>But when I reached the second floor, there was no sign of him. He'd probably appear from somewhere. Or maybe he'd already gone back down before me.</p>
 

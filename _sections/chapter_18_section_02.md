@@ -27,7 +27,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He stood out anywhere — not just because of his looks, but because of his height — so if he were in the same space, I would have noticed him. I looked around, pamphlet in hand, through the crowded room.</p>
 
-<p>"Seo Ihyeon."</p>
+<p>"Seo Yeehyeon."</p>
 
 <p>"......"</p>
 
@@ -193,7 +193,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Once we were alone again, he pulled his chair closer and met my gaze.</p>
 
-<p>"I got carried away because it seemed like Seo Ihyeon was getting a little jealous."</p>
+<p>"I got carried away because it seemed like Seo Yeehyeon was getting a little jealous."</p>
 
 <p>"......"</p>
 
@@ -219,7 +219,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>His reaction suggested he had expected as much.</p>
 
-<p>"You, Seo Ihyeon, want paintings where the artist confronts a version of themselves pushed to the absolute limit, pouring out everything. You're not someone who can sit down in front of the easel with a light heart, thinking, <em>what shall I paint today</em>... That's why I thought you would like this artist's work."</p>
+<p>"You, Seo Yeehyeon, want paintings where the artist confronts a version of themselves pushed to the absolute limit, pouring out everything. You're not someone who can sit down in front of the easel with a light heart, thinking, <em>what shall I paint today</em>... That's why I thought you would like this artist's work."</p>
 
 <p>"I don't mean to say that painting with a light heart is bad... and it's not as though I've only ever painted about my deepest suffering. It's just that for me, painting is a means of being honest. So it happens that I often express emotions or thoughts through it."</p>
 
@@ -337,7 +337,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He glanced over at me with a smile.</p>
 
-<p>"Compared to the cowardly silence I carry, Seo Ihyeon-ssi's silence must feel as fresh as morning dew."</p>
+<p>"Compared to the cowardly silence I carry, Seo Yeehyeon-ssi's silence must feel as fresh as morning dew."</p>
 
 <p>"It really isn't."</p>
 
@@ -365,7 +365,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Instead of picking up his chopsticks, he refilled two empty glasses and continued.</p>
 
-<p>"I know that when you paint, Seo Ihyeon, you're someone who confronts the deepest part of yourself — just like the artist we were just discussing. But you don't have to force yourself to always aim for the extreme. If facing your own rock bottom right now is too hard, try painting the part of yourself that feels cowardly. If that's who you are right now, wouldn't it be meaningful to leave something of that behind?"</p>
+<p>"I know that when you paint, Seo Yeehyeon, you're someone who confronts the deepest part of yourself — just like the artist we were just discussing. But you don't have to force yourself to always aim for the extreme. If facing your own rock bottom right now is too hard, try painting the part of yourself that feels cowardly. If that's who you are right now, wouldn't it be meaningful to leave something of that behind?"</p>
 
 <p>"......"</p>
 
@@ -651,7 +651,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>The force of his hold was strong enough that my torso ached, but I felt no discomfort and no urge to pull away. The warmth of his lips against my ear was warm.</p>
 
-<p>"I want to be with you too, Ihyeon. I always want to. But... just once. I want to know what it's like to wake up in the morning and have you right there beside me. I won't ask for much. Just once, for me too..."</p>
+<p>"I want to be with you too, Yeehyeon. I always want to. But... just once. I want to know what it's like to wake up in the morning and have you right there beside me. I won't ask for much. Just once, for me too..."</p>
 
 <p>I still couldn't fully connect how not having penetrative sex — or not knotting — was related to staying together until morning. But thinking about it, even with all the passionate nights we had shared, we had never actually fallen asleep together.</p>
 
@@ -663,7 +663,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>I wanted to ask — why couldn't we sleep together after sex? But the alcohol made clear thought difficult. My questions took shape only to crumble again, dissolving into the deep heat of his scent.</p>
 
-<p>"Seo Ihyeon."</p>
+<p>"Seo Yeehyeon."</p>
 
 <p>His voice whispering my name by my ear overlapped with the voice that had called out to me when I'd been searching for him. I hoped that even if I were to lose him, he would find me like that, call out to me. And that I could do the same for him.</p>
 

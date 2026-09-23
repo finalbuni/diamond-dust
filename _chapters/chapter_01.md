@@ -123,7 +123,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>I smiled back at her in agreement. Morae nuna lightly patted my cheek with her cool, wet hand.</p>
 
-<p>"But Ihyeon is so fresh and dry. Who would ever think you're an old army man who just got discharged?"</p>
+<p>"But Yeehyeon is so fresh and dry. Who would ever think you're an old army man who just got discharged?"</p>
 
 <p>Army man.</p>
 
@@ -305,7 +305,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 </div>
 {% include scene-break.html %}
 <div id="section-4" class="hybrid-section" data-section="4">
-<p>"Seo Ihyeon. Seo Ihyeon, wake up."</p>
+<p>"Seo Yeehyeon. Seo Yeehyeon, wake up."</p>
 
 <p>I didn't know when I'd fallen asleep. I was curled up on the bare floor, still wearing the clothes I'd had on at the harbor.</p>
 
@@ -357,7 +357,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Silence was exhausting. Yet I, too, had been becoming someone steeped in silence — someone most accustomed to it. Father…</p>
 
-<p>"Ihyeon-ah, let's go."</p>
+<p>"Yeehyeon-ah, let's go."</p>
 
 <p>I didn't know how long we'd been standing there getting soaked. Hyung placed a hand on my shoulder. It wasn't a gesture to hurry me along. He knew what I was thinking, what I was feeling.</p>
 
@@ -487,7 +487,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>The client, who had been rambling along with an explanation mixed with self-pity, suddenly stopped speaking.</p>
 
-<p>"Are you… Ihyeon? Seo Ihyeon?"</p>
+<p>"Are you… Yeehyeon? Seo Yeehyeon?"</p>
 
 <p>From beneath the brim of my pulled-down cap, I raised my eyes to confirm the face of the client who had called my name precisely. It was the first time I had properly looked at her that day.</p>
 

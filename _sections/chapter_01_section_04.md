@@ -11,7 +11,7 @@ section_count: 5
 permalink: /sections/chapter-01/4/
 excerpt_separator: "<!-- section-excerpt-end -->"
 ---
-<p>"Seo Ihyeon. Seo Ihyeon, wake up."</p>
+<p>"Seo Yeehyeon. Seo Yeehyeon, wake up."</p>
 
 <p>I didn't know when I'd fallen asleep. I was curled up on the bare floor, still wearing the clothes I'd had on at the harbor.</p>
 
@@ -63,7 +63,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Silence was exhausting. Yet I, too, had been becoming someone steeped in silence — someone most accustomed to it. Father…</p>
 
-<p>"Ihyeon-ah, let's go."</p>
+<p>"Yeehyeon-ah, let's go."</p>
 
 <p>I didn't know how long we'd been standing there getting soaked. Hyung placed a hand on my shoulder. It wasn't a gesture to hurry me along. He knew what I was thinking, what I was feeling.</p>
 

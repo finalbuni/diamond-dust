@@ -125,7 +125,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>I smiled back at her in agreement. Morae nuna lightly patted my cheek with her cool, wet hand.</p>
 
-<p>"But Ihyeon is so fresh and dry. Who would ever think you're an old army man who just got discharged?"</p>
+<p>"But Yeehyeon is so fresh and dry. Who would ever think you're an old army man who just got discharged?"</p>
 
 <p>Army man.</p>
 

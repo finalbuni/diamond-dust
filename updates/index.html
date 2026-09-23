@@ -17,11 +17,54 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,500;0,8..60,600;1,8..60,400&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+
     <style>
-        .reading-format-guide-image { margin: 1rem 0 1.5rem; }
-        .reading-format-guide-image img { display: block; width: 100%; max-width: 340px; height: auto; border-radius: 12px; }
+        /* Separation between updates */
+        .site-update-entry + .site-update-entry {
+            border-top: 1px solid var(--border);
+            margin-top: 1.75rem;
+            padding-top: 1.75rem;
+        }
+
+        .site-update-entry > .eyebrow {
+            margin-bottom: 0.5rem;
+        }
+
+        .site-update-entry > h2 {
+            margin-top: 0;
+        }
+
+        /* Reader quote */
+        .update-reader-quote {
+            margin: 1.5rem 0;
+            padding: 1.2em;
+            border: 1px solid var(--border);
+            background: var(--surface);
+            font-family: var(--font-reading);
+            font-size: 1em;
+            font-style: italic;
+            line-height: 1.65;
+        }
+
+        .update-reader-quote p {
+            margin: 0;
+        }
+
+        /* Reading format guide images */
+        .reading-format-guide-image {
+            margin: 1rem 0 1.5rem;
+        }
+
+        .reading-format-guide-image img {
+            display: block;
+            width: 100%;
+            max-width: 340px;
+            height: auto;
+            border-radius: 12px;
+        }
     </style>
 </head>
+
 <body data-page-type="updates">
     {% include site-update-banner.html %}
 
@@ -32,10 +75,15 @@
                 <a href="{{ '/' | relative_url }}">Home</a>
                 <a href="{{ '/#chapters' | relative_url }}">Chapters</a>
                 <a href="{{ '/about/' | relative_url }}">About</a>
-                <button class="site-nav-icon theme-toggle" type="button" aria-label="Switch appearance"><span class="theme-toggle-icon" aria-hidden="true">☾</span></button>
+                <button class="site-nav-icon theme-toggle" type="button" aria-label="Switch appearance">
+                    <span class="theme-toggle-icon" aria-hidden="true">☾</span>
+                </button>
             </nav>
+
             <div class="nonchapter-mobile-actions">
-                <button class="site-nav-icon theme-toggle" type="button" aria-label="Switch appearance"><span class="theme-toggle-icon" aria-hidden="true">☾</span></button>
+                <button class="site-nav-icon theme-toggle" type="button" aria-label="Switch appearance">
+                    <span class="theme-toggle-icon" aria-hidden="true">☾</span>
+                </button>
                 <button class="mobile-reader-menu-trigger nonchapter-menu-trigger" type="button" aria-controls="mobile-reader-menu" aria-expanded="false" aria-label="Open site menu">
                     <span aria-hidden="true">☰</span>
                 </button>
@@ -49,28 +97,52 @@
                 <p class="eyebrow">Updates</p>
                 <h1>What's new? <i>Aka: wth is going on?</i></h1>
             </header>
+
             <div class="simple-page-content">
                 <!-- Add future dated updates ABOVE the existing update, newest first. -->
+
                 <article class="site-update-entry">
-                    <p class="eyebrow">September 2026</p>
-                    <h2>A new way to read chapters</h2>                        
-                    <p>Thank you to everyone who answered my reader survey! 💛 </p>
+                    <p class="eyebrow">September 22, 2026</p>
+                    <h2>Ihyeon → Yeehyeon</h2>
+
+                    <p>So, I've been debating this for a while, and I finally decided to change the spelling of Ihyeon to <strong>Yeehyeon</strong> throughout Diamond Dust to match the official English manhwa adaptation.</p>
+
+                    <p>There was actually a reason I originally went with Ihyeon (이현). Under South Korea's <a href="https://www.korean.go.kr/front_eng/roman/roman_01.do" target="_blank" rel="noopener noreferrer">Revised Romanization system</a>, 이 is written as "I" and 현 as "hyeon," making Ihyeon the standard romanization of his Korean name.</p>
+
+                    <p>But since most of us came here after reading the manhwa, I figured there's no reason to overcomplicate things. :)</p>
+
+                    <p>So, I'm finally addressing comments like this one:</p>
+
+                    <blockquote class="update-reader-quote">
+                        <p>"I would love it if the spelling on the characters’ names matched how the official manhwa spells it, so it feels more uniform."</p>
+                    </blockquote>
+                </article>
+
+                <article class="site-update-entry">
+                    <p class="eyebrow">September 22, 2026</p>
+                    <h2>A new way to read chapters</h2>
+
+                    <p>Thank you to everyone who answered my reader survey! 💛</p>
+
                     <p>You can now choose how you want to read each chapter: <strong>the original full chapter or shorter sections.</strong></p>
+
                     <h3>Choose your reading format</h3>
                     <p>Open any chapter and use the <strong>Read in</strong> dropdown beside the reading time to switch between formats.</p>
+
                     <figure class="reading-format-guide-image">
                         <img src="{{ '/assets/images/reading-format-chapter.png' | relative_url }}" alt="On a chapter page, the Read in dropdown beside the reading time is highlighted." loading="lazy">
                     </figure>
 
                     <h3>Change your mind anytime</h3>
                     <p>You can also switch formats in <strong>Reading Settings</strong>.</p>
+
                     <figure class="reading-format-guide-image">
                         <img src="{{ '/assets/images/reading-format-settings.png' | relative_url }}" alt="In Reading Settings, the Reading format dropdown is highlighted." loading="lazy">
                     </figure>
-                    
+
                     <p>Short sections are divided at the chapter’s existing scene breaks, so their lengths vary. If you switch formats partway through a chapter, you’ll be taken to the beginning of the corresponding section.</p>
+
                     <p>And <strong>I HAVEN'T TOUCHED THE FULL CHAPTERS!!</strong> They're still available at their original links, so you can keep reading exactly as before. :)</p>
-                    <p>Found something that isn’t working, or have an idea for the reading experience? → <a href="https://forms.gle/UsUNrr7t3rVQjPC19" target="_blank" rel="noopener noreferrer">Report an issue or suggest a feature</a></p>
                 </article>
             </div>
         </div>

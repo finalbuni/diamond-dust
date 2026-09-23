@@ -123,7 +123,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>The empty bowls and half-finished dishes were cleared away, replaced with simple refreshments: several varieties of beautifully colored hangwa and warm tea. The tea carried a fragrance somewhere between flowers and fruit, and it was the perfect temperature for drinking in the softly air-conditioned room.</p>
 
-<p>"I discussed Seo Ihyeon-ssi... with Manager Han a little."</p>
+<p>"I discussed Seo Yeehyeon-ssi... with Manager Han a little."</p>
 
 <p>There was no trace of caution or hesitation in his voice. It was as if he'd simply been waiting for me to finish eating, and now that I had, there was no reason to put it off any longer.</p>
 
@@ -165,7 +165,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He tapped his index fingers together as though punctuating a brief pause, then looked at me — a gaze that felt like he was pinning me against the wall.</p>
 
-<p>"I've taken the long way around, but what I'm saying is this: I expect you, Seo Ihyeon-ssi, to become that kind of artist."</p>
+<p>"I've taken the long way around, but what I'm saying is this: I expect you, Seo Yeehyeon-ssi, to become that kind of artist."</p>
 
 <p>I hadn't asked a single question, yet he kept watching me with persistence, as though waiting for an answer — or perhaps simply measuring my reaction. Either way, all of this was far too sudden.</p>
 
@@ -225,7 +225,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Teacher... I'm truly grateful that you think so... but that's all... ancient history."</p>
 
-<p>"Ah, ancient history. How old are you again, Seo Ihyeon-ssi? Fifty? Forty? No, wait—have you even turned twenty-five yet?"</p>
+<p>"Ah, ancient history. How old are you again, Seo Yeehyeon-ssi? Fifty? Forty? No, wait—have you even turned twenty-five yet?"</p>
 
 <p>Just when it seemed he'd decided to exercise a little patience, he spoke again in that prickly tone, drawing a sharp look from Teacher.</p>
 
@@ -241,7 +241,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>What I wanted was to move forward at the pace that suited me, from where I stood now—not to imitate others just so I could look like I was doing the same thing.</p>
 
-<p>"Ihyeon-ah, what Director Liu and I want you to focus on is just one thing: whether you still want to paint. If it's not that you lost the desire to paint, but simply that you decided not to... then couldn't that decision change someday? You don't have to answer now. Take all the time you need."</p>
+<p>"Yeehyeon-ah, what Director Liu and I want you to focus on is just one thing: whether you still want to paint. If it's not that you lost the desire to paint, but simply that you decided not to... then couldn't that decision change someday? You don't have to answer now. Take all the time you need."</p>
 
 <p>It wasn't that I'd stopped wanting to paint, nor that I'd decided not to. At first, it was neither. I simply couldn't paint anymore.</p>
 
@@ -263,7 +263,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Teacher had been gently patting the back of my hand. Now she clasped both of my hands firmly in hers.</p>
 
-<p>"But Ihyeon-ah... what if you tried painting again? When Director Liu first brought it up..."</p>
+<p>"But Yeehyeon-ah... what if you tried painting again? When Director Liu first brought it up..."</p>
 
 <p>She hesitated for a moment.</p>
 
@@ -285,7 +285,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>It was he who broke the heavy silence.</p>
 
-<p>"Seo Ihyeon-ssi, try this."</p>
+<p>"Seo Yeehyeon-ssi, try this."</p>
 
 <p>He pushed the plate of refreshments, which none of us had touched until then, toward me. Neither Teacher nor I could keep up with his sudden change of subject.</p>
 

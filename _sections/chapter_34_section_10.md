@@ -10,27 +10,27 @@ section_count: 17
 permalink: /sections/chapter-34/10/
 excerpt_separator: "<!-- section-excerpt-end -->"
 ---
-<p>After confirming Ihyeon was deeply asleep, Liu hastily cleaned up the traces of the previous night. He gathered a huge pile of towels and underwear scattered on the floor and tossed them into the laundry basket before leaving the bedroom.</p>
+<p>After confirming Yeehyeon was deeply asleep, Liu hastily cleaned up the traces of the previous night. He gathered a huge pile of towels and underwear scattered on the floor and tossed them into the laundry basket before leaving the bedroom.</p>
 
-<p>There were five face towels and eight bath towels in total. These towels, along with the clothes soaked in Ihyeon's fluids, were not something he could entrust to a dry cleaner. Besides, he had already told the cleaning lady to take the day off.</p>
+<p>There were five face towels and eight bath towels in total. These towels, along with the clothes soaked in Yeehyeon's fluids, were not something he could entrust to a dry cleaner. Besides, he had already told the cleaning lady to take the day off.</p>
 
-<p>Entering the laundry room, Liu picked up Ihyeon's T-shirt, which had been peeled off inside out. The fabric around the nipples was warped and stretched out because Liu had sucked on them.</p>
+<p>Entering the laundry room, Liu picked up Yeehyeon's T-shirt, which had been peeled off inside out. The fabric around the nipples was warped and stretched out because Liu had sucked on them.</p>
 
 <p>"This one… he won't be able to wear it again."</p>
 
-<p>If Ihyeon were here, he would have snatched it away with embarrassment. With that thought, Liu let out a slight chuckle and tossed the T-shirt into the washing machine.</p>
+<p>If Yeehyeon were here, he would have snatched it away with embarrassment. With that thought, Liu let out a slight chuckle and tossed the T-shirt into the washing machine.</p>
 
 <p>It was a blue and white striped T-shirt.</p>
 
 <p>A Saint James Minquiers 18.</p>
 
-<p>Ihyeon owned almost every model from this brand, sometimes several of each color. Lately, he had been wearing this particular model the most often. Especially this color.</p>
+<p>Yeehyeon owned almost every model from this brand, sometimes several of each color. Lately, he had been wearing this particular model the most often. Especially this color.</p>
 
 <p>The one he wore last night, the one he wore the day they moved to Bali, the one he wore the morning after the wedding, the one he wore most often during the museum tour — come to think of it, it was always this T-shirt.</p>
 
 <p>The cheerful blue and white stripes. The thickness was just right so it fluttered pleasantly in the breeze. The sleeves were always folded back twice to be wide, so they wouldn't interfere with his work.</p>
 
-<p><em>I loved looking at Ihyeon wearing this T-shirt with a pair of blue jeans.</em></p>
+<p><em>I loved looking at Yeehyeon wearing this T-shirt with a pair of blue jeans.</em></p>
 
 <p><em>I loved seeing him in the atelier, wearing this shirt under an apron while holding a brush and palette; watching him tend to the plants barefoot on the garden grass; seeing him stand by the poolside, scooping fallen leaves from the swimming pool with a long net. And, of course, seeing him disheveled in our shared bedroom, wearing this T-shirt just like last night.</em></p>
 
@@ -40,21 +40,21 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p><em>There were still times when, suddenly, I couldn't quite believe it.</em></p>
 
-<p><em>The fact that I had married Ihyeon, that we were living together in the same house, sharing the same bedroom, and that there was no longer any need to be separated between Paris and Seoul.</em></p>
+<p><em>The fact that I had married Yeehyeon, that we were living together in the same house, sharing the same bedroom, and that there was no longer any need to be separated between Paris and Seoul.</em></p>
 
 <p>At times like that, Liu had to pause his work and take a deep breath just to digest such immense happiness.</p>
 
-<p>As he shoved Ihyeon's jeans — still damp with traces of arousal fluid — into the washing machine, Liu thought.</p>
+<p>As he shoved Yeehyeon's jeans — still damp with traces of arousal fluid — into the washing machine, Liu thought.</p>
 
-<p><em>Was it the right decision to make Ihyeon pregnant at such an early age?</em></p>
+<p><em>Was it the right decision to make Yeehyeon pregnant at such an early age?</em></p>
 
-<p>Of course, that didn't mean he wasn't respecting Ihyeon's wishes. Ihyeon was an established, legitimate professional painter and an adult worthy of respect and admiration as a partner. Just as Yeehan had said, he was strong enough to decide for himself what was best for him.</p>
+<p>Of course, that didn't mean he wasn't respecting Yeehyeon's wishes. Yeehyeon was an established, legitimate professional painter and an adult worthy of respect and admiration as a partner. Just as Yeehan had said, he was strong enough to decide for himself what was best for him.</p>
 
-<p>He recalled Ihyeon's sweet expression and voice from last night, asking for a baby.</p>
+<p>He recalled Yeehyeon's sweet expression and voice from last night, asking for a baby.</p>
 
-<p><em>Had that been words spoken while carried away by heat, or was it Ihyeon's true feeling?</em></p>
+<p><em>Had that been words spoken while carried away by heat, or was it Yeehyeon's true feeling?</em></p>
 
-<p><em>Even if it was his true feeling, was having a baby right now, simply because Ihyeon wanted it, truly the best thing for him?</em></p>
+<p><em>Even if it was his true feeling, was having a baby right now, simply because Yeehyeon wanted it, truly the best thing for him?</em></p>
 
 <p>Liu added the detergent to the dispenser and selected the wash cycle. The machine began to operate with a quiet rumble. Leaning against the opposite wall with his arms crossed, he sank back into his thoughts.</p>
 
@@ -62,13 +62,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Without any reservation, they let their pheromones flow freely and breathed in each other's scent. They knotted and bonded to their heart's content.</p>
 
-<p>Ihyeon, whose manifestation level had only slightly exceeded 80% when they moved to Bali, completed his transition entirely within that month. As Liu himself admitted, this was proof that they had engaged in an incredible amount of pheromone exchange.</p>
+<p>Yeehyeon, whose manifestation level had only slightly exceeded 80% when they moved to Bali, completed his transition entirely within that month. As Liu himself admitted, this was proof that they had engaged in an incredible amount of pheromone exchange.</p>
 
-<p>Both the triangle-zone, which corresponds to an Omega's uterus, and the Omega road leading to it had developed normally. Ihyeon now was a mature Omega. Had they not been so meticulous about birth control, he surely would have gotten pregnant from last night's heat sex.</p>
+<p>Both the triangle-zone, which corresponds to an Omega's uterus, and the Omega road leading to it had developed normally. Yeehyeon now was a mature Omega. Had they not been so meticulous about birth control, he surely would have gotten pregnant from last night's heat sex.</p>
 
 <p>Liu roughly swept his large hand across his entire face.</p>
 
-<p>Pregnancy and childbirth would be Ihyeon's burden. That was all the more reason why he couldn't readily agree, even if Ihyeon wanted it.</p>
+<p>Pregnancy and childbirth would be Yeehyeon's burden. That was all the more reason why he couldn't readily agree, even if Yeehyeon wanted it.</p>
 
 <p>In any case, that issue was for later. There was something more pressing that needed to be confirmed right now.</p>
 
@@ -84,13 +84,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Hope you're doing well. I'm calling because it shouldn't be time for you to be asleep yet."</p>
 
-<p>[It's not time for sleep. I'm having a drink with Ellen. What's up? Is something wrong with Ihyeon?]</p>
+<p>[It's not time for sleep. I'm having a drink with Ellen. What's up? Is something wrong with Yeehyeon?]</p>
 
-<p>Marcus asked in a teasing tone. This was because whenever Liu detected even the slightest unusual symptom from Ihyeon, he immediately called Marcus. Marcus often teased Liu, calling him an overprotective parent who rushed to the pediatrician even for minor things.</p>
+<p>Marcus asked in a teasing tone. This was because whenever Liu detected even the slightest unusual symptom from Yeehyeon, he immediately called Marcus. Marcus often teased Liu, calling him an overprotective parent who rushed to the pediatrician even for minor things.</p>
 
 <p>This time, however, Liu didn't even have the leeway to offer an awkward smile. He repeatedly bit his lower lip while scratching the surface of the beer bottle with his thumb. The wound still carried the metallic scent of blood.</p>
 
-<p>"Ihyeon had his heat yesterday."</p>
+<p>"Yeehyeon had his heat yesterday."</p>
 
 <p>[That can't be!]</p>
 
@@ -128,11 +128,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>[What about contraception?]</p>
 
-<p>"Both Ihyeon and I took medication. I increased my usual dose, and just in case, I made sure Ihyeon took it afterward too."</p>
+<p>"Both Yeehyeon and I took medication. I increased my usual dose, and just in case, I made sure Yeehyeon took it afterward too."</p>
 
-<p>[Yes, that was good. You handled it well enough. What about Ihyeon? It must have been his first heat — he must have been quite startled. Especially since it wasn't a typical set of symptoms…]</p>
+<p>[Yes, that was good. You handled it well enough. What about Yeehyeon? It must have been his first heat — he must have been quite startled. Especially since it wasn't a typical set of symptoms…]</p>
 
-<p>Liu took several gulps of the beer in front of him. In truth, Liu seemed more confused by this unidentified heat and rut than Ihyeon himself. It reminded him of when they first met — the time he sensed a powerful pheromone from the Beta Ihyeon that he couldn't resist.</p>
+<p>Liu took several gulps of the beer in front of him. In truth, Liu seemed more confused by this unidentified heat and rut than Yeehyeon himself. It reminded him of when they first met — the time he sensed a powerful pheromone from the Beta Yeehyeon that he couldn't resist.</p>
 
 <p>"He was a bit confused at first… but he's fine now. He's okay. He's sleeping."</p>
 
@@ -142,7 +142,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Even though he took the balance suppressants every single day without fail, his heat broke out. And even when I gave him the sharp suppressants, it was useless. That means this is something we can't stop, doesn't it? What if something like this happens again when I'm not around..."</p>
 
-<p>[Liu Weikun. Keep your composure. If you get anxious, what will happen to Ihyeon?]</p>
+<p>[Liu Weikun. Keep your composure. If you get anxious, what will happen to Yeehyeon?]</p>
 
 <p>"......"</p>
 
@@ -150,7 +150,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Do you really think so?"</p>
 
-<p>[You said you felt like something had happened to Ihyeon even though you were in different spaces. Ihyeon's heat was probably stimulated by you in some way, and when Ihyeon went into heat, your pheromones reacted to his. You weren't that far apart, were you?]</p>
+<p>[You said you felt like something had happened to Yeehyeon even though you were in different spaces. Yeehyeon's heat was probably stimulated by you in some way, and when Yeehyeon went into heat, your pheromones reacted to his. You weren't that far apart, were you?]</p>
 
 <p>"It's only a few meters from the house to the atelier. But we were in separate spaces — is it possible for me to be affected by his pheromones from that distance?"</p>
 
@@ -162,11 +162,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>However, in modern times, where both Alphas and Omegas take suppressants, Bonding was nothing short of a legend, much like the existence of a Ghost.</p>
 
-<p>[I think the bond and dependency of your pheromones are much stronger precisely because you are Diamond Dust and a Ghost. It will probably get even stronger later if Ihyeon has a baby.]</p>
+<p>[I think the bond and dependency of your pheromones are much stronger precisely because you are Diamond Dust and a Ghost. It will probably get even stronger later if Yeehyeon has a baby.]</p>
 
 <p>"I don't mind being Bonded to him. In fact, I welcome it. My only concern is..."</p>
 
-<p>[Don't worry too much about something similar happening to Ihyeon when you're not around. Diamond Dust is stable as long as it's not with a Ghost. It's been fine so far. Just be cautious and keep an eye on things for about one to two weeks.]</p>
+<p>[Don't worry too much about something similar happening to Yeehyeon when you're not around. Diamond Dust is stable as long as it's not with a Ghost. It's been fine so far. Just be cautious and keep an eye on things for about one to two weeks.]</p>
 
 <p>"Yes, I should do that."</p>
 
@@ -184,18 +184,18 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>The rut he had so despised and tried to avoid.</p>
 
-<p>He was able to get through it safely because the other person was Seo Ihyeon.</p>
+<p>He was able to get through it safely because the other person was Seo Yeehyeon.</p>
 
-<p>Liu smiled faintly as he looked at Ihyeon's work, "Colorful Ghost," displayed directly in front of where he was sitting.</p>
+<p>Liu smiled faintly as he looked at Yeehyeon's work, "Colorful Ghost," displayed directly in front of where he was sitting.</p>
 
-<p>"It's all thanks to Ihyeon."</p>
+<p>"It's all thanks to Yeehyeon."</p>
 
-<p>[Let's see each other at Ihyeon's solo exhibition. Ellen and I are really looking forward to visiting Bali for the first time. I miss Ihyeon too.]</p>
+<p>[Let's see each other at Yeehyeon's solo exhibition. Ellen and I are really looking forward to visiting Bali for the first time. I miss Yeehyeon too.]</p>
 
-<p>Liu's parents, Marcus, and Ellen were scheduled to visit Ihyeon's solo exhibition in two months. The members of Phantom Seoul were also planning to close the gallery for a week to come visit. They wanted to see Ihyeon's first solo exhibition in Bali and look around the couple's new home. It would be their first time seeing them in months since the wedding.</p>
+<p>Liu's parents, Marcus, and Ellen were scheduled to visit Yeehyeon's solo exhibition in two months. The members of Phantom Seoul were also planning to close the gallery for a week to come visit. They wanted to see Yeehyeon's first solo exhibition in Bali and look around the couple's new home. It would be their first time seeing them in months since the wedding.</p>
 
-<p>"Ihyeon is waiting for you all very eagerly. Please do come."</p>
+<p>"Yeehyeon is waiting for you all very eagerly. Please do come."</p>
 
 <p>[Let's stay healthy until then and meet.]</p>
 
-<p>Ihyeon's safety and health — that was what Liu desired above all else.</p>
+<p>Yeehyeon's safety and health — that was what Liu desired above all else.</p>

@@ -241,7 +241,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Teacher approached the windowsill shelf, carrying the painting, and spoke.</p>
 
-<p>"Ihyeon-ssi, you're not very good with words either, are you?"</p>
+<p>"Yeehyeon-ssi, you're not very good with words either, are you?"</p>
 
 <p>"……"</p>
 
@@ -289,13 +289,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>These were unbelievable stories. For me, who had already had to endure considerable tension just at the prospect of meeting Teacher… these were beyond what I could handle. Yet I couldn't stop listening.</p>
 
-<p>"Ihyeon-ssi appealed to the world through his emotions, and people who spoke the same language understood and responded. Awi isn't a painter, but he is more sensitive to the language within paintings than anyone else. That's probably why he works in the gallery business now — even though he sometimes pretends to judge art only by its economic value."</p>
+<p>"Yeehyeon-ssi appealed to the world through his emotions, and people who spoke the same language understood and responded. Awi isn't a painter, but he is more sensitive to the language within paintings than anyone else. That's probably why he works in the gallery business now — even though he sometimes pretends to judge art only by its economic value."</p>
 
 <p>At that point, Teacher let out a faint chuckle. That loose smile seemed to overlap with the set of someone else's mouth.</p>
 
 <p>Teacher's gaze, which had been sweeping diagonally across the floor, returned to me.</p>
 
-<p>"Ihyeon-ssi's painting functioned, at least for one person, as a language they could understand. It offered a kind of empathy — that he wasn't the only one feeling alienation for a non-universal reason, a reason that no one — not even family, not even parents — could provide… Empathy for <em>alienation</em>."</p>
+<p>"Yeehyeon-ssi's painting functioned, at least for one person, as a language they could understand. It offered a kind of empathy — that he wasn't the only one feeling alienation for a non-universal reason, a reason that no one — not even family, not even parents — could provide… Empathy for <em>alienation</em>."</p>
 
 <p>Empathy for <em>alienation</em>.</p>
 

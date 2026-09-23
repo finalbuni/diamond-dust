@@ -63,7 +63,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Juhan hyung said playfully, tapping the bottom of the steering wheel lightly with his fist. Then he added,</p>
 
-<p>"More accurately, the elopement plus Seo Ihyeon?"</p>
+<p>"More accurately, the elopement plus Seo Yeehyeon?"</p>
 
 <p>"......"</p>
 
@@ -109,7 +109,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Since it was a narrow residential alley, he couldn't leave the car parked for long. I thanked him for the ride and got out, and Juhan hyung quickly drove off down the alley.</p>
 
-<p>"Seo Ihyeon!"</p>
+<p>"Seo Yeehyeon!"</p>
 
 <p>I turned around. Morae nuna was standing outside the café, smiling with her hands tucked into the pockets of her apron. It had been almost a week since I'd last seen her.</p>
 
@@ -229,7 +229,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"No, really. I didn't bring it up because I wanted to go. I won't go. I don't want to."</p>
 
-<p>"Seo Ihyeon."</p>
+<p>"Seo Yeehyeon."</p>
 
 <p>She deliberately draped an arm over my shoulder and leaned her weight into me.</p>
 
@@ -301,7 +301,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>As soon as the manager finished opening the wine, poured the first glass, and left, Inwu hyung proposed a toast. Before I had even lowered my glass, he asked the question.</p>
 
-<p>"You said you couldn't make it because you already had plans, then contacted me again asking to meet. Maybe I wouldn't think much of it if it were someone else, but you, Ihyeon-ssi? I figured there had to be something you wanted to say. Am I wrong?"</p>
+<p>"You said you couldn't make it because you already had plans, then contacted me again asking to meet. Maybe I wouldn't think much of it if it were someone else, but you, Yeehyeon-ssi? I figured there had to be something you wanted to say. Am I wrong?"</p>
 
 <p>I felt embarrassed, as though he had seen right through the reason I'd agreed to meet him alone. At the same time, I was relieved that I wouldn't have to force myself to figure out how to bring up the subject.</p>
 
@@ -329,7 +329,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Even as I denied it, my gaze dropped on its own. From the moment I'd decided to confide in Inwu hyung, I'd expected he might piece together at least part of the situation. Even so, getting the words out was harder than I'd anticipated.</p>
 
-<p>"Go ahead and ask. If Ihyeon-ssi is curious, I'm happy to play the intellectual. There's far too much hearsay floating around online anyway."</p>
+<p>"Go ahead and ask. If Yeehyeon-ssi is curious, I'm happy to play the intellectual. There's far too much hearsay floating around online anyway."</p>
 
 <p>Inwu hyung took a sip of wine, set the glass down, and leaned forward a little more, looking ready to listen. But for me, coming here in the first place had been an impulsive decision. I needed a moment to steady myself.</p>
 
@@ -465,7 +465,7 @@ Beta. Pheromones.
 
 <p>"......"</p>
 
-<p>"That I get to meet Ihyeon-ssi one-on-one."</p>
+<p>"That I get to meet Yeehyeon-ssi one-on-one."</p>
 
 <p>He lifted his glass to his lips, his gaze locked onto mine.</p>
 
@@ -487,7 +487,7 @@ Beta. Pheromones.
 
 <p>Inwu hyung, who had been watching me with a faint smile, leaned forward and extended his hands across the table.</p>
 
-<p>"Ihyeon-ssi, would you look at me for a moment?"</p>
+<p>"Yeehyeon-ssi, would you look at me for a moment?"</p>
 
 <p>With his palms facing upward, his outstretched hands seemed to be asking me to take them. Hesitantly, I placed my hand lightly over his. His fingers curled inward and closed around mine.</p>
 
@@ -649,7 +649,7 @@ Beta. Pheromones.
 
 <p>I was surprised at myself for making such a preposterous comparison between Shushu and me. Not simply because it was an unfair comparison — though that was true too — but because the comparison itself made me flinch, as if it had exposed something I would rather not name.</p>
 
-<p>"Ah, there's actually a prime example right near Ihyeon-ssi. An Alpha who manages his sex life entirely without pheromones."</p>
+<p>"Ah, there's actually a prime example right near Yeehyeon-ssi. An Alpha who manages his sex life entirely without pheromones."</p>
 
 <p>Inwu hyung swallowed the wine he'd been drinking and lightly tapped the table. Then he added,</p>
 
@@ -683,7 +683,7 @@ Beta. Pheromones.
 
 <p>"Yes, much more helpful than Wikipedia. Thank you."</p>
 
-<p>"I'm not usually someone who explains things so diligently. I was just pretending to be especially kind because it was you, Ihyeon-ssi."</p>
+<p>"I'm not usually someone who explains things so diligently. I was just pretending to be especially kind because it was you, Yeehyeon-ssi."</p>
 
 <p>I thanked him again, unable to tell whether that was a joke or something he meant. Whether he was only 'pretending to be kind' for my sake or not, the kindness itself was real.</p>
 
@@ -709,7 +709,7 @@ Beta. Pheromones.
 
 <p>From our very first meeting, hyung had shown an almost startling level of interest in me. Yet he was so straightforward about it that it felt more like teasing than a sincere confession. Even now, despite using a word like <em>captivating</em>, I couldn't tell how much of it he truly meant. From our first meeting until now, he'd stayed at that same ambiguous distance, never coming any closer.</p>
 
-<p>"But that's just my perspective. As for why Kun felt Ihyeon-ssi was an Omega — I honestly don't know. That guy is a top-tier Golden Alpha; he almost never makes mistakes distinguishing between Alphas, Omegas, and Betas. Ihyeon-ssi must be his first."</p>
+<p>"But that's just my perspective. As for why Kun felt Yeehyeon-ssi was an Omega — I honestly don't know. That guy is a top-tier Golden Alpha; he almost never makes mistakes distinguishing between Alphas, Omegas, and Betas. Yeehyeon-ssi must be his first."</p>
 
 <p>Hyung's words sounded sweet on the surface, but not everything that is a "first" carries precious meaning. Because I was a Beta, not an Omega, I would be remembered by him simply as his first mistake.</p>
 

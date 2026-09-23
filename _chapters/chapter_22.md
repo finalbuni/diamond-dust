@@ -83,7 +83,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He had even prepared a separate allowance for me before we left Seoul, for personal use on the trip. With it I'd bought popcorn and coffee for nuna, eaten a muffin at a café, paid museum entrance fees, and bought a tumbler for Inwu hyung. I could have used it for gifts for Morae nuna and Yeehan hyung too, but it was still his money at the end of the day. I was trying to spend it carefully, planning to return whatever was left over.</p>
 
-<p>"Seo Ihyeon, aren't we dating?"</p>
+<p>"Seo Yeehyeon, aren't we dating?"</p>
 
 <p>He'd probably seen right through the meaning of my silence. He stuck the magnet against the metal pillar like a dart and turned to look at me. Then he walked over to where I stood holding the edge of the mug display and draped an arm over my shoulder.</p>
 
@@ -253,7 +253,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He laughed, a sound like the click of his tongue, then released the bottle and looked at me directly.</p>
 
-<p>"So, Seo Ihyeon-ssi."</p>
+<p>"So, Seo Yeehyeon-ssi."</p>
 
 <p>"......"</p>
 
@@ -551,7 +551,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"...Why?"</p>
 
-<p>"I never imagined Seo Ihyeon would be the one to ask about this first. I'm glad you've become curious enough about me to want to know..."</p>
+<p>"I never imagined Seo Yeehyeon would be the one to ask about this first. I'm glad you've become curious enough about me to want to know..."</p>
 
 <p>Glad, and on the other hand — what else? He left the thought unfinished and smiled with a vagueness that gave nothing away, tapping the eraser end of the pencil lightly against the tabletop.</p>
 
@@ -611,7 +611,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He inhaled, deepening the hollows in his cheekbones — sharper-seeming than when we first met — and spoke with the cigarette held between his fingers.</p>
 
-<p>"I don't know how Seo Ihyeon evaluates himself, but he's someone who tries — however slowly — to face himself and his surroundings honestly. Don't talk about painting as though it's a hurdle that has to be cleared."</p>
+<p>"I don't know how Seo Yeehyeon evaluates himself, but he's someone who tries — however slowly — to face himself and his surroundings honestly. Don't talk about painting as though it's a hurdle that has to be cleared."</p>
 
 <p>"......"</p>
 

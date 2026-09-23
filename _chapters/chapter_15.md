@@ -13,7 +13,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Hyung and Morae, their hands clasped tightly, walked through the lobby and into the coffee shop. It wasn't a sight you saw often. Hyung's face was stiff, his eyes sweeping their surroundings, but Morae spotted me right away, waved, and came over exactly as she always did.</p>
 
-<p>"Nice spot you found, Seo Ihyeon."</p>
+<p>"Nice spot you found, Seo Yeehyeon."</p>
 
 <p>She dropped onto the sofa across from me — I was seated by the window, a grand piano at my back — and carried on about how lucky we were to get a window seat, as if she'd come here to enjoy her afternoon.</p>
 
@@ -333,7 +333,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Then she squeezed my shoulder firmly and made her decision known.</p>
 
-<p>"Let's rely on Seo Ihyeon this time."</p>
+<p>"Let's rely on Seo Yeehyeon this time."</p>
 </div>
 {% include scene-break.html %}
 <div id="section-2" class="hybrid-section" data-section="2">
@@ -495,7 +495,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>In the living room, Yeehan and Morae were already drinking beer. The long, vertical room offered a much more open view than the guest room I'd just come from.</p>
 
-<p>"Seo Ihyeon, this room is seven million won a night."</p>
+<p>"Seo Yeehyeon, this room is seven million won a night."</p>
 
 <p>Morae, who had been looking at her phone beside hyung on one end of the sofa, turned toward me with a worried face as I sat down. Back when I had known less about his wealth, that number would have been difficult to believe. Even now it didn't quite feel real.</p>
 
@@ -505,7 +505,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"How much would I even fetch on a deep-sea fishing trawler?"</p>
 
-<p>"Fair point. You've got more backbone than you look, but Seo Ihyeon isn't exactly built for hard labor."</p>
+<p>"Fair point. You've got more backbone than you look, but Seo Yeehyeon isn't exactly built for hard labor."</p>
 
 <p>Morae quickly agreed, reached for a fresh beer from the table, and handed it to me.</p>
 
@@ -637,7 +637,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>She muttered something incomprehensible with that suggestive smile, her eyes still narrowed. I couldn't tell what she was agreeing to, but I didn't have the courage to ask — afraid it would lead to more questions about me.</p>
 
-<p>"What a shame. Seo Ihyeon's first love — and I have to leave without ever getting to see his face."</p>
+<p>"What a shame. Seo Yeehyeon's first love — and I have to leave without ever getting to see his face."</p>
 
 <p>After that, Morae didn't pry any further.</p>
 
