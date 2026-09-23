@@ -181,7 +181,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>When he turned back, it wasn't just a frown this time. His eyes hardened. He looked as though I had wounded him somehow. He turned his body fully to stand before me, crossed his arms, and looked down at me.</p>
 
-<p>"Seo Ihyeon-ssi, you don't remember what you were like, do you?"</p>
+<p>"Seo Yeehyeon-ssi, you don't remember what you were like, do you?"</p>
 
 <p>"……"</p>
 
@@ -243,7 +243,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>When I tried to refuse, he took matters into his own hands. The neckline of the sweatshirt slipped over my head in an instant.</p>
 
-<p>"You are cold. You're already not feeling well, it's raining outside, and your body temperature's dropped. Seo Ihyeon-ssi, you can't even tell that much right now. Listen to someone who's healthy."</p>
+<p>"You are cold. You're already not feeling well, it's raining outside, and your body temperature's dropped. Seo Yeehyeon-ssi, you can't even tell that much right now. Listen to someone who's healthy."</p>
 
 <p>It would have been awkward to take it off now that it was already over my head. I set down my spoon and slipped my arms into the thick sweatshirt.</p>
 
@@ -345,7 +345,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Tears welled up again. My temples burned. But these were only mechanical tears. Fortunately, the room was dark and there was enough distance between us that I didn't think he'd notice. I was just about to turn over, pretending to shift in bed, when his voice reached me—quiet, yet clear enough to ripple through the darkness.</p>
 
-<p>"Seo Ihyeon-ssi."</p>
+<p>"Seo Yeehyeon-ssi."</p>
 
 <p>"……"</p>
 
@@ -441,7 +441,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>I lost and regained my grip on his shoulder again and again, until, driven by a desperate need for him to press harder against me below, I wrapped my arms around his neck and pulled him closer. He was only squeezing my nipple, yet it felt as though my entire body were being twisted from its core.</p>
 
-<p>"I won't do anything Seo Ihyeon-ssi doesn't want. If something starts to feel unpleasant, tell me right away. You're not scared, are you?"</p>
+<p>"I won't do anything Seo Yeehyeon-ssi doesn't want. If something starts to feel unpleasant, tell me right away. You're not scared, are you?"</p>
 
 <p>I nodded. Several times.</p>
 
@@ -521,7 +521,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Turning his head, he rubbed his ear against my lips as he asked it. The movement of his hips against me was quickening. The fact that he was aroused only made me more so. Wrapping my arms around his head, I exhaled heated breath near his ear. He slid closer, and his lips brushed against my ear as well. With our mouths buried near each other's ears, chest pressed to chest, we revealed our excitement openly. My shame was fading into the distance again.</p>
 
-<p>"Tell me. What's happening down there with Seo Ihyeon-ssi right now? What does it feel like?"</p>
+<p>"Tell me. What's happening down there with Seo Yeehyeon-ssi right now? What does it feel like?"</p>
 
 <p>His damp voice made something inside me tingle. He had become the scent itself, pressing down on me. That fragrance stripped away all judgment. Tilting my head slightly, I exhaled an honest breath against his ear.</p>
 
@@ -637,7 +637,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Even while saying that, I pushed my feet back and ground myself harder against him. He rubbed his nose against my lips, moving my hips opposite the slow rotation of his own. As the angle shifted, another wave surged through me.</p>
 
-<p>"If Seo Ihyeon-ssi is a Beta… then this has to be perfume."</p>
+<p>"If Seo Yeehyeon-ssi is a Beta… then this has to be perfume."</p>
 
 <p><em>Hngh— hnnngh— ah—</em></p>
 

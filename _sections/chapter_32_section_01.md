@@ -16,7 +16,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>A city that hosts Art Basel — one of the world's three major art fairs — and a cultural capital overflowing with more than forty museums and countless galleries.</p>
 
-<p>Liu and Ihyeon had spent a week here, and today was their last day in Basel. Tomorrow, they would board the TGV back to Paris. Their nearly forty-day "European Art Museum Tour" was finally drawing to a close.</p>
+<p>Liu and Yeehyeon had spent a week here, and today was their last day in Basel. Tomorrow, they would board the TGV back to Paris. Their nearly forty-day "European Art Museum Tour" was finally drawing to a close.</p>
 
 <p>On the final day of their long journey, the two visited the Kunstmuseum Basel.</p>
 
@@ -36,7 +36,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Liu observed them from a respectful distance, careful not to disturb.</p>
 
-<p>Though he hadn't mentioned it to Ihyeon, he had visited the Kunstmuseum Basel at least ten times — for travel and for work alike. He had just been thinking about setting out to find Ihyeon when he came across this interesting group.</p>
+<p>Though he hadn't mentioned it to Yeehyeon, he had visited the Kunstmuseum Basel at least ten times — for travel and for work alike. He had just been thinking about setting out to find Yeehyeon when he came across this interesting group.</p>
 
 <p>Among them, one child in particular caught his eye.</p>
 
@@ -44,9 +44,9 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>The child was completely absorbed in his own world, moving his pen in what was almost a trance. The commotion of friends playing right beside him didn't seem to reach his ears. He didn't flinch even when an elbow accidentally poked him mid-play.</p>
 
-<p><em>Wasn't Ihyeon probably like this as a child?</em></p>
+<p><em>Wasn't Yeehyeon probably like this as a child?</em></p>
 
-<p>Thinking that while watching the boy, Liu found himself genuinely missing Seo Ihyeon.</p>
+<p>Thinking that while watching the boy, Liu found himself genuinely missing Seo Yeehyeon.</p>
 
 <p>He checked the time on his wristwatch.</p>
 
@@ -56,19 +56,19 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"I'm just going to skim through the works I want to see one more time."</p>
 
-<p>It had already been two hours since he'd parted from Ihyeon, who had said those words at the museum entrance. He checked his phone — no messages.</p>
+<p>It had already been two hours since he'd parted from Yeehyeon, who had said those words at the museum entrance. He checked his phone — no messages.</p>
 
-<p>And yet somehow, Liu felt he could find Ihyeon without needing to call. He felt he knew exactly where in this vast museum Ihyeon would be.</p>
+<p>And yet somehow, Liu felt he could find Yeehyeon without needing to call. He felt he knew exactly where in this vast museum Yeehyeon would be.</p>
 
 <p>He moved his feet, which had stilled for a moment.</p>
 
 <p>As he passed the child with the round glasses, he stole a glance — the boy was drawing a cartoon beneath Chagall's painting. Liu shook with a quiet chuckle. Still, the skill was undeniably impressive.</p>
 
-<p><em>If the child resembled Ihyeon, he'd probably have a talent for art as well.</em></p>
+<p><em>If the child resembled Yeehyeon, he'd probably have a talent for art as well.</em></p>
 
-<p><em>Not just Ihyeon, but his mother and father — and even my own mother — both families overflowing with people who painted. So our child might be talented in art too. Though it wouldn't matter if they wanted to do something completely different.</em></p>
+<p><em>Not just Yeehyeon, but his mother and father — and even my own mother — both families overflowing with people who painted. So our child might be talented in art too. Though it wouldn't matter if they wanted to do something completely different.</em></p>
 
-<p>Lost in such thoughts, Liu exited the exhibition room and moved down the hallway searching for Ihyeon. Then he abruptly stopped walking, shook his head, and scoffed at himself.</p>
+<p>Lost in such thoughts, Liu exited the exhibition room and moved down the hallway searching for Yeehyeon. Then he abruptly stopped walking, shook his head, and scoffed at himself.</p>
 
 <p><em>I haven't even gotten married yet, and here I am thinking about children.</em></p>
 
@@ -76,19 +76,19 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p><em>After traveling together for over a month, spending twenty-four hours a day side by side, I've fully immersed myself in the feeling of cohabitation rather than simply being in a relationship. That's the problem.</em></p>
 
-<p><em>Where was that Liu Weikun who claimed he only wanted Seo Ihyeon and had never once considered having children?</em></p>
+<p><em>Where was that Liu Weikun who claimed he only wanted Seo Yeehyeon and had never once considered having children?</em></p>
 
 <p>Tsk. Liu clicked his tongue at himself, straightened his expression, and started walking again.</p>
 
-<p><em>Of course, it's not that I specifically want a child right now. I'm simply imagining a future for Ihyeon and me that follows a natural progression: falling truly in love, promising each other forever, getting married — and then a child coming after.</em></p>
+<p><em>Of course, it's not that I specifically want a child right now. I'm simply imagining a future for Yeehyeon and me that follows a natural progression: falling truly in love, promising each other forever, getting married — and then a child coming after.</em></p>
 
-<p><em>Ihyeon hadn't even fully manifested as an Omega yet.</em></p>
+<p><em>Yeehyeon hadn't even fully manifested as an Omega yet.</em></p>
 
-<p><em>The child was just a vague fantasy. What I want is marriage with Ihyeon. A legal, social union. That's my true desire.</em></p>
+<p><em>The child was just a vague fantasy. What I want is marriage with Yeehyeon. A legal, social union. That's my true desire.</em></p>
 
 <p><em>Where was the Liu Weikun who used to think there was no need to marry, that simply cohabiting was enough — whether for a Beta couple or an Alpha-Omega couple?</em></p>
 
-<p><em>After meeting Seo Ihyeon, countless versions of Liu Weikun had vanished into the past, into a history he wanted to deny.</em></p>
+<p><em>After meeting Seo Yeehyeon, countless versions of Liu Weikun had vanished into the past, into a history he wanted to deny.</em></p>
 
 <p><em>Literally a dark history.</em></p>
 
@@ -96,69 +96,69 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>The very person who had changed him so much was standing right there.</p>
 
-<p>A smile bloomed on Liu's lips the moment he spotted Ihyeon's back. It was a smile captivating enough that passersby glanced over — a smile reserved for the one he loved.</p>
+<p>A smile bloomed on Liu's lips the moment he spotted Yeehyeon's back. It was a smile captivating enough that passersby glanced over — a smile reserved for the one he loved.</p>
 
 <p><em>Just as expected.</em></p>
 
-<p>Ihyeon stood before a work by Egon Schiele.</p>
+<p>Yeehyeon stood before a work by Egon Schiele.</p>
 
 <p>One of Schiele's self-portraits.</p>
 
-<p>Instead of approaching immediately, Liu leaned his shoulder diagonally against the wall beside the exhibition hall entrance. Ihyeon's posture was one of total absorption. It seemed best not to disturb him.</p>
+<p>Instead of approaching immediately, Liu leaned his shoulder diagonally against the wall beside the exhibition hall entrance. Yeehyeon's posture was one of total absorption. It seemed best not to disturb him.</p>
 
-<p>Standing there, Liu gazed at Ihyeon instead of the artwork. Within the frame of his vision, that scene was itself a work of art — one that sparked a desire to possess it, one he wanted to look at forever.</p>
+<p>Standing there, Liu gazed at Yeehyeon instead of the artwork. Within the frame of his vision, that scene was itself a work of art — one that sparked a desire to possess it, one he wanted to look at forever.</p>
 
-<p>Ihyeon was often called "the Egon Schiele of our time."</p>
+<p>Yeehyeon was often called "the Egon Schiele of our time."</p>
 
-<p>After a prominent Dutch critic first coined the comparison, hardly an article about Ihyeon was published without that expression.</p>
+<p>After a prominent Dutch critic first coined the comparison, hardly an article about Yeehyeon was published without that expression.</p>
 
-<p>Ihyeon showed neither a positive nor negative reaction to it. He seemed largely unbothered — treating comparisons like "the next XX," or "the Eastern XX," or "the Western XX," as phrases commonly used in any industry.</p>
+<p>Yeehyeon showed neither a positive nor negative reaction to it. He seemed largely unbothered — treating comparisons like "the next XX," or "the Eastern XX," or "the Western XX," as phrases commonly used in any industry.</p>
 
 <p>Yet for a serious artist diligently devoted to their work, being compared to someone else could hardly be welcome.</p>
 
-<p>Nevertheless, Ihyeon held more genuine interest than aversion toward Schiele.</p>
+<p>Nevertheless, Yeehyeon held more genuine interest than aversion toward Schiele.</p>
 
 <p>During this trip, the two had spent far longer than planned at the Leopold Museum in Vienna, Austria — their four-night, five-day schedule extended by an extra day. All because of Schiele's work.</p>
 
-<p>Here at the Kunstmuseum Basel, a few of Schiele's pieces were also on display. Not particularly famous ones. But that was irrelevant to Ihyeon.</p>
+<p>Here at the Kunstmuseum Basel, a few of Schiele's pieces were also on display. Not particularly famous ones. But that was irrelevant to Yeehyeon.</p>
 
-<p>Ihyeon always stopped before Schiele's work — from a distance, then up close. From the overall power of the piece down to the smallest brushstroke. He studied it with intense focus, as if intent on absorbing every last detail into himself.</p>
+<p>Yeehyeon always stopped before Schiele's work — from a distance, then up close. From the overall power of the piece down to the smallest brushstroke. He studied it with intense focus, as if intent on absorbing every last detail into himself.</p>
 
-<p>Even now, Ihyeon stood motionless, facing the artwork.</p>
+<p>Even now, Yeehyeon stood motionless, facing the artwork.</p>
 
 <p>As though engaged in a confrontation.</p>
 
 <p><em>What world was he wandering through right now?</em></p>
 
-<p>As when watching Ihyeon completely absorbed in his work from behind, a sense of alienation and loneliness washed over Liu. A dark greed — the kind he knew was unhealthy, warped — slowly writhed inside him: a desire for all of Ihyeon.</p>
+<p>As when watching Yeehyeon completely absorbed in his work from behind, a sense of alienation and loneliness washed over Liu. A dark greed — the kind he knew was unhealthy, warped — slowly writhed inside him: a desire for all of Yeehyeon.</p>
 
-<p>This was why he had almost lost Ihyeon.</p>
+<p>This was why he had almost lost Yeehyeon.</p>
 
 <p>Even so, that dark greed had not been completely rooted out. The saving grace was that he had learned how to handle it.</p>
 
-<p><em>No need to be impatient. Ihyeon would show through his art what world he was encountering. After setting down his brush, he would certainly return to me. Unchangingly, he would look at me, smile, embrace me, and tell me he loved me. So I just needed to wait here. Like an adult. Or it didn't matter if I only pretended to be one.</em></p>
+<p><em>No need to be impatient. Yeehyeon would show through his art what world he was encountering. After setting down his brush, he would certainly return to me. Unchangingly, he would look at me, smile, embrace me, and tell me he loved me. So I just needed to wait here. Like an adult. Or it didn't matter if I only pretended to be one.</em></p>
 
 <p>Liu pulled out his phone and opened the camera app.</p>
 
-<p>The moment Ihyeon's back, facing the painting, fit perfectly into the frame he wanted, Liu held his breath and pressed the shutter.</p>
+<p>The moment Yeehyeon's back, facing the painting, fit perfectly into the frame he wanted, Liu held his breath and pressed the shutter.</p>
 
-<p>Immediately after the shot, the shoulders of Ihyeon — who had been standing perfectly still — seemed to give a slight tremble. Then he slowly turned away from the artwork.</p>
+<p>Immediately after the shot, the shoulders of Yeehyeon — who had been standing perfectly still — seemed to give a slight tremble. Then he slowly turned away from the artwork.</p>
 
 <p>The face that had been lost in deep concentration lit up radiantly the moment it spotted Liu. Seeing that transformation, Liu felt a wave of relief and happiness so profound it ached in his chest.</p>
 
-<p><em>If he waited, Ihyeon would return to him.</em></p>
+<p><em>If he waited, Yeehyeon would return to him.</em></p>
 
 <p>The happiness of confirming that fact once again.</p>
 
-<p>Ihyeon's approaching footsteps gradually quickened. Liu straightened from his lean against the wall and wrapped an arm around Ihyeon's shoulder in greeting. Ihyeon's body warmth and scent felt wonderfully familiar — as though they'd been apart for days.</p>
+<p>Yeehyeon's approaching footsteps gradually quickened. Liu straightened from his lean against the wall and wrapped an arm around Yeehyeon's shoulder in greeting. Yeehyeon's body warmth and scent felt wonderfully familiar — as though they'd been apart for days.</p>
 
 <p>"How long have you been here?"</p>
 
-<p>"Hmm... since the man in the blue shirt and the woman in the plaid hat walked by without even glancing at the paintings — just looking at Seo Ihyeon."</p>
+<p>"Hmm... since the man in the blue shirt and the woman in the plaid hat walked by without even glancing at the paintings — just looking at Seo Yeehyeon."</p>
 
 <p>"Oh, right..."</p>
 
-<p>Ihyeon's reply was listless. Even so, he wrapped his arm around Liu's waist. Finding him endearing, Liu swept the hair from Ihyeon's forehead with the arm already draped over his shoulder and playfully teased him.</p>
+<p>Yeehyeon's reply was listless. Even so, he wrapped his arm around Liu's waist. Finding him endearing, Liu swept the hair from Yeehyeon's forehead with the arm already draped over his shoulder and playfully teased him.</p>
 
 <p>"You don't believe me, do you?"</p>
 
@@ -166,7 +166,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"I knew it. How can you not believe what your lover tells you? Huh?"</p>
 
-<p>Liu playfully nipped at Ihyeon's cheek and earlobe. Ihyeon tried to fend off the attack, hunching his shoulders. His cheeks, puffed up from holding back laughter, were endearing. They continued down the hallway and descended the stairs, trading these childish games back and forth.</p>
+<p>Liu playfully nipped at Yeehyeon's cheek and earlobe. Yeehyeon tried to fend off the attack, hunching his shoulders. His cheeks, puffed up from holding back laughter, were endearing. They continued down the hallway and descended the stairs, trading these childish games back and forth.</p>
 
 <p>A middle-aged woman began ascending the stairs from the floor below. Only then did Liu stop his antics.</p>
 
@@ -176,11 +176,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"...You're lying."</p>
 
-<p>Ihyeon, who had been walking down the stairs, stopped abruptly. He raised his arm, buried his nose in it, and sniffed. Liu, watching from a couple of steps below, reached out and gently drew Ihyeon's arm back down.</p>
+<p>Yeehyeon, who had been walking down the stairs, stopped abruptly. He raised his arm, buried his nose in it, and sniffed. Liu, watching from a couple of steps below, reached out and gently drew Yeehyeon's arm back down.</p>
 
-<p>"Of course I was lying, Ihyeon."</p>
+<p>"Of course I was lying, Yeehyeon."</p>
 
-<p>Even so, Ihyeon still looked uneasy. Liu walked back up the stairs, faced him, and cupped both his cheeks.</p>
+<p>Even so, Yeehyeon still looked uneasy. Liu walked back up the stairs, faced him, and cupped both his cheeks.</p>
 
 <p>"I'm sorry. I was just joking."</p>
 
@@ -188,9 +188,9 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"There's no way your pheromones would come out when I'm not around."</p>
 
-<p>Although Ihyeon was taking suppressants as a precaution, he was not yet producing Omega pheromones. Right now, the only pheromone from Ihyeon was the Diamond Dust scent — something only Liu could detect. He hadn't been stimulated by any other Alpha's pheromones either.</p>
+<p>Although Yeehyeon was taking suppressants as a precaution, he was not yet producing Omega pheromones. Right now, the only pheromone from Yeehyeon was the Diamond Dust scent — something only Liu could detect. He hadn't been stimulated by any other Alpha's pheromones either.</p>
 
-<p>There were only two instances when pheromones would be emitted from Ihyeon: either by being stimulated by pheromones Liu released first, or by Ihyeon feeling sexual desire for Liu and unconsciously releasing his own first.</p>
+<p>There were only two instances when pheromones would be emitted from Yeehyeon: either by being stimulated by pheromones Liu released first, or by Yeehyeon feeling sexual desire for Liu and unconsciously releasing his own first.</p>
 
 <p>"If you'd reacted to some other guy, that would have been a real problem, huh?"</p>
 
@@ -198,61 +198,61 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Or maybe you were attracted to someone else besides me? Is that it? Who was it?"</p>
 
-<p>At Liu's exaggerated, clumsy performance, Ihyeon finally managed a small smile. Liu met the eyes of Ihyeon — laughing there in his hands — and returned a gentle smile of his own. He gave a quick kiss to those pretty lips, then draped his arm over Ihyeon's shoulder again.</p>
+<p>At Liu's exaggerated, clumsy performance, Yeehyeon finally managed a small smile. Liu met the eyes of Yeehyeon — laughing there in his hands — and returned a gentle smile of his own. He gave a quick kiss to those pretty lips, then draped his arm over Yeehyeon's shoulder again.</p>
 
 <p>Just then, their eyes met with the middle-aged woman, who had climbed to about five or six steps below them. She smiled warmly at the pair as if finding them lovely.</p>
 
-<p>Liu gave her a slight bow and smiled back. Ihyeon, his face flushed to the earlobes, quickly dropped his gaze after a brief nod, hiding his face slightly behind the back of his hand.</p>
+<p>Liu gave her a slight bow and smiled back. Yeehyeon, his face flushed to the earlobes, quickly dropped his gaze after a brief nod, hiding his face slightly behind the back of his hand.</p>
 
 <p>"We're stopping by the souvenir shop, right?"</p>
 
-<p>At Liu's question, Ihyeon nodded, keeping his head bowed low. Liu pulled him closer by the shoulder and pressed his lips firmly against his temple.</p>
+<p>At Liu's question, Yeehyeon nodded, keeping his head bowed low. Liu pulled him closer by the shoulder and pressed his lips firmly against his temple.</p>
 
 <p>"The lady's already far away. You can look up now."</p>
 
 <p>"......"</p>
 
-<p>Ihyeon raised his head, but his eyes, when they met Liu's, held a trace of reproach. Liu, of course, pretended not to notice.</p>
+<p>Yeehyeon raised his head, but his eyes, when they met Liu's, held a trace of reproach. Liu, of course, pretended not to notice.</p>
 
-<p>"I seem to remember buying quite a few different things here the last time I visited. I hope you find something you like, Ihyeon."</p>
+<p>"I seem to remember buying quite a few different things here the last time I visited. I hope you find something you like, Yeehyeon."</p>
 
 <p>The "European Art Museum Tour" had begun in London. The two traveled from Paris to London, spent a week there, then flew on to Amsterdam. After passing through Berlin and Munich, they went to Prague, then to Vienna, Austria — and this city, Basel, Switzerland, was their final destination.</p>
 
-<p>Whenever they found a gift shop in the museums and galleries of each city, Ihyeon carefully browsed the merchandise. If nothing particularly caught his eye, he left empty-handed. But he always bought at least one postcard.</p>
+<p>Whenever they found a gift shop in the museums and galleries of each city, Yeehyeon carefully browsed the merchandise. If nothing particularly caught his eye, he left empty-handed. But he always bought at least one postcard.</p>
 
 <p>Then he would write a short message on the back and mail it from a post office in that city.</p>
 
 <p>The postcards were addressed to his father, by the East Sea in Korea.</p>
 
-<p>At the Kunstmuseum Basel, Ihyeon chose a postcard featuring a print of a Chagall work — <em>The Cattle Dealer</em>. The child who resembled Ihyeon had been sitting in front of it... Liu glanced briefly at the postcard over Ihyeon's shoulder and smiled silently at the simple coincidence.</p>
+<p>At the Kunstmuseum Basel, Yeehyeon chose a postcard featuring a print of a Chagall work — <em>The Cattle Dealer</em>. The child who resembled Yeehyeon had been sitting in front of it... Liu glanced briefly at the postcard over Yeehyeon's shoulder and smiled silently at the simple coincidence.</p>
 
 <p>"You said your father likes Chagall, right?"</p>
 
 <p>"That's right."</p>
 
-<p>There was a faint loneliness in Ihyeon's face as he answered, but Liu didn't try to comfort him with words. Instead, he gently stroked Ihyeon's arm and kissed the nape of his neck, full of warmth.</p>
+<p>There was a faint loneliness in Yeehyeon's face as he answered, but Liu didn't try to comfort him with words. Instead, he gently stroked Yeehyeon's arm and kissed the nape of his neck, full of warmth.</p>
 
-<p>When Ihyeon was around sixteen, his family had planned a "European Art Museum Tour."</p>
+<p>When Yeehyeon was around sixteen, his family had planned a "European Art Museum Tour."</p>
 
-<p>However, after Ihyeon's mother passed away in an unforeseen accident, that plan — once like a balloon swollen with bright hope — was brutally dashed into the mud, its air let out all at once.</p>
+<p>However, after Yeehyeon's mother passed away in an unforeseen accident, that plan — once like a balloon swollen with bright hope — was brutally dashed into the mud, its air let out all at once.</p>
 
-<p>Furthermore, although it was his mother who died in the accident, from that point on, Ihyeon felt as though he had lost both his mother and his father — each in a different way.</p>
+<p>Furthermore, although it was his mother who died in the accident, from that point on, Yeehyeon felt as though he had lost both his mother and his father — each in a different way.</p>
 
 <p>No matter which of the places the three of them had planned to visit together they went to now, memories of his mother and father, of the joy and sorrow they'd shared, would inevitably surface.</p>
 
-<p>That was why, when Ihyeon told him he wanted to take this trip together, Liu was speechless for a while. It held a significance too immense for words.</p>
+<p>That was why, when Yeehyeon told him he wanted to take this trip together, Liu was speechless for a while. It held a significance too immense for words.</p>
 
-<p>First, he was deeply moved that Ihyeon had reached a point where he could follow through on a trip his family had planned during happier times.</p>
+<p>First, he was deeply moved that Yeehyeon had reached a point where he could follow through on a trip his family had planned during happier times.</p>
 
 <p>And then — the fact that he himself had been chosen as the companion for that journey stirred a complex wave of emotion within him.</p>
 
-<p>It was an overwhelming feeling. As if he had been accepted as a new member of Ihyeon's family.</p>
+<p>It was an overwhelming feeling. As if he had been accepted as a new member of Yeehyeon's family.</p>
 
-<p>Whenever Ihyeon chose a postcard, he was deliberate. Whether at the museum café, on a bench on some street, or at the post office itself — he was careful when writing the message. Sometimes it was only a line or two, finished quickly. Other times he pondered for a long while.</p>
+<p>Whenever Yeehyeon chose a postcard, he was deliberate. Whether at the museum café, on a bench on some street, or at the post office itself — he was careful when writing the message. Sometimes it was only a line or two, finished quickly. Other times he pondered for a long while.</p>
 
-<p>Occasionally, after mailing a postcard, Ihyeon would fall silent for a long time. Even then, he never treated Liu as though he weren't there. Instead, he would lean on Liu's shoulder, take his hand, or even lift Liu's arm himself and nestle beneath it.</p>
+<p>Occasionally, after mailing a postcard, Yeehyeon would fall silent for a long time. Even then, he never treated Liu as though he weren't there. Instead, he would lean on Liu's shoulder, take his hand, or even lift Liu's arm himself and nestle beneath it.</p>
 
-<p>Holding and kissing Ihyeon, who was acting more childlike than usual, Liu felt grateful to be by his side in these moments.</p>
+<p>Holding and kissing Yeehyeon, who was acting more childlike than usual, Liu felt grateful to be by his side in these moments.</p>
 
 <p>Having purchased just one postcard, the two made their way across the courtyard toward the gallery's main entrance. The central courtyard was flooded with warm autumn sunlight and a pleasant breeze. Truly perfect weather for traveling.</p>
 
@@ -272,7 +272,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>In the center of the courtyard stood Rodin's <em>The Burghers of Calais</em>. A couple struggling to take a selfie in front of it caught their attention. They couldn't seem to fit the sculpture into the frame.</p>
 
-<p>As Liu and Ihyeon drew closer, Liu naturally spoke first.</p>
+<p>As Liu and Yeehyeon drew closer, Liu naturally spoke first.</p>
 
 <p>"Shall I take a picture for you?"</p>
 
@@ -288,33 +288,33 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"The composition is wonderful! I never would have thought to take a picture like that. My wife always scolds me for being bad at photography. Nice to meet you, I'm Felix."</p>
 
-<p>The English of the man who introduced himself as Felix carried a strong German accent. Liu shook his hand and introduced Ihyeon as well.</p>
+<p>The English of the man who introduced himself as Felix carried a strong German accent. Liu shook his hand and introduced Yeehyeon as well.</p>
 
 <p>"I'm glad you like them. I'm Liu. This is my boyfriend."</p>
 
-<p>"Nice to meet you. I'm Ihyeon."</p>
+<p>"Nice to meet you. I'm Yeehyeon."</p>
 
 <p>"Ih — ..."</p>
 
-<p>After shaking Felix's hand, Ihyeon turned to introduce himself to his wife as well — only to be met with a look of confusion on her face.</p>
+<p>After shaking Felix's hand, Yeehyeon turned to introduce himself to his wife as well — only to be met with a look of confusion on her face.</p>
 
 <p>"Is my name difficult to pronounce?"</p>
 
-<p>"No, that's not it... Are you... are you perhaps the artist Seo Ihyeon...?"</p>
+<p>"No, that's not it... Are you... are you perhaps the artist Seo Yeehyeon...?"</p>
 
 <p>"Yes, that's him."</p>
 
-<p>Liu wrapped an arm firmly around Ihyeon's shoulder and answered on his behalf.</p>
+<p>Liu wrapped an arm firmly around Yeehyeon's shoulder and answered on his behalf.</p>
 
 <p>"This is impossible... How could we run into you here... Is this really possible..."</p>
 
 <p>The woman couldn't finish her sentence. After pressing her fingers to her forehead and repeating "Oh my God" several times, she finally shook her head and collected herself.</p>
 
-<p>"Oh, I'm Lina. I'm sorry. We're really huge fans of your work, Ihyeon."</p>
+<p>"Oh, I'm Lina. I'm sorry. We're really huge fans of your work, Yeehyeon."</p>
 
 <p>"Lina is especially enthusiastic," Felix added.</p>
 
-<p>Her husband Felix chuckled and added, "Lina still can't take her eyes off Ihyeon. She looks like she's just been slapped."</p>
+<p>Her husband Felix chuckled and added, "Lina still can't take her eyes off Yeehyeon. She looks like she's just been slapped."</p>
 
 <p>"Actually, I'd been sneaking glances at you ever since Liu was taking our picture. I kept thinking, 'I've seen that face somewhere before...' How can such a coincidence happen?"</p>
 
@@ -324,53 +324,53 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>While Lina took a deep breath to compose herself, Felix spoke up.</p>
 
-<p>"Ihyeon, compared to your work, your face isn't shown around very often, is it? I was doubtful myself. I hope it's not too rude to ask..."</p>
+<p>"Yeehyeon, compared to your work, your face isn't shown around very often, is it? I was doubtful myself. I hope it's not too rude to ask..."</p>
 
-<p>"Not at all. Ihyeon is quite shy, but he actually enjoys meeting and talking with fans. Right?"</p>
+<p>"Not at all. Yeehyeon is quite shy, but he actually enjoys meeting and talking with fans. Right?"</p>
 
-<p>Liu, still with his arm around Ihyeon's shoulder, looked at his face with affection as he asked.</p>
+<p>Liu, still with his arm around Yeehyeon's shoulder, looked at his face with affection as he asked.</p>
 
 <p>"That's true, but... the word 'fan' is a bit..."</p>
 
-<p>This kind of thing had happened three or four times during their trip. They seemed to encounter someone who recognized Ihyeon about once every ten days. Since they were traveling mainly to museums and galleries, the probability of running into such people was naturally higher.</p>
+<p>This kind of thing had happened three or four times during their trip. They seemed to encounter someone who recognized Yeehyeon about once every ten days. Since they were traveling mainly to museums and galleries, the probability of running into such people was naturally higher.</p>
 
-<p>Each time, Liu felt proud — and while Ihyeon was glad that people appreciated his work, he felt awkward with the word "fan." He wasn't an actor or a singer, nor was he a famous painter. He'd confessed as much to Liu over dinner one evening, saying he felt too embarrassed whenever someone called themselves a fan.</p>
+<p>Each time, Liu felt proud — and while Yeehyeon was glad that people appreciated his work, he felt awkward with the word "fan." He wasn't an actor or a singer, nor was he a famous painter. He'd confessed as much to Liu over dinner one evening, saying he felt too embarrassed whenever someone called themselves a fan.</p>
 
 <p>"Why? We really are your fans!"</p>
 
 <p>Lina almost shouted it. Felix nodded in agreement.</p>
 
-<p>"We have many acquaintances around us who want to collect Ihyeon's work."</p>
+<p>"We have many acquaintances around us who want to collect Yeehyeon's work."</p>
 
 <p>"But we always fail to acquire any — the competition is fierce."</p>
 
 <p>An impromptu fan meeting unfolded right there in front of <em>The Burghers of Calais</em>.</p>
 
-<p>They spoke about the <em>Colorful Ghosts</em> series, the <em>Journey of the Clouds</em> series, and the <em>Colorful Monsters</em> series — and it was clear they weren't just saying it. They were truly ardent fans of Ihyeon's work.</p>
+<p>They spoke about the <em>Colorful Ghosts</em> series, the <em>Journey of the Clouds</em> series, and the <em>Colorful Monsters</em> series — and it was clear they weren't just saying it. They were truly ardent fans of Yeehyeon's work.</p>
 
-<p>Suddenly, Lina's expression and voice — which had been flushed and excited as she spoke about her impressions of Ihyeon's work, like a fan who'd just met an idol — became calm.</p>
+<p>Suddenly, Lina's expression and voice — which had been flushed and excited as she spoke about her impressions of Yeehyeon's work, like a fan who'd just met an idol — became calm.</p>
 
-<p>"Ihyeon, don't pay attention to comparisons to Schiele."</p>
+<p>"Yeehyeon, don't pay attention to comparisons to Schiele."</p>
 
 <p>The sincerity came through clearly — this was something she absolutely had to say.</p>
 
 <p>"Of course, Schiele is a wonderful painter, and I love his work. But Schiele's work is fundamentally rooted in anguish, persistent sorrow, and a resignation that cannot overcome those things. Does painting boldly and deviating from mainstream style automatically make someone a Schiele?"</p>
 
-<p>"She always gets heated whenever someone compares Ihyeon to Schiele. Goes on about how the art critics must have bad eyes."</p>
+<p>"She always gets heated whenever someone compares Yeehyeon to Schiele. Goes on about how the art critics must have bad eyes."</p>
 
 <p>That was Felix adding his two cents.</p>
 
-<p>Lina continued to speak to Ihyeon with an earnest gaze.</p>
+<p>Lina continued to speak to Yeehyeon with an earnest gaze.</p>
 
-<p>"Even when Ihyeon's work looks strange at first glance, that's never all there is to it. It's imbued with a warm perspective on people and a hopeful expectation that doesn't give up on the future. Schiele and Ihyeon are artists with entirely different colors."</p>
+<p>"Even when Yeehyeon's work looks strange at first glance, that's never all there is to it. It's imbued with a warm perspective on people and a hopeful expectation that doesn't give up on the future. Schiele and Yeehyeon are artists with entirely different colors."</p>
 
-<p>Liu felt grateful to her. He could have said those words to Ihyeon himself — but sometimes, one sentence from a near-stranger resonates more deeply than ten from someone very close. Everyone has had that experience.</p>
+<p>Liu felt grateful to her. He could have said those words to Yeehyeon himself — but sometimes, one sentence from a near-stranger resonates more deeply than ten from someone very close. Everyone has had that experience.</p>
 
 <p>"I feel encouraged hearing you say that. Thank you. I'll definitely think of this whenever I feel lost."</p>
 
-<p>Lina seemed genuinely moved by Ihyeon's response.</p>
+<p>Lina seemed genuinely moved by Yeehyeon's response.</p>
 
-<p>"It's an honor that you would think of me, Ihyeon."</p>
+<p>"It's an honor that you would think of me, Yeehyeon."</p>
 
 <p>"He didn't say he'd think of you. He said he'd think about what you said."</p>
 
@@ -386,7 +386,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>They asked a passing visitor to take a group photo of all four of them in front of <em>The Burghers of Calais</em>.</p>
 
-<p>After getting Ihyeon's autograph inside the novel she was carrying, Lina beamed with pure happiness, like a young girl. Faced with that unguarded smile, even Felix didn't complain this time.</p>
+<p>After getting Yeehyeon's autograph inside the novel she was carrying, Lina beamed with pure happiness, like a young girl. Faced with that unguarded smile, even Felix didn't complain this time.</p>
 
 <p>"I'll keep meeting you two a secret."</p>
 
@@ -394,7 +394,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"A secret?"</p>
 
-<p>"That Seo Ihyeon the artist looks like a popular model who usually dresses casually, or that he has a handsome boyfriend like an actor — I will absolutely, positively never tell any of our acquaintances things like that."</p>
+<p>"That Seo Yeehyeon the artist looks like a popular model who usually dresses casually, or that he has a handsome boyfriend like an actor — I will absolutely, positively never tell any of our acquaintances things like that."</p>
 
 <p>"Oh no. Please, spread the word far and wide."</p>
 
@@ -406,11 +406,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"This will be the best memory of this trip. Thank you both."</p>
 
-<p>With Lina's farewell, the four of them waved and parted ways. Lina and Felix headed into the museum for their visit, while Liu and Ihyeon walked toward the main entrance.</p>
+<p>With Lina's farewell, the four of them waved and parted ways. Lina and Felix headed into the museum for their visit, while Liu and Yeehyeon walked toward the main entrance.</p>
 
 <p>"Lina seems to have a good eye in many ways."</p>
 
-<p>Stroking his chin thoughtfully, Liu said this while giving Ihyeon, walking beside him, a serious once-over.</p>
+<p>Stroking his chin thoughtfully, Liu said this while giving Yeehyeon, walking beside him, a serious once-over.</p>
 
 <p>"A popular model who usually dresses casually... I think that's quite an accurate description."</p>
 
@@ -422,15 +422,15 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Liu bristled at the injustice of it, then immediately changed his tone and shrugged.</p>
 
-<p>"It's about 90% pride and 10% disappointment that I wish you would remain only my Seo Ihyeon."</p>
+<p>"It's about 90% pride and 10% disappointment that I wish you would remain only my Seo Yeehyeon."</p>
 
 <p>"Are you sure it's only 10% disappointment?"</p>
 
 <p>"Hmm... to be honest, maybe 50/50?"</p>
 
-<p>Ihyeon laughed as if he couldn't help it.</p>
+<p>Yeehyeon laughed as if he couldn't help it.</p>
 
-<p>When Ihyeon laughed, Liu had no choice but to laugh along.</p>
+<p>When Yeehyeon laughed, Liu had no choice but to laugh along.</p>
 
 <p>As they stepped out through the main entrance, the abundantly ripe autumn sunlight overflowed onto the street.</p>
 
@@ -438,17 +438,17 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"I thought you wanted to celebrate our last day at a nice restaurant?"</p>
 
-<p>Aware of Ihyeon's puzzled gaze, Liu took the sunglasses tucked into his left breast pocket and put them on.</p>
+<p>Aware of Yeehyeon's puzzled gaze, Liu took the sunglasses tucked into his left breast pocket and put them on.</p>
 
-<p>"Because I don't think Seo Ihyeon would allow a deep kiss at a fancy restaurant."</p>
+<p>"Because I don't think Seo Yeehyeon would allow a deep kiss at a fancy restaurant."</p>
 
 <p>"During a meal, or even at home... it's still not allowed, you know?"</p>
 
 <p>"Well, you never know if I act charming enough."</p>
 
-<p>He stopped, reaching for Ihyeon, whose face was already flushing again. Liu took Ihyeon's own sunglasses — dangling from his neckline — and placed them on his face himself. Then he found Ihyeon's hand, grasped it, and they began walking through the autumn streets of Basel.</p>
+<p>He stopped, reaching for Yeehyeon, whose face was already flushing again. Liu took Yeehyeon's own sunglasses — dangling from his neckline — and placed them on his face himself. Then he found Yeehyeon's hand, grasped it, and they began walking through the autumn streets of Basel.</p>
 
-<p>Across the intersection, the green tram they needed was waiting. The pedestrian signal had just turned. Liu, holding Ihyeon's hand, took long strides across the road diagonally.</p>
+<p>Across the intersection, the green tram they needed was waiting. The pedestrian signal had just turned. Liu, holding Yeehyeon's hand, took long strides across the road diagonally.</p>
 
 <p>They managed to catch the tram with almost no time to spare.</p>
 
@@ -458,23 +458,23 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Throughout the trip, they had slept in the same bed every night, sharing a relationship so passionate and intimate that not a single day had passed without them touching before sleep. And yet, being in a public space forced them into a kind of abstinence where they could only look at each other. Just a single step separated them.</p>
 
-<p>Liu could see in Ihyeon's eyes that he too was aware of this tension — could feel the heightened sensitivity, as if their skin had grown more susceptible to touch.</p>
+<p>Liu could see in Yeehyeon's eyes that he too was aware of this tension — could feel the heightened sensitivity, as if their skin had grown more susceptible to touch.</p>
 
-<p>Keeping his gaze fixed on Ihyeon, Liu took out his phone.</p>
+<p>Keeping his gaze fixed on Yeehyeon, Liu took out his phone.</p>
 
 <p>He activated the camera, pointing it at the subject before him.</p>
 
-<p>He had taken quite a few photos and videos of Ihyeon during this trip. Having been so constantly in front of the camera throughout their travels, Ihyeon now looked rather comfortable in front of Liu's lens.</p>
+<p>He had taken quite a few photos and videos of Yeehyeon during this trip. Having been so constantly in front of the camera throughout their travels, Yeehyeon now looked rather comfortable in front of Liu's lens.</p>
 
-<p>The autumn afternoon of Switzerland shimmered through the tram's large window. Golden sunlight mixed with orange hues caught a sparkle as it passed through the glass, falling transparently over Ihyeon's skin. On the screen, Ihyeon pursed his lips into a shy smile — but he didn't look away from the lens.</p>
+<p>The autumn afternoon of Switzerland shimmered through the tram's large window. Golden sunlight mixed with orange hues caught a sparkle as it passed through the glass, falling transparently over Yeehyeon's skin. On the screen, Yeehyeon pursed his lips into a shy smile — but he didn't look away from the lens.</p>
 
 <p>This moment of mutual acknowledgment through the lens only doubled the tension between them.</p>
 
-<p>Liu recalled a memory of visiting Hong Kong with Ihyeon.</p>
+<p>Liu recalled a memory of visiting Hong Kong with Yeehyeon.</p>
 
-<p>In a noisy bar on Soho Street, Liu had captured Ihyeon's image on camera. Ihyeon, slightly tipsy from the alcohol, had then asked to see what he'd photographed.</p>
+<p>In a noisy bar on Soho Street, Liu had captured Yeehyeon's image on camera. Yeehyeon, slightly tipsy from the alcohol, had then asked to see what he'd photographed.</p>
 
-<p><em>I'd quickly pulled my arm in the opposite direction, avoiding Ihyeon's hand as he reached for the camera — but unlike usual, he hadn't backed down easily. Ihyeon leaned in so close he was nearly falling into my arms as he gestured for it.</em></p>
+<p><em>I'd quickly pulled my arm in the opposite direction, avoiding Yeehyeon's hand as he reached for the camera — but unlike usual, he hadn't backed down easily. Yeehyeon leaned in so close he was nearly falling into my arms as he gestured for it.</em></p>
 
 <p><em>That sweet warmth of his body, mixed with the scent of sweat drifting from his nape.</em></p>
 
@@ -484,7 +484,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Why not?"</p>
 
-<p>"Seo Ihyeon, you're a fortune-teller. If you look at my photo, you'll read everything in it."</p>
+<p>"Seo Yeehyeon, you're a fortune-teller. If you look at my photo, you'll read everything in it."</p>
 
 <p>"...Read what?"</p>
 
@@ -494,9 +494,9 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p><em>A photographer's feelings for their subject seep into the photograph. The better someone is at handling a camera, the stronger that quality becomes — the same way someone skilled at painting expresses themselves more fully.</em></p>
 
-<p><em>At that time, Liu couldn't yet show his photographs to the unknown entity that was Seo Ihyeon. Because the way he was looking at him would be exposed.</em></p>
+<p><em>At that time, Liu couldn't yet show his photographs to the unknown entity that was Seo Yeehyeon. Because the way he was looking at him would be exposed.</em></p>
 
-<p><em>Ihyeon in that picture had been captivating. He looked like a mysterious stranger hiding a secret story that piqued curiosity. That was only natural — because Liu, who took the picture, was looking at Seo Ihyeon as someone attractive and mysterious.</em></p>
+<p><em>Yeehyeon in that picture had been captivating. He looked like a mysterious stranger hiding a secret story that piqued curiosity. That was only natural — because Liu, who took the picture, was looking at Seo Yeehyeon as someone attractive and mysterious.</em></p>
 
 <p><em>An unknown entity who emitted pheromones despite clearly being a Beta. One who had detected and reacted to Liu's pheromones.</em></p>
 
@@ -504,11 +504,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Now, that person was standing before him as his lover.</p>
 
-<p>Liu pressed the shutter, trapping Ihyeon in this moment within the frame of the screen.</p>
+<p>Liu pressed the shutter, trapping Yeehyeon in this moment within the frame of the screen.</p>
 
-<p>Then he reached out and lightly tapped Ihyeon's cheek with the back of his hand. Even such a small, insignificant touch turned tension into a tremor. Ihyeon's eyelashes fluttered, his lips parted slightly, and he swallowed dryly. Liu observed every one of those minute reactions.</p>
+<p>Then he reached out and lightly tapped Yeehyeon's cheek with the back of his hand. Even such a small, insignificant touch turned tension into a tremor. Yeehyeon's eyelashes fluttered, his lips parted slightly, and he swallowed dryly. Liu observed every one of those minute reactions.</p>
 
-<p>The tram took a wide right turn around Christoph-Merina Park. Ihyeon's grip tightened on the slender green pole as he steadied himself.</p>
+<p>The tram took a wide right turn around Christoph-Merina Park. Yeehyeon's grip tightened on the slender green pole as he steadied himself.</p>
 
 <p>"But why Migros today instead of Coop? Coop is closer."</p>
 
@@ -518,9 +518,9 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"You need to send a postcard to Korea."</p>
 
-<p>A subtle shift came over Ihyeon's gaze. He was touched.</p>
+<p>A subtle shift came over Yeehyeon's gaze. He was touched.</p>
 
-<p>Liu leaned forward, bringing his lips close to Ihyeon's ear.</p>
+<p>Liu leaned forward, bringing his lips close to Yeehyeon's ear.</p>
 
 <p>"What, were you hoping I'd give you a proper kiss?"</p>
 
@@ -528,9 +528,9 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>The afternoon sunlight was growing even softer, mellowing like ripe fruit. The scenery before them looked faded and warm, as if already receding into memory. Suddenly, Liu felt it was a shame to let this moment pass.</p>
 
-<p>Closing the distance of that single step, Liu moved closer to Ihyeon and wrapped an arm around his shoulder. He gently stroked Ihyeon's warm hair, which seemed to hold the sunlight.</p>
+<p>Closing the distance of that single step, Liu moved closer to Yeehyeon and wrapped an arm around his shoulder. He gently stroked Yeehyeon's warm hair, which seemed to hold the sunlight.</p>
 
-<p>Ihyeon lifted his chin to look up at Liu's face. Then he pressed a light kiss right on Liu's lips — as if reading Liu's unspoken feeling and offering quiet comfort. The lips that received the kiss tingled with happiness.</p>
+<p>Yeehyeon lifted his chin to look up at Liu's face. Then he pressed a light kiss right on Liu's lips — as if reading Liu's unspoken feeling and offering quiet comfort. The lips that received the kiss tingled with happiness.</p>
 
 <p><em>Even if this moment were to be pushed into the past, what did it matter?</em></p>
 

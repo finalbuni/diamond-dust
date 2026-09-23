@@ -217,7 +217,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He shrugged and gave me a sly look through the mirror.</p>
 
-<p>"Lucky you, Seo Ihyeon."</p>
+<p>"Lucky you, Seo Yeehyeon."</p>
 
 <p>"......"</p>
 
@@ -397,7 +397,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>At hyung's unfiltered remark, Director Liu subtly tightened the corners of his eyes and glanced over at me.</p>
 
-<p>"Ihyeon knows too. That I got stabbed and kicked out."</p>
+<p>"Yeehyeon knows too. That I got stabbed and kicked out."</p>
 
 <p>He shook his head as if he couldn't stop him.</p>
 

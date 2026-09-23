@@ -108,7 +108,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>At the sound of her voice, Manager Han finally turned around and looked toward Liu, deeper inside the exhibition hall.</p>
 
-<p>Liu had returned to Seoul earlier that year after holing himself up in his New York apartment — the one he'd had renovated so Ihyeon could live there with him.</p>
+<p>Liu had returned to Seoul earlier that year after holing himself up in his New York apartment — the one he'd had renovated so Yeehyeon could live there with him.</p>
 
 <p>At the time, he had truly looked like a wreck. Everyone around him was so shocked that they couldn't even bring themselves to ask him anything.</p>
 
@@ -142,15 +142,15 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Just as the clients had said, he seemed to be doing better. He looked like a man who had shed all the deep shadows he'd carried when he first returned from New York.</p>
 
-<p><em>Has he finally decided to forget Seo Ihyeon?</em></p>
+<p><em>Has he finally decided to forget Seo Yeehyeon?</em></p>
 
 <p>Manager Han didn't think so.</p>
 
-<p>Liu's longing for Seo Ihyeon was something far beyond rational excitement, attraction, or sexual impulse driven by pheromones.</p>
+<p>Liu's longing for Seo Yeehyeon was something far beyond rational excitement, attraction, or sexual impulse driven by pheromones.</p>
 
-<p>He loved Seo Ihyeon's artistic world, was its most fervent fan, and almost reverently admired Seo Ihyeon as a human being.</p>
+<p>He loved Seo Yeehyeon's artistic world, was its most fervent fan, and almost reverently admired Seo Yeehyeon as a human being.</p>
 
-<p>He had clearly been moved by Ihyeon's gentleness and the quiet, deeply rooted resolve beneath it — his steady persistence in trying to rise above his wounds. He had fallen in love with the inner beauty that Seo Ihyeon possessed as a person.</p>
+<p>He had clearly been moved by Yeehyeon's gentleness and the quiet, deeply rooted resolve beneath it — his steady persistence in trying to rise above his wounds. He had fallen in love with the inner beauty that Seo Yeehyeon possessed as a person.</p>
 
 <p>That kind of love cannot be washed away. It cannot be replaced by anyone else.</p>
 
@@ -204,7 +204,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p><em>And yet, a flight to Paris….</em></p>
 
-<p><em>He probably didn't go to spend time with Ihyeon. If those two had decided to get back together, there'd be no reason to keep it a secret.</em></p>
+<p><em>He probably didn't go to spend time with Yeehyeon. If those two had decided to get back together, there'd be no reason to keep it a secret.</em></p>
 
 <p><em>But if he flew to Paris for some other reason, there was no need to hide that either. Liu always let people know about long-distance travel in advance in case of an emergency at Phantom.</em></p>
 
@@ -236,7 +236,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Receiving others' interest was as common as breathing for Liu. Thus he couldn't help but become an expert at refusing it.</p>
 
-<p>"Oh, speaking of which, I heard Seo Ihyeon released another new work."</p>
+<p>"Oh, speaking of which, I heard Seo Yeehyeon released another new work."</p>
 
 <p>It happened in an instant.</p>
 
@@ -244,25 +244,25 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Ah… I'm fine. Did I startle you?"</p>
 
-<p>Someone had mentioned the name Seo Ihyeon at an unexpected moment, and it had paralyzed Liu Weikun. He had just been lifting his glass from the table and instead knocked it over with a clumsy hand. It was an uncharacteristic mistake.</p>
+<p>Someone had mentioned the name Seo Yeehyeon at an unexpected moment, and it had paralyzed Liu Weikun. He had just been lifting his glass from the table and instead knocked it over with a clumsy hand. It was an uncharacteristic mistake.</p>
 
 <p>"Oh dear, your thigh is soaked!"</p>
 
 <p>"We have spares in the office. Don't worry."</p>
 
-<p>Shaken by the name Seo Ihyeon, Liu reassured everyone with his usual smile. He roughly dabbed the champagne soaking his thigh with a napkin, then excused himself and stood up.</p>
+<p>Shaken by the name Seo Yeehyeon, Liu reassured everyone with his usual smile. He roughly dabbed the champagne soaking his thigh with a napkin, then excused himself and stood up.</p>
 
 <p>"I should wash my hands first. Please continue your conversation. Excuse me."</p>
 
 <p>Manager Han watched Liu's retreating back as he crossed the hall toward the restroom.</p>
 
-<p>No one suspected any connection between the name Seo Ihyeon and Liu's blunder. Only Manager Han, Choi Inwu, and Kwon Juhan exchanged knowing, bitter glances.</p>
+<p>No one suspected any connection between the name Seo Yeehyeon and Liu's blunder. Only Manager Han, Choi Inwu, and Kwon Juhan exchanged knowing, bitter glances.</p>
 
 <p>"I saw the article about Seo's new work too. The Colorful Ghosts series. The impact is incredible this time as well, isn't it?"</p>
 
 <p>"Seo is quite diligent for someone so young. Consistent work — that's a very important virtue for an artist."</p>
 
-<p>The woman with the white brooch, who had always held Ihyeon in high regard, nodded with a pleased expression. Behind her, someone raised a differing opinion in an excited tone.</p>
+<p>The woman with the white brooch, who had always held Yeehyeon in high regard, nodded with a pleased expression. Behind her, someone raised a differing opinion in an excited tone.</p>
 
 <p>"But the critical reception to this latest series seems sharply divided, doesn't it?"</p>
 
@@ -280,7 +280,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>The man in the horn-rimmed glasses tilted his head and asked.</p>
 
-<p>"Honestly, it was thanks to Director Liu that Seo Ihyeon could get to where he is. The Director discovered him and barely gave him a foothold, and then he just left immediately for The Hands…. Frankly, it makes him look like an opportunist."</p>
+<p>"Honestly, it was thanks to Director Liu that Seo Yeehyeon could get to where he is. The Director discovered him and barely gave him a foothold, and then he just left immediately for The Hands…. Frankly, it makes him look like an opportunist."</p>
 
 <p>Just as Jeongmin was finishing his sentence, Liu's footsteps could be heard returning. Manager Han involuntarily checked Liu's expression. It was calm and unreadable, but judging by the distance, he had certainly heard everything Jeongmin said.</p>
 
@@ -290,7 +290,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Liu shrugged in response to someone's concerned remark and sat back down. He must have heard Jeongmin's words, but seemed determined not to react to them. That was a relief.</p>
 
-<p>"Opportunist…. I've only met Seo Ihyeon a few times at Phantom, but he didn't strike me as that kind of person."</p>
+<p>"Opportunist…. I've only met Seo Yeehyeon a few times at Phantom, but he didn't strike me as that kind of person."</p>
 
 <p>"That's right. He was surprisingly gentle, given the intensity of the work he creates."</p>
 
@@ -300,17 +300,17 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Liu pretended to be indifferent to the conversation, fiddling only with the stem of his champagne glass. Then, for a brief moment, a faint smile flickered across his lips before vanishing. It was a reaction to the comparison — being called mild milk soap. It was the kind of smile that suggested he was feeling nostalgic, perhaps moved after hearing news about someone he had once loved passionately.</p>
 
-<p><em>Was he finally okay with talk of Ihyeon now?</em></p>
+<p><em>Was he finally okay with talk of Yeehyeon now?</em></p>
 
 <p><em>Had those feelings — so abnormally obsessive once — faded into memory and the past?</em></p>
 
-<p><em>Was that slip-up earlier just a coincidence, nothing to do with the name Seo Ihyeon at all?</em></p>
+<p><em>Was that slip-up earlier just a coincidence, nothing to do with the name Seo Yeehyeon at all?</em></p>
 
 <p>"You can't know what someone is like just by looking at their outward appearance."</p>
 
 <p>Regardless of what others said, Jeongmin held firm in his opinion.</p>
 
-<p><em>Since Jeongmin only became a client of Phantom after Ihyeon had left for Paris, he wouldn't have had the chance to suspect anything was going on between Liu and Ihyeon. Was he genuinely misunderstanding Ihyeon's departure — and not just acting out of jealousy?</em></p>
+<p><em>Since Jeongmin only became a client of Phantom after Yeehyeon had left for Paris, he wouldn't have had the chance to suspect anything was going on between Liu and Yeehyeon. Was he genuinely misunderstanding Yeehyeon's departure — and not just acting out of jealousy?</em></p>
 
 <p>"That might be true, too."</p>
 
@@ -322,7 +322,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Jeongmin's assertiveness was slowly making the atmosphere awkward. Kwon Juhan, quick to notice this, slyly worked his way into the conversation with his characteristic easygoing manner.</p>
 
-<p>"Hey, don't put it so strongly. Seo Ihyeon received that offer because he had the talent, and it was the Director himself who practically pushed him toward that opportunity to gain experience."</p>
+<p>"Hey, don't put it so strongly. Seo Yeehyeon received that offer because he had the talent, and it was the Director himself who practically pushed him toward that opportunity to gain experience."</p>
 
 <p>At the end of Juhan's remark, Jeongmin looked over at Liu, seated across from him. The indifferent man was sipping champagne, not even sparing Jeongmin a glance.</p>
 
@@ -342,9 +342,9 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"It's because you, Director, are too generous and lenient that you were taken advantage of. That was an opportunity that wouldn't have existed without you in the first place — there's a limit to how ungrateful one can be."</p>
 
-<p>"No, I mean, Ihyeon — Seo Ihyeon didn't betray anyone."</p>
+<p>"No, I mean, Yeehyeon — Seo Yeehyeon didn't betray anyone."</p>
 
-<p>Kwon Juhan stood awkwardly, not knowing what to do, glancing at Liu. But Jeongmin, convinced that Liu had been betrayed by Seo Ihyeon, only intensified the criticism. It was his way of defending Liu.</p>
+<p>Kwon Juhan stood awkwardly, not knowing what to do, glancing at Liu. But Jeongmin, convinced that Liu had been betrayed by Seo Yeehyeon, only intensified the criticism. It was his way of defending Liu.</p>
 
 <p>"Everyone was fooled by that demure appearance. In reality, he was more of a fox than anyone  — "</p>
 
@@ -356,7 +356,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"The opposite?"</p>
 
-<p>"Perhaps Seo Ihyeon didn't use me — but rather, I committed a terrible sin against Seo Ihyeon that left him no choice but to leave."</p>
+<p>"Perhaps Seo Yeehyeon didn't use me — but rather, I committed a terrible sin against Seo Yeehyeon that left him no choice but to leave."</p>
 
 <p>"How could that be? What fault could someone like you possibly have committed against such a rookie artist? Someone who goes around stabbing people in the back with that innocent face, knowing nothing  — "</p>
 
@@ -380,7 +380,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"I know. Such a composed person…."</p>
 
-<p>"The Director must have had too much to drink today. You know how much he cares for his artists. He didn't part badly with Ihyeon — I mean, with Seo — but perhaps he got heated because of the constant misunderstandings."</p>
+<p>"The Director must have had too much to drink today. You know how much he cares for his artists. He didn't part badly with Yeehyeon — I mean, with Seo — but perhaps he got heated because of the constant misunderstandings."</p>
 
 <p>While Juhan skillfully calmed the other patrons, Manager Han called the event staff over to clean up. Meanwhile, the two men were halfway down the marble staircase, its curve sweeping elegantly.</p>
 
@@ -394,4 +394,4 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p><em>He hadn't forgotten that man, nor did he have any intention of forgetting him.</em></p>
 
-<p><em>He might look fine on the outside, but it was clear he was bleeding somewhere no one could see, carrying a serious internal wound. His heart wasn't here. In this place without Ihyeon, he was merely wandering like a ghost.</em></p>
+<p><em>He might look fine on the outside, but it was clear he was bleeding somewhere no one could see, carrying a serious internal wound. His heart wasn't here. In this place without Yeehyeon, he was merely wandering like a ghost.</em></p>

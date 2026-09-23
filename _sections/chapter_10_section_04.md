@@ -59,7 +59,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Seeing him up close, his eyes were completely different from the Director's. His weren't that distinct, mineral-like blue, but something more precarious and delicate, as if they might vanish at any moment… like seafoam, or… yes, like a ghost…</p>
 
-<p>"Seo Ihyeon."</p>
+<p>"Seo Yeehyeon."</p>
 
 <p>At the sound of my name called from behind, I turned around immediately, as though my head had been pulled.</p>
 

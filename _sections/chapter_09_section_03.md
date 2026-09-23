@@ -83,11 +83,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>I lifted my head and looked at Manager Han's profile.</p>
 
-<p>"A desperate, tenacious, and consistent drive to keep painting no matter what happens. You need that to break through a certain point and shine... and I clearly saw that kind of energy in eleven-year-old Seo Ihyeon."</p>
+<p>"A desperate, tenacious, and consistent drive to keep painting no matter what happens. You need that to break through a certain point and shine... and I clearly saw that kind of energy in eleven-year-old Seo Yeehyeon."</p>
 
 <p>Manager Han's face slowly turned toward me as well.</p>
 
-<p>"You can eat, breathe — yes, do all of those things — without painting. You won't die. You know that's not what I'm talking about, Ihyeon. I just want you to think honestly about whether painting is necessary for you to live — not as just one among countless people, but as the unique Seo Ihyeon, with your own individuality. Only that. Before it gets any later."</p>
+<p>"You can eat, breathe — yes, do all of those things — without painting. You won't die. You know that's not what I'm talking about, Yeehyeon. I just want you to think honestly about whether painting is necessary for you to live — not as just one among countless people, but as the unique Seo Yeehyeon, with your own individuality. Only that. Before it gets any later."</p>
 
 <p>Looking honestly at oneself.</p>
 

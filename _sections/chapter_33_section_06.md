@@ -12,33 +12,33 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 ---
 <p>Yuni did most of the storytelling about the proposal. Though the couple themselves were present, they were either reluctant to recount it or simply too shy — and the guests were eager to hear it. So someone who had heard the story firsthand had no choice but to step in.</p>
 
-<p>Revisiting the memory of that day through a third party's telling, Liu and Ihyeon found they were holding each other's hands without either of them having consciously reached out first.</p>
+<p>Revisiting the memory of that day through a third party's telling, Liu and Yeehyeon found they were holding each other's hands without either of them having consciously reached out first.</p>
 
 <p>The proposal had been roughly five months ago. Those past five months had been filled with a sweeter anticipation than anything before. And yet they had also been a painful stretch in which time seemed to drag slower than ever.</p>
 
 <p>"So you were both secretly preparing to propose on the exact same day?"</p>
 
-<p>Shushu said this to the two of them with a moved expression. Ihyeon glanced sideways at Liu, his face faintly flushed, and replied,</p>
+<p>Shushu said this to the two of them with a moved expression. Yeehyeon glanced sideways at Liu, his face faintly flushed, and replied,</p>
 
 <p>"It just... happened... by chance..."</p>
 
 <p>"It couldn't have been by chance. How could you both arrive at the same thought on the same day? You two are simply destined."</p>
 
-<p>Shushu seemed to want to believe that some kind of telepathy had passed between them — but there had been a clear catalyst. The incident where Ihyeon had run after the car had shaken them both and set everything in motion. They preferred to keep those particular details to themselves.</p>
+<p>Shushu seemed to want to believe that some kind of telepathy had passed between them — but there had been a clear catalyst. The incident where Yeehyeon had run after the car had shaken them both and set everything in motion. They preferred to keep those particular details to themselves.</p>
 
-<p>"Even as someone who doesn't believe in fate or destiny, there is something uncanny about the relationship between the Director and Ihyeon."</p>
+<p>"Even as someone who doesn't believe in fate or destiny, there is something uncanny about the relationship between the Director and Yeehyeon."</p>
 
 <p>All eyes turned back to Yuni.</p>
 
-<p>"It's extremely rare for someone to manifest after already becoming an adult — something like a 3% chance, wasn't it? And yet Ihyeon manifested after meeting the Director. That 3%. On its own, that's not ordinary. It's like a sign from the heavens — <em>get married, start a family, have children</em>."</p>
+<p>"It's extremely rare for someone to manifest after already becoming an adult — something like a 3% chance, wasn't it? And yet Yeehyeon manifested after meeting the Director. That 3%. On its own, that's not ordinary. It's like a sign from the heavens — <em>get married, start a family, have children</em>."</p>
 
-<p>As Yuni understood, and as most of the people here knew, Ihyeon had not manifested naturally as an Omega. Liu's grip on Ihyeon's hand tightened. He looked down at him and gave a faint smile — a complex smile whose full meaning only Ihyeon, only Diamond Dust, could truly read.</p>
+<p>As Yuni understood, and as most of the people here knew, Yeehyeon had not manifested naturally as an Omega. Liu's grip on Yeehyeon's hand tightened. He looked down at him and gave a faint smile — a complex smile whose full meaning only Yeehyeon, only Diamond Dust, could truly read.</p>
 
-<p>Very few people in the world knew that Liu was Ghost and Ihyeon was Diamond Dust. Even Shushu and Manager Han only knew that Liu was Ghost.</p>
+<p>Very few people in the world knew that Liu was Ghost and Yeehyeon was Diamond Dust. Even Shushu and Manager Han only knew that Liu was Ghost.</p>
 
 <p>Choi Inwu — one of the very few who knew the whole truth — glanced briefly at the two of them.</p>
 
-<p>"If Ihyeon hadn't become an Omega, at least a legal marriage between the two of you would have been impossible in Korea."</p>
+<p>"If Yeehyeon hadn't become an Omega, at least a legal marriage between the two of you would have been impossible in Korea."</p>
 
 <p>"Exactly. And on top of that, you two overcame a notoriously difficult long-distance relationship. Believe it or not, the odds of a long-distance relationship succeeding are said to be 50 to 70% lower than for conventional ones."</p>
 
@@ -52,15 +52,15 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Liu agreed immediately.</p>
 
-<p>"You held back because you wanted to make a good impression on Ihyeon?"</p>
+<p>"You held back because you wanted to make a good impression on Yeehyeon?"</p>
 
 <p>"This person right here can't stand irresponsible men."</p>
 
-<p>Liu held up the hand joined with Ihyeon's and shrugged. Light laughter moved through the group, and for a brief moment, Choi Inwu's gaze drifted to Ihyeon's left hand — the one holding Liu's right. The simple couple ring was still there.</p>
+<p>Liu held up the hand joined with Yeehyeon's and shrugged. Light laughter moved through the group, and for a brief moment, Choi Inwu's gaze drifted to Yeehyeon's left hand — the one holding Liu's right. The simple couple ring was still there.</p>
 
 <p>"But surely he didn't propose with just one bouquet. <em>That</em> would be irresponsible."</p>
 
-<p>"Would the Director do something like that? This is Liu Weikun. Ihyeon received a diamond."</p>
+<p>"Would the Director do something like that? This is Liu Weikun. Yeehyeon received a diamond."</p>
 
 <p>"A diamond?"</p>
 
@@ -92,7 +92,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Kwon Juhan slapped his knee and burst out laughing.</p>
 
-<p>"That's brutal — genuinely brutal. I know perfectly well the Director was prickly before he met Ihyeon, but this is something else entirely. Didn't anyone throw hands?"</p>
+<p>"That's brutal — genuinely brutal. I know perfectly well the Director was prickly before he met Yeehyeon, but this is something else entirely. Didn't anyone throw hands?"</p>
 
 <p>Manager Han chuckled and nodded.</p>
 
@@ -116,7 +116,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Your memory for these things is remarkable."</p>
 
-<p>"Even though it's three carats smaller than Beyoncé's, what Ihyeon received was a blue diamond — which is rarer and more expensive than white. Which means it's worth at least five million dollars, possibly more. You expect me <em>not</em> to shout?"</p>
+<p>"Even though it's three carats smaller than Beyoncé's, what Yeehyeon received was a blue diamond — which is rarer and more expensive than white. Which means it's worth at least five million dollars, possibly more. You expect me <em>not</em> to shout?"</p>
 
 <p>"My, look who's become a great detective."</p>
 
@@ -126,17 +126,17 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Ben and Jun, following the conversation through the delayed translations of the Koreans around them, had gone pale. They had caught enough to understand what was being said about the price. Jun, in particular, looked almost frightened.</p>
 
-<p>Liu immediately checked Ihyeon's expression. As expected, Ihyeon looked uncomfortable. Liu wrapped an arm around his shoulder and gave it a reassuring stroke. Meeting Ihyeon's eyes when he looked up, Liu offered a calm smile.</p>
+<p>Liu immediately checked Yeehyeon's expression. As expected, Yeehyeon looked uncomfortable. Liu wrapped an arm around his shoulder and gave it a reassuring stroke. Meeting Yeehyeon's eyes when he looked up, Liu offered a calm smile.</p>
 
-<p>Kwon Juhan, momentarily pausing his bickering with Yuni, looked back and forth between Ihyeon and Liu with a puzzled expression.</p>
+<p>Kwon Juhan, momentarily pausing his bickering with Yuni, looked back and forth between Yeehyeon and Liu with a puzzled expression.</p>
 
-<p>"But where would Ihyeon even wear a fifteen-carat diamond? A ring the size of a fist doesn't suit him at all."</p>
+<p>"But where would Yeehyeon even wear a fifteen-carat diamond? A ring the size of a fist doesn't suit him at all."</p>
 
 <p>"It's not a ring — it's a necklace."</p>
 
 <p>Yuni replied.</p>
 
-<p>"A diamond necklace for Ihyeon? Shouldn't he be wearing an evening gown or something?"</p>
+<p>"A diamond necklace for Yeehyeon? Shouldn't he be wearing an evening gown or something?"</p>
 
 <p>Kwon Juhan chuckled to himself, apparently picturing it. Yuni, frowning, jabbed him in the ribs with her elbow.</p>
 
@@ -148,21 +148,21 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"It was my mother's. A gift from my father on their twentieth wedding anniversary."</p>
 
-<p>At least the people gathered here weren't the type to gossip about the price of a wedding gift. They were also close enough that there was little to hide. It would have been better if Kwon Juhan hadn't brought up the five-million figure — but at this point, Liu felt it was better to explain it himself, if only for Ihyeon's sake.</p>
+<p>At least the people gathered here weren't the type to gossip about the price of a wedding gift. They were also close enough that there was little to hide. It would have been better if Kwon Juhan hadn't brought up the five-million figure — but at this point, Liu felt it was better to explain it himself, if only for Yeehyeon's sake.</p>
 
 <p>"Oh... that truly does carry something in it."</p>
 
 <p>The playfulness left Kwon Juhan's face. He grimaced and rubbed the back of his neck, visibly embarrassed by his earlier fixation on the diamond's value.</p>
 
-<p>"The moment I decided I had to propose, that necklace was all I could think about. When I told my mother I wanted to propose to Ihyeon with that diamond, she agreed right away — right there and then. She was genuinely happy."</p>
+<p>"The moment I decided I had to propose, that necklace was all I could think about. When I told my mother I wanted to propose to Yeehyeon with that diamond, she agreed right away — right there and then. She was genuinely happy."</p>
 
-<p>Upon hearing Liu's decision, Suki Kim had immediately contacted a specialized high-value security and delivery service and had the necklace shipped to Paris. In the early hours of the following morning — Paris time — while Ihyeon was sleeping, Liu retrieved the necklace safely. After returning from the walk, he presented it and formally reaffirmed his proposal.</p>
+<p>Upon hearing Liu's decision, Suki Kim had immediately contacted a specialized high-value security and delivery service and had the necklace shipped to Paris. In the early hours of the following morning — Paris time — while Yeehyeon was sleeping, Liu retrieved the necklace safely. After returning from the walk, he presented it and formally reaffirmed his proposal.</p>
 
 <p>The mood among the guests shifted. Interest moved away from the diamond's price and toward the story it carried.</p>
 
 <p>"Ah, so you even proposed with your mother's diamond? Isn't that precisely the kind of sentimental, old-fashioned gesture you used to find so distasteful?"</p>
 
-<p>Only Choi Inwu kept at it, still cheerfully merciless. He appeared to have resolved to tease Liu thoroughly for the entire day. If that was part of the price of Ihyeon becoming his partner, Liu was more than willing to pay it. Nothing seemed capable of ruining his mood today.</p>
+<p>Only Choi Inwu kept at it, still cheerfully merciless. He appeared to have resolved to tease Liu thoroughly for the entire day. If that was part of the price of Yeehyeon becoming his partner, Liu was more than willing to pay it. Nothing seemed capable of ruining his mood today.</p>
 
 <p>Liu nodded with a smile that conceded the point gracefully.</p>
 
@@ -188,7 +188,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"There's less than thirty minutes until the ceremony!"</p>
 
-<p>The guests were more flushed and excited than the couple themselves. Liu set Ihyeon's glass on the table and led him by the hand toward the main building of 'Phantom,' where the ceremony would take place.</p>
+<p>The guests were more flushed and excited than the couple themselves. Liu set Yeehyeon's glass on the table and led him by the hand toward the main building of 'Phantom,' where the ceremony would take place.</p>
 
 <p>The sight of the two of them — dressed in their formal attire, walking hand in hand — made it feel as though the wedding had already begun. Everyone gathered here had witnessed the full history of their love. It was a love strong enough to stand on its own even without a legal seal — and every person there believed without reservation that these two deserved to be recognized as each other's partners. Even Choi Inwu, who had been teasing Liu relentlessly all day, felt exactly that.</p>
 
@@ -214,9 +214,9 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p><em>A diamond is forever.</em></p>
 
-<p>As the words left his mouth, Choi Inwu realized something. No matter how thoroughly Liu Weikun had been undone by love, the object of that love was Ihyeon. Ihyeon wasn't someone whose sincerity needed proving with a diamond. So why a diamond, then?</p>
+<p>As the words left his mouth, Choi Inwu realized something. No matter how thoroughly Liu Weikun had been undone by love, the object of that love was Yeehyeon. Yeehyeon wasn't someone whose sincerity needed proving with a diamond. So why a diamond, then?</p>
 
-<p>The reason was Seo Ihyeon.</p>
+<p>The reason was Seo Yeehyeon.</p>
 
 <p>Lifting his glass to conceal his expression, Choi Inwu smiled — not in the teasing way he had all afternoon, but with something quieter behind it.</p>
 

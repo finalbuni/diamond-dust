@@ -137,7 +137,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>And yet he had gone to the trouble of preparing lingerie like this...</p>
 
-<p>Whatever hyung and nuna might have said — though they were aiming at Inwu hyung, not him — regardless of experience or age, it wasn't <em>innocent, unsuspecting Seo Ihyeon</em> being swept away by the atmosphere or technique orchestrated by a seasoned hand.</p>
+<p>Whatever hyung and nuna might have said — though they were aiming at Inwu hyung, not him — regardless of experience or age, it wasn't <em>innocent, unsuspecting Seo Yeehyeon</em> being swept away by the atmosphere or technique orchestrated by a seasoned hand.</p>
 
 <p>I had wanted it first.</p>
 
@@ -221,7 +221,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Cutting me off with an exaggerated, joking tone, he pinched the edge of the underwear between just his index finger and thumb and slowly lifted it. The underwear in his hand looked several times more... risqué than it had inside the box.</p>
 
-<p>"If I saw Seo Ihyeon wearing this, I think I'd be completely cured."</p>
+<p>"If I saw Seo Yeehyeon wearing this, I think I'd be completely cured."</p>
 
 <p>"......"</p>
 
@@ -409,7 +409,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>While he licked the hand that had just been between my legs, his other hand stroked my waist with a softness and tenderness that seemed to belong to an entirely different person. His voice, slightly roughened and husky, was thick and sweet, like honey soaked through with moisture.</p>
 
-<p>"I think my cold is completely gone. What about you, Seo Ihyeon?"</p>
+<p>"I think my cold is completely gone. What about you, Seo Yeehyeon?"</p>
 
 <p>The ambiguous words — which I seemed to understand and yet not understand at all — made me turn my head to look down at his face. His nose was near my lips, and the moment he tilted his chin the way he was doing now, it was exactly the right angle for a kiss.</p>
 
@@ -447,7 +447,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"......"</p>
 
-<p>"I see. So Seo Ihyeon likes it when I hurt him, but only the sexually painful kind. I'll keep that in mind from now on."</p>
+<p>"I see. So Seo Yeehyeon likes it when I hurt him, but only the sexually painful kind. I'll keep that in mind from now on."</p>
 
 <p>He seemed to be trying to change the subject, but I didn't need an answer badly enough to press for one.</p>
 
@@ -543,7 +543,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Below his knees felt like a swamp crawling with crocodiles, and his neck was the branch I grabbed just before falling — I clung to him desperately and thrashed. Saliva I couldn't swallow fast enough spilled from the corners of my mouth because his tongue was blocking my throat, but I couldn't even think about wiping it away.</p>
 
-<p>"How does it feel, taking in more of my scent? What happens to you when we kiss — what happens to Seo Ihyeon?"</p>
+<p>"How does it feel, taking in more of my scent? What happens to you when we kiss — what happens to Seo Yeehyeon?"</p>
 
 <p>Biting at the edge of my panting jaw, urging me to answer, he no longer pretended to be at ease even in his tone. There was no steady calm or rational composure left in the eyes looking up at me. It was the face of a man — no, an Alpha — whose every value had been subordinated to desire.</p>
 
@@ -601,19 +601,19 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Without any conscious effort on my part, my inner walls contracted and clenched tightly around his fingers. I pressed my hand over my mouth and trembled from the stimulation.</p>
 
-<p>"Seo Ihyeon..."</p>
+<p>"Seo Yeehyeon..."</p>
 
 <p>The voice calling my name sounded like someone possessed. My eyes, looking down at him from behind my covered mouth, were wet with desire held back too long.</p>
 
-<p>"Seo Ihyeon..."</p>
+<p>"Seo Yeehyeon..."</p>
 
 <p>After murmuring my name once more, he slowly began to thrust from a seated position, increasing the speed of the penetration. I wanted him so badly it had started to ache in my gut.</p>
 
 <p>The vibrations of him rocking me, seated on his lap, grew faster and more violent. He ducked his head under my arm and bit at my nipple through my T-shirt, driving into me relentlessly. Now, he seemed the more desperate of the two of us.</p>
 
-<p><em>Seo Ihyeon, Seo Ihyeon, Seo Ihyeon...</em></p>
+<p><em>Seo Yeehyeon, Seo Yeehyeon, Seo Yeehyeon...</em></p>
 
-<p>As if chanting an incantation to ward off some disaster, he kept murmuring my name — and with a final, low "Fuck, Seo Ihyeon," he pulled his fingers out of me.</p>
+<p>As if chanting an incantation to ward off some disaster, he kept murmuring my name — and with a final, low "Fuck, Seo Yeehyeon," he pulled his fingers out of me.</p>
 
 <p>Still seated, he lifted me from behind and laid me down on the bench. The moment my back touched the angled end — set at sixty degrees — he pushed my thighs upward, lowered himself, and buried his face between my legs.</p>
 
@@ -649,11 +649,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He shook his head firmly, forehead still pressed to mine. Between small kisses he scattered over me, he managed to continue with difficulty.</p>
 
-<p>"No. You're doing too well... Seo Ihyeon, you're doing so well, you do everything well... You haven't done anything wrong. You're just... too good. What am I supposed to do? Because Seo Ihyeon is so good?"</p>
+<p>"No. You're doing too well... Seo Yeehyeon, you're doing so well, you do everything well... You haven't done anything wrong. You're just... too good. What am I supposed to do? Because Seo Yeehyeon is so good?"</p>
 
 <p>And then our lips pressed together a little more deeply at last, and from below, his cock began to push inside, opening the way.</p>
 
-<p>"Look at this. See how well Seo Ihyeon is doing."</p>
+<p>"Look at this. See how well Seo Yeehyeon is doing."</p>
 
 <p>He narrowed his eyes and smiled.</p>
 
@@ -673,13 +673,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He lifted my wrist. Even after stopping me, his gaze stayed fixed below. He gave a faint smile and shook his head, having gently explained the appeal of the scene — the ribbon hanging precariously below my pelvis, the strap pushed aside, and his cock moving in and out through the opening.</p>
 
-<p>"Just looking at it... I'm going to come right away. Seo Ihyeon, what is there that doesn't suit you?"</p>
+<p>"Just looking at it... I'm going to come right away. Seo Yeehyeon, what is there that doesn't suit you?"</p>
 
 <p>"My name..."</p>
 
 <p>"......"</p>
 
-<p>"Like before, just... ah, just say, Seo Ihyeon..."</p>
+<p>"Like before, just... ah, just say, Seo Yeehyeon..."</p>
 
 <p>I gasped out the words, barely managing to get them out as my breath kept catching. He watched me with careful eyes, then gave a soft smile.</p>
 
@@ -689,7 +689,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>I nodded toward him as he twisted his hips, dragging his pubic hair against the rim of my hole. His upper body pressed a little closer, and he kissed my cheek.</p>
 
-<p>"Seo Ihyeon, do you like my scent?"</p>
+<p>"Seo Yeehyeon, do you like my scent?"</p>
 
 <p>His voice was slightly different this time — coaxing, soothing. I nodded in answer. While his lips scattered delicate kisses across my cheek and he whispered sweetly in my ear, below, his hips stayed deeply pressed against mine, the shallow, slick grinding continuing.</p>
 
@@ -705,7 +705,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>All the screws in my head had come loose — I could think of nothing but sex, his cock and the penetration, the erection that never faded, and the knotting that would feel like it was going to burst me open from inside. I confessed it all in a broken, stumbling voice.</p>
 
-<p>"When you suck my saliva you want to be knotted, don't you? Should we? Should we knot again today? Seo Ihyeon, you love getting knotted."</p>
+<p>"When you suck my saliva you want to be knotted, don't you? Should we? Should we knot again today? Seo Yeehyeon, you love getting knotted."</p>
 
 <p>Every time he thrust, the slick fluid met the air and the wet, sticky friction filled the room with sounds that made me dizzy. I wrapped my arms around his neck and bit my lower lip, and he lunged forward and caught my lip in his teeth. Then, changing his approach, he murmured as if pleading.</p>
 
@@ -737,7 +737,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Whether it was another surge of his copious pre-cum or something else, a thick wave flooded the inside of me. He furrowed his brow, his broad shoulders shuddering. The penetration was no longer shallow in-and-out thrusting — it was full withdrawals followed by single, heavy, driving impacts, one after another.</p>
 
-<p>"If I only kiss and have sex with Seo Ihyeon... can I keep knotting you? Can I keep doing this with Seo Ihyeon?"</p>
+<p>"If I only kiss and have sex with Seo Yeehyeon... can I keep knotting you? Can I keep doing this with Seo Yeehyeon?"</p>
 
 <p>Even held by him, the bench shook — but neither of us had any presence of mind to care.</p>
 
@@ -843,7 +843,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>After that vague thought, what reached my ears was my name, repeated like a devout prayer.</p>
 
-<p><em>Seo Ihyeon, Seo Ihyeon...</em></p>
+<p><em>Seo Yeehyeon, Seo Yeehyeon...</em></p>
 
 <p>He held my hand and kissed the back of it several times as he called my name. This was far better to hear than any apology.</p>
 
@@ -907,13 +907,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>While clients and artists were exceptions, sometimes those habits extended even to them. He would compromise for business, but acting endlessly accommodating purely for business wasn't his style either. He had his own lines.</p>
 
-<p>Since he had shown interest in Ihyeon from the very beginning, while pretending to be indifferent, it wasn't surprising to her that he held a somewhat special interest in Ihyeon — whether as a fellow artist or for more personal reasons.</p>
+<p>Since he had shown interest in Yeehyeon from the very beginning, while pretending to be indifferent, it wasn't surprising to her that he held a somewhat special interest in Yeehyeon — whether as a fellow artist or for more personal reasons.</p>
 
-<p>"Seo Ihyeon..."</p>
+<p>"Seo Yeehyeon..."</p>
 
 <p>"......"</p>
 
-<p>No sooner had she taken a second bite of her sandwich than Ihyeon's name came up again.</p>
+<p>No sooner had she taken a second bite of her sandwich than Yeehyeon's name came up again.</p>
 
 <p>"When Manager Han was teaching him before — did you see talent in him even then?"</p>
 
@@ -927,9 +927,9 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Whether he was fully aware of it himself or not, he had certainly been doing things lately that were unlike him.</p>
 
-<p>"These are the 'practice' sketches Seo Ihyeon drew after moving to my place. Take a look, if you would."</p>
+<p>"These are the 'practice' sketches Seo Yeehyeon drew after moving to my place. Take a look, if you would."</p>
 
-<p>From this point on, it was a part of Ihyeon's story she hadn't known. She too was curious about what Ihyeon had been drawing at twenty-two.</p>
+<p>From this point on, it was a part of Yeehyeon's story she hadn't known. She too was curious about what Yeehyeon had been drawing at twenty-two.</p>
 
 <p>She set down the sandwich, wiped her hands on a tissue, carefully suppressed the rare flutter of excitement rising in her chest, and picked up the sketchbook.</p>
 
@@ -937,11 +937,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>What she held in her hands was not easy magic born of innate talent. These were the results of faithful hours — days spent moving a hand across paper honestly, without lying to the act of drawing.</p>
 
-<p>"When I parted ways with Ihyeon, he had just turned twelve. Even then, he had frightening technical skill for his age — but not like this..."</p>
+<p>"When I parted ways with Yeehyeon, he had just turned twelve. Even then, he had frightening technical skill for his age — but not like this..."</p>
 
-<p>Even if he had set down his brush immediately after winning for <em>Alienation</em>, the calculation showed that Ihyeon had continued drawing for nearly five more years after they separated. Given the diligence she knew him to possess, if he had drawn for five more years, reaching the level of the sketches she was now looking at was entirely believable.</p>
+<p>Even if he had set down his brush immediately after winning for <em>Alienation</em>, the calculation showed that Yeehyeon had continued drawing for nearly five more years after they separated. Given the diligence she knew him to possess, if he had drawn for five more years, reaching the level of the sketches she was now looking at was entirely believable.</p>
 
-<p>"Seo Ihyeon stopping his painting... it wasn't a matter of him naturally drifting away from it over time, was it?"</p>
+<p>"Seo Yeehyeon stopping his painting... it wasn't a matter of him naturally drifting away from it over time, was it?"</p>
 
 <p>She slowly turned the pages one by one, then looked up at him across from her.</p>
 
@@ -963,17 +963,17 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>She couldn't disagree with that.</p>
 
-<p>Some of the sketches were so precise they were nearly photorealistic; some of the croquis were filled with unpredictably fresh expressiveness — but Ihyeon's paintings lacked the voice of the person who had made them, the very thing that had once sent a shiver down her spine.</p>
+<p>Some of the sketches were so precise they were nearly photorealistic; some of the croquis were filled with unpredictably fresh expressiveness — but Yeehyeon's paintings lacked the voice of the person who had made them, the very thing that had once sent a shiver down her spine.</p>
 
-<p>To her — who knew the Ihyeon of the past — these sketches were like a child refusing to speak.</p>
+<p>To her — who knew the Yeehyeon of the past — these sketches were like a child refusing to speak.</p>
 
-<p>"For anyone else, perhaps. But for Seo Ihyeon, this isn't painting. Because he isn't telling his own story at all."</p>
+<p>"For anyone else, perhaps. But for Seo Yeehyeon, this isn't painting. Because he isn't telling his own story at all."</p>
 
-<p>She had recognized his exceptional insight into art and artists since their time working together in Hong Kong, but she couldn't help being surprised that he could read an artist he had encountered through only one work to this extent. She wondered if it was an ability that only manifested because the subject was Seo Ihyeon — but there was no way to confirm it.</p>
+<p>She had recognized his exceptional insight into art and artists since their time working together in Hong Kong, but she couldn't help being surprised that he could read an artist he had encountered through only one work to this extent. She wondered if it was an ability that only manifested because the subject was Seo Yeehyeon — but there was no way to confirm it.</p>
 
 <p>Feeling momentarily disoriented, she looked up as his face — half-hidden behind sunglasses — turned toward her.</p>
 
-<p>"Seo Ihyeon — why did he stop painting?"</p>
+<p>"Seo Yeehyeon — why did he stop painting?"</p>
 
 <p>He was wearing dark sunglasses, but up close, the faint outline of his eyes was visible.</p>
 
@@ -987,7 +987,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He took a deep drag of his cigarette, offering a thin excuse for the string of uncharacteristic behaviors he had been displaying.</p>
 
-<p>"The paintings are Seo Ihyeon's work... So does Director Liu need information about why Ihyeon stopped painting in the past? To the point of asking me instead of him?"</p>
+<p>"The paintings are Seo Yeehyeon's work... So does Director Liu need information about why Yeehyeon stopped painting in the past? To the point of asking me instead of him?"</p>
 
 <p>"......"</p>
 
@@ -1003,11 +1003,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He paused, took a short, deep drag, and tapped the ash with a slightly restless gesture.</p>
 
-<p>"Seo Ihyeon has no idea what an extraordinary talent he possesses. Or perhaps he knows, but simply doesn't care. His relative standing doesn't matter to him. He made the difficult decision to reclaim painting — which was his language and his identity — and through that, he simply wants to exist as himself once more. He isn't crying to anyone; he's trying to rise on his own, even if it takes a long time, and he believes that is the only way to repay the people who helped him..."</p>
+<p>"Seo Yeehyeon has no idea what an extraordinary talent he possesses. Or perhaps he knows, but simply doesn't care. His relative standing doesn't matter to him. He made the difficult decision to reclaim painting — which was his language and his identity — and through that, he simply wants to exist as himself once more. He isn't crying to anyone; he's trying to rise on his own, even if it takes a long time, and he believes that is the only way to repay the people who helped him..."</p>
 
-<p>Whether he was fully aware of it himself or not, the words he was pouring out without hesitation were proof of how long and how seriously he had observed and thought about Ihyeon.</p>
+<p>Whether he was fully aware of it himself or not, the words he was pouring out without hesitation were proof of how long and how seriously he had observed and thought about Yeehyeon.</p>
 
-<p>It sounded almost like a confession — that Liu Weikun himself was struggling, caught in the storm being wielded by Seo Ihyeon, a young light who seemed unaware of his own impact.</p>
+<p>It sounded almost like a confession — that Liu Weikun himself was struggling, caught in the storm being wielded by Seo Yeehyeon, a young light who seemed unaware of his own impact.</p>
 
 <p>"If it's to help him find his voice through his painting... I thought I needed to know everything, including his past. Of course, if Manager Han judged it was not hers to share... I couldn't force her to."</p>
 
@@ -1027,7 +1027,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>This unfamiliar side of him — hesitant, almost afraid, in the face of another person's past — made her uneasy in a way she hadn't expected. Discovering a new facet of a close acquaintance she thought she knew well often brought more bewilderment than novelty.</p>
 
-<p>The thought that his interest in Ihyeon might be deeper and heavier than she had imagined made her wet her lower lip. She wasn't sure whether to welcome it or be wary of it.</p>
+<p>The thought that his interest in Yeehyeon might be deeper and heavier than she had imagined made her wet her lower lip. She wasn't sure whether to welcome it or be wary of it.</p>
 
 <p>With his naturally exceptional looks, intelligence, and background, he had lived a life where desperation was never necessary to obtain what he wanted.</p>
 
@@ -1037,17 +1037,17 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>And yet, Liu Weikun was now revealing his anxiety — worrying over something that might have happened to a twenty-two-year-old affiliated artist.</p>
 
-<p>His demeanor suggested he would kneel right there if it meant hearing that nothing had happened to Ihyeon, and the pity of it nearly made her open her mouth. But thinking of Ihyeon, she couldn't. If Ihyeon had not told him, or could not tell him, there was a reason — one that belonged to Ihyeon alone.</p>
+<p>His demeanor suggested he would kneel right there if it meant hearing that nothing had happened to Yeehyeon, and the pity of it nearly made her open her mouth. But thinking of Yeehyeon, she couldn't. If Yeehyeon had not told him, or could not tell him, there was a reason — one that belonged to Yeehyeon alone.</p>
 
 <p>She let out a small sigh and shook her head.</p>
 
-<p>"It would be best to hear that directly from Ihyeon. That way there won't be any trouble between the two of you afterward."</p>
+<p>"It would be best to hear that directly from Yeehyeon. That way there won't be any trouble between the two of you afterward."</p>
 
-<p>"You can't even answer that much? Manager Han, you know how close-lipped Seo Ihyeon is. Who knows how much longer it will be before I hear what happened from his mouth directly... You want me to carry this weight until then? Manager Han, don't do this. You can answer at least that much."</p>
+<p>"You can't even answer that much? Manager Han, you know how close-lipped Seo Yeehyeon is. Who knows how much longer it will be before I hear what happened from his mouth directly... You want me to carry this weight until then? Manager Han, don't do this. You can answer at least that much."</p>
 
 <p>He rested his elbows on his thighs, clasped hands pressed to his lips, and shook his head.</p>
 
-<p>"The terrible thing Director Liu is imagining... it isn't that. You really must hear anything beyond that from Ihyeon himself."</p>
+<p>"The terrible thing Director Liu is imagining... it isn't that. You really must hear anything beyond that from Yeehyeon himself."</p>
 
 <p>She finished speaking with a finality that made clear she would not open her mouth on this subject again, and picked up her sandwich — even though her appetite had completely vanished. His face was still heavy, but he seemed to have recovered some composure compared to a few moments ago.</p>
 
@@ -1055,7 +1055,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>It was because she had recognized that about him — the same man others privately considered difficult to work with — that they had clicked from their time together in Hong Kong, and she had readily accepted his proposal to open a gallery in Seoul.</p>
 
-<p>She had always thought his interest in Seo Ihyeon was simply an extension of his passion for art and for artists.</p>
+<p>She had always thought his interest in Seo Yeehyeon was simply an extension of his passion for art and for artists.</p>
 
 <p>Though they hadn't discussed their private lives in detail, as far as she knew, he had not had a single serious relationship in the past ten years or so.</p>
 
@@ -1117,7 +1117,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>As if the strong sunlight made the watch hands hard to see, he raised his left wrist right up to the bridge of his sunglasses to check the time.</p>
 
-<p>For someone who had likened Seo Ihyeon to a troublesome light, his expression suggested he was rather enjoying sunbathing in that exact brightness.</p>
+<p>For someone who had likened Seo Yeehyeon to a troublesome light, his expression suggested he was rather enjoying sunbathing in that exact brightness.</p>
 
 <p>"I'm eating a sandwich... Ah, no, it's just that I'm a bit busy today... We'll have something good for dinner... Later... I'll head over there at the time..."</p>
 
@@ -1135,7 +1135,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Whoever the other person was, the mere fact that Liu Weikun was having a conversation about who would hang up first was shocking to her.</p>
 
-<p>Both he and Ihyeon were precious people to her. She had even hoped someone would come along who could knock him off his course, invade his inner world, and boldly rearrange whatever was inside.</p>
+<p>Both he and Yeehyeon were precious people to her. She had even hoped someone would come along who could knock him off his course, invade his inner world, and boldly rearrange whatever was inside.</p>
 
 <p>But if asked whether the two of them could sustain a balanced relationship through romance... she couldn't answer that confidently. That was an entirely different matter.</p>
 
@@ -1159,19 +1159,19 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>As she descended to the underground parking lot to return to the gallery, she thought about the two of them — moving in a direction she had never anticipated.</p>
 
-<p>She never would have imagined that he, who had always wanted relationships he could end cleanly and <em>politely</em> at any moment, would choose twenty-two-year-old, guileless Seo Ihyeon as a romantic partner. Ihyeon wasn't the type who would want a superficial relationship, and as far as she knew, Liu Weikun wasn't the type to deliberately choose someone like that just to enforce his own <em>mature view of romance.</em></p>
+<p>She never would have imagined that he, who had always wanted relationships he could end cleanly and <em>politely</em> at any moment, would choose twenty-two-year-old, guileless Seo Yeehyeon as a romantic partner. Yeehyeon wasn't the type who would want a superficial relationship, and as far as she knew, Liu Weikun wasn't the type to deliberately choose someone like that just to enforce his own <em>mature view of romance.</em></p>
 
-<p>"What about you, Director? If Inwu-ssi is serious about Ihyeon, and Ihyeon likes Inwu-ssi, you wouldn't object, would you?"</p>
+<p>"What about you, Director? If Inwu-ssi is serious about Yeehyeon, and Yeehyeon likes Inwu-ssi, you wouldn't object, would you?"</p>
 
 <p>To Yuni, who had asked that, she had replied as if it wasn't anyone else's place to interfere — and she still believed that was the correct stance. But she couldn't quiet the feeling of worry.</p>
 
-<p>Liu Weikun and Seo Ihyeon.</p>
+<p>Liu Weikun and Seo Yeehyeon.</p>
 
 <p>When she tried to define their relationship as romance, what rose in her mind was not the gentle softness of cotton candy.</p>
 
-<p>What if the observation — that he didn't know how to control his own power, that he caused storms around him without considering the ripple effect — wasn't only about Ihyeon as an artist, but was actually a veiled description of his own situation, being pulled toward Seo Ihyeon the person?</p>
+<p>What if the observation — that he didn't know how to control his own power, that he caused storms around him without considering the ripple effect — wasn't only about Yeehyeon as an artist, but was actually a veiled description of his own situation, being pulled toward Seo Yeehyeon the person?</p>
 
 <p>"Hmm..."</p>
 
-<p>As she pulled out of the villa's parking lot — solid as an impregnable fortress — she let out a sigh that came out more like a groan. As for the ending of the story starring Liu Weikun and Seo Ihyeon, she simply could not guess it. Not now, at least.</p>
+<p>As she pulled out of the villa's parking lot — solid as an impregnable fortress — she let out a sigh that came out more like a groan. As for the ending of the story starring Liu Weikun and Seo Yeehyeon, she simply could not guess it. Not now, at least.</p>
 </div>

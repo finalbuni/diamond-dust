@@ -18,7 +18,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"......"</p>
 
-<p>Ihyeon turned his head at the sound of a quiet page turning. The back of a figure sitting against the bed came into view. He remembered Yuni coming by once to bring soup and medicine. But this was definitely not Yuni.</p>
+<p>Yeehyeon turned his head at the sound of a quiet page turning. The back of a figure sitting against the bed came into view. He remembered Yuni coming by once to bring soup and medicine. But this was definitely not Yuni.</p>
 
 <p>Broad shoulders, a long, strong neckline, beautiful hair, and the clearly defined profile of a side view.</p>
 
@@ -48,7 +48,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"This time was an exception. It won't happen again."</p>
 
-<p>Liu pressed the fingers he had laced together, insisting that the fever still needed to come down more and that I could be angry once I was fully recovered. But Ihyeon wasn't trying to be angry. Since he was the one who had decided on the long-distance relationship, he didn't want to disrupt Liu's life balance for a reason like this. He wasn't angry at Liu; he was angry at himself. He had paid more attention to his health than anything else precisely so he wouldn't cause worry. It upset him.</p>
+<p>Liu pressed the fingers he had laced together, insisting that the fever still needed to come down more and that I could be angry once I was fully recovered. But Yeehyeon wasn't trying to be angry. Since he was the one who had decided on the long-distance relationship, he didn't want to disrupt Liu's life balance for a reason like this. He wasn't angry at Liu; he was angry at himself. He had paid more attention to his health than anything else precisely so he wouldn't cause worry. It upset him.</p>
 
 <p>"Let's eat something first. I made porridge — it just needs reheating."</p>
 
@@ -58,7 +58,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"I'll eat in a little while. After I look at your face a little longer and hear your voice a little more..."</p>
 
-<p>Liu hesitated for a moment, but knowing Ihyeon's desire to savor the reunion more than anything else, he didn't press him further.</p>
+<p>Liu hesitated for a moment, but knowing Yeehyeon's desire to savor the reunion more than anything else, he didn't press him further.</p>
 
 <p>"Why are you sitting on the floor?"</p>
 
@@ -70,49 +70,49 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p><em>Huh? Was I that bland to you?</em> Liu added teasingly, gently biting the fingers of the hand he held.</p>
 
-<p>Ihyeon let out a weak chuckle. Then, tightening his grip on their intertwined fingers, he gently pulled Liu closer. They hadn't seen each other for over a month, and now they were together. There was no need to explain in words or convey with their eyes how badly they wanted to touch each other.</p>
+<p>Yeehyeon let out a weak chuckle. Then, tightening his grip on their intertwined fingers, he gently pulled Liu closer. They hadn't seen each other for over a month, and now they were together. There was no need to explain in words or convey with their eyes how badly they wanted to touch each other.</p>
 
 <p>"Then... don't hold back."</p>
 
 <p>"......"</p>
 
-<p>He was sure his appearance must have been a mess from running a fever, but perhaps because of that very fever, his longing for Liu outweighed any sense of shame. Liu, looking down at Ihyeon lying beneath him, turned his head, stirring his own hair, and muttered in a troubled voice.</p>
+<p>He was sure his appearance must have been a mess from running a fever, but perhaps because of that very fever, his longing for Liu outweighed any sense of shame. Liu, looking down at Yeehyeon lying beneath him, turned his head, stirring his own hair, and muttered in a troubled voice.</p>
 
 <p>"That's cheating. You know I can't resist your pheromones."</p>
 
 <p>"I still can't control them. I'm not doing it on purpose... so it's not cheating."</p>
 
-<p>The knowledge that Liu's defenses — which no one else had ever managed to breach — could be freely crossed by his pheromones alone stirred a surge of possessiveness and desire within Ihyeon.</p>
+<p>The knowledge that Liu's defenses — which no one else had ever managed to breach — could be freely crossed by his pheromones alone stirred a surge of possessiveness and desire within Yeehyeon.</p>
 
-<p>Though he still couldn't sense his own pheromones, he had begun to distinguish the degree to which they affected Liu. Especially during intimacy, the process became vividly clear — how Liu would crumble and come undone under the influence of his pheromones, ultimately overthrown by his desire for Ihyeon.</p>
+<p>Though he still couldn't sense his own pheromones, he had begun to distinguish the degree to which they affected Liu. Especially during intimacy, the process became vividly clear — how Liu would crumble and come undone under the influence of his pheromones, ultimately overthrown by his desire for Yeehyeon.</p>
 
 <p>It wasn't just simple lust. Only his pheromones had the power to reduce Liu to that state.</p>
 
-<p>Ihyeon held Liu's gaze steadily, bold enough not to look away, and Liu — biting his lower lip while glancing sideways at him — let out a low hum, sighed, and climbed onto the bed. Even the groan the cheap mattress made under his weight sent a tremor through Ihyeon's skin.</p>
+<p>Yeehyeon held Liu's gaze steadily, bold enough not to look away, and Liu — biting his lower lip while glancing sideways at him — let out a low hum, sighed, and climbed onto the bed. Even the groan the cheap mattress made under his weight sent a tremor through Yeehyeon's skin.</p>
 
 <p>Though it was about the size of a semi-double, it was cramped for two grown men to lie side by side. For Liu, who was over 190 centimeters, even the length wasn't very generous. It felt like his toes would touch the metal frame at the end of the bed if he stretched out completely.</p>
 
-<p>He cautiously closed the distance and drew close beside Ihyeon, slipping his arm under his neck to hold his shoulder. At the sensation of that hard, hot body pressed against his chest, Ihyeon shivered as if feeling a chill. Perhaps mistaking it for cold, Liu hastily pulled the blanket over them both.</p>
+<p>He cautiously closed the distance and drew close beside Yeehyeon, slipping his arm under his neck to hold his shoulder. At the sensation of that hard, hot body pressed against his chest, Yeehyeon shivered as if feeling a chill. Perhaps mistaking it for cold, Liu hastily pulled the blanket over them both.</p>
 
 <p>"I missed you."</p>
 
-<p>Turning to face him, lying on his side, Ihyeon looked at his face and conveyed it directly.</p>
+<p>Turning to face him, lying on his side, Yeehyeon looked at his face and conveyed it directly.</p>
 
-<p>The words "I missed you" had always been Liu's to say. Some people resolved their emotions through words, but others were the opposite. Ihyeon had been afraid to say those words over the phone, as if doing so would cause a flood of complaints to spill out.</p>
+<p>The words "I missed you" had always been Liu's to say. Some people resolved their emotions through words, but others were the opposite. Yeehyeon had been afraid to say those words over the phone, as if doing so would cause a flood of complaints to spill out.</p>
 
-<p>Liu said nothing for a long time, gently rubbing the shoulder he was holding while studying every part of Ihyeon's face.</p>
+<p>Liu said nothing for a long time, gently rubbing the shoulder he was holding while studying every part of Yeehyeon's face.</p>
 
 <p>"...I'm sorry."</p>
 
-<p>Knowing why he was apologizing after hearing the words "I missed you," Ihyeon shook his head.</p>
+<p>Knowing why he was apologizing after hearing the words "I missed you," Yeehyeon shook his head.</p>
 
 <p>If he had wanted Liu to live beside him in a submissive posture like a repentant sinner, he wouldn't have taken him back in the first place. Nor was it a conditional tolerance granted from a position of superiority, as if to say, <em>let's see how well you do from now on.</em> More than debating the true meaning of forgiveness, he just felt that a relationship structured so unevenly wouldn't work out. He couldn't ruin the future as well.</p>
 
-<p>Pulling his hand out from under the covers, Ihyeon cupped Liu's anguished face. Watching him rub his cheek against his palm like a fragile animal, Ihyeon kissed him. The lips, parched from the fever, parted with a dry, faint sound.</p>
+<p>Pulling his hand out from under the covers, Yeehyeon cupped Liu's anguished face. Watching him rub his cheek against his palm like a fragile animal, Yeehyeon kissed him. The lips, parched from the fever, parted with a dry, faint sound.</p>
 
-<p>At that single kiss, Liu's gaze immediately lost its composure and began to flicker. Ihyeon knew he had been stirred by the rich scent rising from his chest and neck.</p>
+<p>At that single kiss, Liu's gaze immediately lost its composure and began to flicker. Yeehyeon knew he had been stirred by the rich scent rising from his chest and neck.</p>
 
-<p>Tilting his head, Liu followed his lips and pressed against them more deeply. When Liu tried to push his tongue in, Ihyeon twisted his head away. Liu gripped his jaw, extended his tongue, and licked Ihyeon's lower lip.</p>
+<p>Tilting his head, Liu followed his lips and pressed against them more deeply. When Liu tried to push his tongue in, Yeehyeon twisted his head away. Liu gripped his jaw, extended his tongue, and licked Yeehyeon's lower lip.</p>
 
 <p>"Don't run away. It only smells like your pheromones."</p>
 
@@ -122,21 +122,21 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Ugh, yes. Mmm..."</p>
 
-<p>Ihyeon writhed his shoulders and opened his lips to the exquisite pain he had longed for so much. Having taken Liu's tongue into his mouth, he could sense how hot his own mouth still was. He pulled with strong force on the arm holding his shoulder, filling his mouth entirely and entangling his tongue with Liu's as it moved within.</p>
+<p>Yeehyeon writhed his shoulders and opened his lips to the exquisite pain he had longed for so much. Having taken Liu's tongue into his mouth, he could sense how hot his own mouth still was. He pulled with strong force on the arm holding his shoulder, filling his mouth entirely and entangling his tongue with Liu's as it moved within.</p>
 
 <p>It didn't take long to cast aside the slight awkwardness and hesitation of meeting after a long time and desperately devour each other, rubbing their wet flesh together.</p>
 
 <p>Kissing was a direct exchange of pheromones, and he knew it acted as a command that could drive the other person into a higher intensity of arousal.</p>
 
-<p>Liu's scent — missed just as much as his body heat and touch — seeped into Ihyeon's entire being, awakening his senses, not just his sense of smell. It wasn't a one-sided effect. The thought that his own scent was likely having the same effect on Liu made Ihyeon burn even hotter.</p>
+<p>Liu's scent — missed just as much as his body heat and touch — seeped into Yeehyeon's entire being, awakening his senses, not just his sense of smell. It wasn't a one-sided effect. The thought that his own scent was likely having the same effect on Liu made Yeehyeon burn even hotter.</p>
 
 <p>"Hhh. Ugh... ah."</p>
 
-<p>Liu's other hand, which had been stroking down his chest and stomach, slipped inside the T-shirt. Pushing the fabric up, his palm slid over Ihyeon's bare skin — pressing down and sweeping across his chest — and the friction immediately caused his nipple to harden and tighten.</p>
+<p>Liu's other hand, which had been stroking down his chest and stomach, slipped inside the T-shirt. Pushing the fabric up, his palm slid over Yeehyeon's bare skin — pressing down and sweeping across his chest — and the friction immediately caused his nipple to harden and tighten.</p>
 
-<p>Lying on his side and half-covering Ihyeon, Liu shifted his knees between his legs, pressing his entire body even closer. Ihyeon's left leg spread outward, and Liu's thigh rubbed against his groin. Liu's erection, already rigid, nudged just below Ihyeon's hip. A hot warmth, as if steam were rising, transferred through his sweatpants and Ihyeon's thin pajamas.</p>
+<p>Lying on his side and half-covering Yeehyeon, Liu shifted his knees between his legs, pressing his entire body even closer. Yeehyeon's left leg spread outward, and Liu's thigh rubbed against his groin. Liu's erection, already rigid, nudged just below Yeehyeon's hip. A hot warmth, as if steam were rising, transferred through his sweatpants and Yeehyeon's thin pajamas.</p>
 
-<p>Overwhelmed by the multi-layered stimulation all at once, Ihyeon pushed Liu's tongue away and gasped for air. Liu looked down with slightly unfocused eyes from a distance so close their noses almost brushed. Each of his exhales seemed made of particles carrying his scent.</p>
+<p>Overwhelmed by the multi-layered stimulation all at once, Yeehyeon pushed Liu's tongue away and gasped for air. Liu looked down with slightly unfocused eyes from a distance so close their noses almost brushed. Each of his exhales seemed made of particles carrying his scent.</p>
 
 <p>Without separating their bodies, Liu moved up on top of him. It was a fluid motion.</p>
 
@@ -144,11 +144,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Hhh-ugh, ah."</p>
 
-<p>Ihyeon bit down hard on the thin skin of his own wrist and wrapped his other arm around Liu's neck.</p>
+<p>Yeehyeon bit down hard on the thin skin of his own wrist and wrapped his other arm around Liu's neck.</p>
 
-<p>Liu didn't just suckle the nipple — he engulfed the areola and the surrounding flesh, sucking and working it, while simultaneously pressing his torso, folded between Ihyeon's legs, upward repeatedly. Slowly, creating supple curves as he did so.</p>
+<p>Liu didn't just suckle the nipple — he engulfed the areola and the surrounding flesh, sucking and working it, while simultaneously pressing his torso, folded between Yeehyeon's legs, upward repeatedly. Slowly, creating supple curves as he did so.</p>
 
-<p>Ihyeon's cock was pressed and rubbed against Liu's thick chest and firm upper abdomen. The slight constriction was welcome. As his lower back lifted, his chest instinctively arched toward the ceiling. Ihyeon's knees bent and legs spread wide, grinding his cock in time with the rhythm of Liu's chest pushing up.</p>
+<p>Yeehyeon's cock was pressed and rubbed against Liu's thick chest and firm upper abdomen. The slight constriction was welcome. As his lower back lifted, his chest instinctively arched toward the ceiling. Yeehyeon's knees bent and legs spread wide, grinding his cock in time with the rhythm of Liu's chest pushing up.</p>
 
 <p>His mind filled with a red haze. The dizziness was doubled from its usual intensity, between the pheromones and the fever.</p>
 
@@ -156,7 +156,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Liu sucked and pressed firmly around the areola, then drew his tongue out into a sharp point and flicked it. The tantalizing vibration of the plump flesh bouncing rapidly was almost unbearable.</p>
 
-<p>Ihyeon let go of the wrist he had been biting and tangled his fingers in Liu's hair. Driven by the impulse to be sucked harder again, he bucked his hips, toes pushing against the sheet.</p>
+<p>Yeehyeon let go of the wrist he had been biting and tangled his fingers in Liu's hair. Driven by the impulse to be sucked harder again, he bucked his hips, toes pushing against the sheet.</p>
 
 <p>"It — it tickles... stop that..."</p>
 
@@ -164,7 +164,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>From beneath the covers, he looked up, eyes wide. He couldn't tear his gaze away from Liu's excited face as he prodded and twisted his erect nipples.</p>
 
-<p>"Seo Ihyeon's pheromones don't say they dislike it, though?"</p>
+<p>"Seo Yeehyeon's pheromones don't say they dislike it, though?"</p>
 
 <p>"Hah!"</p>
 
@@ -172,73 +172,73 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Ah... ah..."</p>
 
-<p>The force — hard to believe it was only lips — squeezed so tightly that a thrilling, dizzying pain arose. As the ticklishness was completely swept away by the intense pleasure that made his shoulders hunch, Ihyeon held his head and thrashed, arching his whole body.</p>
+<p>The force — hard to believe it was only lips — squeezed so tightly that a thrilling, dizzying pain arose. As the ticklishness was completely swept away by the intense pleasure that made his shoulders hunch, Yeehyeon held his head and thrashed, arching his whole body.</p>
 
 <p>"Ah, ah..."</p>
 
 <p>He wondered if the skin might have slightly torn. The nipple, released as Liu pulled his head back, was throbbing red to the point where he could feel a faint sting.</p>
 
-<p>As Ihyeon pushed his hair back from his neck, he found himself looking down at his own nipple. Liu, still lying on top of him, pulled the T-shirt from the back neckline and stripped it off. Just seeing Liu's bare body made Ihyeon's groin tighten even more, leaving him wet below.</p>
+<p>As Yeehyeon pushed his hair back from his neck, he found himself looking down at his own nipple. Liu, still lying on top of him, pulled the T-shirt from the back neckline and stripped it off. Just seeing Liu's bare body made Yeehyeon's groin tighten even more, leaving him wet below.</p>
 
 <p>"Ugh... Nnnh..."</p>
 
-<p>They struggled briefly as Ihyeon grabbed Liu's wrist, trying to stop him from pulling down the pajamas. He needed to lose a little more control before he could show the soaked underwear — wet in the back, not the front.</p>
+<p>They struggled briefly as Yeehyeon grabbed Liu's wrist, trying to stop him from pulling down the pajamas. He needed to lose a little more control before he could show the soaked underwear — wet in the back, not the front.</p>
 
-<p>Sliding up over his stomach and chest, Liu buried his lips in the nape of Ihyeon's neck, showering him with small kisses as he moved higher. He gently nibbled along the jawline without hurting the bone, pressed kisses onto his cheeks, and finally, their lips met.</p>
+<p>Sliding up over his stomach and chest, Liu buried his lips in the nape of Yeehyeon's neck, showering him with small kisses as he moved higher. He gently nibbled along the jawline without hurting the bone, pressed kisses onto his cheeks, and finally, their lips met.</p>
 
 <p>"Mmm. Mm..."</p>
 
-<p>As he swallowed Liu's saliva and scent flowing across his tongue, Ihyeon let out a low groan from deep in his throat. The strength he had been using to stop Liu's hands from gently pushing his pajamas down began to loosen.</p>
+<p>As he swallowed Liu's saliva and scent flowing across his tongue, Yeehyeon let out a low groan from deep in his throat. The strength he had been using to stop Liu's hands from gently pushing his pajamas down began to loosen.</p>
 
 <p>"......"</p>
 
-<p>Stretching his arm as far as he could, Liu awkwardly pushed the pajamas down halfway to Ihyeon's thighs, then broadly rubbed his palm over the underwear resting askew on his hip. His large hand stroked over Ihyeon's cock and slid deeper inside, pressing and feeling around the area near his entrance over the fabric — gauging how wet he was.</p>
+<p>Stretching his arm as far as he could, Liu awkwardly pushed the pajamas down halfway to Yeehyeon's thighs, then broadly rubbed his palm over the underwear resting askew on his hip. His large hand stroked over Yeehyeon's cock and slid deeper inside, pressing and feeling around the area near his entrance over the fabric — gauging how wet he was.</p>
 
-<p>Ihyeon reached out to grab his arm again, trying to stop him, but Liu sealed their lips, pouring more of his scent into the kiss.</p>
+<p>Yeehyeon reached out to grab his arm again, trying to stop him, but Liu sealed their lips, pouring more of his scent into the kiss.</p>
 
 <p>"Haaah... ahh..."</p>
 
 <p>He couldn't help but surrender to the skillful caresses that kneaded his most sensitive flesh in various ways. No matter how much his body protested, he couldn't hide his pheromones — just as Liu had said.</p>
 
-<p>Liu's pheromones surged as well, growing stronger in waves. His violently rising excitement and desire reached Ihyeon as a scent. They were equally unable to hide what they felt.</p>
+<p>Liu's pheromones surged as well, growing stronger in waves. His violently rising excitement and desire reached Yeehyeon as a scent. They were equally unable to hide what they felt.</p>
 
-<p>Ihyeon surrendered, returning the kiss and running his hands over Liu's bare shoulder and firm upper arm, which he hadn't held in so long. They locked eyes while playfully tangling their tongues together.</p>
+<p>Yeehyeon surrendered, returning the kiss and running his hands over Liu's bare shoulder and firm upper arm, which he hadn't held in so long. They locked eyes while playfully tangling their tongues together.</p>
 
 <p>"You photograph well, but... in person you're better. A hundred times more attractive in reality."</p>
 
-<p>Liu, looking down at Ihyeon with eyes stickier than their tongues, then pressed his entire body down on him, holding him tightly. Ihyeon knew he was struggling against an excitement and pheromones that were difficult to control.</p>
+<p>Liu, looking down at Yeehyeon with eyes stickier than their tongues, then pressed his entire body down on him, holding him tightly. Yeehyeon knew he was struggling against an excitement and pheromones that were difficult to control.</p>
 
-<p>He pressed his lips down once more like a stamp, then pulled back and completely stripped Ihyeon's lower half. Then, fumbling under the blanket, he carefully tucked his T-shirt beneath Ihyeon's hips. This was because, unlike Room 601, Ihyeon's bed didn't have a mattress protector.</p>
+<p>He pressed his lips down once more like a stamp, then pulled back and completely stripped Yeehyeon's lower half. Then, fumbling under the blanket, he carefully tucked his T-shirt beneath Yeehyeon's hips. This was because, unlike Room 601, Yeehyeon's bed didn't have a mattress protector.</p>
 
-<p>Stripping off his own sweatpants to be completely bare, Liu slid one hand under Ihyeon's lower back and lifted him slightly. With his other hand, he fumbled and placed the pants over the T-shirt again.</p>
+<p>Stripping off his own sweatpants to be completely bare, Liu slid one hand under Yeehyeon's lower back and lifted him slightly. With his other hand, he fumbled and placed the pants over the T-shirt again.</p>
 
 <p>"It's going to flow... quite a bit."</p>
 
-<p>He smiled, his face slick with sweat. With the same hands carefully spreading the fabric so it wouldn't bunch up, he lightly brushed the cleft between Ihyeon's hips, where arousal fluid was already pooling and running.</p>
+<p>He smiled, his face slick with sweat. With the same hands carefully spreading the fabric so it wouldn't bunch up, he lightly brushed the cleft between Yeehyeon's hips, where arousal fluid was already pooling and running.</p>
 
 <p>"Mmm..."</p>
 
-<p>The mere knowledge that Liu was lifting his hips, preparing for the bodily fluids the coming sex would produce, caused a faint groan to escape Ihyeon's lips. His body trembled so much that he instinctively covered his mouth.</p>
+<p>The mere knowledge that Liu was lifting his hips, preparing for the bodily fluids the coming sex would produce, caused a faint groan to escape Yeehyeon's lips. His body trembled so much that he instinctively covered his mouth.</p>
 
-<p>To prevent Ihyeon's body from losing heat, everything was happening under the covers, unlike before. Even that seemed to make the moment more clandestine, drying Ihyeon's mouth.</p>
+<p>To prevent Yeehyeon's body from losing heat, everything was happening under the covers, unlike before. Even that seemed to make the moment more clandestine, drying Yeehyeon's mouth.</p>
 
-<p>While constantly watching Ihyeon with unsteady eyes, Liu made no move to rush. He wasn't trying to claim the reward for all their time apart at once.</p>
+<p>While constantly watching Yeehyeon with unsteady eyes, Liu made no move to rush. He wasn't trying to claim the reward for all their time apart at once.</p>
 
 <p>"Ngh... ugh..."</p>
 
-<p>Liu slid his hand between Ihyeon's hips and rubbed the slick area around his entrance broadly with his palm. With his hand thoroughly coated in arousal fluid, he cupped Ihyeon's cock and stroked it long and hard from the base.</p>
+<p>Liu slid his hand between Yeehyeon's hips and rubbed the slick area around his entrance broadly with his palm. With his hand thoroughly coated in arousal fluid, he cupped Yeehyeon's cock and stroked it long and hard from the base.</p>
 
 <p>"The blanket's going to get dirty, so just — "</p>
 
-<p>Worried about contamination from sweat and fluids, Ihyeon tried to pull the blanket away, but Liu was firm.</p>
+<p>Worried about contamination from sweat and fluids, Yeehyeon tried to pull the blanket away, but Liu was firm.</p>
 
 <p>"You have a fever, so no. I'll change it right after we're done."</p>
 
-<p>Bracing one hand on the outer side of Ihyeon's arm, he leaned forward and shook his head. Then, bending his knees, he pressed his lower body against Ihyeon's, encircling both sides of his hips with his widely spread thighs.</p>
+<p>Bracing one hand on the outer side of Yeehyeon's arm, he leaned forward and shook his head. Then, bending his knees, he pressed his lower body against Yeehyeon's, encircling both sides of his hips with his widely spread thighs.</p>
 
-<p>It wasn't that Ihyeon was worried about having to sleep under soiled blankets. Even so, he didn't try to delay things over that issue. They had already entered a state where such concerns felt trivial.</p>
+<p>It wasn't that Yeehyeon was worried about having to sleep under soiled blankets. Even so, he didn't try to delay things over that issue. They had already entered a state where such concerns felt trivial.</p>
 
-<p>Ihyeon's legs draped over Liu's thighs, their most intimate parts pressed together with no gap between them. Ihyeon exhaled as if expelling a breath, gripping the edge of the comforter that rose in a triangle, using Liu's back as a brace.</p>
+<p>Yeehyeon's legs draped over Liu's thighs, their most intimate parts pressed together with no gap between them. Yeehyeon exhaled as if expelling a breath, gripping the edge of the comforter that rose in a triangle, using Liu's back as a brace.</p>
 
 <p>"This bed... I don't think it can take the strain."</p>
 
@@ -248,33 +248,33 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>In the dim light provided only by a small reading lamp near the desk, Liu turned toward the wall with a troubled look.</p>
 
-<p>Swallowing, Ihyeon tossed off part of the blanket and wrapped an arm around Liu's, then began rocking his own hips shallowly. He could no longer stand the feel of Liu's cock pressed tightly between his legs, now naturally spread apart. He started to rub his groin against the unnaturally thick, hardened shaft, lightly brushing his slick inner thighs against it. Liu's facial muscles twitched as he looked down at Ihyeon.</p>
+<p>Swallowing, Yeehyeon tossed off part of the blanket and wrapped an arm around Liu's, then began rocking his own hips shallowly. He could no longer stand the feel of Liu's cock pressed tightly between his legs, now naturally spread apart. He started to rub his groin against the unnaturally thick, hardened shaft, lightly brushing his slick inner thighs against it. Liu's facial muscles twitched as he looked down at Yeehyeon.</p>
 
 <p>"Haa..."</p>
 
-<p>He let out a breath that sounded strained and buried his face in Ihyeon's shoulder.</p>
+<p>He let out a breath that sounded strained and buried his face in Yeehyeon's shoulder.</p>
 
 <p>"I don't know if this will work... but I'll just rub at the entrance and then pull out."</p>
 
-<p>He reached his arm down, grasping his own cock. Then, positioning the head, he kissed Ihyeon.</p>
+<p>He reached his arm down, grasping his own cock. Then, positioning the head, he kissed Yeehyeon.</p>
 
 <p>"You know what happens to both of us if we go any further. It won't end at a volume the next room and the room below can just barely hear."</p>
 
-<p>Ihyeon had no choice but to agree. Once proper penetration and friction began, he was effectively in a rut — perhaps even more powerfully dominated by pheromones than during a typical rut. Unless physical force intervened, he absolutely could not stop without reaching climax, including knotting. If he were an Alpha in rut, it would end there, but he was Ghost, driven into a state of heat stimulated by Didi's pheromones. His knotting would inevitably include a Changing.</p>
+<p>Yeehyeon had no choice but to agree. Once proper penetration and friction began, he was effectively in a rut — perhaps even more powerfully dominated by pheromones than during a typical rut. Unless physical force intervened, he absolutely could not stop without reaching climax, including knotting. If he were an Alpha in rut, it would end there, but he was Ghost, driven into a state of heat stimulated by Didi's pheromones. His knotting would inevitably include a Changing.</p>
 
-<p>Ihyeon was the same — growing unusually insistent on knotting and bold in his actions, like an Omega in heat. Once they were both in a state of greedily clinging to each other, refusing to let go, neither of them would spare a thought for the noise that might carry to the surrounding rooms. Furthermore, The Hands' apartment was even more susceptible to sound than Room 601.</p>
+<p>Yeehyeon was the same — growing unusually insistent on knotting and bold in his actions, like an Omega in heat. Once they were both in a state of greedily clinging to each other, refusing to let go, neither of them would spare a thought for the noise that might carry to the surrounding rooms. Furthermore, The Hands' apartment was even more susceptible to sound than Room 601.</p>
 
 <p>His blood, instincts, and entire body were demanding the deepest possible union with Liu, but he had no choice but to do as Liu suggested.</p>
 
-<p>Ihyeon slowly stroked Liu's arm and nodded. The head of his cock, which had been circling the entrance, began to slide in softly.</p>
+<p>Yeehyeon slowly stroked Liu's arm and nodded. The head of his cock, which had been circling the entrance, began to slide in softly.</p>
 
 <p>"Uuugh... Mmph..."</p>
 
-<p>Ihyeon's moan, as if protesting a dull pain, was like a low, small cry. As soon as the head made contact with his entrance — completely wet and soft — that cry sharply rose and then abruptly cut off. Ihyeon covered his mouth and opened his eyes wide.</p>
+<p>Yeehyeon's moan, as if protesting a dull pain, was like a low, small cry. As soon as the head made contact with his entrance — completely wet and soft — that cry sharply rose and then abruptly cut off. Yeehyeon covered his mouth and opened his eyes wide.</p>
 
-<p>Liu licked his lips, then leaned his upper body in further, kissing the back of Ihyeon's hand as if to soothe him.</p>
+<p>Liu licked his lips, then leaned his upper body in further, kissing the back of Yeehyeon's hand as if to soothe him.</p>
 
-<p>Ihyeon's heart pounded. The thickness and heat of the head pushing into the soft inner walls, that presence sinking into the thick arousal fluid, felt overwhelmingly distinct.</p>
+<p>Yeehyeon's heart pounded. The thickness and heat of the head pushing into the soft inner walls, that presence sinking into the thick arousal fluid, felt overwhelmingly distinct.</p>
 
 <p>"Mhmm... Ah."</p>
 
@@ -286,21 +286,21 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>The need to control their bodies and suppress moans because of the constraints of the location only made their arousal more acute. It felt as if Liu's cock, repeatedly entering and withdrawing, was leaving distinct marks on the inner wall.</p>
 
-<p>Every time Liu's hips pulled back and then drove forward, the hand gripping his cock would catch at the entrance with a soft stop. While Ihyeon longed to swallow him deeper — to the point where he would be completely surrendered to the influence of the pheromones — he also found this restriction novel.</p>
+<p>Every time Liu's hips pulled back and then drove forward, the hand gripping his cock would catch at the entrance with a soft stop. While Yeehyeon longed to swallow him deeper — to the point where he would be completely surrendered to the influence of the pheromones — he also found this restriction novel.</p>
 
-<p>He was restless and felt a lack. His entrance contracted on its own, wanting to pull Liu in further. Yet Ihyeon couldn't explain where this unique pleasure — which made his body clench thrillingly — was coming from.</p>
+<p>He was restless and felt a lack. His entrance contracted on its own, wanting to pull Liu in further. Yet Yeehyeon couldn't explain where this unique pleasure — which made his body clench thrillingly — was coming from.</p>
 
-<p>Although the depth of penetration was shallower than usual, Liu was dividing even that shallow entry into several measured thrusts. That very restraint, meant to curb his runaway desire, was what drove Ihyeon mad.</p>
+<p>Although the depth of penetration was shallower than usual, Liu was dividing even that shallow entry into several measured thrusts. That very restraint, meant to curb his runaway desire, was what drove Yeehyeon mad.</p>
 
 <p>"Hhh, ah... ah."</p>
 
 <p>"You want me to go all the way inside, don't you?"</p>
 
-<p>Perhaps taking Ihyeon's muffled struggles as dissatisfaction, Liu grimaced apologetically and asked again.</p>
+<p>Perhaps taking Yeehyeon's muffled struggles as dissatisfaction, Liu grimaced apologetically and asked again.</p>
 
 <p>"This isn't doing it for you, is it?"</p>
 
-<p>No, Ihyeon shook his head. He managed to pull the hand away from his mouth and wrapped his arms around Liu's neck.</p>
+<p>No, Yeehyeon shook his head. He managed to pull the hand away from his mouth and wrapped his arms around Liu's neck.</p>
 
 <p>"Kun... it must be hard for you."</p>
 
@@ -308,13 +308,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Yeah, it is. I feel like I'm going to die."</p>
 
-<p>Liu's upper body leaned over Ihyeon's chest, covering him. Then he lowered his head, his hot tongue tracing the rim of Ihyeon's ear as he whispered.</p>
+<p>Liu's upper body leaned over Yeehyeon's chest, covering him. Then he lowered his head, his hot tongue tracing the rim of Yeehyeon's ear as he whispered.</p>
 
-<p>About how soft Ihyeon's entrance was, even without him doing anything. About how intoxicating the suction felt — wet and slick, pulling him in.</p>
+<p>About how soft Yeehyeon's entrance was, even without him doing anything. About how intoxicating the suction felt — wet and slick, pulling him in.</p>
 
 <p>He wanted to push his hand away from where it was interfering, shove all the way in until there was no space left between them, and grind his hips like a madman whether everyone in the building heard or not.</p>
 
-<p>Listening to his confession — Liu's attempt to release through words what he couldn't act upon — Ihyeon squeezed his eyes shut and held his neck tightly. With every lewd whisper and every caress of his ear with tongue and lips, the inner walls trembled.</p>
+<p>Listening to his confession — Liu's attempt to release through words what he couldn't act upon — Yeehyeon squeezed his eyes shut and held his neck tightly. With every lewd whisper and every caress of his ear with tongue and lips, the inner walls trembled.</p>
 
 <p>"Setting aside the pheromones... your scent is stronger than usual. Right now, you make me want to just... do something to you."</p>
 
@@ -322,27 +322,27 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"......"</p>
 
-<p>Liu lifted his head from Ihyeon's shoulder and looked down at him from close range. The thick head, which had been repeatedly thrusting shallowly, pressed deeply inside with a slow, drawn-out weight. As if intending to push in even further, he didn't pull back but kept pressing his body forward, unable to go any deeper.</p>
+<p>Liu lifted his head from Yeehyeon's shoulder and looked down at him from close range. The thick head, which had been repeatedly thrusting shallowly, pressed deeply inside with a slow, drawn-out weight. As if intending to push in even further, he didn't pull back but kept pressing his body forward, unable to go any deeper.</p>
 
-<p>Blinking slowly, as if controlled by something, he answered Ihyeon's question.</p>
+<p>Blinking slowly, as if controlled by something, he answered Yeehyeon's question.</p>
 
 <p>"I want to knot you."</p>
 
 <p>"Do it for me."</p>
 
-<p>At Ihyeon's whisper, Liu swallowed dryly and wet his lower lip with his tongue. Where they were connected, Ihyeon's arousal and Liu's pre-cum gushed out simultaneously. Every time Liu rocked his hips from side to side instead of front to back, grinding inside, the excess fluid pooled and leaked around their point of contact with a slick, wet sound.</p>
+<p>At Yeehyeon's whisper, Liu swallowed dryly and wet his lower lip with his tongue. Where they were connected, Yeehyeon's arousal and Liu's pre-cum gushed out simultaneously. Every time Liu rocked his hips from side to side instead of front to back, grinding inside, the excess fluid pooled and leaked around their point of contact with a slick, wet sound.</p>
 
-<p>The sensation of thick fluid trickling down always aroused Ihyeon as much as the direct friction of penetration. Ihyeon wrapped his legs around Liu's waist and moaned softly, like a faint sob.</p>
+<p>The sensation of thick fluid trickling down always aroused Yeehyeon as much as the direct friction of penetration. Yeehyeon wrapped his legs around Liu's waist and moaned softly, like a faint sob.</p>
 
-<p>"Should we? Should I make it throb inside Seo Ihyeon... with a knot?"</p>
+<p>"Should we? Should I make it throb inside Seo Yeehyeon... with a knot?"</p>
 
 <p>"Yes... I want that. I want something more..."</p>
 
-<p>Ihyeon nodded immediately and answered honestly, and Liu spat out a pained curse before burying his face in his neck again. While showering him with hot kisses and holding him tightly, pressing his head against that place deep inside Ihyeon, he did not release the hand gripping his cock.</p>
+<p>Yeehyeon nodded immediately and answered honestly, and Liu spat out a pained curse before burying his face in his neck again. While showering him with hot kisses and holding him tightly, pressing his head against that place deep inside Yeehyeon, he did not release the hand gripping his cock.</p>
 
 <p>But they couldn't continue like this forever. Sex without knotting was impossible between an Omega in heat and an Alpha in rut.</p>
 
-<p>Ihyeon was gradually beginning to realize the dominance of pheromones — something Betas could theoretically understand but never truly feel or empathize with. It was a part of himself that had been active for a long time but that he hadn't been consciously aware of until now.</p>
+<p>Yeehyeon was gradually beginning to realize the dominance of pheromones — something Betas could theoretically understand but never truly feel or empathize with. It was a part of himself that had been active for a long time but that he hadn't been consciously aware of until now.</p>
 
 <p>Liu wet his hand completely with their fluids, readjusted his grip, and whispered soothingly.</p>
 
@@ -356,21 +356,21 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"I want to do it now. Now is better..."</p>
 
-<p>Whether it was the fever or the sad dream he'd had just before waking, Ihyeon found himself constantly pestering Liu, even knowing he was just throwing a tantrum and relying on Liu's self-control. Yet Liu's eyes held no resentment — only affection.</p>
+<p>Whether it was the fever or the sad dream he'd had just before waking, Yeehyeon found himself constantly pestering Liu, even knowing he was just throwing a tantrum and relying on Liu's self-control. Yet Liu's eyes held no resentment — only affection.</p>
 
-<p>Liu kissed Ihyeon's pouting lips and, with one hand, gripped one of the thin vertical bars of the bed frame above his head. Then he pulled back until the head of his cock was completely clear of the entrance.</p>
+<p>Liu kissed Yeehyeon's pouting lips and, with one hand, gripped one of the thin vertical bars of the bed frame above his head. Then he pulled back until the head of his cock was completely clear of the entrance.</p>
 
 <p>"Ugh, yes... Hngh..."</p>
 
-<p>With Liu's head fully withdrawn and pressed tightly against the entrance, Ihyeon trembled with anticipation, wondering when it would plunge back in.</p>
+<p>With Liu's head fully withdrawn and pressed tightly against the entrance, Yeehyeon trembled with anticipation, wondering when it would plunge back in.</p>
 
 <p>"Nnnh."</p>
 
-<p>When Liu thrust in all the way to where his gripping hand stopped, Ihyeon covered his mouth. Looking up with wide eyes, he saw Liu's face glistening with sweat. Liu wiped his face against the arm stretched taut from gripping the bar.</p>
+<p>When Liu thrust in all the way to where his gripping hand stopped, Yeehyeon covered his mouth. Looking up with wide eyes, he saw Liu's face glistening with sweat. Liu wiped his face against the arm stretched taut from gripping the bar.</p>
 
-<p>Without warning, the thrusts came in rapid succession — fully withdrawing outside the entrance only to drive back in until his hand met the stop. Overwhelmed by the relentless rhythm, Ihyeon kicked off the covers and thrashed his legs.</p>
+<p>Without warning, the thrusts came in rapid succession — fully withdrawing outside the entrance only to drive back in until his hand met the stop. Overwhelmed by the relentless rhythm, Yeehyeon kicked off the covers and thrashed his legs.</p>
 
-<p>"Seo Ihyeon, I can't even give you what you want like this..."</p>
+<p>"Seo Yeehyeon, I can't even give you what you want like this..."</p>
 
 <p>"Mhm. Ugh. Mhm."</p>
 
@@ -378,72 +378,72 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Haa, ugh. Hngh!"</p>
 
-<p>The skillful way Liu thrust in and out — pressing against that hidden place sharply and briefly — sent a thrilling current through Ihyeon's entire body. Unable to endure the outpouring pleasure any longer, Ihyeon removed his hand and let out a moan.</p>
+<p>The skillful way Liu thrust in and out — pressing against that hidden place sharply and briefly — sent a thrilling current through Yeehyeon's entire body. Unable to endure the outpouring pleasure any longer, Yeehyeon removed his hand and let out a moan.</p>
 
-<p>"Seo Ihyeon, your voice."</p>
+<p>"Seo Yeehyeon, your voice."</p>
 
-<p>Liu warned him in a heavily suppressed voice. To keep from being pushed up, Ihyeon reached out and grabbed one of the bars, using his other hand to cover his mouth again.</p>
+<p>Liu warned him in a heavily suppressed voice. To keep from being pushed up, Yeehyeon reached out and grabbed one of the bars, using his other hand to cover his mouth again.</p>
 
-<p>Liu's gaze, looking down at Ihyeon, glistened. He licked his lips several times as if savoring something. Even while dominated by pleasure, watching Ihyeon struggle to suppress his moans and cling to his reason — perhaps that sight was giving Liu a different kind of stimulation as well.</p>
+<p>Liu's gaze, looking down at Yeehyeon, glistened. He licked his lips several times as if savoring something. Even while dominated by pleasure, watching Yeehyeon struggle to suppress his moans and cling to his reason — perhaps that sight was giving Liu a different kind of stimulation as well.</p>
 
-<p>He pushed Ihyeon's hand away with his chin and thrust his stiff tongue deep into his mouth. With his mouth full of Liu's tongue, Ihyeon couldn't let out a moan even if he wanted to.</p>
+<p>He pushed Yeehyeon's hand away with his chin and thrust his stiff tongue deep into his mouth. With his mouth full of Liu's tongue, Yeehyeon couldn't let out a moan even if he wanted to.</p>
 
 <p>"Mmm. Mm... mmm."</p>
 
-<p>The rocking of his hips grew more violent. To keep the bed from shaking any more than necessary, Liu thrust into Ihyeon's body maintaining the most horizontal motion possible rather than driving up and down.</p>
+<p>The rocking of his hips grew more violent. To keep the bed from shaking any more than necessary, Liu thrust into Yeehyeon's body maintaining the most horizontal motion possible rather than driving up and down.</p>
 
-<p>Fearing he might bite off his tongue, Ihyeon pressed his lips together tightly. One arm wrapped around Liu's neck, the other clutched the iron bar above his head. Moisture welled up in his eyes from enduring so much. But it seemed that resisting the pleasure — as much as surrendering to it — only amplified the sensation further.</p>
+<p>Fearing he might bite off his tongue, Yeehyeon pressed his lips together tightly. One arm wrapped around Liu's neck, the other clutched the iron bar above his head. Moisture welled up in his eyes from enduring so much. But it seemed that resisting the pleasure — as much as surrendering to it — only amplified the sensation further.</p>
 
 <p>"Hmm. Nngh. Ngh..."</p>
 
 <p>Something immense, something massive, was approaching. A pleasure starting from a different direction than knotting. His fluids gushed out as if a floodgate had burst. He could distinctly feel that foreign presence.</p>
 
-<p>With eyes glistening, trembling almost with fear, Ihyeon searched for Liu's gaze. The tongue filling his mouth was withdrawn rather than pulled away with a kiss.</p>
+<p>With eyes glistening, trembling almost with fear, Yeehyeon searched for Liu's gaze. The tongue filling his mouth was withdrawn rather than pulled away with a kiss.</p>
 
 <p>"Haaah... hh... ah..."</p>
 
-<p>Ihyeon's inner walls twitched and clenched tightly, and he came from his cock without it even being touched. Almost simultaneously, Liu pulled out of his body. As if a plug holding back a flood had been removed, the mixed fluids of both of them poured out as if they had been waiting. Every time his lower abdomen rose and fell as he gasped for breath, the fluids flowed and stopped repeatedly, following the opening and closing of the throbbing entrance.</p>
+<p>Yeehyeon's inner walls twitched and clenched tightly, and he came from his cock without it even being touched. Almost simultaneously, Liu pulled out of his body. As if a plug holding back a flood had been removed, the mixed fluids of both of them poured out as if they had been waiting. Every time his lower abdomen rose and fell as he gasped for breath, the fluids flowed and stopped repeatedly, following the opening and closing of the throbbing entrance.</p>
 
-<p>Following his instinct, Ihyeon reached his arm downward. He scooped up the mass of fluid running over the clothes he had laid out and rubbed it between his legs, without even being aware of what he was doing.</p>
+<p>Following his instinct, Yeehyeon reached his arm downward. He scooped up the mass of fluid running over the clothes he had laid out and rubbed it between his legs, without even being aware of what he was doing.</p>
 
 <p>He simply wanted to do something more. He wanted to tangle with Liu doing even more, craving a more animalistic sense of release.</p>
 
 <p>"Ah, ah..."</p>
 
-<p>Only after writhing slowly and rubbing between his legs for a long while did Ihyeon realize he was whimpering faintly.</p>
+<p>Only after writhing slowly and rubbing between his legs for a long while did Yeehyeon realize he was whimpering faintly.</p>
 
-<p>Liu was kneeling between his legs, kissing away the tears on Ihyeon's face while stroking his own cock. Ihyeon cupped Liu's cheeks. He kissed the face contorted from battling the demands of his body and instincts.</p>
+<p>Liu was kneeling between his legs, kissing away the tears on Yeehyeon's face while stroking his own cock. Yeehyeon cupped Liu's cheeks. He kissed the face contorted from battling the demands of his body and instincts.</p>
 
-<p>He remembered the first time their bare skin had touched in his bedroom. Back then, Liu hadn't even been able to reach climax. He had only induced a deep, restful sleep in Ihyeon with an orgasm achieved through pheromones — an intensity unattainable through a standard release. Even now, thinking of the heavy, dangling weight of Liu's cock he had glimpsed between eyelids growing hazy with overwhelming drowsiness still made his insides ache.</p>
+<p>He remembered the first time their bare skin had touched in his bedroom. Back then, Liu hadn't even been able to reach climax. He had only induced a deep, restful sleep in Yeehyeon with an orgasm achieved through pheromones — an intensity unattainable through a standard release. Even now, thinking of the heavy, dangling weight of Liu's cock he had glimpsed between eyelids growing hazy with overwhelming drowsiness still made his insides ache.</p>
 
-<p>A heavy, languid sleepiness washed over him — just like the feeling of being dragged down from beneath the bed, as it had been then. But Ihyeon fought hard to lift his eyelids. He rolled his heavy body over. Turning his head, he looked back at Liu over his shoulder.</p>
+<p>A heavy, languid sleepiness washed over him — just like the feeling of being dragged down from beneath the bed, as it had been then. But Yeehyeon fought hard to lift his eyelids. He rolled his heavy body over. Turning his head, he looked back at Liu over his shoulder.</p>
 
-<p>Clutching his thoroughly soaked cock, which was dripping a copious amount of pre-cum, Liu remained awkwardly suspended — unable to fully lie down or fully sit up. Even though his entire body was glistening with sweat, he still had the blanket draped over his back like a tent over Ihyeon's body.</p>
+<p>Clutching his thoroughly soaked cock, which was dripping a copious amount of pre-cum, Liu remained awkwardly suspended — unable to fully lie down or fully sit up. Even though his entire body was glistening with sweat, he still had the blanket draped over his back like a tent over Yeehyeon's body.</p>
 
-<p>The sight of him merely suppressing his desire — cock fully engorged yet seemingly suspended between what to do with it and how to find release — made him resemble an inexperienced young man still awkward with his own body. For some reason, Ihyeon's eyes grew hot. He was clearly burning, as if coated thickly in the essence of pheromones all over his body.</p>
+<p>The sight of him merely suppressing his desire — cock fully engorged yet seemingly suspended between what to do with it and how to find release — made him resemble an inexperienced young man still awkward with his own body. For some reason, Yeehyeon's eyes grew hot. He was clearly burning, as if coated thickly in the essence of pheromones all over his body.</p>
 
 <p>He reached out, grasped Liu's wrist, and pulled him closer. Then, burying his face in the pillow, he drew his legs together.</p>
 
 <p>"......"</p>
 
-<p>After a moment of hesitation, Liu lay down, his chest pressing against Ihyeon's back. His arms slipped under Ihyeon's armpits, pulling him in tightly, and he pressed his cock between their thighs, struggling to control his large body. His restraint — as much as his unrestrained urge toward Ihyeon — was endearing.</p>
+<p>After a moment of hesitation, Liu lay down, his chest pressing against Yeehyeon's back. His arms slipped under Yeehyeon's armpits, pulling him in tightly, and he pressed his cock between their thighs, struggling to control his large body. His restraint — as much as his unrestrained urge toward Yeehyeon — was endearing.</p>
 
-<p>He was detached, as if relying solely on the physical friction applied to his cock to bring about release. The nature of his movements was completely different from when he was caressing Ihyeon. He seemed to be concentrating all his energy on ignoring the fact that by shifting the angle of his hips just slightly, he could penetrate Ihyeon's body — the interior of his Didi, where a fantastic experience awaited.</p>
+<p>He was detached, as if relying solely on the physical friction applied to his cock to bring about release. The nature of his movements was completely different from when he was caressing Yeehyeon. He seemed to be concentrating all his energy on ignoring the fact that by shifting the angle of his hips just slightly, he could penetrate Yeehyeon's body — the interior of his Didi, where a fantastic experience awaited.</p>
 
-<p>Ihyeon reached his arms back, sinking his fingers into the firm, sculpted muscles of Liu's hips and pulling him closer. Almost simultaneously, the space between his legs grew warm and wet. Liu slowly and smoothly twisted his large body, rubbing his entire frame against Ihyeon's. His pheromones, which had seemed to burn crimson, were now settling into a gentler orange glow.</p>
+<p>Yeehyeon reached his arms back, sinking his fingers into the firm, sculpted muscles of Liu's hips and pulling him closer. Almost simultaneously, the space between his legs grew warm and wet. Liu slowly and smoothly twisted his large body, rubbing his entire frame against Yeehyeon's. His pheromones, which had seemed to burn crimson, were now settling into a gentler orange glow.</p>
 
-<p>Ihyeon turned his head and stroked Liu's hair. This was no hallucination or perfume. Tonight, he could truly fall asleep enveloped in his real pheromones.</p>
+<p>Yeehyeon turned his head and stroked Liu's hair. This was no hallucination or perfume. Tonight, he could truly fall asleep enveloped in his real pheromones.</p>
 
 <p>What if Liu hadn't been there when he woke up, what if he had been lying there alone as usual? Even though he had chastised Liu for flying such a long distance without enduring just one more day, it certainly didn't mean he wasn't happy about this early reunion.</p>
 
-<p>Ihyeon buried his face back into the pillow as if he might fall asleep at any moment and closed his eyes.</p>
+<p>Yeehyeon buried his face back into the pillow as if he might fall asleep at any moment and closed his eyes.</p>
 
 <p>"Mmm... sleep like this."</p>
 
-<p>Liu, who had been nibbling gently at the area around his shoulder, placed his hand over Ihyeon's on his back.</p>
+<p>Liu, who had been nibbling gently at the area around his shoulder, placed his hand over Yeehyeon's on his back.</p>
 
 <p>"I'll go on a diet."</p>
 
-<p>Ihyeon let out a weak laugh at the response, which was delivered with complete seriousness and no trace of humor. He wanted to exchange a few more of these nonsensical conversations, but he felt he couldn't possibly manage it anymore. A slow, devoted, long kiss began to envelop his prone body.</p>
+<p>Yeehyeon let out a weak laugh at the response, which was delivered with complete seriousness and no trace of humor. He wanted to exchange a few more of these nonsensical conversations, but he felt he couldn't possibly manage it anymore. A slow, devoted, long kiss began to envelop his prone body.</p>
 
 <p>If he fell asleep now, he thought he might dream of Erich and his Ghost finally reuniting in tumultuous Florence.</p>

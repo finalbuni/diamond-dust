@@ -93,13 +93,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>With only the upstairs catering setup left to finish, the 3:00 opening would be fine. We gathered around the table, each with a cup of coffee the Teacher had brought, to enjoy one last moment of ease before things got underway.</p>
 
-<p>"Yuni and Juhan will take turns with clients. There are times when clients have questions about the artwork and both the Director and I are unavailable. When it gets busy, there might even be moments where both Yuni and Juhan have to leave the desk unattended. Ihyeon, all you need to do is hand out pamphlets at the desk."</p>
+<p>"Yuni and Juhan will take turns with clients. There are times when clients have questions about the artwork and both the Director and I are unavailable. When it gets busy, there might even be moments where both Yuni and Juhan have to leave the desk unattended. Yeehyeon, all you need to do is hand out pamphlets at the desk."</p>
 
 <p>I wasn't shy — just unused to this kind of thing — so I figured I could manage that much somehow.</p>
 
 <p>"Smiling and being warm... will it be all right if I can't quite manage that?"</p>
 
-<p>"It's fine, it's fine. Ihyeon, your expressionless face is actually charming — clients will probably like it even more. Don't worry about that..."</p>
+<p>"It's fine, it's fine. Yeehyeon, your expressionless face is actually charming — clients will probably like it even more. Don't worry about that..."</p>
 
 <p>The Teacher's encouraging words — that my deadpan expression was charming, a claim I found hard to agree with — gradually trailed off and then stopped entirely. The smile slowly drained from her face until, in the end, it contorted into a full grimace, as though she'd just swallowed something bitter.</p>
 
@@ -443,7 +443,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>His gaze drifted toward my chest, as if searching for a name tag.</p>
 
-<p>"Seo Ihyeon."</p>
+<p>"Seo Yeehyeon."</p>
 
 <p>He studied me for a moment, then gave a slow shake of his head.</p>
 
@@ -453,7 +453,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Since he hadn't made any direct proposition, I couldn't find a reason to react. He didn't seem to expect one, either.</p>
 
-<p>"I'd like Ihyeon to recommend one piece. What do you think would be good? Something relaxing."</p>
+<p>"I'd like Yeehyeon to recommend one piece. What do you think would be good? Something relaxing."</p>
 
 <p>"I'm just a part-timer helping out for today..."</p>
 

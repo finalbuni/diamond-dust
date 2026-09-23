@@ -10,7 +10,7 @@ section_count: 11
 permalink: /sections/chapter-32/10/
 excerpt_separator: "<!-- section-excerpt-end -->"
 ---
-<p>Leaning on Liu's arm, Ihyeon drained an entire bottle of water and then immediately flopped down. He appeared to have literally no energy left to twitch a single finger — to the point of not caring that his lower body was uncovered. Looking down at those moist eyes staring blankly at the ceiling, Liu gently stroked his cheek with the back of his hand.</p>
+<p>Leaning on Liu's arm, Yeehyeon drained an entire bottle of water and then immediately flopped down. He appeared to have literally no energy left to twitch a single finger — to the point of not caring that his lower body was uncovered. Looking down at those moist eyes staring blankly at the ceiling, Liu gently stroked his cheek with the back of his hand.</p>
 
 <p>"Handsome men have it easy."</p>
 
@@ -18,9 +18,9 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"You're just lying there exhausted after four hours, and yet you look like you're steeped in the melancholy of life and art."</p>
 
-<p>A faint chuckle escaped Ihyeon. Even that seemed to take effort. Liu lay down on his side next to him.</p>
+<p>A faint chuckle escaped Yeehyeon. Even that seemed to take effort. Liu lay down on his side next to him.</p>
 
-<p>Ihyeon, hands loosely clasped over his chest, asked as if he couldn't believe it.</p>
+<p>Yeehyeon, hands loosely clasped over his chest, asked as if he couldn't believe it.</p>
 
 <p>"Were we really like that for four hours?"</p>
 
@@ -28,7 +28,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"......"</p>
 
-<p>Knowing he had nothing to say to that, Ihyeon fell silent. Liu propped his head on his palm and gently smoothed back the hair stuck to Ihyeon's forehead.</p>
+<p>Knowing he had nothing to say to that, Yeehyeon fell silent. Liu propped his head on his palm and gently smoothed back the hair stuck to Yeehyeon's forehead.</p>
 
 <p>"I still have legs, right?"</p>
 
@@ -36,17 +36,17 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Down there... it feels tattered."</p>
 
-<p>Ihyeon paused as if hesitating, then used a bolder word than usual — as if no other expression came to mind.</p>
+<p>Yeehyeon paused as if hesitating, then used a bolder word than usual — as if no other expression came to mind.</p>
 
 <p>"If you say things like that, I might get worked up again."</p>
 
 <p>"No way..."</p>
 
-<p>Ihyeon raised his arms and covered his face with both hands. He wiped his face a couple of times, then glanced down. Sure enough, Liu's cock was still at least half-erect — not fully hard, but not fully subsided either. Protruding from the center of his sideways-lying body, it curved downward toward the mattress, too heavy to stand on its own.</p>
+<p>Yeehyeon raised his arms and covered his face with both hands. He wiped his face a couple of times, then glanced down. Sure enough, Liu's cock was still at least half-erect — not fully hard, but not fully subsided either. Protruding from the center of his sideways-lying body, it curved downward toward the mattress, too heavy to stand on its own.</p>
 
-<p>The moment Ihyeon saw its shape, its color, the veins pushing up through the skin — his body responded. Unconsciously, he tightened below. His mouth went dry. His heart began to race. This endless wanting was incomprehensible even to himself. <em>It's not like I can only blame Kun... I'm just as bad.</em></p>
+<p>The moment Yeehyeon saw its shape, its color, the veins pushing up through the skin — his body responded. Unconsciously, he tightened below. His mouth went dry. His heart began to race. This endless wanting was incomprehensible even to himself. <em>It's not like I can only blame Kun... I'm just as bad.</em></p>
 
-<p>But even if his body wanted it, physically it was genuinely impossible now. Ihyeon pretended not to notice and raised his gaze from between Liu's legs to his face instead.</p>
+<p>But even if his body wanted it, physically it was genuinely impossible now. Yeehyeon pretended not to notice and raised his gaze from between Liu's legs to his face instead.</p>
 
 <p>"I forgot to mention — I got a call from your nuna when we were at the gallery earlier."</p>
 
@@ -74,41 +74,41 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Even though they had endured longer and harsher stretches before, the remaining few months ahead felt strangely daunting to Liu.</p>
 
-<p>Because he had now tasted the joy of daily life with Ihyeon. The happiness of looking at him and smiling, holding him, kissing him, with no secrets between them. The happiness of falling asleep to his face and waking up to it.</p>
+<p>Because he had now tasted the joy of daily life with Yeehyeon. The happiness of looking at him and smiling, holding him, kissing him, with no secrets between them. The happiness of falling asleep to his face and waking up to it.</p>
 
-<p>Looking down at Ihyeon, lost in thought, Liu traced his index finger along the clean line of his profile. Just as he was about to trace over his lips, Ihyeon's eyes turned toward him.</p>
+<p>Looking down at Yeehyeon, lost in thought, Liu traced his index finger along the clean line of his profile. Just as he was about to trace over his lips, Yeehyeon's eyes turned toward him.</p>
 
 <p>"Did you tell your parents about us going to Bali?"</p>
 
 <p>"Hmm... not yet."</p>
 
-<p>Ihyeon moved his head, adjusting the pillow, and turned more decisively toward him.</p>
+<p>Yeehyeon moved his head, adjusting the pillow, and turned more decisively toward him.</p>
 
 <p>"Still, Kun should be the one to keep reaching out first."</p>
 
 <p>"I know."</p>
 
-<p>Liu laughed awkwardly, avoiding his gaze while doing nothing but lightly tracing Ihyeon's lips.</p>
+<p>Liu laughed awkwardly, avoiding his gaze while doing nothing but lightly tracing Yeehyeon's lips.</p>
 
-<p>Because of the incident of Changing Ihyeon, Liu's parents had strongly rebuked their son. And that issue remained unresolved between them. While they hadn't avoided situations requiring them to meet, the intimacy and warmth that once existed had not been restored.</p>
+<p>Because of the incident of Changing Yeehyeon, Liu's parents had strongly rebuked their son. And that issue remained unresolved between them. While they hadn't avoided situations requiring them to meet, the intimacy and warmth that once existed had not been restored.</p>
 
 <p>"Should I... try visiting them?"</p>
 
-<p>Ihyeon said it cautiously. Liu shook his head several times, then pressed his cheek against Ihyeon's chest and wrapped his arms around his waist.</p>
+<p>Yeehyeon said it cautiously. Liu shook his head several times, then pressed his cheek against Yeehyeon's chest and wrapped his arms around his waist.</p>
 
 <p>"I don't want to show you how uncomfortable we are with each other over this."</p>
 
 <p>"Are you going to be childish about it?"</p>
 
-<p>Even as he spoke to chide him, the touch of Ihyeon's hand stroking Liu's hair was only gentle.</p>
+<p>Even as he spoke to chide him, the touch of Yeehyeon's hand stroking Liu's hair was only gentle.</p>
 
-<p>Liu's parents were soft on Ihyeon. There was likely some guilt and sense of debt toward their Ghost son's Changed partner — but beyond that, they simply viewed Seo Ihyeon, in his very nature, as someone precious and lovely.</p>
+<p>Liu's parents were soft on Yeehyeon. There was likely some guilt and sense of debt toward their Ghost son's Changed partner — but beyond that, they simply viewed Seo Yeehyeon, in his very nature, as someone precious and lovely.</p>
 
-<p>Suki Kim in particular treasured the strange connection she had with Ihyeon. The child she had personally evaluated and given a special prize to years ago had become her son's lover — and that son and he were the world's only Ghost and Diamond Dust pair. She believed it was no ordinary bond.</p>
+<p>Suki Kim in particular treasured the strange connection she had with Yeehyeon. The child she had personally evaluated and given a special prize to years ago had become her son's lover — and that son and he were the world's only Ghost and Diamond Dust pair. She believed it was no ordinary bond.</p>
 
-<p>If the two of them visited together, they could probably restore the relationship much faster. After all, those people could never be cold to Ihyeon. But thinking of Ihyeon trying to navigate the invisible awkward atmosphere... Liu didn't want to put that burden on him.</p>
+<p>If the two of them visited together, they could probably restore the relationship much faster. After all, those people could never be cold to Yeehyeon. But thinking of Yeehyeon trying to navigate the invisible awkward atmosphere... Liu didn't want to put that burden on him.</p>
 
-<p>Stroking Ihyeon's flat stomach with his large palm, Liu spoke quietly.</p>
+<p>Stroking Yeehyeon's flat stomach with his large palm, Liu spoke quietly.</p>
 
 <p>"I know they went as far as a fake divorce for me — a Ghost — and did everything they could to protect me. Changing you... they might feel like it made all that effort worthless."</p>
 
@@ -116,7 +116,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"I've explained everything — the time we spent, how we chose to love each other again. The whole process. But they still won't change... I don't know what else to do."</p>
 
-<p>Ihyeon ran his fingers through Liu's hair, combing it softly downward.</p>
+<p>Yeehyeon ran his fingers through Liu's hair, combing it softly downward.</p>
 
 <p>"It's probably less that they're angry and more that they were shocked. They might just need a little more time."</p>
 
@@ -128,7 +128,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"You'll try, even if it's just for my sake?"</p>
 
-<p>Liu lifted his head and looked back at Ihyeon.</p>
+<p>Liu lifted his head and looked back at Yeehyeon.</p>
 
 <p>"See? I told you — you've finally learned how to handle me."</p>
 
@@ -136,13 +136,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"How could I not? I wish you'd be even rougher with me."</p>
 
-<p>Liu sat up, leaned forward, and gave Ihyeon a brief kiss on the lips. He wanted more water, but every bottle was empty. Getting off the bed, Liu found the least damp towel and wrapped it around his waist.</p>
+<p>Liu sat up, leaned forward, and gave Yeehyeon a brief kiss on the lips. He wanted more water, but every bottle was empty. Getting off the bed, Liu found the least damp towel and wrapped it around his waist.</p>
 
 <p>"I'll go get more water."</p>
 
-<p>Ihyeon's gaze followed him as he left the bedroom. Even with the towel wrapped around him, his front was noticeable — that part of him jutting out prominently. Ihyeon knew it would take a few more minutes to fully subside.</p>
+<p>Yeehyeon's gaze followed him as he left the bedroom. Even with the towel wrapped around him, his front was noticeable — that part of him jutting out prominently. Yeehyeon knew it would take a few more minutes to fully subside.</p>
 
-<p>When Liu returned with fresh water, Ihyeon was already propped up against the pillow. Ihyeon accepted the new bottle Liu handed him. He had just drained an entire one moments ago, but he downed half of this one in a single go.</p>
+<p>When Liu returned with fresh water, Yeehyeon was already propped up against the pillow. Yeehyeon accepted the new bottle Liu handed him. He had just drained an entire one moments ago, but he downed half of this one in a single go.</p>
 
 <p>"What time is the flight the day after tomorrow?"</p>
 
@@ -150,7 +150,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Crumpling the empty water bottle in his hand with a crunch, Liu feigned complete ignorance.</p>
 
-<p>After returning to Paris together tomorrow, Liu was supposed to fly back to Seoul the day after. A month after that, they had a two-week trip to Bali planned — to find a place to live and sign a contract in advance. But just now, during the knotting, Ihyeon had told him not to go.</p>
+<p>After returning to Paris together tomorrow, Liu was supposed to fly back to Seoul the day after. A month after that, they had a two-week trip to Bali planned — to find a place to live and sign a contract in advance. But just now, during the knotting, Yeehyeon had told him not to go.</p>
 
 <p>"What I said earlier... you understand, right?"</p>
 
@@ -160,7 +160,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Hmm... So all that crying and saying you didn't want us to break up was just because of the pheromones?"</p>
 
-<p>Ihyeon fidgeted with the water bottle with anxious hands, not meeting Liu's eyes.</p>
+<p>Yeehyeon fidgeted with the water bottle with anxious hands, not meeting Liu's eyes.</p>
 
 <p>"K-Kun, you know too. How I get when I'm exposed to pheromones."</p>
 
@@ -168,13 +168,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"I suppose so."</p>
 
-<p>Liu leaned forward, bracing on the sheets, and tucked Ihyeon's hair behind his ear.</p>
+<p>Liu leaned forward, bracing on the sheets, and tucked Yeehyeon's hair behind his ear.</p>
 
-<p>"I'm looking forward to it, actually. Pheromone-free sex with Seo Ihyeon."</p>
+<p>"I'm looking forward to it, actually. Pheromone-free sex with Seo Yeehyeon."</p>
 
 <p>Sex achieved purely through love and physical sensation, without the powerful aphrodisiac effect of pheromones. Like Betas.</p>
 
-<p>Ihyeon glanced sideways at Liu. Liu wore that confident expression — the face of someone who believed he could make Ihyeon cry and lose half his mind even without pheromones — as he pursed his lips and moved closer. Ihyeon pushed those lips away with his palm.</p>
+<p>Yeehyeon glanced sideways at Liu. Liu wore that confident expression — the face of someone who believed he could make Yeehyeon cry and lose half his mind even without pheromones — as he pursed his lips and moved closer. Yeehyeon pushed those lips away with his palm.</p>
 
 <p>"When I become a Golden, every time Awi acts this annoying, I'll flood you with pheromones so you can't move a muscle."</p>
 
@@ -190,4 +190,4 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"If I'm looking forward to that too, that's a serious case, isn't it?"</p>
 
-<p>Thump. Ihyeon leaned his forehead against Liu's shoulder. Then he started laughing, muffling the sound. The tremor of that laughter transferred directly to Liu, as if they were one.</p>
+<p>Thump. Yeehyeon leaned his forehead against Liu's shoulder. Then he started laughing, muffling the sound. The tremor of that laughter transferred directly to Liu, as if they were one.</p>

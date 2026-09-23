@@ -20,7 +20,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He muttered to himself as he opened the cabinet above the sink to look for the dripper and filter, scanning the interior that looked as if it had been bombed.</p>
 
-<p>A considerable amount of time had passed since Ihyeon left and could no longer help with household chores, and in the nearly two years since, Manager Han had yet to find a housekeeper that met her standards. With Phantom currently under construction, she was handling the household herself for the time being, but she knew she would need to hire someone new soon.</p>
+<p>A considerable amount of time had passed since Yeehyeon left and could no longer help with household chores, and in the nearly two years since, Manager Han had yet to find a housekeeper that met her standards. With Phantom currently under construction, she was handling the household herself for the time being, but she knew she would need to hire someone new soon.</p>
 
 <p>"As long as it's out of sight, I just shove things in wherever there's space. I've even been thinking about moving somewhere bigger."</p>
 
@@ -38,7 +38,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Whether she realized it or not, Liu was also a resident of Korea who had grown accustomed to being constantly exposed to both high-quality and trivial information flooding his smartphone the moment he unlocked it. He used to use his phone as though it were a relic from the PDA era, but lately, he found himself picking it up far more often.</p>
 
-<p>He recalled Ihyeon's studio, barely nine square meters, where books and art supplies were neatly stacked along the walls despite the limited storage space, and even the socks and underwear in the drawers were meticulously organized. He rubbed the ring on his left ring finger with his thumb and bent down again.</p>
+<p>He recalled Yeehyeon's studio, barely nine square meters, where books and art supplies were neatly stacked along the walls despite the limited storage space, and even the socks and underwear in the drawers were meticulously organized. He rubbed the ring on his left ring finger with his thumb and bent down again.</p>
 
 <p>He found the dripper abandoned inside a large salad bowl alongside a trivet, a small steamer, and Christmas tree ornaments. He rescued the dripper and, holding it alongside one of the ornaments, shook it by the tip.</p>
 
@@ -50,9 +50,9 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>As he poured water slowly in circular motions over the grounds in the filter, the aroma spread into every corner of the room. Unlike in the past, when he had felt uneasy with almost all scents due to his resistance to pheromones, he had recently begun to enjoy them little by little.</p>
 
-<p>That change had started with Ihyeon's pheromones and his body scent, but if Ihyeon hadn't accepted him, he wouldn't have had the leisure to find comfort in something as simple as the smell of coffee. No — it wasn't just about the smell of coffee.</p>
+<p>That change had started with Yeehyeon's pheromones and his body scent, but if Yeehyeon hadn't accepted him, he wouldn't have had the leisure to find comfort in something as simple as the smell of coffee. No — it wasn't just about the smell of coffee.</p>
 
-<p>He would likely have denied his identity as an Alpha and a Ghost even more strongly than before. Almost to the point of hatred. He might have even tried to damage his sense of smell by ignoring warnings and taking excessive suppressants, just to escape the influence of pheromones. Without Ihyeon's forgiveness, neither his current self nor the hope he now held for the future would exist.</p>
+<p>He would likely have denied his identity as an Alpha and a Ghost even more strongly than before. Almost to the point of hatred. He might have even tried to damage his sense of smell by ignoring warnings and taking excessive suppressants, just to escape the influence of pheromones. Without Yeehyeon's forgiveness, neither his current self nor the hope he now held for the future would exist.</p>
 
 <p>He had never imagined a life in which someone could accept his mistakes and his very existence, making it possible for him to accept himself. He had once considered it an act of dependency — handing the judgment of one's own worth over to someone else.</p>
 
@@ -60,21 +60,21 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He returned to the dining table with two cups of coffee and handed one to Manager Han, who was seated across from him.</p>
 
-<p>Come to think of it, this very spot — right here at this dining table — was where he had first deliberately opened his pheromones to Ihyeon. Back then, Manager Han had been sitting where Liu was now, and Ihyeon had been sitting where Liu was now.</p>
+<p>Come to think of it, this very spot — right here at this dining table — was where he had first deliberately opened his pheromones to Yeehyeon. Back then, Manager Han had been sitting where Liu was now, and Yeehyeon had been sitting where Liu was now.</p>
 
-<p>Recalling Ihyeon from that time, shortly after they first met, made the corners of his mouth tingle. Liu brought the mug to his lips, trying to hide the unstoppable smile spreading across his face.</p>
+<p>Recalling Yeehyeon from that time, shortly after they first met, made the corners of his mouth tingle. Liu brought the mug to his lips, trying to hide the unstoppable smile spreading across his face.</p>
 
 <p>He hadn't been generous about accepting new people into his routine and life. Perhaps because manipulative people, or those who presented a different face from their true selves, frequently appeared around him and his parents, it had taken him a long time to trust anyone. He used to think it was more efficient — both emotionally and in terms of time — to set standards from the beginning and only accept people who met them, rather than beginning with unconditional trust and then going through the exhausting process of filtering out those who caused repeated disappointments.</p>
 
-<p>He had tried to approach Ihyeon with that hardened inertia, but it didn't take long before he had to admit that Ihyeon was harmless.</p>
+<p>He had tried to approach Yeehyeon with that hardened inertia, but it didn't take long before he had to admit that Yeehyeon was harmless.</p>
 
-<p>Though cautious with every stimulus around him, Ihyeon never hid his curiosity, which set him apart from people with passive personalities. He wasn't bold or sociable, but he wasn't closed off either. His quiet lips, which never seemed to complain, made Liu search with his eyes, wondering if Ihyeon was silently pushing himself too hard somewhere again.</p>
+<p>Though cautious with every stimulus around him, Yeehyeon never hid his curiosity, which set him apart from people with passive personalities. He wasn't bold or sociable, but he wasn't closed off either. His quiet lips, which never seemed to complain, made Liu search with his eyes, wondering if Yeehyeon was silently pushing himself too hard somewhere again.</p>
 
-<p>It wasn't difficult to make a good impression early on. Most people could skillfully hide their flaws up to a certain point. Liu had tried to restrain himself from accepting Ihyeon so quickly, which was rare for him, but it yielded little result.</p>
+<p>It wasn't difficult to make a good impression early on. Most people could skillfully hide their flaws up to a certain point. Liu had tried to restrain himself from accepting Yeehyeon so quickly, which was rare for him, but it yielded little result.</p>
 
-<p>He had been almost starting to feel anxious that some romantic incident might intrude between Choi Inwu and Ihyeon. At the time, he certainly had no intention of admitting that, nor did he try to find out why.</p>
+<p>He had been almost starting to feel anxious that some romantic incident might intrude between Choi Inwu and Yeehyeon. At the time, he certainly had no intention of admitting that, nor did he try to find out why.</p>
 
-<p>Recalling how he had casually warned Ihyeon, sitting right there in that very spot, about Choi Inwu's flippancy and recklessness in romance — pretending it was offhand advice offered because he felt uneasy just watching — a hollow laugh escaped him, deflating him with disgust. He had been fortunate that Ihyeon at the time was too inexperienced in romantic matters to recognize it as the ugly defensiveness of a jealous man.</p>
+<p>Recalling how he had casually warned Yeehyeon, sitting right there in that very spot, about Choi Inwu's flippancy and recklessness in romance — pretending it was offhand advice offered because he felt uneasy just watching — a hollow laugh escaped him, deflating him with disgust. He had been fortunate that Yeehyeon at the time was too inexperienced in romantic matters to recognize it as the ugly defensiveness of a jealous man.</p>
 
 <p>"Here."</p>
 
@@ -142,11 +142,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>As if struggling to find the right expression, she furrowed her brow and scratched her cheek with her index finger, then suddenly let her shoulders drop and let out a small laugh.</p>
 
-<p>"Is this because Ihyeon isn't here?"</p>
+<p>"Is this because Yeehyeon isn't here?"</p>
 
 <p>Liu brought the mug to his lips and smiled at the question, delivered with a teasing lilt. But he didn't deny it either.</p>
 
-<p>It wasn't entirely wrong, but it wasn't the whole story either. Perhaps Liu had subconsciously begun creating emotional distance from Phantom ever since he approved Juhan's plan to open a café within the gallery — even before he had known that Ihyeon agreed to take him back.</p>
+<p>It wasn't entirely wrong, but it wasn't the whole story either. Perhaps Liu had subconsciously begun creating emotional distance from Phantom ever since he approved Juhan's plan to open a café within the gallery — even before he had known that Yeehyeon agreed to take him back.</p>
 
 <p>"You two have things sorted out now."</p>
 
@@ -160,11 +160,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>The ring carried a meaning complicated to explain, and the process by which it had come to hold that complex meaning was no simple matter either.</p>
 
-<p>"I don't know about Director Liu, but I really want to work with Ihyeon after he leaves 'The Hands.' I don't want him to return out of a sense of obligation to repay a debt — I want to assure him that Phantom is the team that will best understand and take care of his art."</p>
+<p>"I don't know about Director Liu, but I really want to work with Yeehyeon after he leaves 'The Hands.' I don't want him to return out of a sense of obligation to repay a debt — I want to assure him that Phantom is the team that will best understand and take care of his art."</p>
 
 <p>Liu pressed his lips together and slowly nodded. It wasn't so much agreement with the opinion itself, but a nod indicating that he fully understood Manager Han's feelings.</p>
 
-<p>"So treat Ihyeon well. I don't want to lose him because of Director Liu's personal mistake."</p>
+<p>"So treat Yeehyeon well. I don't want to lose him because of Director Liu's personal mistake."</p>
 
 <p>Hearing those words, Liu relaxed and smiled. A joke delivered without knowing the full context, yet it was enough to make his legs tingle.</p>
 
@@ -198,9 +198,9 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Liu denied it with a laugh that suggested the idea was absurd, as if there were no lingering resentment between them — but by any measure, the atmosphere between the two was far from smooth.</p>
 
-<p>More than a year had passed since Inwu had told him about kissing Ihyeon. Before he could even begin to feel jealous or confront Inwu about it, he'd had to focus entirely on Ihyeon, who had just learned about the Changing. After Ihyeon left for Paris, the emptiness and pain that followed had made jealousy over a kiss feel insignificant for a long time. Above all, considering what he himself had done, criticizing Inwu over a kiss felt utterly undeserved.</p>
+<p>More than a year had passed since Inwu had told him about kissing Yeehyeon. Before he could even begin to feel jealous or confront Inwu about it, he'd had to focus entirely on Yeehyeon, who had just learned about the Changing. After Yeehyeon left for Paris, the emptiness and pain that followed had made jealousy over a kiss feel insignificant for a long time. Above all, considering what he himself had done, criticizing Inwu over a kiss felt utterly undeserved.</p>
 
-<p>Sometimes they still went to a bar for drinks, just as they had before. Perhaps out of guilt, Inwu would occasionally bring good liquor or snacks to Liu's place. Yet there were still moments when seeing Inwu's face brought the kiss back to mind. The fierce rage that surged each time never seemed to fade, no matter how much time passed. Just as the fact that the man before him had kissed Ihyeon couldn't simply vanish, no matter how many months elapsed.</p>
+<p>Sometimes they still went to a bar for drinks, just as they had before. Perhaps out of guilt, Inwu would occasionally bring good liquor or snacks to Liu's place. Yet there were still moments when seeing Inwu's face brought the kiss back to mind. The fierce rage that surged each time never seemed to fade, no matter how much time passed. Just as the fact that the man before him had kissed Yeehyeon couldn't simply vanish, no matter how many months elapsed.</p>
 
 <p>"I brought this on myself."</p>
 
@@ -212,7 +212,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Liu, who had been reaching for the doorknob, turned around.</p>
 
-<p>"I didn't hear that from Ihyeon."</p>
+<p>"I didn't hear that from Yeehyeon."</p>
 
 <p>Inwu pointed in the direction Manager Han had gone and added, as if making an excuse,</p>
 
@@ -224,19 +224,19 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"You should go for it. He'd be glad to see you. He's more broad-minded than I am."</p>
 
-<p>"Ihyeon is practically a married man now..."</p>
+<p>"Yeehyeon is practically a married man now..."</p>
 
-<p>Inwu's gaze slanted toward Liu's left hand. This time, Liu curled his fingers lightly, touching the ring as if to protect it. As he was considering how much he could explain — that Ihyeon bore no responsibility for this ring — while still standing at the entryway, Inwu hesitated before continuing.</p>
+<p>Inwu's gaze slanted toward Liu's left hand. This time, Liu curled his fingers lightly, touching the ring as if to protect it. As he was considering how much he could explain — that Yeehyeon bore no responsibility for this ring — while still standing at the entryway, Inwu hesitated before continuing.</p>
 
 <p>"If a male Alpha... who has a history of ambush-kissing my former partner keeps bothering me, I'd feel pretty bad too. Just pass along my regards."</p>
 
 <p>The eased feeling twisted more hideously than before, like a plastic bottle crushed firmly underfoot. Liu, who had been looking down at Inwu's shoes, swept his hair back and raised his head.</p>
 
-<p>"Were you planning on calling Ihyeon and bothering him?"</p>
+<p>"Were you planning on calling Yeehyeon and bothering him?"</p>
 
 <p>"......"</p>
 
-<p>Inwu's expression made it clear he realized his mistake too late. Liu knew that wasn't what he had meant to say. He couldn't help it — when it came to Ihyeon, he became pettier and more confrontational than usual.</p>
+<p>Inwu's expression made it clear he realized his mistake too late. Liu knew that wasn't what he had meant to say. He couldn't help it — when it came to Yeehyeon, he became pettier and more confrontational than usual.</p>
 
 <p>"If that's the case, just stop contacting him altogether. I'll pass along your regards."</p>
 

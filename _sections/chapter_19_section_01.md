@@ -67,7 +67,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Hmph. I wonder if you'd say the same thing if you'd actually seen me naked. I may be skinny everywhere else, but that one spot is nothing to be ashamed of — "</p>
 
-<p>"Seo Ihyeon, I missed you. Still a little honeybee, aren't you?"</p>
+<p>"Seo Yeehyeon, I missed you. Still a little honeybee, aren't you?"</p>
 
 <p>Yuni, who had been listening to Juhan's boasting with one corner of her lip pulled up in displeasure, spun around toward me and smiled brightly before he could even finish his sentence. This was the first time I had seen her since the barbecue party.</p>
 
@@ -75,7 +75,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Juhan forgot about interrogating her over the earlier dismissal and instead became interested in the nickname she had given me. The two, who had been bickering moments ago, quickly fell back into sync and enthusiastically riffed on the new nickname. Even this kind of noise felt like it had been a while.</p>
 
-<p>"Director, didn't I come up with a great nickname? It suits Ihyeon, right? Seo Honeybee. Honeybee."</p>
+<p>"Director, didn't I come up with a great nickname? It suits Yeehyeon, right? Seo Honeybee. Honeybee."</p>
 
 <p>Setting the paper bag on the table, he glanced at Yuni, who had draped her arm over my shoulder. His gaze then shifted immediately to me, sweeping over the striped t-shirt across my chest and stomach.</p>
 
@@ -105,7 +105,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He cracked a joke, the slight stiffness in his expression from moments before softening away.</p>
 
-<p>"So you're getting into the real work now? Looking forward to it — Seo Ihyeon's piece."</p>
+<p>"So you're getting into the real work now? Looking forward to it — Seo Yeehyeon's piece."</p>
 
 <p>"I'm starting to get hungry. Let's continue talking over dinner. The sun's starting to set; should we eat on the rooftop today?"</p>
 
@@ -205,7 +205,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He turned toward me in the seat beside me and set down the burger he had been eating on the tray. I had chosen the Cheese Whopper; he had chosen the Chicken Burger. Neither of us had managed more than a bite or two.</p>
 
-<p>"With me there, the office is already cramped with extra people, the new hires are on edge, and I'm uncomfortable too... so lately I sometimes go to the other place to take care of some work. You know about it, Ihyeon. That duplex villa."</p>
+<p>"With me there, the office is already cramped with extra people, the new hires are on edge, and I'm uncomfortable too... so lately I sometimes go to the other place to take care of some work. You know about it, Yeehyeon. That duplex villa."</p>
 
 <p>He had no obligation to share every detail of Phantom's internal situation with me, and I had no intention of interrogating him. I nodded as he turned his body toward me and earnestly explained the circumstances, in a manner that was a slight departure from his usual composure.</p>
 
@@ -249,11 +249,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>At his now slightly irritated reply, Yuni shrugged and tossed the crumpled napkin into the corner of the table. Then she leaned her elbows on the table and angled her head toward the straw in the cup in front of her.</p>
 
-<p>"Ihyeon, but where are your sister and hyung right now? Shouldn't they have arrived by now?"</p>
+<p>"Yeehyeon, but where are your sister and hyung right now? Shouldn't they have arrived by now?"</p>
 
 <p>"Yes, they arrived safely in Bali a few days ago."</p>
 
-<p>"Seo Ihyeon, you should send news like that over messenger. This guy has a surprisingly cold side to him."</p>
+<p>"Seo Yeehyeon, you should send news like that over messenger. This guy has a surprisingly cold side to him."</p>
 
 <p>Yuni chided him, brushing her hair back behind her ear with an irritated expression in the cool breeze, and I just laughed awkwardly and rubbed the back of my neck.</p>
 
@@ -263,7 +263,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Already completely tanned before they had even arrived in Bali, the two of them were smiling brightly with backpacks over their shoulders against the backdrop of the Kuta Beach sunset, eyes and teeth gleaming white. It was a scene that would have been impossible without his help.</p>
 
-<p>"But Ihyeon, how long do you have to go on living like this? Can't Director Liu do something about it?"</p>
+<p>"But Yeehyeon, how long do you have to go on living like this? Can't Director Liu do something about it?"</p>
 
 <p>Yuni took a beer bottle from him and, gripping the cap with a napkin to twist it open, directed the question at him.</p>
 
@@ -277,7 +277,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"I don't really feel stifled... I'm not the type to be out and about much anyway..."</p>
 
-<p>"Wouldn't it be better for Ihyeon to go abroad too?"</p>
+<p>"Wouldn't it be better for Yeehyeon to go abroad too?"</p>
 
 <p>"......"</p>
 
@@ -285,7 +285,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Juhan set his beer down on the table and continued, his expression quite serious.</p>
 
-<p>"Ihyeon's nuna's father isn't an ordinary person — that's probably why you, Director, are being so cautious. But just because Ihyeon's sister and hyung arrived safely in Bali doesn't mean Ihyeon is safe. And we can't keep him living a life where he can't even step out to the convenience store near his house without worry. Wouldn't everything be solved if Ihyeon just went abroad too?"</p>
+<p>"Yeehyeon's nuna's father isn't an ordinary person — that's probably why you, Director, are being so cautious. But just because Yeehyeon's sister and hyung arrived safely in Bali doesn't mean Yeehyeon is safe. And we can't keep him living a life where he can't even step out to the convenience store near his house without worry. Wouldn't everything be solved if Yeehyeon just went abroad too?"</p>
 
 <p>"It's not something that can be settled so easily."</p>
 
@@ -309,7 +309,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He and I moved toward the stairs together to see them off.</p>
 
-<p>"Ihyeon, why don't you come out with us? Sometimes it's good to spend time with people whose age starts with the same number as yours."</p>
+<p>"Yeehyeon, why don't you come out with us? Sometimes it's good to spend time with people whose age starts with the same number as yours."</p>
 
 <p>"Hmm, maybe you should say something like that after returning the card of someone whose age starts with a different number."</p>
 
@@ -469,7 +469,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He released the arms around my waist and held the camera up in front of my eyes.</p>
 
-<p>"The way the photographer looks at the subject is all right here. And Seo Ihyeon, you're practically a fortune teller when it comes to reading things like that. You would have figured it out immediately."</p>
+<p>"The way the photographer looks at the subject is all right here. And Seo Yeehyeon, you're practically a fortune teller when it comes to reading things like that. You would have figured it out immediately."</p>
 
 <p>I couldn't deny that in Hong Kong, there had been a subtle exchange of glances and tension between us, different from before. But I had only thought of it as something like an atmosphere floating in the air — not sufficient to be named precisely as attraction or interest. Something that would vanish the moment someone else appeared to pique his curiosity more.</p>
 
@@ -541,7 +541,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Each person he named was a marker on the journey of jealousy he was admitting to. And I couldn't absorb everything he was saying as reality so quickly.</p>
 
-<p>"Hmm. You really do have a face that says you had no idea. Not being sensitive in these matters is one of Seo Ihyeon's charms, but... it scares me a little that you might not even notice if someone made a move on you. Some guys mistake you not cutting them off as an invitation."</p>
+<p>"Hmm. You really do have a face that says you had no idea. Not being sensitive in these matters is one of Seo Yeehyeon's charms, but... it scares me a little that you might not even notice if someone made a move on you. Some guys mistake you not cutting them off as an invitation."</p>
 
 <p>I grabbed his wrist as he stroked the skin above my cheekbone with his thumb, pulled it downward, and shook my head.</p>
 
@@ -577,7 +577,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>After fiddling with my cheeks for a while, he gathered the flesh into a fish-like pout and kissed it, then glanced up at the wall clock behind me.</p>
 
-<p>"My period of confusion — trying to resist the pull of Seo Ihyeon — isn't something to be casually dismissed in passing remarks while standing in front of a sofa, so for today, let's just leave it at this... I won't disturb you further. Get back to work."</p>
+<p>"My period of confusion — trying to resist the pull of Seo Yeehyeon — isn't something to be casually dismissed in passing remarks while standing in front of a sofa, so for today, let's just leave it at this... I won't disturb you further. Get back to work."</p>
 
 <p>No matter what we did, time always passed quickly when the two of us were together. Turning back to check the clock, I realized nearly an hour had passed since we came down to the studio.</p>
 

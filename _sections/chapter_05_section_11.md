@@ -71,7 +71,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Hmm, the photo quality itself isn't bad… but isn't his body too stiff?"</p>
 
-<p>"He's an amateur. But once you take the photo, his face really is convincing. Well… Ihyeon doesn't have any real spark."</p>
+<p>"He's an amateur. But once you take the photo, his face really is convincing. Well… Yeehyeon doesn't have any real spark."</p>
 
 <p>Hyung, who had been looking at the camera screen with his head close to the Director's, raised only his gaze and gave me a playful grin. Being photographed, having the photos shown to someone, exposing my most private self — it all felt so uncomfortable my throat went completely dry. And the Director was being excessively serious, even scrolling back to look at the earlier photos again.</p>
 
@@ -107,7 +107,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He said that, but I couldn't help but mind, nor could I relax. <em>Click. Click.</em> The sound of the shutter clicking continuously came from above, and nuna was still at my feet, changing the direction of the mat's wrinkles this way and that, searching for the desired form.</p>
 
-<p>"Seo Ihyeon-ssi."</p>
+<p>"Seo Yeehyeon-ssi."</p>
 
 <p>His voice calling me was no different from usual. Thinking he had something to say, I raised my head to look up at him — and the moment I did, the aperture opened and closed once more right in front of my eyes.</p>
 
@@ -173,7 +173,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He bent down again, leveling the lens toward me, and added,</p>
 
-<p>"Imagine that person confessing to Seo Ihyeon-ssi."</p>
+<p>"Imagine that person confessing to Seo Yeehyeon-ssi."</p>
 
 <p>At the unexpected remark, my gaze involuntarily fixed on the lens. Despite the pressure of anxiety that everything I normally hid would be completely exposed beyond it, I couldn't look away.</p>
 

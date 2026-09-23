@@ -61,7 +61,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"I'm sorry."</p>
 
-<p>"Ihyeon-ah, don't be like that. What is there to be sorry about? I was just wondering how you've been lately. I haven't picked up a brush in quite a while myself, you know."</p>
+<p>"Yeehyeon-ah, don't be like that. What is there to be sorry about? I was just wondering how you've been lately. I haven't picked up a brush in quite a while myself, you know."</p>
 
 <p>The Teacher said this in a light tone, as if it truly meant nothing, and tilted the water bottle to drink.</p>
 
@@ -115,7 +115,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>From what I could hear, it sounded like another problem had erupted at the gallery. I was glad she'd at least finished eating, and rinsed out the lunchbox containers.</p>
 
-<p>"Ihyeon-ah, what should I do? Something came up at the office — I need to get back quickly. I'm sorry, I said I'd give you a ride first. Take a taxi instead, okay?"</p>
+<p>"Yeehyeon-ah, what should I do? Something came up at the office — I need to get back quickly. I'm sorry, I said I'd give you a ride first. Take a taxi instead, okay?"</p>
 
 <p>"No, it's fine. I've finished cleaning up, and if I leave now I can still catch the bus."</p>
 
@@ -125,4 +125,4 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Still holding the container, I nodded awkwardly. The Teacher strode forward and took hold of my wet hand.</p>
 
-<p>"Ihyeon-ah, save me. No — save my kids."</p>
+<p>"Yeehyeon-ah, save me. No — save my kids."</p>

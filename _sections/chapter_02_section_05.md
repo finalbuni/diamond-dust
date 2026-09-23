@@ -21,7 +21,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Then what was it?"</p>
 
-<p>"What was it, Ihyeon-ah?"</p>
+<p>"What was it, Yeehyeon-ah?"</p>
 
 <p>As if she'd been curious all along, the Teacher turned to me for an answer.</p>
 
@@ -37,7 +37,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"I only thought it needed to look like it had actually been read. I'm sorry."</p>
 
-<p>"Ihyeon-ah, what do you have to apologize for? Kun — what is this? You're going too far."</p>
+<p>"Yeehyeon-ah, what do you have to apologize for? Kun — what is this? You're going too far."</p>
 
 <p>The Teacher set her champagne glass down on the table with a sharp thud.</p>
 
@@ -47,7 +47,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>The icy hostility from yesterday wasn't there, but the sharp edge remained. The Teacher looked mildly annoyed. That was rare.</p>
 
-<p>"You are results-oriented and performance-driven. Thanks to Ihyeon, the Editor-in-Chief was in a good mood and sales went up. You should be rewarding that, not picking fights. I brought him here. Do you have something against him?"</p>
+<p>"You are results-oriented and performance-driven. Thanks to Yeehyeon, the Editor-in-Chief was in a good mood and sales went up. You should be rewarding that, not picking fights. I brought him here. Do you have something against him?"</p>
 
 <p>His eyes turned slowly toward me. I didn't know what their private relationship was or how close they were, but I could sense that he trusted the Teacher completely. Toward her, at least, he didn't wear that expression of weary annoyance, or that villainous smile, or the mechanical smile armed with artificially sweet charm — the kind that felt manufactured rather than meant.</p>
 
@@ -79,7 +79,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Our Director is... a bit overwhelming, isn't he?"</p>
 
-<p>"Don't worry too much about it. He's not like that only with Ihyeon — he's just like that with everyone he meets for the first time," Yuni added.</p>
+<p>"Don't worry too much about it. He's not like that only with Yeehyeon — he's just like that with everyone he meets for the first time," Yuni added.</p>
 
 <p>I smiled to show it was fine and folded the legs of a temporary table that had been set aside.</p>
 
@@ -101,7 +101,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Perhaps embarrassed by how flimsy his own defense sounded — especially after the lengthy explanation he'd just given me about the Golden Alpha Director's exceptional pheromone control — Juhan shot me a self-conscious glance.</p>
 
-<p>"What I'm trying to say is, the Director's personality is just rough — he doesn't particularly dislike you, Ihyeon. That's the point. He's not hostile because he dislikes someone. He treats everyone like that before he starts to like them."</p>
+<p>"What I'm trying to say is, the Director's personality is just rough — he doesn't particularly dislike you, Yeehyeon. That's the point. He's not hostile because he dislikes someone. He treats everyone like that before he starts to like them."</p>
 
 <p>I wasn't sure whether that was comforting, but at least it seemed true that he wasn't singling me out specifically for torment.</p>
 

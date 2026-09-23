@@ -35,7 +35,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Just… the painting."</p>
 
-<p>"About handing over Seo Ihyeon's first piece to another man so readily?"</p>
+<p>"About handing over Seo Yeehyeon's first piece to another man so readily?"</p>
 
 <p>He leaned his elbow on the edge of the tub and tilted his head, twirling a strand of hair around his finger. His dissatisfied expression looked like that of a teenage boy — I thought I'd like to capture this exact look in a photograph, but my phone, with its nearly dead battery, was on the bed.</p>
 

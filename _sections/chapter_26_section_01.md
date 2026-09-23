@@ -27,13 +27,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>The hotel had called to confirm with a guest who had reserved a room — one costing well over ten thousand dollars a night, booked at an even higher rate than usual — and then failed to show up. Liu had forgotten the reservation entirely until the call came through. It was an unnecessary courtesy.</p>
 
-<p>It was a room he had booked assuming he would come to New York with Ihyeon, so he could watch the Ball Drop in comfort.</p>
+<p>It was a room he had booked assuming he would come to New York with Yeehyeon, so he could watch the Ball Drop in comfort.</p>
 
 <p>Securing a room with a direct view of the New Year's Eve Ball had required calling in favors — a whole operation in itself. Now it was just unnecessary baggage. A gift with no one left to receive it.</p>
 
 <p>The hotel employee had hesitantly explained that no refund was possible even without checking in. After Liu's indifferent reply, the employee offered a cheerful New Year's greeting and disappeared from the line. The employee might have felt relieved. Liu found it difficult to concentrate on anything afterward.</p>
 
-<p>He had left Seoul as if fleeing from memories of Ihyeon, yet even here — in a place he had never been with him — he could not escape him.</p>
+<p>He had left Seoul as if fleeing from memories of Yeehyeon, yet even here — in a place he had never been with him — he could not escape him.</p>
 
 <p>As the headache tightened its grip, Liu finally began drinking the whiskey he had brought in the car. Only after slowly finishing two glasses could he manage to reach his apartment. He apologized to the H&W driver for not having a separate gift prepared, handed over a tip as a substitute, and offered a brief New Year's greeting before stepping out. One of the doormen recognized his car, quickly unfurled an umbrella, and came hurrying toward him.</p>
 
@@ -43,7 +43,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Standing in front of the refrigerator, he downed half of it in one go, then slowly walked toward the living room window. He finished the rest while gazing at the skyline surrounding Central Park, shining more brilliantly than usual.</p>
 
-<p>In Seoul, the New Year's morning had already begun. Paris… Paris would be a little later, the dawn of the first day of the year just breaking. <em>Ihyeon — he might already be starting his day diligently. Or maybe he's still in bed, making resolutions for the year.</em> Imagining Ihyeon's eyes darting this way and that in the pale blue early light, Liu shrugged and let out a short laugh.</p>
+<p>In Seoul, the New Year's morning had already begun. Paris… Paris would be a little later, the dawn of the first day of the year just breaking. <em>Yeehyeon — he might already be starting his day diligently. Or maybe he's still in bed, making resolutions for the year.</em> Imagining Yeehyeon's eyes darting this way and that in the pale blue early light, Liu shrugged and let out a short laugh.</p>
 
 <p>He had already been in New York for about three weeks for the Pettibone exhibition planned with H&W. After taking New Year's Day off tomorrow and attending the exhibition opening on January 2nd, all of his mandatory schedule would be finished. But he still hadn't booked his return flight to Seoul.</p>
 
@@ -77,17 +77,17 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Oh? When did you buy this? Here? Or did you already own it? Did you bring it over from Hong Kong?"</p>
 
-<p>Shushu had just passed through the kitchen and was about to sit on the sofa when he pointed toward the painting on the wall opposite with a delighted expression. It was an Edward Hopper piece that Liu had purchased from his father and brought for Ihyeon. It wasn't one of Hopper's most celebrated works, but its characteristics were distinct enough that anyone could identify it at a glance.</p>
+<p>Shushu had just passed through the kitchen and was about to sit on the sofa when he pointed toward the painting on the wall opposite with a delighted expression. It was an Edward Hopper piece that Liu had purchased from his father and brought for Yeehyeon. It wasn't one of Hopper's most celebrated works, but its characteristics were distinct enough that anyone could identify it at a glance.</p>
 
 <p>Liu evaded the question vaguely, using his beer as an excuse to look away. Shushu didn't seem particularly eager to know the painting's origin and let it go.</p>
 
 <p>"You got a new sofa too? And I don't recognize the dining table. For an apartment you stay in maybe once a year, when did you… redecorate like this…"</p>
 
-<p>Shushu's voice gradually slowed as he realized the apartment had been prepared for Ihyeon to live in with Liu.</p>
+<p>Shushu's voice gradually slowed as he realized the apartment had been prepared for Yeehyeon to live in with Liu.</p>
 
-<p>It wasn't as spacious as the places he owned in Seoul or other cities, but this was where he had wanted to start — with Ihyeon. He had planned to set up a separate studio, and one of the three bedrooms had already been converted into an atelier so Ihyeon could pick up a brush whenever he wanted, even at home. Just as he had never managed to bring himself to visit the underground studio where Ihyeon had stayed before coming to New York, Liu had sealed that room off entirely as well.</p>
+<p>It wasn't as spacious as the places he owned in Seoul or other cities, but this was where he had wanted to start — with Yeehyeon. He had planned to set up a separate studio, and one of the three bedrooms had already been converted into an atelier so Yeehyeon could pick up a brush whenever he wanted, even at home. Just as he had never managed to bring himself to visit the underground studio where Yeehyeon had stayed before coming to New York, Liu had sealed that room off entirely as well.</p>
 
-<p>Everything he had prepared to keep Ihyeon here had become a barbed snare, tightening around him and digging into his flesh.</p>
+<p>Everything he had prepared to keep Yeehyeon here had become a barbed snare, tightening around him and digging into his flesh.</p>
 
 <p>Liu met Shushu's pitying gaze for a moment, then deliberately shifted to a lighter tone and changed the subject.</p>
 
@@ -129,7 +129,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Inwu had visited this place with them once. Shushu smiled faintly in the dark, remembering Inwu muttering in disbelief that half the price of this apartment — enough to buy a mansion in any other major city — must be for the view.</p>
 
-<p>That faint smile gradually stiffened and then disappeared. It wasn't difficult to imagine how Liu must have felt, wanting to show Ihyeon this view.</p>
+<p>That faint smile gradually stiffened and then disappeared. It wasn't difficult to imagine how Liu must have felt, wanting to show Yeehyeon this view.</p>
 
 <p>Shushu let out a calm breath and set the envelope he had brought down on the long, simply designed desk positioned before the floor-to-ceiling window, across from the bed. Inside was a plane ticket from New York to Paris, reserved under the name Liu Weikun.</p>
 
@@ -137,7 +137,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>The sound of running water from the en-suite suddenly stopped. Shushu turned quickly, but had to pause once more before leaving the room. <em>Alienation</em> was hanging here, nearly seven thousand miles from Seoul.</p>
 
-<p>After Ihyeon left for Paris, Liu had never once mentioned his name on his own, and when others happened to bring it up, he showed no reaction whatsoever. He hadn't forgotten — but one might have thought he had resolved to try. He kept his feelings hidden to that extent.</p>
+<p>After Yeehyeon left for Paris, Liu had never once mentioned his name on his own, and when others happened to bring it up, he showed no reaction whatsoever. He hadn't forgotten — but one might have thought he had resolved to try. He kept his feelings hidden to that extent.</p>
 
 <p>But he hadn't forgotten, nor did he intend to. He simply wasn't the type to complain about his pain or seek advice from those around him. The very fact that he had brought the painting all this way for a business trip that lasted barely a month said everything.</p>
 
@@ -155,13 +155,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Liu glanced over, fingers on the third button.</p>
 
-<p>"Ihyeon's painting."</p>
+<p>"Yeehyeon's painting."</p>
 
 <p>"……"</p>
 
 <p>His hands slowed for just a moment. He said nothing — only scraped his lower lip lightly with his teeth, pretending to focus on the button.</p>
 
-<p>"Ihyeon unveiled his work for the first time this month, through 'The Hands.'"</p>
+<p>"Yeehyeon unveiled his work for the first time this month, through 'The Hands.'"</p>
 
 <p>Liu fastened the last button, raised his head, and stared at the ceiling, running his tongue along the inside of his cheek. He was clearly signaling he didn't want to discuss this — but Shushu had no intention of stopping until he showed something.</p>
 
@@ -173,13 +173,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Liu cut off Shushu's careful opening, setting the beer down on the counter with a sharp thud.</p>
 
-<p>"What exactly are you curious about? Whether I ignored Seo Ihyeon's decision and his efforts to test his own potential, and just bought up all those paintings for myself?"</p>
+<p>"What exactly are you curious about? Whether I ignored Seo Yeehyeon's decision and his efforts to test his own potential, and just bought up all those paintings for myself?"</p>
 
 <p>"……"</p>
 
-<p>Shushu had assumed Liu would want to own all of Ihyeon's work and would certainly be tracking his activities. That had been the simple thought behind the question. But as Liu said — that approach wasn't for Ihyeon's sake.</p>
+<p>Shushu had assumed Liu would want to own all of Yeehyeon's work and would certainly be tracking his activities. That had been the simple thought behind the question. But as Liu said — that approach wasn't for Yeehyeon's sake.</p>
 
-<p>"I was shortsighted. I'm sorry. But… you knew everything about Ihyeon's news too. You were watching him. So why aren't you saying anything?"</p>
+<p>"I was shortsighted. I'm sorry. But… you knew everything about Yeehyeon's news too. You were watching him. So why aren't you saying anything?"</p>
 
 <p>"What exactly do you want to hear from me?"</p>
 
@@ -193,7 +193,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Leaning his head back against the chair, he muttered in a low, sunken voice.</p>
 
-<p>"Then go see him. Do something. Go and say something — do something to resolve things with Ihyeon."</p>
+<p>"Then go see him. Do something. Go and say something — do something to resolve things with Yeehyeon."</p>
 
 <p>Liu, who had been staring blankly at Shushu with his head still tilted back and eyes half-lidded, blinked slowly.</p>
 
@@ -211,7 +211,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>With a practiced motion, he lit a cigarette and set the lighter down on the table before speaking.</p>
 
-<p>"The process by which you came to accept your past with Hong Seon-yu. The way you thought through it… I hoped that Ihyeon would come to accept me the same way."</p>
+<p>"The process by which you came to accept your past with Hong Seon-yu. The way you thought through it… I hoped that Yeehyeon would come to accept me the same way."</p>
 
 <p>Liu let out a low, self-mocking scoff — as if amused by his own shallowness for shifting his position the moment circumstances changed. He bit his lip once, then released it, his expression settling into something different.</p>
 

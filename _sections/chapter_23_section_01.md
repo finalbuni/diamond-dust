@@ -29,7 +29,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He scoffed at the overly grand comparison and released his hair. He had never experienced a love that lasted that long, after all.</p>
 
-<p>As he reached into his jacket pocket for a cigarette, he glanced at the seat beside him. Seeing Ihyeon's face, buried deep in the seat, asleep, he put the cigarette back and returned his gaze to the window.</p>
+<p>As he reached into his jacket pocket for a cigarette, he glanced at the seat beside him. Seeing Yeehyeon's face, buried deep in the seat, asleep, he put the cigarette back and returned his gaze to the window.</p>
 
 <p>He could no longer believe that only enduring love could forge such an unbreakable bond.</p>
 
@@ -37,7 +37,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>What Marcus had handed over was a diary so old the word "old" barely covered it — a relic that appeared to date from at least the nineteenth century.</p>
 
-<p>In the roughly two months since Liu had first spoken to Marcus about Ihyeon over the phone, Marcus had gone to great lengths to dig up even the smallest scrap of information. Partly out of personal and academic curiosity, but also because it was the first time he had ever seen Liu so distraught, so desperately seeking answers — Marcus had known he was in serious trouble and wanted to help however he could.</p>
+<p>In the roughly two months since Liu had first spoken to Marcus about Yeehyeon over the phone, Marcus had gone to great lengths to dig up even the smallest scrap of information. Partly out of personal and academic curiosity, but also because it was the first time he had ever seen Liu so distraught, so desperately seeking answers — Marcus had known he was in serious trouble and wanted to help however he could.</p>
 
 <p>Marcus was a known eccentric, a fervent devotee of the Ghost among Europe's major antique dealers — a legend that remained unpopular, treated mostly as the delusion of a small niche. Because of this, whenever even a minor Ghost-related item surfaced on the market, Marcus was always the first person contacted.</p>
 
@@ -51,7 +51,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Now that the family had fully recovered its former status, even if a Ghost appeared among the lineage, there was no longer any need to sell themselves as before. And yet the ability to transform a Beta into an Omega could still serve as a secret commodity among the more perverse members of the upper class. It was, at minimum, excellent material to be used as a symbol of power and dominance.</p>
 
-<p>To Ihyeon, Liu could only explain it as protection from those who desired an exceptional Golden Alpha as a successor. But the real reason his parents had chosen divorce was to protect him as a Ghost.</p>
+<p>To Yeehyeon, Liu could only explain it as protection from those who desired an exceptional Golden Alpha as a successor. But the real reason his parents had chosen divorce was to protect him as a Ghost.</p>
 
 <p>To the world at large, Ghosts were little more than a dubious legend occasionally covered on programs like <em>Truth or Dare</em>. But to Liu's father's maternal family, they were a tangible reality and a source of secret pride. They believed a Ghost could emerge from their descendants at any time. His parents, wanting assurance that their son was free from that possibility, had visited Marcus — with whom they had long maintained private contact — immediately after his Alpha test results came in.</p>
 
@@ -67,17 +67,17 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>When Austria lost the Austro-Prussian War and the family that had commissioned the Changing faced collapse, the arrangement became meaningless. The diary's owner was treated as a troublesome burden and essentially driven out of the country. If not for that — if he had not been cast out of Austria amid that chaos — he would have met a disgraceful death there, together with the one he had named his "Diamond Dust," his "Didi."</p>
 
-<p>The phenomenon Ihyeon had described — ice crystals sparkling in sunlight within the atmosphere — had not yet been given the name "Diamond Dust" at that time. And even if it had, that was not why the diary's owner had bestowed that name upon his lover.</p>
+<p>The phenomenon Yeehyeon had described — ice crystals sparkling in sunlight within the atmosphere — had not yet been given the name "Diamond Dust" at that time. And even if it had, that was not why the diary's owner had bestowed that name upon his lover.</p>
 
 <p>"According to the diary, as long as you are by his side, resisting the pheromonal force trying to bind you two is impossible. That would be even more true if, regardless of the pheromones' effect, you are drawn to his human charm itself and love him spiritually."</p>
 
-<p>Recalling Marcus's worried face, Liu glanced over at the passenger seat again. Ihyeon's face, eyes closed, was peaceful. Watching him — watching Ihyeon change into an Omega because of him — Liu felt a simultaneous rush of overwhelming, irreplaceable joy that made every cell in his body tremble, and a painful, heart-wrenching ache, as though his heart were being compressed to squeeze out its lifeblood.</p>
+<p>Recalling Marcus's worried face, Liu glanced over at the passenger seat again. Yeehyeon's face, eyes closed, was peaceful. Watching him — watching Yeehyeon change into an Omega because of him — Liu felt a simultaneous rush of overwhelming, irreplaceable joy that made every cell in his body tremble, and a painful, heart-wrenching ache, as though his heart were being compressed to squeeze out its lifeblood.</p>
 
-<p>He could endure any pain. As long as Ihyeon didn't push him away. As long as he didn't lose him.</p>
+<p>He could endure any pain. As long as Yeehyeon didn't push him away. As long as he didn't lose him.</p>
 
-<p><em>Hmph.</em> He let out a breath like the groan of a mortally wounded beast and reached his arm toward Ihyeon's cheek. He wanted to feel just a little more of that warmth, that touch — the warmth of someone still beside him, who said he loved him.</p>
+<p><em>Hmph.</em> He let out a breath like the groan of a mortally wounded beast and reached his arm toward Yeehyeon's cheek. He wanted to feel just a little more of that warmth, that touch — the warmth of someone still beside him, who said he loved him.</p>
 
-<p>His hand, almost at Ihyeon's cheek, stopped when he felt the vibration of his phone in his pants pocket. The caller was Shushu.</p>
+<p>His hand, almost at Yeehyeon's cheek, stopped when he felt the vibration of his phone in his pants pocket. The caller was Shushu.</p>
 
 <p>[You're back?]</p>
 
@@ -101,7 +101,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Who was that?"</p>
 
-<p>It seemed he had woken Ihyeon despite trying to be quiet. Liu composed his expression and turned his head. Ihyeon was looking at him with a stiff face.</p>
+<p>It seemed he had woken Yeehyeon despite trying to be quiet. Liu composed his expression and turned his head. Yeehyeon was looking at him with a stiff face.</p>
 
 <p>"It was Shushu. Seems he's been waiting for me to get back."</p>
 
@@ -111,11 +111,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Probably not. Hong Seon-yu isn't foolish enough to think he could get what he wants from me by telling Shushu now. Besides, all that would do is earn him more resentment from Shushu."</p>
 
-<p>He stretched his arm across and kneaded Ihyeon's shoulder, which seemed to ease a little, then changed the subject.</p>
+<p>He stretched his arm across and kneaded Yeehyeon's shoulder, which seemed to ease a little, then changed the subject.</p>
 
 <p>"I'll hire someone separately to pack the things that need to go to New York, so don't worry about any of that — just focus on your painting. You seemed to do a lot of sketching on this trip."</p>
 
-<p>Ihyeon stroked the arm resting on his shoulder and managed a faint smile. He looked as though he still couldn't quite grasp that in two weeks, he would be leaving this city.</p>
+<p>Yeehyeon stroked the arm resting on his shoulder and managed a faint smile. He looked as though he still couldn't quite grasp that in two weeks, he would be leaving this city.</p>
 
 <p>"For work reasons... I think I'll have to tell Manager Han in advance. How do you want to handle Yuni and Juhan?"</p>
 
@@ -125,8 +125,8 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Should we invite Inwu hyung too?"</p>
 
-<p>Liu hesitated at the name, licking his lower lip and rolling his eyes. Then he took out the cigarette he had been holding back the entire time Ihyeon was asleep, put it between his lips, and spoke in a light, casual tone.</p>
+<p>Liu hesitated at the name, licking his lower lip and rolling his eyes. Then he took out the cigarette he had been holding back the entire time Yeehyeon was asleep, put it between his lips, and spoke in a light, casual tone.</p>
 
 <p>"Ah... that one would just egg Yuni and Juhan on. Let's meet him separately later. For now, let's take care of the Phantom family first."</p>
 
-<p>Facing Ihyeon, who nodded, Liu smiled with the unlit cigarette still between his lips. He felt the effort of feigning ease in front of him becoming increasingly burdensome, and he clenched the cigarette pack tightly in his hand. Behind them, the western end of the city — similar to before he left, yet somehow distinctly changed — watched the autumn sun, suddenly shorter, begin to set.</p>
+<p>Facing Yeehyeon, who nodded, Liu smiled with the unlit cigarette still between his lips. He felt the effort of feigning ease in front of him becoming increasingly burdensome, and he clenched the cigarette pack tightly in his hand. Behind them, the western end of the city — similar to before he left, yet somehow distinctly changed — watched the autumn sun, suddenly shorter, begin to set.</p>

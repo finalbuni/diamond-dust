@@ -10,9 +10,9 @@ section_count: 9
 permalink: /sections/chapter-31/8/
 excerpt_separator: "<!-- section-excerpt-end -->"
 ---
-<p>Across the canal, Ihyeon's regular café was visible between the docked boats.</p>
+<p>Across the canal, Yeehyeon's regular café was visible between the docked boats.</p>
 
-<p>He and his colleagues would surely appear down that road and return to The Hands. To watch them come back, it was safer to wait a short distance away. Liu waited for Ihyeon from across the canal.</p>
+<p>He and his colleagues would surely appear down that road and return to The Hands. To watch them come back, it was safer to wait a short distance away. Liu waited for Yeehyeon from across the canal.</p>
 
 <p>While the call connected to Manager Han, Liu kept glancing at the clock on the car's tablet.</p>
 
@@ -84,27 +84,27 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>When he decided to go to Paris, he had made two promises to himself.</p>
 
-<p>First, he would never capture Ihyeon's image in visual materials like photographs or videos.</p>
+<p>First, he would never capture Yeehyeon's image in visual materials like photographs or videos.</p>
 
 <p>Second, he would not become so engrossed here that it would interfere with his work back in Seoul.</p>
 
 <p>He had managed to keep those promises until now, but this was the first time he was extending his stay in Paris by canceling a reserved flight. For some reason, today his feet felt particularly reluctant to leave.</p>
 
-<p>Perhaps it was because he had spent most of yesterday finalizing the contracts for the apartment and the car, resulting in him seeing less of Ihyeon than usual.</p>
+<p>Perhaps it was because he had spent most of yesterday finalizing the contracts for the apartment and the car, resulting in him seeing less of Yeehyeon than usual.</p>
 
 <p>"We leave precisely at two. Any more delay than that violates the rules."</p>
 
 <p>Liu tapped the steering wheel nervously with his fingertips as he muttered the warning strictly to himself.</p>
 
-<p>If he broke the rules, it was obvious he'd want to ditch Phantom and everything else to settle down in Paris. That was precisely what he wanted to do right now. He was only holding back because he felt a man like him wouldn't be loved by Ihyeon.</p>
+<p>If he broke the rules, it was obvious he'd want to ditch Phantom and everything else to settle down in Paris. That was precisely what he wanted to do right now. He was only holding back because he felt a man like him wouldn't be loved by Yeehyeon.</p>
 
-<p>While staring fixedly across the canal and fumbling for his cigarette pack, Liu dropped it by his feet. When he reached down to grab the small box and looked up, Ihyeon and his group had appeared at the end of the bridge as if by magic.</p>
+<p>While staring fixedly across the canal and fumbling for his cigarette pack, Liu dropped it by his feet. When he reached down to grab the small box and looked up, Yeehyeon and his group had appeared at the end of the bridge as if by magic.</p>
 
 <p>"You certainly don't give me a moment to let my guard down."</p>
 
 <p>He tossed the cigarette pack onto the trench coat in the passenger seat and took off his sunglasses. While hooking the arms of the sunglasses onto the V-neck of his sweater, he continued to observe the group's movements with his eyes.</p>
 
-<p>A smile spread across his face when he spotted Ihyeon walking with both hands shoved into the pockets of his coat.</p>
+<p>A smile spread across his face when he spotted Yeehyeon walking with both hands shoved into the pockets of his coat.</p>
 
 <p>What could he do when they were finally in his line of sight? Just seeing him was enough of a pleasure.</p>
 
@@ -112,49 +112,49 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>The group was still lively. Unlike before, Baek Yuni and her girlfriend were holding hands, and Baek Yuni held a small bouquet in her other hand. It was a modest bouquet decorated with three or four cornflowers, their color vividly bright even from this distance. A gift from her girlfriend, probably.</p>
 
-<p>They looked happy, walking down the street as if dancing, playfully pulling each other's hands. Ihyeon, hands shoved into his coat pockets, followed slowly behind them.</p>
+<p>They looked happy, walking down the street as if dancing, playfully pulling each other's hands. Yeehyeon, hands shoved into his coat pockets, followed slowly behind them.</p>
 
 <p>Liu's brow furrowed. It wasn't because of the November afternoon sunlight streaming through the car windshield.</p>
 
 <p>He clasped his hands in front of his lips, watching as if observing the climax of a film where conflict was escalating. His chest felt tight, forcing him to take several deep, heavy breaths that felt more like sighs.</p>
 
-<p>As the group completely cleared the bridge and started heading north toward The Hands, Ihyeon's pace began to fall further and further behind.</p>
+<p>As the group completely cleared the bridge and started heading north toward The Hands, Yeehyeon's pace began to fall further and further behind.</p>
 
 <p>Then he started walking backward toward the spot they had just passed.</p>
 
-<p>The spot where Ihyeon finally stopped was in front of a gift shop. The sign, painted a dark mint green mixed with gray, and the vintage finishing materials gave the place an aged impression.</p>
+<p>The spot where Yeehyeon finally stopped was in front of a gift shop. The sign, painted a dark mint green mixed with gray, and the vintage finishing materials gave the place an aged impression.</p>
 
-<p>Ihyeon stared intently at one spot inside the display window. Although he usually enjoyed observing his surroundings, it was rare for him to show such focused interest in merchandise being sold.</p>
+<p>Yeehyeon stared intently at one spot inside the display window. Although he usually enjoyed observing his surroundings, it was rare for him to show such focused interest in merchandise being sold.</p>
 
-<p>What was it? What had captured Ihyeon's gaze?</p>
+<p>What was it? What had captured Yeehyeon's gaze?</p>
 
 <p>Liu leaned his upper body as far forward over the steering wheel as he could. But no matter how hard he furrowed his brow and concentrated, he couldn't see clearly into the display window.</p>
 
-<p>Ihyeon stood completely motionless, as if his entire attention had been seized.</p>
+<p>Yeehyeon stood completely motionless, as if his entire attention had been seized.</p>
 
-<p>The group, realizing Ihyeon had fallen behind, stopped about ten meters ahead and turned to look back. They raised their arms as if beckoning him. Ihyeon looked at them too, yet he kept glancing back at the inside of the display window.</p>
+<p>The group, realizing Yeehyeon had fallen behind, stopped about ten meters ahead and turned to look back. They raised their arms as if beckoning him. Yeehyeon looked at them too, yet he kept glancing back at the inside of the display window.</p>
 
-<p>Even as he completely passed the storefront, Ihyeon's face remained turned toward the display window, as if reluctant to leave. He looked like someone being forced to depart. He brought to mind the puppy that had gazed endlessly after Ihyeon earlier that morning as he left for the park.</p>
+<p>Even as he completely passed the storefront, Yeehyeon's face remained turned toward the display window, as if reluctant to leave. He looked like someone being forced to depart. He brought to mind the puppy that had gazed endlessly after Yeehyeon earlier that morning as he left for the park.</p>
 
 <p>"What was it that you liked so much?"</p>
 
-<p>He was angry at his inability to buy whatever had so captivated Ihyeon — unable to gift it to him. He felt miserable enough to want to scrub his face hard with both hands, but he couldn't tear his eyes away from Ihyeon.</p>
+<p>He was angry at his inability to buy whatever had so captivated Yeehyeon — unable to gift it to him. He felt miserable enough to want to scrub his face hard with both hands, but he couldn't tear his eyes away from Yeehyeon.</p>
 
-<p>Was it just his imagination? When Ihyeon rejoined the group, his shoulders seemed heavier. The way he pulled up his coat collar, tucked in his chin, and walked listlessly didn't seem entirely due to the cold.</p>
+<p>Was it just his imagination? When Yeehyeon rejoined the group, his shoulders seemed heavier. The way he pulled up his coat collar, tucked in his chin, and walked listlessly didn't seem entirely due to the cold.</p>
 
-<p><em>Was there something he wanted? Ihyeon wasn't the type to sulk just because he couldn't have an object….</em></p>
+<p><em>Was there something he wanted? Yeehyeon wasn't the type to sulk just because he couldn't have an object….</em></p>
 
 <p>As the group from The Hands disappeared down the alley, Liu put his sunglasses back on and started the car. The temperature was low, but the sunlight was intense. It was dangerous enough to drive without sunglasses.</p>
 
 <p>Worry gripped him, causing him to grip the steering wheel tighter and tighter. He pulled the car over in front of the gift shop and practically jumped out, hurrying toward the spot.</p>
 
-<p>Liu stopped exactly where Ihyeon had stood. He felt like an obsessive fan visiting the real location of a favorite movie scene, trying to recreate it exactly.</p>
+<p>Liu stopped exactly where Yeehyeon had stood. He felt like an obsessive fan visiting the real location of a favorite movie scene, trying to recreate it exactly.</p>
 
 <p>"……"</p>
 
 <p>As if under a spell, Liu slowly pulled down his sunglasses.</p>
 
-<p>His gaze became fixed on the large doll standing at the right edge of the charmingly decorated shop window. Just as Ihyeon's had.</p>
+<p>His gaze became fixed on the large doll standing at the right edge of the charmingly decorated shop window. Just as Yeehyeon's had.</p>
 
 <p>Standing there was a rabbit model from Alice in Wonderland.</p>
 
@@ -164,9 +164,9 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>And now, it was the drawing carefully placed on the bedside table next to Liu's bed.</p>
 
-<p>In that drawing, the Liu Weikun drawn by Seo Ihyeon was the White Rabbit guiding Alice into Wonderland.</p>
+<p>In that drawing, the Liu Weikun drawn by Seo Yeehyeon was the White Rabbit guiding Alice into Wonderland.</p>
 
-<p>He felt as if the emotion that had kept Ihyeon from leaving this spot was rising from beneath his feet and swallowing him whole.</p>
+<p>He felt as if the emotion that had kept Yeehyeon from leaving this spot was rising from beneath his feet and swallowing him whole.</p>
 
 <p>"Idiot. Forget about rabbits like that."</p>
 
@@ -176,23 +176,23 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He felt like the sunglasses in his hand were about to shatter.</p>
 
-<p>Next to the rabbit was also an Alice model, dressed in a blue dress and white apron. The large, curious eyes of Alice seemed to resemble Ihyeon's as well.</p>
+<p>Next to the rabbit was also an Alice model, dressed in a blue dress and white apron. The large, curious eyes of Alice seemed to resemble Yeehyeon's as well.</p>
 
 <p>Liu covered his face with his large hands and whispered as if collapsing.</p>
 
 <p>"No, please don't forget."</p>
 
-<p>As if Ihyeon were right in front of him. As if pleading with him directly.</p>
+<p>As if Yeehyeon were right in front of him. As if pleading with him directly.</p>
 
 <p>It was truly time to leave now.</p>
 
-<p>He wondered if he should buy the clock rabbit model and give it to Ihyeon someday when he could stand by his side again.</p>
+<p>He wondered if he should buy the clock rabbit model and give it to Yeehyeon someday when he could stand by his side again.</p>
 
 <p>But Liu left the front of the shop just as he was and got into the car.</p>
 
-<p>He didn't know when or who would buy that model, but he hoped that every time Ihyeon passed by, he would look at the rabbit and think of him.</p>
+<p>He didn't know when or who would buy that model, but he hoped that every time Yeehyeon passed by, he would look at the rabbit and think of him.</p>
 
-<p>He preferred Ihyeon to be in pain missing him rather than happily forgetting him, so that he would want to come back.</p>
+<p>He preferred Yeehyeon to be in pain missing him rather than happily forgetting him, so that he would want to come back.</p>
 
 <p>He decided to accept that this was the extent of his love.</p>
 
@@ -202,7 +202,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>It was that precious moment of exhaling a long-held breath and taking in a new one.</p>
 
-<p>Life in Seoul, for Liu, was like being underwater. And the time spent in Paris, where he could look at Ihyeon even just a little closer, was like the sumbisori.</p>
+<p>Life in Seoul, for Liu, was like being underwater. And the time spent in Paris, where he could look at Yeehyeon even just a little closer, was like the sumbisori.</p>
 
 <p>They passed a sign indicating ten kilometers remained to Charles de Gaulle.</p>
 

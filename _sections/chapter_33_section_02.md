@@ -10,43 +10,43 @@ section_count: 7
 permalink: /sections/chapter-33/2/
 excerpt_separator: "<!-- section-excerpt-end -->"
 ---
-<p>Liu sat on the edge of the bed and looked down at Ihyeon's face. Sleeping, he looked peaceful. But Liu's heart and expression, as he looked at him, were anything but peaceful. They couldn't be.</p>
+<p>Liu sat on the edge of the bed and looked down at Yeehyeon's face. Sleeping, he looked peaceful. But Liu's heart and expression, as he looked at him, were anything but peaceful. They couldn't be.</p>
 
 <p>After sending the driver away, the two had gone up to Room 601 together.</p>
 
-<p>For a time, Ihyeon refused to let go of Liu. He kept his forehead buried in Liu's shoulder and wouldn't lift his head. Liu had to hold him even while canceling the plane ticket.</p>
+<p>For a time, Yeehyeon refused to let go of Liu. He kept his forehead buried in Liu's shoulder and wouldn't lift his head. Liu had to hold him even while canceling the plane ticket.</p>
 
-<p>Liu thought he knew the person named Seo Ihyeon well enough. At least, Ihyeon was the other person Liu knew best in the world — he had never taken that much interest in anyone else.</p>
+<p>Liu thought he knew the person named Seo Yeehyeon well enough. At least, Yeehyeon was the other person Liu knew best in the world — he had never taken that much interest in anyone else.</p>
 
-<p>This was something the Ihyeon he knew until now would never have done. Yet it had happened.</p>
+<p>This was something the Yeehyeon he knew until now would never have done. Yet it had happened.</p>
 
-<p>At the end of a brief meeting, when it was time to part, Ihyeon would be wistful — but he never begged Liu not to leave. It wasn't that partings didn't affect him. Liu knew that Ihyeon ached from separation just as much as he did.</p>
+<p>At the end of a brief meeting, when it was time to part, Yeehyeon would be wistful — but he never begged Liu not to leave. It wasn't that partings didn't affect him. Liu knew that Yeehyeon ached from separation just as much as he did.</p>
 
-<p>But Ihyeon wanted a love that built firm trust and growth, not one that collapsed into overwhelming emotion and impulse. If Ihyeon wanted it, Liu wanted it too. That was why they endured together.</p>
+<p>But Yeehyeon wanted a love that built firm trust and growth, not one that collapsed into overwhelming emotion and impulse. If Yeehyeon wanted it, Liu wanted it too. That was why they endured together.</p>
 
-<p>And yet, this Ihyeon had clung to him — and in such a heartbreaking way.</p>
+<p>And yet, this Yeehyeon had clung to him — and in such a heartbreaking way.</p>
 
 <p>These were neither words spoken easily nor sentimental demands.</p>
 
-<p>Liu gave Ihyeon another fever reducer, changed him into pajamas, and got into bed with him. Ihyeon tried hard not to close his eyes, afraid Liu might disappear while he slept.</p>
+<p>Liu gave Yeehyeon another fever reducer, changed him into pajamas, and got into bed with him. Yeehyeon tried hard not to close his eyes, afraid Liu might disappear while he slept.</p>
 
 <p>"I already canceled all my flights. I haven't booked the next ones either. I'll stay here until you're better."</p>
 
-<p>Liu reassured him like that several times. Nevertheless, Ihyeon — still trying to stay awake — fell asleep in less than ten minutes. He was probably mentally and physically exhausted.</p>
+<p>Liu reassured him like that several times. Nevertheless, Yeehyeon — still trying to stay awake — fell asleep in less than ten minutes. He was probably mentally and physically exhausted.</p>
 
-<p>Even if Ihyeon were to wake up and say, <em>I'm fine. I just got a little sad and said that on impulse. You can go now</em> — Liu had no intention of leaving this time.</p>
+<p>Even if Yeehyeon were to wake up and say, <em>I'm fine. I just got a little sad and said that on impulse. You can go now</em> — Liu had no intention of leaving this time.</p>
 
-<p>While holding Ihyeon in the middle of the street and reassuring him, a scene from the past had flashed through his mind.</p>
+<p>While holding Yeehyeon in the middle of the street and reassuring him, a scene from the past had flashed through his mind.</p>
 
 <p>A summer night when the rain was pouring down.</p>
 
 <p>Around the time they had become conscious of each other — after their first night together in Hong Kong and returning home.</p>
 
-<p>Even during the "Phantom" company dinner that night, Liu had been present only in body, thinking of no one but Ihyeon, who wasn't there. He hadn't been able to hear a word anyone said.</p>
+<p>Even during the "Phantom" company dinner that night, Liu had been present only in body, thinking of no one but Yeehyeon, who wasn't there. He hadn't been able to hear a word anyone said.</p>
 
 <p>A Beta who had indiscriminately demolished the defensive walls that no Golden Omega could shake. Pheromones with a destructive power so intense they rendered knotting and Changing impossible to suppress. His first experience of being utterly helpless before another person's pheromones.</p>
 
-<p>When the call came from <em>Seo Ihyeon</em>, Liu had to hide a smile by pretending to rub his lips. He hadn't attended the dinner, but he had hoped — perhaps — that Ihyeon was calling because he too couldn't stop thinking about him.</p>
+<p>When the call came from <em>Seo Yeehyeon</em>, Liu had to hide a smile by pretending to rub his lips. He hadn't attended the dinner, but he had hoped — perhaps — that Yeehyeon was calling because he too couldn't stop thinking about him.</p>
 
 <p>["I apologize for the late hour..."]</p>
 
@@ -60,45 +60,45 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>["I'm... I'm outside your house right now, Director. In front of the gate."]</p>
 
-<p>When he spotted Ihyeon shivering and soaked by the rain in front of the main gate, Liu understood. He had been turning away from it himself, but some part of him had known all along: that he would fall in love with this person. That perhaps that love had already begun.</p>
+<p>When he spotted Yeehyeon shivering and soaked by the rain in front of the main gate, Liu understood. He had been turning away from it himself, but some part of him had known all along: that he would fall in love with this person. That perhaps that love had already begun.</p>
 
-<p>He had almost leaped out of the car, running over to wrap his jacket around Ihyeon's shoulders and pull him into a silent embrace. Even then, Liu hadn't asked anything. Then as now, Ihyeon's wellbeing came before his own worries or questions.</p>
+<p>He had almost leaped out of the car, running over to wrap his jacket around Yeehyeon's shoulders and pull him into a silent embrace. Even then, Liu hadn't asked anything. Then as now, Yeehyeon's wellbeing came before his own worries or questions.</p>
 
 <p>"I'll, I'll paint... I'll paint again."</p>
 
-<p>As Ihyeon repeated those words, asking for help, Liu pulled him tighter — already knowing he would refuse no request this person ever made of him.</p>
+<p>As Yeehyeon repeated those words, asking for help, Liu pulled him tighter — already knowing he would refuse no request this person ever made of him.</p>
 
 <p>He had sensed he would fall in love with this person. A devastating love, the kind where you stake everything, leaving nothing behind.</p>
 
-<p>That night came flooding back to him. The Ihyeon of right now was no more in control than he had been then.</p>
+<p>That night came flooding back to him. The Yeehyeon of right now was no more in control than he had been then.</p>
 
-<p>Was this a symptom caused by hormonal imbalance during the manifestation process? It was certainly possible. Liu replayed Ihyeon's behavior — so unlike his usual self — over and over. It resembled the instinctive yielding an Alpha develops toward an Omega whose pheromones they've shared for a long time, or perhaps the anxiety an Omega shows when separated from their Alpha during pregnancy.</p>
+<p>Was this a symptom caused by hormonal imbalance during the manifestation process? It was certainly possible. Liu replayed Yeehyeon's behavior — so unlike his usual self — over and over. It resembled the instinctive yielding an Alpha develops toward an Omega whose pheromones they've shared for a long time, or perhaps the anxiety an Omega shows when separated from their Alpha during pregnancy.</p>
 
 <p>Pregnancy? No. Absolutely not.</p>
 
-<p>Even if Ihyeon was Diamond Dust — a special, unpredictable case — pregnancy was impossible when he hadn't fully manifested as an Omega yet. Besides, the clinic hadn't flagged anything when they were there the day before.</p>
+<p>Even if Yeehyeon was Diamond Dust — a special, unpredictable case — pregnancy was impossible when he hadn't fully manifested as an Omega yet. Besides, the clinic hadn't flagged anything when they were there the day before.</p>
 
-<p>But whether it was hormones or something psychological, the fact remained that Ihyeon had reached that state. It clawed at Liu's heart.</p>
+<p>But whether it was hormones or something psychological, the fact remained that Yeehyeon had reached that state. It clawed at Liu's heart.</p>
 
-<p>He couldn't shake the image of Ihyeon stumbling toward him like someone unmoored from the world.</p>
+<p>He couldn't shake the image of Yeehyeon stumbling toward him like someone unmoored from the world.</p>
 
 <p>He wanted to make him happy.</p>
 
-<p>Not out of some arrogant belief that Ihyeon couldn't find happiness on his own without him.</p>
+<p>Not out of some arrogant belief that Yeehyeon couldn't find happiness on his own without him.</p>
 
 <p>There are many kinds of happiness in life.</p>
 
 <p>Happiness from personal achievement, from family, from friendship, from travel or extraordinary experiences; the everyday happiness of a good cup of coffee or a view seen on a walk. And among them, the happiness of building something rare with another person — nurturing love, sharing a life.</p>
 
-<p>He was prepared to do anything to ensure Ihyeon would never lack that particular kind.</p>
+<p>He was prepared to do anything to ensure Yeehyeon would never lack that particular kind.</p>
 
 <p>And looking down at him now, Liu thought that perhaps he had already failed at that.</p>
 
-<p>Ihyeon had spent the entire morning pacing the studio, anxious about whether Liu had packed properly.</p>
+<p>Yeehyeon had spent the entire morning pacing the studio, anxious about whether Liu had packed properly.</p>
 
 <p>He had skipped his morning work — rare enough to be remarkable — just to stay with him.</p>
 
-<p>Even Ihyeon's hand, which had instinctively caught Liu's shirt as he tried to get up.</p>
+<p>Even Yeehyeon's hand, which had instinctively caught Liu's shirt as he tried to get up.</p>
 
 <p>All of those small, unlike-him moments had been signals. Or perhaps the signals had come much earlier than that.</p>
 
@@ -106,15 +106,15 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Don't go. Stay with me."</p>
 
-<p>During their knotting session, Ihyeon had already said the same words.</p>
+<p>During their knotting session, Yeehyeon had already said the same words.</p>
 
-<p>A deep crease formed between Liu's brows as he looked down at Ihyeon's sleeping face. He touched his left ring finger out of habit. He had made a half-proposal with the ring on that finger, saying he would wait as long as necessary and marry Ihyeon whenever he was ready. So he had waited. He had believed that was the way to let Ihyeon choose freely while also proving his love.</p>
+<p>A deep crease formed between Liu's brows as he looked down at Yeehyeon's sleeping face. He touched his left ring finger out of habit. He had made a half-proposal with the ring on that finger, saying he would wait as long as necessary and marry Yeehyeon whenever he was ready. So he had waited. He had believed that was the way to let Yeehyeon choose freely while also proving his love.</p>
 
 <p>That idea had been wrong.</p>
 
 <p>At least now, it had proven to be wrong.</p>
 
-<p>Liu got out of bed, picked up his phone from the table, and walked to the window — a position where he could check Ihyeon's status simply by turning his head. Without hesitation, he scrolled through his contacts and placed a call.</p>
+<p>Liu got out of bed, picked up his phone from the table, and walked to the window — a position where he could check Yeehyeon's status simply by turning his head. Without hesitation, he scrolled through his contacts and placed a call.</p>
 
 <p>It was his mother.</p>
 
@@ -126,17 +126,17 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"The trip went well. I returned to Paris yesterday."</p>
 
-<p>[How is Ihyeon? Is he healthy?]</p>
+<p>[How is Yeehyeon? Is he healthy?]</p>
 
 <p>"Yes, he's fine. He's taking his suppressants regularly and is healthy."</p>
 
 <p>In truth, he wasn't entirely healthy — but this wasn't the time to go into that.</p>
 
-<p>[He's different from those whose abilities are manifesting naturally. You always have to be especially careful. I wonder if this trip was too much for Ihyeon.]</p>
+<p>[He's different from those whose abilities are manifesting naturally. You always have to be especially careful. I wonder if this trip was too much for Yeehyeon.]</p>
 
-<p>"How could I possibly put Ihyeon in danger?"</p>
+<p>"How could I possibly put Yeehyeon in danger?"</p>
 
-<p>Liu snapped back sharply without meaning to, then immediately pressed a hand to his forehead and shook his head. Ihyeon wasn't healthy right now, and it was possible that Liu himself had pushed him too far.</p>
+<p>Liu snapped back sharply without meaning to, then immediately pressed a hand to his forehead and shook his head. Yeehyeon wasn't healthy right now, and it was possible that Liu himself had pushed him too far.</p>
 
 <p>"I'm sorry. That's not what I meant to say..."</p>
 
@@ -146,7 +146,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>At the time, they had seemed to Liu like a vision of dazzling happiness. People enjoying something he felt he could never reach, a happiness he had let slip away.</p>
 
-<p>But now, Ihyeon was asleep in the bed of this house.</p>
+<p>But now, Yeehyeon was asleep in the bed of this house.</p>
 
 <p>"I didn't mean it that way either. I'm just glad you're both healthy. Thank you for calling."</p>
 
@@ -160,7 +160,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>[Of course I do. Why are you asking about that necklace suddenly...?]</p>
 
-<p>"Could you give it to me? No... could you give it to Ihyeon?"</p>
+<p>"Could you give it to me? No... could you give it to Yeehyeon?"</p>
 
 <p>At the time of their twentieth anniversary, Liu's parents had been legally divorced — though it was a divorce in name only, and their love had remained solid. To commemorate that love, his father had given Suki Kim a special diamond.</p>
 
@@ -170,8 +170,8 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Suki Kim's voice was rarely agitated. A faint joy and excitement radiated from her.</p>
 
-<p>Liu turned his head and looked at Ihyeon, buried under the covers. The pure white duvet rose and fell subtly with each breath. Liu's gaze lingered on that quiet, steady movement for a long time.</p>
+<p>Liu turned his head and looked at Yeehyeon, buried under the covers. The pure white duvet rose and fell subtly with each breath. Liu's gaze lingered on that quiet, steady movement for a long time.</p>
 
-<p>It was a statement that had been ready within him for a long time. He had only been waiting for Ihyeon's permission. There was no reason to hesitate.</p>
+<p>It was a statement that had been ready within him for a long time. He had only been waiting for Yeehyeon's permission. There was no reason to hesitate.</p>
 
 <p>"That's right. I'm going to propose to him."</p>

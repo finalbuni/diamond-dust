@@ -93,7 +93,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Staring blankly at the Director and Shushu — who looked like a magazine spread or a movie poster — I quickly poured a glass of champagne for Inwu hyung, who was complaining that no matter the difference in sales between artists, the disparity in treatment was too great — that he hadn't even been offered a glass of the champagne sitting right there, let alone expensive chocolates.</p>
 
-<p>"I didn't mean to bother you, Ihyeon. The one who should feel guilty doesn't even care. Sorry. I'll enjoy it."</p>
+<p>"I didn't mean to bother you, Yeehyeon. The one who should feel guilty doesn't even care. Sorry. I'll enjoy it."</p>
 
 <p>I tried to smile at Inwu hyung as he said that, but all I could manage was to awkwardly lift the corners of my mouth.</p>
 
@@ -151,11 +151,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>I felt an almost uncontrollable urge to say to him — the Director, who had fallen silent at just a few words from the artist: <em>Since when have you been so good at listening to other people?</em></p>
 
-<p>"I'm sorry, Shushu. It's been so hectic I couldn't even make introductions. This is a new Phantom employee who just joined. His name is Seo Ihyeon."</p>
+<p>"I'm sorry, Shushu. It's been so hectic I couldn't even make introductions. This is a new Phantom employee who just joined. His name is Seo Yeehyeon."</p>
 
 <p>At Manager Han's introduction, I stepped forward and bowed my head.</p>
 
-<p>"Hello, I am Seo Ihyeon."</p>
+<p>"Hello, I am Seo Yeehyeon."</p>
 
 <p>"Nice to meet you. Please understand him — he sometimes says strange things. His manner of speaking is a bit blunt, isn't it? He wasn't this bad before, but it seems he's gotten more prickly since getting into the business."</p>
 

@@ -71,7 +71,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Simply copying something exactly, like a photocopier, is not art. This child was capable of adding his own emotions and interpretations of the subject onto the canvas. At only eleven years old. However clumsy, each painting was a unique "self-expression" that only that child could create.</p>
 
-<p>"Ihyeon, just how many of these are there? Didn't your arms hurt?"</p>
+<p>"Yeehyeon, just how many of these are there? Didn't your arms hurt?"</p>
 
 <p>At my worried question, the child smiled. Rubbing the table where we sat facing each other with one hand, his silent smile seemed to express joy at being able to show me how much he had practiced. And yet he also looked a little bewildered, as if he hadn't quite grasped the meaning of my words.</p>
 
@@ -241,11 +241,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>I lifted my head and looked at Manager Han's profile.</p>
 
-<p>"A desperate, tenacious, and consistent drive to keep painting no matter what happens. You need that to break through a certain point and shine... and I clearly saw that kind of energy in eleven-year-old Seo Ihyeon."</p>
+<p>"A desperate, tenacious, and consistent drive to keep painting no matter what happens. You need that to break through a certain point and shine... and I clearly saw that kind of energy in eleven-year-old Seo Yeehyeon."</p>
 
 <p>Manager Han's face slowly turned toward me as well.</p>
 
-<p>"You can eat, breathe — yes, do all of those things — without painting. You won't die. You know that's not what I'm talking about, Ihyeon. I just want you to think honestly about whether painting is necessary for you to live — not as just one among countless people, but as the unique Seo Ihyeon, with your own individuality. Only that. Before it gets any later."</p>
+<p>"You can eat, breathe — yes, do all of those things — without painting. You won't die. You know that's not what I'm talking about, Yeehyeon. I just want you to think honestly about whether painting is necessary for you to live — not as just one among countless people, but as the unique Seo Yeehyeon, with your own individuality. Only that. Before it gets any later."</p>
 
 <p>Looking honestly at oneself.</p>
 
@@ -333,7 +333,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Morae and Yeehan's eyes went wide. They showed a far stronger reaction to the possibility of me painting again than to my suggestion that they go to Bali.</p>
 
-<p>I hadn't settled anything definite about painting yet. But even if I didn't end up painting, I was firm in my decision that I would no longer keep the two of them tied to this place under the name Seo Ihyeon. On that point alone, my mind was clear. My first step would start right there.</p>
+<p>I hadn't settled anything definite about painting yet. But even if I didn't end up painting, I was firm in my decision that I would no longer keep the two of them tied to this place under the name Seo Yeehyeon. On that point alone, my mind was clear. My first step would start right there.</p>
 </div>
 {% include scene-break.html %}
 <div id="section-5" class="hybrid-section" data-section="5">
@@ -405,7 +405,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"It hasn't been decided yet... I'll make the decision later..."</p>
 
-<p>[Seo Ihyeon-ssi will definitely feel the urge to paint again.]</p>
+<p>[Seo Yeehyeon-ssi will definitely feel the urge to paint again.]</p>
 
 <p>I wanted to ask how he could be so certain. He didn't know me well, and even if he had seen my work, it was only one piece. Was this some feeling from the "ability to recognize art" that Manager Han had spoken of? Or simply confidence in the discerning eye he had boasted about himself?</p>
 

@@ -197,7 +197,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>It wasn't just the overall size, but the way the underwear felt conspicuously loose in the front that made me embarrassed. It wasn't about male pride, or anything like that. Besides, grouping a Golden Alpha male and a Beta male together as "the same kind of man" was already a stretch. While nothing scientifically proven existed regarding genetic superiority like physical ability or brainpower, the fact that Alphas possessed superior reproductive capabilities was an established truth.</p>
 
-<p>"We should probably buy some sets in Seo Ihyeon's size, too."</p>
+<p>"We should probably buy some sets in Seo Yeehyeon's size, too."</p>
 
 <p>"......"</p>
 
@@ -341,7 +341,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>The fact that at least a part of the Alienation he had carried with him was somehow intertwined with my painting stirred a unique emotion in me, something I had never felt before. Believe it or not, it was a feeling more captivating than the sex we had just shared. I wanted to know more about him.</p>
 
-<p>"That's why I want Seo Ihyeon-ssi to paint again. I want to see that artist's next work."</p>
+<p>"That's why I want Seo Yeehyeon-ssi to paint again. I want to see that artist's next work."</p>
 
 <p>"......"</p>
 
@@ -349,7 +349,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Even if he had asked to see my naked body, my soul couldn't have been more shaken than it was now.</p>
 
-<p>"Seo Ihyeon-ssi's question was brief, but my answer was... rather long, wasn't it?"</p>
+<p>"Seo Yeehyeon-ssi's question was brief, but my answer was... rather long, wasn't it?"</p>
 
 <p>Perhaps embarrassed by the long story he had just shared, he rubbed his eyes with a faint, wry smile. I wondered if he was finally feeling tired. How could he not be tired? He had spent hours pouring his energy into holding me, someone who was hardly small.</p>
 
@@ -427,7 +427,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>It was a concise core message. Stripping away all grand reasoning and persuasion, that was the essence he wanted to convey to me.</p>
 
-<p>"I don't know what stopped you from painting anymore, Seo Ihyeon-ssi, but... for someone like you... the only way to walk, run, and breathe again is by painting, so fight for your life... just focus on reclaiming your own language."</p>
+<p>"I don't know what stopped you from painting anymore, Seo Yeehyeon-ssi, but... for someone like you... the only way to walk, run, and breathe again is by painting, so fight for your life... just focus on reclaiming your own language."</p>
 
 <p>Like when he told me to eat for my own sake even if I had no appetite, his words urging me to paint as if my life depended on it captivated my mind, like a striking passage in a song.</p>
 
@@ -449,7 +449,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Looking down at the cigarette in his hand, which had already burned down short, he spoke.</p>
 
-<p>"I don't know if you noticed, but there are hardly any paintings hanging in this house. However, I've kept <em>Alienation</em> hanging up since before I moved to Seoul. For five years, I've lived with that painting, staring at it every day. Not just its theme or composition, but every brushstroke and texture... If this were a movie, I'd have memorized every line spoken by every character. I probably know more about that painting now than Seo Ihyeon-ssi does."</p>
+<p>"I don't know if you noticed, but there are hardly any paintings hanging in this house. However, I've kept <em>Alienation</em> hanging up since before I moved to Seoul. For five years, I've lived with that painting, staring at it every day. Not just its theme or composition, but every brushstroke and texture... If this were a movie, I'd have memorized every line spoken by every character. I probably know more about that painting now than Seo Yeehyeon-ssi does."</p>
 
 <p>I felt a heat rising from deep inside my body, coloring my face red.</p>
 
