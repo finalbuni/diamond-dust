@@ -9,19 +9,32 @@
 </div>
 <script>
 (() => {
+    const enabled = false;
+
     const banner = document.getElementById('site-update-banner');
     const close = document.getElementById('site-update-banner-close');
-    if (!banner || !close) return;
+
+    if (!enabled || !banner || !close) return;
+
     const key = 'diamondDustReadingFormatAnnouncementSeptember2026Dismissed';
-    try { if (localStorage.getItem(key) !== 'yes') banner.hidden = false; }
-    catch (_) { banner.hidden = false; }
-close.addEventListener('click', () => {
-    banner.hidden = true;
-    window.dispatchEvent(new Event('resize'));
-    if (document.body.dataset.pageType === 'chapter' && window.scrollY <= 2) {
-        document.body.classList.add('reader-controls-visible');
+
+    try {
+        if (localStorage.getItem(key) !== 'yes') banner.hidden = false;
+    } catch (_) {
+        banner.hidden = false;
     }
-    try { localStorage.setItem(key, 'yes'); } catch (_) {}
-});
+
+    close.addEventListener('click', () => {
+        banner.hidden = true;
+        window.dispatchEvent(new Event('resize'));
+
+        if (document.body.dataset.pageType === 'chapter' && window.scrollY <= 2) {
+            document.body.classList.add('reader-controls-visible');
+        }
+
+        try {
+            localStorage.setItem(key, 'yes');
+        } catch (_) {}
+    });
 })();
 </script>
