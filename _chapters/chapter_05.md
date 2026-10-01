@@ -32,6 +32,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 {% include scene-break.html %}
 <div id="section-2" class="hybrid-section" data-section="2">
 {% capture excerpt %}
+
 <p>My favorite part of Hong Kong is the Old Town — the stretch of Noho, Soho, and Poho that faces itself along the steep climb up to Victoria Peak. It's a place that manages to be both a sophisticated, sought-after destination and somewhere the most ordinary, everyday Hong Kong still breathes.</p>
 
 <p>A traditional market butcher shop with non-refrigerated meat skewered and hung out to cure, a bustling Hong Kong-style open-air food stall packed with locals trying to make a meal with a bowl of noodles, narrow buildings over fifty years old with bamboo scaffolding propped along their exterior walls for renovations — this area, where such scenes stand back-to-back with Michelin-starred restaurants and cutting-edge galleries handling the most avant-garde works, is unchanging yet always new.</p>
@@ -49,6 +50,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 <p>To be inclusive without losing oneself.</p>
 
 <p>In the sense that it keeps reminding me not to give up on that — Hong Kong is a city I want to return to whenever I can. Even for a punishing three-night, four-day work trip.</p>
+
 {% endcapture %}
 
 {% include excerpt.html content=excerpt %}
@@ -57,9 +59,9 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 <div id="section-3" class="hybrid-section" data-section="3">
 <p>In the photo, Yuni nuna and Juhan hyung stood in a narrow alley on a steep slope — looked comfortable as themselves without exaggeration or concealment — they looked like part of that city rather than tourists.</p>
 
-<p>Just as Bali symbolizes paradise for Morae nuna and Yeehan hyung, perhaps Hong Kong is that kind of city for Yuni nuna.</p>
+<p>Just as Bali symbolizes paradise for Morae and Yeehan hyung, perhaps Hong Kong is that kind of city for Yuni nuna.</p>
 
-<p>And while reading that passage, for the first time, I felt a desire to visit a strange city I didn't even know well. I had listened to Morae nuna and Yeehan hyung go on about Bali for years without ever once thinking it might be somewhere I could actually go.</p>
+<p>And while reading that passage, for the first time, I felt a desire to visit a strange city I didn't even know well. I had listened to Morae and Yeehan hyung go on about Bali for years without ever once thinking it might be somewhere I could actually go.</p>
 
 <p>A desire to look at things with curiosity, to experience them directly with my own eyes and hands rather than through photographs or books. These desires were confusing.</p>
 
@@ -71,7 +73,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>It felt like opening eyes I'd long kept shut, certain they no longer worked — and finding out I could still tell light from dark. Not clearly enough yet to make out the shapes of things. But something in me was beginning to register that the world had light in it, and shadow, and that they created depth.</p>
 
-<p>I wanted to visit Hong Kong. I wanted to smoke cigarettes in those streets in the photographs with Yuni nuna and Juhan hyung.</p>
+<p>I wanted to visit Hong Kong. I wanted to smoke cigarettes in those streets in the photographs with nuna and hyung.</p>
 
 <p>Hong Kong — a city I'd had zero interest in before, merely a former British colony returned to China at the tail end of the twentieth century, yet one that still maintained its own distinct language, culture, and customs separate from the mainland, a city frequently cited as among the most expensive in the world alongside Singapore and New York — suddenly came at me as a living fascination, with its own expressions and scents, its own habits and distinctive ways of speaking.</p>
 
@@ -83,7 +85,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Liu Weikun.</p>
 
-<p>I only learned his full name after I officially became an employee of Phantom.</p>
+<p>I only learned his full name once he officially became the Director of the organization I belonged to.</p>
 
 <p>I imagined him on the other side of the lens, framing the two of them. It wasn't hard to picture — the three of them in those Hong Kong streets, passing the camera back and forth, living in the moment. People who, each with the most distinct individuality, could share the same space without needing to wear each other down.</p>
 
@@ -99,7 +101,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>But living things couldn't. Without water, without nutrients, without a window cracked open for air — they would grow impoverished. The mind, the emotions, even a person's unique individuality and talent.</p>
 
-<p>Morae nuna, Yeehan hyung, Yuni nuna, Juhan hyung, the Teacher, and the Director. Even Inwu hyung. They were all luminous people. People who poured their own convictions and passions into their lives.</p>
+<p>Morae, Yeehan hyung, Yuni nuna, Juhan hyung, the Teacher, and the Director. Even Inwu hyung. They were all luminous people. People who poured their own convictions and passions into their lives.</p>
 
 <p>Surrounded by their abundant light, I myself was nothing more than dried-up mud, lacking even the nutrients to sprout a single blade of grass.</p>
 
@@ -139,7 +141,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>All of Phantom's work these days was focused on preparing for Shushu's solo exhibition, which had been moved up a week ahead of schedule.</p>
 
-<p>Since Shushu was one of Phantom's key artists, Phantom had decided to take out an advertisement for the exhibition in an art magazine, and Yuni nuna and Juhan hyung had to draft the concept on top of everything else.</p>
+<p>Since Shushu was one of Phantom's key artists, Phantom had decided to take out an advertisement for the exhibition in an art magazine, and nuna and hyung had to draft the concept on top of everything else.</p>
 
 <p>It wouldn't be much help, but I had squeezed these ideas out as a way to practice the skills I was learning, and to do <em>something</em>. It felt like I had to do something.</p>
 
@@ -301,7 +303,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He laughed — a short sound — and ruffled Yuni nuna's short hair. They were exchanging barbs, but the way people who are genuinely close do, where the sharpness is part of the warmth. To someone outside that particular frequency, it was a code impossible to read.</p>
 
-<p>Unloading the pots and carrying them inside was quick work with four pairs of hands.</p>
+<p>The delivery driver handed down the pots from the truck, and the four of us quickly carried them inside.</p>
 
 <p>When he suggested grabbing coffee outside while we waited for the artworks, I assumed he meant a café nearby. He didn't.</p>
 
@@ -447,7 +449,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"……"</p>
 
-<p>It looked, to me, like the opposite of how it had been before — as if my not being an Omega was now exactly what had caught his interest, in some crooked way. Not Inwu hyung's. His. A man who had been furious I wasn't an Omega, and now couldn't stop being curious about it.</p>
+<p>It looked, to me, like the opposite of how it had been before — as if my not being an Omega was now exactly what had caught his interest, in some crooked way. A man who had been furious I wasn't an Omega now seemed curious about it.</p>
 
 <p>But even that twisted interest didn't last long. His phone vibrated on the table. He pressed out the cigarette — barely half-smoked — without a moment's hesitation, and was on his feet immediately.</p>
 
@@ -456,6 +458,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 {% include scene-break.html %}
 <div id="section-5" class="hybrid-section" data-section="5">
 {% capture excerpt %}
+
 <p>Eight months after <em>Body and Soul</em> — an exhibition that drew an enthusiastic response from visitors, critics, and industry media alike — Shushu now presents the <em>Body to Soul</em> series, solidifying his unique style while proving once again a deepened thematic consciousness.</p>
 
 <p>The <em>body</em> as a means of expressing the <em>soul</em>.</p>
@@ -485,6 +488,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 <p>And through his works I will awaken, if only briefly, to my own cowardice, and live on with that thin consolation of having defended the minimum of my humanity. Whatever anyone says, that is what art holds for me: placing us before immense things, so that we might contemplate the vague meaning of life hidden behind the ordinary continuity of days.</p>
 
 <p>As his dealer, collector, and ardent fan, I await the works he will show us with both excitement and anguish.</p>
+
 {% endcapture %}
 
 {% include excerpt.html content=excerpt %}
@@ -593,7 +597,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Nuna was still lying back with her chin tilted up at the ceiling. She blinked and smiled up at me. Then she called me back just as I was about to open the door.</p>
 
-<p>"Yeehyeon, when you go up, could you ask the Director if he wants to come for pho with us? He should still be upstairs."</p>
+<p>"Yeehyeon-ah, when you go up, could you ask the Director if he wants to come for pho with us? He should still be upstairs."</p>
 
 <p>But when I reached the second floor, there was no sign of him. He'd probably appear from somewhere. Or maybe he'd already gone back down before me.</p>
 
@@ -767,7 +771,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"They're regulars — they brought us gifts from their recent trip to Hong Kong. Try one."</p>
 
-<p>After relaying the order to Yeehan hyung in the kitchen, she set a tin box on the table. When she opened the lid with the teddy bear illustration, it was full of butter cookies.</p>
+<p>After relaying the order to hyung in the kitchen, she set a tin box on the table. When she opened the lid with the teddy bear illustration, it was full of butter cookies.</p>
 
 <p>"Didn't your gallery mention a business trip to Hong Kong too? When was it again?"</p>
 
@@ -812,6 +816,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 {% include scene-break.html %}
 <div id="section-8" class="hybrid-section" data-section="8">
 {% capture excerpt %}
+
 <p>The photographer, Shushu.</p>
 
 <p>Korean name: Jeong Se-in.</p>
@@ -833,6 +838,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 <p>Possessing the glamorous yet delicate appearance typical of a Golden Omega, he has garnered many fans and drawn public attention to the art world, receiving positive evaluations for this — while also facing the view that his Golden Omega status and looks have earned him praise beyond his actual skill.</p>
 
 <p>In any case, it is clear that he is a figure who generates buzz in the current art scene and a central axis among young artists that even the major galleries cannot ignore.</p>
+
 {% endcapture %}
 
 {% include excerpt.html content=excerpt %}
@@ -979,7 +985,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>All those scenes and conversations felt like a movie playing on a screen just across the table — a movie that had nothing to do with me. A movie that had nothing to do with me, and yet one that stirred something in my chest, shook my heart, made me root for someone and resent someone all at once.</p>
 
-<p>"It tastes better when everyone eats together. Juhan, you try one too. Do you perhaps not like sweets?"</p>
+<p>"It tastes better when everyone eats together. Juhan-ssi, you try one too. Do you perhaps not like sweets?"</p>
 
 <p>The artist's gaze, which had been directed at Juhan hyung, shifted naturally to me standing beside him.</p>
 
@@ -1201,7 +1207,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>The camera passed from hyung's hands to the Director's, and this time Juhan hyung picked up the reflector.</p>
 
-<p>"Can you sit on the ground over here? Stretch your legs out long. Yuni, can you set that mat down on the floor?"</p>
+<p>"Can you sit on the ground over here? Stretch your legs out long. Yuni-ya, can you set that mat down on the floor?"</p>
 
 <p>Gauging the light at the desired spot through the viewfinder, he pointed toward a mat tossed haphazardly on a prop box in the corner. Nuna and hyung, who had been somewhat tired from the extended shoot, regained their energy and moved swiftly at his request.</p>
 
@@ -1375,9 +1381,9 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Like yesterday during the event, he truly seemed in a good mood today. Perhaps because all of Shushu's works had sold out at the VIP opening combined with the press conference. Though he — or rather, Phantom — had purchased about a third of the works, that was an investment for sale at the Hong Kong Art Fair in July. They weren't troublesome pieces the gallery was stuck with.</p>
 
-<p>As I fumbled, flustered by the camera suddenly pointed at me, nuna approached my side and mimicked a reporter at a breaking news scene, changing the camera angle here and there. Along with the question, "How does it feel to become the muse of Phantom's Liu Weikun?" a flash went off right in front of my eyes.</p>
+<p>As I fumbled, flustered by the camera suddenly pointed at me, nuna approached my side and mimicked a reporter at a breaking news scene, changing the camera angle here and there. Along with the question, "How does it feel to become the muse of Phantom's Liu Weikun-ssi?" a flash went off right in front of my eyes.</p>
 
-<p>"Rumors are rife that the two of you are more than just a photographer and model. Is it true? Looking at the photos Liu Weikun has taken, it doesn't seem like a baseless rumor at all! Seo Yeehyeon, please say something!"</p>
+<p>"Rumors are rife that the two of you are more than just a photographer and model. Is it true? Looking at the photos Liu Weikun-ssi has taken, it doesn't seem like a baseless rumor at all! Seo Yeehyeon-ssi, please say something!"</p>
 
 <p>Nuna, who had taken the beer bottle I was fiddling with and held it like a microphone toward my lips, looked at me with eyes full of laughter. His gaze, visible over nuna's shoulder, was also directed this way.</p>
 

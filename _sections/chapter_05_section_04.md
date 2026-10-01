@@ -53,7 +53,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He laughed — a short sound — and ruffled Yuni nuna's short hair. They were exchanging barbs, but the way people who are genuinely close do, where the sharpness is part of the warmth. To someone outside that particular frequency, it was a code impossible to read.</p>
 
-<p>Unloading the pots and carrying them inside was quick work with four pairs of hands.</p>
+<p>The delivery driver handed down the pots from the truck, and the four of us quickly carried them inside.</p>
 
 <p>When he suggested grabbing coffee outside while we waited for the artworks, I assumed he meant a café nearby. He didn't.</p>
 
@@ -199,7 +199,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"……"</p>
 
-<p>It looked, to me, like the opposite of how it had been before — as if my not being an Omega was now exactly what had caught his interest, in some crooked way. Not Inwu hyung's. His. A man who had been furious I wasn't an Omega, and now couldn't stop being curious about it.</p>
+<p>It looked, to me, like the opposite of how it had been before — as if my not being an Omega was now exactly what had caught his interest, in some crooked way. A man who had been furious I wasn't an Omega now seemed curious about it.</p>
 
 <p>But even that twisted interest didn't last long. His phone vibrated on the table. He pressed out the cigarette — barely half-smoked — without a moment's hesitation, and was on his feet immediately.</p>
 

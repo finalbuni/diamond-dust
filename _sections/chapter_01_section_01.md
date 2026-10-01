@@ -39,7 +39,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Instructor, when can we ride like that?"</p>
 
-<p>Yeehan, his back to the sea as he faced his students, subtly turned his head, confirmed that the object of their "riding like that" was Morae, and let out a sigh. The scowl on his face was clearly visible even over his sunglasses.</p>
+<p>Hani<sup class="tn-marker" id="tn-ref-chapter-01-section-01-1"><a href="#tn-chapter-01-section-01-1" aria-label="Translator note 1">1</a></sup> hyung<sup class="tn-marker" id="tn-ref-chapter-01-section-01-2"><a href="#tn-chapter-01-section-01-2" aria-label="Translator note 2">2</a></sup>, his back to the sea as he faced his students, subtly turned his head, confirmed that the object of their "riding like that" was Morae, and let out a sigh. The scowl on his face was clearly visible even over his sunglasses.</p>
 
 <p>"The surfer you're admiring right now has seven years of surfing experience, and her swimming experience — well, you can just assume she's been floating in the ocean since she learned to walk. Now what about all of you?"</p>
 
@@ -59,11 +59,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>I took the water bottle out of my bag and handed it to her.</p>
 
-<p>This was her first surf in the East Sea this year. She'd mentioned taking a surfing trip to some island in Southeast Asia over the winter — while Yeehan and I were finishing the final stretch of our service — but that was already about three months ago.</p>
+<p>This was her first surf in the East Sea this year. She'd mentioned taking a surfing trip to some island in Southeast Asia over the winter — while hyung and I, who had enlisted together, were finishing the final stretch of our service — but that was already about three months ago.</p>
 
 <p>Even as she complained, her wet face was clearly flushed with excitement. It was the energy that radiates from someone doing exactly what they love. I could feel the cool, salty touch of the sea from her sitting beside me.</p>
 
-<p>It was perhaps the same feeling I'd had when I first met Morae nuna at this beach — arriving on Yeehan's bike while she was surfing — that same warmth and scent when she walked out of the sea and offered me a handshake with a smile.</p>
+<p>It was perhaps the same feeling I'd had when I first met Morae at this beach — arriving on Yeehan's bike while she was surfing — that same warmth and scent when she walked out of the sea and offered me a handshake with a smile.</p>
 
 <p>Maybe that was why. Although her name was Morae, she always reminded me of the sea: full of moisture and vitality.</p>
 
@@ -75,11 +75,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"You ride as cleanly as someone who was out there yesterday."</p>
 
-<p>"Do I ride better than Yeehan?"</p>
+<p>"Do I ride better than Hani?"</p>
 
 <p>I turned my head to look at hyung, demonstrating for his students by paddling on a styrofoam board. Then I answered in a low voice.</p>
 
-<p>"You always rode better than him."</p>
+<p>"Nuna<sup class="tn-marker" id="tn-ref-chapter-01-section-01-3"><a href="#tn-chapter-01-section-01-3" aria-label="Translator note 3">3</a></sup>, you always rode better than hyung."</p>
 
 <p>Morae glanced over toward hyung as well, then gave me a quick smile so no one else would notice.</p>
 
@@ -89,7 +89,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>She had described many times the thrill of riding inside the hollow tube formed when a big wave curls and crashes — and the sense of mystery, as if being sucked for that brief moment into a natural dimension entirely separate from Earth.</p>
 
-<p>Such waves were hard to come by in the East Sea. Even Yeehan, who had never surfed abroad, had only heard about them or seen them in videos; he had never actually ridden one.</p>
+<p>Such waves were hard to come by in the East Sea. Even hyung, who had never surfed abroad, had only heard about them or seen them in videos; he had never actually ridden one.</p>
 
 <p>As skilled surfers, they couldn't be satisfied with just the waves of this sea. No matter how long they stayed on their boards, a lingering thirst remained.</p>
 
@@ -99,7 +99,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Morae's father was one of the wealthiest and most influential men in the area, owning five or six large fishing trawlers and several restaurants. He was someone who spared no expense for Morae — his only daughter among older brothers, a daughter born a female Alpha, his precious and somewhat troubled child.</p>
 
-<p>Thanks to Morae, Yeehan naturally took up surfing and was instantly hooked. As soon as the ocean warmed enough for their wetsuits to handle, the two of them would race to this beach, a forty-minute ride away on their bikes. And just like now, I would sit on the shore watching them paddle out to the lineup and get pushed back to the sand again and again, never seeming to tire of it. It wouldn't be an exaggeration to say that my three years of high school passed exactly like that.</p>
+<p>Thanks to Morae, hyung naturally took up surfing and was instantly hooked. As soon as the ocean warmed enough for their wetsuits to handle, the two of them would race to this beach, a forty-minute ride away on their bikes. And just like now, I would sit on the shore watching them paddle out to the lineup and get pushed back to the sand again and again, never seeming to tire of it. It wouldn't be an exaggeration to say that my three years of high school passed exactly like that.</p>
 
 <p>"Want me to teach you? Want to give it a try?"</p>
 
@@ -109,9 +109,9 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Same response.</p>
 
-<p>Yeehan hyung and Morae nuna asked periodically, but they never tried to actively persuade me or drag me into the ocean by force. This time too, Morae nuna just laughed while lightly tapping my shoulder with her wet fist. But the laugh carried disappointment and worry — that I was still the same person even after finishing my service.</p>
+<p>Hyung and Morae asked periodically, but they never tried to actively persuade me or drag me into the ocean by force. This time too, Morae just laughed while lightly tapping my shoulder with her wet fist. But the laugh carried disappointment and worry — that I was still the same person even after finishing my service.</p>
 
-<p>She got up to head back into the water. I brushed the sand off and stood to zip up the back of her wetsuit. That was my role whenever Yeehan or Morae was without the other.</p>
+<p>She got up to head back into the water. I brushed the sand off and stood to zip up the back of her wetsuit. That was my role whenever hyung or Morae was without the other.</p>
 
 <p>"Alright, lift your hips! Keep your gaze far ahead! Engage those triceps!"</p>
 
@@ -119,13 +119,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"With your current arm strength, you wouldn't make it ten meters out there. Arch your back more. If you can't secure your vision, you're not just putting yourself in danger — you're putting other surfers at risk too!"</p>
 
-<p>Morae nuna let out a soft chuckle at hyung's rigid, instructor-like tone — barking corrections and re-emphasizing safety.</p>
+<p>Morae let out a soft chuckle at hyung's rigid, instructor-like tone — barking corrections and re-emphasizing safety.</p>
 
 <p>"Looks like he still hasn't shaken off that military stiffness."</p>
 
-<p>I smiled back at her in agreement. Morae nuna lightly patted my cheek with her cool, wet hand.</p>
+<p>I smiled back at her in agreement. Morae lightly patted my cheek with her cool, wet hand.</p>
 
-<p>"But Yeehyeon is so fresh and dry. Who would ever think you're an old army man who just got discharged?"</p>
+<p>"But our Hyeoni<sup class="tn-marker" id="tn-ref-chapter-01-section-01-4"><a href="#tn-chapter-01-section-01-4" aria-label="Translator note 4">4</a></sup> is so fresh and dry. Who would ever think you're an old army man who just got discharged?"</p>
 
 <p>Army man.</p>
 
@@ -135,8 +135,18 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>When I nodded, she flashed a bright smile, her face dotted with seawater, tucked her board under her arm, and headed back into the ocean.</p>
 
-<p>She crossed the boundary between the sea and the sand without hesitation, paddling against the direction of the waves toward the lineup, her head held high without fear even on the unpredictable water — just as Yeehan was currently emphasizing to his students.</p>
+<p>She crossed the boundary between the sea and the sand without hesitation, paddling against the direction of the waves toward the lineup, her head held high without fear even on the unpredictable water — just as hyung was currently emphasizing to his students.</p>
 
 <p>And then, miraculously, she stood up on that fragile white foam, which looked like it could vanish at any moment.</p>
 
 <p>No matter how many times I watched, or how many years passed, it was always an astonishing sight.</p>
+<section class="translator-notes" aria-label="Translator notes">
+  <div class="translator-notes__heading">TRANSLATOR'S NOTES</div>
+  <ol class="translator-notes__list">
+    <li id="tn-chapter-01-section-01-1" class="translator-note"><span class="translator-note__number">1</span> <strong>Hani (한이)</strong> — An affectionate nickname formed by attaching the endearing suffix -i to the character&#x27;s final syllable (Yeehan → Han → Hani). <a class="translator-note__back" href="#tn-ref-chapter-01-section-01-1" aria-label="Return to note reference 1">↩ Back to text</a></li>
+    <li id="tn-chapter-01-section-01-2" class="translator-note"><span class="translator-note__number">2</span> <strong>Hyung (형)</strong> — Most commonly means &quot;older brother&quot; in Korean, used by a younger male to address or refer to an older male. <a class="translator-note__back" href="#tn-ref-chapter-01-section-01-2" aria-label="Return to note reference 2">↩ Back to text</a></li>
+    <li id="tn-chapter-01-section-01-3" class="translator-note"><span class="translator-note__number">3</span> <strong>Nuna (누나)</strong> — Most commonly means &quot;older sister&quot; in Korean, used by a male to address or refer to an older female. <a class="translator-note__back" href="#tn-ref-chapter-01-section-01-3" aria-label="Return to note reference 3">↩ Back to text</a></li>
+    <li id="tn-chapter-01-section-01-4" class="translator-note"><span class="translator-note__number">4</span> <strong>Hyeoni (현이)</strong> — An affectionate nickname formed by attaching the endearing suffix -i to the character&#x27;s final syllable (Yeehyeon → Hyeon → Hyeoni). <a class="translator-note__back" href="#tn-ref-chapter-01-section-01-4" aria-label="Return to note reference 4">↩ Back to text</a></li>
+  </ol>
+</section>
+

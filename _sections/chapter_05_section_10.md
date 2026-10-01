@@ -113,7 +113,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>All those scenes and conversations felt like a movie playing on a screen just across the table — a movie that had nothing to do with me. A movie that had nothing to do with me, and yet one that stirred something in my chest, shook my heart, made me root for someone and resent someone all at once.</p>
 
-<p>"It tastes better when everyone eats together. Juhan, you try one too. Do you perhaps not like sweets?"</p>
+<p>"It tastes better when everyone eats together. Juhan-ssi, you try one too. Do you perhaps not like sweets?"</p>
 
 <p>The artist's gaze, which had been directed at Juhan hyung, shifted naturally to me standing beside him.</p>
 

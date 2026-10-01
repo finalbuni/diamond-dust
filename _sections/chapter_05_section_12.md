@@ -85,9 +85,9 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Like yesterday during the event, he truly seemed in a good mood today. Perhaps because all of Shushu's works had sold out at the VIP opening combined with the press conference. Though he — or rather, Phantom — had purchased about a third of the works, that was an investment for sale at the Hong Kong Art Fair in July. They weren't troublesome pieces the gallery was stuck with.</p>
 
-<p>As I fumbled, flustered by the camera suddenly pointed at me, nuna approached my side and mimicked a reporter at a breaking news scene, changing the camera angle here and there. Along with the question, "How does it feel to become the muse of Phantom's Liu Weikun?" a flash went off right in front of my eyes.</p>
+<p>As I fumbled, flustered by the camera suddenly pointed at me, nuna approached my side and mimicked a reporter at a breaking news scene, changing the camera angle here and there. Along with the question, "How does it feel to become the muse of Phantom's Liu Weikun-ssi?" a flash went off right in front of my eyes.</p>
 
-<p>"Rumors are rife that the two of you are more than just a photographer and model. Is it true? Looking at the photos Liu Weikun has taken, it doesn't seem like a baseless rumor at all! Seo Yeehyeon, please say something!"</p>
+<p>"Rumors are rife that the two of you are more than just a photographer and model. Is it true? Looking at the photos Liu Weikun-ssi has taken, it doesn't seem like a baseless rumor at all! Seo Yeehyeon-ssi, please say something!"</p>
 
 <p>Nuna, who had taken the beer bottle I was fiddling with and held it like a microphone toward my lips, looked at me with eyes full of laughter. His gaze, visible over nuna's shoulder, was also directed this way.</p>
 

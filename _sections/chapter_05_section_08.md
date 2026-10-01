@@ -12,6 +12,7 @@ permalink: /sections/chapter-05/8/
 excerpt_separator: "<!-- section-excerpt-end -->"
 ---
 {% capture excerpt %}
+
 <p>The photographer, Shushu.</p>
 
 <p>Korean name: Jeong Se-in.</p>
@@ -33,6 +34,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 <p>Possessing the glamorous yet delicate appearance typical of a Golden Omega, he has garnered many fans and drawn public attention to the art world, receiving positive evaluations for this — while also facing the view that his Golden Omega status and looks have earned him praise beyond his actual skill.</p>
 
 <p>In any case, it is clear that he is a figure who generates buzz in the current art scene and a central axis among young artists that even the major galleries cannot ignore.</p>
+
 {% endcapture %}
 
 {% include excerpt.html content=excerpt %}

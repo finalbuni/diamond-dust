@@ -221,7 +221,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>She simply answered, "Seoul Station"—she had always disliked the stuffy, claustrophobic feeling of tunnels.</p>
 
-<p>Heading from Tongil-ro in front of Seoul Station toward Samgakji, the taxi slipped through the intersection just as the light turned, barely crossing the stop line. The driver grumbled that if the car ahead hadn't dawdled at the previous light they wouldn't have been caught, but she merely smiled, far too happy to care.</p>
+<p>Heading from Tongil-ro in front of Seoul Station toward Samgakji, the light changed just before the taxi crossed the stop line, forcing it to wait. The driver grumbled that if the car ahead hadn't dawdled at the previous light they wouldn't have been caught, but she merely smiled, far too happy to care.</p>
 
 <p>Wham!'s "Last Christmas" was playing softly on the radio. Humming along to the warmly nostalgic melody, she leaned back against the seat.</p>
 
@@ -239,7 +239,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>It wasn't merely a loud noise. It was a sound deeply laced with violence and misfortune — entirely different from the harmless clamor of a construction site or the roaring cheers of a sporting event.</p>
 
-<p>Both she and the taxi driver watched in horror as the blue truck slammed headlong into a mid-sized sedan. The collision looked like nothing less than a deliberate act of self-destruction.</p>
+<p>Both she and the taxi driver watched the blue truck charge toward a mid-sized sedan. The rush looked like nothing less than a deliberate act of self-destruction.</p>
 
 <p>She clapped both hands over her mouth as screams erupted from the driver as well.</p>
 

@@ -615,11 +615,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>When I nodded, his eyes, fixed on me this time, calmed down a little. He scanned every corner of my face as if checking my safety, then muttered a low curse — the target of which I couldn't discern — and looked away.</p>
 
-<p>The works I saw afterward barely registered. My mind was entirely consumed with the thought of meeting Teacher Suki Kim.</p>
+<p>The works I saw afterward barely registered. My mind was entirely consumed with the thought of meeting Ms. Suki Kim.</p>
 
 <p>I had decided to come here because of his promise to arrange a meeting with her, but until this moment it hadn't felt real. Now, with the excitement finally settling into something tangible, I felt as though my feet were hovering an inch above the floor.</p>
 
-<p>He struck me as extraordinary all over again. Not just his ability to arrange a meeting with Teacher Suki Kim — but that tenacity, that commitment, to willingly endure such a bothersome process just to get me to paint. That steadfastness itself was astonishing.</p>
+<p>He struck me as extraordinary all over again. Not just his ability to arrange a meeting with Ms. Suki Kim — but that tenacity, that commitment, to willingly endure such a bothersome process just to get me to paint. That steadfastness itself was astonishing.</p>
 
 <p>He had confidence in me, a complete stranger — but it was a different kind of conviction than the confidence Yeehan hyung's grandfather had in hyung's life, or Mr. Lim had in Morae nuna's.</p>
 
@@ -927,7 +927,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Empathy for <em>alienation</em>.</p>
 
-<p>That was the emotion I had felt in Teacher Suki Kim's critique.</p>
+<p>That was the emotion I had felt in Ms. Suki Kim's critique.</p>
 
 <p>Under two parents who maintained a good relationship and were understanding, I was supposed to be a perfectly happy child. Many people around me, even my friends, spoke as though that were my obligation.</p>
 
@@ -1163,7 +1163,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>This identity as an outsider — knowing that my real life existed separately somewhere else — actually provided the emotional foundation that allowed me to blend into this space without feeling uncomfortable. Perhaps that was what people called the charm of travel, or maybe the thrill of stepping outside the norm.</p>
 
-<p>Normally, after leaving Teacher Suki Kim's studio, I would have tried to process the shock by quietly secluding myself in my hotel room to replay the conversation and my feelings. But right now, I was suspending that process and following an impulse.</p>
+<p>Normally, after leaving Ms. Suki Kim's studio, I would have tried to process the shock by quietly secluding myself in my hotel room to replay the conversation and my feelings. But right now, I was suspending that process and following an impulse.</p>
 
 <p>I wanted to be wherever he was.</p>
 

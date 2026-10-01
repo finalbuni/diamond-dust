@@ -13,9 +13,9 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 ---
 <p>In the photo, Yuni nuna and Juhan hyung stood in a narrow alley on a steep slope — looked comfortable as themselves without exaggeration or concealment — they looked like part of that city rather than tourists.</p>
 
-<p>Just as Bali symbolizes paradise for Morae nuna and Yeehan hyung, perhaps Hong Kong is that kind of city for Yuni nuna.</p>
+<p>Just as Bali symbolizes paradise for Morae and Yeehan hyung, perhaps Hong Kong is that kind of city for Yuni nuna.</p>
 
-<p>And while reading that passage, for the first time, I felt a desire to visit a strange city I didn't even know well. I had listened to Morae nuna and Yeehan hyung go on about Bali for years without ever once thinking it might be somewhere I could actually go.</p>
+<p>And while reading that passage, for the first time, I felt a desire to visit a strange city I didn't even know well. I had listened to Morae and Yeehan hyung go on about Bali for years without ever once thinking it might be somewhere I could actually go.</p>
 
 <p>A desire to look at things with curiosity, to experience them directly with my own eyes and hands rather than through photographs or books. These desires were confusing.</p>
 
@@ -27,7 +27,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>It felt like opening eyes I'd long kept shut, certain they no longer worked — and finding out I could still tell light from dark. Not clearly enough yet to make out the shapes of things. But something in me was beginning to register that the world had light in it, and shadow, and that they created depth.</p>
 
-<p>I wanted to visit Hong Kong. I wanted to smoke cigarettes in those streets in the photographs with Yuni nuna and Juhan hyung.</p>
+<p>I wanted to visit Hong Kong. I wanted to smoke cigarettes in those streets in the photographs with nuna and hyung.</p>
 
 <p>Hong Kong — a city I'd had zero interest in before, merely a former British colony returned to China at the tail end of the twentieth century, yet one that still maintained its own distinct language, culture, and customs separate from the mainland, a city frequently cited as among the most expensive in the world alongside Singapore and New York — suddenly came at me as a living fascination, with its own expressions and scents, its own habits and distinctive ways of speaking.</p>
 
@@ -39,7 +39,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Liu Weikun.</p>
 
-<p>I only learned his full name after I officially became an employee of Phantom.</p>
+<p>I only learned his full name once he officially became the Director of the organization I belonged to.</p>
 
 <p>I imagined him on the other side of the lens, framing the two of them. It wasn't hard to picture — the three of them in those Hong Kong streets, passing the camera back and forth, living in the moment. People who, each with the most distinct individuality, could share the same space without needing to wear each other down.</p>
 
@@ -55,7 +55,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>But living things couldn't. Without water, without nutrients, without a window cracked open for air — they would grow impoverished. The mind, the emotions, even a person's unique individuality and talent.</p>
 
-<p>Morae nuna, Yeehan hyung, Yuni nuna, Juhan hyung, the Teacher, and the Director. Even Inwu hyung. They were all luminous people. People who poured their own convictions and passions into their lives.</p>
+<p>Morae, Yeehan hyung, Yuni nuna, Juhan hyung, the Teacher, and the Director. Even Inwu hyung. They were all luminous people. People who poured their own convictions and passions into their lives.</p>
 
 <p>Surrounded by their abundant light, I myself was nothing more than dried-up mud, lacking even the nutrients to sprout a single blade of grass.</p>
 
@@ -95,7 +95,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>All of Phantom's work these days was focused on preparing for Shushu's solo exhibition, which had been moved up a week ahead of schedule.</p>
 
-<p>Since Shushu was one of Phantom's key artists, Phantom had decided to take out an advertisement for the exhibition in an art magazine, and Yuni nuna and Juhan hyung had to draft the concept on top of everything else.</p>
+<p>Since Shushu was one of Phantom's key artists, Phantom had decided to take out an advertisement for the exhibition in an art magazine, and nuna and hyung had to draft the concept on top of everything else.</p>
 
 <p>It wouldn't be much help, but I had squeezed these ideas out as a way to practice the skills I was learning, and to do <em>something</em>. It felt like I had to do something.</p>
 

@@ -27,7 +27,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>I drew with the Teacher for about a year. Looking back now, she probably stopped teaching when she graduated from university and left for Hong Kong. That was already ten years ago.</p>
 
-<p>Yeehan and Morae seemed worried that seeing the Teacher would stir up the past. But the past that surfaced when I saw her went further back than that — to a time when the world was full of adventure and mystery.</p>
+<p>Hyung and Morae seemed worried that seeing the Teacher would stir up the past. But the past that surfaced when I saw her went further back than that — to a time when the world was full of adventure and mystery.</p>
 
 <p>"Ah, I feel alive again now that there's something in my stomach."</p>
 
@@ -109,7 +109,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>While the Teacher turned slightly away to take the call, I quickly began clearing the table. The disposable containers made cleanup simple.</p>
 
-<p>"Yeah. Why? Artist Yoon?... Ha... Why does that guy always get fixated on such useless things? Yuni, can you...? No, you're probably working on the display right now. Okay, I'll handle Artist Yoon — just ignore his calls from now on and focus on the display... Yes, I'll take responsibility."</p>
+<p>"Yeah. Why? Artist Yoon?... Ha... Why does that guy always get fixated on such useless things? Yuni-ya<sup class="tn-marker" id="tn-ref-chapter-02-section-02-1"><a href="#tn-chapter-02-section-02-1" aria-label="Translator note 1">1</a></sup>, can you...? No, you're probably working on the display right now. Okay, I'll handle Artist Yoon — just ignore his calls from now on and focus on the display... Yes, I'll take responsibility."</p>
 
 <p>Even before I'd stopped drawing, I'd known nothing about the inner workings of the art world or how galleries operated. But judging by the Teacher's lifestyle, it clearly wasn't an easy field.</p>
 
@@ -126,3 +126,10 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 <p>Still holding the container, I nodded awkwardly. The Teacher strode forward and took hold of my wet hand.</p>
 
 <p>"Yeehyeon-ah, save me. No — save my kids."</p>
+<section class="translator-notes" aria-label="Translator notes">
+  <div class="translator-notes__heading">TRANSLATOR'S NOTE</div>
+  <ol class="translator-notes__list">
+    <li id="tn-chapter-02-section-02-1" class="translator-note"><span class="translator-note__number">1</span> <strong>Yuni-ya (유니야)</strong> — The suffix -ya (야) is an affectionate way of calling out to or addressing someone close in age or status, added to names ending in a vowel. <a class="translator-note__back" href="#tn-ref-chapter-02-section-02-1" aria-label="Return to note reference 1">↩ Back to text</a></li>
+  </ol>
+</section>
+

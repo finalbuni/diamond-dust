@@ -37,7 +37,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Instructor, when can we ride like that?"</p>
 
-<p>Yeehan, his back to the sea as he faced his students, subtly turned his head, confirmed that the object of their "riding like that" was Morae, and let out a sigh. The scowl on his face was clearly visible even over his sunglasses.</p>
+<p>Hani<sup class="tn-marker" id="tn-ref-chapter-01-1"><a href="#tn-chapter-01-1" aria-label="Translator note 1">1</a></sup> hyung<sup class="tn-marker" id="tn-ref-chapter-01-2"><a href="#tn-chapter-01-2" aria-label="Translator note 2">2</a></sup>, his back to the sea as he faced his students, subtly turned his head, confirmed that the object of their "riding like that" was Morae, and let out a sigh. The scowl on his face was clearly visible even over his sunglasses.</p>
 
 <p>"The surfer you're admiring right now has seven years of surfing experience, and her swimming experience — well, you can just assume she's been floating in the ocean since she learned to walk. Now what about all of you?"</p>
 
@@ -57,11 +57,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>I took the water bottle out of my bag and handed it to her.</p>
 
-<p>This was her first surf in the East Sea this year. She'd mentioned taking a surfing trip to some island in Southeast Asia over the winter — while Yeehan and I were finishing the final stretch of our service — but that was already about three months ago.</p>
+<p>This was her first surf in the East Sea this year. She'd mentioned taking a surfing trip to some island in Southeast Asia over the winter — while hyung and I, who had enlisted together, were finishing the final stretch of our service — but that was already about three months ago.</p>
 
 <p>Even as she complained, her wet face was clearly flushed with excitement. It was the energy that radiates from someone doing exactly what they love. I could feel the cool, salty touch of the sea from her sitting beside me.</p>
 
-<p>It was perhaps the same feeling I'd had when I first met Morae nuna at this beach — arriving on Yeehan's bike while she was surfing — that same warmth and scent when she walked out of the sea and offered me a handshake with a smile.</p>
+<p>It was perhaps the same feeling I'd had when I first met Morae at this beach — arriving on Yeehan's bike while she was surfing — that same warmth and scent when she walked out of the sea and offered me a handshake with a smile.</p>
 
 <p>Maybe that was why. Although her name was Morae, she always reminded me of the sea: full of moisture and vitality.</p>
 
@@ -73,11 +73,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"You ride as cleanly as someone who was out there yesterday."</p>
 
-<p>"Do I ride better than Yeehan?"</p>
+<p>"Do I ride better than Hani?"</p>
 
 <p>I turned my head to look at hyung, demonstrating for his students by paddling on a styrofoam board. Then I answered in a low voice.</p>
 
-<p>"You always rode better than him."</p>
+<p>"Nuna<sup class="tn-marker" id="tn-ref-chapter-01-3"><a href="#tn-chapter-01-3" aria-label="Translator note 3">3</a></sup>, you always rode better than hyung."</p>
 
 <p>Morae glanced over toward hyung as well, then gave me a quick smile so no one else would notice.</p>
 
@@ -87,7 +87,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>She had described many times the thrill of riding inside the hollow tube formed when a big wave curls and crashes — and the sense of mystery, as if being sucked for that brief moment into a natural dimension entirely separate from Earth.</p>
 
-<p>Such waves were hard to come by in the East Sea. Even Yeehan, who had never surfed abroad, had only heard about them or seen them in videos; he had never actually ridden one.</p>
+<p>Such waves were hard to come by in the East Sea. Even hyung, who had never surfed abroad, had only heard about them or seen them in videos; he had never actually ridden one.</p>
 
 <p>As skilled surfers, they couldn't be satisfied with just the waves of this sea. No matter how long they stayed on their boards, a lingering thirst remained.</p>
 
@@ -97,7 +97,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Morae's father was one of the wealthiest and most influential men in the area, owning five or six large fishing trawlers and several restaurants. He was someone who spared no expense for Morae — his only daughter among older brothers, a daughter born a female Alpha, his precious and somewhat troubled child.</p>
 
-<p>Thanks to Morae, Yeehan naturally took up surfing and was instantly hooked. As soon as the ocean warmed enough for their wetsuits to handle, the two of them would race to this beach, a forty-minute ride away on their bikes. And just like now, I would sit on the shore watching them paddle out to the lineup and get pushed back to the sand again and again, never seeming to tire of it. It wouldn't be an exaggeration to say that my three years of high school passed exactly like that.</p>
+<p>Thanks to Morae, hyung naturally took up surfing and was instantly hooked. As soon as the ocean warmed enough for their wetsuits to handle, the two of them would race to this beach, a forty-minute ride away on their bikes. And just like now, I would sit on the shore watching them paddle out to the lineup and get pushed back to the sand again and again, never seeming to tire of it. It wouldn't be an exaggeration to say that my three years of high school passed exactly like that.</p>
 
 <p>"Want me to teach you? Want to give it a try?"</p>
 
@@ -107,9 +107,9 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Same response.</p>
 
-<p>Yeehan hyung and Morae nuna asked periodically, but they never tried to actively persuade me or drag me into the ocean by force. This time too, Morae nuna just laughed while lightly tapping my shoulder with her wet fist. But the laugh carried disappointment and worry — that I was still the same person even after finishing my service.</p>
+<p>Hyung and Morae asked periodically, but they never tried to actively persuade me or drag me into the ocean by force. This time too, Morae just laughed while lightly tapping my shoulder with her wet fist. But the laugh carried disappointment and worry — that I was still the same person even after finishing my service.</p>
 
-<p>She got up to head back into the water. I brushed the sand off and stood to zip up the back of her wetsuit. That was my role whenever Yeehan or Morae was without the other.</p>
+<p>She got up to head back into the water. I brushed the sand off and stood to zip up the back of her wetsuit. That was my role whenever hyung or Morae was without the other.</p>
 
 <p>"Alright, lift your hips! Keep your gaze far ahead! Engage those triceps!"</p>
 
@@ -117,13 +117,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"With your current arm strength, you wouldn't make it ten meters out there. Arch your back more. If you can't secure your vision, you're not just putting yourself in danger — you're putting other surfers at risk too!"</p>
 
-<p>Morae nuna let out a soft chuckle at hyung's rigid, instructor-like tone — barking corrections and re-emphasizing safety.</p>
+<p>Morae let out a soft chuckle at hyung's rigid, instructor-like tone — barking corrections and re-emphasizing safety.</p>
 
 <p>"Looks like he still hasn't shaken off that military stiffness."</p>
 
-<p>I smiled back at her in agreement. Morae nuna lightly patted my cheek with her cool, wet hand.</p>
+<p>I smiled back at her in agreement. Morae lightly patted my cheek with her cool, wet hand.</p>
 
-<p>"But Yeehyeon is so fresh and dry. Who would ever think you're an old army man who just got discharged?"</p>
+<p>"But our Hyeoni<sup class="tn-marker" id="tn-ref-chapter-01-4"><a href="#tn-chapter-01-4" aria-label="Translator note 4">4</a></sup> is so fresh and dry. Who would ever think you're an old army man who just got discharged?"</p>
 
 <p>Army man.</p>
 
@@ -133,7 +133,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>When I nodded, she flashed a bright smile, her face dotted with seawater, tucked her board under her arm, and headed back into the ocean.</p>
 
-<p>She crossed the boundary between the sea and the sand without hesitation, paddling against the direction of the waves toward the lineup, her head held high without fear even on the unpredictable water — just as Yeehan was currently emphasizing to his students.</p>
+<p>She crossed the boundary between the sea and the sand without hesitation, paddling against the direction of the waves toward the lineup, her head held high without fear even on the unpredictable water — just as hyung was currently emphasizing to his students.</p>
 
 <p>And then, miraculously, she stood up on that fragile white foam, which looked like it could vanish at any moment.</p>
 
@@ -149,7 +149,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>A gust of sea breeze carried the smell of fish. As the sun set and the air grew sharply colder, I hunched my shoulders and shoved my hands into the pockets of my light jacket.</p>
 
-<p>Yeehan had gone out on the boat today with our grandfather and my uncle. If hyung hadn't been on the boat, I almost never would have come down to the harbor to wait for their return.</p>
+<p>Hyung had gone out on the boat today with our grandfather and my uncle. If hyung hadn't been on the boat, I almost never would have come down to the harbor to wait for their return.</p>
 
 <p>My uncle — Yeehan's father — and our grandfather had been pressuring hyung to join them on the boat. It seemed this had been going on since hyung was in middle school, even before I came here.</p>
 
@@ -161,11 +161,9 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Hyung was only twenty-three years old.</p>
 
-<p>He had been holding out, refusing to even board the boat after his discharge — afraid it would be taken as a sign that he intended to keep fishing, or cause them to expect as much. Yet today, he had gone out to sea.</p>
+<p>He had been holding out, refusing to even board the boat after his discharge — afraid it would be taken as a sign that he intended to keep fishing, or cause them to expect as much. Yet today, he had gone out to sea. Morae's phone had been turned off all day.</p>
 
-<p>Morae's phone had been turned off all day.</p>
-
-<p>Our grandfather's boat came into view. A small secondhand fishing vessel, purchased with loans pulled together from here and there — small enough for three men, grandfather, uncle, and Yeehan, to operate.</p>
+<p>Our grandfather's boat came into view. A small secondhand fishing vessel, purchased with loans pulled together from here and there — small enough for three men, grandfather, uncle, and hyung, to operate.</p>
 
 <p>The spot where I was sitting was our boat's designated mooring slip. Hyung, standing at the bow and preparing to dock, made eye contact with me.</p>
 
@@ -181,7 +179,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>It was Morae's father.</p>
 
-<p>Mr. Lim — who appeared to be about grandfather's age — skipped any greeting and demanded a private word with a grim expression. Before grandfather could respond, Mr. Lim had already turned his back and started walking ahead.</p>
+<p>Mr. Lim skipped any greeting to grandfather, a man old enough to be his father, and demanded a private word with a grim expression. Before grandfather could respond, Mr. Lim had already turned his back and started walking ahead.</p>
 
 <p>Everyone who bought, sold, or moved fish at this market — excluding outsiders — owed him money. That was what the adults always said. Even allowing for exaggeration, it wasn't entirely baseless. Our family was no exception; we were in debt to him as well.</p>
 
@@ -197,13 +195,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 </div>
 {% include scene-break.html %}
 <div id="section-3" class="hybrid-section" data-section="3">
-<p>Grandfather said he would kill Yeehan.</p>
+<p>Grandfather said he would kill hyung.</p>
 
 <p>He slammed the floor with a long pole kept in one corner of the yard, screaming that anyone who acted up without knowing their place and dragged their parents' name through the mud deserved to be beaten to death.</p>
 
 <p>"How dare you, you good-for-nothing… where do you think you're reaching!"</p>
 
-<p>Grandfather seemed less like Yeehan's grandfather and more like Morae's.</p>
+<p>Grandfather seemed less like Seo Yeehan's grandfather and more like Morae's.</p>
 
 <p>"Who do you think you are, dragging Mr. Lim's daughter around? Did you want to see this old fool groveling like a criminal in front of him, you son of a bitch!"</p>
 
@@ -211,13 +209,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Who dragged her? What bastard is going around saying that? I'll rip his mouth apart!"</p>
 
-<p>Yeehan wasn't exactly meek either. I could picture his face — veins popping, shouting even while sitting inside the room.</p>
+<p>Hyung wasn't exactly meek either. I could picture his face — veins popping, shouting even while sitting inside the room.</p>
 
 <p>"Shut your mouth! You're the one who'll have his jaw ripped apart for taking a rich man's daughter to a motel, you punk!"</p>
 
-<p>Morae and Yeehan had been dating since middle school, and around high school, Morae's family had begun applying pressure when rumors about them surfaced.</p>
+<p>Morae and hyung had been dating since middle school, and around high school, Morae's family had begun applying pressure when rumors about them surfaced.</p>
 
-<p>At first the pressure had only amounted to occasional disapproval — perhaps because they believed the two were still young and their relationship wouldn't last. But after Yeehan was discharged, that pressure had slowly shifted into something more concrete and threatening.</p>
+<p>At first the pressure had only amounted to occasional disapproval — perhaps because they believed the two were still young and their relationship wouldn't last. But after hyung was discharged, that pressure had slowly shifted into something more concrete and threatening.</p>
 
 <p>It must have been a few days ago, after they went surfing. The two of them and I had parted ways and I'd gone home first. Hyung didn't return until late that night. Someone must have seen them entering a motel together and reported it to Morae's father.</p>
 
@@ -233,7 +231,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Grandfather believed that the reason Morae's parents opposed the relationship was the decline of their family's standing — but in reality the issue was somewhat more complicated than that.</p>
 
-<p>Grandfather and the other adults didn't know Morae was an Alpha. In this village, besides Morae's family, only Yeehan and I knew.</p>
+<p>Grandfather and the other adults didn't know Morae was an Alpha. In this village, besides Morae's family, only hyung and I knew.</p>
 
 <p>Alphas, said to make up roughly one in every thousand people nationally, were mostly concentrated in areas with high income and education levels. By the statistics, a small port town of about thirty thousand like this one should have around thirty Alphas — but in reality, there seemed to be only two or three at most, and even those were people who were merely Alphas in a biological sense, not significantly different from Betas.</p>
 
@@ -243,13 +241,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>That was why Morae's family had lived concealing the fact that she was an Alpha.</p>
 
-<p>I didn't know exactly how strong her Alpha traits were, but between an Alpha and a male Beta, conception was difficult. Nearly impossible, in fact.</p>
+<p>I didn't know exactly how strong her Alpha traits were, but between an Alpha and a Beta, conception was difficult. Nearly impossible, in fact.</p>
 
-<p>That was why Morae's family opposed her being with Yeehan. And if she had even suggested pairing with a female Omega, it felt as though one of the family members would have staged a suicide attempt.</p>
+<p>That was why Morae's family wanted her to meet a male Alpha and have a child. Naturally, they opposed her being with hyung, a male Beta. And if she had even suggested pairing with a female Omega, it felt as though one of the family members would have threatened to take their own life.</p>
 
 <p>It's not that I couldn't understand what they felt — wanting her to live a life without a single blemish in the eyes of others.</p>
 
-<p>The problem was that Morae nuna cared more about a life with Yeehan than a flawless reputation.</p>
+<p>The problem was that Morae cared more about a life with Yeehan than a flawless reputation.</p>
 
 <p>The next problem was that her family was absolutely convinced she would regret her current choice.</p>
 
@@ -267,7 +265,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Grandfather's tone, which had been boiling over until this moment, suddenly shifted. Unlike his previous shouting — carried on regardless of whether the neighbors could hear — his voice was now choked, as if someone were gripping his throat. As if the real point was only beginning now.</p>
 
-<p>"If you don't do as I say, who knows what Mr. Lim will do to you, you fool! For the sake of his daughter… he's the type who wouldn't blink at crippling a nobody like you. The only reason he's held back this long is because he didn't want to make his daughter cry — not because he's helpless against you. Listen to your grandfather. Cut ties with her completely, starting today. If you really can't stand to be near her, go work the deep-sea boats for a year. Just listen to me for once, you useless punk!"</p>
+<p>"If you don't do as I say, who knows what Mr. Lim will do to you, you fool! For the sake of his daughter… he's the type who wouldn't blink at crippling a nobody like you. The only reason he's held back this long is because he didn't want to make his daughter cry — not because he's helpless against you. Listen to your grandfather. Cut ties with her completely, starting today. If you really can't get her out of your mind, go work the deep-sea boats for a year. Just listen to me for once, you useless punk!"</p>
 
 <p>Mr. Lim.</p>
 
@@ -275,13 +273,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>But grandfather was acting differently now. This wasn't like his earlier, aimless shouting. Whatever Mr. Lim had told him behind the Fisheries Cooperative building had left him visibly shaken, muttering to himself.</p>
 
-<p>The commotion had only died down because Yeehan stormed out, but we weren't naive enough to think it was over. This was only the beginning.</p>
+<p>The commotion had only died down because hyung stormed out, but we weren't naive enough to think it was over. This was only the beginning.</p>
 
 <p>They wouldn't stop.</p>
 
-<p>Mr. Lim would try to separate Morae and Yeehan, and grandfather and uncle would try to force Yeehan onto the boat — because in their minds, this was the decent thing to do. They truly believed this was the path to happiness for Morae and Yeehan, or at the very least the only way to save them from a lifetime of regret.</p>
+<p>Mr. Lim would try to separate Morae and Yeehan, and grandfather and uncle would try to force Yeehan onto the boat — because in their minds, this was the decent thing to do. They truly believed this was the path to happiness for Lim Morae and Seo Yeehan, or at the very least the only way to save them from a lifetime of regret.</p>
 
-<p>I sat blankly in the room, fully exposed to grandfather's continuing curses and the argument between him and uncle, who had begun blaming each other even after Yeehan stormed out.</p>
+<p>I sat blankly in the room, fully exposed to grandfather's continuing curses and the argument between him and uncle, who had begun blaming each other even after hyung stormed out.</p>
 
 <p>When I first arrived here, this room had been a mess. Discarded clothes, comic books, and surfing magazines scattered everywhere; on the low desk, textbooks and reference books I'd never opened were precariously stacked.</p>
 
@@ -289,11 +287,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>I arranged the magazines and comic books in publication order, sorted the clothes by season and color before folding them into the drawers, organized the textbooks and reference books alphabetically. Whenever hyung messed it up, I cleaned it again.</p>
 
-<p>The only thing in this room I hadn't touched was a single photograph Yeehan hyung had tacked to the wall.</p>
+<p>The only thing in this room I hadn't touched was a single photograph hyung had tacked to the wall.</p>
 
 <p>A small picture showing the silhouettes of two people surfing on a red ocean, framed by exotic palm trees backlit by a sunset. Hyung had apparently torn it from some magazine, and it had held that spot since I first arrived here five years ago.</p>
 
-<p>Yeehan hyung used to say, as though out of habit, that someday he would go and live in a place like that. He never specified with whom — but Morae was naturally included in his future. It was such an obvious thing it didn't need to be said. They were two people who had never, not for a single moment, imagined anyone other than each other in their lives.</p>
+<p>Hyung used to say, as though out of habit, that someday he would go and live in a place like that. He never specified with whom — but Morae was naturally included in his future. It was such an obvious thing it didn't need to be said. They were two people who had never, not for a single moment, imagined anyone other than each other in their lives.</p>
 
 <p>I tried to focus my attention on the photograph — its corner curled, its colors faded.</p>
 
@@ -301,7 +299,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Grandfather's curses had now shifted toward the two of us — calling us heartless wretches who wouldn't even glance outside despite the chaos erupting in the household, whether son or grandson.</p>
 
-<p>I was worried about Morae nuna and whether she was all right, but I couldn't even send a single message — afraid that reaching out might give my family yet another reason to come at us.</p>
+<p>I was worried about Morae and whether she was all right, but I couldn't even send a single message — afraid that reaching out might give her family a reason to find fault with her.</p>
 </div>
 {% include scene-break.html %}
 <div id="section-4" class="hybrid-section" data-section="4">
@@ -309,13 +307,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>I didn't know when I'd fallen asleep. I was curled up on the bare floor, still wearing the clothes I'd had on at the harbor.</p>
 
-<p>It was Yeehan hyung who shook me awake. In the darkness, his eyes shone with an unusual brightness — a light that suggested something out of the ordinary.</p>
+<p>It was hyung who shook me awake. In the darkness, his eyes shone with an unusual brightness — a light that suggested something out of the ordinary.</p>
 
 <p>It was dead of night. Only the faint glow of the sodium lamp hanging over the main gate barely reached into the room. The house had fallen completely silent in the meantime, and I could sense that it was raining — not from the sound, but from the change in the smell of the air.</p>
 
 <p>"Just pack what you absolutely need. Quickly."</p>
 
-<p>Yeehan hyung spoke in a low, rapid voice.</p>
+<p>Hyung spoke in a low, rapid voice.</p>
 
 <p>"Morae will be waiting at Jaeyoon hyung's office. We'll drive to Seoul from there in his car."</p>
 
@@ -331,7 +329,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Hyung's and my hands moved swiftly as we chose what to pack. Nothing we owned was so precious that we absolutely had to take it. From the drawers crammed with nothing but striped shirts, I grabbed a couple of T-shirts and some underwear.</p>
 
-<p>Finally, Yeehan hyung stuffed one of his favorite comic books into his bag, zipped it shut, and stood. He paused for a moment in front of the photograph on the wall. Then he tore it down, folded it in half, and tucked it into his jacket pocket.</p>
+<p>Finally, hyung stuffed one of his favorite comic books into his bag, zipped it shut, and stood. He paused for a moment in front of the photograph on the wall. Then he tore it down, folded it in half, and tucked it into his jacket pocket.</p>
 
 <p>The house — three rooms in a row facing the sea — had undergone modern renovations years ago, but its basic structure was still that of a traditional Korean house. We carefully slid open the door and stepped out onto the raised wooden porch, now covered in stone and cement.</p>
 
@@ -345,7 +343,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>In the darkness — where only the sound of unseen waves could be heard — Father sat inside the room, holding the doorknob, looking toward us.</p>
 
-<p>Yeehan and I were standing in the rain past midnight, each with a backpack, without umbrellas. Anyone could tell we weren't just stepping out for a casual stroll.</p>
+<p>Hyung and I were standing in the rain past midnight, each with a backpack, without umbrellas. Anyone could tell we weren't just stepping out for a casual stroll.</p>
 
 <p><em>How would Father react?</em></p>
 
@@ -357,7 +355,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Silence was exhausting. Yet I, too, had been becoming someone steeped in silence — someone most accustomed to it. Father…</p>
 
-<p>"Yeehyeon-ah, let's go."</p>
+<p>"Hyeon-ah<sup class="tn-marker" id="tn-ref-chapter-01-5"><a href="#tn-chapter-01-5" aria-label="Translator note 5">5</a></sup>, let's go."</p>
 
 <p>I didn't know how long we'd been standing there getting soaked. Hyung placed a hand on my shoulder. It wasn't a gesture to hurry me along. He knew what I was thinking, what I was feeling.</p>
 
@@ -397,7 +395,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>The foreman and the other four workers had nearly finished organizing and cleaning their respective areas. They were sitting on the carpet laid out to protect the floor during the move, killing time while waiting for the client to arrive.</p>
 
-<p>Normally the team included an older woman in charge of the kitchen and bathroom, but today she and the foreman's son and daughter-in-law — a couple — had an urgent family matter; they needed someone to look after their grandson, who had just passed his hundredth day, so I ended up filling in.</p>
+<p>Normally the team included an older woman in charge of the kitchen and bathroom, but today the foreman's son and daughter-in-law had an urgent matter to attend to, and his wife needed to look after their grandson, who had just passed his hundredth day, so I filled in for her.</p>
 
 <p>Although my grades in school had been quite high, I hadn't gone to university, and I didn't have the confidence to survive office culture. Given my situation — more or less like being on the run — any position requiring full-time employment was immediately off the table.</p>
 
@@ -409,19 +407,19 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>In a voice filled with indignation, the foreman began recounting the situation to the other drivers who had gathered out of curiosity.</p>
 
-<p>"Some Alpha got drunk and caused a scene in a taxi — kicked the seats, tried to open the door while it was moving. The driver got fed up and dumped him somewhere mid-route. So there he is, completely wasted, no idea where he is, wandering around — and he runs into an Omega. What makes it so awful is that the Omega's cycle had started earlier than expected that day. Their boss, trying to do them a favor, had let them leave early to go home and take their medication."</p>
+<p>"Some Alpha got drunk and caused a scene in a taxi. The driver got fed up and dumped him somewhere mid-route. So there he is, completely wasted, no idea where he is, wandering around — and he runs into an Omega. What makes it so awful is that the Omega's cycle had started earlier than expected that day. Their boss, trying to do them a favor, had let them leave early to go home and take their medication."</p>
 
 <p>Even just that much was enough to guess the rest. The others seemed to follow as well, murmuring their sympathy before the foreman had even finished.</p>
 
-<p>"You can't even blame the taxi driver for pulling him out halfway. And if the boss hadn't been so soft-hearted and sent them home early — none of it would have happened. That's the thing. If even one piece had fallen differently, none of it would have occurred."</p>
+<p>"He picked a fight with the driver, kicked the seats, and tried to throw open the door of the moving car… You can't even blame the taxi driver for putting him out halfway. And if the boss hadn't been so soft-hearted and sent them home early — none of it would have happened. That's the thing. If even one piece had fallen differently, none of it would have occurred."</p>
 
 <p>I listened quietly to the foreman's lament about cruel fate while absently fiddling with the hem of the porcelain doll's eighteenth-century dress.</p>
 
 <p>"When you think about it, Alphas are no different from beasts. They might be handsome or smart — but when you hear what they do on the news, it's outrageous. They claim they can't control it with reason. Are they even human? I've never once seen an Alpha's face in my whole life, so the idea of people being swayed by pheromones like that always makes me uneasy."</p>
 
-<p>The second foreman, who had worked alongside him for nearly thirty years, raised his voice even higher.</p>
+<p>The assistant foreman, who had worked alongside him for nearly thirty years, raised his voice even higher.</p>
 
-<p>If the foreman leaned toward sympathy, the second foreman leaned toward a strong sense of justice — and between the two of them, it sounded like they'd seen just about every kind of situation this job could throw at a person.</p>
+<p>If the foreman leaned toward sympathy, the assistant foreman leaned toward a strong sense of justice — and between the two of them, it sounded like they'd seen just about every kind of situation this job could throw at a person.</p>
 
 <p>"It's true for people like us, but Alphas and Omegas especially need money. Without it, they lose their dignity and turn into beasts in an instant. New medications and all sorts of upkeep cost a fortune. Anyway, it's the victim who's the real tragedy here… what are the odds of so many coincidences stacking up like that? You'd think something like this couldn't happen in the real world."</p>
 
@@ -457,7 +455,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Hyung, how much did they give? I'm sick of samgyeopsal and soju. If it's a decent amount, let's eat something else tonight."</p>
 
-<p>At the second foreman's urging, the foreman pulled the envelope from his back pocket and was just about to open it when — <em>ding-dong</em> — the sound of a lock disengaging came from inside the entrance we had just left. The foreman quickly tucked the envelope away again.</p>
+<p>At the assistant foreman's urging, the foreman pulled the envelope from his back pocket and was just about to open it when — <em>ding-dong</em> — the sound of a lock disengaging came from inside the entrance we had just left. The foreman quickly tucked the envelope away again.</p>
 
 <p>"Just a moment!"</p>
 
@@ -493,3 +491,14 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>She had been a figure I'd consigned to the far edges of memory, to the backstage of my life. Now, without warning, she had stepped back to center.</p>
 </div>
+<section class="translator-notes" aria-label="Translator notes">
+  <div class="translator-notes__heading">TRANSLATOR'S NOTES</div>
+  <ol class="translator-notes__list">
+    <li id="tn-chapter-01-1" class="translator-note"><span class="translator-note__number">1</span> <strong>Hani (한이)</strong> — An affectionate nickname formed by attaching the endearing suffix -i to the character&#x27;s final syllable (Yeehan → Han → Hani). <a class="translator-note__back" href="#tn-ref-chapter-01-1" aria-label="Return to note reference 1">↩ Back to text</a></li>
+    <li id="tn-chapter-01-2" class="translator-note"><span class="translator-note__number">2</span> <strong>Hyung (형)</strong> — Most commonly means &quot;older brother&quot; in Korean, used by a younger male to address or refer to an older male. <a class="translator-note__back" href="#tn-ref-chapter-01-2" aria-label="Return to note reference 2">↩ Back to text</a></li>
+    <li id="tn-chapter-01-3" class="translator-note"><span class="translator-note__number">3</span> <strong>Nuna (누나)</strong> — Most commonly means &quot;older sister&quot; in Korean, used by a male to address or refer to an older female. <a class="translator-note__back" href="#tn-ref-chapter-01-3" aria-label="Return to note reference 3">↩ Back to text</a></li>
+    <li id="tn-chapter-01-4" class="translator-note"><span class="translator-note__number">4</span> <strong>Hyeoni (현이)</strong> — An affectionate nickname formed by attaching the endearing suffix -i to the character&#x27;s final syllable (Yeehyeon → Hyeon → Hyeoni). <a class="translator-note__back" href="#tn-ref-chapter-01-4" aria-label="Return to note reference 4">↩ Back to text</a></li>
+    <li id="tn-chapter-01-5" class="translator-note"><span class="translator-note__number">5</span> <strong>Hyeon-ah (현아)</strong> — An affectionate way of calling out to someone. Close friends and family may shorten a name and attach the vocative suffix -ah to the final syllable (Yeehyeon → Hyeon → Hyeon-ah). <a class="translator-note__back" href="#tn-ref-chapter-01-5" aria-label="Return to note reference 5">↩ Back to text</a></li>
+  </ol>
+</section>
+

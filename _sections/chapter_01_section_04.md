@@ -15,13 +15,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>I didn't know when I'd fallen asleep. I was curled up on the bare floor, still wearing the clothes I'd had on at the harbor.</p>
 
-<p>It was Yeehan hyung who shook me awake. In the darkness, his eyes shone with an unusual brightness — a light that suggested something out of the ordinary.</p>
+<p>It was hyung who shook me awake. In the darkness, his eyes shone with an unusual brightness — a light that suggested something out of the ordinary.</p>
 
 <p>It was dead of night. Only the faint glow of the sodium lamp hanging over the main gate barely reached into the room. The house had fallen completely silent in the meantime, and I could sense that it was raining — not from the sound, but from the change in the smell of the air.</p>
 
 <p>"Just pack what you absolutely need. Quickly."</p>
 
-<p>Yeehan hyung spoke in a low, rapid voice.</p>
+<p>Hyung spoke in a low, rapid voice.</p>
 
 <p>"Morae will be waiting at Jaeyoon hyung's office. We'll drive to Seoul from there in his car."</p>
 
@@ -37,7 +37,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Hyung's and my hands moved swiftly as we chose what to pack. Nothing we owned was so precious that we absolutely had to take it. From the drawers crammed with nothing but striped shirts, I grabbed a couple of T-shirts and some underwear.</p>
 
-<p>Finally, Yeehan hyung stuffed one of his favorite comic books into his bag, zipped it shut, and stood. He paused for a moment in front of the photograph on the wall. Then he tore it down, folded it in half, and tucked it into his jacket pocket.</p>
+<p>Finally, hyung stuffed one of his favorite comic books into his bag, zipped it shut, and stood. He paused for a moment in front of the photograph on the wall. Then he tore it down, folded it in half, and tucked it into his jacket pocket.</p>
 
 <p>The house — three rooms in a row facing the sea — had undergone modern renovations years ago, but its basic structure was still that of a traditional Korean house. We carefully slid open the door and stepped out onto the raised wooden porch, now covered in stone and cement.</p>
 
@@ -51,7 +51,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>In the darkness — where only the sound of unseen waves could be heard — Father sat inside the room, holding the doorknob, looking toward us.</p>
 
-<p>Yeehan and I were standing in the rain past midnight, each with a backpack, without umbrellas. Anyone could tell we weren't just stepping out for a casual stroll.</p>
+<p>Hyung and I were standing in the rain past midnight, each with a backpack, without umbrellas. Anyone could tell we weren't just stepping out for a casual stroll.</p>
 
 <p><em>How would Father react?</em></p>
 
@@ -63,7 +63,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Silence was exhausting. Yet I, too, had been becoming someone steeped in silence — someone most accustomed to it. Father…</p>
 
-<p>"Yeehyeon-ah, let's go."</p>
+<p>"Hyeon-ah<sup class="tn-marker" id="tn-ref-chapter-01-section-04-1"><a href="#tn-chapter-01-section-04-1" aria-label="Translator note 1">1</a></sup>, let's go."</p>
 
 <p>I didn't know how long we'd been standing there getting soaked. Hyung placed a hand on my shoulder. It wasn't a gesture to hurry me along. He knew what I was thinking, what I was feeling.</p>
 
@@ -74,3 +74,10 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 <p><em>Where are you going? Don't go.</em></p>
 
 <p>Father never said anything in the end.</p>
+<section class="translator-notes" aria-label="Translator notes">
+  <div class="translator-notes__heading">TRANSLATOR'S NOTE</div>
+  <ol class="translator-notes__list">
+    <li id="tn-chapter-01-section-04-1" class="translator-note"><span class="translator-note__number">1</span> <strong>Hyeon-ah (현아)</strong> — An affectionate way of calling out to someone. Close friends and family may shorten a name and attach the vocative suffix -ah to the final syllable (Yeehyeon → Hyeon → Hyeon-ah). <a class="translator-note__back" href="#tn-ref-chapter-01-section-04-1" aria-label="Return to note reference 1">↩ Back to text</a></li>
+  </ol>
+</section>
+

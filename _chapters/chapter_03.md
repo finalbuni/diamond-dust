@@ -113,7 +113,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>As Juhan pushed forward, she narrowed her eyes at him.</p>
 
-<p>"Nuna — hyung — please. I'm begging you, sell them to me. I've endured an extreme month just thinking about getting those boots. To me right now, they aren't just shoes. They're a symbol of a promise I made to myself."</p>
+<p>"Nuna — hyungnim — please. I'm begging you, sell them to me. I've endured an extreme month just thinking about getting those boots. To me right now, they aren't just shoes. They're a symbol of a promise I made to myself."</p>
 
 <p>Her gaze, as if measuring the sincerity of his desperation, studied him slowly and carefully from behind her sunglasses.</p>
 
@@ -169,31 +169,31 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 <div id="section-2" class="hybrid-section" data-section="2">
 <p>Being in Hongdae didn't guarantee good business. Even on a Saturday evening, there were only two or three tables of customers inside the bar. The table closest to the entrance seemed to be occupied by the owner's acquaintances.</p>
 
-<p>The interior wasn't particularly stylish, but it had a comfortable and distinctive atmosphere. The music was well curated at a moderate volume, and the drinks were inexpensive — and yet, Juhan hyung and Yuni nuna explained, the place didn't get many customers. It simply didn't photograph well.</p>
+<p>The interior wasn't particularly stylish, but it had a comfortable and distinctive atmosphere. The music was well curated at a moderate volume, and the drinks were inexpensive — and yet, Juhani hyung and Yuni nuna explained, the place didn't get many customers. It simply didn't photograph well.</p>
 
 <p>It had already been two weeks since I helped with the VIP opening of Phantom's new exhibition.</p>
 
 <p>For a few days afterward, it felt like my feet were barely touching the ground, as if I'd briefly stepped into another world. But as I stayed busy juggling work at the moving company and helping out at the Teacher's house, the sense of unreality slowly settled back into place. Golden Alphas, paintings worth ten million won apiece, champagne parties with delicate finger foods almost too beautiful to eat — even the feeling that such a world truly existed somewhere was growing faint.</p>
 
-<p>I had received a message from Yuni nuna through the Teacher on Wednesday. I hadn't expected the invitation — but I was glad for it.</p>
+<p>I had received a message from Yuni nuna through the Teacher on Wednesday. I hadn't expected her invitation to have a beer with her and Juhani hyung on Saturday — but I was glad for it.</p>
 
 <p>After finishing the moving job, I stopped by home to shower and hurried to the meeting spot. By the time I was on my way, the weather had already grown warm enough that a light sheen of sweat formed on my forehead — the season quietly turning toward early summer.</p>
 
-<p>The woman and man I met outside were much more familiar than I expected — and before long, "Yuni-ssi" and "Juhan-ssi" had simply become "Yuni nuna" and "Juhan hyung."</p>
+<p>The woman and man I met outside were much more familiar than I expected — and before long, "Yuni-ssi" and "Juhan-ssi" had simply become "Yuni nuna" and "Juhani hyung."</p>
 
-<p>With plates of fries topped with melted cheddar cheese and glasses of draft beer in front of us, Juhan hyung was retracing memories from three years ago.</p>
+<p>With plates of fries topped with melted cheddar cheese and glasses of draft beer in front of us, Juhani hyung was retracing memories from three years ago.</p>
 
-<p>One of the two cats kept at the bar jumped up onto the empty chair beside him. It was a long-haired Persian, very affectionate toward people. As he stroked its back, he continued his story.</p>
+<p>One of the two cats kept at the bar jumped up onto the empty chair beside him. It was a long-haired Persian, very affectionate toward people. As hyung stroked its back, he continued his story.</p>
 
 <p>"After that, we went to a nearby café and I laid everything out in detail — the whole history with that bastard, from start to present. That alone took about two hours. Baek Yuni's questions were so thorough and composed, I felt like I'd come to a lawyer's office to sue the guy."</p>
 
 <p>Because the two of them had such similar styles and seemed so comfortable with each other, I had assumed they must have known each other long before working together at Phantom — but that wasn't the case at all.</p>
 
-<p>Together they mapped out several revenge scenarios, weighed them carefully, and chose one. They took the same materials the stalker had sent to Juhan's parents and delivered them, intact, to the director of the academy where he worked.</p>
+<p>Together they mapped out several revenge scenarios, weighed them carefully, and chose one. They took the same materials the stalker had sent to Juhani hyung's parents and delivered them, intact, to the director of the academy where he worked.</p>
 
 <p>"In the late afternoon, when the director came in, one of that bastard's regular duties was to bring the director the day's mail and report on the academy's situation. The stalking materials he sent to my parents — the proof of everything he'd done — ended up being delivered straight into his boss's hands by his own doing. I can only imagine him sitting in front of his superior, trembling while his boss stared at those message screenshots where he'd begged his former student — nearly twenty years his junior — to treat him like a dog in bed again... all while still trying to act dignified and talk about student enrollment rates...."</p>
 
-<p>He paused for a moment, then smiled softly and rubbed his cheek against the cat he was holding.</p>
+<p>Hyung paused for a moment, then smiled softly and rubbed his cheek against the cat he was holding.</p>
 
 <p>It wasn't hard to imagine how the director — an ordinary middle-aged man who likely had no tolerance for so much as two men holding hands — would have reacted to the contents of that envelope.</p>
 
@@ -205,13 +205,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"If you make someone cry, you should be made to bleed in return. No matter how long it takes, no matter what it costs me, even if my whole life gets buried in the process — my creed is that I never let anyone who messes with me off easily."</p>
 
-<p>Then he pressed his nose against the cat's and his voice went completely soft. "That's right, Cushion..."</p>
+<p>Then he pressed his nose against the cat's and his voice went completely soft. "That's right, Cushion-ah..."</p>
 
 <p>I was curious about what had happened to the stalker afterward, but I could more or less guess. If a man in his forties had been outed that way at his workplace, the aftermath wasn't hard to imagine. His family might have been shocked enough to cut ties and keep things quiet — but society would not be so forgiving.</p>
 
 <p>"Are you feeling sorry for that guy?"</p>
 
-<p>Juhan hyung's guess was wrong.</p>
+<p>Hyung's guess was wrong.</p>
 
 <p>I had simply been thinking about how cleanly an incident with such a clear target of revenge and resentment could be resolved. I shook my head.</p>
 
@@ -219,21 +219,21 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"You're colder than you look."</p>
 
-<p>As he said that, Juhan hyung grinned. For a moment, that mischievous, villainous smile reminded me of Phantom's Director.</p>
+<p>As he said that, hyung grinned. For a moment, that mischievous, villainous smile reminded me of Phantom's Director.</p>
 
 <p>We each ordered another round of beer. They were on their third, and I was on my second.</p>
 
 <p>"That's the beginning of Baek Yuni and me. If it weren't for her, I probably would have gone straight to that guy, lost my temper, and ended up with a real criminal record. My parents would never have paid any settlement money back then. Well — not that the situation's much different even now."</p>
 
-<p>Juhan hyung wiped beer foam from his lips, his expression a little sour.</p>
+<p>Juhani hyung wiped beer foam from his lips, his expression a little sour.</p>
 
 <p>"But as it turned out, Baek Yuni had already left all that gallery suffering behind — that was ancient history. By then she was already pulling a solid salary at Phantom and doing well for herself. She was worked to the bone because they were so short-staffed, but the shoebox goshiwon was long behind her."</p>
 
-<p>"When Phantom was growing so fast back then, they were desperate for staff — otherwise I probably wouldn't have let you interview there. Funny how things work out...."</p>
+<p>Yuni nuna followed Juhani hyung's aggrieved complaint with a teasing grumble: "When Phantom was growing so fast back then, they were desperate for staff — otherwise I probably wouldn't have let you interview there. Funny how things work out...."</p>
 
-<p>In the meantime, other tables had cleared out, and only the owner's acquaintances near the entrance and the three of us remained in the bar. They seemed to be involved in some kind of bet, because a sudden cheer and a disappointed groan erupted at the same moment. The cat must have been startled by the noise — it perked up its ears and burrowed further into Juhan hyung's arms.</p>
+<p>In the meantime, other tables had cleared out, and only the owner's acquaintances near the entrance and the three of us remained in the bar. They seemed to be involved in some kind of bet, because a sudden cheer and a disappointed groan erupted at the same moment. The cat must have been startled by the noise — it perked up its ears and burrowed further into hyung's arms.</p>
 
-<p>I looked down at Juhan hyung's lean hand as he gently stroked the cat, and took a couple of sips of beer. After coming to Seoul, I'd come to know the particular comfort and reward of a beer after a long day's work — but today's beer had a different taste from usual.</p>
+<p>I looked down at hyung's lean hand as he gently stroked the cat, and took a couple of sips of beer. After coming to Seoul, I'd come to know the particular comfort and reward of a beer after a long day's work — but today's beer had a different taste from usual.</p>
 
 <p>Returning to the starting point of the story, I asked the one thing I'd been wondering about through the whole revenge tale.</p>
 
@@ -241,7 +241,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"The boots? Ah... those boots."</p>
 
-<p>Juhan hyung grinned and suddenly lifted his right leg higher than the table, showing it off. Startled by the sudden movement, the cat quickly jumped down from the chair and disappeared toward the back of the bar.</p>
+<p>Hyung grinned and suddenly lifted his right leg higher than the table, showing it off. Startled by the sudden movement, the cat quickly jumped down from the chair and disappeared toward the back of the bar.</p>
 
 <p>"I'm not someone who goes back on their word."</p>
 
@@ -253,7 +253,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Pardon?"</p>
 
-<p>As if shaking off the weight of everything he'd just told us, Juhan hyung downed more than half his beer and set the glass down with a solid thunk before suddenly bringing up the topic. A sigh from Yuni nuna drifted over from beside me.</p>
+<p>As if shaking off the weight of everything he'd just told us, hyung downed more than half his beer and set the glass down with a solid thunk before suddenly bringing up the topic. A sigh from Yuni nuna drifted over from beside me.</p>
 
 <p>"Is tacking 'so' onto the front of something supposed to make it okay? I told you I'd bring it up and to leave it to me — and I knew this would happen."</p>
 
@@ -261,7 +261,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Let's just drop it."</p>
 
-<p>Juhan hyung raised his eyebrows and pulled down the corners of his mouth with a wounded expression. Instead, Yuni nuna began speaking in her usual quick, composed tone.</p>
+<p>Hyung raised his eyebrows and pulled down the corners of his mouth with a wounded expression. Instead, nuna began speaking in her usual quick, composed tone.</p>
 
 <p>"The work at Phantom is tough, but the compensation and benefits are about as good as it gets in the industry. Most galleries actually have worse working conditions than Phantom. Galleries our size typically run with a single staff member. As the gallery has grown, we've always added staff when needed — and it looks like it's time to hire someone new again. We want you to work with us."</p>
 
@@ -277,21 +277,21 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>The Teacher had brought up the live-in arrangement that same Wednesday.</p>
 
-<p>After relaying that Yuni nuna and Juhan hyung wanted to meet me, the Teacher drove me home and offered the live-in position. It was likely made with my situation in mind — the Teacher didn't particularly deny that either. Ultimately, it came down to a choice between relying on Morae nuna and Yeehan hyung, or relying on the Teacher.</p>
+<p>After relaying that Yuni nuna and Juhani hyung wanted to meet me, the Teacher drove me home and offered the live-in position. It was likely made with my situation in mind — the Teacher didn't particularly deny that either. Ultimately, it came down to a choice between relying on Morae and hyung, or relying on the Teacher.</p>
 
 <p>"Then that works out even better! If you move into Manager Han's place, you could do the helper work and still work at Phantom!"</p>
 
-<p>"Hey — if Yeehyeon works at Phantom, he'll be commuting every day and working overtime. How is he supposed to manage live-in helper duties on top of that? Do you think housework is that easy?"</p>
+<p>"Hey — if Yeehyeonie works at Phantom, he'll be commuting every day and working overtime. How is he supposed to manage live-in helper duties on top of that? Do you think housework is that easy?"</p>
 
 <p>"I'm a single guy who does his own laundry and takes out the food waste on time, thank you. Baek Yuni... your true colors are showing."</p>
 
-<p>Despite Yuni nuna's scolding, Juhan hyung was smiling broadly for some reason. A sly smile he wasn't bothering to hide.</p>
+<p>Despite nuna's scolding, Juhani hyung was smiling broadly for some reason. A sly smile he wasn't bothering to hide.</p>
 
 <p>"What."</p>
 
-<p>"You're just jealous because Yeehyeon is going to move into Manager Han's place."</p>
+<p>"You're just jealous because Yeehyeonie is going to move into Manager Han's place."</p>
 
-<p>Yuni nuna stared at Juhan hyung in silence for a moment, then shook her head.</p>
+<p>Nuna stared at hyung in silence for a moment, then shook her head.</p>
 
 <p>"I should have just let him go to jail back then."</p>
 
@@ -317,7 +317,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"......"</p>
 
-<p>Seeing my stiff expression — perhaps mistaking it for displeasure — Juhan hyung made an 'oops' face and quickly corrected himself.</p>
+<p>Seeing my stiff expression — perhaps mistaking it for displeasure — hyung made an 'oops' face and quickly corrected himself.</p>
 
 <p>"Ah, not interrogating exactly... He seemed to be asking whether you had studied fine arts, something like that. What you said to Inwu ssaem about the artwork that day became a topic of conversation between us for a while. Don't take it the wrong way. I was there when he asked, and it definitely wasn't coming from a place of suspicion — he was just curious."</p>
 
@@ -461,7 +461,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>I understood the concern about a precious person potentially living under the same roof as someone who wasn't family. It was, perhaps, a natural and reasonable worry. But as the person who had become the cause of that concern, it was hard to say the conversation felt particularly pleasant.</p>
 
-<p>"I know you're worried, but I've already thought everything through. I don't want Yeehyeon hearing this, so if you really don't want to see me get angry, let's stop."</p>
+<p>"I know you're worried, but I've already thought everything through. I don't want Yeehyeonie hearing this, so if you really don't want to see me get angry, let's stop."</p>
 
 <p>He stopped there for the moment. The topic shifted back to the artist named Shushu. The Director wanted to hold the exhibition as soon as possible, while the Teacher hesitated, saying the schedule was too tight. The conversation went on like that.</p>
 
@@ -489,9 +489,9 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>From over the Teacher's shoulder, the Director set down his cup and stood up from his seat.</p>
 
-<p>"Of course. The real power at Phantom is Manager Han." He picked up the summer jacket draped over the adjacent chair, checked the wristwatch beneath his rolled-up shirt sleeves, and quickly took another sip of coffee while standing.</p>
+<p>"Of course. The real power at Phantom is Manager Han. I’m heading out." He picked up the summer jacket draped over the adjacent chair, checked the wristwatch beneath his rolled-up shirt sleeves, and quickly took another sip of coffee while standing.</p>
 
-<p>"Kun, give Yeehyeon a ride on your way out."</p>
+<p>"Kun, give Yeehyeonie a ride on your way out."</p>
 
 <p>"Oh, no — I'm really fine."</p>
 
@@ -533,7 +533,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"I... these days, no."</p>
 
-<p>I had already known from Juhan hyung that the Director had asked the Teacher about me — but I didn't think she would have told him everything. The Teacher wasn't the type to casually reveal details about someone else's past beyond a certain point, and my current situation was closer to that of someone in hiding anyway.</p>
+<p>I had already known from Juhani hyung that the Director had asked the Teacher about me — but I didn't think she would have told him everything. The Teacher wasn't the type to casually reveal details about someone else's past beyond a certain point, and my current situation was closer to that of someone in hiding anyway.</p>
 
 <p>Was he asking me this out of politeness now? At our third meeting? He didn't seem like the type to go to such lengths just to avoid the awkwardness of a confined space.</p>
 
@@ -567,11 +567,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>It was a gaze that could not easily go unnoticed — yet he showed no discomfort and paid it no mind at all.</p>
 
-<p>What was I supposed to say? <em>"Yes, I understand. I won't do anything to Manager Han"?</em></p>
+<p>What was I supposed to say? <em>"Yes, I understand. I won't do anything to the Teacher"?</em></p>
 
 <p>Making a promise like that — about something I had never intended to do in the first place — felt strange. Such a promise would feel like an admission that I might have been a threat to the Teacher, and I didn't want that.</p>
 
-<p>It was already surprising enough that he knew my name. I had never imagined I would hear it from him in a context like this.</p>
+<p>It was surprising enough that he knew my age, and now my name. I had never imagined I would hear it from him in a context like this.</p>
 
 <p>Just as I pulled my gaze away from his calm, focused profile, his phone rang. He glanced down at the softly vibrating phone in the cupholder, checked the caller ID, clicked his tongue as if annoyed, and answered.</p>
 
@@ -601,17 +601,17 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"For me?"</p>
 
-<p>"Did you really act like this with Juhan hyung too?"</p>
+<p>"Did you really act like this with Juhani hyung too?"</p>
 
-<p>His brows furrowed, eyebrows drawing closer together. He looked as though he genuinely didn't understand what I was referring to. Maybe it's the kind of thing where the one who gets hit never forgets, but the one who hits easily does. Juhan hyung had apparently even contemplated scratching his car and running.</p>
+<p>His brows furrowed, eyebrows drawing closer together. He looked as though he genuinely didn't understand what I was referring to. Maybe it's the kind of thing where the one who gets hit never forgets, but the one who hits easily does. hyung had apparently even contemplated scratching his car and running.</p>
 
-<p>I could now perfectly understand what Juhan hyung had meant when he said he felt like this person would chase him to the ends of the earth for revenge. I had just received something very close to a threat from him — a man who, in that moment, looked exactly like the boss of a dark underworld.</p>
+<p>I could now perfectly understand what hyung had meant when he said he felt like this person would chase him to the ends of the earth for revenge. I had just received something very close to a threat from him — a man who, in that moment, looked exactly like the boss of a dark underworld.</p>
 
-<p>"Please don't worry about Manager Han."</p>
+<p>"Teacher... Please don't worry about Manager Han."</p>
 
 <p>He rested his left arm on the steering wheel and turned his upper body toward me, looking at me with the expression of someone who had been stopped on the road by a stranger and forced to listen to nonsense.</p>
 
-<p>"I like men."</p>
+<p>"I'm gay."</p>
 
 <p>I don't know why I said that. Men or otherwise — I'd never been in a relationship, never liked anyone.</p>
 
@@ -627,7 +627,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 <div id="section-4" class="hybrid-section" data-section="4">
 <p>"What are you drawing?"</p>
 
-<p>I stopped the hand that had been scribbling lines across the notebook Morae nuna had torn open for me — using a cheap three-color ballpoint pen — red, blue, and black all in one barrel — and looked up. She smiled down at me.</p>
+<p>I stopped the hand that had been scribbling lines across the notebook Morae had torn open for me — using a cheap three-color ballpoint pen — red, blue, and black all in one barrel — and looked up. She smiled down at me.</p>
 
 <p>"Nothing. My hand was just bored."</p>
 
@@ -647,7 +647,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"The funny thing is, it wasn't just Yeehan and me who disappeared — it was the three of us, and the adults apparently find that somewhat of a relief. The story now is that I'm in Seoul preparing for school, and that you and Yeehan rushed off to Yeongdeok because a good opportunity to earn money came up. That's the current version. They're framing it as if our family deliberately kept us separated."</p>
 
-<p>So they could frame it that way. Then again, before we ran, "Mr. Lim" had been building tension as though something was about to happen at any moment. Though in reality, Morae nuna had been the one to strike first.</p>
+<p>So they could frame it that way. Then again, before we ran, "Mr. Lim" had been building tension as though something was about to happen at any moment. Though in reality, Morae had been the one to strike first.</p>
 
 <p>"Even so, who would believe that? Even if it were true, most people would rather write their own little story, spread it around, and convince themselves it's the hidden truth. They know no one actually believes it — but I can't fathom why that hollow pride still matters so much to them...."</p>
 
@@ -655,11 +655,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"If they come looking for us, they'll remember what I wrote in that letter — that we'd rather jump into the Han River. That's what's keeping them from moving rashly right now. But they're definitely not going to give up."</p>
 
-<p>Morae nuna brought the cup to her lips — skipping the straw — and took a few long, cool swallows of the peach punch, then wiped her mouth with the back of her hand and added one more thing.</p>
+<p>Morae brought the cup to her lips — skipping the straw — and took a few long, cool swallows of the peach punch, then wiped her mouth with the back of her hand and added one more thing.</p>
 
 <p>"We need to leave as fast as possible before that happens."</p>
 
-<p>I first met Morae nuna when she was in her final year of high school, at the height of her conflict with her parents over college. Her parents just wanted her to attend any nearby university — even a mediocre one would do, as long as she went. She was so thoroughly ignoring them it was hard to even call it a conflict.</p>
+<p>I first met Morae when she was in her final year of high school, at the height of her conflict with her parents over college. Her parents just wanted her to attend any nearby university — even a mediocre one would do, as long as she went. She was so thoroughly ignoring them it was hard to even call it a conflict.</p>
 
 <p>According to hyung, she had actually been an excellent student up through her first and second year of middle school. But because she already knew all too well what her parents expected of her, she began deliberately acting out — as if laying the groundwork for her future freedom in advance.</p>
 
@@ -671,9 +671,9 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"I'll be with the people I want to be with, and I'll be where I want to be. In the end, I was always going to live on my own terms anyway — so giving my parents false hope by acting like a model student feels like something neither side should have to go through. It's better they start understanding now. That I have no intention of living the life they want for me."</p>
 
-<p>That was what Morae nuna had said — but even when she turned twenty-four, her parents still could not accept it. They refused to acknowledge what she wanted or what kind of happiness she was seeking, insisting she was still too young to make the right long-term decisions for herself.</p>
+<p>That was what Morae had said — but even when she turned twenty-four, her parents still could not accept it. They refused to acknowledge what she wanted or what kind of happiness she was seeking, insisting she was still too young to make the right long-term decisions for herself.</p>
 
-<p>Morae nuna had no interest in elite universities or so-called "good jobs" with high salaries. She also had no intention of taking a place in any of her father's various businesses, which generated tens of billions in annual revenue.</p>
+<p>Morae had no interest in elite universities or so-called "good jobs" with high salaries. She also had no intention of taking a place in any of her father's various businesses, which generated tens of billions in annual revenue.</p>
 
 <p>What she wanted was peace. A simple life filled with the things she loved — warm laughter, gratitude, staying true to herself day by day.</p>
 
@@ -685,15 +685,15 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Yeah... thank you."</p>
 
-<p>Morae nuna, who had been quietly watching the tip of my pen, smiled and reached out to gently ruffle my hair. Then she let her hand drop, wrapped an arm around my shoulder, and leaned her temple against the other side of my shoulder.</p>
+<p>Morae, who had been quietly watching the tip of my pen, smiled and reached out to gently ruffle my hair. Then she let her hand drop, wrapped an arm around my shoulder, and leaned her temple against the other side of my shoulder.</p>
 
 <p>We sat side by side facing the front of the café. The folding front windows were fully open, and through the green leaves of the plants decorating the café, the street was visible outside. A relaxed, foreign melody played softly on a ukulele, and at the table closest to the alley, a group of three or four people around my age kept laughing without pause. It felt peaceful.</p>
 
-<p>If Yeehan hyung and Morae nuna ever opened a café on some southern island, it would probably feel like this.</p>
+<p>If hyung and Morae ever opened a café on some southern island, it would probably feel like this.</p>
 
 <p>Open to anyone passing by. Not necessarily sleek or trendy, but filled with the owner's taste and life exactly as it was. A place with nothing forced about it — where on slow days, you could grab your board and run straight into the ocean right out front.</p>
 
-<p>Seoul was not the final destination of their escape. From here, they could always end up returning to where they started. Thanks to Morae nuna's letter and the agency's reputation, they had bought themselves some time — but it wasn't safe yet.</p>
+<p>Seoul was not the final destination of their escape. From here, they could always end up returning to where they started. Thanks to Morae's letter and the agency director's reputation, they had bought themselves some time — but it wasn't safe yet.</p>
 
 <p>The two of them would need to leave soon for somewhere with warm weather and waves. That had long been their dream. Since they were much younger, they had belonged only to each other, and seeing the world through one another had always felt the most natural and comfortable way to live. This escape was only one step along the path toward that dream.</p>
 
@@ -703,9 +703,9 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>We had come this far together — but I couldn't keep living as a footnote to their story, deferring every choice of direction to them in the same way. Even if I ended up leaving with them, it couldn't be simply because I didn't know what else to do. I knew that much clearly.</p>
 
-<p>It was something I had resolved on that rainy dawn — the night I stepped out through the gate with Yeehan hyung, leaving behind my father, who made no move to stop us.</p>
+<p>It was something I had resolved on that rainy dawn — the night I stepped out through the gate with hyung, leaving behind my father, who made no move to stop us.</p>
 
-<p>Juhan hyung, who had been outed through the most degrading means and was effectively cut off by his family — having his most private and intimate self fully exposed to his parents in a way I could barely begin to imagine. Yuni nuna, who had fought her way to finally take one difficult step toward her dream, only to have it crushed by none other than her own parents — though I hadn't heard all the details. And Morae nuna and Yeehan hyung, the people closest to me — all of them were paying a cruel price for choices that had harmed no one.</p>
+<p>Juhani hyung, who had been outed through the most degrading means and was effectively cut off by his family — having his most private and intimate self fully exposed to his parents in a way I could barely begin to imagine. Yuni nuna, who had fought her way to finally take one difficult step toward her dream, only to have it crushed by none other than her own parents — though I hadn't heard all the details. And Morae and hyung, the people closest to me — all of them were paying a cruel price for choices that had harmed no one.</p>
 
 <p>I was not the only one who had been toyed with, thrown aside, and wounded by the senseless spite that life sometimes shows — regardless of my own will.</p>
 
@@ -715,11 +715,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Whether to overcome it, to be dragged down and sink beneath its weight, or to accept it as part of oneself — like an eleventh finger, or a large growth on one's side. Now it was time for me to decide my own stance as well.</p>
 
-<p>As far as I knew, Morae nuna, Yeehan hyung, Yuni nuna, and Juhan hyung were people who fought back against that kind of attack. Their methods and approaches differed, but they were alike in one thing — I couldn't find on any of their faces the dark marks that a hard tackle leaves behind.</p>
+<p>As far as I knew, Morae, hyung, Yuni nuna, and Juhani hyung were people who fought back against that kind of attack. Their methods and approaches differed, but they were alike in one thing — I couldn't find on any of their faces the dark marks that a hard tackle leaves behind.</p>
 
 <p>But the texture of Phantom's Director was different from theirs.</p>
 
-<p>From something Juhan hyung had casually let slip, I could tell he wasn't a prince who had only ever known glittering success. So perhaps he hadn't overcome life's attacks at all — but had simply absorbed them, the way someone bitten by a zombie quietly becomes one.</p>
+<p>From something Juhani hyung had casually let slip, I could tell he wasn't a prince who had only ever known glittering success. So perhaps he hadn't overcome life's attacks at all — but had simply absorbed them, the way someone bitten by a zombie quietly becomes one.</p>
 
 <p>He often looked at me with a sharp, wary gaze — but at other times he would treat me as though I were so insignificant that no matter how hard I tried, I couldn't possibly harm anyone. As though I weren't even worth acknowledging.</p>
 
@@ -729,13 +729,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Nuna, did I used to like strange things?"</p>
 
-<p>Perhaps someone else would know a side of me that I had misunderstood or overlooked. I asked Morae nuna while continuing to fill the page more densely with my scribbles.</p>
+<p>Perhaps someone else would know a side of me that I had misunderstood or overlooked. I asked Morae while continuing to fill the page more densely with my scribbles.</p>
 
 <p>"You are a bit like that, aren't you?"</p>
 
 <p>"Me?"</p>
 
-<p>At the unexpected answer, I reflexively repeated the question. Morae nuna lifted her head from my shoulder and looked at my face.</p>
+<p>At the unexpected answer, I reflexively repeated the question. Morae lifted her head from my shoulder and looked at my face.</p>
 
 <p>"You know how your favorite Crayon Shin-chan character is Maengu — the slow one. Not many people pick him. And your shirts — you always wear stripes. Short sleeves in summer, long sleeves in winter, but always stripes. You're subtly unusual. People who draw tend to be a little strange anyway."</p>
 
@@ -753,17 +753,17 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Hyung, who had come out of the kitchen carrying a plate of nasi goreng, frowned at the word.</p>
 
-<p>Since tomorrow was the day I was moving into the Teacher's house, Morae nuna and hyung had called me out to "What Happened in Bali" for a small farewell. It felt strange to have a proper send-off when I wasn't quitting a job or transferring schools — but even if I pretended not to read too much into it, I felt the same quiet reluctance about this parting.</p>
+<p>Since tomorrow was the day I was moving into the Teacher's house, Morae and hyung had called me out to "What Happened in Bali" for a small farewell. It felt strange to have a proper send-off when I wasn't quitting a job or transferring schools — but even if I pretended not to read too much into it, I felt the same quiet reluctance about this parting.</p>
 
 <p>Hyung looked like he might storm out immediately to find whoever had taught me a word like "masochist" and grab them by the collar.</p>
 
 <p>"What's wrong with teaching someone that? We're all adults. Whatever people do with someone they mutually agree with, in private — that's their own personal freedom."</p>
 
-<p>That was Morae nuna's defense.</p>
+<p>That was Morae's defense.</p>
 
-<p>No matter how much Morae nuna and hyung thought of me as some rare species cut off from the world, I was old enough to have picked up words like "sadist" or "masochist" just from overhearing things here and there, without anyone needing to explain them to me.</p>
+<p>No matter how much Morae and hyung thought of me as some rare species cut off from the world, I was old enough to have picked up words like "sadist" or "masochist" just from overhearing things here and there, without anyone needing to explain them to me.</p>
 
-<p>Taking the spoon hyung handed me, I pressed Morae nuna to continue.</p>
+<p>Taking the spoon hyung handed me, I pressed Morae to continue.</p>
 
 <p>"So, nuna... am I like that?"</p>
 
@@ -771,17 +771,17 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Hmm. It's not that you enjoy being bullied — I think you're just the type who doesn't particularly react to it. There's not much reward in picking on you because you never give a satisfying response."</p>
 
-<p>I agreed with Morae nuna's assessment. Up until now, I had lived thinking of myself as someone relatively dull, almost numb. Or at least — someone who had been worn into that shape.</p>
+<p>I agreed with Morae's assessment. Up until now, I had lived thinking of myself as someone relatively dull, almost numb. Or at least — someone who had been worn into that shape.</p>
 
 <p>But my recent reactions were unfamiliar even to me.</p>
 
-<p><em>"I like men."</em></p>
+<p><em>"I'm gay."</em></p>
 
 <p>That brazen statement — something I never would have said until recently — was almost a provocation.</p>
 
 <p>"Why? Does it feel thrilling when someone bothers you?"</p>
 
-<p>Morae nuna leaned forward, elbows on the table, just as I was about to take a bite. Her face was full of mischief and curiosity.</p>
+<p>Morae leaned forward, elbows on the table, just as I was about to take a bite. Her face was full of mischief and curiosity.</p>
 
 <p>"No... it's not like that."</p>
 
@@ -789,9 +789,9 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Just as his attitude toward me was inconsistent, I found it difficult to trace my own reactions to a single clear cause.</p>
 
-<p>Overcome by hunger, I had no energy left to think. I began eating quickly while Morae nuna and Yeehan hyung sorted through the day's receipts beside me.</p>
+<p>Overcome by hunger, I had no energy left to think. I began eating quickly while Morae and hyung sorted through the day's receipts beside me.</p>
 
-<p>The owner — who saved up from running the place and then flew to the actual Bali to surf — had left last week. For the time being, Morae nuna and Yeehan hyung were running things.</p>
+<p>The owner — who saved up from running the place and then flew to the actual Bali to surf — had left last week. For the time being, Morae and hyung were running things.</p>
 
 <p>By the time I had nearly finished my plate, hyung spoke, his voice a little softer than before.</p>
 
@@ -801,19 +801,19 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Funny. You're not even that talkative."</p>
 
-<p>Yeehan hyung laughed lightly and teased me, and I smiled back in agreement.</p>
+<p>Hyung laughed lightly and teased me, and I smiled back in agreement.</p>
 
 <p>"At least once a week — mandatory visits. Got it? And you have to send me at least one text every day."</p>
 
-<p>This time it was Morae nuna's demand. I knew it wasn't really about her — it was said out of concern that I might feel lonely. When I nodded firmly, she smiled.</p>
+<p>This time it was Morae's demand. I knew it wasn't really about her — it was said out of concern that I might feel lonely. When I nodded firmly, she smiled.</p>
 
 <p>That day we had samgyeopsal and soju at "What Happened in Bali," then went home and kept drinking. A small indulgence — the first since coming to Seoul. It was also the first time I had drunk past tipsy all the way to actually drunk.</p>
 
-<p>I found out the next morning, from Morae nuna and Yeehan hyung, that I apparently become unusually agreeable and smiley when drunk. Yeehan hyung even claimed I had kissed Morae nuna on the cheek — and on that rare occasion, invoking his rights as her boyfriend, kicked me in the rear with his knee.</p>
+<p>I found out the next morning, from Morae and hyung, that I apparently become unusually agreeable and smiley when drunk. Hyung even claimed I had kissed Morae on the cheek — and on that rare occasion, invoking his rights as her boyfriend, kicked me in the rear with his knee.</p>
 
-<p>It wasn't much of a proper move-out, but since it was the day I was changing residences, I had left the day free from the moving company. After we all ate breakfast together, I packed everything into one backpack, and the three of us left the house and parted ways at the bus stop. I headed south toward the Teacher's house; Morae nuna and Yeehan hyung headed west to work at "What Happened in Bali."</p>
+<p>It wasn't much of a proper move-out, but since it was the day I was changing residences, I had left the day free from the moving company. After we all ate breakfast together, I packed everything into one backpack, and the three of us left the house and parted ways at the bus stop. I headed south toward the Teacher's house; Morae and hyung headed west to work at "What Happened in Bali."</p>
 
 <p>The rooftop room and "What Happened in Bali" were both close enough that I could visit anytime I wanted — but from now on, they would be places I had to make a conscious decision to go to.</p>
 
-<p>As I boarded the bus and watched the scenery recede, I felt something strange in the knowledge that I was moving somewhere alone, separated from Morae nuna and Yeehan hyung. It didn't feel like moving at all. It felt like setting off on a trip. A very long one.</p>
+<p>As I boarded the bus and watched the scenery recede, I felt something strange in the knowledge that I was moving somewhere alone, separated from hyung and Morae. It didn't feel like moving at all. It felt like setting off on a trip. A very long one.</p>
 </div>

@@ -11,13 +11,13 @@ section_count: 5
 permalink: /sections/chapter-01/3/
 excerpt_separator: "<!-- section-excerpt-end -->"
 ---
-<p>Grandfather said he would kill Yeehan.</p>
+<p>Grandfather said he would kill hyung.</p>
 
 <p>He slammed the floor with a long pole kept in one corner of the yard, screaming that anyone who acted up without knowing their place and dragged their parents' name through the mud deserved to be beaten to death.</p>
 
 <p>"How dare you, you good-for-nothing… where do you think you're reaching!"</p>
 
-<p>Grandfather seemed less like Yeehan's grandfather and more like Morae's.</p>
+<p>Grandfather seemed less like Seo Yeehan's grandfather and more like Morae's.</p>
 
 <p>"Who do you think you are, dragging Mr. Lim's daughter around? Did you want to see this old fool groveling like a criminal in front of him, you son of a bitch!"</p>
 
@@ -25,13 +25,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Who dragged her? What bastard is going around saying that? I'll rip his mouth apart!"</p>
 
-<p>Yeehan wasn't exactly meek either. I could picture his face — veins popping, shouting even while sitting inside the room.</p>
+<p>Hyung wasn't exactly meek either. I could picture his face — veins popping, shouting even while sitting inside the room.</p>
 
 <p>"Shut your mouth! You're the one who'll have his jaw ripped apart for taking a rich man's daughter to a motel, you punk!"</p>
 
-<p>Morae and Yeehan had been dating since middle school, and around high school, Morae's family had begun applying pressure when rumors about them surfaced.</p>
+<p>Morae and hyung had been dating since middle school, and around high school, Morae's family had begun applying pressure when rumors about them surfaced.</p>
 
-<p>At first the pressure had only amounted to occasional disapproval — perhaps because they believed the two were still young and their relationship wouldn't last. But after Yeehan was discharged, that pressure had slowly shifted into something more concrete and threatening.</p>
+<p>At first the pressure had only amounted to occasional disapproval — perhaps because they believed the two were still young and their relationship wouldn't last. But after hyung was discharged, that pressure had slowly shifted into something more concrete and threatening.</p>
 
 <p>It must have been a few days ago, after they went surfing. The two of them and I had parted ways and I'd gone home first. Hyung didn't return until late that night. Someone must have seen them entering a motel together and reported it to Morae's father.</p>
 
@@ -47,7 +47,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Grandfather believed that the reason Morae's parents opposed the relationship was the decline of their family's standing — but in reality the issue was somewhat more complicated than that.</p>
 
-<p>Grandfather and the other adults didn't know Morae was an Alpha. In this village, besides Morae's family, only Yeehan and I knew.</p>
+<p>Grandfather and the other adults didn't know Morae was an Alpha. In this village, besides Morae's family, only hyung and I knew.</p>
 
 <p>Alphas, said to make up roughly one in every thousand people nationally, were mostly concentrated in areas with high income and education levels. By the statistics, a small port town of about thirty thousand like this one should have around thirty Alphas — but in reality, there seemed to be only two or three at most, and even those were people who were merely Alphas in a biological sense, not significantly different from Betas.</p>
 
@@ -57,13 +57,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>That was why Morae's family had lived concealing the fact that she was an Alpha.</p>
 
-<p>I didn't know exactly how strong her Alpha traits were, but between an Alpha and a male Beta, conception was difficult. Nearly impossible, in fact.</p>
+<p>I didn't know exactly how strong her Alpha traits were, but between an Alpha and a Beta, conception was difficult. Nearly impossible, in fact.</p>
 
-<p>That was why Morae's family opposed her being with Yeehan. And if she had even suggested pairing with a female Omega, it felt as though one of the family members would have staged a suicide attempt.</p>
+<p>That was why Morae's family wanted her to meet a male Alpha and have a child. Naturally, they opposed her being with hyung, a male Beta. And if she had even suggested pairing with a female Omega, it felt as though one of the family members would have threatened to take their own life.</p>
 
 <p>It's not that I couldn't understand what they felt — wanting her to live a life without a single blemish in the eyes of others.</p>
 
-<p>The problem was that Morae nuna cared more about a life with Yeehan than a flawless reputation.</p>
+<p>The problem was that Morae cared more about a life with Yeehan than a flawless reputation.</p>
 
 <p>The next problem was that her family was absolutely convinced she would regret her current choice.</p>
 
@@ -81,7 +81,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Grandfather's tone, which had been boiling over until this moment, suddenly shifted. Unlike his previous shouting — carried on regardless of whether the neighbors could hear — his voice was now choked, as if someone were gripping his throat. As if the real point was only beginning now.</p>
 
-<p>"If you don't do as I say, who knows what Mr. Lim will do to you, you fool! For the sake of his daughter… he's the type who wouldn't blink at crippling a nobody like you. The only reason he's held back this long is because he didn't want to make his daughter cry — not because he's helpless against you. Listen to your grandfather. Cut ties with her completely, starting today. If you really can't stand to be near her, go work the deep-sea boats for a year. Just listen to me for once, you useless punk!"</p>
+<p>"If you don't do as I say, who knows what Mr. Lim will do to you, you fool! For the sake of his daughter… he's the type who wouldn't blink at crippling a nobody like you. The only reason he's held back this long is because he didn't want to make his daughter cry — not because he's helpless against you. Listen to your grandfather. Cut ties with her completely, starting today. If you really can't get her out of your mind, go work the deep-sea boats for a year. Just listen to me for once, you useless punk!"</p>
 
 <p>Mr. Lim.</p>
 
@@ -89,13 +89,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>But grandfather was acting differently now. This wasn't like his earlier, aimless shouting. Whatever Mr. Lim had told him behind the Fisheries Cooperative building had left him visibly shaken, muttering to himself.</p>
 
-<p>The commotion had only died down because Yeehan stormed out, but we weren't naive enough to think it was over. This was only the beginning.</p>
+<p>The commotion had only died down because hyung stormed out, but we weren't naive enough to think it was over. This was only the beginning.</p>
 
 <p>They wouldn't stop.</p>
 
-<p>Mr. Lim would try to separate Morae and Yeehan, and grandfather and uncle would try to force Yeehan onto the boat — because in their minds, this was the decent thing to do. They truly believed this was the path to happiness for Morae and Yeehan, or at the very least the only way to save them from a lifetime of regret.</p>
+<p>Mr. Lim would try to separate Morae and Yeehan, and grandfather and uncle would try to force Yeehan onto the boat — because in their minds, this was the decent thing to do. They truly believed this was the path to happiness for Lim Morae and Seo Yeehan, or at the very least the only way to save them from a lifetime of regret.</p>
 
-<p>I sat blankly in the room, fully exposed to grandfather's continuing curses and the argument between him and uncle, who had begun blaming each other even after Yeehan stormed out.</p>
+<p>I sat blankly in the room, fully exposed to grandfather's continuing curses and the argument between him and uncle, who had begun blaming each other even after hyung stormed out.</p>
 
 <p>When I first arrived here, this room had been a mess. Discarded clothes, comic books, and surfing magazines scattered everywhere; on the low desk, textbooks and reference books I'd never opened were precariously stacked.</p>
 
@@ -103,11 +103,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>I arranged the magazines and comic books in publication order, sorted the clothes by season and color before folding them into the drawers, organized the textbooks and reference books alphabetically. Whenever hyung messed it up, I cleaned it again.</p>
 
-<p>The only thing in this room I hadn't touched was a single photograph Yeehan hyung had tacked to the wall.</p>
+<p>The only thing in this room I hadn't touched was a single photograph hyung had tacked to the wall.</p>
 
 <p>A small picture showing the silhouettes of two people surfing on a red ocean, framed by exotic palm trees backlit by a sunset. Hyung had apparently torn it from some magazine, and it had held that spot since I first arrived here five years ago.</p>
 
-<p>Yeehan hyung used to say, as though out of habit, that someday he would go and live in a place like that. He never specified with whom — but Morae was naturally included in his future. It was such an obvious thing it didn't need to be said. They were two people who had never, not for a single moment, imagined anyone other than each other in their lives.</p>
+<p>Hyung used to say, as though out of habit, that someday he would go and live in a place like that. He never specified with whom — but Morae was naturally included in his future. It was such an obvious thing it didn't need to be said. They were two people who had never, not for a single moment, imagined anyone other than each other in their lives.</p>
 
 <p>I tried to focus my attention on the photograph — its corner curled, its colors faded.</p>
 
@@ -115,4 +115,4 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Grandfather's curses had now shifted toward the two of us — calling us heartless wretches who wouldn't even glance outside despite the chaos erupting in the household, whether son or grandson.</p>
 
-<p>I was worried about Morae nuna and whether she was all right, but I couldn't even send a single message — afraid that reaching out might give my family yet another reason to come at us.</p>
+<p>I was worried about Morae and whether she was all right, but I couldn't even send a single message — afraid that reaching out might give her family a reason to find fault with her.</p>

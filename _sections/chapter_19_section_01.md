@@ -525,7 +525,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Had he ever done anything embarrassing? And before that — had there even been any men around me genuinely trying to appeal to me as a romantic prospect?</p>
 
-<p>The first thing that came to mind was... the evening after meeting Teacher Suki Kim, when we all went to a bar in Soho, and that man with freckles who said he was from Amsterdam. He had turned back, come to find me, and asked if we could exchange email addresses — and he, who seemed sharp enough to pick up on those things, had stayed by my side the entire time even in that private setting.</p>
+<p>The first thing that came to mind was... the evening after meeting Ms. Suki Kim, when we all went to a bar in Soho, and that man with freckles who said he was from Amsterdam. He had turned back, come to find me, and asked if we could exchange email addresses — and he, who seemed sharp enough to pick up on those things, had stayed by my side the entire time even in that private setting.</p>
 
 <p>Was he saying all of that was because he was conscious of me?</p>
 

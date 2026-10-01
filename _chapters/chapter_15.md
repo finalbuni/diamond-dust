@@ -341,7 +341,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>The city lights scattered across the calm water reminded me of Hong Kong at night. Memories of Hong Kong came in a chain, making me feel clearly how much I had changed, and how many chances I had been given to find my way here.</p>
 
-<p>Back then, waiting in a hotel room for his call before going to meet Teacher Suki Kim. Now, standing at the window of the penthouse he had arranged for Morae nuna and Yeehan hyung. Both of those moments had been made by his goodwill.</p>
+<p>Back then, waiting in a hotel room for his call before going to meet Ms. Suki Kim. Now, standing at the window of the penthouse he had arranged for Morae nuna and Yeehan hyung. Both of those moments had been made by his goodwill.</p>
 
 <p><em>Is it truly all right for you to be so complicated with me?</em></p>
 

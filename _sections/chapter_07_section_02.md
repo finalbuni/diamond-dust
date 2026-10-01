@@ -49,7 +49,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>It was a world I had nothing to do with, so I quietly listened to their conversation and nodded when Inwu hyung introduced me. The moment the word <em>Phantom</em> came up, the manager gave me a quick once-over, curiosity plainly visible in his eyes.</p>
 
-<p>I thought of the Director, the Teacher, Yuni nuna, and Juhan hyung — their distinctive styles and personalities — and felt a faint bitterness at the thought of how I must look compared to them in the manager's eyes right now.</p>
+<p>I thought of the Director, Manager Han, Yuni nuna, and Juhan hyung — their distinctive styles and personalities — and felt a faint bitterness at the thought of how I must look compared to them in the manager's eyes right now.</p>
 
 <p>"So, what was it you wanted to talk about?"</p>
 
@@ -181,7 +181,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>My answer came a beat late because my expectations had missed the mark.</p>
 
-<p>Embarrassed by how far ahead I'd let my imagination run, I lightly bit my lower lip before releasing it. Then I held the phone out to Inwu hyung, who still looked pleased.</p>
+<p>Embarrassed by how far ahead I'd let my imagination run, I lightly bit my lower lip before releasing it. Then I held the phone out to hyung, who still looked pleased.</p>
 
 <p>"What do you mean, why? I told you, I called because I was curious how the art fair was going to turn out."</p>
 
@@ -191,15 +191,15 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Who knows. I'm not the one with a pheromone fixation."</p>
 
-<p>Still swirling his wine glass, Inwu hyung tipped the last of the wine into his mouth.</p>
+<p>Still swirling his wine glass, hyung tipped the last of the wine into his mouth.</p>
 
 <p>Maybe I was reading too much into it, but I couldn't shake the feeling that hyung was deliberately provoking him. The teasing tone and amused smile gave that impression.</p>
 
 <p>As for what had actually been said, I had no idea.</p>
 
-<p>"Hey, Liu-ssi. What are you worried about? Pheromones are useless on a Beta. What's gotten into you? Is this some kind of early-stage manifestation? You act like nothing's impossible if you have pheromones—like people will just rip their clothes off and come running the moment you step outside."</p>
+<p>"Hey, Mister<sup class="tn-marker" id="tn-ref-chapter-07-section-02-1"><a href="#tn-chapter-07-section-02-1" aria-label="Translator note 1">1</a></sup> Liu. What are you worried about? Pheromones are useless on a Beta. What's gotten into you? Is this some kind of early-stage manifestation? You act like nothing's impossible if you have pheromones—like people will just rip their clothes off and come running the moment you step outside."</p>
 
-<p>As soon as Inwu hyung emptied his glass, a staff member appeared from nowhere, lifted the wine bottle from the iron basket on the table, and quietly refilled it.</p>
+<p>As soon as hyung emptied his glass, a staff member appeared from nowhere, lifted the wine bottle from the iron basket on the table, and quietly refilled it.</p>
 
 <p>My hands, loosely clasped in my lap, tightened together.</p>
 
@@ -307,7 +307,7 @@ Beta. Pheromones.
 
 <p>The fact that many Alphas and Omegas were socially successful didn't mean that most successful people were Alphas or Omegas. The overwhelming majority of humanity was Beta. In a world where being Beta was considered normal, I'd never really thought about what it meant to live as an Alpha or an Omega.</p>
 
-<p>I had never been particularly curious about their biological differences, but I hadn't taken the time to understand them, either. Morae nuna, the person closest to me, was an Alpha — but because she never revealed that about herself, I naturally treated and accepted her as though she were a Beta. Even if she chose to live that way, and even if she were in a relationship with Yeehan hyung, who wasn't an Omega, Lim Morae was still an Alpha, and that didn't change.</p>
+<p>I had never been particularly curious about their biological differences, but I hadn't taken the time to understand them, either. Morae, the person closest to me, was an Alpha — but because she never revealed that about herself, I naturally treated and accepted her as though she were a Beta. Even if she chose to live that way, and even if she were in a relationship with Hani hyung, who wasn't an Omega, Lim Morae was still an Alpha, and that didn't change.</p>
 
 <p>As I searched for information online, I kept coming across all kinds of misleading content—curiosity-driven misinformation and rumors that read more like fiction—passing by constantly. Perhaps it was precisely because the mechanism of pheromones still hadn't been scientifically explained that Betas kept interpreting them in romantic terms, or simply filling in the gaps with speculation and rumors.</p>
 
@@ -353,11 +353,11 @@ Beta. Pheromones.
 
 <p>“Liu Weikun, right?”</p>
 
-<p>“Uh… it's Teacher.”</p>
+<p>“Uh… it's Manager Han.”</p>
 
 <p>I didn't know what made Inwu hyung so certain it would be him, but he looked noticeably disappointed.</p>
 
-<p>While I took a sip of wine, another message arrived almost immediately from Teacher. After replying to her suggestion that we have dinner tomorrow evening if I was free, I quietly turned my phone face down again.</p>
+<p>While I took a sip of wine, another message arrived almost immediately from Manager Han. After replying to the suggestion that we have dinner tomorrow evening if I was free, I quietly turned my phone face down again.</p>
 
 <p>Watching hyung slump against the armrest like someone who'd just confirmed the message wasn't from the lover he'd been waiting for, I forced myself to speak first. For some reason, I felt responsible for getting the conversation back on track.</p>
 
@@ -383,7 +383,7 @@ Beta. Pheromones.
 
 <p>Or perhaps my own experience was no different — just another fanciful story written by a Beta and colored by sentimental interpretation.</p>
 
-<p>As soon as the glass was refilled and the staff member left, Inwu hyung immediately tilted it back and drank it down in one go, as easily as if it were cold beer. Then he looked at me and smiled.</p>
+<p>As soon as the glass was refilled and the staff member left, hyung immediately tilted it back and drank it down in one go, as easily as if it were cold beer. Then he looked at me and smiled.</p>
 
 <p>"If a Beta feels sexual attraction toward a certain Alpha or Omega... it's simply because they're drawn to that person themselves. Not because of pheromones."</p>
 
@@ -391,7 +391,7 @@ Beta. Pheromones.
 
 <p><em>You have a habit of drinking whatever's in front of you when you get nervous.</em> I had no choice but to acknowledge how accurate that observation was.</p>
 
-<p>"Whether you're an Alpha, an Omega, or a Beta — before any of that, you're human. When you spend time with someone, you can be drawn to them regardless of primary or secondary sex. Even between Betas, without any pheromonal influence, people can be captivated by looks and sleep together with no emotional connection. That's just how the world works. Without necessarily involving pheromones — Alphas and Betas, Omegas and Betas, Alphas and Omegas — if people catch each other's eye, they date, they have one-night stands. It happens. Because before any of that, we're all human.</p>
+<p>"Whether you're an Alpha, an Omega, or a Beta — before any of that, you're human. When you spend time with someone, you can be drawn to them regardless of primary or secondary sex. Even between Betas, without any pheromonal influence, people can be captivated by looks and sleep together with no emotional connection. That's just how the world works. Without necessarily involving pheromones — Alphas and Betas, Omegas and Betas, Alphas and Omegas — if people catch each other's eye, they date, they have one-night stands. It happens. Because before any of that, we're all human."</p>
 
 <p>He wasn't scolding me, but there was an edge of sarcasm in hyung's tone — perhaps aimed at those who treated Alphas and Omegas as nothing more than beasts driven entirely by their instincts. He popped the kernel he had just cracked out of its shell into his mouth and kept going.</p>
 
@@ -399,11 +399,11 @@ Beta. Pheromones.
 
 <p>If I, who cannot detect pheromones, could be drawn to an Alpha — then the reverse must be true for them as well. But in terms of raw sexual appeal, a Beta probably couldn't surpass an Omega's pheromones.</p>
 
-<p>Suddenly, Shushu came to mind.</p>
+<p>Suddenly, Artist Shushu came to mind.</p>
 
-<p>Even without sensing his pheromones, Shushu was an attractive person in his own right. Compared to an Omega who was already attractive even without the help of pheromones, wouldn't even the most appealing Beta seem like a faded black-and-white film to an Alpha?</p>
+<p>Even without sensing his pheromones, the artist was an attractive person in his own right. Compared to an Omega who was already attractive even without the help of pheromones, wouldn't even the most appealing Beta seem like a faded black-and-white film to an Alpha?</p>
 
-<p>I was surprised at myself for making such a preposterous comparison between Shushu and me. Not simply because it was an unfair comparison — though that was true too — but because the comparison itself made me flinch, as if it had exposed something I would rather not name.</p>
+<p>I was surprised at myself for making such a preposterous comparison between Artist Shushu and me. Not simply because it was an unfair comparison — though that was true too — but because the comparison itself made me flinch, as if it had exposed something I would rather not name.</p>
 
 <p>"Ah, there's actually a prime example right near Yeehyeon-ssi. An Alpha who manages his sex life entirely without pheromones."</p>
 
@@ -421,7 +421,7 @@ Beta. Pheromones.
 
 <p>Hyung said it with an expression I couldn't quite read — somewhere between mockery and reluctant admiration for the fastidiousness — and smiled, the corner of his mouth pulling up crookedly.</p>
 
-<p>"He was always a bit odd in that regard, even back in school. It was unofficially an Alpha and Omega institution, so Betas were actually the rare ones there. Most of the guys had a basic sense of Alpha entitlement and tried to coast through life on it. But that guy acted as if being an Alpha were something to be self-conscious about. Plenty of people looked down on him for it. They thought he was putting on airs.</p>
+<p>"He was always a bit odd in that regard, even back in school. It was unofficially an Alpha and Omega institution, so Betas were actually the rare ones there. Most of the guys had a basic sense of Alpha entitlement and tried to coast through life on it. But that guy acted as if being an Alpha were something to be self-conscious about. Plenty of people looked down on him for it. They thought he was putting on airs."</p>
 
 <p>I had read something similar in an article about artist Shushu. A special school in Hong Kong, effectively exclusive to Alphas and Omegas. From what had been said so far, it seemed he, Inwu hyung, and artist Shushu were all alumni of that school. As if reminiscing about the turbulent years of their youth, hyung stared at some point on the table for a moment before raising his head and grinning.</p>
 
@@ -488,3 +488,10 @@ Beta. Pheromones.
 <p>But now, there was no need for even that assumption. There were no pheromones.</p>
 
 <p>His scent was just that — a scent.</p>
+<section class="translator-notes" aria-label="Translator notes">
+  <div class="translator-notes__heading">TRANSLATOR'S NOTE</div>
+  <ol class="translator-notes__list">
+    <li id="tn-chapter-07-section-02-1" class="translator-note"><span class="translator-note__number">1</span> <strong>Mister (미스터)</strong> — Mister (미스터, miseuteo) is the English title transliterated into Korean. Here, it&#x27;s used for dramatic, sarcastic, or teasing effect rather than as a standard respectful title. Liu would ordinarily be addressed as Liu-ssi. <a class="translator-note__back" href="#tn-ref-chapter-07-section-02-1" aria-label="Return to note reference 1">↩ Back to text</a></li>
+  </ol>
+</section>
+

@@ -25,13 +25,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"No. I'll have to wait for hyung and nuna to finish anyway... I can just walk slowly from here."</p>
 
-<p>"We're headed that way anyway. Is hyung and nuna buying you dinner because you were sick?"</p>
+<p>"We're headed that way anyway. Are hyung and nuna buying you dinner because you were sick?"</p>
 
 <p>I brushed off the question with an awkward smile and turned my gaze out the window. The days had noticeably grown longer, and the shops were only just beginning to light up their signs. Outside a Korean barbecue restaurant, staff were setting out folding tables and chairs on the sidewalk.</p>
 
 <p>At Phantom, everyone thought I'd been sick. My body had briefly malfunctioned from the shock, but strictly speaking, I hadn't actually been ill. The Director, however, had been firm about it.</p>
 
-<p>The following day, late in the afternoon, he drove me to the Teacher's residence himself and advised me to take two more days off. Although he phrased it as a suggestion, it was practically an order. He said that if I came to work, everyone would just worry about me, and told me to rest until I had fully recovered. I didn't really have the right to refuse.</p>
+<p>The following day, late in the afternoon, he drove me to Manager Han's residence himself and advised me to take two more days off. Although he phrased it as a suggestion, it was practically an order. He said that if I came to work, everyone would just worry about me, and told me to rest until I had fully recovered. I didn't really have the right to refuse.</p>
 
 <p>Yuni nuna and Juhan hyung seemed convinced that I'd gotten sick from overworking myself—helping with gallery duties and then assisting with the <em>Old Future</em> shoot that same day. I tried explaining several times that I'd forced down a hamburger that wouldn't go down properly and probably upset my stomach, but neither of them seemed inclined to believe me.</p>
 
@@ -43,7 +43,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>It was my first time having sex with someone else, so naturally it was also my first time observing my own reactions to it. But even so, the boldness of it fell far outside any range I had ever anticipated. I, who even when masturbating had only ever focused on reaching climax quickly and efficiently, as though dealing with an unavoidable physiological function... to have done <em>that</em>...</p>
 
-<p>I let out a sigh without realizing it and rested my forehead against the window. I felt Juhan hyung's gaze flicker over to me, but no question followed.</p>
+<p>I let out a sigh without realizing it and rested my forehead against the window. I felt hyung's gaze flicker over to me, but no question followed.</p>
 
 <p>Even if I harbored feelings or curiosity toward him that strayed slightly outside the ordinary, that was ultimately my own personal matter. Between the two of us, what happened that night was gradually settling into something akin to an act of first aid.</p>
 
@@ -57,13 +57,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Wasn't that your phone? Aren't you going to answer?"</p>
 
-<p>Juhan hyung pointed toward it with his chin and asked.</p>
+<p>Hyung pointed toward it with his chin and asked.</p>
 
 <p>"I hardly ever answer numbers I don't have saved."</p>
 
 <p>"Ah... because of the elopement?"</p>
 
-<p>Juhan hyung said playfully, tapping the bottom of the steering wheel lightly with his fist. Then he added,</p>
+<p>Hyung said playfully, tapping the bottom of the steering wheel lightly with his fist. Then he added,</p>
 
 <p>"More accurately, the elopement plus Seo Yeehyeon?"</p>
 
@@ -71,11 +71,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"I didn't mean to sting you. Don't look so down, man."</p>
 
-<p>I knew that wasn't his intention, so I wasn't exactly deflated — but it was true that for the three of us to make it to Seoul as Morae nuna and Juhan hyung's elopement, I was the one who had to bow out.</p>
+<p>I knew that wasn't his intention, so I wasn't exactly deflated — but it was true that for the three of us to make it to Seoul as Morae and hyung's elopement, I was the one who had to bow out.</p>
 
 <p>"That still hasn't been resolved? You still have to be careful?"</p>
 
-<p>When I nodded, Juhan hyung fiddled with the piercing on his lip and furrowed his brow.</p>
+<p>When I nodded, hyung fiddled with the piercing on his lip and furrowed his brow.</p>
 
 <p>"Most parents would forgive something like this by now. Then again, I'm still in a cold war with my own parents."</p>
 
@@ -83,11 +83,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Turns out 'no parent can win against their child' only goes so far."</p>
 
-<p>As the car ahead finally started moving, Juhan hyung released the brake and added indifferently.</p>
+<p>As the car ahead finally started moving, hyung released the brake and added indifferently.</p>
 
 <p>I agreed with that. Not every parent necessarily put their child above all else. Some parents might find strength in their child's existence in extreme situations — and perhaps most did — but there were also parents in this world who simply couldn't.</p>
 
-<p>I knew that in theory. I had even held the arrogant thought that I might be able to understand my father, even if I couldn't forgive him. But the reaction my body had shown in the Director's living room told me that had been a complete delusion.</p>
+<p>I knew that in theory. I had even held the arrogant thought that I might be able to understand my father, even if I couldn't make sense of him. But the reaction my body had shown in the Director's living room told me that had been a complete delusion.</p>
 
 <p><em>It wasn't the right phrase for this kind of situation</em>, I knew — but my body was honest. That was the reaction my body showed before the phantom of the past, symbolized by that painting. Proof that the past hadn't been sealed away — that it still held dominion over the present.</p>
 
@@ -95,13 +95,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Juhan hyung looked out at the shops and remarked that this neighborhood had lost all its former quietness. His expression was the same as always, but just because he didn't constantly lament his wounds didn't mean he had overcome them. A wound inflicted by one's parents wouldn't simply disappear just because you left home and stopped seeing them.</p>
 
-<p>The light changed again, and after we made the right turn, it was only a short drive to <em>What Happened in Bali</em>. Juhan hyung leaned his upper body over the steering wheel, scrutinizing the old single-story building where the café was, and spoke.</p>
+<p>The light changed again, and after we made the right turn, it was only a short drive to <em>What Happened in Bali</em>. Hyung leaned his upper body over the steering wheel, scrutinizing the old single-story building where the café was, and spoke.</p>
 
 <p>"So this is it. It wasn't even registered on the GPS, so I had no idea where it was."</p>
 
-<p>The owner didn't want the café filled with people who only dropped by to take a few photos for social media, so she hadn't listed <em>What Happened in Bali</em> on any search portals either.</p>
+<p>The owner didn't want the café filled with people who only dropped by to take a few photos for social media, so the owner hadn't listed <em>What Happened in Bali</em> on any search portals either.</p>
 
-<p>"Juhan hyung, if you don't mind, would you like to come in for a bit? I could at least treat you to a drink."</p>
+<p>"Hyung, if you don't mind, would you like to come in for a bit? I could at least treat you to a drink."</p>
 
 <p>He seemed to consider it, fiddling with the piercing on his lip for a moment and glancing toward the café.</p>
 
@@ -109,11 +109,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Please do. I'll treat you to a meal then too. The nasi goreng is delicious."</p>
 
-<p>Since it was a narrow residential alley, he couldn't leave the car parked for long. I thanked him for the ride and got out, and Juhan hyung quickly drove off down the alley.</p>
+<p>Since it was a narrow residential alley, he couldn't leave the car parked for long. I thanked him for the ride and got out, and hyung quickly drove off down the alley.</p>
 
 <p>"Seo Yeehyeon!"</p>
 
-<p>I turned around. Morae nuna was standing outside the café, smiling with her hands tucked into the pockets of her apron. It had been almost a week since I'd last seen her.</p>
+<p>I turned around. Morae was standing outside the café, smiling with her hands tucked into the pockets of her apron. It had been almost a week since I'd last seen her.</p>
 
 <p>"Who was that?"</p>
 
@@ -145,7 +145,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Morae, who had just taken an additional order from another table, ruffled my hair before heading behind the bar to make drinks.</p>
 
-<p><em>Is hyung and nuna buying you dinner because you were sick?</em> Juhan hyung had teased. But I hadn't told Morae or hyung anything about what happened that day, or about the two days I'd missed afterward. Today was both a staff dinner for <em>What Happened in Bali</em> and a welcome-back gathering for the owner's return. Since it was Friday, Morae and hyung had invited me to stop by, see everyone, and eat together. There was no reason to bring up something that would only make them worry, and besides, I still wasn't ready to put the shock of that day into words.</p>
+<p><em>Are hyung and nuna buying you dinner because you were sick?</em> Juhan hyung had teased. But I hadn't told Morae or hyung anything about what happened that day, or about the two days I'd missed afterward. Today was both a staff dinner for <em>What Happened in Bali</em> and a welcome-back gathering for the owner's return. Since it was Friday, Morae and hyung had invited me to stop by, see everyone, and eat together. There was no reason to bring up something that would only make them worry, and besides, I still wasn't ready to put the shock of that day into words.</p>
 
 <p>The practice notebook I always used like a sketchbook whenever I came to the café had been replaced with a new one. Seeing it reminded me of the old notebook, which had only a few pages left—and naturally, of the memo about the surfing school written inside. It felt as though another notice had landed with a thump on the desk inside my head.</p>
 
@@ -185,7 +185,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>There was something I'd been curious about for days, but I hadn't had anyone suitable to ask.</p>
 
-<p>I had considered asking the Teacher, but it felt like too abrupt a topic. I'd thought about casually bringing it up with Juhan hyung while we were making deliveries, but he was too perceptive, and I lost my nerve. The Alpha closest to me was Morae nuna, of course, but she rarely talked about her own Alpha tendencies in the first place. I didn't want to make her uncomfortable for no reason.</p>
+<p>I had considered asking Manager Han, but it felt like too abrupt a topic. I'd thought about casually bringing it up with Juhan hyung while we were making deliveries, but he was too perceptive, and I lost my nerve. The Alpha closest to me was Morae, of course, but she rarely talked about her own Alpha tendencies in the first place. I didn't want to make her uncomfortable for no reason.</p>
 
 <p>Inwu hyung was neither too close nor too distant, and I felt his naturally easygoing demeanor might make certain topics easier to bring up. At least, that was my reasoning.</p>
 
@@ -215,7 +215,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Nothing's wrong..."</p>
 
-<p>I was surprised by how reluctant I still was to let go of an invitation I'd already turned down, and explaining the situation with Inwu hyung felt awkward too. It made me realize how many things had piled up that I hadn't told Morae nuna since we stopped living together.</p>
+<p>I was surprised by how reluctant I still was to let go of an invitation I'd already turned down, and explaining the situation with Inwu hyung felt awkward too. It made me realize how many things had piled up that I hadn't told Morae since we stopped living together.</p>
 
 <p>"Someone from the gallery?"</p>
 
@@ -247,7 +247,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>I hadn't told them that I'd seen my painting at the Director's house. I hadn't told them that seeing it had sent me into a panic, that I'd hyperventilated, and that when I came to, I was asleep in his bed. I didn't want them to worry. And I had no intention of telling anyone about sleeping with the Director.</p>
 
-<p>I wasn't foolish enough to think these changes meant we had never been as close as I'd believed. If anything, it simply meant my life until now had been too simple. In my twenty-two-year-old world, there had been only Morae nuna and Yeehan hyung. Everyone else had been empty space.</p>
+<p>I wasn't foolish enough to think these changes meant we had never been as close as I'd believed. If anything, it simply meant my life until now had been too simple. In my twenty-two-year-old world, there had been only Morae and hyung. Everyone else had been empty space.</p>
 
 <p>So it wasn't unreasonable that the two of them couldn't bring themselves to leave me behind. They simply weren't capable of being that cruel.</p>
 

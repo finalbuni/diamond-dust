@@ -219,7 +219,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>She simply answered, "Seoul Station"—she had always disliked the stuffy, claustrophobic feeling of tunnels.</p>
 
-<p>Heading from Tongil-ro in front of Seoul Station toward Samgakji, the taxi slipped through the intersection just as the light turned, barely crossing the stop line. The driver grumbled that if the car ahead hadn't dawdled at the previous light they wouldn't have been caught, but she merely smiled, far too happy to care.</p>
+<p>Heading from Tongil-ro in front of Seoul Station toward Samgakji, the light changed just before the taxi crossed the stop line, forcing it to wait. The driver grumbled that if the car ahead hadn't dawdled at the previous light they wouldn't have been caught, but she merely smiled, far too happy to care.</p>
 
 <p>Wham!'s "Last Christmas" was playing softly on the radio. Humming along to the warmly nostalgic melody, she leaned back against the seat.</p>
 
@@ -237,7 +237,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>It wasn't merely a loud noise. It was a sound deeply laced with violence and misfortune — entirely different from the harmless clamor of a construction site or the roaring cheers of a sporting event.</p>
 
-<p>Both she and the taxi driver watched in horror as the blue truck slammed headlong into a mid-sized sedan. The collision looked like nothing less than a deliberate act of self-destruction.</p>
+<p>Both she and the taxi driver watched the blue truck charge toward a mid-sized sedan. The rush looked like nothing less than a deliberate act of self-destruction.</p>
 
 <p>She clapped both hands over her mouth as screams erupted from the driver as well.</p>
 
@@ -306,6 +306,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 <p>I didn't want an award. Painting was my language, and I wanted to use it — to reach the world, to reach someone. I wanted to know if that language was even capable of connecting with another person.</p>
 
 {% capture excerpt %}
+
 <p>The opposite concept of alienation is probably connection — that state in which individual entities find comfort and belonging in one another through similarity, reassured that they are not alone.</p>
 
 <p>Beyond that stage, connection expands outward toward the other person. To understand and accept another, to become deeply intertwined with them, and finally to reach a place where one can surrender one's own life for the other — trusting that my concerns can become yours, and yours can touch mine — that is likely the ultimate state connection can achieve.</p>
@@ -319,11 +320,12 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 <p>The expressive style — combining traditional painting techniques with Pop Art sensibility — is somewhat rough, yet full of a rawness and energy that could only belong to a new artist.</p>
 
 <p>Unlike solitude, alienation is a concept that only exists in relation to something else. It is the feeling that arises when one is rejected and excluded by another — an emotion that cannot be experienced alone. Looking at this work, one will recall the longing, jealousy, and sense of alienation felt toward beautiful, warm, and loving things — feelings most people have known at least once. And one might find comfort in realizing that those ugly emotions, once carefully hidden, were never theirs alone to carry — allowing them to "connect" with the artist's own sense of "alienation" and "connection."</p>
+
 {% endcapture %}
 
 {% include excerpt.html content=excerpt %}
 
-<p>Suki Kim's review for the Special Jury Award was enough.</p>
+<p>Ms. Suki Kim<sup class="tn-marker" id="tn-ref-chapter-06-1"><a href="#tn-chapter-06-1" aria-label="Translator note 1">1</a></sup> review for the Special Jury Award was enough.</p>
 
 <p>Reading her review felt like watching my painting put into words.</p>
 
@@ -491,7 +493,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Want to wash up?"</p>
 
-<p>As I came back from setting the tray in the sink, he tapped his cheek twice with his index finger and asked. Only then did I remember that I still hadn't taken off my makeup.</p>
+<p>As he came back from setting the tray in the sink, he tapped his cheek twice with his index finger and asked. Only then did I remember that I still hadn't taken off my makeup.</p>
 
 <p>"I'll stay with you."</p>
 
@@ -563,7 +565,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p><em>How did that painting end up in this house?</em></p>
 
-<p>Suki Kim had expressed her desire to purchase the painting immediately after the contest results were announced. After consulting with my parents, I had conveyed our wish to give it to her as a gift — but she insisted on buying it, paying what was, at the time, a considerable sum to my parents and me.</p>
+<p>Ms. Suki Kim had expressed her desire to purchase the painting immediately after the contest results were announced. After consulting with my parents, I had conveyed our wish to give it to her as a gift — but she insisted on buying it, paying what was, at the time, a considerable sum to my parents and me.</p>
 
 <p>Of course, collectors are free to do whatever they want with paintings they've purchased. Just because the painting was here now didn't mean I thought she'd treated it carelessly. No—even if she had, it wouldn't diminish in the slightest the sense of connection I'd felt through her critique back then.</p>
 
@@ -615,13 +617,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>As the sensation — as though each syllable had turned into a soft feather tickling the inside of my ear — grew stronger, I tilted my head back and gripped his shoulder. His body, which until then had been simply pressing down on me, twisted at the waist and began slowly grinding its full length against mine.</p>
 
-<p>This time, my breath grew shallow. My lower half was in thin pajamas; he was in slightly thicker sweatpants. Both were indoor wear, soft-textured, and utterly insufficient to conceal the bulk of his arousal.</p>
+<p>This time, my breath grew shallow. My lower half was in thin pajamas; he was in slightly thicker sweatpants. Both were indoor wear, soft-textured, and neither did much to conceal the bulge beneath.</p>
 
 <p>Keeping his groin pressed tightly against mine as he rubbed against me with subtle insistence, he pushed his right knee against the inside of my left thigh and wedged himself deeper between my legs, settling into place. A heavy mass of flesh rested between my naturally parted legs. Judging by the soft give of it, he clearly wasn't fully hard yet, and still he felt impossibly heavy between my legs. My gaze dropped openly downward before I even realized it.</p>
 
 <p>Perhaps noticing where I was looking, he laughed low against my ear. There, even laughter became a caress. I hunched my shoulders and bit my lower lip, and he lightly scraped my ear with his front teeth. It was a teasing motion, almost like a bite, but instead of making me laugh, it only roughened my breathing.</p>
 
-<p>He didn't rush to strip away our clothes and press bare skin together. Instead, he slowly warmed our bodies, letting our cocks slide softly together through the fabric. But there was nothing innocent about the movement. The way he lowered his hips and pressed upward again, ensuring he was stimulated thoroughly from base to tip through his underwear, carried a strangely deliberate sensuality.</p>
+<p>He didn't rush to strip away our clothes and press bare skin together. Instead, he slowly warmed our bodies, letting our erections brush against each other through the fabric. But there was nothing innocent about the movement. The way he lowered his hips and pressed upward again, rubbing the length of his erection through his underwear from base to tip, carried a strangely deliberate sensuality.</p>
 
 <p>His right hand, which had been toying with my hair, drifted lightly down my cheek and ear, traced the back of my neck as though playing piano keys, then caught the neckline of my sweatshirt as if dissatisfied with it.</p>
 
@@ -645,7 +647,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>His large, warm palm covered my eyes. My vision was blocked, but I wasn't afraid. I closed my eyes in time with the slow downward sweep of his hand. I was anxious—I didn't understand why my body was reacting this way—but it wasn't the kind of fear that made me feel threatened.</p>
 
-<p>It wasn't fear. If anything, it was desire. Fierce and impossible to resist. Desire so strong it made my body tremble—for his body slowly rocking side to side, grinding the length between my legs.</p>
+<p>It wasn't fear. If anything, it was desire. Fierce and impossible to resist. Desire so strong it made my body tremble for him as he slowly rocked his hips from side to side between my legs, rubbing against me.</p>
 
 <p>"Just focus on how you're going to answer my question."</p>
 
@@ -659,7 +661,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>This time, I shook my head. Several times. Firmly.</p>
 
-<p>Just as I had begun adapting to the weight of his body draped over mine, I was slowly adapting to the weight of his scent as well. The place pressed against him was growing hot. I knew I was moving my hips on my own, but I had lost the restraint that would have made me stop out of embarrassment.</p>
+<p>Just as I had begun adapting to the weight of his body over mine, I was slowly adapting to the weight of his scent as well. My lower body was growing hot where it pressed against his erection. I knew I was moving my hips on my own, but I had lost the restraint that would have made me stop out of embarrassment.</p>
 
 <p>The fingertips that had been stroking broadly across my chest tapped upward against my hardened nipple from below.</p>
 
@@ -675,9 +677,9 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Unbelievably, I was reacting to his hand so intensely my breath was already breaking.</p>
 
-<p>I lost and regained my grip on his shoulder again and again, until, driven by a desperate need for him to press harder against me below, I wrapped my arms around his neck and pulled him closer. He was only squeezing my nipple, yet it felt as though my entire body were being twisted from its core.</p>
+<p>I lost and regained my grip on his shoulder again and again. Driven by a desperate need for him to grind harder against me, I wrapped my arms around his neck and pulled him closer. He was only squeezing my nipple, yet it felt as though my entire body were being twisted from its core.</p>
 
-<p>"I won't do anything Seo Yeehyeon-ssi doesn't want. If something starts to feel unpleasant, tell me right away. You're not scared, are you?"</p>
+<p>"Seo Yeehyeon-ssi, I won't do anything you don't want. If anything feels uncomfortable, tell me right away. You're not scared, are you?"</p>
 
 <p>I nodded. Several times.</p>
 
@@ -711,33 +713,33 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He had told me to speak if I felt uncomfortable. But I didn't dislike the hand tracing circles around my navel, drawing my stomach tight. I felt no urge to push away the mouth sucking and chewing at my nipple, and no aversion to the weight of his body pressed over mine, grinding against me below.</p>
 
-<p>My body responded immediately to the first friction of another person's cock against my own. I had never imagined it would be another man's—but neither had I ever believed it couldn't be.</p>
+<p>My body responded immediately to the first friction of another person's erection against my own. I had never imagined it would be another man's, but I had never thought it couldn't be, either.</p>
 
 <p>I had only been vaguely aware of it, but piecing together the way I had reacted to him lately, it wasn't strange at all that I felt no resistance to this with him.</p>
 
 <p>Each time he bent his head as though in a fervent kiss and sucked hard enough to hollow his cheek deeply, I inhaled like someone being strangled. He lifted his eyes to me. When I bit down hard on my lower lip to suppress a moan, he reached up and gently freed it. Then, as though he couldn't see, he traced my lips with his fingertips.</p>
 
-<p>Redrawing their shape, his fingers swept across my upper and lower lips, brushing and testing them until one slipped lightly between my teeth. Without thinking, I bit down on it. Below, he pulled his mouth from my chest. Looking down, I saw a strand of saliva stretching like a thread between his lips and my nipple. He kissed it once more to break the strand, then crawled upward toward my neck.</p>
+<p>Redrawing their shape, his fingers swept across my upper and lower lips, brushing and testing them until one slipped lightly between my teeth. Without thinking, I bit down on it. Below, he pulled his mouth from my chest. Looking down, I saw a strand of saliva stretching like a thread between his lips and my nipple. He kissed my nipple once more to break the strand, then crawled upward toward my neck.</p>
 
-<p>Following the friction of our lower bodies, our upper bodies now pressed together without the slightest gap. While sucking at my neck, he worked both the inside and outside of my lips with his fingers. As a part of him entered my mouth, his scent filled my entire body, and it felt as though my brain were melting into something soft.</p>
+<p>Following the friction of our lower bodies, our upper bodies now pressed together without the slightest gap. While sucking at my neck, he explored the outside and inside of my lips with his fingers. As a part of him entered my mouth, his scent filled my entire body, and it felt as though my brain were melting into something soft.</p>
 
 <p>The sense of smell adapts quickly to repeated stimulation, numbing itself to the same scent. It was strange that, no matter how intense his fragrance was, it felt stronger now than when it had first struck me.</p>
 
 <p>But I couldn't think deeply about why. My mind felt completely steeped. Unable to think, unable to care about anything. Just as he had said, the stimulation was strong enough to numb everything—the hyperventilation from the living room, even the pain of resurfaced memories.</p>
 
-<p>Our hardened cocks ached beneath the pressure. Each time he pressed and rubbed against me, they bumped and slid past one another. Even in that misaligned friction, sparks flew.</p>
+<p>Both of us were so hard that the pressure almost hurt. Each time he rubbed and pressed against me, our erections pushed each other aside and slipped past one another. Even in that misaligned friction, sparks flew.</p>
 
 <p>"<em>Mmm</em>… <em>haa</em>…"</p>
 
-<p>After kissing his way across the back of my neck—parting his lips to rub the soft inner flesh against my skin, lightly biting and tugging with his teeth, then drawing in hard with sharp suction—he finally buried his nose and mouth completely and took a deep breath. In the dizzying sensation that his breath might pull my whole body inward, I swallowed the index finger that had been tracing between my teeth all the way in.</p>
+<p>After kissing his way around my neck—parting his lips to rub the soft inner flesh against my skin, lightly biting and tugging with his teeth, then drawing in hard with sharp suction—he finally buried his nose and mouth completely and took a deep breath. In the dizzying sensation that his breath might pull my whole body inward, I swallowed the index finger that had been tracing between my teeth all the way in.</p>
 
-<p>He was unusually tall for Korea. Considering the difference in our height, he had to be well over 190 centimeters. Naturally, his fingers were long and thick to match. Even though it felt as if I had taken him deep into my mouth, I had only managed two knuckles.</p>
+<p>He was unusually tall for Korea. Considering the difference in our height, he had to be well over 190 centimeters. Naturally, his fingers were long and thick to match. Even though it felt as if I had taken him deep into my mouth, I had only taken two joints’ worth of his finger.</p>
 
 <p>He raised his head and looked down at me, still sprawled over me as I sucked on his finger. His eyes were curious and serious, yet thick with lust.</p>
 
-<p>Gripping the base of his palm with both hands, I pursed my lips around his finger and pressed gently. Looking down at me with reddened eyes, he slowly pushed his middle finger into my mouth alongside the first. Only two fingers, yet with two knuckles inside, they were difficult to hold. He never took his eyes off me as I struggled with them, biting down and releasing again and again. His broad, thick shoulders swelled and fell heavily within my view.</p>
+<p>Gripping the heel of his hand with both hands, I pursed my lips around his finger and pressed gently. Looking down at me with reddened eyes, he slowly pushed his middle finger into my mouth alongside the first. Only two fingers, yet with two knuckles inside, they were difficult to hold. He never took his eyes off me as I struggled with them, biting down and releasing again and again. His broad, thick shoulders swelled and fell heavily within my view.</p>
 
-<p>His hand fumbled along my side and pulled down my pajamas and underwear. Pulling with only one hand made the pajamas slide crookedly. The moment my cock was exposed, shame finally struck me. I grabbed his hand with both of mine and pulled his fingers from my mouth. Still watching my lips, he parted his own with unmistakable reluctance. Each breath that came from him seemed like particles of scent.</p>
+<p>His hand fumbled along my side and pulled down my pajamas and underwear. Pulling with only one hand made the pajamas slide crookedly. The moment I was exposed, shame finally struck me. I grabbed his hand with both of mine and pulled his fingers from my mouth. Still watching my lips, he parted his own with unmistakable reluctance. Each breath that came from him seemed like particles of scent.</p>
 
 <p>I turned my head away and reached hurriedly for my pajamas, trying to escape his gaze. Even in the dim light, I could clearly see his erection, pressed against his lower abdomen, gleaming.</p>
 
@@ -747,7 +749,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Had I said something strange? The way he stopped moving entirely unsettled me.</p>
 
-<p>My cock, exposed for the first time to stimulation from another person, had leaked enough pre-cum to soak my underwear through. The wet fabric, the slickness between my legs—it all embarrassed me. Some fragile thread of reason still remained, stinging with shame at the fact that I had to expose myself to him like this.</p>
+<p>My erection, touched by another person for the first time, had leaked enough pre-ejaculate to soak my underwear through. The wet fabric, the slickness of my erection—it all embarrassed me. Some fragile thread of reason still felt ashamed at having to show him what was between my legs.</p>
 
 <p>When I tried once more to pull my pajamas back up, he firmly slapped my hand aside and pressed his lower body tightly against mine, leaving no room for my hand to slip between us. Covering me completely—from groin to lower abdomen to chest—he breathed roughly through his nose and pressed down with the full weight of his body.</p>
 
@@ -757,7 +759,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Turning his head, he rubbed his ear against my lips as he asked it. The movement of his hips against me was quickening. The fact that he was aroused only made me more so. Wrapping my arms around his head, I exhaled heated breath near his ear. He slid closer, and his lips brushed against my ear as well. With our mouths buried near each other's ears, chest pressed to chest, we revealed our excitement openly. My shame was fading into the distance again.</p>
 
-<p>"Tell me. What's happening down there with Seo Yeehyeon-ssi right now? What does it feel like?"</p>
+<p>"Tell me. How wet is Seo Yeehyeon-ssi down there right now? Tell me. How is it?"</p>
 
 <p>His damp voice made something inside me tingle. He had become the scent itself, pressing down on me. That fragrance stripped away all judgment. Tilting my head slightly, I exhaled an honest breath against his ear.</p>
 
@@ -765,7 +767,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"……"</p>
 
-<p>His shoulders stiffened for a moment. Then he let out a low curse and bit at my ear as though he might tear it off. His solid thighs thrust upward beneath me as if to lift my hips, while he rapidly stimulated me below.</p>
+<p>His shoulders stiffened for a moment. Then he let out a low curse and bit at my ear as though he might tear it off. His firm thigh drove upward as though it might slip beneath my buttocks, while he rapidly stimulated me below.</p>
 
 <p>"What got wet? Why are you wet?"</p>
 
@@ -779,7 +781,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"……"</p>
 
-<p>"Where is it so wet you've gotten like this? Hm? Tell me."</p>
+<p>"Where are you wet that it’s driving you this crazy? Hm? Tell me."</p>
 
 <p>I couldn't resist the urge to whisper that forbidden word into his ear. Tightening my arms around his neck, I brushed my lips against his ear.</p>
 
@@ -793,15 +795,15 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Even his whispered praise made my stomach tighten. I had said something vulgar and been praised for it. But just as he said, now that I had actually spoken it aloud, it no longer felt vulgar or shameful. There was even a strange sense of release. Merely hearing that word from me was enough to make him swell with excitement as he held me.</p>
 
-<p>Sliding his hand beneath the small of my back, he gripped my hips fully in his palm and shook them.</p>
+<p>Sliding his hand beneath the small of my back, he took a firm handful of my buttock and rocked it.</p>
 
 <p>"But I bet that's not the only place that's wet."</p>
 
 <p>"……"</p>
 
-<p>The hand gripping and twisting my hips slipped between my legs. His middle finger, buried between the soft flesh, found my entrance at once—as though he could see it.</p>
+<p>The hand gripping and twisting my buttocks slipped into the cleft. His middle finger, buried between the soft flesh, found my entrance at once—as though he could see it.</p>
 
-<p>"<em>Ah</em>— wait!"</p>
+<p>"Ah, not there!"</p>
 
 <p>His fingertip circled my entrance as though it might push inside at any moment, and I shoved at his neck, trying to lift my upper body.</p>
 
@@ -811,27 +813,29 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>As if reassuring me, he kissed the cheek beside my lips and pressed against me once more. His lips slid from my cheek to my ear, and again he poured a hot whisper into it.</p>
 
-<p>"Mine's the same. Slick all over."</p>
+<p>"Mine’s the same. It’s wet."</p>
 
-<p>He took my hand and guided it between our stomachs. Just as he said, he was completely slick. But more than that, I couldn't help being staggered by the sheer size of him. In my hand, he felt even more overwhelming than he had pressed against my body. Maybe it was a natural trait of a Golden Alpha. I didn't know much about the size of other people's bodies—especially erect ones—but I could tell that his, heated and pulsing now, existed beyond any ordinary frame of reference. My gaze dropped openly downward before I realized it. Smiling, he kissed my ear and brushed my damp hair back from my forehead.</p>
+<p>He took my hand and guided it between our stomachs. Just as he said, his erection was wet and slick. But I was even more startled by its sheer size. It felt bigger in my hand than I had guessed from the way it pressed against my lower abdomen and my own erection.</p>
 
-<p>"I like the way you look at it."</p>
+<p>Perhaps it was an inborn trait of a Golden Alpha. I didn’t know much about the size of other people’s erections—but I could tell that his, heated and pulsing now, existed beyond any ordinary frame of reference. My gaze dropped openly downward before I realized it. Smiling, he kissed my ear and brushed my damp hair back from my forehead.</p>
 
-<p>Shifting the body that had been covering mine completely, he eased us apart just enough to separate our pressed-together chests and stomachs and guided my hand deeper. My fingertips brushed against thick hair at the root. He was hot all the way to the base. The dim light and the shadow cast by his body kept me from seeing clearly, but the silhouette and feel alone were enough to tell me his weight and thickness.</p>
+<p>"I’d like it even more if you took a good look."</p>
 
-<p>It was erotic. For the first time in years, I found myself thinking that about another person's body. He seemed to embody every kind of sexuality in the world—something made for no other purpose but this.</p>
+<p>Shifting the body that had been covering mine completely, he eased us apart just enough to separate our pressed-together chests and stomachs and guided my hand deeper. My fingertips brushed against a thick growth of pubic hair. His penis was hot all the way to the base. The dim light and the shadow cast by his body kept me from seeing clearly, but the silhouette and feel alone were enough to tell me his weight and thickness.</p>
+
+<p>It was erotic. For the first time in years, I found myself thinking that about another person's body. His penis seemed to embody everything sexual in the world, a part of the body with no function but sex.</p>
 
 <p>A heavy shadow rose from his groin toward my lower abdomen. It wasn't only thick and long but rigid enough to hold its angle without drooping, even with him lying nearly on his side. Guided by his hand, I stroked him softly.</p>
 
 <p><em>"Mm…"</em></p>
 
-<p>As though savoring the touch, he let out a sweet sound behind closed lips. The bridge of his nose brushed my right cheek. Releasing my hand, he slid his fingers up along the inside of my thigh and wrapped them around my cock.</p>
+<p>As though savoring the touch, he let out a sweet sound behind closed lips. The tip of his high-bridged nose brushed my right cheek. Releasing my hand, he slid his fingers up along the inside of my thigh and wrapped them around my cock.</p>
 
-<p>He rubbed himself against my erection, flattened hard against my lower abdomen. <em>Ungh…</em> A strained sound escaped me too.</p>
+<p>I rubbed his penis against my own, which stood hard against my lower abdomen. <em>Ungh…</em> A strained sound escaped me too.</p>
 
-<p>"More."</p>
+<p>"Try doing it more."</p>
 
-<p>He kissed my temple and urged me on. I held him, he held me, and we worked the two together like crossed blades. He produced so much pre-cum that it slid over the back of my hand and dripped onto my stomach.</p>
+<p>He kissed my temple and urged me on. I held him, he held me, and we pressed our erections against each other like two crossed blades. He was producing so much pre-ejaculate that it slid over the back of my hand and dripped onto my stomach.</p>
 
 <p>Whether imagination or not, it felt as though a scent was vibrating up from between our legs. Not sweet, not subtle, not fragrant — something entirely different. A scent that stirred lust, ignited desire, and made the inside of my body boil. It pricked at my nerves like needles, weighed heavily between my legs, and sent a trembling sensation through my fingertips and toes.</p>
 
@@ -845,13 +849,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>I thought I was sinking, but my body was rising.</p>
 
-<p>He slipped an arm behind my back and lifted me. I found myself seated on his thighs while he knelt on the bed with his legs spread wide. His arm supported me without any effort from my waist. In truth, even if I had wanted to hold myself up, I couldn't have.</p>
+<p>He slipped an arm behind my back and lifted me. I found myself seated on his thighs while he knelt on the bed with his legs spread wide. His arms held me up without my having to use my waist at all. In truth, even if I had wanted to hold myself up, I couldn't have.</p>
 
-<p>My legs fell naturally open along his sides, our cocks trapped between our lower abdomens. One arm crossed diagonally behind my back while the other wrapped around my waist and gripped my hips. Using the strength of his lower body, he pushed me upward.</p>
+<p>My legs fell naturally open along his sides, our erections trapped between our lower abdomens. One arm crossed diagonally behind my back while the other wrapped around my waist and gripped my hips. Using the strength of his lower body, he pushed me upward.</p>
 
-<p>The arm pulling me close compressed us together; the lift of his thighs made us rub against each other. Whenever I started to sink back down, his hips drove me upward again. The intimacy—so much more vivid than when we had been rubbing together lying down—made me pull his head close, burying his face in my collarbone as he bit into it.</p>
+<p>The arm holding me close pressed our erections together; the force of his rising thighs made them rub against each other. Whenever I started to sink back down, his hips drove me upward again. The intimacy—so much more vivid than when we had been rubbing together lying down—made me clutch his head to me as he bit at my collarbone.</p>
 
-<p>Everything was completely different from masturbation. This wasn't the hollow cycle of arousal and release that ended in emptiness. This was friction against my cock, his lips and tongue wandering over my chest, the hand twisting and lifting my hips, fingers spread wide as they stroked slow circles.</p>
+<p>Everything was completely different from masturbation. This wasn't the hollow cycle of arousal and release that ended in emptiness. This was friction against my erection, his lips and tongue wandering over my chest, the hand twisting and lifting my hips, fingers spread wide as they stroked slow circles.</p>
 
 <p>He was awakening every single cell that made up my body, making each one tremble with sensitivity. A sharp, cramping ache formed in my lower abdomen. I was feeling everything with unbearable intensity.</p>
 
@@ -861,13 +865,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He had to have done something to me. How else could I explain the vulgar word I had whispered into his ear of my own accord, the impulse I had felt while holding him, or the strange way I was now rocking against his lower abdomen myself? I wanted to blame him.</p>
 
-<p>It felt as though I'd lost the ability to form complex sentences. Terrifyingly close to becoming a fool, my entire body was completely focused only on this—on him.</p>
+<p>Had I lost the ability to form complex sentences? Terrifyingly close to becoming a fool, my entire body was completely focused only on this—on him.</p>
 
 <p>He looked up at me with eyes stripped of their usual dryness, glistening with a feverish sheen, and simply bit lightly at my chin. He gave no answer.</p>
 
 <p>"It's not… perfume, is it?"</p>
 
-<p>Tightening his hold on me, he rolled his hips and rubbed us together. My legs had spread so wide that my groin was pressed flush against his body—closer than seemed possible. Just looking down at that contact and friction sent a heavy swell of climax gathering at the tip of my cock.</p>
+<p>Tightening his hold on me, he rolled his hips and rubbed us together. My legs had spread so wide that my groin was pressed flush against his body—closer than seemed possible. Just looking down at that contact and friction sent the weight of an approaching climax gathering at the tip of my erection.</p>
 
 <p>"This is strange… it feels strange."</p>
 
@@ -875,7 +879,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"If Seo Yeehyeon-ssi is a Beta… then this has to be perfume."</p>
 
-<p><em>Hngh— hnnngh— ah—</em></p>
+<p><em>Hngh— hnngh— ah—</em></p>
 
 <p>This time, he wrapped both arms tightly around my waist. Holding me fast, like fastening a seatbelt, he began to rock me rapidly, as if trying to wring every last drop of moisture from me.</p>
 
@@ -889,7 +893,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Reaching climax from nothing more than the force of his rocking and the pressure on my lower abdomen — without any direct touch — the confessions of pleasure I poured into his ear at that peak were unbelievable even to me.</p>
 
-<p>As I poured into his ear my arousal over his thick cock and the obscene sensation of all the slippery fluids we'd spilled together... and as I listened to the even more shameless whispers he breathed back in response... what I saw in that moment felt like heaven, and also like a hell seething with lust. Whatever it was, it was an extreme. Not a pleasure that belonged to any ordinary category.</p>
+<p>As I poured into his ear how aroused I was by his thick penis and the obscene sensation of all the slippery fluids we'd spilled together... and as I listened to the even more shameless whispers he breathed back in response... what I saw in that moment felt like heaven, and also like a hell seething with lust. Whatever it was, it was an extreme. Not a pleasure that belonged to any ordinary category.</p>
 
 <p>As if trying to wring out the very last drop, he stayed half-risen on his knees and continued to rock me. Invaded by scent and arousal, my body trembled with a pleasure so intense it was almost destructive.</p>
 
@@ -901,25 +905,25 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Whether I had blacked out or merely drifted to sleep for a while, I couldn't tell. When I jolted awake at the sensation of moisture against my skin, I found myself lying face down on the bed. A warm washcloth was pressed against my back.</p>
 
-<p>His still-hard cock swayed faintly in the dim light. Faced with the evidence that desire still lingered within him, the urge to touch it again stirred inside me. Fortunately—or perhaps unfortunately—I had no strength left at all. I couldn't move a finger, much less my lips to call out to him.</p>
+<p>His erection, still not subsided, stirred faintly in the dim light. Faced with the evidence that desire still lingered within him, the urge to touch it again stirred inside me. Fortunately—or perhaps unfortunately—I had no strength left at all. I couldn't move a finger, much less my lips to call out to him.</p>
 
 <p>I couldn't trust the accuracy of my memory, but it seemed he hadn't climaxed. Only after everything was over did I realize that from beginning to end, the entire encounter had revolved around me—done solely to comfort me.</p>
 
-<p>The hand that had been wiping the mingled fluids from the insides of my thighs as I lay face down suddenly stopped. The mattress tilted slightly, and the next moment a warm, damp palm gently stroked my buttock. The lingering arousal immediately flared to life again, but all I could do was let out a weak groan and curl up slightly. I still had no strength.</p>
+<p>He had moved to the foot of the bed to wipe the mingled fluids from the insides of my thighs as I lay face down, fluids I could no longer tell apart. His hand suddenly stopped. The mattress tilted slightly, and the next moment a warm, damp palm gently stroked my buttock. The lingering arousal immediately flared to life again, but all I could do was let out a weak groan and curl up slightly. I still had no strength.</p>
 
 <p>The hand kneading my buttock slid between my legs. Slightly firm fingertips, like those of a doctor performing an examination, carefully traced the valley where skin met skin, as though searching for the cause of some hidden symptom.</p>
 
 <p>"<em>Ungh... mm...</em>"</p>
 
-<p>The hand withdrew, and a moment later, lips touched me instead. My stiffened back writhed against the mattress. Turning my head while lying face down, I saw him pressed between my legs, his face buried against me. The sensation of his wet tongue licking around my hole made me bury my face back into the pillow.</p>
+<p>The hand withdrew, and a moment later, lips touched me instead. My stiffened body shifted against the mattress. Turning my head while lying face down, I saw him between my legs, his face buried against me. The sensation of his wet tongue circling my entrance made me bury my face back into the pillow.</p>
 
-<p>My body convulsed on its own. As if reassuring me that everything was fine, he patted the flesh a couple of times.</p>
+<p>My buttocks twitched on their own. As if to reassure me, he patted me there a couple of times.</p>
 
-<p>The tongue that had been moving cautiously, as though checking something, gradually became more deliberate, wetting my hole with unmistakable sexual intent. Like a persistent, unhurried courtship, it went on for a long time.</p>
+<p>His tongue had moved cautiously at first, as though checking something. Gradually, the touch grew more deliberate, wetting my opening with unmistakable sexual intent. It went on for a long time, like a persistent courtship.</p>
 
-<p>Extending his tongue, he rubbed firmly over it with the full surface of his tongue. Then he took the entrance into his mouth and sucked several times as though kissing it before finally lifting his face away.</p>
+<p>He extended his tongue and rubbed the flat of it firmly over the sensitive skin. Then he drew my entrance into his mouth and sucked several times, almost like a kiss, before finally lifting his face away.</p>
 
-<p>"This doesn't make sense... This just doesn't make sense."</p>
+<p>"This makes no sense… It really doesn’t."</p>
 
 <p>I couldn't be certain, but that was what it sounded like. <em>This doesn't make sense.</em> He muttered in a dazed voice while finishing the task of cleaning between my legs with the damp cloth.</p>
 
@@ -927,10 +931,14 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Someone dragged me mercilessly into sleep.</p>
 
-<div class="volume-end">
-
 <p><em>To be continued in Diamond Dust, Volume 2.</em></p>
-<p class="glossary-entry"><strong>Paddling</strong>: A surfing term. The act of lying prone on the board and using one's arms to move through the water, in order to reach a position to catch a wave.</p>
 
+<strong>Paddling</strong>: A surfing term. The act of lying prone on the board and using one's arms to move through the water, in order to reach a position to catch a wave.</p>
 </div>
-</div>
+<section class="translator-notes" aria-label="Translator notes">
+  <div class="translator-notes__heading">TRANSLATOR'S NOTE</div>
+  <ol class="translator-notes__list">
+    <li id="tn-chapter-06-1" class="translator-note"><span class="translator-note__number">1</span> <strong>Ms. Suki Kim</strong> — The Korean uses &quot;Suki Kim seonsaengnim&quot; (수키 김 선생님). Seonsaengnim literally means &quot;teacher,&quot; but can also be used as a respectful title for established professionals, mentors, or senior figures. Because &quot;Teacher Suki Kim&quot; would suggest something different in English, it has been adapted to &quot;Ms. Suki Kim&quot; here. <a class="translator-note__back" href="#tn-ref-chapter-06-1" aria-label="Return to note reference 1">↩ Back to text</a></li>
+  </ol>
+</section>
+

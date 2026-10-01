@@ -31,7 +31,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>This identity as an outsider — knowing that my real life existed separately somewhere else — actually provided the emotional foundation that allowed me to blend into this space without feeling uncomfortable. Perhaps that was what people called the charm of travel, or maybe the thrill of stepping outside the norm.</p>
 
-<p>Normally, after leaving Teacher Suki Kim's studio, I would have tried to process the shock by quietly secluding myself in my hotel room to replay the conversation and my feelings. But right now, I was suspending that process and following an impulse.</p>
+<p>Normally, after leaving Ms. Suki Kim's studio, I would have tried to process the shock by quietly secluding myself in my hotel room to replay the conversation and my feelings. But right now, I was suspending that process and following an impulse.</p>
 
 <p>I wanted to be wherever he was.</p>
 

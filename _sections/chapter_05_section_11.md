@@ -93,7 +93,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>The camera passed from hyung's hands to the Director's, and this time Juhan hyung picked up the reflector.</p>
 
-<p>"Can you sit on the ground over here? Stretch your legs out long. Yuni, can you set that mat down on the floor?"</p>
+<p>"Can you sit on the ground over here? Stretch your legs out long. Yuni-ya, can you set that mat down on the floor?"</p>
 
 <p>Gauging the light at the desired spot through the viewfinder, he pointed toward a mat tossed haphazardly on a prop box in the corner. Nuna and hyung, who had been somewhat tired from the extended shoot, regained their energy and moved swiftly at his request.</p>
 

@@ -13,7 +13,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 ---
 <p>The VIP opening was scheduled to begin at 3:00 PM.</p>
 
-<p>Yuni explained the later-than-expected opening time:</p>
+<p>Yuni-ssi explained the later-than-expected opening time:</p>
 
 <p>"Most of our gallery's main clients are big names in the fashion and entertainment industries. If we opened in the morning, no one would come. Most of those people don't start their day until around noon."</p>
 
@@ -23,7 +23,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>The two industries might overlap with each other, but their connection to fine art had never struck me as particularly deep. Perhaps the consumer base for art had diversified so much during the years I'd spent in that fishing village that galleries now ran on crowds like these.</p>
 
-<p>From a traditional perspective, Yuni and Juhan looked more convincing as models or designers than as gallery staff explaining the power and resilience of brushstrokes or the imagination conjured by negative space in a traditional East Asian painting.</p>
+<p>From a traditional perspective, Yuni-ssi and Juhan-ssi looked more convincing as models or designers than as gallery staff explaining the power and resilience of brushstrokes or the imagination conjured by negative space in a traditional East Asian painting.</p>
 
 <p>I had assumed they might dress more neatly — like typical curators — on a day dedicated to receiving VIP clients. That assumption was entirely wrong.</p>
 
@@ -33,7 +33,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Phantom seems to have a pretty relaxed dress code."</p>
 
-<p>Juhan, who had just set the stack of permanent exhibition pamphlets on the windowsill shelf and turned back, chuckled as though he'd been expecting the question.</p>
+<p>Juhan-ssi, who had just set the stack of permanent exhibition pamphlets on the windowsill shelf and turned back, chuckled as though he'd been expecting the question.</p>
 
 <p>"Our gallery?"</p>
 
@@ -43,13 +43,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"If that weren't the case, Kwon Juhan probably would have failed his interview."</p>
 
-<p>Yuni remarked as she passed by the table where we were working, having just returned from checking on the catering company's progress.</p>
+<p>Yuni-ssi remarked as she passed by the table where we were working, having just returned from checking on the catering company's progress.</p>
 
 <p>"And who was it that dragged someone to an interview they didn't want to attend?"</p>
 
-<p>Juhan turned around bristling, but couldn't draw any reaction from Yuni. Her phone, which had been ringing almost incessantly since I'd arrived that morning, started ringing again.</p>
+<p>Juhan-ssi turned around bristling, but couldn't draw any reaction from Yuni-ssi. Her phone, which had been ringing almost incessantly since I'd arrived that morning, started ringing again.</p>
 
-<p>Juhan quickly turned back and resumed putting pamphlets into plastic sleeves. He gave up fast.</p>
+<p>Juhan-ssi quickly turned back and resumed putting pamphlets into plastic sleeves. He gave up fast.</p>
 
 <p>"For us, it's genuinely great. We don't have to split ourselves into a work persona and an after-work persona, and the clothing expense allowance comes through reliably."</p>
 
@@ -61,7 +61,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Of the celebrities popular these days, I could only match a name to a face for maybe one or two people. But if I picked up a few names, I could at least bring them up with Morae nuna and Yeehan hyung later — decent enough material for our beer-time conversations.</p>
 
-<p>Still, I doubted anyone today would be more Alpha than that man from yesterday — Phantom's Director.</p>
+<p>Juhan-ssi had told me to expect celebrities and Alphas and Omegas at the party. Still, I doubted anyone today would be more Alpha than that man from yesterday — Phantom's Director.</p>
 
 <p>Even if he weren't an Alpha at all, even if he were just a Beta — to someone like me, an ordinary person — he was the very image of a Golden Alpha.</p>
 
@@ -77,29 +77,29 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>His personality didn't seem particularly agreeable. But I couldn't deny the natural curiosity that came with encountering something genuinely new, or the way my gaze kept being drawn back to him regardless.</p>
 
-<p>Whether the level of presence he carried was simply common among Alphas, or something rarer still — today's party would probably answer that.</p>
+<p>Whether the level of presence he carried was simply common among Alphas, or something rarer still — today’s party would probably answer that, as Juhan-ssi had said.</p>
 
-<p>After dropping off the bagged pamphlets at the temporary desk in the second-floor exhibition hall, I returned to the office to find the Teacher had arrived and was talking with Yuni. I approached with a smile, happy to see her, and she smiled back and lightly brushed my bangs aside.</p>
+<p>After dropping off the bagged pamphlets at the temporary desk in the second-floor exhibition hall, I returned to the office to find the Teacher had arrived and was talking with Yuni-ssi. I approached with a smile, happy to see her, and she smiled back and lightly brushed my bangs aside.</p>
 
 <p>"Where's the Director?"</p>
 
-<p>The Teacher asked Yuni.</p>
+<p>The Teacher asked Yuni-ssi.</p>
 
-<p>"He's having lunch with Inwu ssaem and coming straight here afterward."</p>
+<p>"He's having lunch with Inwu ssaem<sup class="tn-marker" id="tn-ref-chapter-02-section-04-1"><a href="#tn-chapter-02-section-04-1" aria-label="Translator note 1">1</a></sup> and coming straight here afterward."</p>
 
 <p>"Then we're practically ready. Ha... I honestly wasn't sure this insane schedule was actually achievable, but here we are. It even feels more relaxed than usual! Just adding one more person makes such a difference, doesn't it?"</p>
 
-<p>The Teacher draped an arm over my shoulder and looked to Yuni and Juhan for agreement that I'd been helpful in keeping things on track. Both of them responded as if they'd been waiting for exactly that question, strongly expressing how desperately the gallery needed more staff.</p>
+<p>The Teacher draped an arm over my shoulder and looked to Yuni-ssi and Juhan-ssi for agreement that I'd been helpful in keeping things on track. Both of them responded as if they'd been waiting for exactly that question, strongly expressing how desperately the gallery needed more staff.</p>
 
 <p>With only the upstairs catering setup left to finish, the 3:00 opening would be fine. We gathered around the table, each with a cup of coffee the Teacher had brought, to enjoy one last moment of ease before things got underway.</p>
 
-<p>"Yuni and Juhan will take turns with clients. There are times when clients have questions about the artwork and both the Director and I are unavailable. When it gets busy, there might even be moments where both Yuni and Juhan have to leave the desk unattended. Yeehyeon, all you need to do is hand out pamphlets at the desk."</p>
+<p>"Yuni and Juhan will take turns with clients. There are times when clients have questions about the artwork and both the Director and I are unavailable. When it gets busy, there might even be moments where both Yuni and Juhan have to leave the desk unattended. Yeehyeonie<sup class="tn-marker" id="tn-ref-chapter-02-section-04-2"><a href="#tn-chapter-02-section-04-2" aria-label="Translator note 2">2</a></sup>, all you need to do is hand out pamphlets at the desk."</p>
 
 <p>I wasn't shy — just unused to this kind of thing — so I figured I could manage that much somehow.</p>
 
 <p>"Smiling and being warm... will it be all right if I can't quite manage that?"</p>
 
-<p>"It's fine, it's fine. Yeehyeon, your expressionless face is actually charming — clients will probably like it even more. Don't worry about that..."</p>
+<p>"It's fine, it's fine. Yeehyeonie, your expressionless face is actually charming — clients will probably like it even more. Don't worry about that..."</p>
 
 <p>The Teacher's encouraging words — that my deadpan expression was charming, a claim I found hard to agree with — gradually trailed off and then stopped entirely. The smile slowly drained from her face until, in the end, it contorted into a full grimace, as though she'd just swallowed something bitter.</p>
 
@@ -109,31 +109,31 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"I think I left the book the <em>Monsieur A</em> Editor-in-Chief just published in the bathroom! I was holding onto it until this morning so I'd at least look like I'd read it. What is wrong with me, seriously?!"</p>
 
-<p>No sooner had she finished blaming herself than Yuni was already on her feet.</p>
+<p>No sooner had she finished blaming herself than Yuni-ssi was already on her feet.</p>
 
 <p>"I'll take a cab and go get it. Thirty minutes round trip, at most."</p>
 
-<p>"We can't do without it, Yuni. No matter how well I say I've read it, without the physical copy it won't work... That man will sulk over something like this for months."</p>
+<p>"We can't do without it, Yuni-ya. No matter how well I say I've read it, without the physical copy it won't work... That man will sulk over something like this for months."</p>
 
-<p>By the time the Teacher said that — in a near-panicked voice that was almost a shout — Yuni had already retrieved her wallet from her desk at the back of the office.</p>
+<p>By the time the Teacher said that — in a near-panicked voice that was almost a shout — Yuni-ssi had already retrieved her wallet from her desk at the back of the office.</p>
 
-<p>After a brief moment's hesitation, I stood up and gently caught Yuni's arm.</p>
+<p>After a brief moment's hesitation, I stood up and gently caught Yuni-ssi's arm.</p>
 
 <p>"I'll go."</p>
 
-<p>I glanced at Yuni, who paused, then checked the wall clock hanging by the window pillar. It was nearly 3:00.</p>
+<p>I glanced at Yuni-ssi, who paused, then checked the wall clock hanging by the window pillar. It was nearly 3:00.</p>
 
-<p>"Without you here, things grind to a halt. Nothing catastrophic will happen just because I step out for a bit. I'll go."</p>
+<p>"Without you here, Yuni-ssi, things grind to a halt. Nothing catastrophic will happen just because I step out for a bit. I'll go."</p>
 
 <p>"...Then I'll leave it to you."</p>
 
-<p>This was a different side of her from yesterday, when she'd given work instructions before we'd even properly introduced ourselves. She seemed reluctant to ask me — someone who was only here temporarily — to handle an unplanned task. I gave her the biggest smile I could, sensing her discomfort. I was beginning to understand what Juhan meant when he described the two of us as the shy type.</p>
+<p>This was a different side of her from yesterday, when she'd given work instructions before we'd even properly introduced ourselves. She seemed reluctant to ask me — someone who was only here temporarily — to handle an unplanned task. I gave her the biggest smile I could, sensing her discomfort. I was beginning to understand what Juhan-ssi meant when he described the two of us as the shy type.</p>
 
-<p>I got the book details sent to my phone and hurried out of the office. Behind me I could hear Yuni's light scolding and the Teacher's nearly tearful voice asking for forgiveness.</p>
+<p>I got the book details sent to my phone and hurried out of the office. Behind me I could hear Yuni-ssi's light scolding and the Teacher's nearly tearful voice asking for forgiveness.</p>
 
-<p>Just as Yuni had said, there was a large bookstore about a ten-minute taxi ride away. I'd visited it a few times in middle school with friends, using buying study guides as the excuse. The interior had changed considerably since then — probably a major renovation — but I didn't have time to marvel at the transformation.</p>
+<p>Just as Yuni-ssi had said, there was a large bookstore about a ten-minute taxi ride away. I'd visited it a few times in middle school with friends, using buying study guides as the excuse. The interior had changed considerably since then — probably a major renovation — but I didn't have time to marvel at the transformation.</p>
 
-<p>Finding the book wasn't difficult, but hailing a taxi for the return trip took some time — it was a Sunday afternoon in the city center. Only after receiving a message from Yuni saying the author hadn't arrived yet and there was still plenty of time could I finally exhale and lean back in my seat.</p>
+<p>Finding the book wasn't difficult, but hailing a taxi for the return trip took some time — it was a Sunday afternoon in the city center. Only after receiving a message from Yuni-ssi saying the author hadn't arrived yet and there was still plenty of time could I finally exhale and lean back in my seat.</p>
 
 <p>The road back to the gallery was more congested than the trip there. The narrow streets and alleys of the area were bustling with people out for a Sunday, packed with stylish cafés and restaurants on every side.</p>
 
@@ -223,15 +223,15 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>After leaving the book in the office, I hurried up to the second floor, where more than half of the fifty or so VIP guests who'd confirmed attendance had already arrived. Just as I'd been told, they were, at a glance, a decidedly glamorous crowd.</p>
 
-<p>A rather boisterous round of greetings was taking place centered around the Director and the passenger who'd just arrived. I could also see the Teacher and Yuni, each attending to small clusters of people.</p>
+<p>A rather boisterous round of greetings was taking place centered around the Director and the passenger who'd just arrived. I could also see the Teacher and Yuni-ssi, each attending to small clusters of people.</p>
 
-<p>Juhan was manning the temporary desk.</p>
+<p>Juhan-ssi was manning the temporary desk.</p>
 
 <p>"How did it go?"</p>
 
 <p>"I left it in Manager Han's bag in the office."</p>
 
-<p>Juhan widened his eyes for a moment and looked at me. Then he nudged me with his elbow and smiled.</p>
+<p>Juhan-ssi widened his eyes for a moment and looked at me. Then he nudged me with his elbow and smiled.</p>
 
 <p>"More meticulous than you look."</p>
 
@@ -241,23 +241,23 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"We invited about fifty VIPs, but each of them can bring two or three guests — potential new clients. It's not even 3:30 and we already have over thirty attendees. Today's off to a good start."</p>
 
-<p>That was Juhan's assessment after glancing at the attendance list.</p>
+<p>That was Juhan-ssi's assessment after glancing at the attendance list.</p>
 
 <p>In the hall just before the staircase, a long buffet table had been set up overlooking the first-floor lobby from behind a railing. Simple finger foods and desserts were arranged across floor-length tablecloths, floral arrangements tucked between the platters. Catering staff in uniform moved among the colorfully dressed guests, serving food and refilling champagne flutes.</p>
 
-<p>The party had a relaxed rather than stiff atmosphere, and even at the temporary desk where Juhan and I were stationed, drinks and a few light snacks had been set out for us.</p>
+<p>The party had a relaxed rather than stiff atmosphere, and even at the temporary desk where Juhan-ssi and I were stationed, drinks and a few light snacks had been set out for us.</p>
 
 <p>I picked up a water bottle with an unfamiliar label to quench my thirst first.</p>
 
 <p>"The people here right now account for over seventy percent of our gallery's revenue. But they're not the type who come because they have a genuine eye for art or because taking in a painting over a cup of tea is a highlight of their busy days."</p>
 
-<p>Chewing on a bite-sized sandwich, Juhan leaned a little closer to me.</p>
+<p>Chewing on a bite-sized sandwich, Juhan-ssi leaned a little closer to me.</p>
 
 <p>"See that person wearing the wide-brimmed hat? The one who just arrived."</p>
 
-<p>Following Juhan's gaze, I easily spotted a man ascending the second-floor stairs, accompanied by two people who looked like assistants.</p>
+<p>Following Juhan-ssi's gaze, I easily spotted a man ascending the second-floor stairs, accompanied by two people who looked like assistants.</p>
 
-<p>"That's the Editor-in-Chief who published the book you just bought."</p>
+<p>"That's the Editor-in-Chief who published the book Yeehyeon-ssi just bought."</p>
 
 <p>The man, who appeared to be in his mid-to-late forties, was on the shorter side, with a slightly fleshy, pale face and expressive features. He seemed fairly close to the Director — the two greeted each other with French-style cheek kisses.</p>
 
@@ -267,15 +267,15 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"It's a fashion magazine called <em>Monsieur A</em> — a subsidiary of a major corporation and part of a powerful company that publishes over ten different magazines. And that man isn't just an ordinary editor-in-chief. He's related to that group by marriage — distant, like a second cousin's connection, but not someone you can afford to ignore."</p>
 
-<p>Juhan swallowed the sandwich in his mouth, washing it down with champagne from his tall, slender glass.</p>
+<p>Juhan-ssi swallowed the sandwich in his mouth, washing it down with champagne from his tall, slender glass.</p>
 
 <p>Thanks to the guests busy exchanging greetings and being introduced to new people, the temporary desk was entirely deserted. Not a single person came to pick up a pamphlet.</p>
 
 <p>"We focus more on fashion, lifestyle, and luxury magazines than art publications. Honestly, the gallery market in Korea is already saturated. You don't need a license — anyone with money can open one — so the sheer number of galleries, big and small, is enormous. And plenty of them fold within a few years. On the surface it looks sophisticated, hanging paintings and talking about an artist's distinctive style or the message behind the work — but the competition is brutal. Walk in thinking you'll get a glamorous business card out of it because you have some money, and you'll get pushed out fast by people who are actually fighting for their lives. And you can never underestimate the established galleries. The market is small — barely room to squeeze in."</p>
 
-<p>Finishing his explanation, Juhan started coughing and thumped his chest, so I offered him my share of the champagne. He nodded gratefully, downed the glass in one go, and reached for a cookie.</p>
+<p>Finishing his explanation, Juhan-ssi started coughing and thumped his chest, so I offered him my share of the champagne. He nodded gratefully, downed the glass in one go, and reached for a cookie.</p>
 
-<p>Today his lip piercing and ear piercing were connected by a chain. It looked like it would be inconvenient for drinking and eating, but Juhan himself looked perfectly comfortable — as if he'd long since accepted it as part of his body.</p>
+<p>Today his lip piercing and ear piercing were connected by a chain. It looked like it would be inconvenient for drinking and eating, but Juhan-ssi himself looked perfectly comfortable — as if he'd long since accepted it as part of his body.</p>
 
 <p>"So our Director decided to go after people who'd never really spent money on art before."</p>
 
@@ -283,13 +283,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"This market is almost entirely built on social connections. It's not like going to whichever gallery has a painting you happen to like and buying it on the spot. Pulling clients away from galleries they already have existing relationships with is incredibly difficult — so the strategy was to target people who have money but haven't really spent any of it on art."</p>
 
-<p>Juhan made a circle with his thumb and index finger — the universal gesture for money.</p>
+<p>Juhan-ssi made a circle with his thumb and index finger — the universal gesture for money.</p>
 
 <p>"The result, as you can see, is a huge success. We even relocated to a building like this in Samcheong-dong."</p>
 
-<p>As if it were nothing — or perhaps with a hint of quiet pride — Juhan shrugged and popped the remaining crumbs of cookie into his mouth.</p>
+<p>As if it were nothing — or perhaps with a hint of quiet pride — Juhan-ssi shrugged and popped the remaining crumbs of cookie into his mouth.</p>
 
-<p>To be honest, I had vaguely assumed Phantom might be one of those galleries started with exactly the mentality Juhan had described: <em>I have money, I might as well get a fancy gallery-owner business card.</em></p>
+<p>To be honest, I had vaguely assumed Phantom might be one of those galleries started with exactly the mentality Juhan-ssi had described: <em>I have money, I might as well get a fancy gallery-owner business card.</em></p>
 
 <p>Not for any particular reason, but the Director of Phantom gave off the impression of someone born into enough money that striving for something had never been necessary. And in the way he moved through the room with clients, there was no trace of the desperate servility that real financial pressure leaves on a person.</p>
 
@@ -305,11 +305,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>The first person to approach the desk since I'd started my shift took a pamphlet — a woman wearing oversized sunglasses that covered half her face. Looking more closely, it wasn't that the sunglasses were large; her face was simply that small. I didn't recognize her, but she might have been an actress or singer.</p>
 
-<p>After she took her pamphlet and disappeared into the inner exhibition space, calling out someone's name with obvious delight at running into them, Juhan told me her name and mentioned she was a currently popular actress. Again, it was a name I'd never heard before.</p>
+<p>After she took her pamphlet and disappeared into the inner exhibition space, calling out someone's name with obvious delight at running into them, Juhan-ssi told me her name and mentioned she was a currently popular actress. Again, it was a name I'd never heard before.</p>
 
 <p>"Anyway, because of the Director's management style, he's considered a complete heretic or troublemaker in the art world — basically treated like Satan. They say a blue-eyed Golden Alpha charmed people with his pheromones and sold paintings, dragging the dignity of art down into the mud. One critic even spewed nonsense calling him a male prostitute who sells art with his body."</p>
 
-<p>Juhan, resuming the earlier thread of conversation, raised his fist into the air as though he might grab the critic who'd said such things by the collar. He still looked indignant just thinking about it.</p>
+<p>Juhan-ssi, resuming the earlier thread of conversation, raised his fist into the air as though he might grab the critic who'd said such things by the collar. He still looked indignant just thinking about it.</p>
 
 <p>Meanwhile, the very subject of this story stood surrounded by many people, smiling like a painting.</p>
 
@@ -343,25 +343,25 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Alphas and Omegas ultimately come down to reproductive biology — not really the kind of thing to get into here. Anyway, the Director isn't at a level where pheromones leak out involuntarily or where he's helpless against other people's. There are plenty of Betas who discriminate against Alphas and Omegas — calling them beasts who've surrendered their humanity to instinct — but a Golden Alpha can regulate even their own ruts through pheromone control, so there's no real basis for that criticism to begin with. And yet they still criticize. Willfully blind, every one of them. But listening to them go on about pheromones and dignity... honestly, I wonder who exactly is lecturing whom."</p>
 
-<p>The only Alpha I knew was Morae nuna, but she wasn't the type to discuss her identity in any detail. And I hadn't had enough interest in Alphas and Omegas to go looking for information on my own.</p>
+<p>The only Alpha I knew was Morae, but she wasn't the type to discuss her identity in any detail. And I hadn't had enough interest in Alphas and Omegas to go looking for information on my own.</p>
 
-<p>The things Juhan was saying — about Golden Alphas, about Phantom's Director — were probably already well-known in this industry. Whatever he chose to share was clearly just casual conversation at the level a temporary part-timer with no real stake in any of it might overhear. Yet more than half of it was information I simply hadn't known.</p>
+<p>The things Juhan-ssi was saying — about Golden Alphas, about Phantom's Director — were probably already well-known in this industry. Whatever he chose to share was clearly just casual conversation at the level a temporary part-timer with no real stake in any of it might overhear. Yet more than half of it was information I simply hadn't known.</p>
 
 <p>"It's impressive, isn't it? Being a Golden Alpha isn't just something you're born as — apparently, more than fifty percent of it is achieved through training. That means he's been consistently working to manage his instincts since puberty and built himself up to this level. He smiles as though everything comes naturally... but the tenacity behind that is anything but ordinary."</p>
 
-<p>Juhan took a sip of champagne, gaze fixed on the Director over the rim of his tilted glass.</p>
+<p>Juhan-ssi took a sip of champagne, gaze fixed on the Director over the rim of his tilted glass.</p>
 
-<p>Following Juhan's line of sight, the Director was still at the center of the group, holding the room as naturally as before.</p>
+<p>Following Juhan-ssi's line of sight, the man was still at the center of the group, holding the room as naturally as before.</p>
 
 <p>As host and owner, his smile was fair to everyone — but it carried a different temperature from an ordinary smile, warm enough to be misread as something more by those without immunity to it.</p>
 
 <p>In sharp contrast to the hostility he'd shown me, I tried to imagine this man — who responded to every guest with equal, sunlit kindness — privately driving himself through solitary inner training where no one could see. But the image wouldn't form.</p>
 
-<p>Right beside me, I heard Juhan crunch through another cookie.</p>
+<p>Right beside me, I heard Juhan-ssi crunch through another cookie.</p>
 
 <p>"But I like that kind of thing. Becoming ruthlessly determined to get what you want. Looking relaxed on the surface, but underneath — gritting your teeth and kicking furiously to get what you crave."</p>
 
-<p>Crunch, crunch. Juhan chewed his cookie with satisfaction and grinned.</p>
+<p>Crunch, crunch. Juhan-ssi chewed his cookie with satisfaction and grinned.</p>
 
 <p><em>Was it really like that?</em></p>
 
@@ -373,11 +373,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>I tried to imagine him making fierce, hidden efforts beneath the surface, but what surfaced instead was an image of him pedaling one of those swan-shaped paddleboats at an amusement park. Even that scene didn't suit him — but strangely, it was easier to picture.</p>
 
-<p>My meandering imagination was briefly interrupted by Yuni, who arrived at the desk nearly tripping over her high-heeled platform sandals.</p>
+<p>My meandering imagination was briefly interrupted by Yuni-ssi, who arrived at the desk nearly tripping over her high-heeled platform sandals.</p>
 
 <p>"Here. Two are sold out."</p>
 
-<p>She dropped a small notebook onto the desk with an utterly exhausted expression. Juhan brightened and snatched it up.</p>
+<p>She dropped a small notebook onto the desk with an utterly exhausted expression. Juhan-ssi brightened and snatched it up.</p>
 
 <p>"Already? You really are something. Want to switch?"</p>
 
@@ -385,13 +385,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Okay."</p>
 
-<p>Full of enthusiasm like a reserve player finally called off the bench, Juhan stepped out to the exhibition floor in Yuni's place.</p>
+<p>Full of enthusiasm like a reserve player finally called off the bench, Juhan-ssi stepped out to the exhibition floor in Yuni-ssi's place.</p>
 
-<p>It seemed Yuni had managed to sell two pieces after pushing herself through client after client until her facial muscles were on the verge of cramping. Since I'd worked with her on the captions the day before, I had a rough idea of the price range for the works on display here. Selling two such high-priced pieces in under an hour — Juhan was right, she was genuinely capable.</p>
+<p>It seemed Yuni-ssi had managed to sell two pieces after pushing herself through client after client until her facial muscles were on the verge of cramping. Since I'd worked with her on the captions the day before, I had a rough idea of the price range for the works on display here. Selling two such high-priced pieces in under an hour — Juhan-ssi was right, she was genuinely capable.</p>
 
 <p>"Should I get you something to drink?"</p>
 
-<p>As if she didn't even have the energy to reply, Yuni nodded while sitting in the chair behind the desk, tapping her leg.</p>
+<p>As if she didn't even have the energy to reply, Yuni-ssi nodded while sitting in the chair behind the desk, tapping her leg.</p>
 
 <p>"There's juice too — lots of kinds."</p>
 
@@ -403,9 +403,9 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Following her instructions, I poured champagne into the largest glass available and returned to the desk. About fifteen or sixteen steps away, the Teacher — who was attending to a client — raised her voice slightly in our direction. The entire exhibition hall was buzzing, so the tone didn't especially stand out.</p>
 
-<p>"Yuni, could you grab the Editor-in-Chief's book from my bag in the office?"</p>
+<p>"Yuni-ssi, could you grab the Editor-in-Chief's book from my bag in the office?"</p>
 
-<p>I stopped Yuni just as she was about to rise almost reflexively, and handed her the glass instead.</p>
+<p>I stopped Yuni-ssi just as she was about to rise almost reflexively, and handed her the glass instead.</p>
 
 <p>"I'll get it. I know exactly where it is."</p>
 
@@ -415,7 +415,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Fortunately, he hadn't noticed the copied homework. He'd even praised it.</p>
 
-<p>Yuni, who had drained half her champagne as if it were grape juice, looked up at me with wide eyes — just as Juhan had a moment ago.</p>
+<p>Yuni-ssi, who had drained half her champagne as if it were grape juice, looked up at me with wide eyes — just as Juhan-ssi had a moment ago.</p>
 
 <p>"You actually went and underlined it in the meantime?"</p>
 
@@ -425,7 +425,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"It's nothing much, but it's funny how delighted someone can get over something so small, isn't it? But that's how it is here. Even when we're selling paintings, sometimes it really just feels like we're handling people's feelings. Put nicely, it's a profession where salesmanship matters. To put it more bluntly, it's about flattery. Sometimes that makes me wonder a little."</p>
 
-<p>Yuni gave a wry smile as she watched the Editor-in-Chief move to another section with the Teacher to look at the recommended work.</p>
+<p>Yuni-ssi gave a wry smile as she watched the Editor-in-Chief move to another section with the Teacher to look at the recommended work.</p>
 
 <p>Before I could ask her more about that smile, she was called back to the exhibition floor. The social portion of the event was over, and it was time to promote the real stars of the day — the paintings.</p>
 
@@ -453,17 +453,17 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Since he hadn't made any direct proposition, I couldn't find a reason to react. He didn't seem to expect one, either.</p>
 
-<p>"I'd like Yeehyeon to recommend one piece. What do you think would be good? Something relaxing."</p>
+<p>"I'd like Yeehyeon-ssi to recommend one piece. What do you think would be good? Something relaxing."</p>
 
 <p>"I'm just a part-timer helping out for today..."</p>
 
 <p>"That's fine. Just recommend one. I'll only use it as a reference."</p>
 
-<p>The Director and Yuni were already occupied with clients. The Teacher and Juhan were nowhere to be seen — probably attending to guests in other sections. Though I was reluctant, since he'd asked knowing I was only a temporary helper, I didn't think any trouble would arise from complying.</p>
+<p>The Director and Yuni-ssi were already occupied with clients. The Teacher and Juhan-ssi were nowhere to be seen — probably attending to guests in other sections. Though I was reluctant, since he'd asked knowing I was only a temporary helper, I didn't think any trouble would arise from complying.</p>
 
 <p>"Where are you planning to hang it?"</p>
 
-<p>"Hmm... if it's something you recommend... then maybe the bedroom?"</p>
+<p>"Hmm... if it’s something Yeehyeon-ssi recommends... then maybe the bedroom?"</p>
 
 <p><em>What a textbook playboy line.</em> I looked at his easy, flirtatious expression — straight out of a TV drama — and stepped out from behind the desk.</p>
 
@@ -556,3 +556,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 <p>With a click of his tongue, the Director said that, then turned his back and returned to his original spot.</p>
 
 <p>As the passenger went on about knowing the best mandu-guk place in Seoul and wanting to make time for it sometime soon, I found myself wondering: <em>had I ever mentioned my age to him?</em></p>
+<section class="translator-notes" aria-label="Translator notes">
+  <div class="translator-notes__heading">TRANSLATOR'S NOTES</div>
+  <ol class="translator-notes__list">
+    <li id="tn-chapter-02-section-04-1" class="translator-note"><span class="translator-note__number">1</span> <strong>Inwu ssaem (인우 쌤)</strong> — Ssaem (쌤) is a casual, affectionate contraction of seonsaengnim (선생님), used here to show warmth and familiarity toward Inwu as a teacher and mentor. <a class="translator-note__back" href="#tn-ref-chapter-02-section-04-1" aria-label="Return to note reference 1">↩ Back to text</a></li>
+    <li id="tn-chapter-02-section-04-2" class="translator-note"><span class="translator-note__number">2</span> <strong>Yeehyeonie (이현이)</strong> — An affectionate nickname formed by attaching the endearing suffix -i directly to the full given name, often used by someone close to the person. Here, Yeehyeon&#x27;s former teacher uses it with the familiarity and fondness of someone who has known him since childhood. <a class="translator-note__back" href="#tn-ref-chapter-02-section-04-2" aria-label="Return to note reference 2">↩ Back to text</a></li>
+  </ol>
+</section>
+

@@ -103,11 +103,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>When I nodded, his eyes, fixed on me this time, calmed down a little. He scanned every corner of my face as if checking my safety, then muttered a low curse — the target of which I couldn't discern — and looked away.</p>
 
-<p>The works I saw afterward barely registered. My mind was entirely consumed with the thought of meeting Teacher Suki Kim.</p>
+<p>The works I saw afterward barely registered. My mind was entirely consumed with the thought of meeting Ms. Suki Kim.</p>
 
 <p>I had decided to come here because of his promise to arrange a meeting with her, but until this moment it hadn't felt real. Now, with the excitement finally settling into something tangible, I felt as though my feet were hovering an inch above the floor.</p>
 
-<p>He struck me as extraordinary all over again. Not just his ability to arrange a meeting with Teacher Suki Kim — but that tenacity, that commitment, to willingly endure such a bothersome process just to get me to paint. That steadfastness itself was astonishing.</p>
+<p>He struck me as extraordinary all over again. Not just his ability to arrange a meeting with Ms. Suki Kim — but that tenacity, that commitment, to willingly endure such a bothersome process just to get me to paint. That steadfastness itself was astonishing.</p>
 
 <p>He had confidence in me, a complete stranger — but it was a different kind of conviction than the confidence Yeehan hyung's grandfather had in hyung's life, or Mr. Lim had in Morae nuna's.</p>
 

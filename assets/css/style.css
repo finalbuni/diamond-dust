@@ -866,27 +866,87 @@ a:hover {
     margin-bottom: 0;
 }
 
-.chapter-content .translator-note {
-    margin: 2.8em 0;
-    padding: 1.2em 0;
+/* ==================================
+   Translator's Notes
+================================== */
 
-    border-top: 1px solid var(--border);
-    border-bottom: 1px solid var(--border);
-
-    color: var(--secondary-text);
+.tn-marker {
+    margin-left: 0.08em;
     font-family: var(--font-body);
-    font-size: 0.82em;
-    line-height: 1.72;
+    font-size: 0.58em;
+    font-weight: 600;
+    line-height: 0;
+    vertical-align: super;
+
+    scroll-margin-top: 28vh;
 }
 
-.translator-note-label {
-    display: block;
-    margin-bottom: 0.6em;
+.tn-marker a {
+    color: var(--accent);
+    text-decoration: none;
+}
+
+.tn-marker a:hover {
+    color: var(--accent-hover);
+}
+
+.translator-notes {
+    margin-top: 4.5em;
+    padding-top: 1.5em;
+    border-top: 1px solid var(--border);
+    font-family: var(--font-body);
+}
+
+.translator-notes__heading {
+    margin-bottom: 1.5em;
+
     color: var(--text);
-    font-size: 0.72em;
+    font-size: 0.68em;
     font-weight: 600;
     letter-spacing: 0.12em;
     text-transform: uppercase;
+}
+
+.translator-notes__list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.chapter-content .translator-note {
+    margin: 0;
+    padding: 0;
+
+    border: 0;
+
+    color: var(--secondary-text);
+    font-family: var(--font-body);
+    font-size: 0.78em;
+    line-height: 1.7;
+
+    scroll-margin-top: 140px;
+}
+
+.chapter-content .translator-note + .translator-note {
+    margin-top: 1.35em;
+}
+
+.chapter-content .translator-note strong {
+    color: var(--text);
+    font-weight: 600;
+}
+
+.translator-note__back {
+    display: inline-block;
+    margin-right: 0.35em;
+
+    color: var(--accent);
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.translator-note__back:hover {
+    color: var(--accent-hover);
 }
 
 .chapter-content .glossary-entry {
@@ -3377,7 +3437,45 @@ a:hover {
         transform: translateY(8px);
     }
 }
-\n\n/* ==================================\n   Sept 12 footer narrative + chapter-end rhythm\n================================== */\n\n.footer-conversation {\n    display: grid;\n    gap: 16px;\n}\n\n.footer-conversation p {\n    margin: 0;\n}\n\n.footer-conversation a {\n    color: var(--accent);\n    text-decoration: none;\n    text-underline-offset: 0.18em;\n}\n\n.footer-conversation a:hover {\n    color: var(--accent-hover);\n    text-decoration: underline;\n}\n\n/* The chapter navigation already has its own top breathing room.\n   Keep the handoff into the footer generous, but no longer cavernous. */\n.chapter-body .chapter-page {\n    padding-bottom: 72px;\n}\n\n@media (max-width: 760px) {\n    .chapter-body .chapter-page {\n        padding-bottom: 58px;\n    }\n\n    .footer-conversation {\n        gap: 14px;\n    }\n}\n
+/* ==================================
+   Sept 12 footer narrative + chapter-end rhythm
+================================== */
+
+.footer-conversation {
+    display: grid;
+    gap: 16px;
+}
+
+.footer-conversation p {
+    margin: 0;
+}
+
+.footer-conversation a {
+    color: var(--accent);
+    text-decoration: none;
+    text-underline-offset: 0.18em;
+}
+
+.footer-conversation a:hover {
+    color: var(--accent-hover);
+    text-decoration: underline;
+}
+
+/* The chapter navigation already has its own top breathing room.
+   Keep the handoff into the footer generous, but no longer cavernous. */
+.chapter-body .chapter-page {
+    padding-bottom: 72px;
+}
+
+@media (max-width: 760px) {
+    .chapter-body .chapter-page {
+        padding-bottom: 58px;
+    }
+
+    .footer-conversation {
+        gap: 14px;
+    }
+}
 /* Footer narrative: community first, optional support second */
 .footer-support-copy {
     margin-top: 2rem;

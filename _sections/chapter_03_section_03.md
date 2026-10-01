@@ -137,7 +137,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>I understood the concern about a precious person potentially living under the same roof as someone who wasn't family. It was, perhaps, a natural and reasonable worry. But as the person who had become the cause of that concern, it was hard to say the conversation felt particularly pleasant.</p>
 
-<p>"I know you're worried, but I've already thought everything through. I don't want Yeehyeon hearing this, so if you really don't want to see me get angry, let's stop."</p>
+<p>"I know you're worried, but I've already thought everything through. I don't want Yeehyeonie hearing this, so if you really don't want to see me get angry, let's stop."</p>
 
 <p>He stopped there for the moment. The topic shifted back to the artist named Shushu. The Director wanted to hold the exhibition as soon as possible, while the Teacher hesitated, saying the schedule was too tight. The conversation went on like that.</p>
 
@@ -165,9 +165,9 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>From over the Teacher's shoulder, the Director set down his cup and stood up from his seat.</p>
 
-<p>"Of course. The real power at Phantom is Manager Han." He picked up the summer jacket draped over the adjacent chair, checked the wristwatch beneath his rolled-up shirt sleeves, and quickly took another sip of coffee while standing.</p>
+<p>"Of course. The real power at Phantom is Manager Han. I’m heading out." He picked up the summer jacket draped over the adjacent chair, checked the wristwatch beneath his rolled-up shirt sleeves, and quickly took another sip of coffee while standing.</p>
 
-<p>"Kun, give Yeehyeon a ride on your way out."</p>
+<p>"Kun, give Yeehyeonie a ride on your way out."</p>
 
 <p>"Oh, no — I'm really fine."</p>
 
@@ -209,7 +209,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"I... these days, no."</p>
 
-<p>I had already known from Juhan hyung that the Director had asked the Teacher about me — but I didn't think she would have told him everything. The Teacher wasn't the type to casually reveal details about someone else's past beyond a certain point, and my current situation was closer to that of someone in hiding anyway.</p>
+<p>I had already known from Juhani hyung that the Director had asked the Teacher about me — but I didn't think she would have told him everything. The Teacher wasn't the type to casually reveal details about someone else's past beyond a certain point, and my current situation was closer to that of someone in hiding anyway.</p>
 
 <p>Was he asking me this out of politeness now? At our third meeting? He didn't seem like the type to go to such lengths just to avoid the awkwardness of a confined space.</p>
 
@@ -243,11 +243,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>It was a gaze that could not easily go unnoticed — yet he showed no discomfort and paid it no mind at all.</p>
 
-<p>What was I supposed to say? <em>"Yes, I understand. I won't do anything to Manager Han"?</em></p>
+<p>What was I supposed to say? <em>"Yes, I understand. I won't do anything to the Teacher"?</em></p>
 
 <p>Making a promise like that — about something I had never intended to do in the first place — felt strange. Such a promise would feel like an admission that I might have been a threat to the Teacher, and I didn't want that.</p>
 
-<p>It was already surprising enough that he knew my name. I had never imagined I would hear it from him in a context like this.</p>
+<p>It was surprising enough that he knew my age, and now my name. I had never imagined I would hear it from him in a context like this.</p>
 
 <p>Just as I pulled my gaze away from his calm, focused profile, his phone rang. He glanced down at the softly vibrating phone in the cupholder, checked the caller ID, clicked his tongue as if annoyed, and answered.</p>
 
@@ -277,17 +277,17 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"For me?"</p>
 
-<p>"Did you really act like this with Juhan hyung too?"</p>
+<p>"Did you really act like this with Juhani hyung too?"</p>
 
-<p>His brows furrowed, eyebrows drawing closer together. He looked as though he genuinely didn't understand what I was referring to. Maybe it's the kind of thing where the one who gets hit never forgets, but the one who hits easily does. Juhan hyung had apparently even contemplated scratching his car and running.</p>
+<p>His brows furrowed, eyebrows drawing closer together. He looked as though he genuinely didn't understand what I was referring to. Maybe it's the kind of thing where the one who gets hit never forgets, but the one who hits easily does. hyung had apparently even contemplated scratching his car and running.</p>
 
-<p>I could now perfectly understand what Juhan hyung had meant when he said he felt like this person would chase him to the ends of the earth for revenge. I had just received something very close to a threat from him — a man who, in that moment, looked exactly like the boss of a dark underworld.</p>
+<p>I could now perfectly understand what hyung had meant when he said he felt like this person would chase him to the ends of the earth for revenge. I had just received something very close to a threat from him — a man who, in that moment, looked exactly like the boss of a dark underworld.</p>
 
-<p>"Please don't worry about Manager Han."</p>
+<p>"Teacher... Please don't worry about Manager Han."</p>
 
 <p>He rested his left arm on the steering wheel and turned his upper body toward me, looking at me with the expression of someone who had been stopped on the road by a stranger and forced to listen to nonsense.</p>
 
-<p>"I like men."</p>
+<p>"I'm gay."</p>
 
 <p>I don't know why I said that. Men or otherwise — I'd never been in a relationship, never liked anyone.</p>
 

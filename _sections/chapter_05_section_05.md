@@ -12,6 +12,7 @@ permalink: /sections/chapter-05/5/
 excerpt_separator: "<!-- section-excerpt-end -->"
 ---
 {% capture excerpt %}
+
 <p>Eight months after <em>Body and Soul</em> — an exhibition that drew an enthusiastic response from visitors, critics, and industry media alike — Shushu now presents the <em>Body to Soul</em> series, solidifying his unique style while proving once again a deepened thematic consciousness.</p>
 
 <p>The <em>body</em> as a means of expressing the <em>soul</em>.</p>
@@ -41,6 +42,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 <p>And through his works I will awaken, if only briefly, to my own cowardice, and live on with that thin consolation of having defended the minimum of my humanity. Whatever anyone says, that is what art holds for me: placing us before immense things, so that we might contemplate the vague meaning of life hidden behind the ordinary continuity of days.</p>
 
 <p>As his dealer, collector, and ardent fan, I await the works he will show us with both excitement and anguish.</p>
+
 {% endcapture %}
 
 {% include excerpt.html content=excerpt %}

@@ -299,7 +299,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Empathy for <em>alienation</em>.</p>
 
-<p>That was the emotion I had felt in Teacher Suki Kim's critique.</p>
+<p>That was the emotion I had felt in Ms. Suki Kim's critique.</p>
 
 <p>Under two parents who maintained a good relationship and were understanding, I was supposed to be a perfectly happy child. Many people around me, even my friends, spoke as though that were my obligation.</p>
 

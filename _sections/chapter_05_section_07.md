@@ -105,7 +105,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"They're regulars — they brought us gifts from their recent trip to Hong Kong. Try one."</p>
 
-<p>After relaying the order to Yeehan hyung in the kitchen, she set a tin box on the table. When she opened the lid with the teddy bear illustration, it was full of butter cookies.</p>
+<p>After relaying the order to hyung in the kitchen, she set a tin box on the table. When she opened the lid with the teddy bear illustration, it was full of butter cookies.</p>
 
 <p>"Didn't your gallery mention a business trip to Hong Kong too? When was it again?"</p>
 

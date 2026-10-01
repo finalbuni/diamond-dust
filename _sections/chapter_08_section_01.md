@@ -13,9 +13,9 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 ---
 <!-- Chapter 8 — The Offer -->
 
-<p>I had assumed this dinner would be just the two of us—Manager Han and me—but parked along the curb of the two-lane road leading to the restaurant entrance was a white SUV with an elegant design reminiscent of a sleek sports car, its hazard lights blinking.</p>
+<p>I had assumed this dinner would be just the two of us-Manager Han and me-but parked along the curb of the two-lane road leading to the restaurant entrance was a white SUV with an elegant design reminiscent of a sleek sports car, its hazard lights blinking.</p>
 
-<p>The driver who got out to hand over his keys for valet parking was, unsurprisingly, him. The parking attendant who rushed to the driver's side instinctively looked up, startled by his height, before quickly averting his gaze — realizing he had been rude to a guest.</p>
+<p>The driver who got out to hand over his keys for valet parking was, unsurprisingly, him. The parking attendant who rushed to the driver's side instinctively looked up, startled by his height, before quickly averting their gaze — realizing they had been rude to a guest.</p>
 
 <p>Though it was a quiet stretch of road in a residential neighborhood just off the main road, his presence was distinctive enough to instantly draw the attention of everyone nearby — an older woman walking her dog, a foreign man with a baby carrier strapped to his front and a shopping bag in hand, a young couple who looked like they were on a weekend date... It wasn't just his height, which seemed to easily surpass 190 cm — a rarity in Korea.</p>
 
@@ -45,11 +45,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>As the fair date drew closer, a palpable tension settled over the gallery. Yet everyone at Phantom seemed to embrace it as excitement, and even I — someone with no direct involvement in the trip — could feel myself getting swept up in it.</p>
 
-<p>Given the circumstances, it was more than understandable that she'd forgotten to mention this was a company-wide Phantom dinner. She'd been so busy lately that I'd even found myself thinking I'd made the right decision moving nearby, simply because it meant I could help out whenever something came up.</p>
+<p>Given the circumstances, it was more than understandable that she'd forgotten to mention this was a company-wide Phantom dinner. She'd been so busy lately that I'd even found myself thinking I'd made the right decision moving in, simply because it meant I could help out whenever something came up.</p>
 
 <p>On the other hand, that was a relief.</p>
 
-<p>As busy as Manager Han was, he was probably just as busy. Which meant he likely didn't have the time to dwell on the incident where one of his employees had trouble breathing in his living room—or on what happened afterward, the sleeping arrangement I'd chosen to think of as little more than emergency first aid.</p>
+<p>As busy as Manager Han was, he was probably just as busy. Which meant he likely didn't have the time to dwell on the incident where one of his employees had trouble breathing in his living room—or on what happened afterward, the sexual encounter that had been like emergency first aid.</p>
 
 <p>But sometimes, everything that happened that night felt like a dream—the kind you have after dozing off on a sunlit sofa for just a few minutes. The clock says only five minutes have passed, yet it feels as though you've dreamed an entire story spanning years.</p>
 
@@ -57,7 +57,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>It wasn't that I wanted to complain about him not paying attention to me.</p>
 
-<p>Just as he had once isolated me within his sphere of influence with nothing more than a shift in expression and demeanor, he now seemed to be treating me without any trace of the familiarity we'd built up, however shallow it might have been. Compared to the man who had given me porridge that night, lent me his sweatshirt, and indulged my insistence that he stay — however unlike him it was — he felt like an entirely different person.</p>
+<p>Just as he had once isolated me within his sphere of influence with nothing more than a shift in expression and demeanor, he now seemed to be treating me without any trace of the familiarity we'd built up, however shallow it might have been. Compared to the man who had given me porridge that night, lent me his sweatshirt, and indulged my insistence that he stay — however unlike me it was — he felt like an entirely different person.</p>
 
 <p>A first sexual experience would be an intense memory for anyone. Not just for me. Not simply because I had feelings for him.</p>
 
@@ -83,9 +83,9 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"You know how much Juhan eats and you're still saying that? He eats like a kid who hasn't seen food in days. Yuni's a little picky, but she eats a perfectly normal amount. What can they do if they're just built that way?"</p>
 
-<p>It surprised me that they had arranged a meal like this with my collapse still in mind, but it probably wasn't a kindness reserved specifically for me. More likely, it was simply an extension of the care they already showed Juhan hyung and Yuni nuna, with me included by default. I wanted to hide the part of myself that felt disappointed by that. Wanting to be special compared to everyone else — that wasn't like me.</p>
+<p>It surprised me that he had arranged a meal like this with my collapse still in mind, but it probably wasn't a kindness reserved specifically for me. More likely, it was simply an extension of the care he already showed Juhani hyung and Yuni nuna, with me included by default. I wanted to hide the part of myself that felt disappointed by that. Wanting to be special compared to everyone else — that wasn't like me.</p>
 
-<p>"Juhan hyung and Yuni nuna are running late... Should I call them?"</p>
+<p>"Juhani hyung and Yuni nuna are running late... Should I call them?"</p>
 
 <p>"......"</p>
 
@@ -97,7 +97,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Even while waiting for the food, the two of them had work to discuss, and I felt like an elementary school kid stuck among adults at a holiday gathering with not a single cousin my age in sight.</p>
 
-<p>Manager Han argued that artist Shushu's work resonated more strongly in Korea than overseas, and that they should push a different artist as the centerpiece of this art fair. He didn't openly disagree, but neither did he seem inclined to let it go unchallenged.</p>
+<p>Manager Han argued that Artist Shushu's work resonated more strongly in Korea than overseas, and that they should push a different artist as the centerpiece of this art fair. He didn't openly disagree, but neither did he seem inclined to let it go unchallenged.</p>
 
 <p>Meanwhile, grilled eel with garlic and braised short ribs were placed in the center of the table for sharing, and a nourishing soup filled with abalone and octopus was set before each of us. Served in thick earthenware pots with wide openings, the soup carried the faint medicinal scent of jujubes and ginseng.</p>
 
@@ -113,7 +113,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Just when I thought I'd done my best and set down my spoon, Manager Han laughed and pointed into my pot. Floating among the remnants of the abalone and octopus I'd carefully picked out were the jujubes and ginseng. He was smiling at me too.</p>
 
-<p>At least his expression was no longer as indifferent as it had seemed at first. Still, heat rushed to my face — because sure enough, as Manager Han had just pointed out, I'd behaved exactly like a kid.</p>
+<p>At least his expression was no longer as indifferent as it had seemed at first. Still, heat rushed to my face — because sure enough, as had just been pointed out, I'd behaved exactly like a kid.</p>
 
 <p><em>"Do you really want to do that with someone ten years younger than you?"</em></p>
 
@@ -167,11 +167,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"I've taken the long way around, but what I'm saying is this: I expect you, Seo Yeehyeon-ssi, to become that kind of artist."</p>
 
-<p>I hadn't asked a single question, yet he kept watching me with persistence, as though waiting for an answer — or perhaps simply measuring my reaction. Either way, all of this was far too sudden.</p>
+<p>He hadn't asked a single question, yet he kept watching me with persistence, as though waiting for an answer — or perhaps simply measuring my reaction. Either way, all of this was far too sudden.</p>
 
 <p>I used to paint. There had been a time when painting was my language. But even then, I'd never once imagined where my work might fit within the "art market" he was describing now.</p>
 
-<p>Having observed me as long as he wanted, he unfolded the triangle he'd made with his fingers, leaned back in his chair, and settled in.</p>
+<p>As though he had observed me as long as he wanted, he unfolded the triangle he'd made with his fingers, leaned back in his chair, and settled in.</p>
 
 <p>"Now Manager Han will explain the same thing in a way you'll find more appealing."</p>
 
@@ -179,7 +179,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>There was no malice in what he'd said. It was a difference in perspective, nothing more. He was speaking as a gallery owner and dealer whose job was to sell paintings, and there was nothing unethical about that. Realistically, if he couldn't sell art, some artists might no longer be able to paint.</p>
 
-<p>Lightly patting my clenched hand as if to offer encouragement, Teacher spoke in a careful, gentle voice.</p>
+<p>Lightly patting the back of my hand as if to offer encouragement, Teacher spoke in a careful, gentle voice.</p>
 
 <p>"Director Liu may sound as though he's speaking purely from a business standpoint, but please take it as a sign of how much potential he sees in you. For all the things he says, he's not the kind of person who throws himself headfirst into a lost cause."</p>
 
@@ -187,17 +187,17 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Teacher was right. He wasn't someone who invested in things he believed had no chance of succeeding. But no matter how perfect someone appeared — even a top-tier Golden Alpha — he was still human. And it seemed his judgment had failed him this time. Why me?</p>
 
-<p>"Director Liu owns that painting you did years ago, doesn't he? The one that won the contest."</p>
+<p>"Director Liu owns that painting you did years ago, doesn't he? The one that won a prize in the contest."</p>
 
 <p>"......"</p>
 
 <p>Slowly, I raised my head and turned toward Teacher.</p>
 
-<p>By then, she had already left Korea. She must have heard about the award through her sister, who was friends with my mother. There was no way she could know what that painting truly meant to me. Even so, tension wound through me. My throat was so dry it stung.</p>
+<p>By then, she had already left Korea. She must have heard about the award through her older sister, who was friends with my mother. There was no way she could know what that painting truly meant to me. Even so, tension wound through me. My throat was so dry it stung.</p>
 
 <p>How much had he told Teacher? After I'd confessed the painting was mine, I'd reacted like I'd seen a ghost — stopped breathing, then passed out cold. Had he asked her whether she knew anything about that?</p>
 
-<p>I looked at him, certain that curiosity — or perhaps anxiety — was written plainly across my face. Bold of me, but he just stood there with his arms crossed, looking back, and offered nothing. Not a single hint.</p>
+<p>I looked at him, certain that curiosity — or perhaps anxiety — was written plainly across my face. Bold of me, but he just looked back with his arms crossed, and offered nothing. Not a single hint.</p>
 
 <p>"It's a piece Director Liu has kept in his collection for a long time. I found it very impressive myself. I just didn't know it was yours."</p>
 
@@ -261,7 +261,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Thank you for being so honest with us. We weren't expecting a positive answer today, either. It's a sudden offer. No one's going to change their mind on the spot. Especially not if you've already spent a long time sorting out your feelings about painting in your own way."</p>
 
-<p>Teacher had been gently patting the back of my hand. Now she clasped both of my hands firmly in hers.</p>
+<p>Teacher had been gently patting the back of my hand. Now she clasped my hand firmly in both of hers.</p>
 
 <p>"But Yeehyeon-ah... what if you tried painting again? When Director Liu first brought it up..."</p>
 
@@ -309,7 +309,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"How is it? You would've regretted not trying it, right?"</p>
 
-<p>He leaned toward me and asked with a serious expression, as though his thoughts on the yakgwa now mattered more than any painting.</p>
+<p>He leaned toward me and asked with a serious expression, as though my thoughts on the yakgwa now mattered more than any painting.</p>
 
 <p>There was nothing distinctly Eastern in his light grayish-blue eyes or in the sharp three-dimensionality of his features. Only his black hair seemed to quietly, yet stubbornly, assert the fact that he was, as he himself put it, half Korean.</p>
 
