@@ -441,7 +441,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>As for what had actually been said, I had no idea.</p>
 
-<p>"Hey, Mister<sup class="tn-marker" id="tn-ref-chapter-07-1"><a href="#tn-chapter-07-1" aria-label="Translator note 1">1</a></sup> Liu. What are you worried about? Pheromones are useless on a Beta. What's gotten into you? Is this some kind of early-stage manifestation? You act like nothing's impossible if you have pheromones—like people will just rip their clothes off and come running the moment you step outside."</p>
+<p>"Hey, Mr.<sup class="tn-marker" id="tn-ref-chapter-07-1"><a href="#tn-chapter-07-1" aria-label="Translator note 1">1</a></sup> Liu. What are you worried about? Pheromones are useless on a Beta. What's gotten into you? Is this some kind of early-stage manifestation? You act like nothing's impossible if you have pheromones—like people will just rip their clothes off and come running the moment you step outside."</p>
 
 <p>As soon as hyung emptied his glass, a staff member appeared from nowhere, lifted the wine bottle from the iron basket on the table, and quietly refilled it.</p>
 
@@ -736,7 +736,7 @@ Beta. Pheromones.
 <section class="translator-notes" aria-label="Translator notes">
   <div class="translator-notes__heading">TRANSLATOR'S NOTE</div>
   <ol class="translator-notes__list">
-    <li id="tn-chapter-07-1" class="translator-note"><span class="translator-note__number">1</span> <strong>Mister (미스터)</strong> — Mister (미스터, miseuteo) is the English title transliterated into Korean. Here, it&#x27;s used for dramatic, sarcastic, or teasing effect rather than as a standard respectful title. Liu would ordinarily be addressed as Liu-ssi. <a class="translator-note__back" href="#tn-ref-chapter-07-1" aria-label="Return to note reference 1">↩ Back to text</a></li>
+    <li id="tn-chapter-07-1" class="translator-note"><span class="translator-note__number">1</span> <strong>Mr. (미스터)</strong> — The Korean uses 미스터 (miseuteo), a transliteration of the English title &quot;Mister.&quot; Here, it&#x27;s used for dramatic, sarcastic, or teasing effect rather than as a standard respectful title. It is rendered as &quot;Mr.&quot; in English. <a class="translator-note__back" href="#tn-ref-chapter-07-1" aria-label="Return to note reference 1">↩ Back to text</a></li>
   </ol>
 </section>
 

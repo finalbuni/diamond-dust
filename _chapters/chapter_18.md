@@ -75,7 +75,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Back then, I had no idea I would officially start working at Phantom, let alone become one of Phantom's resident artists and start painting again.</p>
 
-<p>I met Suki Kim, and then Morae nuna and Yeehan hyung left Korea. I started liking someone, and pushed myself into a relationship that was complicated to define.</p>
+<p>I met Ms. Suki Kim, and then Morae nuna and Yeehan hyung left Korea. I started liking someone, and pushed myself into a relationship that was complicated to define.</p>
 
 <p>Only early spring to midsummer — and yet it struck me freshly how much had changed.</p>
 
@@ -611,7 +611,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>As he had described, even Seoul's luxury hotels were now trending toward refreshing their image — trendier interiors, menus aimed at younger guests, psychological accessibility. Opening the door and stepping in, the atmosphere felt more approachable than expected. At least, the cold aloofness typical of hotel restaurants wasn't there. Perhaps being with him also made it feel more comfortable.</p>
 
-<p>"Liu-ssi, thank you for visiting. We've been expecting you."</p>
+<p>"Mr. Liu, thank you for visiting. We've been expecting you."</p>
 
 <p>A staff member with a pleasant smile approached immediately. As at the many other restaurants I had visited with him, here too he was received not as an unfamiliar stranger but as an important guest.</p>
 

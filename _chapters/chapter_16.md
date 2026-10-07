@@ -1433,7 +1433,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Shushu's work will certainly sell out, but this is also a good opportunity to promote the other artists. Plan the concept well. The execution of an exhibition matters more than the artwork itself — more than half of it."</p>
 
-<p>Just as he had in front of Suki Kim, he maintained a confident stance regarding Shushu's sales. He also didn't seem overly worried about the joint exhibition. The problem was Yuni nuna.</p>
+<p>Just as he had in front of Ms. Suki Kim, he maintained a confident stance regarding Shushu's sales. He also didn't seem overly worried about the joint exhibition. The problem was Yuni nuna.</p>
 
 <p>"Sigh... but can I really handle the Chicago business trip properly? Shushu is still having panic attacks, isn't he?"</p>
 

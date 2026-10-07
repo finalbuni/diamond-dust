@@ -41,7 +41,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"You must have been put in a difficult position having to attend so suddenly — of course I had to prepare something for you."</p>
 
-<p>When I returned to the hotel after the final day of the fair, there was a suit hanging in my closet. A hotel employee had come directly to my room to deliver it, saying the Director had prepared it for me to wear to the party. It was the first suit I had ever worn in my life.</p>
+<p>When I returned to the hotel after the final day of the fair, there was a suit hanging in my closet. A hotel employee had come directly to my room to deliver it, saying Mr. Liu had prepared it for me to wear to the party. It was the first suit I had ever worn in my life.</p>
 
 <p>Juhan hyung had let out an almost envious screech when he recognized the brand — apparently coveted even among the most fashion-conscious — but the design felt too fashionable compared to the ordinary suits I knew, and I lacked the confidence to pull it off. It just felt awkward.</p>
 
