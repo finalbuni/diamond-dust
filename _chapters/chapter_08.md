@@ -339,7 +339,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>I tilted my umbrella slightly to shield myself from the headlights of the car pulling up close to the curb as I thanked him.</p>
 
-<p>"I'll walk for a bit to… sort out my thoughts, then take the bus home, so please don't worry about what Manager said. Well then..."</p>
+<p>"I'll walk for a bit to… sort out my thoughts, then take the bus home, so please don't worry about what Manager Han said. Well then..."</p>
 
 <p>I couldn't see his expression clearly because the umbrella blocked my view. It wasn't entirely unintentional that I avoided looking at him. I stepped away from his black lace-up shoes — which suited his more casual Saturday evening attire — and walked past him toward the uphill road the foreign man had just come down.</p>
 
