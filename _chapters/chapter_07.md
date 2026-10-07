@@ -417,7 +417,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p><em>Can I come over there? Where is it?</em></p>
 
-<p>At the very least, I had expected something like that. Or perhaps another warning about Inwu hyung, like the one he'd given at the Manager's dining table — that he wasn't exactly the best person to get involved with romantically.</p>
+<p>At the very least, I had expected something like that. Or perhaps another warning about Inwu hyung, like the one he'd given at Manager Han's dining table — that he wasn't exactly the best person to get involved with romantically.</p>
 
 <p>Maybe I was being self-conscious, but there had been a tension in his silence that made me think he was working up to something along those lines.</p>
 

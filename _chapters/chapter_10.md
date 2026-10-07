@@ -275,7 +275,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>The location, however, was quite good. It wasn't far from the experimental large-scale sculpture installed in the center, and there was ample space between us and the booth across the aisle.</p>
 
-<p>The manager and he were walking side by side down that corridor. They were such a captivating pair that my gaze followed their movements even knowing it might look foolish.</p>
+<p>Manager Han and he were walking side by side down that corridor. They were such a captivating pair that my gaze followed their movements even knowing it might look foolish.</p>
 
 <p>I recalled Juhani hyung's exaggerated comment from some time ago — that seeing Artist Shushu in person had nearly made him want to bow. It wasn't quite that level of shock, but it certainly wasn't everyday beauty either. Not enough to prostrate myself, but I couldn't tear my eyes away from the magnetic pull they exerted.</p>
 
@@ -283,9 +283,9 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>They were the definition of the high-society Alphas I had never had cause to encounter back in that small fishing village.</p>
 
-<p>"Manager, you look incredible! You're really radiating that Alpha energy after so long!"</p>
+<p>"Manager Han, you look incredible! You're really radiating that Alpha energy after so long!"</p>
 
-<p>Apparently I wasn't the only one thinking that, because Juhani hyung ran ahead to the booth and caused a commotion, hugging the manager.</p>
+<p>Apparently I wasn't the only one thinking that, because Juhani hyung ran ahead to the booth and caused a commotion, hugging Manager Han.</p>
 
 <p>"What do you mean, 'after so long'? What am I like usually? Huh?"</p>
 
@@ -295,7 +295,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Well, that's true. There is something to suddenly putting on a suit when you usually walk around in a T-shirt and ripped jeans."</p>
 
-<p>Still holding the back of hyung's neck, the manager draped an arm over his shoulder and surveyed the completed display behind us, eyes widening.</p>
+<p>Still holding the back of hyung's neck, Manager Han draped an arm over his shoulder and surveyed the completed display behind us, eyes widening.</p>
 
 <p>"Hey… look at what our crew can do. I really didn't expect them to finish in just three hours. Maybe we can increase the number of pieces for the next fair?"</p>
 

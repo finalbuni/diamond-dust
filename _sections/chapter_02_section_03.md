@@ -23,7 +23,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>The staircase was elegant and wide, made of a material that was nearly white — almost the color of pale ash. Each step felt too delicate to land on carelessly.</p>
 
-<p>"Manager! Artist Yoon-nim<sup class="tn-marker" id="tn-ref-chapter-02-section-03-1"><a href="#tn-chapter-02-section-03-1" aria-label="Translator note 1">1</a></sup> is currently..."</p>
+<p>"Manager Han! Artist Yoon-nim<sup class="tn-marker" id="tn-ref-chapter-02-section-03-1"><a href="#tn-chapter-02-section-03-1" aria-label="Translator note 1">1</a></sup> is currently..."</p>
 
 <p>"I'll handle Artist Yoon from here. Here — the present I brought."</p>
 
