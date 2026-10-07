@@ -15,25 +15,25 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>It was a famous song, famous enough that even I knew it. Prince's "Kiss."</p>
 
-<p>Yuni nuna, sitting in the passenger seat, and Juhan hyung, sitting next to me in the back, were singing along at the top of their lungs, practically screaming.</p>
+<p>Yuni nuna, sitting in the passenger seat, and Juhani hyung, sitting next to me in the back, were singing along at the top of their lungs, practically screaming.</p>
 
 <p>"Smooch, smooch, smooch, smooch, smooch. Kiss!"</p>
 
 <p>After belting out the rather explicit lyrics with everything they had, the two of them mimicked kissing sounds into the air in time with the sound effect at the end of the first verse. I couldn't help laughing at how perfectly synchronized they were, as if they'd rehearsed it. It was the kind of harmony that could only exist between people who had shared tastes for a long, long time.</p>
 
-<p>He was visible in the rearview mirror from the driver's seat — smiling and shaking his head as if he couldn't help himself. Maybe it was my imagination, but I thought our eyes met in the mirror. I couldn't be certain since he was wearing sunglasses, but the moment felt oddly awkward. I pretended to brush my windblown hair aside and looked away.</p>
+<p>He was visible in the rearview mirror from the driver's seat — smiling and shaking his head as if those two were hopeless. Maybe it was my imagination, but I thought our eyes met in the mirror. I couldn't be certain since he was wearing sunglasses, but the moment felt oddly awkward. I pretended to brush my windblown hair aside and looked away.</p>
 
 <p>Having left the airport, passed through the glamorous luxury streets and underground tunnels of Tsim Sha Tsui, and entered Hong Kong Island, we were now driving along an elevated road. To our right, modern skyscrapers coexisted with older buildings; to our left, Victoria Harbour offered a view across to Tsim Sha Tsui.</p>
 
 <p>The car was a deep blue — the color of a lake with great depth — a cabriolet, convertible, or in more common terms, an open-top car. I had no idea who had left it waiting at the arrivals gate, but it was definitely not a rental. He had taken the key directly from his own key wallet.</p>
 
-<p>When they spotted the waiting car, Yuni nuna and Juhan hyung had screamed and run toward it, as boisterous as if reuniting with long-lost family. Whether the car had been specially prepared for the two of them or not, an unmistakable smile crossed the Director's face as he watched them.</p>
+<p>When they spotted the waiting car, Yuni nuna and Juhani hyung had screamed and run toward it, as boisterous as if reuniting with long-lost family. Whether the car had been specially prepared for the two of them or not, an unmistakable smile crossed the Director's face as he watched them.</p>
 
 <p>He was a kind boss to his employees. I had known that much even during his initial hostility toward me. He wasn't a person fundamentally lacking in warmth — not someone who was simply cold toward everyone.</p>
 
 <p>However, that kindness wasn't open to everyone equally. To be included, one had to spend time proving oneself to him. Proving they were worthy of receiving his warmth.</p>
 
-<p>I wasn't sure how he was coming to define me. His attitude had softened since the beginning, and he'd made the unexpected decision to let me join Phantom. The kindness of giving me his jacket and the sweatshirt off his back. And the occasional gaze he directed my way — warm, with a certain weight to it — led me to guess that at least he no longer viewed me with the same wariness as before.</p>
+<p>I wasn't sure how he was coming to define me. His attitude had softened since the beginning, and he'd made the unexpected decision to let me join Phantom. The kindness of serving me porridge and the sweatshirt off his back. And the occasional gaze he directed my way — warm, with a certain weight to it — led me to guess that at least he no longer viewed me with the same wariness as before.</p>
 
 <p>While pretending to watch the Hong Kong scenery approaching through the windshield and stealing glances at the back of his head as he drove, I was lost in these thoughts as "Kiss" drew to a close.</p>
 
@@ -41,7 +41,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Yuni nuna turned down the volume and exclaimed with a look of relief, like someone who had finally vented at a karaoke room after far too long.</p>
 
-<p>"Hey… doesn't that sting, coming from someone the boss is listening to?"</p>
+<p>"Hey… that's a little hurtful for the boss listening to you, isn't it?"</p>
 
 <p>"Why would it sting? It's a compliment. Do you think bosses who can take you for rides in cars like this are common? Even if they exist, they wouldn't do it."</p>
 
@@ -55,21 +55,21 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"The Director is just too uptight about things like that. Enjoy it. It's wonderful that you can give happiness to the babies this way. Inheriting a lot isn't all advantages — if you don't even enjoy the advantages you have, that's a loss."</p>
 
-<p>Juhan hyung stuck his head between the driver's and passenger's seats and joined the conversation.</p>
+<p>Juhani hyung stuck his head between the driver's and passenger's seats and joined the conversation.</p>
 
-<p>"I completely agree with Baek Yuni on this one. If it really bothers you, there's always the option of handing it all over to me. We're your babies, after all."</p>
+<p>"I completely agree with Baek Yuni on this one. If it really bothers you, there's always the option of handing it all over to me. I'm the Director's baby, after all."</p>
 
 <p>In the rearview mirror, he made a disgusted face this time.</p>
 
-<p>"Did you catch something from Choi Inwu? Why are you two suddenly obsessed with calling me 'baby'? Why would you be my babies? It's creepy coming from grown adults."</p>
+<p>"Did you catch something from Choi Inwu? Why are you two suddenly obsessed with calling yourselves 'babies'? Why would you be my babies? It's creepy coming from grown adults."</p>
 
 <p>"Anyway, you'd call your lover 'honey' or 'baby' regardless, Director. Aren't your lovers grown adults too? They're probably big, muscular types. Ugh…"</p>
 
-<p>Juhan hyung still seemed to take what had been said in the garden last time as established fact. Since he hadn't explicitly denied or confirmed it, I couldn't know whether muscular men were truly his type — but he had slept with me, and I wasn't particularly muscular. Of course, we hadn't gone all the way, and if my hazy memory was correct… I had passed out before he could even finish.</p>
+<p>Juhani hyung still seemed to take what had been said in the garden last time as established fact. Since he hadn't explicitly denied or confirmed it, I couldn't know whether muscular men were truly his type — but he had slept with me, and I wasn't particularly muscular. Of course, we hadn't gone all the way, and if my hazy memory was correct… I had passed out before he could even finish.</p>
 
 <p>"If it's a lover, it's a lover — what do you mean 'lovers'? And have you ever even seen my 'honey' or 'baby'? See them first, then talk."</p>
 
-<p>As he smoothly descended from the elevated road and slowed for a straight-ahead signal, he reached between the seats and pinched Juhan hyung's cheek where it had poked through.</p>
+<p>As he smoothly descended from the elevated road and slowed for a straight-ahead signal, he reached between the seats and pinched Juhani hyung's cheek where it had poked through.</p>
 
 <p>The members of Phantom seemed close — closer than a simple workplace relationship — yet they didn't seem to know much about his private life. Inwu hyung, his longtime friend, appeared to be the same way. Being open and affectionate with those close to him while keeping his private world entirely to himself seemed to be his habit. This likely applied not just to what happened in bed, but to his entire private life.</p>
 
@@ -107,13 +107,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"You need proper rest at night during the fair. My apartment doesn't have enough rooms for all five of us to sleep separately."</p>
 
-<p>"The master bedroom is like a sports field. If we each sleep on opposite ends of that bed, it's practically like having separate rooms. Yeehyeon won't take up much space either. And unlike Kwon Juhan, he won't complain about this or that."</p>
+<p>"The master bedroom is like a sports field. If we each sleep on opposite ends of that bed, it's practically like having separate rooms. Yeehyeonie won't take up much space either. And unlike Kwon Juhan, he won't complain about this or that."</p>
 
 <p>"Why are you dragging me into this when I'm just sitting here quietly?"</p>
 
-<p>Juhan hyung grumbled, but nuna didn't react to it.</p>
+<p>Juhani hyung grumbled, but nuna didn't react to it.</p>
 
-<p>"Hmm… So you're saying Seo Yeehyeon and I should share a room?"</p>
+<p>"Hmm… So you're saying Seo Yeehyeon-ssi and I should share a room?"</p>
 
 <p>This time, I was certain he was looking at me in the rearview mirror. His expression was that of someone imagining, even if only in his head, what it would be like to share a room with me.</p>
 
@@ -123,7 +123,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"You won't forgive me, even though it's Hotel F?"</p>
 
-<p>Nuna's expression shifted at the name of the hotel. Juhan hyung's ears perked up too, and he turned to look at me with wide eyes — but I had no information about that hotel and couldn't share in their reaction.</p>
+<p>Nuna's expression shifted at the name of the hotel. Juhani hyung's ears perked up too, and he turned to look at me with wide eyes — but I had no information about that hotel and couldn't share in their reaction.</p>
 
 <p>"No, it's not about forgiving or not… It's just that if there are changes, you should let us know in advance."</p>
 
@@ -133,7 +133,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Whether you tell us in advance or not — does it really matter that much?"</p>
 
-<p>Nuna changed her tune instantly, as if nothing had happened, and turned to share her joy with Juhan hyung. That hotel was clearly exciting them both quite a bit. Perhaps this, too, was part of the surprise gift he had prepared for them.</p>
+<p>Nuna changed her tune instantly, as if nothing had happened, and turned to share her joy with Juhani hyung. That hotel was clearly exciting them both quite a bit. Perhaps this, too, was part of the surprise gift he had prepared for them.</p>
 
 <p>"Honestly, spending the Director's money in Hong Kong doesn't even feel like a waste."</p>
 
@@ -159,11 +159,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>The VIP preview opening event was scheduled to begin in five hours. We had to finish the display before then, return to the hotel to get ready, and come back again. The schedule wasn't generous, but we had enough confidence in our workflow by now.</p>
 
-<p>Yuni nuna was in charge of unpacking, and Juhan hyung was responsible for setting up the unwrapped pieces. I moved back and forth between them, lending a hand wherever it was needed at any given moment.</p>
+<p>Yuni nuna was in charge of unpacking, and Juhani hyung was responsible for setting up the unwrapped pieces. I moved back and forth between them, lending a hand wherever it was needed at any given moment.</p>
 
 <p>"Those guys are infuriating, honestly."</p>
 
-<p>As I passed the thirty-second piece — received from nuna — over to Juhan hyung, he glanced over my shoulder at the booth across from us and muttered under his breath. I casually looked back, and well… their situation was quite different from ours.</p>
+<p>As I passed the thirty-second piece — received from nuna — over to Juhani hyung, he glanced over my shoulder at the booth across from us and muttered under his breath. I casually looked back, and well… their situation was quite different from ours.</p>
 
 <p>Unlike our booth, which was cluttered with separated bubble wrap and still-wrapped paintings monopolizing the entire space, the staff at the booth across the aisle were chatting leisurely while setting up their display. At a glance, they had brought maybe thirty pieces at most, so there was no need for them to rush.</p>
 
@@ -177,7 +177,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Even so, they'll be stuck in cramped business hotels suffering from tourist noise. The only staff in this entire venue who got to ride here from the airport in a Phantom and have individual rooms at Hotel F — that's us. Even big galleries like Perrotin or Gagosian wouldn't go that far. In a way, we're the victors."</p>
 
-<p>Carefully lifting the next piece fresh from its bubble wrap, I carried it over to where Juhan hyung was standing. He hung the painting in the position marked on the layout diagram we had prepared, then drew a line through number 33 on the list.</p>
+<p>Carefully lifting the next piece fresh from its bubble wrap, I carried it over to where hyung was standing. He hung the painting in the position marked on the layout diagram we had prepared, then drew a line through number 33 on the list.</p>
 
 <p>"That car earlier — its name was Phantom, wasn't it?"</p>
 
@@ -193,15 +193,15 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Thinking of his pale blue eyes — as fleeting as seafoam — and his indifferent, detached aura, it was certainly a fitting name. I had never thought about whether there was a reason behind it, but the psychology of collecting expensive cars named Phantom and Ghost, fixating on the meaning of "spirit" — that didn't seem like simple collector's obsession.</p>
 
-<p>But since even nuna and Juhan hyung didn't know the full story, it was clear that if I asked, he would just shrug and change the subject.</p>
+<p>But since even nuna and hyung didn't know the full story, it was clear that if I asked, he would just shrug and change the subject.</p>
 
 <p>"So until now, whenever you came to Hong Kong on a business trip, you stayed at the Director's apartment."</p>
 
 <p>It felt like a good moment to bring up the question that had been on my mind since the drive to the hotel.</p>
 
-<p>Juhan hyung, who had just drawn a line through number 34, put the cap back on the pen he'd been holding in his mouth and answered.</p>
+<p>Juhani hyung, who had just drawn a line through number 34, put the cap back on the pen he'd been holding in his mouth and answered.</p>
 
-<p>"Yeah, that's right. This is the first time staying at a hotel. He has an apartment below Victoria Peak — it's on a hill and high up, so the view is incredible. He also owns a mansion with a pool not too far from there. That one is probably rented out. I heard some major bank here rented it for their employees or something."</p>
+<p>"Yeah, that's right. This is the first time staying at a hotel. The Director has an apartment below Victoria Peak — it's on a hill and high up, so the view is incredible. He also owns a mansion with a pool not too far from there. That one is probably rented out. I heard some major bank here rented it for their employees or something."</p>
 
 <p>Hyung looked down at nuna as if requesting further explanation, and she picked up where he left off.</p>
 
@@ -211,15 +211,15 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Liu Weikun.</p>
 
-<p>From his name alone, I could tell from the start that his nationality was Hong Kong. Through conversations with Manager Han, hyung, and nuna, I had a rough sense that he was of mixed heritage with one Korean parent. I knew he hadn't been born and raised in Seoul, but learning that he was wealthy enough to own property of that magnitude in Hong Kong was new information.</p>
+<p>From his name alone, I could guess from the start that his nationality was Hong Kong. Through conversations with Manager Han, hyung, and nuna, I had a rough sense that he was of mixed heritage with one Korean parent. I knew he hadn't been born and raised in Seoul, but learning that he was wealthy enough to own property of that magnitude in Hong Kong was new information.</p>
 
 <p>According to what he had said in the car on the way to the hotel, the source of his wealth in Hong Kong seemed to be mostly inheritance. He was clearly not from an ordinary family.</p>
 
-<p>"It might not be his personally — it could be his family's. They own a house in Repulse Bay, a neighborhood full of extraordinarily wealthy people by the sea. It's a vacation home, and last year, after the art fair ended, we all spent about three days there together. Ah… it was really wonderful."</p>
+<p>"It might not be the Director's personally — it could belong to his family. They own a house in Repulse Bay, a neighborhood full of extraordinarily wealthy people by the sea. It's a vacation home, and last year, after the art fair ended, we all spent about three days there together. Ah… it was really wonderful."</p>
 
-<p>Juhan hyung's eyes traced the air with a wistful gaze, like an older person reminiscing about the golden days long past.</p>
+<p>Juhani hyung's eyes traced the air with a wistful gaze, like an older person reminiscing about the golden days long past.</p>
 
-<p>The wealthiest person I had actually known was Morae nuna's father, Mr. Lim. The billions Mr. Lim reportedly earned in a year were numbers that never quite registered for me. It was unreasonable for someone like me to grasp the true scale of his wealth.</p>
+<p>The wealthiest person I had actually known was Morae's father, Mr. Lim. The billions Mr. Lim reportedly earned in a year were numbers that never quite registered for me. It was unreasonable for someone like me to grasp the true scale of his wealth.</p>
 
 <p>"What does all this mean?"</p>
 
@@ -235,13 +235,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"In Seoul, he's a self-made Golden Alpha who climbed up from nothing by himself, but in Hong Kong…"</p>
 
-<p>"He's just royalty, plain and simple."</p>
+<p>"He's just a prince, plain and simple."</p>
 
 <p>While nuna searched for the right words, Juhan hyung delivered the conclusion. Nuna frowned slightly, seemingly dissatisfied with the expression, but she couldn't come up with anything more fitting.</p>
 
 <p>"That's right — a prince. Though I much prefer the Director in Seoul."</p>
 
-<p>Juhan hyung didn't respond to nuna's words. Instead, he hung the thirty-fifth piece on the wall with a faint smile — a rare sight from him. It was unmistakably an expression of agreement. He too preferred the Director as he was in Seoul.</p>
+<p>Juhani hyung didn't respond to nuna's words. Instead, he hung the thirty-fifth piece on the wall with a faint smile — a rare sight from him. It was unmistakably an expression of agreement. He too preferred the Director as he was in Seoul.</p>
 
 <p>They were two people who were completely open about their worldly pleasures — enthusiastic about luxury cars, unable to hide their joy at the prospect of staying in five-star hotels — and yet, even so, they preferred him when he was in Seoul.</p>
 
@@ -251,7 +251,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Wow, it must be pouring rain in Korea right now. They say Seoul's rainfall today is over 60 millimeters?"</p>
 
-<p>Juhan hyung said this in a raised voice while glancing at his phone as he waited for the next piece. It was news that felt impossible to imagine given the perfectly clear weather in Hong Kong.</p>
+<p>Hyung said this in a raised voice while glancing at his phone as he waited for the next piece. It was news that felt impossible to imagine given the perfectly clear weather in Hong Kong.</p>
 
 <p>"Hey, if you have time to check your phone, come help peel at least one of these."</p>
 
@@ -259,7 +259,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"You can't even make a decent excuse."</p>
 
-<p>As they peeled the cover off the thirty-sixth large-scale piece — its combined width and height exceeding seven meters — Juhan hyung grinned and tapped Yuni nuna on the shoulder.</p>
+<p>As they peeled the cover off the thirty-sixth large-scale piece — its combined width and height exceeding seven meters — Juhani hyung grinned and tapped Yuni nuna on the shoulder.</p>
 
 <p>"It'll still be monsoon season when we get back to Korea, but still — escaping for a few days is better than nothing, right? And everywhere here has the AC blasting."</p>
 
@@ -275,33 +275,33 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>The location, however, was quite good. It wasn't far from the experimental large-scale sculpture installed in the center, and there was ample space between us and the booth across the aisle.</p>
 
-<p>Manager Han and he were walking side by side down that corridor. They were such a captivating pair that my gaze followed their movements even knowing it might look foolish.</p>
+<p>The manager and he were walking side by side down that corridor. They were such a captivating pair that my gaze followed their movements even knowing it might look foolish.</p>
 
-<p>I recalled Juhan hyung's exaggerated comment from some time ago — that seeing Shushu in person had nearly made him want to bow. It wasn't quite that level of shock, but it certainly wasn't everyday beauty either. Not enough to prostrate myself, but I couldn't tear my eyes away from the magnetic pull they exerted.</p>
+<p>I recalled Juhani hyung's exaggerated comment from some time ago — that seeing Artist Shushu in person had nearly made him want to bow. It wasn't quite that level of shock, but it certainly wasn't everyday beauty either. Not enough to prostrate myself, but I couldn't tear my eyes away from the magnetic pull they exerted.</p>
 
 <p>As it was a VIP preview, the venue was packed with stylish people in what I could only think of as party attire — utterly unfamiliar to me. Hyung, nuna, and I had also dressed in the neat black-toned outfits we'd prepared in advance and had our hair styled differently than usual, but we couldn't compare to the presence of those two.</p>
 
 <p>They were the definition of the high-society Alphas I had never had cause to encounter back in that small fishing village.</p>
 
-<p>"Manager Han, you look incredible! You're really radiating that Alpha energy after so long!"</p>
+<p>"Manager, you look incredible! You're really radiating that Alpha energy after so long!"</p>
 
-<p>Apparently I wasn't the only one thinking that, because Juhan hyung ran ahead to the booth and caused a commotion, hugging Manager Han.</p>
+<p>Apparently I wasn't the only one thinking that, because Juhani hyung ran ahead to the booth and caused a commotion, hugging the manager.</p>
 
 <p>"What do you mean, 'after so long'? What am I like usually? Huh?"</p>
 
-<p>Manager Han laughed and grabbed Juhan hyung by the back of his neck. Though she was wearing a sharply tailored black two-piece suit — unlike her usual comfortable attire — her tone and actions were exactly the Manager Han everyone knew.</p>
+<p>Manager Han laughed and grabbed hyung by the back of his neck. Though she was wearing a sharply tailored black two-piece suit — unlike her usual comfortable attire — her tone and actions were exactly the manager everyone knew.</p>
 
 <p>"Even in jeans and a T-shirt you're stylish, but dressed up like this is a different kind of cool entirely."</p>
 
 <p>"Well, that's true. There is something to suddenly putting on a suit when you usually walk around in a T-shirt and ripped jeans."</p>
 
-<p>Still holding the back of Juhan hyung's neck, Manager Han draped an arm over his shoulder and surveyed the completed display behind us, eyes widening.</p>
+<p>Still holding the back of hyung's neck, the manager draped an arm over his shoulder and surveyed the completed display behind us, eyes widening.</p>
 
 <p>"Hey… look at what our crew can do. I really didn't expect them to finish in just three hours. Maybe we can increase the number of pieces for the next fair?"</p>
 
 <p>"Ha… I love Phantom, but I think I'll be submitting my resignation now."</p>
 
-<p>Everyone burst out laughing at Juhan hyung's earnest joke.</p>
+<p>Everyone burst out laughing at Juhani hyung's earnest joke.</p>
 
 <p>All five of us were still pre-dinner, each for their own scheduling reasons. They began to quiet their hunger with simple food from the buffet tables set up around the venue.</p>
 
@@ -311,7 +311,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>I must have been hungry — the only thing I'd managed to eat all day was the chicken dish served during the flight — but excitement and nerves were keeping me from feeling it. I was just prodding a tiny, dainty-looking dim sum with my chopsticks when he appeared at my side and started talking.</p>
 
-<p>He had claimed he was starving, having had no time to eat while flashing business smiles nonstop, yet he also wasn't touching much of the food. He was only sipping champagne while picking at a few nuts that Juhan hyung had brought over.</p>
+<p>He had claimed he was starving, having had no time to eat while flashing business smiles nonstop, yet he also wasn't touching much of the food. He was only sipping champagne while picking at a few nuts that Juhani hyung had brought over.</p>
 
 <p>"A little… but it's still fun."</p>
 
@@ -345,7 +345,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"……"</p>
 
-<p>"To get Seo Yeehyeon to pick up a brush."</p>
+<p>"To get Seo Yeehyeon-ssi to pick up a brush."</p>
 
 <p>I don't know what I had been expecting from the words "ulterior motives." I quickly averted my gaze, afraid he might see the disappointment on my face. But even when he wasn't within my line of sight, the mere fact of being within his made me feel as though everything I wanted to keep hidden would be laid bare.</p>
 
@@ -353,13 +353,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He had been tapping the rolled-up pamphlet against his palm; then he reversed it and tapped it against my shoulder.</p>
 
-<p>"It seems like the best possible arrangement for you, Seo Yeehyeon, since you have to keep a low profile. I don't know who's chasing you or why, but if you become a contracted artist for Phantom, I'll protect you with everything I've got. I'm good at that sort of thing."</p>
+<p>"It seems like the best possible arrangement for you, Seo Yeehyeon-ssi, since you have to keep a low profile. I don't know who's chasing you or why, but if you become a contracted artist for Phantom, I'll protect you with everything I've got. I'm good at that sort of thing."</p>
 
 <p>I managed an awkward smile at his childlike boasting tone, as if he were proudly announcing he knew how to read and write. He was deliberately lightening the weight of his words with a casual air, but what he said was probably true. Given his methods and the shrewdness he showed in running Phantom, he was certainly not the type to stand by while someone took what was his.</p>
 
 <p>However, what I was being chased over wasn't a simple matter ending with just me, and even if he protected me, it would only be because I was an artist worth investing in. Or, putting it in the best possible light, a business decision on the part of a dealer responsible for a talented artist — or so he seemed to consider me.</p>
 
-<p>I wasn't hoping for anything more than that. If I wanted anything at all, it would be the safety of Morae nuna and Yeehan hyung — not my own well-being, which was, at best, a footnote to Morae nuna's father.</p>
+<p>I wasn't hoping for anything more than that. If I wanted anything at all, it would be the safety of Morae and hyung — not my own well-being, which was, at best, a footnote to Morae's father.</p>
 
 <p>I was simply turning over the true meaning behind his words, "I'll protect you." It was a dangerous way of speaking.</p>
 
@@ -375,7 +375,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He addressed me with curiosity as I stopped in front of a piece depicting a close-up of a woman lying on her side on the floor. I checked the caption: a work from 2002.</p>
 
-<p>Though there were many art books at home, I had always been like a child who only looked at the illustrations and never read the text — I took in the works themselves and paid little attention to the artist's name or the title. Neither my mother nor my father, nor my Teacher, had ever tried to teach me about the lineage of painters or art history.</p>
+<p>Though there were many art books at home, I had always been like a child who only looked at the illustrations and never read the text — I took in the works themselves and paid little attention to the artist's name or the title. Neither my mother nor my father, nor Teacher, had ever tried to teach me about the lineage of painters or art history.</p>
 
 <p>"I… don't know much about artists."</p>
 
@@ -391,7 +391,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>The more I looked, the more it drew me in. I wanted, if possible, to place my hand on the hardened texture of the paint and vaguely feel the artist's breath and energy.</p>
 
-<p>"For a piece to be evaluated purely on its artistic merit, independent of marketing or gallery power, ten years isn't even enough these days. All the works Seo Yeehyeon seems interested in right now… their value continues to climb even now — at a minimum twenty years later, at a maximum a hundred."</p>
+<p>"For a piece to be evaluated purely on its artistic merit, independent of marketing or gallery power, ten years isn't even enough these days. All the works Seo Yeehyeon-ssi seems interested in right now… their value continues to climb even now — at a minimum twenty years later, at a maximum a hundred."</p>
 
 <p>I felt his gaze and looked over at him. He was looking at me with eyes that seemed to be exploring something interesting. His eyes were shining — sparkling like waves breaking finely under sunlight. Undeniably beautiful.</p>
 
@@ -401,7 +401,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>I didn't know how to respond to his last remark, unsure whether he was asking for an answer or simply speaking to himself.</p>
 
-<p>But his observation that I seemed to prefer wild works wasn't wrong. Whatever it was, I liked works that revealed themselves as they truly were. It had always been that way.</p>
+<p>But his observation that I seemed to prefer wild works might not be wrong. Whatever it was, I liked works that revealed themselves as they truly were. It had always been that way.</p>
 
 <p>The reason was simple. Simply put… the language they used was similar to my own. It was a language I could understand.</p>
 
@@ -449,7 +449,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>What could possibly please him so much?</p>
 
-<p>"This is why I feel like I'm treating Seo Yeehyeon like a fortune teller. What do you see in this painting, what do you see in that one?"</p>
+<p>"This is why I feel like I'm treating Seo Yeehyeon-ssi like a fortune teller. What do you see in this painting, what do you see in that one?"</p>
 
 <p>Then he bent his waist slightly to meet my eyes at the same height.</p>
 
@@ -465,7 +465,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>People were generally kind to him. His handsome appearance played a part, but anyone would naturally be warm toward a "client" who appeared to have the financial means to purchase anything on the spot, regardless of what was being sold.</p>
 
-<p>"I personally scouted this artist, so I can recommend them with full confidence. They're one of the young artists currently making waves in the New York art scene. I imagine you may have heard their name. They're gaining attention for their sensual use of color and bold expression. They're a Korean artist in their twenties, and with the current rise of East Asian artists globally, their investment value is quite high. Their style seems like it would suit you perfectly. Besides this piece, there are two more works by the same artist — would you like to take a look?"</p>
+<p>"I personally scouted this artist, so I can recommend him with full confidence. He's one of the young artists currently making waves in the New York art scene. I imagine you may have heard his name, sir. He's gaining attention for his sensual use of color and bold expression. He's a Korean artist in their twenties, and with the current rise of East Asian artists globally, his investment value is quite high. His style seems like it would suit you perfectly, sir. Besides this piece, there are two more works by the same artist — would you like to take a look?"</p>
 
 <p>The man who had initially given a round, warm impression had an extraordinary gleam in his eyes upon closer inspection. Despite his relaxed expression, his ceaseless flow of words gave us — or rather, him — no room to interject. Just keeping up with his speech was a struggle with my English, which was limited to what I had learned through high school.</p>
 
@@ -485,7 +485,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"……"</p>
 
-<p>It was physical contact I hadn't anticipated at all. While this kind of casual contact was frequent with Juhan hyung or Yuni nuna, it had never extended to me before.</p>
+<p>It was physical contact I hadn't anticipated at all. While this kind of casual contact was frequent with Juhani hyung or Yuni nuna, it had never extended to me before.</p>
 
 <p>Even though we had once been the "lovers on the bed" with each other — if only for a single night — this kind of spontaneous physical contact in everyday life felt more awkward than that one unexpected encounter in bed had. Until now.</p>
 
@@ -497,7 +497,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>The content of his words was almost cruel, but to be blunt, his tone and expression conveyed no mockery toward the artwork, the artist, or the director who had discovered them. He was simply conveying exactly what he felt, "without any packaging."</p>
 
-<p>Within a few months, I had come to understand his way of speaking to some degree. He never minced words or sugar-coated things, especially when it came to work. There were times he gave instructions to Yuni nuna and Juhan hyung just as directly as he did to me, excluding emotional consideration entirely.</p>
+<p>Within a few months, I had come to understand his way of speaking to some degree. He never minced words or sugar-coated things, especially when it came to work. There were times he gave instructions to Yuni nuna and Juhani hyung just as directly as he did to me, excluding emotional consideration entirely.</p>
 
 <p>He seemed to believe that if the content of the words was true, packaging the delivery was simply inefficient.</p>
 
@@ -509,7 +509,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Fifteen thousand, and not in Hong Kong dollars but in US dollars. No matter how much of an amateur I was, there was no doubt that this painting was not worth that much.</p>
 
-<p>The gallery director, who had approached with a gentle smile and acted the part of the eager flatterer, left the painting without a second glance and moved on to the next booth without even offering a simple farewell. He, too, paid no mind to the man's sudden change of demeanor.</p>
+<p>As he left the painting without a second glance and moved on to the next booth, the gallery director, who had approached with a gentle smile and acted the part of the eager flatterer, did not offer him even a simple farewell. He, too, paid no mind to the man's sudden change of demeanor.</p>
 
 <p>I hurried out of the booth behind him, glancing back one more time.</p>
 
@@ -519,11 +519,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>That wasn't the only residue <em>Lovers on the Bed</em> left in me.</p>
 
-<p>Could it have been a coincidence that he had asked for my impression in front of that specific painting and no other? The bluish coldness burning in his eyes bothered me. <em>Lovers on the Bed</em>. If I hadn't misread it, the artist's name was "SEONEW." Seonew. A Korean artist in their twenties. I repeated the name silently to myself, savoring it so I wouldn't forget.</p>
+<p>Could it have been a coincidence that he had asked for my impression in front of that specific painting and no other? The bluish coldness burning in his eyes bothered me. <em>Lovers on the Bed</em>. If I hadn't misread it, the artist's name was "SEONEW." Seonew. A Korean artist in his twenties. I repeated the name silently to myself, savoring it so I wouldn't forget.</p>
 </div>
 {% include scene-break.html %}
 <div id="section-4" class="hybrid-section" data-section="4">
-<p>"Liu-ssi."</p>
+<p>"Mr. Liu."</p>
 
 <p>Just as we were about to turn into the next booth after crossing a hall where an experimental installation piece — translucent sculptures suspended in the air to visualize the flow of air — was on display, someone called his name in a very cheerful tone.</p>
 
@@ -561,7 +561,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>The man looked to be of mixed East Asian and Western heritage. His facial structure and hair had a distinctly East Asian quality, but his eyes were a deep blue. Facing that incongruity, I recalled the shock I had felt the first time I saw him. <em>Perhaps this is what a Golden Alpha looks like…</em></p>
 
-<p>I didn't sense that same imposing presence or unique aura from the man who was casually talking about the painting hanging in front of him while I stood there, but we shared the somewhat broad commonality of being of mixed heritage and having blue eyes.</p>
+<p>I didn't sense that same imposing presence or unique aura from the man who was casually talking about the painting hanging in front of him while I stood there, but the two did have a few general similarities: both were of mixed heritage and had blue eyes.”</p>
 
 <p>"Our gallery is hosting a party in the Soho area on Sunday. If you're free, would you care to stop by with your other staff members? It would be great if you could make it. It's a chance for the galleries to connect, and if we're lucky, maybe even an opportunity to make some private travel memories…"</p>
 
@@ -569,15 +569,15 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Alpha? Beta?"</p>
 
-<p>Seeing him up close, his eyes were completely different from the Director's. His weren't that distinct, mineral-like blue, but something more precarious and delicate, as if they might vanish at any moment… like seafoam, or… yes, like a ghost…</p>
+<p>Seeing him up close, his eyes were completely different from the Director's. His weren't this distinct, mineral-like blue, but something more precarious and delicate, as if they might vanish at any moment… like seafoam, or… yes, like a ghost…</p>
 
-<p>"Seo Yeehyeon."</p>
+<p>"Seo Yeehyeon-ssi."</p>
 
 <p>At the sound of my name called from behind, I turned around immediately, as though my head had been pulled.</p>
 
 <p>He was striding quickly toward me from the booth entrance. His eyes, which usually seemed so delicate they might disappear at any moment, were now burning fiercely. This was entirely different from the coldness he had displayed in front of <em>Lovers on the Bed</em>.</p>
 
-<p>"Wow… just looking at him, he's a Golden Alpha. If I'd known you were going around with someone like that, I wouldn't have touched you."</p>
+<p>"Wow… just looking at him, he's a Golden Alpha. If I'd known you were going around with someone like that, I wouldn't have made a move on you."</p>
 
 <p>Muttering this to himself and shaking his head, the man offered a brief "nice to meet you" and fled the scene.</p>
 
@@ -621,7 +621,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He struck me as extraordinary all over again. Not just his ability to arrange a meeting with Ms. Suki Kim — but that tenacity, that commitment, to willingly endure such a bothersome process just to get me to paint. That steadfastness itself was astonishing.</p>
 
-<p>He had confidence in me, a complete stranger — but it was a different kind of conviction than the confidence Yeehan hyung's grandfather had in hyung's life, or Mr. Lim had in Morae nuna's.</p>
+<p>He had confidence in me, a complete stranger — but it was a different kind of conviction than the confidence Grandfather had in hyung's life, or Mr. Lim had in Morae's.</p>
 
 <p>Could he really trust his own instincts that much? Even knowing that what I could produce right now would likely be nothing more than a heavily ornamented imitation — just like the work of the artist "Seonew"?</p>
 
@@ -635,7 +635,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Damn it. I have nothing to say to that."</p>
 
-<p>Trading jokes with Juhan hyung, he had already returned to his usual self.</p>
+<p>Bantering with Juhani hyung, he had already returned to his usual self.</p>
 </div>
 {% include scene-break.html %}
 <div id="section-5" class="hybrid-section" data-section="5">
@@ -667,13 +667,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>His voice sounded just like it always did.</p>
 
-<p>That was the entirety of their conversation.</p>
+<p>That was the entirety of the conversation.</p>
 
 <p>After taking a deep breath, I left the room.</p>
 
 <p>I quickly strode across the elegant hallway adorned with beige marble, through the elevator hall, and across the grand lobby where well-dressed people were coming and going — brushing down my exposed arms beneath my short sleeves.</p>
 
-<p>Stopping in front of the main entrance, I scanned left and right, looking for him or his car, when one of the doormen approached and guided me: "Liu-ssi is waiting."</p>
+<p>Stopping in front of the main entrance, I scanned left and right, looking for him or his car, when one of the doormen approached and guided me: "Mr. Liu is waiting."</p>
 
 <p>Waiting near the hotel entrance was a different car from the one I had taken from the airport to the hotel. It was much smaller, but it was also a luxury vehicle.</p>
 
@@ -685,7 +685,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He must have noticed my uneasy mood, because he introduced me to the driver. I greeted him briefly in English, and the driver — who had a gentle impression — turned slightly and acknowledged me with a quiet nod.</p>
 
-<p>Yuni nuna and Juhan hyung had already gotten ready and gone out, determined to enjoy Hong Kong's Friday night. I had told them I would rest a bit longer at the hotel and contact them later. His plan was for me to meet up with the two of them after seeing Teacher Suki Kim.</p>
+<p>Yuni nuna and Juhani hyung had already gotten ready and gone out, determined to enjoy Hong Kong's Friday night. I had told them I would rest a bit longer at the hotel and contact them later. His plan was for me to meet up with the two of them after seeing Ms. Suki Kim.</p>
 
 <p>"Did you eat anything in your room?"</p>
 
@@ -711,7 +711,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"No, it won't matter. Like I said before, she's someone who puts people at ease. Unlike me. Setting aside prejudice, it's genuinely quite a rare personality for an artist."</p>
 
-<p>As he spoke, he pulled a pack of cigarettes from the drawer in the armrest between them. Then, after glancing out the window, he put the cigarettes back in their place and instead slung the camera's long strap around his neck.</p>
+<p>As he spoke, he pulled a pack of cigarettes from the drawer in the armrest between him and me. Then, after glancing out the window, he put the cigarettes back in their place and instead slung the camera's long strap around his neck.</p>
 
 <p>The car was slowing on the bustling streets of Soho.</p>
 
@@ -721,7 +721,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"This way, please."</p>
 
-<p>As I wondered whether we were really going to meet the artist in a place like this, he stepped ahead toward the stairs leading to the second floor. Instead of calling anyone, he unlocked the door lock at the stair entrance himself. Unlike the aged and worn exterior typical of Soho buildings, the interior was quite modern and minimalist.</p>
+<p>As I wondered whether we were really going to meet Ms. Suki Kim in a place like this, he stepped ahead toward the stairs leading to the second floor. Instead of calling anyone, he unlocked the door lock at the stair entrance himself. Unlike the aged and worn exterior typical of Soho buildings, the interior was quite modern and minimalist.</p>
 
 <p>I climbed the stairs — white enough to make me careful where I stepped — and arrived at a white door. The room I followed him into was entirely white. White tile floor, a white ceiling, white walls. In the very center sat a white table and chairs, placed in silence.</p>
 
@@ -737,13 +737,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Sit and wait a moment. She'll be out soon."</p>
 
-<p>I had expected to meet her at some external location he had arranged — a restaurant or somewhere — but I never imagined being permitted inside the studio of an artist like her.</p>
+<p>I had expected to meet her at some external location he had arranged — a restaurant or somewhere — but I never imagined her allowing an outsider like me to visit her studio.</p>
 
-<p>Just the realization that I was in Teacher's studio was making my palms damp, yet he, having delivered this bombshell, calmly disappeared down the corridor behind him.</p>
+<p>Just the realization that I was in Ms. Suki Kim's studio was making my palms damp, yet he, having delivered this bombshell, calmly disappeared down the corridor behind him.</p>
 
 <p>He told me to sit, but I only set my bag down on the table and remained perfectly still, staring in the direction he had vanished.</p>
 
-<p>The sound of a door opening and closing, the footsteps of two people, the murmur of everyday conversation — someone lightly complaining and making excuses about something — grew closer. Then, at the end of the corridor, Teacher appeared with him.</p>
+<p>The sound of a door opening and closing, the footsteps of two people, the murmur of everyday conversation — someone lightly complaining and making excuses about something — grew closer. Then, at the end of the corridor, Ms. Suki Kim appeared with him.</p>
 
 <p>"Welcome. It's a pleasure to meet you."</p>
 
@@ -753,7 +753,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"I've heard about you from Awi and have been looking forward to meeting you."</p>
 
-<p>Gesturing toward him standing a step behind her as she said this, Teacher then turned her whole upper body to look at him.</p>
+<p>Gesturing toward him standing a step behind her as she said this, Ms. Suki Kim then turned her whole upper body to look at him.</p>
 
 <p>"Ah, and in Korea you go by Kun, don't you?"</p>
 
@@ -761,17 +761,17 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"In Hong Kong, we make nicknames by taking one character from a name and putting 'A' in front of it."</p>
 
-<p>That was Teacher's explanation as she turned back to look at me.</p>
+<p>That was Ms. Suki Kim's explanation as she turned back to look at me.</p>
 
 <p>A small curiosity of mine had been unexpectedly answered.</p>
 
 <p>Most people called him "Kun," but I had remembered Shushu using a different name at the VIP event. It was definitely "Awi."</p>
 
-<p>If they had spent their student days together in Hong Kong, it wouldn't be strange for her to call him by his Hong Kong nickname. It might not be a term reserved to signal a special relationship — like a nickname between lovers or those in a similar position.</p>
+<p>If they had spent their student days together in Hong Kong, it wouldn't be strange for Shushu to call him by his Hong Kong nickname. It might not be a term reserved to signal a special relationship — like a nickname between lovers or those in a similar position.</p>
 
 <p>"The art fair must be tough — so hectic. You've worked hard."</p>
 
-<p>Teacher lightly squeezed my arm as if in encouragement. The atmosphere was familiar, like people who had always chatted this way in this place. I sensed none of the wariness, sensitivity, or peculiar eccentricity sometimes seen in major artists.</p>
+<p>Ms. Suki Kim lightly squeezed my arm as if in encouragement. The atmosphere was familiar, like people who had always chatted this way in this place. I sensed none of the wariness, sensitivity, or peculiar eccentricity sometimes seen in major artists.</p>
 
 <p>"Oh, and Shushu's work is getting better and better, isn't it? I read an article in one of the art magazines here covering the 'Body to Soul' exhibition."</p>
 
@@ -783,7 +783,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"You sound quite confident."</p>
 
-<p>Teacher gave me a playful look, as if teasing him.</p>
+<p>Ms. Suki Kim gave me a playful look, as if teasing him.</p>
 
 <p>"The work is developing an increasingly strong Eastern influence, so they'll probably go wild for it over there. If we can get a brief appearance at the opening event, it'll generate even more buzz. A few interviews would be even better."</p>
 
@@ -791,29 +791,29 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>I knew he was a dealer who couldn't judge a work purely on aesthetic value, and as an owner he sometimes showed a frighteningly cold, businesslike streak when it came to marketing. But for some reason, I had thought Shushu would be the exception.</p>
 
-<p>I knew that generating buzz through the artist's attractive appearance or factors outside the work was merely a tactic to boost Shushu's reputation and artistic value — it didn't mean he treated Shushu's art as merely a means to an end. There was no doubt that he genuinely valued Shushu's art. Nevertheless, his remarks surprised me.</p>
+<p>I knew that generating buzz through the artist's attractive appearance or factors outside the work was merely a tactic to boost Shushu's reputation and artistic value — it probably didn't mean he treated Shushu's art as merely a means to an end. There was no doubt that he genuinely valued Shushu's art. Nevertheless, his remarks surprised me.</p>
 
 <p>"Oh my — your marketing is still as aggressive as ever."</p>
 
-<p>This time, Teacher blinked her eyes wide and tilted her head slightly, as if seeking my agreement. I could sense she didn't fully approve of his approach, but she didn't voice any stronger opposition.</p>
+<p>This time, Ms. Suki Kim blinked her eyes wide and tilted her head slightly, as if seeking my agreement. I could sense she didn't fully approve of his approach, but she didn't voice any stronger opposition.</p>
 
 <p>"We can't just keep standing here… I'm not much of a talker, so I don't have anything particularly good to say. If you're all right with it, would you like to take a slow look around my studio?"</p>
 
-<p>Clapping her hands together as if calling for attention, Teacher made the suggestion. At the unexpected offer I instinctively looked for him with my eyes. He nodded, signaling it was fine.</p>
+<p>Clapping her hands together as if calling for attention, Ms. Suki Kim made the suggestion. At the unexpected offer I instinctively looked for him with my eyes. He nodded, signaling it was fine.</p>
 
 <p>"…It would be an honor."</p>
 
 <p>"No need to call it an honor."</p>
 
-<p>Teacher smiled, patting my shoulder.</p>
+<p>Ms. Suki Kim smiled, patting my shoulder.</p>
 
-<p>Leaving him in the hall — where neither a potted plant nor a single painting was displayed — Teacher and I headed down the corridor from which she and he had just emerged. My heart was throbbing with so much tension and trembling it felt numb, but Teacher opened the studio door without hesitation, as if welcoming a long-awaited friend.</p>
+<p>Leaving him in the hall — where neither a potted plant nor a single painting was displayed — Ms. Suki Kim and I headed down the corridor from which she and he had just emerged. My heart was throbbing with so much tension and trembling it felt numb, but she opened the studio door without hesitation, as if welcoming a long-awaited friend.</p>
 
 <p>The studio was entirely white, just like the hall, but as a space where paintings were made, traces of hands and ink had naturally settled in every corner.</p>
 
-<p>I might not know much about art history or the lineage of painters, but Teacher was another matter.</p>
+<p>I might not know much about art history or the lineage of painters, but Ms. Suki Kim was another matter.</p>
 
-<p>Having passed through various styles over the course of a long career, Teacher had been devoted solely to traditional Eastern painting using only ink for about three years now. Because of that, a heavy scent of ink permeated the studio.</p>
+<p>Having passed through various styles over the course of a long career, Ms. Suki Kim had been devoted solely to traditional Eastern painting using only ink for about three years now. Because of that, a heavy scent of ink permeated the studio.</p>
 
 <p>It was difficult to gauge what it meant to be granted access to the studio of a professional painter — and one recognized as a master, no less. Yet I still remembered the jealous sense of alienation that the studio my parents had shared used to evoke in me as a child.</p>
 
@@ -823,13 +823,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>That place was entirely theirs, and it meant more than just a physical space.</p>
 
-<p>The meaning a studio holds might differ for every artist, but for painters who pour themselves into their work, it must, at the very least, be a place where they confront themselves. The very act of stepping into Teacher's inner sanctum — a place so private that calling it merely private felt insufficient — was already something special.</p>
+<p>The meaning a studio holds might differ for every artist, but for painters who pour themselves into their work, it must, at the very least, be a place where they confront themselves. The very act of stepping into Ms. Suki Kim's inner sanctum — a place so private that calling it merely private felt insufficient — was already something special.</p>
 
 <p>The geographical sense of being in Hong Kong had also become meaningless. Come to think of it, the clamor of the busy streets outside was being perfectly blocked out.</p>
 
 <p>"There's not much to see, really. I don't work with a wide variety of materials, so… this is just how I work."</p>
 
-<p>"Coffee?" Teacher asked, offering me a mug. I thanked her and accepted the cup.</p>
+<p>"Coffee?" she asked, offering me a mug. I thanked her and accepted the cup.</p>
 
 <p>"Maybe I should have made it iced? When I drink iced coffee at this temperature, my body temperature drops — so I always drink it warm."</p>
 
@@ -841,41 +841,41 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p><em>Even if a dragon wraps its body around a mountain and hides its head, it is still a dragon.</em></p>
 
-<p>Despite being unfinished, Teacher's landscape painting was overwhelming. It possessed the bold spirit that only a master who had spent a lifetime dissolving their own bone and flesh into their art could convey without pretense or boasting — and simultaneously, a tolerant magnanimity vast enough to embrace the entire world. I was so struck that goosebumps rose across my entire body the moment I stepped into the room.</p>
+<p>Despite being unfinished, her landscape painting was overwhelming. It possessed the bold spirit that only a master who had spent a lifetime dissolving their own bone and flesh into their art could convey without pretense or boasting — and simultaneously, a tolerant magnanimity vast enough to embrace the entire world. I was so struck that goosebumps rose across my entire body the moment I stepped into the room.</p>
 
 <p>Strangely, however, what truly captured my attention now was the painting on the wall above the sofa opposite.</p>
 
-<p>It was a portrait rendered in colored ink, appearing almost like a watercolor, with soft, blurred lines between the strokes, giving it a childlike innocence. Yet it was unmistakably Teacher's work.</p>
+<p>It was a portrait rendered in colored ink, appearing almost like a watercolor, with soft, blurred lines between the strokes, giving it a childlike innocence. Yet it was unmistakably Ms. Suki Kim's work.</p>
 
 <p>"Do you like it?"</p>
 
-<p>Noticing my gaze, Teacher turned, looked at the painting, and asked. I nodded, holding the mug with both hands to feel the warmth of the coffee.</p>
+<p>Noticing my gaze, she turned, looked at the painting, and asked. I nodded, holding the mug with both hands to feel the warmth of the coffee.</p>
 
 <p>"I thought I knew almost all of your works… but I've never seen this one before."</p>
 
 <p>My lips trembled slightly as I answered.</p>
 
-<p>Teacher placed the mug on the table in front of the sofa and took the painting off the wall. It was roughly 8-cut in size — not very large.</p>
+<p>She placed the mug on the table in front of the sofa and took the painting off the wall. It was roughly 8-cut in size — not very large.</p>
 
 <p>"Take this painting."</p>
 
 <p>"……"</p>
 
-<p>I was too surprised to react. I stared at Teacher with wide eyes.</p>
+<p>I was too surprised to react. I stared at Ms. Suki Kim with wide eyes.</p>
 
 <p>"Ah, no. Absolutely not. I couldn't possibly accept that."</p>
 
-<p>Coming to my senses, I set the mug on the table and waved my hands in emphatic refusal. Involuntarily, the monetary value of Teacher's artwork flashed through my mind. Though I hated to think of it that way, I couldn't accept such an expensive gift.</p>
+<p>Coming to my senses, I set the mug on the table and waved my hands in emphatic refusal. Involuntarily, the monetary value of Ms. Suki Kim's artwork flashed through my mind. Though I hated to think of it that way, I couldn't accept such an expensive gift.</p>
 
-<p>Teacher approached the windowsill shelf, carrying the painting, and spoke.</p>
+<p>She approached the windowsill shelf, carrying the painting, and spoke.</p>
 
 <p>"Yeehyeon-ssi, you're not very good with words either, are you?"</p>
 
 <p>"……"</p>
 
-<p>The question, coming from an unexpected direction, brought my feet to a stop. Teacher wasn't talking about common eloquence or social skills. This was about knowing what language was most comfortable for me — something a person meeting me for the first time wouldn't know.</p>
+<p>The question, coming from an unexpected direction, brought my feet to a stop. She wasn't talking about common eloquence or social skills. This was about knowing what language was most comfortable for me — something a person meeting me for the first time wouldn't know.</p>
 
-<p>"I'm the same way. So, please accept this as a letter, or a card, from me to you."</p>
+<p>"I'm the same way. So, please accept this as a letter, or a card, from me to Yeehyeon-ssi."</p>
 
 <p>My open mouth just hung there, wordless.</p>
 
@@ -883,7 +883,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>I mumbled, arms hanging at my sides. Now that I wasn't painting, I felt even less deserving of that piece.</p>
 
-<p>Teacher placed the painting on the shelf and turned toward me.</p>
+<p>Ms. Suki Kim placed the painting on the shelf and turned toward me.</p>
 
 <p>"That painting."</p>
 
@@ -893,11 +893,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"……"</p>
 
-<p>Once, because Teacher remembered <em>Alienation</em>.</p>
+<p>Once, because Ms. Suki Kim remembered <em>Alienation</em>.</p>
 
 <p>And again, because the meaning that painting held for him was <em>comfort</em>.</p>
 
-<p>Teacher's brief sentence made me stagger.</p>
+<p>Her brief sentence made me stagger.</p>
 
 <p>Did he like that painting, <em>Alienation</em>? "That night," I had asked him.</p>
 
@@ -907,23 +907,23 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>If that deep rest was the answer he had intended to give me, then I suppose I could take it to mean that he liked the painting. But that was only my speculation.</p>
 
-<p>I never expected to hear the precise answer conveyed through words — here, through Teacher.</p>
+<p>I never expected to hear the precise answer conveyed through words — here, through Ms. Suki Kim.</p>
 
-<p>"Awi grew up seeing many excellent works, and while he owns pieces valuable both as a gallery owner and as a private collector, the work that has shaken him the most — perhaps — was <em>Alienation</em>."</p>
+<p>"Awi grew up seeing many excellent works, and while he owns pieces valuable both as a gallery owner and as a private collector, the work that has shaken that boy the most — perhaps — was <em>Alienation</em>."</p>
 
-<p>Leaning against the shelf behind her, Teacher crossed her arms as if to comfort herself.</p>
+<p>Leaning against the shelf behind her, she crossed her arms as if to comfort herself.</p>
 
 <p>"When <em>Alienation</em> was released into the world as the cover for a famous author's Hong Kong edition novel, Awi was so displeased at having to share that painting with others, even in that form… He showed such obsession — he wanted the painting to exist only for himself."</p>
 
-<p>These were unbelievable stories. For me, who had already had to endure considerable tension just at the prospect of meeting Teacher… these were beyond what I could handle. Yet I couldn't stop listening.</p>
+<p>These were unbelievable stories. For me, who had already had to endure considerable tension just at the prospect of meeting Ms. Suki Kim… these were beyond what I could handle. Yet I couldn't stop listening.</p>
 
-<p>"Yeehyeon-ssi appealed to the world through his emotions, and people who spoke the same language understood and responded. Awi isn't a painter, but he is more sensitive to the language within paintings than anyone else. That's probably why he works in the gallery business now — even though he sometimes pretends to judge art only by its economic value."</p>
+<p>"Through your emotions, Yeehyeon-ssi, you appealed to the world, and people who spoke the same language understood and responded. Awi isn't a painter, but he is more sensitive to the language within paintings than anyone else. That's probably why he works in the gallery business now — even though he sometimes pretends to judge art only by its economic value."</p>
 
-<p>At that point, Teacher let out a faint chuckle. That loose smile seemed to overlap with the set of someone else's mouth.</p>
+<p>At that point, Ms. Suki Kim let out a faint chuckle. Something about her relaxed smile reminded me of the shape of his mouth.</p>
 
-<p>Teacher's gaze, which had been sweeping diagonally across the floor, returned to me.</p>
+<p>Her gaze, which had been sweeping diagonally across the floor, returned to me.</p>
 
-<p>"Yeehyeon-ssi's painting functioned, at least for one person, as a language they could understand. It offered a kind of empathy — that he wasn't the only one feeling alienation for a non-universal reason, a reason that no one — not even family, not even parents — could provide… Empathy for <em>alienation</em>."</p>
+<p>"Yeehyeon-ssi's painting functioned, at least for one person, as a language they could understand. It offered a kind of empathy that no one — not even family, not even parents — could provide: the understanding that he wasn't the only one feeling alienation for a non-universal reason… Empathy for <em>alienation</em>."</p>
 
 <p>Empathy for <em>alienation</em>.</p>
 
@@ -941,33 +941,33 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>No one can understand the alienation felt for such a non-universal reason. That's why I painted it.</p>
 
-<p>Through that painting, someone other than Teacher shared those same feelings… and the fact that it was him — Liu Weikun, and no one else — suddenly felt like the final destination waiting at the end of my entire journey.</p>
+<p>Through that painting, someone other than Ms. Suki Kim shared those same feelings… and the fact that it was him — Liu Weikun, and no one else — suddenly felt like the final destination waiting at the end of my entire journey.</p>
 
 <p>For a reason I couldn't quite articulate, a warm dampness welled up behind my eyes. I didn't know. At this moment, I could only call it an unknown reason. I clenched my fists, putting tension into my dangling arms, holding the tears back firmly. Showing emotion isn't necessarily weakness, but I didn't want to be sentimental in this moment.</p>
 
-<p>Teacher unlinked her arms, straightened up from the shelf, and walked toward me. Then, placing both hands on my shoulders, she smiled and looked deeply into my face.</p>
+<p>Ms. Suki Kim unlinked her arms, straightened up from the shelf, and walked toward me. Then, placing both hands on my shoulders, she smiled and looked deeply into my face.</p>
 
 <p>"Please accept this as a token of my gratitude."</p>
 
-<p>Could Teacher be his mother?</p>
+<p>Could she be his mother?</p>
 
-<p>Based on the atmosphere between the two of them, I had a suspicion, and as I listened to Teacher speak, that suspicion grew closer to certainty. It seemed unlikely that anyone other than family or a parent would know about his sense of alienation — a feeling that even his own family or parents couldn't fully empathize with. He wasn't the type to share his solitude with others.</p>
+<p>Based on the atmosphere between the two of them, I had a suspicion, and as I listened to her speak, that suspicion grew closer to certainty. It seemed unlikely that anyone other than family or a parent would know about his sense of alienation — a feeling that even his own family or parents couldn't fully empathize with. He wasn't the type to share his solitude with others.</p>
 
-<p>Like a mentor from my childhood, Teacher gently cupped my cheek once, then let go, returning to the shelf to begin wrapping the painting.</p>
+<p>Like a mentor from my childhood, Ms. Suki Kim gently cupped my cheek once, then let go, returning to the shelf to begin wrapping the painting.</p>
 
 <p>"A very long time ago… there was something I thought was more important than painting. I believed I had to set painting aside for its sake, and so I didn't touch my brushes for about two years. When I stopped painting, a slump naturally followed. This piece was made at the end of that slump — it's something like a diary entry I never intended to show the world."</p>
 
-<p>As Teacher wrapped the painting in paper with a texture similar to hanji and then tied it with twine, her hands slowed for a moment. She looked up at the window, which framed the Hong Kong cityscape horizontally like a long picture frame along the wall.</p>
+<p>As she wrapped the painting in paper with a texture similar to hanji and then tied it with twine, her hands slowed for a moment. She looked up at the window, which framed the Hong Kong cityscape horizontally like a long picture frame along the wall.</p>
 
 <p>"I thought something inside me had died, and that was why I could no longer paint… but then one day, I thought: perhaps <em>I</em> am the one who died — because I had stopped painting."</p>
 
-<p>Teacher, having tied the twine in a tight knot, stood before me again with the painting. She held it out and smiled.</p>
+<p>Ms. Suki Kim, having tied the twine in a tight knot, stood before me again with the painting. She held it out and smiled.</p>
 
 <p>"Not being able to truly be myself without going through painting… that must be what it means."</p>
 
 <p>She apologized for not having more time to spare, but the sheer volume of what I had seen, heard, and felt within that brief period — barely thirty minutes in total — had already overflowed far beyond what I had expected or prepared myself for.</p>
 
-<p>After a brief hug and saying goodbye to Teacher, when I stepped out onto the noisy street with him, I felt dazed, as if I had passed through some boundary separating dimensions. My senses couldn't keep up with the speed of the experience. It was similar to the state I had been in after waking up in his bed following the hyperventilation.</p>
+<p>After a brief hug and saying goodbye to Ms. Suki Kim, when I stepped out onto the noisy street with him, I felt dazed, as if I had passed through some boundary separating dimensions. My senses couldn't keep up with the speed of the experience. It was similar to the state I had been in after waking up in his bed following the hyperventilation.</p>
 
 <p>"Are you all right?"</p>
 
@@ -975,7 +975,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>No — it wasn't something new to be surprised about.</p>
 
-<p>He was the one who had steadied me when I was hyperventilating and couldn't regain my senses — in a moment I don't even remember. When I finally regained my composure and came out of his bedroom back into the living room, the painting was already gone. He must have removed it intentionally, thinking it might be the cause of the episode. According to Teacher, he had removed a painting he cherished so much he was obsessively attached to it.</p>
+<p>He was the one who had steadied me when I was hyperventilating and couldn't regain my senses — in a moment I don't even remember. When I finally regained my composure and came out of his bedroom back into the living room, the painting was already gone. He must have removed it intentionally, thinking it might be the cause of the episode. According to Ms. Suki Kim, he had removed a painting he cherished so much he was obsessively attached to it.</p>
 
 <p>I had already known long ago that the initial hostility and defensiveness he displayed weren't his consistent, stubborn way of dealing with others. Even with Phantom's members or Inwu hyung, there were times he was cold — but that wasn't the whole story either.</p>
 
@@ -983,11 +983,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>What was his alienation? What kind of alienation had made him empathize so deeply with <em>Alienation</em>?</p>
 
-<p>I had thought that after meeting Teacher, I would only be able to think of her — but unexpectedly, I could only think of him.</p>
+<p>I had thought that after meeting Ms. Suki Kim, I would only be able to think of her — but unexpectedly, I could only think of him.</p>
 
 <p>"You must have expended a lot of energy… If you want to rest, I can take you back to the hotel. I'll make up some excuse for you to those two."</p>
 
-<p>He was right. Though I hadn't physically struggled with Teacher, I felt completely drained, as if all the moisture had been wrung from my body.</p>
+<p>He was right. Though I hadn't physically struggled with Ms. Suki Kim, I felt completely drained, as if all the moisture had been wrung from my body.</p>
 
 <p>But, why? I didn't want to leave him.</p>
 
@@ -1007,19 +1007,19 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>As I stepped inside with him, several people were finishing late meals at tables lined along a narrow corridor to the right. Contrary to the grandeur of the sign, the interior décor was simple and welcoming. It was the kind of casual Hong Kong eatery where one could fill up without feeling out of place.</p>
 
-<p>Deeper inside, Yuni nuna and Juhan were seated at a corner table placed at a diamond angle — an attempt, it seemed, at a bit of style. Unconsciously, my face brightened. It wasn't as though I had been wandering alone in an unfamiliar place, but even just reuniting after a few hours apart in a strange city brought an immediate warmth to seeing their familiar faces.</p>
+<p>Deeper inside, nuna and hyung were seated at a corner table placed at a diamond angle — an attempt, it seemed, at a bit of style. Unconsciously, my face brightened. It wasn't as though I had been wandering alone in an unfamiliar place, but even just reuniting after a few hours apart in a strange city brought an immediate warmth to seeing their familiar faces.</p>
 
 <p>"Oh? What's this? Why are you two coming in together?"</p>
 
-<p>Juhan hyung, who had been sitting facing the corridor, was the first to raise his hand and acknowledge us. Both of them looked more energized than usual, as one would expect from people who had been gearing up for a Hong Kong Friday night.</p>
+<p>Juhani hyung, who had been sitting facing the corridor, was the first to raise his hand and acknowledge us. Both of them looked more energized than usual, as one would expect from people who had been gearing up for a Hong Kong Friday night.</p>
 
-<p>"He said his condition had improved, so I stopped by the hotel and brought him along."</p>
+<p>"He said he was feeling better, so I stopped by the hotel and brought him along."</p>
 
-<p>He answered, perching on a worn wooden chair without a backrest. Since nuna and Juhan were sitting across from each other at the square table, he and I took seats opposite one another as well.</p>
+<p>He answered, perching on a worn wooden chair without a backrest. Since nuna and hyung were sitting across from each other at the square table, he and I took seats opposite one another as well.</p>
 
 <p>"Right, you were really looking forward to seeing Soho. Can't miss Soho on a Friday night."</p>
 
-<p>I smiled back at Juhan hyung, who playfully tapped my back and grinned. I felt a little self-conscious hearing that I had been looking forward to Soho in front of him, but it was true.</p>
+<p>I smiled back at hyung, who playfully tapped my back and grinned. I felt a little self-conscious hearing that I had been looking forward to Soho in front of him, but it was true.</p>
 
 <p>"It was so cute — watching someone who doesn't really express what he wants doing all this research on his phone."</p>
 
@@ -1035,13 +1035,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"The wontons are soft — easy to eat."</p>
 
-<p>Suddenly his gaze shifted toward me. I had been staring blankly at him and startled, I looked over at Yuni nuna sitting beside me for no reason.</p>
+<p>Suddenly his gaze shifted toward me. I had been staring blankly at him and startled, I looked over at nuna sitting beside me for no reason.</p>
 
 <p>I still had no appetite to speak of, but thinking he might have been considerate because I hadn't eaten anything at the hotel, I belatedly nodded.</p>
 
 <p>"Director, please order one more bowl of wonton noodles for me."</p>
 
-<p>Juhan hyung called out urgently as he lifted the last remaining mouthful of noodles.</p>
+<p>Juhani hyung called out urgently as he lifted the last remaining mouthful of noodles.</p>
 
 <p>"I'll have milk tea."</p>
 
@@ -1081,7 +1081,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Seriously, you two are incredible. Where on earth does that energy come from? Are you taking some kind of tonic?"</p>
 
-<p>At his genuinely surprised expression, Yuni nuna and Juhan burst out laughing.</p>
+<p>At his genuinely surprised expression, nuna and hyung burst out laughing.</p>
 
 <p>Under the bright fluorescent lights, surrounded by familiar faces, their conversation, and the rich smell of food, my hazy senses slowly began to regain a sense of reality.</p>
 
@@ -1093,9 +1093,9 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Hey, who said it's free? You can pay for it when it gets updated on Old Future."</p>
 
-<p>That was Juhan hyung, who had just drained the last of his wonton noodle soup.</p>
+<p>That was Juhani hyung, who had just drained the last of his wonton noodle soup.</p>
 
-<p>"Yeah, we're forcing a sale here. So don't refuse, Yeehyeon."</p>
+<p>"Yeah, we're forcing a sale here. So don't refuse, Yeehyeon-ah."</p>
 
 <p>Nuna pulled my hand away. I knew they were saying this on purpose to make me feel more comfortable. Setting aside whether I paid or not, I was simply grateful that they had thought of me even while so tired and busy.</p>
 
@@ -1103,7 +1103,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>This time, I couldn't refuse as nuna held the top up to my chest again.</p>
 
-<p>The loosely woven knit was oversized, with a relaxed neckline and a generally drooping silhouette. While someone like Juhan hyung might naturally pull it off, it felt a bit too fashionable for me — but I trusted nuna's taste implicitly.</p>
+<p>The loosely woven knit was oversized, with a relaxed neckline and a generally drooping silhouette. While someone like Juhani hyung might naturally pull it off, it felt a bit too fashionable for me — but I trusted nuna's taste implicitly.</p>
 
 <p>"It's pretty… but won't it be a little hot?"</p>
 
@@ -1119,23 +1119,23 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Unconsciously my gaze shifted toward him, and <em>click</em> — the shutter snapped in that instant. Whether it was from shyness at being unfamiliar with cameras, or perhaps because of his remark about it being revealing, my ears instantly grew hot.</p>
 
-<p>Juhan hyung, who had finished his entire bowl of noodles, tossed the last fish ball into his mouth as if completely uninterested in the situation, while nuna stared at him in pointed silence.</p>
+<p>Hyung, who had finished his entire bowl of noodles, tossed the last fish ball into his mouth as if completely uninterested in the situation, while nuna stared at him in pointed silence.</p>
 
 <p>"Why are you like that again?"</p>
 
-<p>"You think things like that while looking at Yeehyeon? What an animal."</p>
+<p>"You think things like that while looking at Yeehyeonie? What an animal."</p>
 
-<p>While criticizing him with an aggrieved expression, nuna spread out the knit top and covered my face with it. I resented my own immaturity for getting flustered so easily over such a light, meaningless tease. I wanted to handle myself and the situation with more skill and composure, but all I could manage as my best defense was to shut my mouth.</p>
+<p>While criticizing him as he wore an aggrieved expression, nuna spread out the knit top and covered my face with it. I resented my own immaturity for getting flustered so easily over such a light, meaningless tease. I wanted to handle myself and the situation with more skill and composure, but all I could manage as my best defense was to shut my mouth.</p>
 
 <p>The newly ordered food arrived and spread across the table, and the topic shifted with it.</p>
 
 <p>"Director, you brought the driver, right? After we finish eating, could you call the car for a moment when we leave? We need to load this into the vehicle before we head out."</p>
 
-<p>Slicing through his newly served wonton noodles with his teeth, Juhan hyung looked up at him. In Seoul, he always seemed to drive himself, but here in Hong Kong, riding in a car driven by someone else appeared to be common.</p>
+<p>Slicing through his newly served wonton noodles with his teeth, Juhani hyung looked up at him. In Seoul, he always seemed to drive himself, but here in Hong Kong, riding in a car driven by someone else appeared to be common.</p>
 
-<p>"Yes, understood. Kwon Juhan."</p>
+<p>"Yes, understood. Kwon Juhan-nim."</p>
 
-<p>He tapped Juhan hyung's forehead lightly with the blunt end of a wooden chopstick, then picked up a piece of dim sum from the center of the table and casually placed it on my plate, his eyes and mouth still fixed on Juhan.</p>
+<p>He tapped hyung's forehead lightly with the blunt end of a wooden chopstick, then picked up a piece of dim sum from the center of the table and casually placed it on my plate, his eyes and mouth still fixed on hyung.</p>
 
 <p>"The condition is that you're back at the hotel by midnight, no exceptions. There are still two days left for the fair."</p>
 
@@ -1167,7 +1167,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>I wanted to be wherever he was.</p>
 
-<p>I wanted to talk to him about the feeling of <em>alienation</em>, but even if I couldn't, I simply wanted to be with him. And I moved simply because I wanted to. Whatever others might think, for me, that very process was already a deviation from my usual path.</p>
+<p>I wanted to talk to him about <em>Alienation</em>, but even if I couldn't, I simply wanted to be with him. And I moved simply because I wanted to. Whatever others might think, for me, that very process was already a deviation from my usual path.</p>
 
 <p>Wherever that led, I felt it would be better than the version of me who was afraid of making choices and moving.</p>
 
@@ -1189,7 +1189,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He had drunk far more than I had, yet seemed perfectly fine. Although he was matching nuna and hyung's energy appropriately, I couldn't sense any intoxication in his face or voice. I had wanted to see him a little drunk, but given that he and I had started drinking together, it seemed impossible to see him tipsy before me.</p>
 
-<p>Without even sitting down, nuna and hyung were already back to dancing next to the table, beer bottles in hand, blending in with the people on the floor. Foreigners nearby burst out laughing at Juhan hyung's comical gestures mixed in with his dancing, aiming their phone cameras at him. His sociability was remarkable, just as at the bar earlier.</p>
+<p>Without even sitting down, nuna and hyung were already back to dancing next to the table, beer bottles in hand, blending in with the people on the floor. Foreigners nearby burst out laughing at Juhani hyung's comical gestures mixed in with his dancing, aiming their phone cameras at him. His sociability was remarkable, just as at the bar earlier.</p>
 
 <p>Leaving the two of them — unlikely to sit anytime soon — to their own devices, he ordered drinks and recommended a Brooklyn beer, saying it would suit me well.</p>
 
@@ -1197,7 +1197,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He suddenly turned to look at me, raising his eyebrows with an expression asking what I meant by that.</p>
 
-<p>At the tall, narrow round table, he and I were sitting side by side across from the seats where nuna and hyung had tossed their bags. In truth, there was almost no space between him and me. It was difficult to shift my posture even slightly without our knees or upper thighs brushing against each other.</p>
+<p>At the tall, narrow round table, he and I were sitting side by side across from the seats where nuna and hyung had tossed their bags. In truth, there was almost no space between him and me. It was difficult to shift my posture even slightly without our knees or upper arms brushing against each other.</p>
 
 <p>I let out a soft laugh, thinking the comment sounded quite random even to me.</p>
 
@@ -1207,7 +1207,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p><em>"It seems like there's nothing you don't know."</em> That sounded like something a five or six-year-old would say while looking up at a middle schooler. I had no desire for him to think of me as a kid — so why had I said it?</p>
 
-<p>The beer, served in a transparent plastic cup, arrived quickly, and Yuni nuna and Juhan hyung, spotting it, returned to the table. After another toast — I had long since lost count — we drank. The beer he had chosen was easy and smooth to drink, with a slight sweetness following its bitterness.</p>
+<p>The beer, served in a transparent plastic cup, arrived quickly, and nuna and hyung, spotting it, returned to the table. After another toast — I had long since lost count — we drank. The beer he had chosen was easy and smooth to drink, with a slight sweetness following its bitterness.</p>
 
 <p>Perhaps because they had been dancing, nuna and hyung emptied their glasses almost instantly. Already somewhat floaty from the high proof of the tequila, I still kept bringing the beer glass to my lips, driven by an impulse to get even more intoxicated.</p>
 
@@ -1215,13 +1215,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>A group passing in front of our table stopped, their faces lighting up with recognition, and called out to us. They seemed to be staff from another gallery attending the fair.</p>
 
-<p>Yuni nuna and Juhan hyung, who had been sitting with their backs to the street, both turned around and exchanged loud high-fives with the group, as if running into old friends.</p>
+<p>Yuni nuna and Juhani hyung, who had been sitting with their backs to the street, both turned around and exchanged loud high-fives with the group, as if running into old friends.</p>
 
 <p>"We remember you because your staff's style is so distinctive. You look amazing even on your day off!"</p>
 
 <p>"Ah… thanks for the compliment, but aren't you recognizing us because of our boss's looks, not ours?"</p>
 
-<p>Juhan hyung pointed at him and asked playfully.</p>
+<p>Juhani hyung pointed at him and asked playfully.</p>
 
 <p>"I can't exactly say no to that."</p>
 
@@ -1287,7 +1287,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Nuna smiled and draped her arm over my shoulder.</p>
 
-<p>"Seo Yeehyeon, your popularity is truly international."</p>
+<p>"Seo Yeehyeon-ssi, your popularity is truly international."</p>
 
 <p>Nuna's words drew laughter from hyung too. But he just looked down at me while taking a drag from his cigarette, offering no smile.</p>
 
@@ -1345,7 +1345,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Even knowing he was joking, I didn't want him to misunderstand, and my gaze wavered. He seized the momentary pause to point the lens at me again. The shutter clicked in an instant.</p>
 
-<p>"At least, the pictures I take of you, Seo Yeehyeon — those seem interesting to me."</p>
+<p>"At least, the pictures I take of you, Seo Yeehyeon-ssi — those seem interesting to me."</p>
 
 <p>He lowered the camera as if satisfied and leaned his hand on the railing beside me. His chest and shoulder, angled toward me, were right in front of my eyes. I wanted to lean into him — using the dizziness from the mixed tequila and beer, and the disorientation of having smoked for the first time, as an excuse.</p>
 
@@ -1405,7 +1405,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"I see. So… you already have a boyfriend."</p>
 
-<p>As I glanced over at the man offering a bittersweet smile, I suddenly realized my mistake. I hadn't meant to imply I had a "boyfriend," but I could see how it had come out that way.</p>
+<p>At the sight of the man offering a bittersweet smile and glancing at his face, I suddenly realized my mistake. I hadn't meant to imply that he was my "boyfriend," but I could see how it had come out that way.</p>
 
 <p>"Well then. I hope you have a wonderful trip. It was nice talking with you."</p>
 
@@ -1421,7 +1421,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"I didn't know. How would I? Did we ever talk about such things?"</p>
 
-<p>He remained full of playful energy, in a very good mood for reasons unknown.</p>
+<p>He was playful and in a very good mood, though I couldn't tell why.</p>
 
 <p>Wanting to change the subject somehow, I reached out toward the camera hanging around his neck.</p>
 
@@ -1433,7 +1433,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"You won't let me?"</p>
 
-<p>He pulled the camera closer toward himself and asked one more time.</p>
+<p>I pulled the camera closer toward myself and asked one more time.</p>
 
 <p>He didn't seem like the type to strap a camera around his neck and head out into the streets upon arriving in a new city, so it was quite surprising when he casually slipped the strap over his neck as he got out of the car. The sight of him with this compact camera — smaller than his palm — made him look like an excited tourist on a trip. Which was, somehow… a little endearing.</p>
 
@@ -1445,13 +1445,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>I asked with a hint of dissatisfaction. He had taken plenty of pictures even while I, unused to cameras, felt awkward, yet now he wouldn't show me the results. It felt unfair.</p>
 
-<p>"Seo Yeehyeon, you're a fortune teller. If you look at my photos, you'll read everything about me, won't you?"</p>
+<p>"Seo Yeehyeon-ssi, you're a fortune teller. If you look at my photos, you'll read everything, won't you?"</p>
 
 <p>"…Read what?"</p>
 
 <p>"……"</p>
 
-<p>Our eyes met. I had said it without much thought, but he instantly clamped his mouth shut, like someone whose secret had been exposed. Somehow, I had ended up lunging toward him as if trying to snatch the camera into my chest, and he had his arm wrapped around my back, pulling me backward to stop me.</p>
+<p>Our eyes met. I had said it without much thought, but he instantly clamped his mouth shut, like someone whose secret had been exposed. Somehow, I had ended up lunging toward him as if lunging into his arms to snatch the camera, and he had his arm wrapped around my back, pulling me backward to stop me.</p>
 
 <p>At that very close distance, his eyes meticulously scanned every part of my face, as if searching for something. He would look at me like this sometimes. Perhaps because we were so close, the scent of his cologne tickled my nose.</p>
 
@@ -1459,11 +1459,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"What? When…"</p>
 
-<p>At the unexpected mention of Inwu hyung's name, I was just trying to dredge up the memory when Juhan hyung suddenly appeared from behind and threw himself onto him in an embrace, as if piggybacking.</p>
+<p>At the unexpected mention of Inwu hyung's name, I was just trying to dredge up the memory when Juhani hyung suddenly appeared from behind and threw himself onto him in an embrace, as if piggybacking.</p>
 
 <p>"Director, I'm dying of thirst! Beer, give me beer!"</p>
 
-<p>"Ah… this is really annoying."</p>
+<p>"Ah… your timing is terrible."</p>
 
 <p>He grumbled with an openly vexed expression, but because his attitude was no different than usual, it all felt like a joke. Neither hyung nor nuna seemed to care at all.</p>
 
@@ -1473,7 +1473,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Draining the beer left in his glass, hyung fanned his sweat-soaked face with his hand.</p>
 
-<p>The tension that had been tautly drawn between him and me just moments before vanished as if it had never been, and our table, like all the others surrounding us, instantly erupted into lively chatter.</p>
+<p>The tension between him and me just moments before vanished as if it had never existed, and our table, like all the others around us, instantly erupted into lively chatter.</p>
 
 <p>"Wait a minute. But why are you suddenly trying to send us to a club? We always have to be back by midnight before the fair ends."</p>
 
@@ -1481,7 +1481,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"You're planning on sending us to a club so you can slip away somewhere nice by yourself, aren't you?"</p>
 
-<p>Wiping the corner of his mouth with the back of his hand, hyung jumped up this time. He scowled and reattached the camera strap around his neck — which he had loosened to keep it out of harm's way.</p>
+<p>Wiping the corner of his mouth with the back of his hand, hyung jumped up this time. He scowled and reattached the camera strap around his neck — which he had loosened to keep it out of my reach.</p>
 
 <p>"You weren't sitting still, so I said if you're going to be like that, just go to a club. Is this really something to be suspicious about?"</p>
 

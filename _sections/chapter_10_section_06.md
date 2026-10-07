@@ -15,19 +15,19 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>As I stepped inside with him, several people were finishing late meals at tables lined along a narrow corridor to the right. Contrary to the grandeur of the sign, the interior décor was simple and welcoming. It was the kind of casual Hong Kong eatery where one could fill up without feeling out of place.</p>
 
-<p>Deeper inside, Yuni nuna and Juhan were seated at a corner table placed at a diamond angle — an attempt, it seemed, at a bit of style. Unconsciously, my face brightened. It wasn't as though I had been wandering alone in an unfamiliar place, but even just reuniting after a few hours apart in a strange city brought an immediate warmth to seeing their familiar faces.</p>
+<p>Deeper inside, nuna and hyung were seated at a corner table placed at a diamond angle — an attempt, it seemed, at a bit of style. Unconsciously, my face brightened. It wasn't as though I had been wandering alone in an unfamiliar place, but even just reuniting after a few hours apart in a strange city brought an immediate warmth to seeing their familiar faces.</p>
 
 <p>"Oh? What's this? Why are you two coming in together?"</p>
 
-<p>Juhan hyung, who had been sitting facing the corridor, was the first to raise his hand and acknowledge us. Both of them looked more energized than usual, as one would expect from people who had been gearing up for a Hong Kong Friday night.</p>
+<p>Juhani hyung, who had been sitting facing the corridor, was the first to raise his hand and acknowledge us. Both of them looked more energized than usual, as one would expect from people who had been gearing up for a Hong Kong Friday night.</p>
 
-<p>"He said his condition had improved, so I stopped by the hotel and brought him along."</p>
+<p>"He said he was feeling better, so I stopped by the hotel and brought him along."</p>
 
-<p>He answered, perching on a worn wooden chair without a backrest. Since nuna and Juhan were sitting across from each other at the square table, he and I took seats opposite one another as well.</p>
+<p>He answered, perching on a worn wooden chair without a backrest. Since nuna and hyung were sitting across from each other at the square table, he and I took seats opposite one another as well.</p>
 
 <p>"Right, you were really looking forward to seeing Soho. Can't miss Soho on a Friday night."</p>
 
-<p>I smiled back at Juhan hyung, who playfully tapped my back and grinned. I felt a little self-conscious hearing that I had been looking forward to Soho in front of him, but it was true.</p>
+<p>I smiled back at hyung, who playfully tapped my back and grinned. I felt a little self-conscious hearing that I had been looking forward to Soho in front of him, but it was true.</p>
 
 <p>"It was so cute — watching someone who doesn't really express what he wants doing all this research on his phone."</p>
 
@@ -43,13 +43,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"The wontons are soft — easy to eat."</p>
 
-<p>Suddenly his gaze shifted toward me. I had been staring blankly at him and startled, I looked over at Yuni nuna sitting beside me for no reason.</p>
+<p>Suddenly his gaze shifted toward me. I had been staring blankly at him and startled, I looked over at nuna sitting beside me for no reason.</p>
 
 <p>I still had no appetite to speak of, but thinking he might have been considerate because I hadn't eaten anything at the hotel, I belatedly nodded.</p>
 
 <p>"Director, please order one more bowl of wonton noodles for me."</p>
 
-<p>Juhan hyung called out urgently as he lifted the last remaining mouthful of noodles.</p>
+<p>Juhani hyung called out urgently as he lifted the last remaining mouthful of noodles.</p>
 
 <p>"I'll have milk tea."</p>
 
@@ -89,7 +89,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Seriously, you two are incredible. Where on earth does that energy come from? Are you taking some kind of tonic?"</p>
 
-<p>At his genuinely surprised expression, Yuni nuna and Juhan burst out laughing.</p>
+<p>At his genuinely surprised expression, nuna and hyung burst out laughing.</p>
 
 <p>Under the bright fluorescent lights, surrounded by familiar faces, their conversation, and the rich smell of food, my hazy senses slowly began to regain a sense of reality.</p>
 
@@ -101,9 +101,9 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Hey, who said it's free? You can pay for it when it gets updated on Old Future."</p>
 
-<p>That was Juhan hyung, who had just drained the last of his wonton noodle soup.</p>
+<p>That was Juhani hyung, who had just drained the last of his wonton noodle soup.</p>
 
-<p>"Yeah, we're forcing a sale here. So don't refuse, Yeehyeon."</p>
+<p>"Yeah, we're forcing a sale here. So don't refuse, Yeehyeon-ah."</p>
 
 <p>Nuna pulled my hand away. I knew they were saying this on purpose to make me feel more comfortable. Setting aside whether I paid or not, I was simply grateful that they had thought of me even while so tired and busy.</p>
 
@@ -111,7 +111,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>This time, I couldn't refuse as nuna held the top up to my chest again.</p>
 
-<p>The loosely woven knit was oversized, with a relaxed neckline and a generally drooping silhouette. While someone like Juhan hyung might naturally pull it off, it felt a bit too fashionable for me — but I trusted nuna's taste implicitly.</p>
+<p>The loosely woven knit was oversized, with a relaxed neckline and a generally drooping silhouette. While someone like Juhani hyung might naturally pull it off, it felt a bit too fashionable for me — but I trusted nuna's taste implicitly.</p>
 
 <p>"It's pretty… but won't it be a little hot?"</p>
 
@@ -127,23 +127,23 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Unconsciously my gaze shifted toward him, and <em>click</em> — the shutter snapped in that instant. Whether it was from shyness at being unfamiliar with cameras, or perhaps because of his remark about it being revealing, my ears instantly grew hot.</p>
 
-<p>Juhan hyung, who had finished his entire bowl of noodles, tossed the last fish ball into his mouth as if completely uninterested in the situation, while nuna stared at him in pointed silence.</p>
+<p>Hyung, who had finished his entire bowl of noodles, tossed the last fish ball into his mouth as if completely uninterested in the situation, while nuna stared at him in pointed silence.</p>
 
 <p>"Why are you like that again?"</p>
 
-<p>"You think things like that while looking at Yeehyeon? What an animal."</p>
+<p>"You think things like that while looking at Yeehyeonie? What an animal."</p>
 
-<p>While criticizing him with an aggrieved expression, nuna spread out the knit top and covered my face with it. I resented my own immaturity for getting flustered so easily over such a light, meaningless tease. I wanted to handle myself and the situation with more skill and composure, but all I could manage as my best defense was to shut my mouth.</p>
+<p>While criticizing him as he wore an aggrieved expression, nuna spread out the knit top and covered my face with it. I resented my own immaturity for getting flustered so easily over such a light, meaningless tease. I wanted to handle myself and the situation with more skill and composure, but all I could manage as my best defense was to shut my mouth.</p>
 
 <p>The newly ordered food arrived and spread across the table, and the topic shifted with it.</p>
 
 <p>"Director, you brought the driver, right? After we finish eating, could you call the car for a moment when we leave? We need to load this into the vehicle before we head out."</p>
 
-<p>Slicing through his newly served wonton noodles with his teeth, Juhan hyung looked up at him. In Seoul, he always seemed to drive himself, but here in Hong Kong, riding in a car driven by someone else appeared to be common.</p>
+<p>Slicing through his newly served wonton noodles with his teeth, Juhani hyung looked up at him. In Seoul, he always seemed to drive himself, but here in Hong Kong, riding in a car driven by someone else appeared to be common.</p>
 
-<p>"Yes, understood. Kwon Juhan."</p>
+<p>"Yes, understood. Kwon Juhan-nim."</p>
 
-<p>He tapped Juhan hyung's forehead lightly with the blunt end of a wooden chopstick, then picked up a piece of dim sum from the center of the table and casually placed it on my plate, his eyes and mouth still fixed on Juhan.</p>
+<p>He tapped hyung's forehead lightly with the blunt end of a wooden chopstick, then picked up a piece of dim sum from the center of the table and casually placed it on my plate, his eyes and mouth still fixed on hyung.</p>
 
 <p>"The condition is that you're back at the hotel by midnight, no exceptions. There are still two days left for the fair."</p>
 

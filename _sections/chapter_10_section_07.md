@@ -35,7 +35,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>I wanted to be wherever he was.</p>
 
-<p>I wanted to talk to him about the feeling of <em>alienation</em>, but even if I couldn't, I simply wanted to be with him. And I moved simply because I wanted to. Whatever others might think, for me, that very process was already a deviation from my usual path.</p>
+<p>I wanted to talk to him about <em>Alienation</em>, but even if I couldn't, I simply wanted to be with him. And I moved simply because I wanted to. Whatever others might think, for me, that very process was already a deviation from my usual path.</p>
 
 <p>Wherever that led, I felt it would be better than the version of me who was afraid of making choices and moving.</p>
 
@@ -57,7 +57,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He had drunk far more than I had, yet seemed perfectly fine. Although he was matching nuna and hyung's energy appropriately, I couldn't sense any intoxication in his face or voice. I had wanted to see him a little drunk, but given that he and I had started drinking together, it seemed impossible to see him tipsy before me.</p>
 
-<p>Without even sitting down, nuna and hyung were already back to dancing next to the table, beer bottles in hand, blending in with the people on the floor. Foreigners nearby burst out laughing at Juhan hyung's comical gestures mixed in with his dancing, aiming their phone cameras at him. His sociability was remarkable, just as at the bar earlier.</p>
+<p>Without even sitting down, nuna and hyung were already back to dancing next to the table, beer bottles in hand, blending in with the people on the floor. Foreigners nearby burst out laughing at Juhani hyung's comical gestures mixed in with his dancing, aiming their phone cameras at him. His sociability was remarkable, just as at the bar earlier.</p>
 
 <p>Leaving the two of them — unlikely to sit anytime soon — to their own devices, he ordered drinks and recommended a Brooklyn beer, saying it would suit me well.</p>
 
@@ -65,7 +65,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He suddenly turned to look at me, raising his eyebrows with an expression asking what I meant by that.</p>
 
-<p>At the tall, narrow round table, he and I were sitting side by side across from the seats where nuna and hyung had tossed their bags. In truth, there was almost no space between him and me. It was difficult to shift my posture even slightly without our knees or upper thighs brushing against each other.</p>
+<p>At the tall, narrow round table, he and I were sitting side by side across from the seats where nuna and hyung had tossed their bags. In truth, there was almost no space between him and me. It was difficult to shift my posture even slightly without our knees or upper arms brushing against each other.</p>
 
 <p>I let out a soft laugh, thinking the comment sounded quite random even to me.</p>
 
@@ -75,7 +75,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p><em>"It seems like there's nothing you don't know."</em> That sounded like something a five or six-year-old would say while looking up at a middle schooler. I had no desire for him to think of me as a kid — so why had I said it?</p>
 
-<p>The beer, served in a transparent plastic cup, arrived quickly, and Yuni nuna and Juhan hyung, spotting it, returned to the table. After another toast — I had long since lost count — we drank. The beer he had chosen was easy and smooth to drink, with a slight sweetness following its bitterness.</p>
+<p>The beer, served in a transparent plastic cup, arrived quickly, and nuna and hyung, spotting it, returned to the table. After another toast — I had long since lost count — we drank. The beer he had chosen was easy and smooth to drink, with a slight sweetness following its bitterness.</p>
 
 <p>Perhaps because they had been dancing, nuna and hyung emptied their glasses almost instantly. Already somewhat floaty from the high proof of the tequila, I still kept bringing the beer glass to my lips, driven by an impulse to get even more intoxicated.</p>
 
@@ -83,13 +83,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>A group passing in front of our table stopped, their faces lighting up with recognition, and called out to us. They seemed to be staff from another gallery attending the fair.</p>
 
-<p>Yuni nuna and Juhan hyung, who had been sitting with their backs to the street, both turned around and exchanged loud high-fives with the group, as if running into old friends.</p>
+<p>Yuni nuna and Juhani hyung, who had been sitting with their backs to the street, both turned around and exchanged loud high-fives with the group, as if running into old friends.</p>
 
 <p>"We remember you because your staff's style is so distinctive. You look amazing even on your day off!"</p>
 
 <p>"Ah… thanks for the compliment, but aren't you recognizing us because of our boss's looks, not ours?"</p>
 
-<p>Juhan hyung pointed at him and asked playfully.</p>
+<p>Juhani hyung pointed at him and asked playfully.</p>
 
 <p>"I can't exactly say no to that."</p>
 
@@ -155,7 +155,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Nuna smiled and draped her arm over my shoulder.</p>
 
-<p>"Seo Yeehyeon, your popularity is truly international."</p>
+<p>"Seo Yeehyeon-ssi, your popularity is truly international."</p>
 
 <p>Nuna's words drew laughter from hyung too. But he just looked down at me while taking a drag from his cigarette, offering no smile.</p>
 
@@ -213,7 +213,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Even knowing he was joking, I didn't want him to misunderstand, and my gaze wavered. He seized the momentary pause to point the lens at me again. The shutter clicked in an instant.</p>
 
-<p>"At least, the pictures I take of you, Seo Yeehyeon — those seem interesting to me."</p>
+<p>"At least, the pictures I take of you, Seo Yeehyeon-ssi — those seem interesting to me."</p>
 
 <p>He lowered the camera as if satisfied and leaned his hand on the railing beside me. His chest and shoulder, angled toward me, were right in front of my eyes. I wanted to lean into him — using the dizziness from the mixed tequila and beer, and the disorientation of having smoked for the first time, as an excuse.</p>
 
@@ -273,7 +273,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"I see. So… you already have a boyfriend."</p>
 
-<p>As I glanced over at the man offering a bittersweet smile, I suddenly realized my mistake. I hadn't meant to imply I had a "boyfriend," but I could see how it had come out that way.</p>
+<p>At the sight of the man offering a bittersweet smile and glancing at his face, I suddenly realized my mistake. I hadn't meant to imply that he was my "boyfriend," but I could see how it had come out that way.</p>
 
 <p>"Well then. I hope you have a wonderful trip. It was nice talking with you."</p>
 
@@ -289,7 +289,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"I didn't know. How would I? Did we ever talk about such things?"</p>
 
-<p>He remained full of playful energy, in a very good mood for reasons unknown.</p>
+<p>He was playful and in a very good mood, though I couldn't tell why.</p>
 
 <p>Wanting to change the subject somehow, I reached out toward the camera hanging around his neck.</p>
 
@@ -301,7 +301,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"You won't let me?"</p>
 
-<p>He pulled the camera closer toward himself and asked one more time.</p>
+<p>I pulled the camera closer toward myself and asked one more time.</p>
 
 <p>He didn't seem like the type to strap a camera around his neck and head out into the streets upon arriving in a new city, so it was quite surprising when he casually slipped the strap over his neck as he got out of the car. The sight of him with this compact camera — smaller than his palm — made him look like an excited tourist on a trip. Which was, somehow… a little endearing.</p>
 
@@ -313,13 +313,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>I asked with a hint of dissatisfaction. He had taken plenty of pictures even while I, unused to cameras, felt awkward, yet now he wouldn't show me the results. It felt unfair.</p>
 
-<p>"Seo Yeehyeon, you're a fortune teller. If you look at my photos, you'll read everything about me, won't you?"</p>
+<p>"Seo Yeehyeon-ssi, you're a fortune teller. If you look at my photos, you'll read everything, won't you?"</p>
 
 <p>"…Read what?"</p>
 
 <p>"……"</p>
 
-<p>Our eyes met. I had said it without much thought, but he instantly clamped his mouth shut, like someone whose secret had been exposed. Somehow, I had ended up lunging toward him as if trying to snatch the camera into my chest, and he had his arm wrapped around my back, pulling me backward to stop me.</p>
+<p>Our eyes met. I had said it without much thought, but he instantly clamped his mouth shut, like someone whose secret had been exposed. Somehow, I had ended up lunging toward him as if lunging into his arms to snatch the camera, and he had his arm wrapped around my back, pulling me backward to stop me.</p>
 
 <p>At that very close distance, his eyes meticulously scanned every part of my face, as if searching for something. He would look at me like this sometimes. Perhaps because we were so close, the scent of his cologne tickled my nose.</p>
 
@@ -327,11 +327,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"What? When…"</p>
 
-<p>At the unexpected mention of Inwu hyung's name, I was just trying to dredge up the memory when Juhan hyung suddenly appeared from behind and threw himself onto him in an embrace, as if piggybacking.</p>
+<p>At the unexpected mention of Inwu hyung's name, I was just trying to dredge up the memory when Juhani hyung suddenly appeared from behind and threw himself onto him in an embrace, as if piggybacking.</p>
 
 <p>"Director, I'm dying of thirst! Beer, give me beer!"</p>
 
-<p>"Ah… this is really annoying."</p>
+<p>"Ah… your timing is terrible."</p>
 
 <p>He grumbled with an openly vexed expression, but because his attitude was no different than usual, it all felt like a joke. Neither hyung nor nuna seemed to care at all.</p>
 
@@ -341,7 +341,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Draining the beer left in his glass, hyung fanned his sweat-soaked face with his hand.</p>
 
-<p>The tension that had been tautly drawn between him and me just moments before vanished as if it had never been, and our table, like all the others surrounding us, instantly erupted into lively chatter.</p>
+<p>The tension between him and me just moments before vanished as if it had never existed, and our table, like all the others around us, instantly erupted into lively chatter.</p>
 
 <p>"Wait a minute. But why are you suddenly trying to send us to a club? We always have to be back by midnight before the fair ends."</p>
 
@@ -349,7 +349,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"You're planning on sending us to a club so you can slip away somewhere nice by yourself, aren't you?"</p>
 
-<p>Wiping the corner of his mouth with the back of his hand, hyung jumped up this time. He scowled and reattached the camera strap around his neck — which he had loosened to keep it out of harm's way.</p>
+<p>Wiping the corner of his mouth with the back of his hand, hyung jumped up this time. He scowled and reattached the camera strap around his neck — which he had loosened to keep it out of my reach.</p>
 
 <p>"You weren't sitting still, so I said if you're going to be like that, just go to a club. Is this really something to be suspicious about?"</p>
 

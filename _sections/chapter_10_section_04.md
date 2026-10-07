@@ -11,7 +11,7 @@ section_count: 7
 permalink: /sections/chapter-10/4/
 excerpt_separator: "<!-- section-excerpt-end -->"
 ---
-<p>"Liu-ssi."</p>
+<p>"Mr. Liu."</p>
 
 <p>Just as we were about to turn into the next booth after crossing a hall where an experimental installation piece — translucent sculptures suspended in the air to visualize the flow of air — was on display, someone called his name in a very cheerful tone.</p>
 
@@ -49,7 +49,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>The man looked to be of mixed East Asian and Western heritage. His facial structure and hair had a distinctly East Asian quality, but his eyes were a deep blue. Facing that incongruity, I recalled the shock I had felt the first time I saw him. <em>Perhaps this is what a Golden Alpha looks like…</em></p>
 
-<p>I didn't sense that same imposing presence or unique aura from the man who was casually talking about the painting hanging in front of him while I stood there, but we shared the somewhat broad commonality of being of mixed heritage and having blue eyes.</p>
+<p>I didn't sense that same imposing presence or unique aura from the man who was casually talking about the painting hanging in front of him while I stood there, but the two did have a few general similarities: both were of mixed heritage and had blue eyes.”</p>
 
 <p>"Our gallery is hosting a party in the Soho area on Sunday. If you're free, would you care to stop by with your other staff members? It would be great if you could make it. It's a chance for the galleries to connect, and if we're lucky, maybe even an opportunity to make some private travel memories…"</p>
 
@@ -57,15 +57,15 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Alpha? Beta?"</p>
 
-<p>Seeing him up close, his eyes were completely different from the Director's. His weren't that distinct, mineral-like blue, but something more precarious and delicate, as if they might vanish at any moment… like seafoam, or… yes, like a ghost…</p>
+<p>Seeing him up close, his eyes were completely different from the Director's. His weren't this distinct, mineral-like blue, but something more precarious and delicate, as if they might vanish at any moment… like seafoam, or… yes, like a ghost…</p>
 
-<p>"Seo Yeehyeon."</p>
+<p>"Seo Yeehyeon-ssi."</p>
 
 <p>At the sound of my name called from behind, I turned around immediately, as though my head had been pulled.</p>
 
 <p>He was striding quickly toward me from the booth entrance. His eyes, which usually seemed so delicate they might disappear at any moment, were now burning fiercely. This was entirely different from the coldness he had displayed in front of <em>Lovers on the Bed</em>.</p>
 
-<p>"Wow… just looking at him, he's a Golden Alpha. If I'd known you were going around with someone like that, I wouldn't have touched you."</p>
+<p>"Wow… just looking at him, he's a Golden Alpha. If I'd known you were going around with someone like that, I wouldn't have made a move on you."</p>
 
 <p>Muttering this to himself and shaking his head, the man offered a brief "nice to meet you" and fled the scene.</p>
 
@@ -109,7 +109,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He struck me as extraordinary all over again. Not just his ability to arrange a meeting with Ms. Suki Kim — but that tenacity, that commitment, to willingly endure such a bothersome process just to get me to paint. That steadfastness itself was astonishing.</p>
 
-<p>He had confidence in me, a complete stranger — but it was a different kind of conviction than the confidence Yeehan hyung's grandfather had in hyung's life, or Mr. Lim had in Morae nuna's.</p>
+<p>He had confidence in me, a complete stranger — but it was a different kind of conviction than the confidence Grandfather had in hyung's life, or Mr. Lim had in Morae's.</p>
 
 <p>Could he really trust his own instincts that much? Even knowing that what I could produce right now would likely be nothing more than a heavily ornamented imitation — just like the work of the artist "Seonew"?</p>
 
@@ -123,4 +123,4 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Damn it. I have nothing to say to that."</p>
 
-<p>Trading jokes with Juhan hyung, he had already returned to his usual self.</p>
+<p>Bantering with Juhani hyung, he had already returned to his usual self.</p>

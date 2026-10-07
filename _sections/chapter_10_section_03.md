@@ -17,33 +17,33 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>The location, however, was quite good. It wasn't far from the experimental large-scale sculpture installed in the center, and there was ample space between us and the booth across the aisle.</p>
 
-<p>Manager Han and he were walking side by side down that corridor. They were such a captivating pair that my gaze followed their movements even knowing it might look foolish.</p>
+<p>The manager and he were walking side by side down that corridor. They were such a captivating pair that my gaze followed their movements even knowing it might look foolish.</p>
 
-<p>I recalled Juhan hyung's exaggerated comment from some time ago — that seeing Shushu in person had nearly made him want to bow. It wasn't quite that level of shock, but it certainly wasn't everyday beauty either. Not enough to prostrate myself, but I couldn't tear my eyes away from the magnetic pull they exerted.</p>
+<p>I recalled Juhani hyung's exaggerated comment from some time ago — that seeing Artist Shushu in person had nearly made him want to bow. It wasn't quite that level of shock, but it certainly wasn't everyday beauty either. Not enough to prostrate myself, but I couldn't tear my eyes away from the magnetic pull they exerted.</p>
 
 <p>As it was a VIP preview, the venue was packed with stylish people in what I could only think of as party attire — utterly unfamiliar to me. Hyung, nuna, and I had also dressed in the neat black-toned outfits we'd prepared in advance and had our hair styled differently than usual, but we couldn't compare to the presence of those two.</p>
 
 <p>They were the definition of the high-society Alphas I had never had cause to encounter back in that small fishing village.</p>
 
-<p>"Manager Han, you look incredible! You're really radiating that Alpha energy after so long!"</p>
+<p>"Manager, you look incredible! You're really radiating that Alpha energy after so long!"</p>
 
-<p>Apparently I wasn't the only one thinking that, because Juhan hyung ran ahead to the booth and caused a commotion, hugging Manager Han.</p>
+<p>Apparently I wasn't the only one thinking that, because Juhani hyung ran ahead to the booth and caused a commotion, hugging the manager.</p>
 
 <p>"What do you mean, 'after so long'? What am I like usually? Huh?"</p>
 
-<p>Manager Han laughed and grabbed Juhan hyung by the back of his neck. Though she was wearing a sharply tailored black two-piece suit — unlike her usual comfortable attire — her tone and actions were exactly the Manager Han everyone knew.</p>
+<p>Manager Han laughed and grabbed hyung by the back of his neck. Though she was wearing a sharply tailored black two-piece suit — unlike her usual comfortable attire — her tone and actions were exactly the manager everyone knew.</p>
 
 <p>"Even in jeans and a T-shirt you're stylish, but dressed up like this is a different kind of cool entirely."</p>
 
 <p>"Well, that's true. There is something to suddenly putting on a suit when you usually walk around in a T-shirt and ripped jeans."</p>
 
-<p>Still holding the back of Juhan hyung's neck, Manager Han draped an arm over his shoulder and surveyed the completed display behind us, eyes widening.</p>
+<p>Still holding the back of hyung's neck, the manager draped an arm over his shoulder and surveyed the completed display behind us, eyes widening.</p>
 
 <p>"Hey… look at what our crew can do. I really didn't expect them to finish in just three hours. Maybe we can increase the number of pieces for the next fair?"</p>
 
 <p>"Ha… I love Phantom, but I think I'll be submitting my resignation now."</p>
 
-<p>Everyone burst out laughing at Juhan hyung's earnest joke.</p>
+<p>Everyone burst out laughing at Juhani hyung's earnest joke.</p>
 
 <p>All five of us were still pre-dinner, each for their own scheduling reasons. They began to quiet their hunger with simple food from the buffet tables set up around the venue.</p>
 
@@ -53,7 +53,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>I must have been hungry — the only thing I'd managed to eat all day was the chicken dish served during the flight — but excitement and nerves were keeping me from feeling it. I was just prodding a tiny, dainty-looking dim sum with my chopsticks when he appeared at my side and started talking.</p>
 
-<p>He had claimed he was starving, having had no time to eat while flashing business smiles nonstop, yet he also wasn't touching much of the food. He was only sipping champagne while picking at a few nuts that Juhan hyung had brought over.</p>
+<p>He had claimed he was starving, having had no time to eat while flashing business smiles nonstop, yet he also wasn't touching much of the food. He was only sipping champagne while picking at a few nuts that Juhani hyung had brought over.</p>
 
 <p>"A little… but it's still fun."</p>
 
@@ -87,7 +87,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"……"</p>
 
-<p>"To get Seo Yeehyeon to pick up a brush."</p>
+<p>"To get Seo Yeehyeon-ssi to pick up a brush."</p>
 
 <p>I don't know what I had been expecting from the words "ulterior motives." I quickly averted my gaze, afraid he might see the disappointment on my face. But even when he wasn't within my line of sight, the mere fact of being within his made me feel as though everything I wanted to keep hidden would be laid bare.</p>
 
@@ -95,13 +95,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He had been tapping the rolled-up pamphlet against his palm; then he reversed it and tapped it against my shoulder.</p>
 
-<p>"It seems like the best possible arrangement for you, Seo Yeehyeon, since you have to keep a low profile. I don't know who's chasing you or why, but if you become a contracted artist for Phantom, I'll protect you with everything I've got. I'm good at that sort of thing."</p>
+<p>"It seems like the best possible arrangement for you, Seo Yeehyeon-ssi, since you have to keep a low profile. I don't know who's chasing you or why, but if you become a contracted artist for Phantom, I'll protect you with everything I've got. I'm good at that sort of thing."</p>
 
 <p>I managed an awkward smile at his childlike boasting tone, as if he were proudly announcing he knew how to read and write. He was deliberately lightening the weight of his words with a casual air, but what he said was probably true. Given his methods and the shrewdness he showed in running Phantom, he was certainly not the type to stand by while someone took what was his.</p>
 
 <p>However, what I was being chased over wasn't a simple matter ending with just me, and even if he protected me, it would only be because I was an artist worth investing in. Or, putting it in the best possible light, a business decision on the part of a dealer responsible for a talented artist — or so he seemed to consider me.</p>
 
-<p>I wasn't hoping for anything more than that. If I wanted anything at all, it would be the safety of Morae nuna and Yeehan hyung — not my own well-being, which was, at best, a footnote to Morae nuna's father.</p>
+<p>I wasn't hoping for anything more than that. If I wanted anything at all, it would be the safety of Morae and hyung — not my own well-being, which was, at best, a footnote to Morae's father.</p>
 
 <p>I was simply turning over the true meaning behind his words, "I'll protect you." It was a dangerous way of speaking.</p>
 
@@ -117,7 +117,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He addressed me with curiosity as I stopped in front of a piece depicting a close-up of a woman lying on her side on the floor. I checked the caption: a work from 2002.</p>
 
-<p>Though there were many art books at home, I had always been like a child who only looked at the illustrations and never read the text — I took in the works themselves and paid little attention to the artist's name or the title. Neither my mother nor my father, nor my Teacher, had ever tried to teach me about the lineage of painters or art history.</p>
+<p>Though there were many art books at home, I had always been like a child who only looked at the illustrations and never read the text — I took in the works themselves and paid little attention to the artist's name or the title. Neither my mother nor my father, nor Teacher, had ever tried to teach me about the lineage of painters or art history.</p>
 
 <p>"I… don't know much about artists."</p>
 
@@ -133,7 +133,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>The more I looked, the more it drew me in. I wanted, if possible, to place my hand on the hardened texture of the paint and vaguely feel the artist's breath and energy.</p>
 
-<p>"For a piece to be evaluated purely on its artistic merit, independent of marketing or gallery power, ten years isn't even enough these days. All the works Seo Yeehyeon seems interested in right now… their value continues to climb even now — at a minimum twenty years later, at a maximum a hundred."</p>
+<p>"For a piece to be evaluated purely on its artistic merit, independent of marketing or gallery power, ten years isn't even enough these days. All the works Seo Yeehyeon-ssi seems interested in right now… their value continues to climb even now — at a minimum twenty years later, at a maximum a hundred."</p>
 
 <p>I felt his gaze and looked over at him. He was looking at me with eyes that seemed to be exploring something interesting. His eyes were shining — sparkling like waves breaking finely under sunlight. Undeniably beautiful.</p>
 
@@ -143,7 +143,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>I didn't know how to respond to his last remark, unsure whether he was asking for an answer or simply speaking to himself.</p>
 
-<p>But his observation that I seemed to prefer wild works wasn't wrong. Whatever it was, I liked works that revealed themselves as they truly were. It had always been that way.</p>
+<p>But his observation that I seemed to prefer wild works might not be wrong. Whatever it was, I liked works that revealed themselves as they truly were. It had always been that way.</p>
 
 <p>The reason was simple. Simply put… the language they used was similar to my own. It was a language I could understand.</p>
 
@@ -191,7 +191,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>What could possibly please him so much?</p>
 
-<p>"This is why I feel like I'm treating Seo Yeehyeon like a fortune teller. What do you see in this painting, what do you see in that one?"</p>
+<p>"This is why I feel like I'm treating Seo Yeehyeon-ssi like a fortune teller. What do you see in this painting, what do you see in that one?"</p>
 
 <p>Then he bent his waist slightly to meet my eyes at the same height.</p>
 
@@ -207,7 +207,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>People were generally kind to him. His handsome appearance played a part, but anyone would naturally be warm toward a "client" who appeared to have the financial means to purchase anything on the spot, regardless of what was being sold.</p>
 
-<p>"I personally scouted this artist, so I can recommend them with full confidence. They're one of the young artists currently making waves in the New York art scene. I imagine you may have heard their name. They're gaining attention for their sensual use of color and bold expression. They're a Korean artist in their twenties, and with the current rise of East Asian artists globally, their investment value is quite high. Their style seems like it would suit you perfectly. Besides this piece, there are two more works by the same artist — would you like to take a look?"</p>
+<p>"I personally scouted this artist, so I can recommend him with full confidence. He's one of the young artists currently making waves in the New York art scene. I imagine you may have heard his name, sir. He's gaining attention for his sensual use of color and bold expression. He's a Korean artist in their twenties, and with the current rise of East Asian artists globally, his investment value is quite high. His style seems like it would suit you perfectly, sir. Besides this piece, there are two more works by the same artist — would you like to take a look?"</p>
 
 <p>The man who had initially given a round, warm impression had an extraordinary gleam in his eyes upon closer inspection. Despite his relaxed expression, his ceaseless flow of words gave us — or rather, him — no room to interject. Just keeping up with his speech was a struggle with my English, which was limited to what I had learned through high school.</p>
 
@@ -227,7 +227,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"……"</p>
 
-<p>It was physical contact I hadn't anticipated at all. While this kind of casual contact was frequent with Juhan hyung or Yuni nuna, it had never extended to me before.</p>
+<p>It was physical contact I hadn't anticipated at all. While this kind of casual contact was frequent with Juhani hyung or Yuni nuna, it had never extended to me before.</p>
 
 <p>Even though we had once been the "lovers on the bed" with each other — if only for a single night — this kind of spontaneous physical contact in everyday life felt more awkward than that one unexpected encounter in bed had. Until now.</p>
 
@@ -239,7 +239,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>The content of his words was almost cruel, but to be blunt, his tone and expression conveyed no mockery toward the artwork, the artist, or the director who had discovered them. He was simply conveying exactly what he felt, "without any packaging."</p>
 
-<p>Within a few months, I had come to understand his way of speaking to some degree. He never minced words or sugar-coated things, especially when it came to work. There were times he gave instructions to Yuni nuna and Juhan hyung just as directly as he did to me, excluding emotional consideration entirely.</p>
+<p>Within a few months, I had come to understand his way of speaking to some degree. He never minced words or sugar-coated things, especially when it came to work. There were times he gave instructions to Yuni nuna and Juhani hyung just as directly as he did to me, excluding emotional consideration entirely.</p>
 
 <p>He seemed to believe that if the content of the words was true, packaging the delivery was simply inefficient.</p>
 
@@ -251,7 +251,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Fifteen thousand, and not in Hong Kong dollars but in US dollars. No matter how much of an amateur I was, there was no doubt that this painting was not worth that much.</p>
 
-<p>The gallery director, who had approached with a gentle smile and acted the part of the eager flatterer, left the painting without a second glance and moved on to the next booth without even offering a simple farewell. He, too, paid no mind to the man's sudden change of demeanor.</p>
+<p>As he left the painting without a second glance and moved on to the next booth, the gallery director, who had approached with a gentle smile and acted the part of the eager flatterer, did not offer him even a simple farewell. He, too, paid no mind to the man's sudden change of demeanor.</p>
 
 <p>I hurried out of the booth behind him, glancing back one more time.</p>
 
@@ -261,4 +261,4 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>That wasn't the only residue <em>Lovers on the Bed</em> left in me.</p>
 
-<p>Could it have been a coincidence that he had asked for my impression in front of that specific painting and no other? The bluish coldness burning in his eyes bothered me. <em>Lovers on the Bed</em>. If I hadn't misread it, the artist's name was "SEONEW." Seonew. A Korean artist in their twenties. I repeated the name silently to myself, savoring it so I wouldn't forget.</p>
+<p>Could it have been a coincidence that he had asked for my impression in front of that specific painting and no other? The bluish coldness burning in his eyes bothered me. <em>Lovers on the Bed</em>. If I hadn't misread it, the artist's name was "SEONEW." Seonew. A Korean artist in his twenties. I repeated the name silently to myself, savoring it so I wouldn't forget.</p>
