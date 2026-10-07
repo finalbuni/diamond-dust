@@ -603,7 +603,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Did you really act like this with Juhani hyung too?"</p>
 
-<p>His brows furrowed, eyebrows drawing closer together. He looked as though he genuinely didn't understand what I was referring to. Maybe it's the kind of thing where the one who gets hit never forgets, but the one who hits easily does. hyung had apparently even contemplated scratching his car and running.</p>
+<p>His brows furrowed, eyebrows drawing closer together. He looked as though he genuinely didn't understand what I was referring to. Maybe it's the kind of thing where the one who gets hit never forgets, but the one who hits easily does. Hyung had apparently even contemplated scratching his car and running.</p>
 
 <p>I could now perfectly understand what hyung had meant when he said he felt like this person would chase him to the ends of the earth for revenge. I had just received something very close to a threat from him — a man who, in that moment, looked exactly like the boss of a dark underworld.</p>
 

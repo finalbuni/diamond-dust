@@ -89,7 +89,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 {% include excerpt.html content=excerpt %}
 
-<p>Ms. Suki Kim<sup class="tn-marker" id="tn-ref-chapter-06-section-02-1"><a href="#tn-chapter-06-section-02-1" aria-label="Translator note 1">1</a></sup> review for the Special Jury Award was enough.</p>
+<p>Ms. Suki Kim<sup class="tn-marker" id="tn-ref-chapter-06-section-02-1"><a href="#tn-chapter-06-section-02-1" aria-label="Translator note 1">1</a></sup>'s review for the Special Jury Award was enough.</p>
 
 <p>Reading her review felt like watching my painting put into words.</p>
 

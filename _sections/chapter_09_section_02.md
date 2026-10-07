@@ -35,7 +35,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Simply copying something exactly, like a photocopier, is not art. This child was capable of adding his own emotions and interpretations of the subject onto the canvas. At only eleven years old. However clumsy, each painting was a unique "self-expression" that only that child could create.</p>
 
-<p>"Yeehyeon, just how many of these are there? Didn't your arms hurt?"</p>
+<p>"Yeehyeon-ah, just how many of these are there? Didn't your arms hurt?"</p>
 
 <p>At my worried question, the child smiled. Rubbing the table where we sat facing each other with one hand, his silent smile seemed to express joy at being able to show me how much he had practiced. And yet he also looked a little bewildered, as if he hadn't quite grasped the meaning of my words.</p>
 
@@ -73,7 +73,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>I admit it. As everyone around us said, we were too young to grasp the practical meaning of a union like marriage. We were at an age where we couldn't even properly control ourselves, let alone our own dreams — dreams that sometimes crushed us under their weight.</p>
 
-<p>Each time I encountered the boy's paintings — not yet fully mature, but possessing a style so distinctly his own that it set them apart from everything else and drew me in — the memory of that first tremor I felt standing before his work seemed to recede further and further into the distant past.</p>
+<p>Each time I encountered the boy's paintings — not yet fully mature, but possessing a style so distinctly his own that it set them apart from everything else and drew me in — the memory of that first tremor I felt standing before my husband's work seemed to recede further and further into the distant past.</p>
 
 <p>Pushing away the bitter feelings that followed, I forced a smile and asked the child,</p>
 
@@ -97,7 +97,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>I learned that answering a worry wasn't the only form of genuine comfort. That words of understanding and agreement — which temporarily numb the current pain — weren't the only form of solace.</p>
 
-<p>Since the working time hadn't been long enough for coloring, the painting wasn't precise. Instead, he conveyed the atmosphere he wanted to express through other means. That was one of the child's specialties.</p>
+<p>Since there hadn't been much time for the work, including the coloring, the painting wasn't precise. Instead, he conveyed the atmosphere he wanted to express through other means. That was one of the child's specialties.</p>
 
 <p>Bold strokes that created a texture as if carved out with a rough chisel — though no oil paint had been used at all — a dark atmosphere drawn out by colors that seemed warm at first glance, or perhaps the warm hope embedded within that seemingly dark atmosphere.</p>
 

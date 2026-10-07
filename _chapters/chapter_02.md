@@ -21,7 +21,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>To prepare for that, we needed the agency's help to cover our tracks as thoroughly as possible.</p>
 
-<p>The agency director, a sunbae<sup class="tn-marker" id="tn-ref-chapter-02-1"><a href="#tn-chapter-02-1" aria-label="Translator note 1">1</a></sup> of hyung’s former military superior, didn't look like someone who worked in that line of businesss — though I couldn't be sure what that was supposed to look like. If anything, the owner of the surf shop looked far more the part.</p>
+<p>The agency director, a sunbae<sup class="tn-marker" id="tn-ref-chapter-02-1"><a href="#tn-chapter-02-1" aria-label="Translator note 1">1</a></sup> of hyung’s former military superior, didn't look like someone who worked in that line of business — though I couldn't be sure what that was supposed to look like. If anything, the owner of the surf shop looked far more the part.</p>
 
 <p>"Don't even touch the money in your bank accounts. We'll take over that account as is. For us, we just need to launder it a few times to get it out. I'll give you the cash equivalent, so use only cash from now on. I assume you won't be using credit cards either — I don't even need to say it, right? These days even ordinary people watch enough movies to have that much common sense."</p>
 
@@ -345,7 +345,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>The man, who had stopped working and stood with his hands on his hips holding a file, wore a slightly stern expression. He was waiting for me to introduce myself.</p>
 
-<p>"Teach-- Manager Han sent me. The staff member upstairs told me to come down here and help out."</p>
+<p>"Teach—Manager Han sent me. The staff member upstairs told me to come down here and help out."</p>
 
 <p>"Oh — sorry, you startled me. Our Director always says this basement is haunted, so..."</p>
 

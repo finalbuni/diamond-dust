@@ -71,7 +71,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Simply copying something exactly, like a photocopier, is not art. This child was capable of adding his own emotions and interpretations of the subject onto the canvas. At only eleven years old. However clumsy, each painting was a unique "self-expression" that only that child could create.</p>
 
-<p>"Yeehyeon, just how many of these are there? Didn't your arms hurt?"</p>
+<p>"Yeehyeon-ah, just how many of these are there? Didn't your arms hurt?"</p>
 
 <p>At my worried question, the child smiled. Rubbing the table where we sat facing each other with one hand, his silent smile seemed to express joy at being able to show me how much he had practiced. And yet he also looked a little bewildered, as if he hadn't quite grasped the meaning of my words.</p>
 
@@ -109,7 +109,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>I admit it. As everyone around us said, we were too young to grasp the practical meaning of a union like marriage. We were at an age where we couldn't even properly control ourselves, let alone our own dreams — dreams that sometimes crushed us under their weight.</p>
 
-<p>Each time I encountered the boy's paintings — not yet fully mature, but possessing a style so distinctly his own that it set them apart from everything else and drew me in — the memory of that first tremor I felt standing before his work seemed to recede further and further into the distant past.</p>
+<p>Each time I encountered the boy's paintings — not yet fully mature, but possessing a style so distinctly his own that it set them apart from everything else and drew me in — the memory of that first tremor I felt standing before my husband's work seemed to recede further and further into the distant past.</p>
 
 <p>Pushing away the bitter feelings that followed, I forced a smile and asked the child,</p>
 
@@ -133,7 +133,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>I learned that answering a worry wasn't the only form of genuine comfort. That words of understanding and agreement — which temporarily numb the current pain — weren't the only form of solace.</p>
 
-<p>Since the working time hadn't been long enough for coloring, the painting wasn't precise. Instead, he conveyed the atmosphere he wanted to express through other means. That was one of the child's specialties.</p>
+<p>Since there hadn't been much time for the work, including the coloring, the painting wasn't precise. Instead, he conveyed the atmosphere he wanted to express through other means. That was one of the child's specialties.</p>
 
 <p>Bold strokes that created a texture as if carved out with a rough chisel — though no oil paint had been used at all — a dark atmosphere drawn out by colors that seemed warm at first glance, or perhaps the warm hope embedded within that seemingly dark atmosphere.</p>
 
@@ -169,27 +169,27 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 </div>
 {% include scene-break.html %}
 <div id="section-3" class="hybrid-section" data-section="3">
-<p>Manager Han lightly shook the can in her hand. Throughout her story, her gaze had remained fixed on the river before her. Perhaps she was layering the past over the flowing water.</p>
+<p>Teacher lightly shook the can in her hand. Throughout her story, her gaze had remained fixed on the river before her. Perhaps she was layering the past over the flowing water.</p>
 
 <p>"It didn't work out in Hong Kong either, in the end. I got a job at a gallery and worked day and night. He seemed stimulated at first — I thought his creative drive might return — but before long he started to wander again... We ended up forcing ourselves onto each other... until we were both worn ragged, and only then did we decide to go our separate ways. He returned to Korea, and I stayed in Hong Kong."</p>
 
-<p>Perhaps because so much time had passed. There was no unquelled agitation in Manager Han's voice — none of the wounds that grinding fights with a loved one leave so clearly on the self. She sounded simply calm. Yet she couldn't quite hide the scratched-looking marks revealed in the gaze she fixed on the flowing river.</p>
+<p>Perhaps because so much time had passed. There was no unquelled agitation in Teacher's voice — none of the wounds that grinding fights with a loved one leave so clearly on the self. She sounded simply calm. Yet she couldn't quite hide the scratched-looking marks revealed in the gaze she fixed on the flowing river.</p>
 
-<p>It was one of those rare occasions when we finished work at the same time and walked home together.</p>
+<p>It was one of those rare occasions when Teacher and I finished work at the same time and headed home together.</p>
 
 <p>After getting out of the underground parking garage, Manager Han suggested a walk by the river, and we each picked out a drink at the convenience store and headed toward the Han River.</p>
 
 <p>From the apartment to the Han River trail, it was just a short tunnel away. Since the height of summer hadn't officially begun yet, the riverside was comfortably cool after sunset.</p>
 
-<p>After strolling leisurely along the bike path for about ten minutes, we were lucky enough to find an empty bench — and that was where Manager Han's story began.</p>
+<p>After strolling leisurely along the bike path for about ten minutes, we were lucky enough to find an empty bench — and that was where Teacher's story began.</p>
 
 <p>It wasn't a long story. She didn't go into the details of the marriage and divorce process. But one could sense that complex values were tangled up in it — values that couldn't simply be labeled a "failed marriage."</p>
 
-<p>After all, he had been Manager Han's partner in love, romance, and marriage, as well as a fellow human being who understood her and shared her dreams.</p>
+<p>After all, he must have been Teacher's partner in love, romance, and marriage, as well as a fellow human being who understood her and shared her dreams.</p>
 
 <p>"I didn't know... that you were married... or that you separated."</p>
 
-<p>I mumbled, fiddling with the can in my hands. Manager Han ruffled my hair.</p>
+<p>I mumbled, fiddling with the can in my hands. Teacher ruffled my hair.</p>
 
 <p>"Whether I was married or not — that information isn't necessary for us to paint together... and your parents aren't the type to gossip about other people's affairs, are they? They probably didn't go telling a little kid something like that."</p>
 
@@ -197,11 +197,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"You didn't know about the marriage, so of course you wouldn't know about the divorce."</p>
 
-<p>As if trying to lighten the weight that the mention of my parents had brought, Manager Han smiled faintly toward me — but I couldn't return it. It had truly been a long time since I'd heard someone mention my parents, but that wasn't the reason. Right now, I was thinking more about Manager Han than about myself.</p>
+<p>As if trying to lighten the weight that the mention of my parents had brought, Teacher smiled faintly toward me — but I couldn't return it. It had truly been a long time since I'd heard someone mention my parents, but that wasn't the reason. Right now, I was thinking more about Teacher than about myself.</p>
 
-<p>"Back then, I was truly desperate, and I was certain. Now I know how precarious the certainty a twenty-one-year-old has about life really is... but what could I do? That's something you only understand after time has passed. If there were people who could skillfully suppress their present desires by calculating future regrets in advance, the world's population would probably be only half of what it is now."</p>
+<p>"Back then, I was truly desperate, and I was certain. Now I know how precarious the certainty a twenty-one-year-old has about life really is... but what could I do? That's something you only understand after time has passed. If everyone could skillfully suppress their present desires by calculating future regrets in advance, the world's population would probably be only half of what it is now."</p>
 
-<p>Manager Han continued.</p>
+<p>Teacher continued.</p>
 
 <p>"My personality — the kind that goes all out the moment something captures my interest — was even worse back then because I was young. Everyone around me desperately tried to dissuade me, saying that just dating instead of marrying would be enough... but the feeling couldn't be satisfied with just dating. I kept wanting a way to be bound to him more completely somehow..."</p>
 
@@ -211,13 +211,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Then she turned to look at me and smiled — as if that past passion was something embarrassing and fleeting. As though she were laughing off the unripe emotions of adolescence.</p>
 
-<p>While living within Phantom, I had guessed to some extent from the members' conversations and the subtle atmosphere, but as expected, Manager Han was a female Alpha. If the partner was an Omega, pregnancy was possible regardless of primary gender. But for Manager Han to become pregnant, she would have needed to pair with a male Alpha. I didn't know the specifics, but even with a male Alpha, pregnancy wasn't guaranteed at 100 percent. The opposition to Manager Han's marriage from those around her had probably not been solely due to their young age. Involuntarily, Morae nuna and Yeehan hyung came to mind.</p>
+<p>While living within Phantom, I had guessed to some extent from the members' conversations and the subtle atmosphere, but as expected, Teacher was a female Alpha. If the partner was an Omega, she could get them pregnant regardless of primary gender. But for Teacher to become pregnant, she would have needed to pair with a male Alpha. I didn't know the specifics, but even with a male Alpha, pregnancy wasn't guaranteed at 100 percent. The opposition to Teacher's marriage from those around her had probably not been solely due to their young age. Involuntarily, Morae and hyung came to mind.</p>
 
 <p>"So I don't regret getting married itself. Whatever the outcome, I know that back then we were in a state where we couldn't not do it. It's true that marriage was as urgent as life itself at the time, and if I hadn't been able to get married then, I probably would have kept regretting it, given my personality. He felt the same way. That we could marry and live as a painter and art dealer couple — the best partners, soulmates for life — I was certain of it, without even one percent of doubt. Back then. When that kind of clear conviction occupies your entire mind, how can you possibly postpone a decision?"</p>
 
 <p>A young couple, drawn powerfully to each other not only romantically but as human beings, who dared to marry against everyone's opposition. It was a story similar to that of my mother and father — though the endings were different for each.</p>
 
-<p>Manager Han's couple collided until there was nothing left, grew sick and tired of each other, and ended things themselves. My mother and father, on the other hand, had sustained exactly the ideal relationship they had once dreamed of through each other — until one day, an unforeseen accident from the outside violently snatched it away, completely against their will.</p>
+<p>Teacher and her former husband collided until there was nothing left, grew sick and tired of each other, and ended things themselves. My mother and father, on the other hand, had sustained exactly the ideal relationship they had once dreamed of through each other — until one day, an unforeseen accident from the outside violently snatched it away, completely against their will.</p>
 
 <p>Which couple's ending was more tragic — it was not a question one could easily answer.</p>
 
@@ -225,7 +225,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>For me — who had never even dated, let alone been married, who had never once liked someone — this was a somewhat difficult topic. Even so, I thought I could faintly grasp the suffocating feeling of not being able to read the intentions of someone complicated and hard to figure out.</p>
 
-<p>"Watching that person — for whom painting was as natural as eating three meals a day, who couldn't even imagine a version of himself that didn't paint — gradually fall apart because of painting... that felt like a kind of love, too. Sometimes, love that takes the wrong path ends up corroding both people, doesn't it? Like the love between him and me. His love for painting, unable to expand or develop, burrowed inward, consuming him, and eventually led him to give it up entirely... That was the ending we reached."</p>
+<p>"Watching that person — for whom painting was as natural as eating three meals a day, who couldn't even imagine a version of himself that didn't paint — gradually fall apart because of painting... that felt like a kind of love, too. Sometimes, love that takes the wrong path ends up corroding both people, doesn't it? Like the love between him and me. His love for painting, unable to expand or develop, burrowed inward, consuming him, and eventually led him to give it up entirely... That was how it ended."</p>
 
 <p>Love that goes awry and corrodes both the other and oneself. Yet a love so intense that one couldn't endure it without crashing headlong into that object, consuming oneself until all energy was spent.</p>
 
@@ -235,41 +235,41 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>I didn't yet know what kind of person I was when it came to dating and love. But vaguely, I had the sense that perhaps I wasn't that kind of person. Perhaps I was someone who could easily surrender to a momentary curiosity or impulse.</p>
 
-<p>But unlike Manager Han, unlike my mother and father, I didn't think I was the type of person who could summon the courage to crash headlong into a fierce emotion — one that threatened to swallow me whole, one that simply couldn't be refused. It seemed like I didn't have that kind of courage right now.</p>
+<p>But unlike Teacher, unlike my mother and father, I didn't think I was the type of person who could summon the courage to crash headlong into a fierce emotion — one that threatened to swallow me whole, one that simply couldn't be refused. It seemed like I didn't have that kind of courage right now.</p>
 
 <p>"In Hong Kong, and then after returning to Seoul... watching many artists over the years, the thought that gradually solidified was this: even with talent, if the mental fortitude to keep nurturing that talent isn't there to support it, results won't come. He clearly had innate talent, but he crumbled — constantly doubting himself, comparing himself to others, and sinking into frustration."</p>
 
-<p>I lifted my head and looked at Manager Han's profile.</p>
+<p>I lifted my head and looked at Teacher's profile.</p>
 
 <p>"A desperate, tenacious, and consistent drive to keep painting no matter what happens. You need that to break through a certain point and shine... and I clearly saw that kind of energy in eleven-year-old Seo Yeehyeon."</p>
 
-<p>Manager Han's face slowly turned toward me as well.</p>
+<p>Teacher's face slowly turned toward me as well.</p>
 
-<p>"You can eat, breathe — yes, do all of those things — without painting. You won't die. You know that's not what I'm talking about, Yeehyeon. I just want you to think honestly about whether painting is necessary for you to live — not as just one among countless people, but as the unique Seo Yeehyeon, with your own individuality. Only that. Before it gets any later."</p>
+<p>"You can eat, breathe — yes, do all of those things — without painting. You won't die. You know that's not what I'm talking about, Yeehyeon-ah. I just want you to think honestly about whether painting is necessary for you to live — not as just one among countless people, but as the unique Seo Yeehyeon, with your own individuality. Only that. You, at least. Before it gets any later."</p>
 
 <p>Looking honestly at oneself.</p>
 
 <p>Perhaps it was because I could no longer be honest with myself that I had stopped painting. Because I had preserved my heart, sealed my mouth, and closed my eyes. There was nothing more to say. No — I didn't want to say anything. I wanted to hide many things instead.</p>
 
-<p>As I listened to Manager Han, what pressed in around my chest and demanded I make some kind of decision wasn't, strangely enough, painting. It was something bigger, something that included painting. A concept that hadn't quite landed yet — but if I had to put it into words, something like... life.</p>
+<p>As I listened to Teacher, what pressed in around my chest and demanded I make some kind of decision wasn't, strangely enough, painting. It was something bigger, something that included painting. A concept that hadn't quite landed yet — but if I had to put it into words, something like... life.</p>
 
-<p>Manager Han's last words settled heavily in my chest — like a steady, undeniable, solemn warning, like a boulder slowly sinking to the bottom of a flowing river and remaining there, unmoving. <em>Before it's too late.</em></p>
+<p>Teacher's last words settled heavily in my chest — like a steady, undeniable, solemn warning, like a boulder slowly sinking to the bottom of a flowing river and remaining there, unmoving. <em>Before it's too late.</em></p>
 </div>
 {% include scene-break.html %}
 <div id="section-4" class="hybrid-section" data-section="4">
 <p>Spicy seasoned stingray, glossy springy pig's trotters, tuna kimbap, and potato pancakes. Not exactly a harmonious spread, but more than enough for a long-awaited lavish meal shared among the three of us. A meal accompanied by drinks.</p>
 
-<p>Yuni nuna and Juhan hyung often joked that a love of money and alcohol was the common trait among Phantom members. Even if getting drunk wasn't strictly necessary, I had to admit that adding drinks to a conversation made it a lot easier to get started.</p>
+<p>Yuni nuna and Juhani hyung often joked that a love of money and alcohol was the common trait among Phantom members. Even if getting drunk wasn't strictly necessary, I had to admit that adding drinks to a conversation made it a lot easier to get started.</p>
 
-<p>"He started by cornering me right away — 'What do you think you're doing, always lurking around here?' — people started gathering, and it was complete chaos. Of course, the other guy didn't just stand there either. It nearly turned into a fight. No — it practically was a fight, punches and all."</p>
+<p>"He started by confronting the man right away — 'What do you think you're doing, always lurking around here?' — people started gathering, and it was complete chaos. Of course, the other guy didn't just stand there either. It nearly turned into a fight. No — it was a full-blown fight, except that no punches were thrown."</p>
 
-<p>Morae nuna shot hyung a look tinged with mild reproach before taking a sip of soju.</p>
+<p>Morae shot hyung a look tinged with mild reproach before taking a sip of soju.</p>
 
-<p>For several days now, the same man had been loitering around the stairwell entrance next to the bus stop. At first, neither Morae nor Yeehan thought much of it. But when the man — who didn't seem to have any particular business there — kept pacing back and forth between the bus stop and the stairs, Yeehan grew suspicious. He confronted the man, demanding to know what he was doing lurking around and threatening to take him to the police. It turned out the man was the boyfriend of a local resident who had been coming by consistently for several days, trying to beg forgiveness after a fight with his girlfriend.</p>
+<p>For several days now, the same man had been loitering around the stairwell entrance next to the bus stop. At first, neither Morae nor hyung thought much of it. But when the man — who didn't seem to have any particular business there — kept pacing back and forth between the bus stop and the stairs, hyung grew suspicious. He confronted the man, demanding to know what he was doing lurking around and threatening to take him to the police. It turned out the man was the boyfriend of a local resident, and he had been coming by consistently for several days, trying to beg forgiveness after a fight with his girlfriend.</p>
 
 <p>This had all happened just yesterday afternoon.</p>
 
-<p>"When Yeehan Seo came at him like he was actually going to drag him to the police station, the guy was completely flustered... It only ended when his girlfriend showed up and confirmed he really was her boyfriend."</p>
+<p>"When Seo Yeehan came at him like he was actually going to drag him to the police station, the guy was completely flustered... It only ended when his girlfriend showed up and confirmed he really was her boyfriend."</p>
 
 <p>"There are more than a few unhinged people out there these days. You can't just take someone's word for it that they have a girlfriend. For all we know, he could be some delusional guy stalking her, convinced she's his girlfriend. Anyway... thanks to that, the two of them made up, so in the end it worked out fine."</p>
 
@@ -279,7 +279,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"You're just on edge. I understand seeing a needle as a kitchen knife."</p>
 
-<p>Morae nuna patted hyung's back and concluded with that. Said casually, but it was also the phrase that most precisely captured their current situation.</p>
+<p>Morae patted hyung's back and concluded with that. Said casually, but it was also the phrase that most precisely captured hyung and Morae's current situation.</p>
 
 <p>A life where even a needle looks like a kitchen knife.</p>
 
@@ -299,13 +299,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"What's gotten into you all of a sudden?"</p>
 
-<p>This time Morae nuna, who had been reaching for some stingray with her chopsticks, stopped and looked at me with a puzzled expression.</p>
+<p>This time Morae, who had been reaching for some stingray with her chopsticks, stopped and looked at me with a puzzled expression.</p>
 
 <p>"I'm fine, so just go to Bali."</p>
 
 <p>"What's wrong with him?"</p>
 
-<p>Hyung put down the soju bottle, and Morae nuna set down her chopsticks.</p>
+<p>Hyung put down the soju bottle, and Morae set down her chopsticks.</p>
 
 <p>I had been postponing the decision, telling myself I just needed a little more time to prepare mentally. But experience had taught me that circumstances wouldn't wait for my convenience.</p>
 
@@ -313,25 +313,25 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"We don't know when I'll be dragged away from here again. Even I know that the longer we delay, the more dangerous it gets."</p>
 
-<p>Since hearing Manager Han's story a few days ago, thoughts of Morae nuna and Yeehan hyung had not left my mind.</p>
+<p>Since hearing Teacher's story a few days ago, thoughts of Morae and hyung had not left my mind.</p>
 
-<p>Even though the three of us weren't a couple, the essence of the bonds people form wasn't fundamentally different. Growing exhausted and cutting someone off to protect yourself wasn't an ending reserved only for lovers. We couldn't drive our relationship to that breaking point where both parties ended up tattered — the way Manager Han and her person had. I truly didn't want that.</p>
+<p>Even though the three of us weren't a couple, the essence of the bonds people form wasn't fundamentally different. Growing exhausted and cutting someone off to protect yourself wasn't an ending reserved only for lovers. We couldn't drive our relationship to that breaking point where all of us ended up tattered — the way Teacher and her former husband had. I truly didn't want that.</p>
 
 <p>"The surfing camp — the conditions were good. Opportunities like that don't come around often."</p>
 
 <p>"Hey, I was just looking into it. Where would I go right now? My deposit is tied up."</p>
 
-<p>Morae nuna relaxed and picked up her chopsticks again, her expression suggesting she thought I was reacting to the graffiti in the practice room.</p>
+<p>Morae relaxed and picked up her chopsticks again, her expression suggesting she thought I was reacting to the graffiti in the practice room.</p>
 
 <p>"If you wanted to resolve it, it's not an impossible problem. Not to that extent."</p>
 
 <p>"......"</p>
 
-<p>Morae nuna's chopsticks froze once more. This was the first time I had been this insistent with the two of them.</p>
+<p>Morae's chopsticks froze once more. This was the first time I had been this insistent with the two of them.</p>
 
 <p>"I... might start painting again."</p>
 
-<p>Morae and Yeehan's eyes went wide. They showed a far stronger reaction to the possibility of me painting again than to my suggestion that they go to Bali.</p>
+<p>Morae and hyung's eyes went wide. They showed a far stronger reaction to the possibility of me painting again than to my suggestion that they go to Bali.</p>
 
 <p>I hadn't settled anything definite about painting yet. But even if I didn't end up painting, I was firm in my decision that I would no longer keep the two of them tied to this place under the name Seo Yeehyeon. On that point alone, my mind was clear. My first step would start right there.</p>
 </div>
@@ -339,33 +339,33 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 <div id="section-5" class="hybrid-section" data-section="5">
 <p>My saying I might paint again made the two of them happier than I expected — but even so, they showed complicated reactions, still reluctant to leave me behind.</p>
 
-<p>I explained everything in detail so they could be reassured: encountering <em>Alienation</em> at the Director's house, his suggestion that I try painting again after learning I was the artist, and even the proposal for a Hong Kong business trip. But I left out the part about the panic attack and where I slept that night afterward.</p>
+<p>I explained everything in detail so they could be reassured: encountering <em>Alienation</em> at the Director's house, his suggestion that I try painting again after learning I was the artist, and even the proposal for a Hong Kong business trip. But I left out the part about the panic attack and the sexual encounter afterward.</p>
 
 <p>The conclusion reached after lengthy persuasion was lukewarm.</p>
 
 <p>Whether I would try painting again. Whether they would leave for Bali. We would each think it over and discuss it again after the Hong Kong trip. That was today's harvest.</p>
 
-<p>The tipsiness from soju was different from beer or wine. It had seemed manageable while I was drinking, but the moment I stood up to clear the table, my vision swam and the intoxication hit me hard. Morae and Yeehan must have been quite drunk as well — it was quiet beyond the sliding door.</p>
+<p>The tipsiness from soju was different from beer or wine. It had seemed manageable while I was drinking, but the moment I stood up to clear the table, my vision swam and the intoxication hit me hard. Morae and hyung must have been quite drunk as well — it was quiet beyond the sliding door.</p>
 
 <p>Perhaps it was the alcohol. It felt like the floor was undulating beneath me, as if I were on a boat or a surfboard. Even the light filtering through the kitchen window seemed to warp and tremble at the boundary between ceiling and wall. I thought I would fall asleep immediately, but my insides were unsettled — like the night before moving. Anticipation and worry for a new life blended together, keeping my heart floating, unable to touch ground. I tossed and turned for a long time, and then reached for the phone resting by my pillow.</p>
 
 <p>"I'm sorry for contacting you so late. I... as you mentioned last time, can I make my decision after I return from Hong Kong?"</p>
 
-<p>There was no real need to report my decision right now. It was purely an impulse — half of it spurred on by the light buzz of tipsiness, a kind of drunken bravado I would've insisted it was, if pressed.</p>
+<p>There was no real need to report my decision right now. It was purely an impulse — half of it spurred on by the light buzz of tipsiness, a kind of drunken bravado — or so I wanted to insist.</p>
 
 <p>I hadn't expected a reply from him past 11 PM. But then my phone started ringing.</p>
 
 <p>Only a few seconds had passed since I sent the message.</p>
 
-<p>Seeing the saved contact name "Director" appear on the screen, I involuntarily sat up straight. It was still quiet beyond the sliding door. Clutching the vibrating phone tightly, I threw off the covers, got up as quietly as I could, slipped on my slippers, and went out to the entrance hall.</p>
+<p>Seeing the saved contact name "Director" appear on the screen, I involuntarily sat up straight. It was still quiet beyond the sliding door. Clutching the vibrating phone tightly, I threw off the covers, got up as quietly as I could, slipped on my slippers, and stepped outside.</p>
 
-<p>Fortunately, the call hadn't dropped and kept ringing persistently. The call from "Director" summoning me from the screen felt like a signal sent from a distant future. I sat down on the floor mat and answered.</p>
+<p>Fortunately, the call hadn't dropped and kept ringing persistently. The call from "Director" summoning me from the screen felt like a signal sent from a distant future. I sat down on the raised platform and answered.</p>
 
 <p>"Yes?"</p>
 
 <p>[...Were you sleeping? You sent the message just a minute or two ago. You weren't, right?]</p>
 
-<p>He paused, his voice husky, and asked.</p>
+<p>He paused at the huskiness of my voice and asked.</p>
 
 <p>"No, I wasn't. I came outside to take the call..."</p>
 
@@ -373,9 +373,9 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"...Yes."</p>
 
-<p>I hadn't told him I was going to Morae nuna and Yeehan hyung's house today, nor had I mentioned it in his presence — but perhaps it had come up incidentally while he was talking with Manager Han.</p>
+<p>I hadn't told him I was going to Morae and hyung's house today, nor had I mentioned it in his presence — but perhaps it had come up incidentally while he was talking with Teacher.</p>
 
-<p>Thinking back on it, there had been other times when he already knew things about me that I hadn't told him. He had also discussed me with others — whether I had majored in art, whether I was an Omega. According to Yuni nuna and Juhan hyung, he sometimes asked about me when I wasn't around. Yet in front of me, there was only ever an indifferent gaze.</p>
+<p>Thinking back on it, there had been other times when he already knew things about me that I hadn't told him. He had also discussed me with others — whether I had majored in art, whether I was an Omega. According to Yuni nuna and Juhani hyung, he sometimes asked about me when I wasn't around. Yet in front of me, there was only ever an indifferent gaze.</p>
 
 <p>"You must be outside."</p>
 
@@ -407,7 +407,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>[Seo Yeehyeon-ssi will definitely feel the urge to paint again.]</p>
 
-<p>I wanted to ask how he could be so certain. He didn't know me well, and even if he had seen my work, it was only one piece. Was this some feeling from the "ability to recognize art" that Manager Han had spoken of? Or simply confidence in the discerning eye he had boasted about himself?</p>
+<p>I wanted to ask how he could be so certain. He didn't know me well, and even if he had seen my work, it was only one piece. Was this some feeling from the "ability to recognize art" that Teacher had spoken of? Or simply confidence in the discerning eye he had boasted about himself?</p>
 
 <p>I looked up. The lights of Seoul, seen from the rooftop, were shimmering and swaying again — like squid fishing boats out on the sea.</p>
 

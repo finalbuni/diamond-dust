@@ -81,7 +81,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>The man, who had stopped working and stood with his hands on his hips holding a file, wore a slightly stern expression. He was waiting for me to introduce myself.</p>
 
-<p>"Teach-- Manager Han sent me. The staff member upstairs told me to come down here and help out."</p>
+<p>"Teach—Manager Han sent me. The staff member upstairs told me to come down here and help out."</p>
 
 <p>"Oh — sorry, you startled me. Our Director always says this basement is haunted, so..."</p>
 
