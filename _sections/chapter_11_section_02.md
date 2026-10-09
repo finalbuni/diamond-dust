@@ -11,25 +11,25 @@ section_count: 4
 permalink: /sections/chapter-11/2/
 excerpt_separator: "<!-- section-excerpt-end -->"
 ---
-<p>He tossed me onto the pure white bed, immaculately made without a single wrinkle. It felt as though I sank into thousands of feathers, only to resurface.</p>
+<p>He tossed me onto the immaculate white bed, untouched and perfectly made. It felt as though I sank into thousands of feathers, only to resurface.</p>
 
-<p>He looked down at me — my lower half completely bare, wearing only my shirt, my cock hard and exposed beneath the hem — and stripped naked beside the bed.</p>
+<p>He looked down at me, bare from the waist down with only my shirt on and my erection exposed beneath its hem, as he quickly stripped beside the bed.</p>
 
 <p>The bedroom had no separate lights on and was dim, but bright enough to make out everything in the room. Still, he showed not a trace of hesitation as he revealed himself entirely.</p>
 
 <p>His muscles, tightly bunched from excitement and arousal, were like tempered armor. It was astonishing that such a muscular body could look sleek in a suit. That was partly the power of high-end tailoring — which probably made him appear at least a size smaller — but the proportions of his long limbs couldn't be ignored either. It was an ideal and beautiful body.</p>
 
-<p>Without any hint of awkwardness or shyness, standing directly toward me, he slipped his hand inside the boxer briefs — the last piece of clothing on his body.</p>
+<p>Standing directly in front of me without a trace of awkwardness or embarrassment, he slipped his hand inside his boxer briefs, the last thing he was wearing.</p>
 
-<p>Stretched to its limit inside, his erection was clearly defined through the fabric, curved slightly to the right. He stroked himself through it, then pushed the underwear down with his fingertips.</p>
+<p>His briefs were stretched tight over an erection whose outline was unmistakable, curving to the right. He stroked himself inside them, then pushed the fabric down with his fingertips.</p>
 
-<p>The briefs rolled down at an angle and his semi-hard cock sprang free from the pressure, emerging above the dark hair that grew from his navel, swaying slowly under its own weight.</p>
+<p>His briefs rolled down at an angle, and his half-hard length sprang free above the dark trail of hair leading down from his navel, dipping slowly under its own weight.</p>
 
-<p>It was a cock that made you feel as though sex had already begun just by looking at it.</p>
+<p>Just looking at it made me feel as though sex had already begun.</p>
 
 <p>Without last time's experience, I wouldn't have believed that was only half hard.</p>
 
-<p>As if showing off a little, he slowly stroked his shaft from root to tip and then climbed onto the bed on his knees. Looking up at him as he closed the distance, I began unbuttoning my shirt. It wasn't easy with one hand while supporting my upper body on my elbows. The excitement that had been building since the living room, compounded by the sight of his naked body, made it even harder.</p>
+<p>Almost as though showing off, he slowly stroked himself from his balls to the tip, then climbed onto the bed on his knees. Looking up at him as he drew closer, I began undoing my shirt. It wasn't easy with one hand while propping myself up on an elbow, especially with the sight of his naked body adding to the excitement that had been building since the living room.</p>
 
 <p>Seeing my hands tremble as I struggled with buttons smaller than my fingernails, he crawled across the mattress on all fours and kissed me. I stopped fumbling with the buttons and kissed him back.</p>
 
@@ -39,87 +39,87 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Without thinking, I touched my lips with my fingertips. The heat was more pronounced than usual — a lingering reminder of how often he had sucked and bitten them tonight.</p>
 
-<p>"Well. I did go a bit overboard."</p>
+<p>"Well. I did suck on them a little too much."</p>
 
 <p>He laughed, acknowledging his own persistence — but there was no remorse in it. Our lips met again immediately.</p>
 
-<p>"Ugh, mmm…"</p>
+<p>"Mmph… Unngh…"</p>
 
 <p>This time the kiss was more insistent, more passionate.</p>
 
-<p>As he pushed his thighs between my legs while I leaned back against the mattress, I wrapped my arms around his neck to keep from falling under his weight. A groan escaped me at the unpredictable movements of the wet flesh rubbing and tangling against my tongue.</p>
+<p>As he pushed his thighs beneath my legs and leaned into me, I wrapped my arms around his neck to keep from falling backward. A groan escaped me at the unpredictable movement of his wet tongue rubbing and tangling with mine.</p>
 
-<p>His kisses seemed to dissolve his scent into his saliva, and every time I swallowed, that unique fragrance absorbed into my body and raced through my veins. It wasn't just my sense of smell — my entire being was becoming saturated with him.</p>
+<p>His kisses seemed to dissolve his scent into his saliva. Each time I swallowed, I felt that strange fragrance sink into my body and race through my veins. It wasn't only my sense of smell anymore; even the inside of my body was becoming soaked in his scent.</p>
 
-<p>Like a highly addictive drug I could never get enough of, I sweetly swallowed the saliva he poured into me. His scent, which never grew familiar or adapted — maintaining its initial shock throughout — felt like a mysterious force working in a realm beyond smell.</p>
+<p>It was like an addictive drug I could never get enough of, and I eagerly swallowed the saliva he fed into my mouth. I never grew used to his scent; it kept its first startling intensity. Whatever it was doing to me seemed to reach beyond my sense of smell.</p>
 
-<p>My tongue, steeped in that scent, completely blocked the inside of my mouth. I had no choice but to press against his tongue and suck, trying to force a gap for oxygen.</p>
+<p>His tongue, steeped in that scent, filled my mouth completely. I had to press against it and suck just to make room for a breath.</p>
 
-<p>He wrapped one arm around my waist and with his other hand impatiently snapped off the last few buttons I hadn't managed to undo. His palm immediately plunged into my chest.</p>
+<p>He wrapped one arm around my waist and reached with the other hand, impatiently snapping off the couple of buttons I hadn't undone. His palm slid straight onto my chest.</p>
 
-<p>My back stiffened at the touch of his fingers on my nipple — soft on the outside but hardened at its core — as he pinched and tugged it between his thumb and forefinger. I tightened my hold around his neck and twisted our overlapping lips, grinding deeply. It was an action that seemed to beg for a more intense caress.</p>
+<p>My back stiffened as he caught my erect nipple between his thumb and forefinger and tugged. The flesh was soft, with a firm point at its center. I tightened my arms around his neck and twisted my parted lips against his, rubbing deeper, as though begging him to touch me harder.</p>
 
-<p>As if stimulated, he moved his tongue side to side inside my mouth. A moan simmered deep in my throat at the obscene sweeping motion.</p>
+<p>Perhaps it spurred him on. His tongue swept from side to side inside my mouth, and a moan simmered deep in my throat at the obscene movement.</p>
 
 <p>One side of my shirt slipped off my shoulder. He bit the exposed skin before moving down to my chest. His pointed tongue teased my soft nipple, bending it back and forth.</p>
 
-<p>"Ugh…"</p>
+<p>"Mmph-"</p>
 
 <p>I bit my lip to suppress the sound. One arm kept hold of his neck; the other braced my upper body against the sheets.</p>
 
-<p>He was only tapping from below — light upward taps — withholding the stimulation I was craving, and I had to rub my toes against the sheets just to get through it.</p>
+<p>He only flicked his tongue upward against it, teasing me without giving me the stimulation I wanted. I rubbed my toes against the sheets to bear it.</p>
 
 <p>I looked down at his thick lashes, focused on my nipple, and finally pushed one side of my chest further toward him. His gaze shifted upward.</p>
 
 <p>My hardened nipple was pressed against his lips, but he didn't open his mouth — he just looked at me. I twisted my shoulders alternately, rubbing it against his lips myself, while the hand around his neck stroked the tense muscles of his shoulder and the back of his neck.</p>
 
-<p>Looking down at his face, I was struck again by what an extraordinary face it was. The act of rubbing my nipple against that flawless face, demanding a sexual response from him… suddenly felt far more provocative than any direct act during sex.</p>
+<p>Looking down at him, I was struck again by how extraordinarily handsome he was. Rubbing my nipple against that flawless face, asking him for a sexual response… suddenly felt more intimate and provocative than any of the more direct acts during sex.</p>
 
 <p>"Please do it for me…"</p>
 
 <p>It was a desperate whisper.</p>
 
-<p>I pressed my chest closer, as if trying to embrace him. My nipple was completely buried between his sensual lips and disappeared from view. Overwhelmed by the arousal that had been building in layers and reaching its peak, I was already veering off course without any prompting from him. I hadn't known that the deliberate withholding of touch could be just as stimulating as the touch itself.</p>
+<p>I pressed my chest closer to him, as though holding him close against me. My nipple disappeared between his full lips. With the excitement building layer upon layer until it was almost unbearable, I was already straying from my usual self without any encouragement from him. I hadn't known that the deliberate withholding of touch could be just as stimulating as the touch itself.</p>
 
 <p>"Hngh!"</p>
 
-<p>In an instant, he pursed his lips and drew the nipple in with a sharp suck. The strong pressure — as if compressing and wringing out a knob — made me throw my head back, my fingers tangling in his hair.</p>
+<p>Suddenly, he pursed his lips and sucked in the nipple he had been holding. The fierce pressure, as though he were squeezing it dry, made me throw my head back and bury my fingers in his hair.</p>
 
 <p>"Ngh, ah! Hnngh…!"</p>
 
-<p>While tightening his lips around the tip, he scraped the edge with his tongue and then enveloped the entire areola, chewing at it, sucking my chest so hard that an embarrassing friction sound nearly escaped.</p>
+<p>He tightened his lips around my nipple and scraped the tip with his tongue, then took the whole areola into his mouth, biting and sucking at my chest so hard that embarrassing wet sounds escaped.</p>
 
-<p>The quenching of thirst was followed by a tingling pleasure that flooded my body like a current running through it. I wrapped my arms around his neck and fell backward onto the large pillow stacked double-high behind me.</p>
+<p>As he finally gave me what I wanted, tingling pleasure swept through my whole body. With my arms still around his neck, I fell back onto the two large pillows stacked behind me.</p>
 
-<p>As he layered himself over me, our bodies fit together without a gap, and the seamless contact of our full lengths brought a deep sense of satisfaction. My cock rubbed against his lower abdomen, and his hardness pressed against my inner thigh. As he began to move his hips, that contact became friction.</p>
+<p>He settled over me, and the close fit of our bodies, pressed together without a gap, was deeply satisfying. My erection rubbed against his upper abdomen; his pressed against my inner thigh. When he began circling his hips, contact became friction.</p>
 
-<p>Sucking at my nipples with enough passion that air escaped in a faint squeak, he slid his right knee inward between my thighs and pushed outward to spread my legs. His firm thighs dug into the outer sides of my ass. His thick cock pressed tightly against my entrance, and the moment our lower halves met, he immediately began to thrust.</p>
+<p>Still sucking my nipple so fiercely that escaping air squeaked, he slid his right knee between my thighs and pushed outward, spreading my legs. His firm thighs pressed beneath the outer edges of my buttocks. His thick length pressed firmly against the skin between my balls and my opening, and as soon as our lower bodies met, he began rocking his hips.</p>
 
-<p>The action brought immediately to mind his earlier declaration — wanting to put it in and thrust right away — and I couldn't keep anticipation from surging at the thought of being joined with him through our bodies.</p>
+<p>It recalled his heated declaration that he wanted to put it in and move right now, and I couldn't help anticipating what it would feel like to have him inside me.</p>
 
-<p>Although I had never once considered the pleasure derived from taking another person inside me, wanting it now as if it were the natural next step felt strange. But looking back at my reactions in his bedroom last time, it wasn't entirely surprising either.</p>
+<p>I had never thought about how it might feel to have someone inside me. It felt strange to want it now, as though it were the natural next step. But remembering how I'd responded in his bedroom last time, perhaps it wasn't so surprising.</p>
 
-<p>Perhaps the desires I had suppressed and ignored in every other aspect of my life were now erupting distortedly in the sexual realm. Or maybe this was a reckless, naive willingness to go along with whatever he wanted.</p>
+<p>Perhaps the desires I had suppressed and ignored in every part of my life were finding a distorted outlet in sex. Or perhaps I was simply, dangerously blind — wanting to give him anything he wanted.</p>
 
-<p>Either way, I wanted him too. Without adding or subtracting anything — that reality governed who I was in that moment. It was the principle and the rule. Nothing was happening through force or coercion.</p>
+<p>Whatever the reason, I wanted him too. That alone was enough to govern me in this moment. Nothing was being forced on me.</p>
 
-<p>He slid his hand between our pressed-together stomachs and plunged deep between my spread legs, groping at my entrance. In that instant I lost my grip on his neck and twisted his shoulder blade painfully.</p>
+<p>He slipped his hand between our stomachs and reached deep between my spread legs to feel my opening. I immediately lost my hold on his neck and gripped his shoulder so hard I twisted the flesh.</p>
 
 <p>"Why are you squirming?"</p>
 
-<p>He pulled back from my nipple and rose slightly, licking the outline of my lips with a faint smile. He had noticed my heated reaction to the way he was grinding against me — and was enjoying it. I didn't dislike that expression, which looked almost sly.</p>
+<p>Leaving my nipple, he moved up and traced my lips with his tongue, smiling faintly. He had noticed how his hips moving, his erection grinding against my crotch, had excited me, and he was enjoying it. I didn't dislike that almost wicked expression.</p>
 
 <p>"Here… it keeps twitching. As if expecting something."</p>
 
-<p>His expression subtly hardened as he pressed the flesh of my entrance with his fingers, as if about to push one in right then. His eyelashes fluttered lightly at the edges of his narrowed lids.</p>
+<p>He pressed steadily against my opening as though he might slide a finger inside at any moment, but his expression suddenly tightened. His lashes trembled at the corners of his narrowed eyes.</p>
 
-<p>After thoroughly feeling around the entrance, as if his fingers weren't enough, he started using his entire palm to rub below.</p>
+<p>He felt all around my opening, then began rubbing with his whole palm, as though his fingers alone weren't enough.</p>
 
 <p>"Hngh, ugh."</p>
 
-<p>His touch, as if searching for something, was almost entirely devoid of lewd intent — yet my already sensitized body flinched and recoiled even from this nearly clinical contact.</p>
+<p>He seemed to be searching for something. There was almost none of the lingering sensuality or lewd intent in his touch now, yet my body was so sensitive that it flinched and trembled even at this almost clinical examination.</p>
 
-<p>Had something gone wrong? I looked up at him with uneasy, yet still heated eyes. After rubbing below with his palm several times — pressing and rubbing around my entrance with particular care — he glanced back and forth between my eyes with furrowed brows.</p>
+<p>Had something gone wrong? I looked up at him, anxious but still flushed with excitement. He repeatedly rubbed beneath me with his palm, pressing and stroking around my opening with particular care, his brow furrowed as he kept looking back into my eyes.</p>
 
 <p>I thought I understood.</p>
 
@@ -129,109 +129,109 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Right now, he was probably searching between my legs for Omega arousal fluid.</p>
 
-<p>He must have been thinking that it was useless for me to release pheromones since I was a Beta — that's exactly what he had told the blond man himself just a few hours ago.</p>
+<p>I was a Beta, so no amount of pheromones would have any effect on me. He'd said so himself to the blond man only a few hours ago.</p>
 
 <p>Or perhaps he was hoping I was an Omega after all.</p>
 
 <p>But he was an Alpha who didn't even use his pheromones in bed, so there was no reason I needed to be an Omega.</p>
 
-<p>He finally ended his exploration by inserting just the tip of his finger into my entrance, turning it as if scooping out cream, and withdrew his hand from between my legs. Right in front of my eyes, he licked and smelled the hand — which had nothing on it at all.</p>
+<p>He ended his search by slipping just a fingertip inside me, turning it as though gathering a dab of cream, then withdrawing his hand from between my legs. Right in front of my eyes, he ran his tongue over his hand and sniffed it, though there was nothing on it.</p>
 
-<p>His face as he licked between his fingers looked ecstatic, as if inhaling a scent that induced forbidden hallucinations. And yet it was clearly just his fingers, with nothing on them.</p>
+<p>As he looked down at me and ran his tongue between his fingers, his face seemed rapt, as though he were breathing in a scent that brought on erotic hallucinations. Yet there was clearly nothing on those fingers.</p>
 
 <p>Keeping his eyes fixed on mine, he covered my face with his hand. His long fingers stretched across my cheeks, partially obscuring my eyes. When I blinked, my lashes brushed against his fingers.</p>
 
-<p>He leaned in and licked my lips with his fingers between them. As his tongue delved inside and touched the inner lining at the back, I too became dazed, as if lost in a hallucination. Hesitantly, I pushed my tongue out and rubbed it against his hot, wet tongue. His tongue was like an unending fountain of fragrance.</p>
+<p>He leaned closer and licked my lips through the gaps between his fingers. When his tongue slipped past my lips and touched the soft inner surface, I grew hazy too, as though hallucinating. Hesitantly, I put out my tongue and rubbed it against his, hot and wet. His tongue seemed an inexhaustible source of his scent.</p>
 
 <p>Between his index and middle fingers. Between his middle and ring fingers.</p>
 
-<p>We sought and explored each other's tongues as if playing hide and seek. What was this? Simply having his fingers between us made the kiss more tender, and imbued it with an even stronger sensation.</p>
+<p>We sought out and tasted each other's tongues as though playing hide-and-seek. What was it about this? Just having his fingers between us gave the kiss a tenderness edged with longing, making it all the more arousing.</p>
 
-<p>With rising impatience, I writhed my hips and scratched and bit his fingers. With half-lidded eyes, he absorbed every moment of my ascent and burning without missing a single instant.</p>
+<p>Growing impatient, I rocked my hips and scraped and bit at his fingers. Through narrowed eyes, he watched every moment of my mounting excitement, every flare of it.</p>
 
-<p>As the kiss deepened, a stirring sensation grew deep inside my belly — precisely deep inside my entrance. His cock, rubbing against my crotch and inner thighs, was too distinctly present to ignore. With every subtle thrust of his hips, the twitching of it felt as if it were about to burrow right into my flesh.</p>
+<p>The longer we kissed, the stronger the twitching in my belly became—or rather, inside my entrance. His erection rubbing against my crotch and inner thighs was impossible to ignore. Whenever he gently ground his hips against me, it twitched as though it might push into me at any moment.</p>
 
 <p>"Hnng, hng…"</p>
 
-<p>He looked down at me as I instinctively arched my hips, wanting him to press deeper. Then he lifted his upper body and grabbed my ankles.</p>
+<p>He looked down at me as I twisted my hips, wanting him to rub more deeply against me. Then he raised his upper body and took hold of my ankles.</p>
 
 <p>Without warning or hesitation, he lifted my ankles toward the ceiling and spread my legs wide apart.</p>
 
 <p>"Ugh."</p>
 
-<p>The seriousness with which he did it only deepened my shame. My legs, splayed open in a wide V toward the ceiling, were being handled like a doll's by him, making me feel utterly helpless. As his intense gaze dropped to look directly between my legs, my body curled instinctively inward.</p>
+<p>His serious expression made it more embarrassing. Spread in a wide V toward the ceiling, my legs were being handled like a doll's, so helpless I wondered if they had always been this way. He bent his head to look between them, and I shrank instinctively under that intent gaze.</p>
 
 <p>"I couldn't see properly last time."</p>
 
-<p>His voice explaining the reason for this humiliating observation was huskier than usual.</p>
+<p>His voice was huskier than usual as he explained this embarrassing inspection.</p>
 
-<p>"It's the place my tongue will lick and my cock will enter — I need to see it."</p>
+<p>"This is where I'm going to lick you with my tongue and fuck you with my cock. Of course I should get a good look first."</p>
 
-<p>"W-what are you going to lick — !"</p>
+<p>"L-lick me with what…!"</p>
 
-<p>Before I could even finish speaking, he pushed my ankles toward my shoulders. My knees bent, folding my body in half. Any strength I tried to use to raise my upper body was nullified by the weight pressing down on my ankles.</p>
+<p>Before I could finish speaking, he pushed my ankles toward my shoulders. My knees bent, folding me in half. I tried to raise my upper body, but the weight pressing down on my ankles defeated the effort.</p>
 
-<p>My face was between my knees. My cock, my balls, even my entrance… the space between my legs — usually hidden away somewhere — was fully exposed and pointing upward. I felt blood rushing to my face at this embarrassing posture, the kind you'd only end up in under very specific circumstances.</p>
+<p>My face was between my knees. My erection, my balls, even my opening… everything I normally kept hidden between my legs was on full display, facing upward. I couldn't remember ever being in such an embarrassing position, one I'd have no reason to try under ordinary circumstances. I felt blood rush to my face.</p>
 
 <p>And yet I couldn't deny that this embarrassment and shame only made it all the clearer that he and I were deeply immersed in an intensely private act, one we couldn't speak of to others.</p>
 
 <p>Perhaps my head had grown dull from his scent, which hung heavily throughout the room like a diffuser's fragrance — to the point where I could no longer distinguish between shame and pleasure. In truth, too strong a scent can cause headaches. This sensation — languid and hazy, yet capable of sharply grasping the core of pleasure in an instant — was different from a headache in nature but similar in the way it clouded judgment.</p>
 
-<p>Before I could struggle or resist, he immediately grabbed my waist and pulled me up. My upper body, which had been sinking into the pillows, was dragged down, while my lower half was lifted upward.</p>
+<p>Before I had time to struggle or resist, he caught my waist and lifted. My upper body slid down off the pillows while my lower body rose.</p>
 
-<p>My legs, fully exposed upward, had risen to the height of his chest. It was a position where he could look right in and run his tongue over me with just a slight dip of his head.</p>
+<p>Everything between my legs was exposed at the height of his chest. He only had to lower his head a little to look or rub his tongue against me as he pleased.</p>
 
 <p>I wrung out the last remnants of reason clinging to one corner of my mind, as if I wouldn't be able to face myself after this was over if I didn't even attempt this much.</p>
 
-<p>I reached out to cover myself and stop him — but he was quicker. He lowered his head, sharpened the tip of his tongue, and drew a long line across the skin beneath my inverted balls.</p>
+<p>I reached out to cover myself and stop him, but he was quicker. He lowered his head and drew the pointed tip of his tongue in a long stroke along the skin beneath my upturned balls.</p>
 
-<p>"Haah, ugh."</p>
+<p>"Haaa... ah!"</p>
 
-<p>The sensation that shot through my entire body made my suspended calves kick out involuntarily.</p>
+<p>The sensation shot through my entire body, making my legs kick helplessly in the air.</p>
 
 <p>"It only makes me more excited when you seem like you want to touch it yourself."</p>
 
-<p>He said this while lightly biting my fingers, which were belatedly trying to cover my entrance. Any attempt to interfere would only make it backfire.</p>
+<p>He lightly bit my fingers, which were belatedly trying to cover my opening. Any attempt to interfere would only make it backfire.</p>
 
-<p>I looked up at his face — his tongue pressed against my entrance between my fingers — and a slight self-mockery washed over me as I realized I was feeling a thrill stronger than shame.</p>
+<p>Looking up at his face as his tongue pressed against my opening between my fingers, I felt a trace of self-mockery. The thrill of it was stronger than my shame.</p>
 
 <p>"Are you still shy?"</p>
 
-<p>"Hh, ugh."</p>
+<p>"Hngh, mmph..."</p>
 
-<p>After licking my entrance thickly, then rubbing it vigorously with the flat of his tongue, he asked.</p>
+<p>After licking firmly over my opening, he pressed the full flat of his tongue against it and rubbed hard as he asked.</p>
 
 <p>"Don't worry. You'll forget all about it soon. Just like last time."</p>
 
-<p>He scraped, bit, and nipped at the delicate skin of the entrance — tightly sealed as if being drawn inward — with his teeth. He repeated the motion of sucking so hard it made a wet, sticky sound and then releasing, until his saliva coated my entire perineum and it glistened.</p>
+<p>He scraped his teeth along the soft skin of my tightly puckered opening, taking it between them and biting. He kept sucking and releasing it, hard enough to make wet sounds, until the whole area between my opening and my balls glistened with his saliva.</p>
 
-<p>The muscles around my entrance, which had been rigid, softened, and the sensation of my body opening and loosening melted gently between my legs.</p>
+<p>The tense muscles around my opening softened. As my body loosened and opened, the sensation seemed to melt everything between my legs.</p>
 
-<p>The same process he had poured onto my lips with his kisses — he was now repeating on my entrance. On my most secretive and private place.</p>
+<p>He was repeating the kisses he had lavished on my lips, but now down below… on the most intimate, private part of me.</p>
 
-<p>I couldn't tear my eyes away from the sight of his tongue — stiff and rigid with tension — slowly descending from above and penetrating inside. It was a position where he could see everything about me, and where I could also watch every kiss, every suction, every drag of friction, every penetration he performed between my legs.</p>
+<p>I couldn't look away as his tongue, held firm, slowly descended and pushed inside me. He could see every part of me in this position, and I could see everything he did between my legs too — every kiss, every suck, every stroke, every push inside.</p>
 
-<p>His tongue, having descended to a depth where further entry was impossible, bent its tip and scraped the inner wall on the way out. Hooked precariously at the very edge of the entrance, it plunged back inside.</p>
+<p>When his tongue couldn't go any farther, he curled the tip and dragged it along the inner wall as he withdrew. It barely lingered at the edge of my opening before pushing in again.</p>
 
-<p>"Hhnng… hhh…"</p>
+<p>"Nnngh… hngh…!"</p>
 
-<p>I gripped the sheets at the movement of his wet tongue appearing and disappearing between my legs. Even lying still, I was breathless. My cock, inverted, swelled and twitched without him even touching it.</p>
+<p>I gripped the sheets as his wet tongue moved in and out between my legs, appearing and disappearing. Even lying still, I was breathless. My erection, pointing upward, swelled and twitched without being touched.</p>
 
-<p>The pressure of his tongue thrusting inside at a rapidly increasing speed scrambled my breathing further. The spacious bedroom filled with gasps — a mixture of the wet friction between his tongue and my inner walls, and my moans.</p>
+<p>His tongue thrust rapidly inside me, further breaking the rhythm of my breathing. The spacious bedroom filled with wet sounds as it rubbed against my inner walls, mingling with my panting and moans.</p>
 
-<p>"Ah, s-stop… Hnng, I don't like th-that…!"</p>
+<p>"Ah, s-stop… Hnngh! I don't like th-that…!"</p>
 
-<p>With his tongue buried deep inside, flicking at my walls, he made me writhe. The maddening itch he inflicted on a spot I couldn't reach made me buck my hips, almost crying out.</p>
+<p>With his tongue pushed all the way in, he flicked it against my inner walls and made me writhe. The unbearable tickling in a place I couldn't scratch made me buck my hips and nearly cry out.</p>
 
-<p>In a voice tight with desperation, I begged him to rub against me harder, to hurt me.</p>
+<p>In a tight, strained voice, I begged him to rub harder instead, to make it hurt.</p>
 
-<p>He stared at my pleading form with anxious eyes, but didn't grant the request. When the tip of his tongue finally withdrew, my chest was heaving as if I had just sprinted flat out. The back of my shirt, which he hadn't fully removed, was damp with sweat.</p>
+<p>He watched me plead, his gaze restless, but didn't give me what I asked for. When he finally drew his tongue out, my chest was heaving as though I'd just sprinted at full speed. My back was damp beneath the shirt I still hadn't fully taken off.</p>
 
-<p>Without giving me a moment to catch my breath, he pulled me tighter against him, buried his nose and mouth into my groin, and took a deep breath. He moved his head back and forth as if searching for the trace of a precious thing hidden long ago, licking and sucking at my entire crotch.</p>
+<p>Before I could catch my breath, he pulled my hips closer against him, buried his nose and mouth against the skin between my balls and my opening, and inhaled deeply. He moved his head from side to side, biting and sucking all over my groin as though searching for traces of something precious he had hidden long ago.</p>
 
-<p>His eyes — glittering blue enough to be seen even in the dark — and his broad shoulders, repeatedly tensing and subsiding, proved that he too was not calm. That his reason was crumbling under the weight of this foreplay.</p>
+<p>His eyes flashed blue even in the darkness, and his broad shoulders, held tense, repeatedly rose and fell. They showed that he too was far from calm, that this foreplay was breaking down his reason.</p>
 
-<p>He sucked my skin in as if trying to draw it into his nostrils, then looked up at me while keeping his face completely buried between my thighs.</p>
+<p>He inhaled as though he might draw the soft skin into his nostrils, then raised his eyes to look down at me, his face still buried against that same spot.</p>
 
 <p><em>I'm sure I left it right here, but I can't find it anywhere.</em> That was the look on his face.</p>
 
@@ -243,25 +243,25 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Was it because he had such a handsome face and a pleasant voice that I could feel pleasure even in this position, where he was freely playing with my most intimate parts?</p>
 
-<p>Lost in such contextless thoughts, I stared up at his face with my breath still ragged.</p>
+<p>I looked up at his face in a daze, my breathing still unsettled, thinking such disconnected thoughts.</p>
 
-<p>"What exactly are you."</p>
+<p>"What are you, really?"</p>
 
 <p>What was he asking about?</p>
 
-<p>I tried to search for an answer in my clouded, flushed consciousness, but found nothing to grasp.</p>
+<p>I searched my hazy, heated thoughts for an answer, but nothing came.</p>
 
-<p>Perhaps right now, I was nothing. I was burning up from being so fully exposed, rubbed, and stirred by him — wanting him to reach deeper, wanting our deepest places to overlap and grind together — to the extent that this was the clearest piece constituting who I was in that moment. I was so completely nothing that this was all I was.</p>
+<p>Perhaps, right now, I was nothing at all. Laid bare before him, rubbed and probed by him, I burned for him to reach deeper, for us to meet and rub together somewhere deeper still. That desire was the clearest part of me now. Beyond it, I was nothing.</p>
 
-<p>Burying his nose and mouth deep into my entrance and rubbing his face against it, he took another deep breath. He alternated between teeth and lips, gnawing around my entrance, and used his high, hard nose to prod at my tender inner flesh.</p>
+<p>He buried his nose and mouth against the soft skin beneath my balls, rubbing his face against me as he took another deep breath. His teeth and lips took turns nibbling around my opening, while the firm bridge of his nose prodded the tender flesh again and again.</p>
 
-<p>It seemed he quite liked my crotch. Otherwise, how could he cling so close and suckle like that?</p>
+<p>He seemed to be quite taken with my groin. Otherwise, would he really press so close, biting and sucking like that?</p>
 
-<p>Watching him, my lower belly clenched and tightened, and I couldn't help tensing down there without realizing it.</p>
+<p>As I watched him, my belly tightened in little spasms, and I kept clenching down below without realizing it.</p>
 
-<p>As if sweet fluid were coming from my entrance, he again enveloped the opening with his mouth, sucking and smacking as if squeezing out and drinking what was inside.</p>
+<p>As though something sweet were flowing from inside me, he took my opening into his mouth again, working his lips as he sucked, as if squeezing out and drinking what was there.</p>
 
-<p>"Giving off a scent like this… and you're saying no."</p>
+<p>"Giving off a scent like this… and you're saying you aren't."</p>
 
 <p>My consciousness was too hazy to be certain, but he muttered something to that effect, almost to himself, before finally lowering my hips back down onto the mattress. He raised an arm to wipe the sweat from his face, then crawled past me to the edge of the bed.</p>
 
