@@ -22,6 +22,71 @@
 </head>
 
 <body class="chapter-body" data-page-type="chapter" data-chapter-number="{{ page.chapter_number }}" data-chapter-title="{{ page.title | escape }}">
+
+    {% assign bunny_chapter = page.chapter_number | plus: 0 %}
+{% case bunny_chapter %}
+{% when 6 %}
+<!--
+   (\_/)
+   ( •_•)
+   / >🥕
+
+   you're inspecting my WHAT?
+
+   anyway, drink some water.
+   ♡ finalbuni
+-->
+{% when 11 %}
+<!--
+   (\_/)
+   ( •_•)
+   / >📖
+
+   you came for the plot.
+
+   sure you did.
+
+   ♡ finalbuni
+-->
+{% when 22 %}
+<!--
+   (\_/)
+   ( •_•)
+   / >💎
+
+   you found the diamond dust.
+
+   it's mostly dust.
+
+   ♡ finalbuni
+-->
+{% when 25 %}
+<!--
+   (\_/)
+   ( •_•)
+   / >🧻
+
+   tissues are not included
+   with this translation.
+
+   poor planning on your part.
+
+   ♡ finalbuni
+-->
+{% when 30 %}
+<!--
+   (\_/)
+   ( •_•)
+   / >💧
+
+   you've read 40,000 words
+   and consumed zero water.
+
+   concerning.
+
+   ♡ finalbuni
+-->
+{% endcase %}
     
     {% include site-update-banner.html %}
 
