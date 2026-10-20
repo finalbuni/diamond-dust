@@ -1151,161 +1151,163 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>My breath hitched and my belly pulled tight. His face contorted at the intense pressure of my body tightening around him. Seeing how my movements immediately brought a response from him made me keenly aware that we were connected.</p>
 
-<p>"You would have been uneasy doing this in the same house as the others, right?"</p>
+<p>"You would've felt uneasy doing this with the others in the same house, wouldn't you?"</p>
 
 <p>"…"</p>
 
-<p>Looking at his face as he whispered that with warm breath — ah… a delayed, dazed exclamation escaped me.</p>
+<p>I looked at his face as he whispered, his breath warm. Then, belatedly, a dazed <em>ah…</em> escaped me.</p>
 
-<p>"Even with separate rooms, it's still a little… inappropriate, isn't it?"</p>
+<p>"Even in separate rooms, it's still a little awkward, isn't it?"</p>
 
-<p>His face slick with sweat, he arched his back and ground his lower body against mine, a smirk on his lips.</p>
+<p>His face wet with sweat, he grinned, rolling his hips and grinding his lower body against mine.</p>
 
-<p>I had assumed that him preparing this hotel instead of his usual apartment was an arrangement for nuna and hyung — but maybe that wasn't the case. Still, thinking that he had planned this night with me specifically and booked the hotel in advance… felt like too great a leap. He was probably only half-joking.</p>
+<p>I had thought he'd booked this hotel instead of the apartment where he said he usually stayed as a treat for nuna and hyung. But perhaps that wasn't the reason. Still, imagining he'd booked it in advance with a night like this with me in mind… seemed too great a leap. He was probably half-joking.</p>
 
-<p>While I was still interpreting and arriving at that conclusion, he covered me completely and rubbed his whole body against mine. The contours of his thick chest constricted my breath, and my cock pressed against his hard, clearly defined abdominal muscles. Our legs became tangled, binding us to each other.</p>
+<p>While I was reaching that conclusion, he covered me completely and rubbed his whole body against mine. The curves of his thick chest made it hard to breathe, and my erection pressed against his hard, sharply defined abdominal muscles. Our legs tangled, holding each other in place.</p>
 
-<p>I, too, traced the broad expanse of his back — where large and small muscles rippled — touching him freely, twisting my body to cooperate in the lewd friction. As we lay naked and pressed together, skin seemed to melt, and it felt as if my entire body, not just below, was becoming slickly mingled with his.</p>
+<p>I stroked his broad back, tracing the contours of its muscles and touching him as freely as I wanted, twisting my body to help create that obscene friction. As we rubbed against each other, naked and pressed together, our skin seemed to melt. It felt as though my whole body, not just down below, was mingling wetly with his.</p>
 
-<p>At first, he didn't try to push deeper. He only circled his hips from this awkward, partially inserted position, widening the entrance. He seemed more focused on kissing, on caressing, on stroking my back and waist and lightly pinching my ass in play.</p>
+<p>At first, he didn't try to push deeper. Still only partly inside, he circled his hips to work my opening wider. He seemed more intent on kissing and caressing, stroking my back, waist, and buttocks, and playfully pinching them.</p>
 
-<p>But soon the playing stopped being just play, and a potent fragrance rose from every place that was rubbed and pressed. Locked tightly together, he began repeatedly lifting and lowering his hips.</p>
+<p>Soon, though, the teasing was no longer just teasing. His scent rose strongly wherever our bodies rubbed. Holding each other close without a gap between us, he began lifting and lowering his hips.</p>
 
-<p>He retreated — scraping against my inner walls as if pulling everything out of me — then slowly pushed back in, twisting his hips to one side. Not just pushing in but withdrawing and filling again, the piston-like motion made my breathing tremble as if I were sobbing.</p>
+<p>He drew back, dragging against my inner walls as though pulling everything out of me, then slowly pushed in again, twisting his hips from side to side. He was no longer simply pushing inside; he kept withdrawing and filling me again. The repeated thrusts made my breathing tremble as though I were sobbing.</p>
 
-<p>Still, I didn't close my eyes. We never broke eye contact, watching every trace of penetration bloom on each other's face — as if missing a single moment of this would be the height of foolishness.</p>
+<p>Still, I didn't close my eyes. Neither of us looked away as we watched every reaction to the penetration appear on the other's face, as though it would be foolish to miss this moment.</p>
 
-<p>His hips moved with surprising flexibility — sometimes circling in large arcs to grind against the entrance, sometimes undulating from shoulder to hip in wave-like curves, sometimes trembling finely while holding perfectly still without advancing or withdrawing further.</p>
+<p>He moved with astonishing flexibility. Sometimes his hips traced wide circles against my opening; sometimes his body undulated in a wave from his shoulders to his buttocks. Sometimes he stayed at the same depth and moved in quick, small pulses, neither pushing farther in nor drawing back.</p>
 
-<p>Each time, an unfamiliar pleasure convulsed inside me. Spasms that surged sharply upward, flared intensely, and then receded — just within reach yet never quite caught — forced my hips to twist.</p>
+<p>Each movement stirred an unfamiliar pleasure inside me. Spasms surged and flared, then receded, almost within reach but never quite caught, making my hips twist.</p>
 
-<p>I moaned as if pleading and pulled his body closer, hugging him tighter. I massaged his rigid neck and shoulders, traced the outline of his bulging arm muscles with my hands. Keeping my gaze locked on his eyes, I curled the tip of my tongue and hooked it against his, rubbing.</p>
+<p>I moaned as though pleading and pulled him closer. I kneaded his tense shoulders and the back of his neck, tracing the curves of his bulging arm muscles. Keeping my eyes on his, I curled the tip of my tongue, hooked it against his, and rubbed.</p>
 
-<p>His hips pulled back until only the head remained, then slid back in. My inner walls, which had momentarily clenched, convulsed and then opened wide again. The sensation of his head rubbing against that tingling spot felt as if it were grabbing my throat and toying with it.</p>
+<p>He pulled back until only the head remained, then slid in again. My inner walls briefly tightened, shuddered, and were stretched open once more. As he rubbed past that tingling spot, the sensation seemed to seize my throat and toy with it.</p>
 
-<p>"Hhh, hhh… hah. Ugh."</p>
+<p>"Haa, haa… hah. Ugh."</p>
 
-<p>Clutching his neck tightly, burying my lips in the nape of his neck, I forgot all shame and inhaled his scent through my nose and lips.</p>
+<p>Holding him tightly around the neck, I buried my lips against his nape and breathed in his scent through my nose and mouth, forgetting my shame.</p>
 
 <p>"Do you like my scent?"</p>
 
-<p>His breath was uneven as he asked. I nodded frantically. He too bowed his head, biting my ear and neck.</p>
+<p>His breathing was uneven too. I nodded frantically. He lowered his head in turn and repeatedly bit my ear and neck.</p>
 
-<p>"Your scent too... drives me crazy."</p>
+<p>"I love your scent too… so fucking much."</p>
 
-<p>Keeping his upper body pressed tightly against mine, only his lower half moved rapidly as he bit at my lips.</p>
+<p>Keeping his upper body pressed close to mine, he moved only his hips in quick pulses and caught my lips between his teeth.</p>
 
 <p>"Where is it coming from? Here?"</p>
 
-<p>Sucking on my lips — swollen as if about to burst — he panted, in a state of completely lost reason, just like me. Only a faint glint remained in his eyes, the blue of them almost entirely faded.</p>
+<p>He panted as he sucked at my lips, swollen as though they might split and bleed. Like me, he had lost all reason. The blue of his eyes had paled, leaving only their fierce shine.</p>
 
 <p>"Or, here?"</p>
 
 <p>"Haah, ugh."</p>
 
-<p>The force with which he grabbed my shoulders and pulled me down while simultaneously thrusting his hips upward made my eyes widen momentarily. It felt as if his head were pressing against my heart. His pubic hair brushed against my crotch. He was fully inside me.</p>
+<p>He gripped my shoulders and pulled me down as he thrust his hips upward. My eyes flew open. It felt as though the head of his erection were pressing against my heart. His pubic hair touched my crotch. I had taken all of him inside.</p>
 
-<p>Without giving me time to feel the pressure filling my body, he immediately pulled back out. The clearly defined head of him swept across the throbbing spot. Then he accelerated and pressed back in with a forceful grind.</p>
+<p>Before I could take in the pressure filling me, he drew back. I distinctly felt the shape of the head drag across that tingling spot. Then he pushed in again, faster, rubbing hard against it.</p>
 
 <p>"Hah, ugh… th-there…"</p>
 
-<p>I kept adjusting my grip on his neck, biting and releasing my lips over and over. A pleasure that felt like he was setting fire inside me — making my whole frame contract — seized my limbs.</p>
+<p>I kept readjusting my arms around his neck, biting my lip and letting it go. Pleasure seemed to set fire inside me, making my whole body draw inward and my limbs contract.</p>
 
-<p>The sticky fluid — a mix of the lube already inside me and what he had been releasing — squelched and oozed out, painting a vivid picture of the thrusting below even without looking. Every circuit in my head ignited and my thoughts ground to a halt.</p>
+<p>The lube already inside me mingled with the pre-cum he must have released there, and the sticky liquid leaked out with a squelch. Even without looking, I could vividly picture the thrusting between my legs. Every circuit in my head seemed to ignite, and my thoughts stopped.</p>
 
-<p>"You said just looking at my cock made your thighs go numb. So you like fucking it… that's why you're leaking your scent here? Fuck, it's here… isn't it?"</p>
+<p>"You said looking at my cock made your crotch tingle. Does it feel that good when I fuck you… is that why you're giving off your scent here? Fuck, it's here… here, isn't it?"</p>
 
-<p>Every time he emphasized <em>here</em>, he drove himself all the way in and ground against me, pushing me to the breaking point with his words. The penetration was so merciless it could have been called violent if there had been pain.</p>
+<p>Every time he stressed <em>here</em>, he pushed all the way in and ground against me. By the end of his sentence, he was driving into me as though he might break me apart. Had I been in pain, the thrusting was merciless enough to call violence.</p>
 
 <p>And yet I wrapped my arms around his neck, spread my legs, and moved my hips.</p>
 
-<p>That sex felt good. That the sex I was having with him — which I was only just discovering — felt so incredibly good that just his scent made my body ache, that just seeing his cock made me frantic. That everything he said was right. That I wanted him to shatter me.</p>
+<p>Sex felt good. I was discovering how good it felt with him, so good I could lose my mind. His scent alone made my body ache; just seeing his erection made me desperate. Everything he said was right. I wanted him to break me apart.</p>
 
 <p>…I poured out those words.</p>
 
-<p>It wasn't like last time — clinging to his neck without seeing his face, whispering secrets into his ear.</p>
+<p>It wasn't like last time, when I'd clung to his neck without seeing his face and whispered into his ear.</p>
 
-<p>This was while looking straight into his eyes. While sucking his lips the way he did to mine, tangling my tongue with his, twisting my hips to work against his cock. While spouting those unbelievable words.</p>
+<p>I looked straight into his eyes as I said those unbelievable things. I sucked his lips the way he sucked mine, tangled my tongue with his, and twisted my hips to stimulate him inside me.</p>
 
 <p><em>The scent I inhaled with my nose pressed against his skin was like a drug.</em></p>
 
-<p>My thoughts were correct. Last time, and now — being in bed with him made me feel like someone who had been injected with narcotics.</p>
+<p>I had been right. Last time and now, being in bed with him made me feel as though I were on drugs.</p>
 
-<p>Being exposed in a shameful posture, revealing myself to another person, feeling heat from lewd whispers, getting excited from pouring those words into his ear… My state — completely detached from my true self and yielding my body to the thrill of sexual pleasure — seemed consistent with the shallow, vague knowledge I had about what drugs do.</p>
+<p>Exposing myself to someone in an embarrassing position, growing hot at his obscene whispers, becoming excited by saying such things into his ear… I was so unlike my usual self, surrendering to the shudders of sexual pleasure. It seemed to fit what little I vaguely understood about the effects of drugs.</p>
 
-<p>It wasn't just drugs; sex addiction existed in the world too. I felt like I understood why. The stimulation of a variation that breaks away from the everyday rhythm is more electrifying than anything else.</p>
+<p>There was sex addiction too, not just drug addiction. I thought I could understand why. Nothing was more exhilarating than breaking out of the rhythm of everyday life.</p>
 
-<p>The words I had spilled out — entirely outside the ordinary category I belonged to, in a state of lost reason — made his eyes churn fiercely, and a deep, rough kiss sealed my mouth. Completely different from the careful initial entry: now that he had confirmed my body was fully open, he didn't hesitate.</p>
+<p>The things I said, so unlike my ordinary self and spoken when I was out of my senses, made his eyes flare fiercely. A deep, rough kiss sealed my mouth. Unlike his careful movements at the beginning, he no longer hesitated now that he knew my body had opened completely.</p>
 
-<p>The sensation of climax rushed right up to me as the craving was satisfied by the continuous friction against those sensitive places. I unconsciously wrapped my legs around his waist and pulled him closer, wanting more stimulation.</p>
+<p>As he rubbed repeatedly over that sensitive spot, satisfying my craving, I felt myself nearing climax. Without thinking, I wrapped my legs around his waist and pulled him closer, seeking more stimulation for my erection trapped between our lower bellies.</p>
 
-<p>"Uhng, hng. Haaah!"</p>
+<p>"Ungh, ngh. Haaah!"</p>
 
-<p>The next moment, I spat out his tongue — which was fiercely filling my throat — and writhed from a pleasure so intense it was frightening.</p>
+<p>The next moment, I pushed his tongue out of my mouth—it had been blocking my throat—and writhed with pleasure intense enough to frighten me.</p>
 
-<p>The sensation of his cock — which I had thought reached to its maximum size — swelling and expanding for a moment, as if pushing my entire inner wall from inside out, sealing the entrance completely.</p>
+<p>I had thought he was already as hard as he could be. Then I felt him swell inside me, expanding as though pushing my inner walls outward and sealing my opening completely.</p>
 
 <p>It was knotting.</p>
 
-<p>I knew it instinctively, even without prior experience.</p>
+<p>I knew it instinctively, though I'd never experienced it before.</p>
 
-<p>With the feeling of my belly swelling and all my organs being pushed upward, I was still suffocating even after pushing his tongue away. I tried to gasp for air with my mouth wide open but could only choke — like someone who had forgotten how to breathe.</p>
+<p>My belly felt swollen, as though all my organs were being pushed upward. Even after pushing his tongue away, I still couldn't breathe. I opened my mouth wide and struggled to draw in air, but could only choke and gasp, like someone who had forgotten how to breathe.</p>
 
-<p>A tingling pain — like a faint current of electricity flowing through every blood vessel — along with a pleasure that felt capable of destroying and transforming my very existence, resonated deep inside me, pounding like ominous sound effects signaling something terrible.</p>
+<p>Pain tingled through every blood vessel like a faint electric current. Alongside it, a pleasure that seemed capable of destroying and remaking me drew closer, pounding inside me like a sound that warned of something ominous to come.</p>
 
-<p>It was a pleasure of a kind and direction I couldn't have imagined — similar to having my entire body crushed repeatedly by a massive boulder, yet not merely dull or heavy.</p>
+<p>It was a pleasure unlike anything I'd imagined, as though a massive boulder were crushing my whole body again and again. Yet the sensation wasn't merely blunt and heavy.</p>
 
-<p>Saliva dripped from the corners of my mouth, and my dilated pupils searched for him in terror.</p>
+<p>Saliva ran from the corners of my mouth. With my pupils dilated, I searched for him in terror.</p>
 
-<p>Driven entirely by instinct, he too was completely gone — panting and thrusting inside me in pursuit of climax. The forceful insertion and withdrawal of his cock, which demanded the transformation of my very being — incomparable to anything his fingers had done — drove me rapidly toward the threshold of climax.</p>
+<p>Driven by instinct, he was completely gone too, panting as he thrust inside me in pursuit of climax.</p>
 
-<p>I struggled and writhed against the ecstatic pleasure boiling through me, trying to push his shoulders away, but he grabbed my hands, interlaced our fingers, and pressed them down onto the sheets.</p>
+<p>The force of his erection thrusting in and out was beyond anything I'd felt from his fingers. It was as though he were demanding that my very being change, driving me swiftly to the edge of climax.</p>
 
-<p>"Hhh, hhhk. Hah. Ugh!"</p>
+<p>I writhed as the pleasure of coming boiled through my whole body and tried to push his shoulders away. He caught my hands, laced his fingers with mine, and pinned them to the sheets.</p>
 
-<p>As I rubbed the back of my head against the sheets and reached the moment of climax, a sensation like an explosion struck deep in my belly simultaneously.</p>
+<p>"Ngh, hnngh. Hah. Ugh!"</p>
 
-<p>The Alpha's climax.</p>
+<p>As I rubbed the back of my head against the sheets and came, something like an explosion struck inside my belly at the same instant.</p>
 
-<p>The semen, forcefully expelled as if battering my insides, was copious enough to leak out even while the knot filled me completely. As my inner walls grew drenched and full, I too came between our joined lower bodies.</p>
+<p>The Alpha's release.</p>
 
-<p>My groan was close to a sob. No — perhaps I really was sobbing. Even pinned down under him, my entire body trembled violently. I bit my lower lip and whispered to him — as he frantically sucked at my mouth — that I was scared.</p>
+<p>His semen burst into me so forcefully it seemed to batter my insides. There was enough to leak out even with the knot filling me completely. As I felt my inner walls grow wet and full, I too spilled my semen between our pressed-together lower bellies.</p>
+
+<p>My moans were almost sobs. No, perhaps I really was sobbing. Even pinned beneath him, my whole body trembled. As he bit my lower lip and sucked at it frantically, I whispered that I was scared.</p>
 
 <p>"It's okay. I'm right here."</p>
 
-<p>Even after climaxing, he continued to move his hips to maintain the pleasure, raining kisses all over my face. He licked especially tenderly around my eyes, and only then did I realize tears were falling. They weren't tears born of sadness or loneliness, only a physiological response — yet the moment I became aware of them, something surged within me.</p>
+<p>Even after coming, he kept moving his hips to sustain the pleasure and showered my face with kisses. He licked around my eyes with such tenderness that I finally realized I was crying. The tears were a physical response, not sadness or loneliness. Even so, the moment I noticed them, something welled up inside me.</p>
 
-<p><em>It's okay. I'm right here.</em> — I wondered whether he was actually saying those words to me. His eyes were still unfocused, as if consumed by instinct, yet strangely those words brought me a sense of calm. I interlaced my fingers with his where they were joined and held on tightly.</p>
+<p><em>It's okay. I'm right here.</em> Was he really saying that to me? His eyes were still unfocused, as though instinct had overtaken him, yet strangely, his words reassured me. With our fingers still interlaced, I gripped his hands tightly in return.</p>
 
-<p>Breathing in the fragrance — so dense it felt capable of paralyzing the sense of smell instead of air — we were absorbed in the kiss, our lower bodies still joined. Around the time the terror that struck during the knotting began to fade, he abruptly stopped all movement.</p>
+<p>We kissed for a long time, still joined below, breathing in scent instead of air, so strong it seemed to numb my sense of smell. Just as the fear that had struck when he knotted began to fade, he suddenly stopped everything.</p>
 
-<p>Then he reached his arm down and groped for the junction between us with his hand.</p>
+<p>He reached down and felt where we were joined.</p>
 
-<p>He tried to pull away quickly, but his cock — still knotted — held tight to my walls and wouldn't let go. Or perhaps it was I who wasn't letting him go.</p>
+<p>He tried to withdraw his penis quickly, but it was still knotted, gripping my inner walls and refusing to let go. Or perhaps I was the one who wouldn't let him go.</p>
 
-<p>Regardless of which was true, he couldn't withdraw from inside me — like a size-10 finger forcefully jammed into a size-7 ring.</p>
+<p>Whichever it was, he couldn't pull out of me, like a finger that needed a size-ten ring forced into a size-seven one.</p>
 
-<p>His eyes — which had been languidly dissolving and floating from the profound pleasure his Alpha's climax had brought, a pleasure I couldn't even begin to fathom — snapped back to reality and shook coldly.</p>
+<p>His eyes had been drifting, languid with the pleasure of an Alpha's release... Now his gaze sharpened with sudden awareness, though it remained unsteady.</p>
 
-<p>He used his hand to force open my entrance, trying to pull out.</p>
+<p>He spread my opening with his hand, trying to force his penis out.</p>
 
-<p>Embarrassingly, even as the thick length of his cock, which had thoroughly filled me, scraped against my inner walls while struggling to withdraw, I flinched and felt a chill move through me.</p>
+<p>Embarrassingly, even the difficult drag of his thick length against my inner walls as he withdrew made me twitch and shiver.</p>
 
-<p>Even as he spread my legs aggressively and used his fingers to scrape out the semen inside, his still-hard cock twitched, wanting more — but he seemed incapable of thinking that far ahead.</p>
+<p>Frantically, as though out of his mind, he spread my legs and pushed his fingers inside to scrape out the semen. His erection hadn't subsided; it still twitched, wanting more — but he seemed unaware of it.</p>
 
 <p>"I'm sorry… Truly, I am so sorry."</p>
 
-<p>He repeated the word <em>sorry</em> countless times — easily more than twenty. It was strange that he — someone who seemed capable of handling any situation without panic — was reacting this strongly to the act of knotting and coming inside a Beta.</p>
+<p>He kept apologizing, at least twenty times. It was strange to see him react so strongly to having knotted and come inside a Beta, when he seemed like someone nothing could fluster.</p>
 
-<p>I grabbed his wrist, noticing he seemed completely unaware that what he was doing was unnecessary, and slowly sat up.</p>
+<p>He seemed completely unaware that this attempt to clean me out was unnecessary. I caught his wrist and slowly sat up.</p>
 
-<p>Though I hadn't fully recovered from the lingering effects of the climax that followed the long foreplay, seeing his reaction, it seemed unlikely I could enjoy aftercare or anticipate a new arousal toward a second climax.</p>
+<p>I was still feeling the aftereffects of coming after such prolonged foreplay. But from his reaction, there seemed little chance of enjoying any lingering touches, let alone building toward a second release.</p>
 
 <p>"Director… you're an Alpha, right?"</p>
 
 <p>"……"</p>
 
-<p>It was an odd question to ask now, but since we had never discussed it directly, I asked it anyway.</p>
+<p>It was a belated question, but we'd never spoken about it directly, so I asked anyway.</p>
 
 <p>"I'm definitely a Beta. So… you don't need to worry."</p>
 
@@ -1313,31 +1315,31 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"About pregnancy, or anything like that…"</p>
 
-<p>He stared at me silently for a long time, his eyes empty, as if everything had been taken from him. His eyes looked vacant and slackened — as if he had just been confronted with the shabby, crude underbelly of life. He looked so utterly helpless and fragile, like a young boy, despite his large and solid build. A clear sort of sorrow seemed to pool in his eyes.</p>
+<p>He stared at me in silence for a long time, his eyes desolate, as though everything had been taken from him. They looked drained and empty, as though he had come face-to-face with the shabby, sordid side of life. For a moment, this large, solid man seemed as helpless and fragile as a boy. A clear, unclouded sadness pooled in his eyes.</p>
 
-<p>"Yes… you're a Beta, Seo Yeehyeon."</p>
+<p>"Yes… you're a Beta, Seo Yeehyeon-ssi."</p>
 
-<p>After a long while, he finally muttered. But he didn't look relieved. His eyes were still dazed and unfocused. It felt like a lie that we had been so heated just moments before.</p>
+<p>Only after a long silence did he murmur those words. But he didn't look relieved. His eyes remained dazed and unfocused. It hardly seemed possible that we'd been so heated only moments before.</p>
 
-<p>He removed his hand from between my legs and rubbed his face several times with his palm.</p>
+<p>He withdrew his hand from between my legs and rubbed his face several times with his palm.</p>
 
-<p>"You probably… have internal injuries. A Beta like Seo Yeehyeon wouldn't have been able to withstand the knotting."</p>
+<p>"I've probably… hurt you inside. As a Beta, Seo Yeehyeon-ssi, you wouldn't have been able to withstand the knotting."</p>
 
-<p>He worried about me, insisting I should go to the hospital right away to check for even the slightest tear or scrape — but all I felt at that moment was a dull emptiness between my legs. And, though I couldn't tell him honestly, the lingering afterglow of that tingling pleasure was stronger. I felt like it would be more comfortable if he would just firmly fill the space that had become so hollowly empty. Contrary to his concern, I felt no particular pain.</p>
+<p>He worried about whether I felt even the slightest pain from a tear or scrape and said I should go to the hospital right away. So far, though, all I felt was a tingling emptiness inside. And, although I couldn't tell him, the lingering pleasure was stronger. I almost felt it would be more comfortable if he filled that hollow space again. Contrary to his fears, I felt no particular pain.</p>
 
-<p>As we shifted in an instant from whispering filthy things into each other's ears at the peak of our most intense climax to exchanging words about practical matters, I flinched, thrown off balance by the abrupt change. Yet I couldn't reach out to him — looking as shocked as he did — and pull him by the hand to say I was fine, let's keep going.</p>
+<p>One moment we'd been at the height of pleasure, whispering obscene things into each other's ears; the next, we were discussing practical concerns. The abrupt change made me draw inward, leaving me feeling off balance. But with him looking so shocked, I couldn't take his hand and pull him back, telling him I was fine and asking him to continue.</p>
 
-<p>Moreover, as his cock withdrew from my body, a wave of sleepiness washed over me, making my entire body feel heavy and sunken, accompanied by a sense of complete depletion. My energy was exhausted, wrung out. It was the same symptom as last time.</p>
+<p>Besides, once he'd pulled out of me, exhaustion and sleepiness washed over me, making my whole body feel as though it were sinking. My energy was spent, wrung out. It was just like last time.</p>
 
-<p>I told him I would let him know how I felt once tomorrow came and everything had settled down — that for now, there was nothing particularly wrong. I said this hoping he might be at least a little relieved, but though he nodded, he couldn't shake the serious look on his face.</p>
+<p>I told him I'd let him know how I felt tomorrow, once everything had settled, and that for now, nothing seemed particularly wrong. I hoped it would reassure him a little. He nodded, but his expression remained serious.</p>
 
-<p>Exhaustion weighed me down so completely that I couldn't persuade him further, and the sleepiness dragged me under. He noticed the signs of drowsiness on my face, pressed my shoulder down, and made me lie back. He said we would talk again tomorrow, then backed away, pulling the comforter from beneath me to cover my bare body, before lighting a cigarette.</p>
+<p>I was too sleepy to keep trying to convince him. Seeing the drowsiness on my face, he pressed my shoulder down and had me lie back. Saying we'd talk again tomorrow, he let the matter rest and pulled the covers out from beneath me, spreading them over my naked body before lighting a cigarette.</p>
 
-<p>I sat on the edge of the bed and blinked hard, wanting to watch him a little longer as he slowly smoked and looked down at me. I didn't want to leave him alone in his distress — but the sleepiness was pulling me under with violent force.</p>
+<p>I blinked hard, wanting to watch him a little longer as he sat on the edge of the bed, slowly smoking and looking down at me. I didn't want to leave him alone with whatever was troubling him, but sleep was pulling me under with almost violent force.</p>
 
-<p>The look in his eyes as if, having come back to his senses after being so passionately entwined with someone just moments before, he had realized he had done something terrible and was shocked by it… a look so confused, so complex, tinged with a hint of self-fear.</p>
+<p>He looked as though he'd come to his senses and realized with shock that he'd been hurting the person he'd just been so passionately entwined with… His gaze was confused and conflicted, with what seemed like a trace of fear of himself.</p>
 
-<p>That was the last image of him I saw before closing my eyes.</p>
+<p>That was the image of him I held as I closed my eyes.</p>
 </div>
 {% include scene-break.html %}
 <div id="section-3" class="hybrid-section" data-section="3">
@@ -1351,7 +1353,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>I cleared my throat several times as I crawled to the edge of the bed on my elbows, but my voice was hoarse and cracked — truly pitiful.</p>
 
-<p>The caller was a hotel staff member. He had requested that I wake up, eat something light, and then perhaps go back to sleep.</p>
+<p>The caller was a hotel staff member. The staff member said he had requested that I wake up, eat something light, and then perhaps go back to sleep.</p>
 
 <p>I tried to gauge whether I had an appetite, but I absolutely did not. My mouth was dry and rough, and my stomach churned as if all my internal organs had shifted from their original positions. And down there… there was still a heavy, full sensation, as if he were still inside me.</p>
 
@@ -1393,7 +1395,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Rubbing my robed arms, I offered an awkward greeting and hesitantly took my seat.</p>
 
-<p>They first offered fresh juice, so I accepted the orange juice — which looked freshly squeezed, pulp still visible — and drank the whole glass in one swallow, realizing I must have been thirsty. When I said I had no real appetite but would take wonton soup if possible, a covered bowl appeared on the empty white plate as soon as I finished speaking.</p>
+<p>They first offered fresh juice, so I accepted the orange juice — which looked freshly squeezed, pulp still visible — and drank the whole glass in one swallow, realizing I must have been thirsty. When they asked whether I would prefer shrimp congee or wonton soup if I had little appetite, I chose wonton soup, and a covered bowl appeared on the empty white plate as soon as I finished speaking.</p>
 
 <p>Next, they asked if I would like to speak briefly with Mr. Liu before the meal, and I agreed.</p>
 
@@ -1435,7 +1437,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>After finishing just enough to slightly appease my stomach lining, I excused myself and took only a cup of coffee before getting up from the table.</p>
 
-<p>The butler suggested I get a massage — mentioning that this too was the Director's idea, and that it would help me feel much lighter. A therapist from the hotel spa could be called to my room for a comfortable massage. But there was no way I could feel comfortable in that situation.</p>
+<p>The butler suggested I get a massage — mentioning that this too was his idea, and that it would help me feel much lighter. A therapist from the hotel spa could be called to my room for a comfortable massage. But there was no way I could feel comfortable in that situation.</p>
 
 <p>It was enough simply knowing that he had anticipated my condition and made considerations in advance on my behalf.</p>
 
@@ -1459,7 +1461,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>The last thing I had seen before closing my eyes — his fragile gaze mixed with confusion, futility, and a trace of self-fear — came back to me, and along with the clamor in my body, my mind grew complicated as well.</p>
 
-<p>If I turned on my phone, there were probably worried messages from Yuni nuna, Juhan hyung, and Manager Han waiting for me, and I also needed to contact Morae nuna and Yeehan hyung, with whom I was supposed to have dinner after arriving back in the country today. Even though these were trivial matters, they felt overwhelmingly complicated to handle right now.</p>
+<p>If I turned on my phone, there were probably worried messages from Yuni nuna, Juhani hyung, and Manager Han waiting for me, and I also needed to contact Morae nuna and Yeehan hyung, with whom I was supposed to have dinner after arriving back in the country today. Even though these were trivial matters, they felt overwhelmingly complicated to handle right now.</p>
 
 <p>"Don't think about anything, and don't worry about anything. Just like flipping a switch in your brain off. You can do that, right?"</p>
 
@@ -1515,17 +1517,17 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"You must have been uncomfortable all day."</p>
 
-<p>"I didn't think there would be any issues the next day… I'm fine. You really don't need to worry about it anymore. I've gotten much better while resting."</p>
+<p>"It's not as though I expected to feel completely fine the next day… I'm fine. You really don't need to worry about it anymore. I've gotten much better while resting."</p>
 
 <p>Frankly, I felt it would be awkward to receive any more consideration from him regarding my physical discomfort. Besides, the pain wasn't as unbearable or as bad as he seemed to fear.</p>
 
 <p>Above all, this wasn't something he needed to apologize for. We had spent the night together because we both wanted to, and he had been perfectly considerate — taking his time to ensure I was fully relaxed, even though we weren't lovers.  An apology from him would only make me feel used, and I would rather not hear one if at all possible.</p>
 
-<p>"You're quite resilient, Seo Yeehyeon. I thought you might be a little more… shaken."</p>
+<p>"You're quite resilient, Seo Yeehyeon-ssi. I thought you might be a little more… shaken."</p>
 
 <p>Tapping the slender paper bag in his hand against his crossed leg, he muttered without looking at me.</p>
 
-<p>"I'm glad you're a resilient person, Seo Yeehyeon."</p>
+<p>"I'm glad you're a resilient person, Seo Yeehyeon-ssi."</p>
 
 <p>I couldn't be entirely certain what he meant by <em>shaken.</em></p>
 
@@ -1541,7 +1543,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>I added that almost to myself, looking out at the Hong Kong cityscape receding in the opposite direction from when I'd arrived.</p>
 
-<p>The experiences and emotions that filled me — in different colors and textures — were things I never could have anticipated when I first encountered the city while listening to Prince's <em>Kiss</em> in the Phantom vehicle, as Yuni nuna and Juhan hyung had been so wild about.</p>
+<p>The experiences and emotions that filled me — in different colors and textures — were things I never could have anticipated when I first encountered the city while listening to Prince's <em>Kiss</em> in the Phantom vehicle, as Yuni nuna and Juhani hyung had been so wild about.</p>
 
 <p>Looking back, ever since meeting him, it had been a relentless series of variables I couldn't foresee or prepare for. Not just the events — the feelings I had facing him as well.</p>
 
@@ -1575,9 +1577,9 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Perhaps I had expected everything he provided to resemble the affection one shows a lover. That was the naked truth of my feelings — my unguarded self.</p>
 
-<p>I let out a hollow laugh thinking about whether returning the ticket — rejecting the kindness he extended equally to all his partners — was the way to preserve my pride. I wasn't the heroine of a drama, after all.</p>
+<p>I let out a hollow laugh thinking about whether returning the ticket — rejecting the kindness he extended equally to all his partners — was the way to preserve my pride. I wasn't the protagonist of a drama, after all.</p>
 
-<p>Suddenly, I remembered something he had said when he was absentmindedly eating the nuts Juhan hyung had brought to the VIP Preview. It had been an insignificant comment, tossed out casually as he passed by.</p>
+<p>Suddenly, I remembered something he had said when he was absentmindedly eating the nuts Juhani hyung had brought to the VIP Preview. It had been an insignificant comment, tossed out casually as he passed by.</p>
 
 <p>"Someone take these away. I don't even like these, but if they're in front of me, I just keep eating them."</p>
 
@@ -1609,7 +1611,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>It was no more than a slight emotional release from having to witness the ending I had already braced myself for. Because of that, I felt neither shocked nor as if I were plummeting to the ground.</p>
 
-<p>I was starting to like him.</p>
+<p>I liked him.</p>
 
 <p>The hopes and disappointments that existed only in my own mind, the uncharacteristic sensitivity that caused me to exaggerate things beyond what they were — those were signs that, unfortunately, I liked him.</p>
 
@@ -1633,15 +1635,15 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>The flight attendant closed the sliding door and disappeared after telling me to rest comfortably. Though isolated from my surroundings and alone, I began drinking the beer straight from the can in an unfamiliar comfort that offered no ease at all.</p>
 
-<p>He had said, after the <em>Old Future</em> shoot, that sleeping with someone who wasn't a lover didn't automatically make one promiscuous — that an adult of his age couldn't always resolve their sexual urges through masturbation just because they didn't have a partner.</p>
+<p>He had said that sleeping with someone who wasn't a lover didn't automatically make a person promiscuous. An adult his age couldn't be expected to satisfy his sexual needs through masturbation alone just because he didn't have a partner.</p>
 
-<p>That's what he had said, and nuna and hyung — and even I, though I didn't say it aloud — had generally agreed with that view.</p>
+<p>That was what he'd said after the <em>Old Future</em> shoot. Nuna and hyung had generally agreed, and so had I, though I hadn't said it aloud.</p>
 
-<p>Back then, I had wondered if someone I liked could hold the same position regarding others — whether they could avoid being hurt if the person they liked slept with someone else.</p>
+<p>Back then, I'd wondered whether they could hold to that view when their own feelings were involved—whether they could avoid being hurt if someone they liked slept with somebody else.</p>
 
-<p>In a way, my thinking back then had been wildly off the mark. Someone I liked could feel miserable even from sleeping with me, rather than someone else.</p>
+<p>In a way, I'd been entirely wrong about where the hurt might come from. I could feel miserable even when the person I liked slept with me, rather than someone else.</p>
 
-<p>I smiled wryly as I realized, belatedly, that his comment about Seo Yeehyeon being resilient was perhaps another way of saying he was glad I hadn't confused impulsive sex with genuine romantic feelings.</p>
+<p>Perhaps his relief that Seo Yeehyeon-ssi was so resilient had meant he was glad I hadn't mistaken impulsive sex for romantic feelings. The possibility occurred to me belatedly, and I smiled bitterly.</p>
 
-<p>By then, the lights of Hong Kong had completely disappeared from my view.</p>
+<p>By then, the lights of Hong Kong had disappeared from view.</p>
 </div>
