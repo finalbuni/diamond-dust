@@ -1284,4 +1284,3 @@ excerpt_separator: "<!-- section-excerpt-end -->"
     <li id="tn-chapter-02-6" class="translator-note"><span class="translator-note__number">6</span> <strong>Yeehyeonie (이현이)</strong> — An affectionate nickname formed by attaching the endearing suffix -i directly to the full given name, often used by someone close to the person. Here, Yeehyeon&#x27;s former teacher uses it with the familiarity and fondness of someone who has known him since childhood. <a class="translator-note__back" href="#tn-ref-chapter-02-6" aria-label="Return to note reference 6">↩ Back to text</a></li>
   </ol>
 </section>
-

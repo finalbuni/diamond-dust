@@ -185,7 +185,7 @@ def render_notes_block(note_ids, notes, scope_id):
         '  <ol class="translator-notes__list">\n'
         + "\n".join(f"    {item}" for item in items)
         + "\n  </ol>\n"
-        "</section>\n"
+        "</section>"
     )
 
 

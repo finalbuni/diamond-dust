@@ -132,4 +132,3 @@ excerpt_separator: "<!-- section-excerpt-end -->"
     <li id="tn-chapter-02-section-02-1" class="translator-note"><span class="translator-note__number">1</span> <strong>Yuni-ya (유니야)</strong> — The suffix -ya (야) is an affectionate way of calling out to or addressing someone close in age or status, added to names ending in a vowel. <a class="translator-note__back" href="#tn-ref-chapter-02-section-02-1" aria-label="Return to note reference 1">↩ Back to text</a></li>
   </ol>
 </section>
-

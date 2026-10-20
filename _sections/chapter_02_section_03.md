@@ -345,4 +345,3 @@ excerpt_separator: "<!-- section-excerpt-end -->"
     <li id="tn-chapter-02-section-03-2" class="translator-note"><span class="translator-note__number">2</span> <strong>Juhan-ssi and Yeehyeon-ssi (-씨)</strong> — The suffix -ssi (씨) is a polite honorific used when addressing someone of equal or lower professional status, somewhat like &quot;Mr.&quot; or &quot;Ms.&quot; Here, its use between peers who have just met establishes a courteous, professional distance rather than close familiarity. <a class="translator-note__back" href="#tn-ref-chapter-02-section-03-2" aria-label="Return to note reference 2">↩ Back to text</a></li>
   </ol>
 </section>
-

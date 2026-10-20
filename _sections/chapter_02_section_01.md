@@ -162,4 +162,3 @@ excerpt_separator: "<!-- section-excerpt-end -->"
     <li id="tn-chapter-02-section-01-1" class="translator-note"><span class="translator-note__number">1</span> <strong>Sunbae (선배)</strong> — Most commonly means &quot;senior&quot; in Korean, used to address or refer to someone with more experience in a school, workplace, military, or professional field. <a class="translator-note__back" href="#tn-ref-chapter-02-section-01-1" aria-label="Return to note reference 1">↩ Back to text</a></li>
   </ol>
 </section>
-

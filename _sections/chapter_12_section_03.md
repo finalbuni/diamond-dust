@@ -15,7 +15,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>As soon as we pulled out of the underground parking lot, he muttered while glancing out the window at the rain hammering the car.</p>
 
-<p>"Even if we'd caught a taxi, we'd have gotten soaked just getting in."</p>
+<p>"Even if you'd caught a taxi, you'd have gotten soaked just getting in."</p>
 
 <p>As he said, it was the kind of rain that would drench you in the brief moment it took to fold an umbrella. I thanked him again for the ride, and he chuckled, saying it wasn't anything worth thanking him for more than once.</p>
 
@@ -31,11 +31,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>I'd lost the will to throw myself into anything, but for the first year or so I felt like I'd go crazy if I didn't do something. I simply didn't know what else to do. School classes and studying felt like an obligation I had to fulfill, and just getting through them kept my days moving. After that, it became habit.</p>
 
-<p>"If you want to study English more properly, Yeehyeon, I can arrange a tutor for you. You could even join the classes Yuni Baek and Kwon Juhan are taking."</p>
+<p>"If you want to study English more properly, Seo Yeehyeon-ssi, I can arrange a tutor for you. You could even join the classes Baek Yuni and Kwon Juhan are taking."</p>
 
 <p>"I probably wouldn't be able to keep up with the classes nuna and hyung are taking."</p>
 
-<p>As part of employee benefits, nuna and hyung were receiving weekly private English lessons from a native speaker — support in preparation for overseas projects like the Hong Kong trip. I envied how naturally they could converse with people of various nationalities without hesitation, but ultimately it wasn't just a matter of English proficiency.</p>
+<p>As part of employee benefits, nuna and hyung were receiving weekly private English lessons from a native-speaking teacher — support in preparation for overseas projects like the Hong Kong trip. I envied how naturally they could converse with people of various nationalities without hesitation, but ultimately it wasn't just a matter of English proficiency.</p>
 
 <p>The moment the wipers pushed the rain away, it came crashing back, creating relentless ripples as it streamed down. Every car on the street was moving slowly and cautiously. Even so, for a Friday night, the traffic volume was noticeably light.</p>
 
@@ -69,7 +69,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>I hadn't known where his house was before, but thinking about it now, it was indeed a very short distance, just as Manager Han had said.</p>
 
-<p>Using the intersection with the large convenience store and the big Italian restaurant specializing in wood-fired pizza as a landmark: the northwest side was the so-called moon village, where Morae nuna and Yeehan hyung's rooftop apartment were. Although housing prices had reportedly been rising sharply lately, the narrow, old houses without renovations were still cheap. In contrast, the eastern hill where his house stood was a traditional wealthy neighborhood, famous as the residence of conglomerate chairmen, Hallyu actors, and foreign ambassadors.</p>
+<p>Using the intersection with the large convenience store and the big Italian restaurant specializing in wood-fired pizza as a landmark: the northwest side was the so-called moon village, where Morae and hyung's rooftop apartment were. Although housing prices had reportedly been rising sharply lately, the narrow, old houses without renovations were still cheap. In contrast, the eastern hill where his house stood was a traditional wealthy neighborhood, famous as the residence of conglomerate chairmen, Hallyu actors, and foreign ambassadors.</p>
 
 <p>The structure reminded me of my grandfather's village, divided into a prosperous area and a poorer one centered around the harbor.</p>
 
@@ -97,7 +97,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"I kept this pack to give to you when we got back to Seoul, but I couldn't find the right moment..."</p>
 
-<p>When I apologized for taking them without asking, he joked that it was just one cigarette — what was the fuss? — and that he'd welcome such "interest" anytime. He said it with the same straight face he'd had a moment before.</p>
+<p>When I apologized for taking them without asking, he joked that it was just one cigarette — what was the fuss? — and that he'd welcome such "interest payments" anytime. He said it with the same straight face he'd had a moment before.</p>
 
 <p>He took the pack but didn't set it down anywhere, instead rolling it back and forth in the hand resting on the steering wheel. His sharp profile — neat, yet seemingly not one to grant easy access — looked deeply engrossed in thought.</p>
 
@@ -135,7 +135,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He asked as he slowed to wait at the intersection light.</p>
 
-<p>"I have two more days off, and I figured we'd have plenty of time to spend together without rushing tonight. Your hyung and nuna are off this weekend too, aren't they?"</p>
+<p>"You have two more days off, so I thought you'd have plenty of time to spend with them even if you didn't rush over there tonight. Your hyung and nuna are off this weekend too, aren't they?"</p>
 
 <p>Forgetting the awkwardness, I met his gaze.</p>
 
@@ -159,7 +159,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Since returning to the country, neither he nor Manager Han had pressed me about whether I'd thought things over or put any pressure on me about the paintings. It seemed they'd laid all their cards on the table and were simply waiting for me to take enough time and decide on my own. But I knew I couldn't drag things out too long by relying on their consideration.</p>
 
-<p>Perhaps today, Yeehan hyung and Morae nuna would finally state their decisions. I, too, planned to clarify my position more definitively. On top of that, I intended to persuade them to begin preparing to leave for Bali immediately, regardless of what answer they gave.</p>
+<p>Perhaps today, hyung and Morae would finally state their decisions. I, too, planned to clarify my position more definitively. On top of that, I intended to persuade them to begin preparing to leave for Bali immediately, regardless of what answer they gave.</p>
 
 <p>I didn't know if I could truly paint again.</p>
 
@@ -167,7 +167,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Whatever the outcome, I planned to try at least once.</p>
 
-<p>The expectation that if I picked up the brush again, it might make it easier for hyung and nuna to leave was certainly one of the reasons — but I had no intention of being hypocritical, pretending my choice was a sacrifice for others.</p>
+<p>The expectation that if I picked up the brush again, it might make it easier for hyung and Morae to leave was certainly one of the reasons — but I had no intention of being hypocritical, pretending my choice was a sacrifice for others.</p>
 
 <p>It was a decision made by following my own desire, not anyone else's, and I resolved to try not to see that as selfishness.</p>
 
@@ -217,19 +217,19 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>For someone like me who had lived without feelings for years, a heavy unrequited love was entirely out of character. It was like asking a scrawny novice who had just signed up for a gym, with no muscle strength to speak of, to lift a hundred kilograms.</p>
 
-<p>Carrying the useless umbrella draped over my shoulder, one paper bag in each hand, and the hot pot dangling from my fingers, I climbed the stairs — organizing my thoughts to focus only on Morae nuna, Yeehan hyung, and painting for today.</p>
+<p>With the useless umbrella resting against my shoulder, I climbed the stairs carrying two paper bags of hot pot, one hanging from the fingers of my umbrella hand and the other from my free hand. I gathered my thoughts and decided that, for today, I would think only about Morae, hyung, and painting.</p>
 
 <p><em>Thwack.</em> That was how you turned off the switch, just as he had taught me.</p>
 
 <p>Rainwater flowing down from above rushed like a stream along the stone steps, which lacked proper drainage. Because of the drop from one step to the next, not only my shoes but my calves were completely soaked.</p>
 
-<p>Since nuna and hyung would arrive in about an hour, I planned to shower and set the table with the hot pot beforehand. After climbing all sixty-two steps — which felt steeper than usual because of the rain — my back, burdened by the backpack, was damp with clammy sweat. Wiping the sweat from under my chin, I headed toward the innermost gate.</p>
+<p>Since Morae and hyung would arrive in about an hour, I planned to shower and set the table beforehand with the hot pot he'd packed for me. After climbing all sixty-two steps — which felt steeper than usual because of the rain — my back, burdened by the backpack, was damp with clammy sweat. Wiping the sweat from under my chin, I headed toward the innermost gate.</p>
 
 <p>I searched my pocket for the gate key while balancing the umbrella draped over my shoulder so it wouldn't flip inside out. In the narrow alley where five or six houses were crammed together, the only sound was the rain drumming against the umbrella. The newlyweds on the floor below were quiet today as well.</p>
 
 <p>The rain was beating down so hard my ears felt plugged, making it impossible to hear any footsteps approaching from behind.</p>
 
-<p>"......Is that Yeehyeon-i?"</p>
+<p>"......Is that Yeehyeon?"</p>
 
 <p>"......"</p>
 
@@ -241,7 +241,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>As though the rain meant nothing at all — the persistent, briny smell of the sea washed over me like a wave capsizing a boat.</p>
 
-<p>It was my uncle.</p>
+<p>It was my father’s older brother.</p>
 
 <div class="volume-end">
 

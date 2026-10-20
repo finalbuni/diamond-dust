@@ -501,4 +501,3 @@ excerpt_separator: "<!-- section-excerpt-end -->"
     <li id="tn-chapter-01-5" class="translator-note"><span class="translator-note__number">5</span> <strong>Hyeon-ah (현아)</strong> — An affectionate way of calling out to someone. Close friends and family may shorten a name and attach the vocative suffix -ah to the final syllable (Yeehyeon → Hyeon → Hyeon-ah). <a class="translator-note__back" href="#tn-ref-chapter-01-5" aria-label="Return to note reference 5">↩ Back to text</a></li>
   </ol>
 </section>
-

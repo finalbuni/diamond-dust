@@ -149,4 +149,3 @@ excerpt_separator: "<!-- section-excerpt-end -->"
     <li id="tn-chapter-01-section-01-4" class="translator-note"><span class="translator-note__number">4</span> <strong>Hyeoni (현이)</strong> — An affectionate nickname formed by attaching the endearing suffix -i to the character&#x27;s final syllable (Yeehyeon → Hyeon → Hyeoni). <a class="translator-note__back" href="#tn-ref-chapter-01-section-01-4" aria-label="Return to note reference 4">↩ Back to text</a></li>
   </ol>
 </section>
-

@@ -704,4 +704,3 @@ excerpt_separator: "<!-- section-excerpt-end -->"
     <li id="tn-chapter-06-section-02-1" class="translator-note"><span class="translator-note__number">1</span> <strong>Ms. Suki Kim</strong> — The Korean uses &quot;Suki Kim seonsaengnim&quot; (수키 김 선생님). Seonsaengnim literally means &quot;teacher,&quot; but can also be used as a respectful title for established professionals, mentors, or senior figures. Because &quot;Teacher Suki Kim&quot; would suggest something different in English, it has been adapted to &quot;Ms. Suki Kim&quot; here. <a class="translator-note__back" href="#tn-ref-chapter-06-section-02-1" aria-label="Return to note reference 1">↩ Back to text</a></li>
   </ol>
 </section>
-

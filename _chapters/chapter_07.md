@@ -739,4 +739,3 @@ Beta. Pheromones.
     <li id="tn-chapter-07-1" class="translator-note"><span class="translator-note__number">1</span> <strong>Mr. (미스터)</strong> — The Korean uses 미스터 (miseuteo), a transliteration of the English title &quot;Mister.&quot; Here, it&#x27;s used for dramatic, sarcastic, or teasing effect rather than as a standard respectful title. It is rendered as &quot;Mr.&quot; in English. <a class="translator-note__back" href="#tn-ref-chapter-07-1" aria-label="Return to note reference 1">↩ Back to text</a></li>
   </ol>
 </section>
-

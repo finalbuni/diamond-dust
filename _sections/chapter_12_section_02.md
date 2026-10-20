@@ -15,7 +15,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Inwu hyung set down his beer glass and nodded vigorously with a bright expression.</p>
 
-<p>Not just hyung — everyone seemed to be hearing this story for the first time, because contrary to my intentions, they all stopped eating and focused on me.</p>
+<p>Not just Inwu hyung — everyone seemed to be hearing this story for the first time, because contrary to my intentions, they all stopped eating and focused on me.</p>
 
 <p>"The siblings had such a big age gap, so I thought it was cute. I didn't know there was a story like that behind it. Knowing now, it's even cuter, isn't it?"</p>
 
@@ -49,13 +49,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>At Inwu hyung's response — delivered as a half-sincere joke — he shook his head as if giving up, dipped the fully cooked meat in the sauce, and ate it.</p>
 
-<p>If Yuni nuna hadn't told me early on that the two of them were always like Tom and Jerry and I should just leave them be, I might have taken it as a genuine, emotionally charged confrontation — and regretted bringing up the subject.</p>
+<p>If nuna hadn't told me early on that the two of them were always like Tom and Jerry and I should just leave them be, I might have taken it as a genuine, emotionally charged confrontation — and regretted bringing up the subject.</p>
 
 <p>This was the first Friday after the Hong Kong trip, and we were finally having a late wrap-up dinner to catch up on the work that had piled up in the meantime.</p>
 
 <p>When he told us to reserve wherever we wanted to eat, nuna chose a Chinese restaurant specializing in hot pot and dim sum. I'd tried dim sum in Hong Kong, but this was my first time having hot pot.</p>
 
-<p>As soon as the pot — divided in half between a milky white mushroom broth like bone soup and a fiery red broth resembling the flames of hell — was placed on the table, Inwu hyung had burst through the door of the private room, claiming he'd heard the news from Juhan hyung. From that moment on, I felt uneasy; his mood seemed low for some reason.</p>
+<p>As soon as the pot — divided in half between a milky white mushroom broth like bone soup and a fiery red broth resembling the flames of hell — was placed on the table, Inwu hyung had burst through the door of the private room, claiming he'd heard the news from Juhani hyung. From that moment on, I felt uneasy; his mood seemed low for some reason.</p>
 
 <p>"If you're going to Chicago, a joint exhibition in the second half of the year will be difficult, won't it?"</p>
 
@@ -67,7 +67,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"How? With you and Manager Han both away — is that even possible?"</p>
 
-<p>At Inwu hyung's words, as he fished out a fish ball drifting in the vigorously boiling broth, Juhan hyung and Yuni nuna simultaneously stopped their chopsticks and fixed him with sharp glares.</p>
+<p>At Inwu hyung's words, as he fished out a fish ball drifting in the vigorously boiling broth, Juhani hyung and Yuni nuna simultaneously stopped their chopsticks and fixed him with sharp glares.</p>
 
 <p>"Hey, babies, why are you looking at me like that? I'm not looking down on you — it's just that even excellent people like you would be overwhelmed without someone in charge, right? And we've never operated that way before, have we? That's all I'm saying."</p>
 
@@ -83,19 +83,19 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>As if finishing his meal, he took a sip of water, set down his glass, and added:</p>
 
-<p>"I'm going to Chicago with Yuni Baek."</p>
+<p>"I'm going to Chicago with Baek Yuni."</p>
 
 <p>Aaaargh!</p>
 
 <p>With a shriek that was almost a scream, nuna shot up from her seat. The chair teetered precariously, and I quickly grabbed the backrest beside me. Throwing her chopsticks onto the table, nuna practically lunged to hug his shoulder from the adjacent seat, shaking him.</p>
 
-<p>"Really? Director Liu, really, really?"</p>
+<p>"Really? Director, really, really?"</p>
 
 <p>Even though she was only two years older than me, nuna always felt five or six years my senior — she was so composed, flawless, and sure of herself. Everyone in the room knew that her current outburst was by no means a forced overreaction.</p>
 
 <p>The pure joy she expressed so openly — as if everything else had momentarily vanished from her sight and mind — was infectious enough to move everyone watching. The satisfaction, excitement, and thrill she was feeling, so intense it bordered on euphoria, came through intact.</p>
 
-<p>"Yeah, really. I think Yuni Baek can handle that much now."</p>
+<p>"Yeah, really. I think Baek Yuni can handle that much now."</p>
 
 <p>He laughed, deliberately shaking his body even more exaggeratedly than the force of her shaking.</p>
 
@@ -115,19 +115,19 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Surrounded by people who acknowledged her and supported her forward, perhaps nuna was thinking of her family. Didn't she want to receive this kind of belief and support from them first, more than anyone else? I could only vaguely surmise as much.</p>
 
-<p>"Since you're going as main staff, not support staff, you'll have to accompany Director Liu for every schedule and learn everything from A to Z — it's going to be incredibly demanding. You'll do great, right, Yuni Baek?"</p>
+<p>"Since you're going as main staff, not support staff, you'll have to accompany Director Liu for every schedule and learn everything from A to Z — it's going to be incredibly demanding. You'll do great, right, Baek Yuni?"</p>
 
 <p>Manager Han spoke, looking up at nuna sitting some distance away across the table. Instead of letting her emotions burst out, nuna composed herself, pulled it all together, and managed a smile.</p>
 
 <p>"Of course. I've been waiting for this moment for three years — I've learned everything just by being around, like the saying goes."</p>
 
-<p>"Who called you that?"</p>
+<p>"Who called you a village school dog?"</p>
 
 <p>Manager Han widened her eyes and put on a deliberately offended expression. He crossed his arms and nodded in agreement.</p>
 
 <p>"Right, absolutely not. A real village school dog would just be stuffing its face even in a situation like this."</p>
 
-<p>He gestured with his chin toward Juhan, making a joke. As the atmosphere loosened, Juhan hyung — who had been busily working his chopsticks again — dropped three or four pieces of meat into the broth and said flatly:</p>
+<p>He gestured with his chin toward Juhani hyung, making a joke. As the atmosphere loosened, hyung — who had been busily working his chopsticks again — dropped three or four pieces of meat into the broth and said flatly:</p>
 
 <p>"What, knowing my place and staying quiet is a problem too? I don't have that kind of ambition in the art world. You know that."</p>
 
@@ -135,7 +135,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Show a little more drive. I'll recognize your efforts as your skills improve."</p>
 
-<p>"Well... if the Director kneels down and begs because she needs me, I'll think about it."</p>
+<p>"Well... if the Director kneels down and begs because he needs me, I'll think about it."</p>
 
 <p>Although the proposal seemed serious, hyung deliberately brushed it off as a joke with a slightly cocky tone.</p>
 
@@ -147,45 +147,45 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>As nuna scolded him and sat back down, Inwu hyung pretended not to hear, turning his head so far that his chin nearly sank into his shoulder to look at me. His characteristic mischievous smile played on his lips.</p>
 
-<p>"Then, during the Chicago business trip... Yeehyeon will be all alone, won't you?"</p>
+<p>"Then, during the Chicago business trip... Yeehyeon-ssi will be all alone, won't you?"</p>
 
 <p>"..."</p>
 
-<p>"Why would Yeehyeon be alone? Manager Han is here, and so am I."</p>
+<p>"Why would Yeehyeonie be alone? Manager Han is here, and so am I."</p>
 
-<p>By now Juhan hyung seemed to have eaten his fill; he was leaning back in his chair, drinking cola. Inwu hyung looked over at him and shook his head.</p>
+<p>By now Juhani hyung seemed to have eaten his fill; he was leaning back in his chair, drinking cola. Inwu hyung looked over at him and shook his head.</p>
 
 <p>"Kwon Juhan only pretends to be seasoned and street-smart, but sometimes he's just clueless."</p>
 
-<p>While Inwu hyung and Juhan hyung bickered about who had more dating experience, an employee knocked and entered. The uniformed staff member placed two paper bags of pre-ordered takeout on an empty chair.</p>
+<p>While Inwu hyung and Juhani hyung bickered about who had more dating experience, an employee knocked and entered. The uniformed staff member placed two paper bags of pre-ordered takeout on an empty chair.</p>
 
-<p>Yuni nuna asked for the bill, and as we waited for the employee to return with the corporate card, everyone began preparing to leave the restaurant.</p>
+<p>Nuna asked for the bill, and as we waited for the employee to return with the corporate card, everyone began preparing to leave the restaurant.</p>
 
 <p>"We're going for a second round — why did we bother with takeout?"</p>
 
 <p>Inwu hyung asked, peering into one of the paper bags.</p>
 
-<p>"Seo Yeehyeon is going to sleep over at his hyung and nuna's tonight. The Director packed that for him."</p>
+<p>"Seo Yeehyeon is going to sleep over at his hyunga<sup class="tn-marker" id="tn-ref-chapter-12-section-02-1"><a href="#tn-chapter-12-section-02-1" aria-label="Translator note 1">1</a></sup> and nuna's tonight. The Director packed that for him."</p>
 
-<p>At Juhan hyung's answer, everyone looked at me and laughed.</p>
+<p>At Juhani hyung's answer, everyone looked at me and laughed.</p>
 
 <p>It was moments like this when I was reminded that I was Phantom's youngest. I was the stoic maknae with no talent whatsoever for making people laugh with cute expressions or actions, but Yuni nuna, Juhan hyung, and Manager Han would sometimes look at me fondly just because I was younger.</p>
 
 <p>And he was like that too.</p>
 
-<p>Right now he was pretending not to hear Juhan hyung's jokes or the sound of everyone laughing, eyes focused intently on his phone screen as if expecting an important call. But I remembered him asking his former colleagues to look after me, saying I was still too young and needed looking after. I also remembered the smile he gave me when I tried clumsily to console him, when he asked whether I was just trying to cheer him up. That was unmistakably the indulgent smile of an older person toward someone younger.</p>
+<p>Right now he was pretending not to hear Juhani hyung's jokes or the sound of everyone laughing, eyes focused intently on his phone screen as if expecting an important call. But I remembered him asking his former colleagues to look after me, saying I was still too young and needed looking after. I also remembered the smile he gave me when I tried clumsily to console him, when he asked whether I was just trying to cheer him up. That was unmistakably the indulgent smile of an older person toward someone younger.</p>
 
-<p>So in moments like this, I wouldn't let myself get discouraged just because he didn't look at me with that same fond expression he gave the others.</p>
+<p>So in moments like this, I wouldn't let myself get discouraged just because he didn't join the others in looking at me fondly.</p>
 
 <p>Expecting him to respond to my feelings the way others did would lead nowhere. Steadily suppressing expectations and learning to let go of hope was the best way to keep things from getting any worse. Probably.</p>
 
-<p>"Huh? Then Yeehyeon isn't coming to the second round?"</p>
+<p>"Huh? Then Yeehyeon-ssi isn't coming to the second round?"</p>
 
 <p>Even after everyone else had gotten up, Inwu hyung remained seated, grabbing my wrist and shaking it with a mournful expression, the corners of his eyes pulled down.</p>
 
 <p>"Well... we were supposed to meet right after I got back, but I kept being busy and couldn't find the time. So it was a bit..."</p>
 
-<p>"Ah... right. Yeehyeon came back a day late because he was sick again."</p>
+<p>"Ah... right. Yeehyeon-ssi came back a day late because he was sick again."</p>
 
 <p>Hyung said that with a subtle emphasis, and glanced sidelong at the man sitting across from him. It was probably an overthought, but sometimes hyung seemed like someone who knew things he hadn't been told, which was unsettling.</p>
 
@@ -195,17 +195,17 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"You were acting all pitiful, saying you were just organizing files at the hospital on a Friday night with no plans, so I called you over. What's the big deal?"</p>
 
-<p>Juhan hyung — who had put his lip piercing back in after eating, having declared he'd have four servings of lamb — pressed down on Inwu hyung's shoulder with his elbow from his seat and threatened him. Inwu hyung shrieked and surrendered.</p>
+<p>Juhani hyung — who had put his lip piercing back in after eating, having declared he'd have four servings of lamb — pressed down on Inwu hyung's shoulder with his elbow as hyung sat in his chair and threatened him. Inwu hyung shrieked and surrendered.</p>
 
 <p>As Yuni nuna packed her belongings into her bag, I felt his gaze over her shoulder and looked up — but perhaps I'd imagined it; he was simply raising his wrist to check his watch.</p>
 
 <p>Stepping out through the main entrance of the restaurant, located on the second floor of a building that housed a business hotel above, the sound of rain grew much closer. It was still pouring heavily.</p>
 
-<p>Juhan hyung walked right up to the window that covered one wall of the elevator hall, pressed his nose to the glass, and peered outside.</p>
+<p>Juhani hyung walked right up to the window that covered one wall of the elevator hall, pressed his nose to the glass, and peered outside.</p>
 
 <p>The joy he'd expressed in Hong Kong about escaping the rainy season for a few days had amounted to nothing — Seoul was still deep in the monsoon. The rain that had kept everyone worrying about the humidity in the underground storage and exhibition hall all week was peaking today.</p>
 
-<p>"Inwu hyung and Manager Han will need to call their drivers... Director Liu, you didn't drink, right? Could you drop Yeehyeon-ah off on your way? It's raining so hard."</p>
+<p>"Inwu ssaem and Manager Han will need to call designated drivers... Director Liu, you didn't drink, right? Could you drop Yeehyeonie off on your way? It's raining so hard."</p>
 
 <p>He had slipped his arms into a deep navy summer jacket and turned toward me at nuna's words.</p>
 
@@ -213,9 +213,9 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>I shut my mouth immediately, realizing I'd refused too quickly and too stiffly — but I regretted it, worried I'd come across as oddly self-conscious.</p>
 
-<p>"You have a lot of stuff too. Just ask him for a ride. It's not a big deal — he'd just have to drop you off nearby. Right, Director Liu?"</p>
+<p>"You have a lot of stuff too. Just ask him for a ride. It's not a big deal — he'd just have to drop you off nearby. Right, Director?"</p>
 
-<p>In the past, he might have shown reluctance at Manager Han's suggestion to give me a ride. Now, it seemed like he'd readily agree to a slight detour to drop me off.</p>
+<p>In the past, he had shown reluctance at Manager Han's suggestion to give me a ride. Now, it seemed like he'd readily agree to a slight detour to drop me off.</p>
 
 <p>But I wanted to avoid being alone with him in a cramped space like a car interior for the time being. Or rather, it seemed wiser to avoid it.</p>
 
@@ -237,7 +237,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Nuna tapped my shoulder, telling me not to say things that showed I didn't understand the situation.</p>
 
-<p>"I'll ride with him. It's not that far — dropping him off is nothing."</p>
+<p>"Come with me. It's not that far — dropping you off is nothing."</p>
 
 <p>He, who had been silently watching nuna and me talk until then, turned to look at me while gripping the handrail behind him. Unable to hold his gaze, I ended up awkwardly looking away first, again.</p>
 
@@ -259,4 +259,10 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"And, I happen to have a few things I'd like to talk about."</p>
 
-<p>I looked up at the slow cadence of his voice. He wasn't looking at me; he was looking at Inwu hyung. Following his gaze, I turned to look at hyung without much thought. Hyung was simply smiling at him with an unreadable expression from across the table.</p>
+<p>I looked up at the slow cadence of his voice. He wasn't looking at me; he was looking at Inwu hyung. Following his gaze, I turned to look at Inwu hyung without much thought. Hyung was simply smiling at him with an unreadable expression from opposite him.</p>
+<section class="translator-notes" aria-label="Translator notes">
+  <div class="translator-notes__heading">TRANSLATOR'S NOTE</div>
+  <ol class="translator-notes__list">
+    <li id="tn-chapter-12-section-02-1" class="translator-note"><span class="translator-note__number">1</span> <strong>Hyunga (형아)</strong> — A cute, affectionate variation of hyung (older brother or an older male addressed by a younger male). Often associated with children&#x27;s speech, it can also be used playfully by adults. Here, it gives the line a teasing, childlike tone. <a class="translator-note__back" href="#tn-ref-chapter-12-section-02-1" aria-label="Return to note reference 1">↩ Back to text</a></li>
+  </ol>
+</section>
