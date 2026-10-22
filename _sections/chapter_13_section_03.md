@@ -75,7 +75,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"If I keep looking at that... I feel like I'll jump on you again. The stimulation is too intense."</p>
 
-<p>Despite what I said, his demeanor as he gently removed my hands and headed for the bathroom didn't seem to show much reluctance.</p>
+<p>Despite what he said, his demeanor as he gently removed my hands and headed for the bathroom didn't seem to show much reluctance.</p>
 
 <p>The bathroom light came on, the sound of water filling the tub followed, and he returned with a damp towel. Even completely naked, leading with his still-erect cock, he moved naturally.</p>
 
@@ -89,7 +89,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>As he said that, his face and hands, wiping down my thighs and cock with a warm, damp cloth, looked serious, as if performing a medical procedure. Even though his arousal remained, his expression and touch were completely devoid of any sexual nuance.</p>
 
-<p>He was perfectly kind, showing no sign of awkwardness or embarrassment... which made me realize that the sex we just had hadn't stirred him in the slightest, and that the moment it ended, his lust for me and the wildness beyond his control had also ceased.</p>
+<p>He was perfectly kind, showing no sign of awkwardness or embarrassment... which made me feel I had to admit that the sex we just had hadn't stirred him in the slightest, and that the moment it ended, his lust for me and the wildness beyond his control had also ceased.</p>
 
 <p>I wasn't resenting his kindness or manners. It wasn't like I secretly wanted him to treat me coldly, push me away, insult me, and scratch at my heart like a pervert after he was done with what he needed.</p>
 
@@ -115,7 +115,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He hooked my right leg over his erect knee to keep me from closing it, and then his hand fumbled its way downward.</p>
 
-<p>"I'm just going to touch you a little first so things slide in smoothly."</p>
+<p>"I'm just going to touch you a little first so it can come out easily."</p>
 
 <p>"......"</p>
 
@@ -183,11 +183,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Just as we always had, or perhaps, just as he always spent the time after sex... everything felt entirely natural.</p>
 
-<p>Just as when he entered the bathroom, I was led back to the bedroom, not walking so much as leaning heavily on him for support, though my legs weren't injured.</p>
+<p>Just as when I entered the bathroom, I was led back to the bedroom, not walking so much as leaning heavily on him for support, though my legs weren't injured.</p>
 
 <p>The sheets had been changed in the meantime. A clean set of new sheets lay on the bed, and even the underwear and pajamas for me to change into were laid out.</p>
 
-<p>Even though I was the one who had been penetrated, and I hadn't exerted myself as much physically as he had, there was no question about who had expended more energy — it certainly wasn't me. Whether it was because he was an Alpha, or simply his personal ability, his stamina was admirable. Even now, he showed absolutely no sign of fatigue.</p>
+<p>Even though I was the one who had been penetrated, and his body hadn't been strained as much as mine, there was no question about who had expended more energy — it certainly wasn't me. Whether it was because he was a Golden Alpha, or simply his personal ability, his stamina was admirable. Even now, he showed absolutely no sign of fatigue.</p>
 
 <p>"I only have my size here, so it might be a little big."</p>
 
@@ -197,7 +197,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>It wasn't just the overall size, but the way the underwear felt conspicuously loose in the front that made me embarrassed. It wasn't about male pride, or anything like that. Besides, grouping a Golden Alpha male and a Beta male together as "the same kind of man" was already a stretch. While nothing scientifically proven existed regarding genetic superiority like physical ability or brainpower, the fact that Alphas possessed superior reproductive capabilities was an established truth.</p>
 
-<p>"We should probably buy some sets in Seo Yeehyeon's size, too."</p>
+<p>"We should probably buy some sets in Seo Yeehyeon-ssi's size, too."</p>
 
 <p>"......"</p>
 
@@ -207,11 +207,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He stood before the refrigerator, nearly finishing a bottle of water, then took out a new one, twisted off the cap, and approached me. I awkwardly lowered my gaze and started buttoning my clothes again.</p>
 
-<p>"It looks like you're wearing your dad's underwear..."</p>
+<p>"You look like a child wearing his dad's underwear..."</p>
 
 <p>As he said that and handed me the water bottle, his gaze lingered on my loose underwear. It wasn't meant to be a way of showing off the size of his own manhood and putting me down. Rather, even as he spoke those words, his eyes looking down at the underwear were mixed with a subtle stickiness that made my legs involuntarily tighten.</p>
 
-<p>After taking a few sips of water and setting the bottle on the side table, he lit a cigarette and sat on the edge of the bed while I put on my bottoms. A simple white ceramic ashtray was placed between him and me.</p>
+<p>While I took a few sips of water, set the bottle on the side table, and put on my bottoms without getting up, he lit a cigarette and sat on the edge of the bed. A simple white ceramic ashtray was placed between him and me.</p>
 
 <p>"Earlier... I said it in passing, but — "</p>
 
@@ -245,11 +245,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"My parents divorced because of me."</p>
 
-<p>And I certainly hadn't anticipated that his question about whether I liked my painting would lead down this path.</p>
+<p>And I certainly hadn't anticipated that my question about whether he liked my painting would lead down this path.</p>
 
 <p>I had defined him internally as someone who buried his own stories deep inside, yet the voice confessing a part of his past was utterly flat, as if he were reading aloud from a book.</p>
 
-<p>"It's a complicated issue, so explaining it would take too long, and it's not something I'd tell a stranger in detail, so I'll keep it brief... They divorced to protect me even though there was no problem in their relationship. They continued to see each other away from the public eye, but how could I not feel guilty about that situation?"</p>
+<p>"It's a complicated issue, so explaining it would take too long, and it's not something I'd tell a stranger in detail, so I'll keep it brief... They divorced on paper to protect me even though there was no problem in their relationship. They continued to see each other away from the public eye, but how could I not feel guilty about that situation?"</p>
 
 <p>He tapped ash from his cigarette into the ashtray set between us, then swept the hand not holding the cigarette across his hair.</p>
 
@@ -291,7 +291,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>I felt the urge to answer him. But of course, I had no right to speak that answer. Nor was I the one he was seeking an answer from.</p>
 
-<p>"It's strange. They sacrificed even their most precious relationships for me, yet why couldn't I become a person full of love, but instead started doubting my own existence? Even though I know they didn't make that decision in order for me to feel guilty... as time went on, the feeling I had toward them became more one of apology than gratitude... And since I knew that if I wasn't completely happy, their project would be considered a failure, that guilt only grew — well, I spent my formative years caught in that vicious cycle."</p>
+<p>"It's strange. They sacrificed even their most precious relationship for me, yet why couldn't I become a person full of love, but instead started doubting my own existence? Even though I know they didn't make that decision in order for me to feel guilty... as time went on, the feeling I had toward them became more one of apology than gratitude... And since I knew that if I wasn't completely happy, their project would be considered a failure, that guilt only grew — well, I spent my formative years caught in that vicious cycle."</p>
 
 <p>He took a quick puff of his cigarette, deliberately lightening the tone for his last sentence. He rested his elbows on his knees, loosely clasped his hands, and cracked his knuckles one by one with a series of sharp pops. Then, he glanced back at me and smiled, setting the half-smoked cigarette down on the ashtray.</p>
 
@@ -311,7 +311,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He looked at me as if asking for confirmation that he had seen the painting correctly, but I had never considered how I might receive someone else's interpretation of my work.</p>
 
-<p>If that was how he felt, and if it was a very strong conviction, perhaps that's what he was meant to become through the painting. Perhaps that was enough. I could only vaguely guess.</p>
+<p>If that was how he felt, and if it was a very strong conviction, perhaps that was what the painting became for him. Perhaps that was enough. I could only vaguely guess.</p>
 
 <p>"Born between wonderful, talented parents who loved each other dearly, raised with sacrificial love, I was supposed to be happy. Everyone said so, so why couldn't I be? I started wondering if I was the strange one for not being happy. Eventually, I even got angry at the people who forced happiness onto me."</p>
 
@@ -397,7 +397,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Perhaps it just turned out that way, and he hadn't intentionally tried to keep it a secret from nuna and hyung. He wasn't the type to volunteer information about himself unless asked. He hadn't specifically asked me to keep quiet about it either. Yet, the embarrassed smile on his face as he looked at me conveyed the message to keep it a secret.</p>
 
-<p>He didn't feel a sense of relative superiority for having confided in me a story he hadn't even shared with nuna and hyung.</p>
+<p>I didn't feel a sense of relative superiority because he had confided in me a story he hadn't even shared with nuna and hyung.</p>
 
 <p>When he played his trump card — Suki Kim — to persuade me to start painting, he had probably been prepared for me to find out about the mother-child relationship as well.</p>
 
@@ -405,7 +405,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He was willing to risk exposing a part of himself he didn't want seen just to make me pick up a brush.</p>
 
-<p>It wasn't just because of a business mindset — scouting an artist as a dealer or collector — but because he himself was the person who had found resonance and solace in the artwork he had kept close for so long.</p>
+<p>It wasn't just because of a business mindset — scouting an artist as a dealer or collector — but because I was the person who had painted the work he had kept close for so long, finding resonance and solace in it.</p>
 
 <p>He knew, and was certain, that if I didn't paint, I would lose my individuality and simply drift away like a colorless speck buried in universality. It was as if he had known me intimately for a very long time.</p>
 
@@ -419,7 +419,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Before, in front of Shushu's work, you said that it made you want to paint."</p>
 
-<p>He had certainly said that. But back then, he had seemed to have almost no interest in me, so I hadn't expected him to remember that conversation all this time.</p>
+<p>I had certainly said that. But back then, he had seemed to have almost no interest in me, so I hadn't expected him to remember that conversation all this time.</p>
 
 <p>"......"</p>
 
@@ -445,7 +445,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"How can you be so certain, just from a single piece, that I am someone who speaks through my art?"</p>
 
-<p>He avoided my gaze, which had been fixed intently on him, and ran his fingers through his hair several times. The faint smile that touched his face looked shy, like a boy about to share a secret.</p>
+<p>He, who had been staring intently at me, looked away, and ran his fingers through his hair several times. The faint smile that touched his face looked shy, like a boy about to share a secret.</p>
 
 <p>Looking down at the cigarette in his hand, which had already burned down short, he spoke.</p>
 
@@ -471,7 +471,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>His words — that I must paint as if my life depended on it — echoed what Ms. Suki Kim had said. As he claimed, the power of genes truly could not be ignored.</p>
 
-<p>I clearly remembered the teacher's words, as if I had recorded them and listened every day, about the time when she had put down her brush for two years because she had to prioritize things over painting, and temporarily give up art for something more important than the paintings themselves.</p>
+<p>I clearly remembered her words, as if I had recorded them and listened every day, about the time when she had put down her brush for two years because she had to prioritize things over painting, and temporarily give up art for something more important than the paintings themselves.</p>
 
 <p>Perhaps that two-year period was related to the process of having to get a divorce by deception to protect him, but that was just speculation.</p>
 
@@ -491,7 +491,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>His gaze and expression were calmer than when he spoke, yet the shimmering waves of atmosphere emanating from him conveyed a sense of turmoil.</p>
 
-<p>Vaguely, I felt an urge to confess everything to him. If I could learn about him by confessing about myself, it felt like a mutually beneficial transaction.</p>
+<p>Vaguely, I felt an urge to confess everything to him. If I could learn about him by confessing about myself, it felt like a transaction that benefited me.</p>
 
 <p>Had I ever wanted to know someone this deeply? Especially about the most private and cruel wounds, the ones trapped in his most secret and shadowed corners.</p>
 
@@ -499,7 +499,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"It must have been a very long day, so please get some sleep. I actually have somewhere I need to be... I have to get ready and leave in a little while, but don't worry about me; sleep as soundly as you need to."</p>
 
-<p>He got out of bed and arranged the blankets for me. Perhaps the fatigue was finally catching up to him, as he pressed his fingers against the top of his eyelids several times while doing so.</p>
+<p>He got out of bed and arranged the blankets for me. Perhaps the fatigue was finally catching up to him, as he pressed the inside of his wrist against his eyelids several times while doing so.</p>
 
 <p>I felt apologetic that we had been so intensely intertwined when he had to leave early in the morning, but apologizing now for having wanted sex also felt inappropriate for the situation.</p>
 
