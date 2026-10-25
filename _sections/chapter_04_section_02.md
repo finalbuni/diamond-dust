@@ -89,7 +89,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He broke into a wide smile — the kind that crinkled the corners of his eyes and made his pupils seem to shine — teeth perfectly aligned. It was an objectively attractive smile.</p>
 
-<p>"Don't you think you're being a bit like an ahjussi right now? Why are you so fixated on being called hyung?"</p>
+<p>"Don't you think you're being a bit like an ahjussi<sup class="tn-marker" id="tn-ref-chapter-04-section-02-1"><a href="#tn-chapter-04-section-02-1" aria-label="Translator note 1">1</a></sup> right now? Why are you so fixated on being called hyung?"</p>
 
 <p>The Director shook his head as he said it, then tipped his wine back like he was pouring it straight down.</p>
 
@@ -568,3 +568,9 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 <p>Excessive drinking was bad for health in any number of ways, but the greater danger, I was learning, was this: the sudden, overwhelming kind of want that had no clear place to go.</p>
 
 <p>Even though it had been more intense than anything I'd ever done before, when I finally collapsed onto the bed — utterly spent — what I felt was more thirst than relief. I twisted the sheets in my fist, then let them go, and swore out loud for the first time in years.</p>
+<section class="translator-notes" aria-label="Translator notes">
+  <div class="translator-notes__heading">TRANSLATOR'S NOTE</div>
+  <ol class="translator-notes__list">
+    <li id="tn-chapter-04-section-02-1" class="translator-note"><span class="translator-note__number">1</span> <strong>Ahjussi (아저씨)</strong> — A Korean term used to address or refer to a middle-aged or older man, usually someone outside one&#x27;s family. Depending on the context, it can be a neutral form of address or a playful way of calling someone an old man. <a class="translator-note__back" href="#tn-ref-chapter-04-section-02-1" aria-label="Return to note reference 1">↩ Back to text</a></li>
+  </ol>
+</section>
