@@ -15,9 +15,9 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>The city lights scattered across the calm water reminded me of Hong Kong at night. Memories of Hong Kong came in a chain, making me feel clearly how much I had changed, and how many chances I had been given to find my way here.</p>
 
-<p>Back then, waiting in a hotel room for his call before going to meet Ms. Suki Kim. Now, standing at the window of the penthouse he had arranged for Morae nuna and Yeehan hyung. Both of those moments had been made by his goodwill.</p>
+<p>Back then, waiting in a hotel room for his call before going to meet Ms. Suki Kim. Now, standing at the window of the penthouse he had arranged for Morae and hyung. Both of those moments had been made by his goodwill.</p>
 
-<p><em>Is it truly all right for you to be so complicated with me?</em></p>
+<p><em>Is it truly all right for you to become so entangled with me?</em></p>
 
 <p>I had answered his question by saying I would repay the debt, even if it meant taking other work, but in truth I was afraid. Not afraid of some third-rate movie scenario — of being caught at a disadvantage, of being used.</p>
 
@@ -45,7 +45,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Both of them had accepted the plan and wanted to leave tomorrow. I had contacted him immediately outside the hotel. He'd said there was no problem, just pack your bags right away and head to the accommodation I've prepared.</p>
 
-<p>After arriving at the penthouse in the car he had sent — a place he'd described as safe due to tight security — Morae and Yeehan had turned their worry toward me. <em>What if the Director's goal isn't to hand us over to Father, but to earn your trust by treating us so well, and then sell you off somewhere?</em></p>
+<p>After arriving at the penthouse in the car he had sent — a place he'd described as safe due to tight security — Morae and hyung had turned their worry toward me. <em>What if the Director's goal isn't to hand us over to Father, but to earn your trust by treating us so well, and then sell you off somewhere?</em></p>
 
 <p>What would he get by selling me off? The only thing that could be called a notable history was the faint trace of having painted, back when it still meant something.</p>
 
@@ -53,7 +53,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>[I suppose I sound like someone who'd want a report before every shower. Now that I say it out loud, I do seem like a strange person.]</p>
 
-<p>He laughed, a little embarrassed at himself. I shook my head vigorously, even though he couldn't see it.</p>
+<p>Perhaps thinking his concern had been excessive, he gave an embarrassed laugh. I shook my head vigorously, even though he couldn't see it.</p>
 
 <p>Considering the time, effort, and money he had poured into all of this, he had every right to know the details as thoroughly as he wanted.</p>
 
@@ -141,11 +141,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>The faint laughter faded, and his voice turned more serious.</p>
 
-<p>[I feel like I should tell Manager Han that you've started painting again. Regarding this matter — how much can I tell her? If there are parts you'd rather not share, or want to tell her yourself, I'll stay quiet about those. I know it may seem a little rushed, but once I've decided on something like this, I tend to want to get it cleanly down on paper.]</p>
+<p>[I feel like I should tell Manager Han that Seo Yeehyeon-ssi will be painting again. Regarding this matter — how much can I tell Manager Han? If there are parts Seo Yeehyeon-ssi would rather not share, or wants to tell her himself, I'll stay quiet about those. I know it may seem a little rushed, but once I've decided on something like this, I tend to want to get it cleanly down on paper.]</p>
 
-<p>"Everything I told you — you can tell her all of it. It's fine."</p>
+<p>"Everything I told you, Director — you can tell her all of it. It's fine."</p>
 
-<p>[Very well. Then while you're having your farewell with hyung and nuna, I'll be busy drafting the contract that says all future paintings of yours belong to me.]</p>
+<p>[Very well. Then while Seo Yeehyeon-ssi is having a farewell party with hyung and nuna, I'll be busy drafting the contract that says all of Seo Yeehyeon-ssi's future paintings belong to me.]</p>
 
 <p>"I leave it in your hands."</p>
 
@@ -167,11 +167,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>I chuckled — that explained the preemptive disclaimer about not having stalker tendencies — and got up. I tossed the phone onto the bed and started for the door, then stopped. I turned back, picked it up, and put it in my pants pocket. I didn't want to make him a stalker again.</p>
 
-<p>In the living room, Yeehan and Morae were already drinking beer. The long, vertical room offered a much more open view than the guest room I'd just come from.</p>
+<p>In the living room, hyung and Morae were already drinking beer. The long, vertical room offered a much more open view than the guest room I'd just come from.</p>
 
 <p>"Seo Yeehyeon, this room is seven million won a night."</p>
 
-<p>Morae, who had been looking at her phone beside hyung on one end of the sofa, turned toward me with a worried face as I sat down. Back when I had known less about his wealth, that number would have been difficult to believe. Even now it didn't quite feel real.</p>
+<p>Morae, who had been looking at her phone beside hyung on one end of the sofa, turned toward me with a worried face and called out. Back when I had known less about his wealth, that number would have been difficult to believe. Even now it didn't quite feel real.</p>
 
 <p>"You're not seriously being sold off to a deep-sea fishing trawler or something?"</p>
 
@@ -189,11 +189,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"So — your Director. What exactly does he do? Is the gallery just a hobby, is he actually some third-generation chaebol?"</p>
 
-<p>The main sofa was long and deep enough for all three of us with comfortable space between us. Morae, seated between Yeehan and me, leaned her head back and turned to look at me.</p>
+<p>The main sofa was long and deep enough for all three of us with comfortable space between us. Morae, seated between hyung and me, leaned her head back and turned to look at me.</p>
 
 <p>"Probably... something like that."</p>
 
-<p>Considering what Yuni nuna and Juhan hyung had casually mentioned about his — or his family's — financial position back in Hong Kong, calling him a chaebol heir wouldn't be far from the truth.</p>
+<p>Considering what Yuni nuna and Juhani hyung had casually mentioned about his — or his family's — financial position back in Hong Kong, calling him a chaebol heir wouldn't be far from the truth.</p>
 
 <p>"Still, the gallery isn't just a hobby for him."</p>
 
@@ -205,13 +205,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>While we had stopped by the "What Happened in Bali" owner's place to collect the luggage and then made our way here, he had created a temporary email address and sent through detailed documents of the plan he had prepared.</p>
 
-<p>According to the plan, Yeehan and Morae were to depart tomorrow and arrive in Bali after fifteen nights and sixteen days, passing through a total of nine countries — not counting brief layovers. The route didn't rely on planes alone; there were segments where they would cross borders by boat and bus.</p>
+<p>According to the plan, hyung and Morae were to depart tomorrow and arrive in Bali after fifteen nights and sixteen days, passing through a total of nine countries — not counting brief layovers. The route didn't rely on planes alone; there were segments where they would cross borders by boat and bus.</p>
 
-<p>By making the route that complicated, he explained, tracking would be impossible for any private investigator, no matter how capable. Since it had come to this, he had also arranged the schedule to allow them to enjoy the journey — adding a smiley emoji and wishing them a good time.</p>
+<p>By making the route that complicated, he explained, a private individual could not track them even by hiring a highly capable detective agency. Since it had come to this, he had also arranged the schedule to allow them to enjoy the journey — adding a smiley emoji and wishing them a good time.</p>
 
 <p>After reviewing the plan, Morae had seemed to trust him completely. She had even used the word infatuated, and for once, hyung showed a rare flash of jealousy.</p>
 
-<p>"Hey — where even is Minsk in Belarus? I didn't know that country had a city like that, let alone knew it existed."</p>
+<p>"Hey — where even is Minsk in Belarus? I didn't even know that country or that city existed."</p>
 
 <p>Hyung, who had packed everything and was heading for the bedroom at last, turned back to call out. Nuna and I exchanged a look and smiled.</p>
 
@@ -225,9 +225,9 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>I had been staring at my beer bottle, lost in thought, and reacted too sharply at the mention of Director — like a thief caught mid-act.</p>
 
-<p>"He must have enormous confidence in your talent. I don't know anything about that world, but still — paying that large a sum as an advance just from seeing one work, and helping out with something like this on top of it... that can't be ordinary. He must be completely captivated by your paintings."</p>
+<p>"He must have enormous confidence in your talent. I don't know anything about that world, but still — paying that large a sum as an advance just from seeing one work, and helping out with something like this on top of it... that can't be ordinary. He must be completely captivated by Seo Yeehyeon's paintings."</p>
 
-<p>It was coming from Morae nuna — a third party, someone who had never even met him — and it was about my art, not about me as a romantic interest. But hearing that he was captivated by some part of me... honestly, it felt good to hear.</p>
+<p>It was coming from Morae — a third party, someone who had never even met him — and it was about my art, not about me as a romantic interest. But hearing that he was captivated by some part of me... honestly, it felt good to hear.</p>
 
 <p>Before I had ever experienced falling for someone with clumsy, earnest feelings — before I had ever felt that flutter, that particular rhythm of a heart beating differently from its daily pace — I had dulled my own emotions out of fear of where they might expand. The result was a dry, meager emotional range that wasn't stirred by much of anything I saw or heard.</p>
 
@@ -249,15 +249,15 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Morae had stayed by my side since that vague, bewildering time when I didn't know how to handle my own existence.</p>
 
-<p>Whether it was experience or something she was simply born with, the fact that his words had understood me just as well as hers did — that still felt astonishing, even now, thinking back on it.</p>
+<p>Whether it was his experience or his innate intuition, the fact that his words had understood me just as well as hers did — that still felt astonishing, even now, thinking back on it.</p>
 
-<p>"Isn't that why your Director helped us? To build an environment where you can paint without worrying. Whether that's because he's personally a fan of your work or because he has a gallery owner's instinct, either way — he must have judged that you're worth that investment. So just focus on your painting. Oh, and please keep it a secret from him that I initially suspected he might be in cahoots with my father."</p>
+<p>"Isn't that why your Director helped us? To build an environment where you can paint without worrying. Whether that's because he's personally a fan of your work or because he has a gallery owner's instinct, either way — he must have judged that you're worth that investment. So just focus on your painting. Oh, and please keep it a secret from the Director that I initially suspected he might be in cahoots with my father."</p>
 
 <p>I smiled at Morae's last words — but there was something in what she'd said that I couldn't let go of.</p>
 
-<p>Unconsciously tilting the beer bottle in my hand, I found myself wanting to ask her something.</p>
+<p>Unconsciously tilting the beer bottle in my hand, I found myself wanting to ask Morae something.</p>
 
-<p>If I'd consulted Juhan hyung or Yuni nuna, they would have seen through who I was talking about in an instant. But Morae, who had never even met him — even if she guessed, the impact would be minimal. At least I wouldn't have to squirm in front of both of them at once.</p>
+<p>If I'd consulted Juhani hyung or Yuni nuna, they would have seen through who I was talking about in an instant. But Morae, who had never even met him — even if she guessed, the impact would be minimal. At least I wouldn't have to squirm in front of both of them at once.</p>
 
 <p>"Nuna."</p>
 
@@ -273,7 +273,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"I'm like that too, actually. I'm also... afraid of becoming someone's person. Of sharing everything with them."</p>
 
-<p>That was why the thought of Morae nuna and Yeehan hyung breaking up frightened me too. The deeper the empathy when two people are together, the more destructive the severance. I had experienced that force hitting the very center of my existence. Both the impulse to leap toward someone and the impulse to flee — ultimately, those all trace back to things that have already happened.</p>
+<p>That was why the thought of Morae and hyung breaking up frightened me too. The deeper the empathy when two people are together, the more destructive the severance. I had experienced that force hitting the very center of my existence. Both the impulse to leap toward someone and the impulse to flee — ultimately, those all trace back to things that have already happened.</p>
 
 <p>"But isn't that the same as saying you're drawn to it even though it scares you?"</p>
 
@@ -285,7 +285,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Morae's face as she asked was calm. I hadn't said I was drawn to anyone — but she was asking with complete certainty. There seemed no point in denying it. I managed a nod, my face burning.</p>
 
-<p>"Then couldn't it be the same for that person? Just as you can't help being drawn to him even in your unstable state — couldn't someone appear for him too, someone he wants badly enough to break past his skepticism and cross his own lines?"</p>
+<p>"Then couldn't it be the same for that person? Just as you can't help being drawn to that person even in your unstable state — couldn't someone appear for that person too, someone they want badly enough to break past their skepticism and cross their own lines?"</p>
 
 <p>Romantic feelings aren't decorations placed on top of a tower built from logic, people say. He could be swept away by something he didn't choose, even against himself. But imagining that <em>I</em> could be the one to shake him so deeply, to bring his whole structure down — that was somehow difficult to picture.</p>
 
@@ -293,25 +293,25 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Morae's voice had dropped suddenly, as if she'd become conscious of someone overhearing. I looked at her face, unsure if I'd misheard, but she seemed completely absorbed in thought and didn't notice my gaze.</p>
 
-<p>"Earlier I spoke as if I had the confidence not to be swayed by mere whims of the heart — but as uncle said, hearts can change, and no one can be certain about the future. Whatever ending awaits, I won't regret the act of choosing it myself — but that doesn't mean I'm not at all afraid of the pain that choice might bring. Whether it's the loss of parting from Seo Yeehan, or guilt toward my family...."</p>
+<p>"Earlier I spoke as if I had the confidence not to be swayed by mere whims of the heart — but as he said, hearts can change, and no one can be certain about the future. Whatever ending awaits, I won't regret the act of choosing it myself — but that doesn't mean I'm not at all afraid of the pain that choice might bring. Whether it's the loss of parting from Seo Yeehan, or guilt toward my family...."</p>
 
-<p>Morae took a few more sips of beer and looked down at the scattered printed documents on the table — the materials he had sent her — then continued.</p>
+<p>Morae took a few more sips of beer and looked down at the scattered printed documents on the table — the materials he had sent — then continued.</p>
 
 <p>"In the end, I think what matters is figuring out what causes you more pain. For me, making a choice without fully examining what I want and handing it to someone else — that itself is painful. But for someone else, the vagueness of having no guarantee of safety might be more painful. Even if there are general measures, the actual sensation of happiness or pain differs from person to person. It might not be that you're not afraid — it might be that this is a choice made to avoid something even more terrifying."</p>
 
 <p>She finished speaking calmly, then suddenly turned to look at me, narrowing her eyes into a smile.</p>
 
-<p>"But — is this about Rabbit, by any chance?"</p>
+<p>"But — is this about Mr. Rabbit, by any chance?"</p>
 
 <p>Heat ignited instantly across my face and the tips of my ears, impossible to hide.</p>
 
-<p>That Morae — who had never once met him — could see through me this easily. I thought, <em>I have to keep this from Yuni nuna and Juhan hyung no matter what,</em> and my body trembled slightly with the light fear of what would happen if those two ever found out.</p>
+<p>That Morae — who had never once met him — could see through me this easily. I thought, <em>I have to keep this from Yuni nuna and Juhani hyung no matter what,</em> and my body trembled slightly with the light fear of what would happen if those two ever found out.</p>
 
 <p>"Hmm, I see... So that's how it was."</p>
 
 <p>She muttered something incomprehensible with that suggestive smile, her eyes still narrowed. I couldn't tell what she was agreeing to, but I didn't have the courage to ask — afraid it would lead to more questions about me.</p>
 
-<p>"What a shame. Seo Yeehyeon's first love — and I have to leave without ever getting to see his face."</p>
+<p>"What a shame. Our Seo Yeehyeon's first love — and we have to leave without ever getting to see his face."</p>
 
 <p>After that, Morae didn't pry any further.</p>
 
@@ -329,4 +329,4 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He had told me to send a message before bed, but I wanted to call. I wanted to hear his voice. I wanted to see his face. I wanted to hold him, to touch his bare skin, to feel his warmth. And I wanted to tell him all of that.</p>
 
-<p>I imagined actually doing it — the confession, out loud. The next scene that unfolded in that imagining was his face, awkward and slightly pained, laughing it off while he looked somewhere else.</p>
+<p>I imagined actually doing it — the confession, out loud. The next scene that unfolded in that imagining was his face, looking uncomfortable, smiling awkwardly and evading my gaze.</p>

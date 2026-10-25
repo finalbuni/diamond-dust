@@ -27,21 +27,21 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Once the staff member who had taken our order left, Morae leaned her arms on the table, tilted her upper body forward, and asked with a playful lilt. Her usual tone made me wonder if I'd somehow misread why we were meeting.</p>
 
-<p>Around noon, he had called to say it would be best if hyung and nuna moved out of their place immediately — he had a temporary residence ready. He'd also suggested holding the meeting with my uncle there, since the security was tight. He added that if the two of them were mentally prepared, he could have everything arranged for them to leave Seoul tomorrow, or even tonight.</p>
+<p>Around noon, he had called to say it would be best if hyung and Morae moved out of their place immediately — he had a temporary residence ready. He'd also suggested holding the meeting with my father's older brother there, since the security was tight. He added that if the two of them were mentally prepared, he could have everything arranged for them to leave Seoul tomorrow, or even tonight.</p>
 
 <p>I had been sunk in a sleep that felt like death, and with my mind still dulled, I couldn't keep up with his pace. I'd expected his work to be efficient rather than slow or clumsy, but I couldn't help being surprised by how much faster and more meticulous he was than I'd imagined.</p>
 
-<p>As soon as I finished the call, I got out of bed and phoned nuna. I told her everything — the reason I had disappeared so abruptly the night before, the matter of the deposit, the plan he had prepared. It ended up being a full hour.</p>
+<p>As soon as I finished the call, I got out of bed and phoned Morae. I told her everything — the reason I had disappeared so abruptly the night before, the matter of the deposit, the plan he had prepared. It ended up being a full hour.</p>
 
 <p>After listening to all of it and filling in the gaps with a few questions, Morae said she couldn't trust him. Not right now, not yet.</p>
 
 <p>I found myself agreeing, at least partly. It wasn't that he seemed suspicious — it was that right now, in this situation, she couldn't bring herself to trust just anyone easily. To me, he was someone I could trust. To her, he was a man she had never even seen. And she was also, by nature, a very cautious person.</p>
 
-<p>For the time being, Morae and Yeehan put all of his suggestions on hold, quickly moved their things to the owner's place from "What Happened in Bali," and set this coffee shop as the meeting spot. Everything else would be decided after speaking with my uncle.</p>
+<p>For the time being, Morae and hyung put all of his suggestions on hold, quickly moved their things to the owner's place from "What Happened in Bali," and set this coffee shop as the meeting spot. Everything else would be decided after speaking with my uncle.</p>
 
 <p>"He's probably... not, I don't think."</p>
 
-<p>I shook my head, trying to picture him dressed like the head of the detective agency Morae nuna, Yeehan hyung and I had once visited — dealing with a client on the fourth floor of some rundown building without an elevator, asking for evidence of a spouse's affair.</p>
+<p>I shook my head, trying to picture him dressed like the head of the detective agency hyung, Morae and I had once visited — dealing with a client on the fourth floor of some rundown building without an elevator, asking for evidence of a spouse's affair.</p>
 
 <p>"I only thought maybe he'd gotten help from a professional. The escape plan was so meticulous."</p>
 
@@ -75,21 +75,21 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Morae had stood to wait for my uncle to approach, and now guided him respectfully to the seat beside me.</p>
 
-<p>"It's not that we don't trust you, uncle — it's that we don't trust my father. We thought he might be planning to use you as bait to bring us in. That's why we wanted to meet here. He's exactly the kind of person who would do that. As you know."</p>
+<p>"It's not that we don't trust you, ahjussi — it's that we don't trust my father. We thought he might be planning to use you as bait to bring us in. That's why we wanted to meet here. He's exactly the kind of person who would do that. As you know."</p>
 
 <p>My uncle nodded as if he understood, picked up my water glass, and drained it in one go until only ice was left.</p>
 
-<p>Iced coffees were served for Yeehan and Morae, and when the staff asked if he'd like to order, my uncle answered simply, "Coffee." His rough, thick hands kept clenching and unclenching on his thighs, the side of his face rigid with tension.</p>
+<p>Iced coffees were served for hyung and Morae, and when the staff asked if he'd like to order, my uncle answered simply, "Coffee." His rough, thick hands kept clenching and unclenching on his thighs, the side of his face rigid with tension.</p>
 
 <p>The situation I had briefly outlined over the phone was laid out again through Morae, as if to confirm it. When she asked calmly whether this was indeed how things stood, my uncle nodded. Morae let out a heavy sigh and added a sincere apology.</p>
 
-<p>He showed no reaction to the apology. After a long silence, he opened his mouth with a tired face.</p>
+<p>My uncle showed no reaction to the apology. After a long silence, he opened his mouth with a tired face.</p>
 
 <p>"So... what are you planning to do now?"</p>
 
 <p>"About what?"</p>
 
-<p>Yeehan started to push forward, his voice thick, but Morae grabbed his hand and held it firmly.</p>
+<p>Hyung started to speak up, overcome with emotion, but Morae grabbed his hand and held it firmly.</p>
 
 <p>"We're going to stay together. Until we ourselves decide we no longer want to be."</p>
 
@@ -107,7 +107,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Who's asking to watch Father kneel? Does this look like we're trying to hurt someone and win? If you kneel, do you think I'll be happy about it — like this is what I wanted, and cheerfully fall in line?"</p>
 
-<p>I understood what was upsetting hyung. I also understood that this anger wasn't aimed at my uncle. Morae nuna and Yeehan hyung hadn't divided the people in this situation into victims and perpetrators. They believed their choices were justified, and at the same time they were suffering under guilt toward their parents.</p>
+<p>I understood what was upsetting hyung. I also understood that this anger wasn't aimed at my uncle. Morae and hyung hadn't divided the people in this situation into victims and perpetrators. They believed their choices were justified, and at the same time they were suffering under guilt toward their parents.</p>
 
 <p>If this were on a boat, at the port, in the cement-paved yard of my grandfather's house, my uncle would have struck hyung without hesitation with that heavy palm of his. But here, even in the face of hyung's raised voice and defiance, he only lowered his head deeper, like a condemned man.</p>
 
@@ -129,23 +129,23 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>It wasn't like me, and it wasn't my place — I was nothing more than a third party. But I couldn't stand by and watch, wondering if the two of them might waver in front of their parents showing weakness.</p>
 
-<p>My uncle's yellowish eyes, the borders of his irises murky and opaque, turned toward me. They seemed to say both <em>how could I not know that</em> and <em>Morae and Yeehan are different from your father.</em></p>
+<p>My uncle's yellowish eyes, the borders of his irises murky and opaque, turned toward me. They seemed to say both <em>how could I not know that</em> and <em>Morae and hyung are different from your father.</em></p>
 
 <p>But I knew. Having spent more than five years by their side, I understood them far better than my uncle — far better than Mr. Lim.</p>
 
 <p>I could have used his exact words from the night before.</p>
 
-<p>Hyung and nuna weren't simply a couple romantically drawn to each other. They were a set that could only be complete together, and the tragedy that occurred when such people were unnaturally torn apart was my father — and the ruined work that tragedy had created was the person standing here now. I couldn't allow that to happen again.</p>
+<p>Hyung and Morae weren't simply a couple romantically drawn to each other. They were a set that could only be complete together, and the tragedy that occurred when such people were unnaturally torn apart was my father — and the ruined work that tragedy had created was the person standing here now. I couldn't allow that to happen again.</p>
 
 <p>Morae, who had been staring at a fixed point on the table, opened her mouth in a voice stripped of all emotion, dry and tight.</p>
 
-<p>"As you say — we won't die without Seo Yeehan."</p>
+<p>"As you say — I won't die without Seo Yeehan."</p>
 
 <p>"......"</p>
 
-<p>My anxious gaze shifted naturally toward Morae nuna. The grip on my uncle's arm loosened.</p>
+<p>My anxious gaze shifted naturally toward Morae. The grip on my uncle's arm loosened.</p>
 
-<p>"That I'm being unfilial, driving nails into my parents' hearts and my brothers' hearts just to stay with Hani. How could I not know that? I will carry that guilt for the rest of my life."</p>
+<p>"That I'm hurting my parents and older brothers, being an unfilial daughter just to be with Hani—how could I not know that? I'll carry that guilt for the rest of my life."</p>
 
 <p>I had been making foolish worries. If she had been prepared to waver at this point, she never would have left the village in the first place.</p>
 
@@ -153,29 +153,29 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>After adding that this was not a request for understanding, Morae fell briefly silent. In that pause, her face looked like that of someone who had lived through a very long time. It wasn't that she looked older — she looked like someone who had stepped past all the trivial, suffocating anxieties that drive us into life's traps and drifted slightly outside of time. It might sound like an exaggeration, but I had felt this from her before, not just now.</p>
 
-<p>Even while committing what the world calls filial impiety, she did not want to blame or resent anyone for her life or her choices. To become the true master of one's own life, one must not only claim the freedom of choice but also bear the full weight of its consequences — that was a truth many people, myself included, looked away from. Nuna and hyung were perhaps fighting not against Mr. Lim, not against my uncle or grandfather or the world, but against their own lives.</p>
+<p>Even while committing what the world calls filial impiety, she did not want to blame or resent anyone for her life or her choices. To become the true master of one's own life, one must not only claim the freedom of choice but also bear the full weight of its consequences — that was a truth many people, myself included, looked away from. Morae and hyung were perhaps fighting not against Mr. Lim, not against my uncle or grandfather or the world, but against their own lives.</p>
 
 <p>"As you say, every fire eventually dies out. But it doesn't matter. I don't know if you'll understand this — but Hani and I were never drawn to each other just because of that burning flame, that feeling called romance."</p>
 
-<p>Watching her keep a careful distance between herself and her emotions, delivering her story to him as simple fact, I saw a reflection of him from the night before.</p>
+<p>Watching her keep a careful distance between herself and her emotions, delivering her story to the other person as simple fact, I saw a reflection of him from the night before.</p>
 
-<p>I didn't want to dismiss their detached attitude toward life as merely an inherent Alpha trait. I didn't want to reduce their loneliness, their conflict, their effort to something meaningless that way. Yuni nuna and Juhan hyung were Betas, and yet they hadn't simply stood by while external interference reshaped them into versions of themselves they didn't want to be. In the face of the suffering that life demands in exchange for the strength to live without deceiving yourself, the distinction between Alpha and Beta becomes meaningless.</p>
+<p>I didn't want to dismiss their detached attitude toward life as merely an inherent Alpha trait. I didn't want to reduce their loneliness, their conflict, their effort to something meaningless that way. Yuni nuna and Juhani hyung were Betas, and yet they hadn't simply stood by while external interference reshaped them into versions of themselves they didn't want to be. In the face of the suffering that life demands in exchange for the strength to live without deceiving yourself, the distinction between Alpha and Beta becomes meaningless.</p>
 
 <p>Unconsciously, I clutched at my chest with the hand I had rested weakly on my uncle's arm. Morae glanced over at me with brief concern, then took a few sips of her coffee — which had grown in volume as the ice melted — and spoke in a firm voice.</p>
 
 <p>"First, I'm going to clear the debt you owe my father."</p>
 
-<p>She had decided to accept the proposal I brought from him.</p>
+<p>She seemed to have decided to accept the proposal I brought from him.</p>
 
 <p>At the word debt, my uncle's gaze wavered with confusion. His eyes were asking: <em>How?</em></p>
 
 <p>"Once that's paid, he'll at least lose his pretext for blackmailing you — on the surface, at least. It's best to resolve that first. We'll send you the money."</p>
 
-<p>She didn't explain the source to my uncle. She'd decided that how much to say about the money was my choice to make.</p>
+<p>She didn't explain the source to my uncle. She thought that how much to say about the money was my choice to make.</p>
 
 <p>"Of course, even after that, he'll find all kinds of petty ways to make things difficult. He's my father, and I love him... but that's the kind of person he is...."</p>
 
-<p>Morae paused briefly, and this time her gaze turned toward the window. For the first time, a cascade of emotions moved across her face as she thought of her father — whom she loved more than anyone because he was her father, but for whom, if you removed the bond of blood, there was so little solid ground left for love or respect. The emotions rose and vanished in quick succession.</p>
+<p>Morae paused briefly, and this time her gaze turned toward the window. For the first time, a cascade of emotions moved across her face as she was probably thinking of her father — whom she loved more than anyone because he was her father, but for whom, if you removed the bond of blood, there was so little solid ground left for love or respect. The emotions rose and vanished in quick succession.</p>
 
 <p>When she slowly turned her gaze back to the table, her face had returned to its earlier state — no emotional openings, no visible vulnerability. Yet it didn't seem unfeeling. Instead, a pain radiated from her, like someone holding a mouthful of something intensely bitter.</p>
 
@@ -203,7 +203,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>My uncle's eyes were drifting through the curtain of rain.</p>
 
-<p>"It must have been the winter of Hani's third year of middle school... Morae, you steamed lobster at home and said it was unbelievably good, so you brought three or four over to our place around dinnertime so we could try them too. In the dead of that freezing winter. You said it was for us to try, but how could I not know you really came because you wanted Hani to eat them. That day, I was washing up at the tap when I opened the door... Your face standing at the gate holding that pot — I don't know why, but it stayed with me for a long time."</p>
+<p>"Perhaps it was the winter of Hani's third year of middle school... Morae, you steamed lobster at home and said it was unbelievably good, so you brought three or four over to our place around dinnertime so we could try them too. In the dead of that freezing winter. You said it was for us to try, but how could I not know you really came because you wanted Hani to eat them. That day, I was washing up at the tap when I opened the door... Your face standing at the gate holding that pot — I don't know why, but it stayed with me for a long time."</p>
 
 <p>With a sharp, short breath, my uncle drew deeply on his cigarette and flicked the ash with the practiced ease of his blunt fingertips.</p>
 
@@ -213,27 +213,27 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Wherever you go... don't tell anyone. Not even me. If I find out, I might break under your father's threats and let something slip. Just... go, without saying a word to anyone."</p>
 
-<p>He said it evenly, then exhaled the last drag of his cigarette in an unusually long breath that came out like a sigh.</p>
+<p>My uncle said it evenly, then exhaled the last drag of his cigarette in an unusually long breath that came out like a sigh.</p>
 
-<p>"Your father too — with time, won't he forgive you someday? He's been that intense about everything involving you since you were small."</p>
+<p>"Your father too — with time, won't he forgive you someday? He's always been so devoted to you, ever since you were small."</p>
 
 <p>That was when Morae burst into tears.</p>
 
-<p>At a timing no one had expected. In fact, none of us had ever imagined Morae nuna crying. Especially not in a situation like this — I had thought she was the kind of person who would swallow any tears by sheer will, even if they came like a storm, and never expose her naked emotions.</p>
+<p>At a timing no one had expected. In fact, I had never even imagined Morae crying. Especially not in a situation like this — I had thought she was the kind of person who would swallow any tears by sheer will, even if they came like a storm, and never expose her naked emotions.</p>
 
 <p>But Morae cried.</p>
 
 <p>Like a child who suddenly trips and falls alone on flat ground without a single stone to catch on. Without any warning.</p>
 
-<p>At that one sentence: <em>he's been that intense about everything involving you since you were small — won't he forgive you someday?</em></p>
+<p>At that one sentence: <em>he's always been so devoted to you — won't he forgive you someday?</em></p>
 
-<p>She didn't just shed quiet tears. She sobbed. Yeehan pulled Morae into his arms — she had her right hand pressed over her eyes, lip caught between her teeth.</p>
+<p>She didn't just shed quiet tears. She sobbed. Hyung pulled Morae into his arms — she had her right hand pressed over her eyes, lip caught between her teeth.</p>
 
 <p>To the rest of the world, her father was the ruthless "Mr. Lim," a man who cared only about money. But he was also a father who would have laid the entire world at Morae's feet if that was what she wanted. Because he was endlessly weak when it came to her, she must have suffered even more on the way here.</p>
 
 <p>The prejudice I had unknowingly held — that she wouldn't cry, that not showing tears was strength — wasn't that part of what had driven her into situations where she couldn't cry until now?</p>
 
-<p>Unable to look directly at her, I stared at the ground. Then, worried that my uncle might have said something unnecessary, and seeing him completely at a loss in the face of Morae's tears, I guided him back toward the main entrance.</p>
+<p>Unable to look directly at her, I stared at the ground. Then I guided my uncle back toward the main entrance; he was worried that he might have said something unnecessary and was completely at a loss in the face of Morae's tears.</p>
 
 <p>"I'll go with nuna and hyung. Please be careful on your way down. The money... we should be able to send it soon."</p>
 
@@ -241,7 +241,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"About that — what money do you kids even have to send something like that?"</p>
 
-<p>His worried expression made the lines around his mouth look even deeper.</p>
+<p>My uncle's worried expression made the lines around his mouth look even deeper.</p>
 
 <p>Honestly, the advance payment I was set to receive before I had even begun the painting felt no different from a debt — which made it hard to feel entirely comfortable. I hesitated, my lips moving slightly before I pushed out the answer like a sigh.</p>
 
@@ -273,7 +273,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>I watched my uncle walk away under his old umbrella along the dignified red brick path where luxury sedans came and went in a steady stream, then finally looked away.</p>
 
-<p>Despite rain that had been falling all day in varying degrees of intensity, many people were still visiting the hotel. Then again, for those who could step out from under a wide canopy directly into a car without ever needing to open an umbrella, the rainy season wasn't much of an obstacle to going out.</p>
+<p>Despite rain that had been falling all day in varying degrees of intensity, many people were still visiting the hotel. Then again, for those who could step out of a car beneath a wide canopy and go straight indoors without ever needing to open an umbrella, the rainy season wasn't much of an obstacle to going out.</p>
 
 <p>Leaning against a pillar slightly off from the main entrance, watching people come and go from the hotel, I felt my sense of reality begin to shift strangely. This was an entirely different world from the old village where my uncle had once represented the standard of ordinary.</p>
 
@@ -293,11 +293,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>After finishing my preparations in the empty, slightly awkward house, I stepped out to the front gate and found exactly what he had described: a large black sedan waiting in the rain. An imported car bearing an emblem I recognized. A driver holding an umbrella was already standing in front of it, apparently having received his instructions in advance.</p>
 
-<p>He had suggested I take Morae and Yeehan to the meeting place in that car, but Morae had refused — she suspected it might be a scheme to transfer them directly to her father the moment they were inside.</p>
+<p>He had suggested I take Morae and hyung to the meeting place in that car, but Morae had refused — she suspected it might be a scheme to transfer them directly to her father the moment they were inside.</p>
 
-<p>I was laughing quietly to myself at how similarly he and Morae nuna distrusted things — like siblings who'd grown up in the same environment — when Morae and Yeehan appeared from the far corner of the building. I pushed myself off the pillar I'd been leaning against.</p>
+<p>I was laughing quietly to myself at how similarly he and Morae distrusted things — like siblings who'd grown up in the same environment — when Morae and hyung appeared from the far corner of the building. I pushed myself off the pillar I'd been leaning against.</p>
 
-<p>Morae nuna had calmed down. Far from looking embarrassed or awkward about her earlier tears, she smiled at me the way she always did while holding hyung's hand, and I simply smiled back.</p>
+<p>Morae had calmed down. Far from looking embarrassed or awkward about her earlier tears, she smiled at me the way she always did while holding hyung's hand, and I simply smiled back.</p>
 
 <p>Everyone around them — the surf camp owner included — had always told hyung, half-jokingly and half-seriously, that he really needed to treat Morae well, that she was worth a hundred times more. And honestly, somewhere along the way I had unknowingly come to hold the same thought.</p>
 
@@ -319,17 +319,17 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>I turned to look at her. With her chin tilted slightly sideways, she spoke with a somewhat awkward expression.</p>
 
-<p>"My situation's like this right now. I've gotten even more suspicious than Yeehan. I'm asking whether there's any real chance he might be making deals behind our backs with my father."</p>
+<p>"My situation's like this right now. I've gotten even more suspicious than Seo Yeehan. I'm asking whether there's any real chance he might be making deals behind our backs with my father."</p>
 
 <p>I shook my head.</p>
 
-<p>"He's worked with Manager Han since Hong Kong, and Manager Han trusts him a great deal... And honestly, there's nothing much he'd gain from doing something like that."</p>
+<p>"He's worked with Manager Han since Hong Kong, and Manager Han trusts him a great deal... And honestly, there's nothing much the Director would gain from doing something like that."</p>
 
-<p>He was wealthy enough not to need to involve himself in something like this for money, and unless he harbored some deep grudge against me from a past I didn't know about, there was no reason for him to deliberately put Morae nuna, hyung, or me in a difficult situation.</p>
+<p>He was wealthy enough not to need to involve himself in something like this for money, and unless he harbored some deep grudge against me from a past I didn't know about, there was no reason for him to deliberately put Morae, hyung, or me in a difficult situation.</p>
 
 <p>Morae took a slow breath and nodded carefully.</p>
 
-<p>"Right. If Manager Han's involved too, it should be safe. You said they can leave as soon as tomorrow?"</p>
+<p>"Right. If Manager Han's involved too, it should be safe. You said we can leave as soon as tomorrow?"</p>
 
 <p>"Huh? Ah, yeah..."</p>
 
