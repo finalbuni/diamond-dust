@@ -11,13 +11,13 @@ section_count: 6
 permalink: /sections/chapter-16/6/
 excerpt_separator: "<!-- section-excerpt-end -->"
 ---
-<p>Through the open front door, the laughter of nuna and Juhan drifted into the kitchen. I was tidying up the food with him — everything except for what could serve as side dishes — when I paused for a moment at the lively noise created by just the two of them.</p>
+<p>Through the open front door, the laughter of nuna and hyung drifted into the kitchen. I was tidying up the food with him — everything except for what could serve as side dishes — when I paused for a moment at the lively noise created by just the two of them.</p>
 
 <p>"Ah... those two are a long way from done. They'll probably keep going until dawn."</p>
 
 <p>He turned toward the counter and said this while wiping grease from the plates with paper towels at the sink, so the housekeeper could wash them easily in the morning.</p>
 
-<p>Manager Han, who had come straight here after work, had already called a designated driver and gone home — saying she needed to change and rest properly — but nuna and Juhan were heating up their conversation as if the real fun was just starting.</p>
+<p>Manager Han, who had come straight here after work, had already called a designated driver and gone home — saying she needed to change and rest properly — but nuna and hyung were heating up their conversation as if the real fun was just starting.</p>
 
 <p>From ideas for Old Future's autumn season, to nuna's impressions of the diversity of the American art market she'd encountered while preparing for the Chicago exhibition and the management philosophy of that gallery, and finally to the future the two of them dreamed of and were working toward — the topics were endless, and in this they were alike: the more they drank, the deeper the conversation grew.</p>
 
@@ -87,11 +87,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He sighed and leaned down, resting his elbows on the counter, looking at my face — which must have looked like someone meeting a debt collector. His profile was now lower than mine.</p>
 
-<p>"I know I keep saying this, but I'm not sacrificing anything for you, Seo Yeehyeon. I'm not stretching myself financially to support you or buy you gifts, and I give gifts to those two and Manager Han quite often. So if you just accept it with a happy face, that would feel like enough of a return to me."</p>
+<p>"I know I keep saying this, but I'm not sacrificing anything for you, Seo Yeehyeon-ssi. I'm not stretching myself financially to support you or buy you gifts, and I give gifts to those two and Manager Han quite often. So if you just accept it with a happy face, that would feel like enough of a return to me."</p>
 
-<p>If it were Juhan or Yuni nuna, they would have reacted with clear delight to his gift... In that case, did I think of nuna and hyung — who accepted his gifts without feeling burdened — as shameless? That wasn't it... When it came to my own affairs, judgment was hard. The gifts exchanged among Morae nuna, Yeehan hyung, and me had always been things like books, pens, or keychains.</p>
+<p>If it were Juhani hyung or Yuni nuna, they would have reacted with clear delight to his gift... In that case, did I think of nuna and hyung — who accepted his gifts without feeling burdened — as shameless? That wasn't it... When it came to my own affairs, judgment was hard. The gifts exchanged among Morae, hyung, and me had always been things like books, pens, or keychains.</p>
 
-<p>"Ah, then you do me one favor as well, Seo Yeehyeon. Fair and square. That should work."</p>
+<p>"Ah, then you do me one favor as well, Seo Yeehyeon-ssi. Fair and square. That should work."</p>
 
 <p>"......"</p>
 
@@ -121,7 +121,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>The fact that he — someone who felt larger than me in every way, a person so complete and multifaceted he embodied everything adulthood meant to me — was smiling with the pure, unguarded joy of a child receiving a desired toy, and that I was the one who had caused that smile in that moment: it sent a small jolt through me.</p>
 
-<p>It wasn't that I had never experienced another person's joy and happiness directly becoming my own — but this felt different in nature from the warm contentment I felt through Morae nuna or Yeehan hyung.</p>
+<p>It wasn't that I had never experienced another person's joy and happiness directly becoming my own — but this felt different in nature from the warm contentment I felt through Morae or hyung.</p>
 
 <p>Every reaction that came through him carried an intensity that muddled my thinking — drawing out impulses and courage I hadn't known I possessed.</p>
 
@@ -145,7 +145,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Yes."</p>
 
-<p>"Hmm. Looks like you only drew real paintings after I left for work."</p>
+<p>"Hmm. Looks like you really did nothing but paint after I left for work."</p>
 
 <p>He said it with a smile, clearly in good spirits.</p>
 
@@ -163,7 +163,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He murmured it almost to himself, that barely visible smile, then closed the notebook and rubbed his lower jaw with his large hand, as if covering his mouth.</p>
 
-<p>After holding that pose for a moment — looking down somewhere on the floor, lost in thought — he handed the notebook back to me. Our fingers overlapped slightly as I took it, and he lightly hooked his pinky finger around mine on my ring finger.</p>
+<p>After holding that pose for a moment — looking down somewhere on the floor, lost in thought — he handed the notebook back to me. Our fingers overlapped slightly as I took it, and he lightly hooked his little finger around my ring finger.</p>
 
 <p>"Then I'll wait for you in the study."</p>
 

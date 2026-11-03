@@ -33,7 +33,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>At the end of the corridor, a vast space opened up — there was no other way to describe it. The high ceiling provided a superb sense of openness, and one entire wall was finished with glass. Thanks to that, even on a cloudy day like today, there was plenty of light.</p>
 
-<p>"I bought this place for rental income from foreigners, but the previous tenant's contract ended in May, and they completely settled their affairs in Korea and returned home. Since then, no new tenant has appeared, and I was already considering moving here myself. What do you think? Do you like it?"</p>
+<p>"I bought this place for rental income from foreigners, but the previous tenant’s contract with the company here ended in May, and they completely settled their affairs in Korea and returned home. Since then, no new tenant has appeared, and I was already considering moving here myself. What do you think? Do you like it?"</p>
 
 <p>He asked, glancing back at me — still standing awkwardly at the end of the hallway — as he slowly surveyed the simply furnished living room. His tone was as casual as if he were picking up a T-shirt from a display rack and asking about it.</p>
 
@@ -41,7 +41,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Perhaps thinking my hesitation meant I wasn't particularly impressed, he began elaborating on the house's good qualities.</p>
 
-<p>"It's a duplex structure, so our privacy will be guaranteed almost as if we're living separately — both for you, Seo Yeehyeon, and for me. Since I'll only be home in the evenings due to work, you should be able to concentrate on your painting without any issue."</p>
+<p>"It's a duplex structure, so our privacy will be guaranteed almost as if we're living separately — both for you, Seo Yeehyeon-ssi, and for me. Since I'll only be home in the evenings due to work, you should be able to concentrate on your painting without any issue."</p>
 
 <p>He walked toward the living room window, twisted the handle down to unlock it, and slowly slid the large glass door open to the left.</p>
 
@@ -77,7 +77,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"......"</p>
 
-<p>"It's not like I bought this place specifically for you, Seo Yeehyeon. I was already considering staying here since it was empty anyway, so you don't need to feel burdened at all. I did purchase it as a rental property, but I've always liked the layout and the view — I've been interested in living here for a while myself. Besides, even if I live here alone, I won't be using the entire space anyway."</p>
+<p>"It's not like I bought this place specifically for you, Seo Yeehyeon-ssi. I was already considering staying here since it was empty anyway, so you don't need to feel burdened at all. I did purchase it as a rental property, but I've always liked the layout and the view — I've been interested in living here for a while myself. Besides, even if I live here alone, I won't be using the entire space anyway."</p>
 
 <p>Setting aside the fact that he was an incredibly wealthy man, I rarely felt the gap in our financial circumstances during conversations with him. He wasn't the type to flaunt his wealth.</p>
 
@@ -85,19 +85,19 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>The house was empty anyway, he was already considering moving here anyway, and even if he lived alone there would be leftover space anyway — so there was no financial sacrifice on his part. Explaining to him, who offered this simple logic, that one could feel emotionally burdened regardless of financial sacrifice probably wouldn't be persuasive.</p>
 
-<p>"About the Phantom work, and Manager Han's situation..."</p>
+<p>"About my work at Phantom and Manager Han's home..."</p>
 
 <p>After looking down at me for a moment as I barely managed to ask that, he uncrossed his arms and lightly took hold of my wrist. He tugged me gently down the hallway past the living room, suggesting that since I had come this far, I should at least look around the house.</p>
 
-<p>"You've been a great help with the practical work, so I certainly regret losing you for the Phantom matters, Seo Yeehyeon. But you need to focus solely on your painting. Or do you plan to treat it like Choi Inwu — just a hobby?"</p>
+<p>"You've been a great help with the practical work, so I certainly regret losing you for the Phantom matters, Seo Yeehyeon-ssi. But you need to focus solely on your painting. Or do you plan to treat it like Choi Inwu — just a hobby?"</p>
 
 <p>He turned to me in front of the master bedroom downstairs and asked as if seeking confirmation.</p>
 
-<p>I hadn't planned on treating it as a hobby, but ever since my uncle appeared, I'd been focused entirely on Morae nuna and Yeehan hyung's affairs, and hadn't yet thought concretely about other aspects.</p>
+<p>I hadn't planned on treating it as a hobby, but ever since my uncle appeared, I'd been focused entirely on Morae and hyung's affairs, and hadn't yet thought concretely about other aspects.</p>
 
 <p>He paused, looking down at me for a moment, then opened the bedroom door inward and continued.</p>
 
-<p>"You understand that the work assisting Manager Han must also be put on hold, right? Aside from the work itself, simply entering and leaving that house right now isn't particularly safe for you, Seo Yeehyeon. The same goes for Manager Han."</p>
+<p>"You understand that the work assisting Manager Han must also be put on hold, right? Aside from the work itself, simply entering and leaving that house right now isn't particularly safe for you, Seo Yeehyeon-ssi. The same goes for Manager Han."</p>
 
 <p>That was another aspect I hadn't considered. Even though it was my own situation, the fact that he was viewing it from a much broader perspective and preparing countermeasures made me feel grateful and ashamed at the same time.</p>
 
@@ -125,7 +125,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>If he hadn't been here, if I hadn't met him, how would I have handled this situation?</p>
 
-<p>I wouldn't have been able to handle it. The reality was that Morae nuna, hyung, and I were still socially incapable and lacked the real power to solve problems.</p>
+<p>I wouldn't have been able to handle it. The reality was that Morae, hyung, and I were still socially incapable and lacked the real power to solve problems.</p>
 
 <p>Even though not all the issues were cleanly resolved, escaping a crisis that could have spiraled into the worst-case scenario and advancing things to this degree was entirely thanks to his help.</p>
 
@@ -153,17 +153,17 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"What do you like? Drinking? Shopping? Traveling? It probably isn't any of those... I just wish I knew."</p>
 
-<p>It occurred to me then that perhaps coming to the airport, bringing me to this house, making a new offer — perhaps all of it was to console me after seeing Morae nuna and Yeehan hyung off.</p>
+<p>It occurred to me then that perhaps coming to the airport, bringing me to this house, making a new offer — perhaps all of it was to console me after seeing Morae and hyung off.</p>
 
 <p>"Or maybe you want to go have drinks with Baek Yuni or Kwon Juhan? They'd probably be better company than me."</p>
 
-<p>I grabbed his arm as he pulled out his phone, looking as if he were about to contact nuna and hyung immediately. He looked back at me, his eyes widening slightly in surprise at my sudden, clinging insistence that stopped him in his tracks.</p>
+<p>I grabbed his arm as he pulled out his phone, looking as if he were about to contact nuna and hyung immediately. He looked back at me, his eyes widening slightly, perhaps in surprise at my sudden, clinging insistence that stopped him in his tracks.</p>
 
 <p>Unsure how to begin, I bit my lower lip before finally resting my forehead against the edge of his shoulder, a gesture of surrender.</p>
 
-<p>Now that Morae nuna and hyung had safely left the country, the relief I felt was ironically allowing me to gradually realize just how deeply anxious I had been. Behind the reassurance that they were safe and I could finally breathe — there followed closely a hollowness, as if a part of my chest had been torn away.</p>
+<p>Now that Morae and hyung had safely left the country, the relief I felt was ironically allowing me to gradually realize just how deeply anxious I had been. Behind the reassurance that they were safe and I could finally breathe — there followed closely a hollowness, as if a part of my chest had been torn away.</p>
 
-<p>If I was going to find comfort and solace for that feeling from someone, there was only one person I wanted to be my companion.</p>
+<p>If I was going to find comfort and solace for that feeling from someone, there was only one person I wanted that comfort from.</p>
 
 <p>"......"</p>
 
@@ -191,11 +191,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He narrowed his eyes and carefully examined every part of my face, as if trying to read some invisible message from me. That scent, which I hadn't detected at all just moments before, was beginning to register faintly amidst the other fragrances.</p>
 
-<p>"I told you — if you want something, you just have to say the word. That you can have it anytime. You silly thing..."</p>
+<p>"I told you — if you want me, you just have to say the word. That you can have me anytime. You silly thing..."</p>
 
 <p>As if throwing the last words into the air, the moment he finished speaking he lowered his head and pressed his lips deeply against mine. My waist was pulled in, and my chest pressed tightly against his.</p>
 
-<p>The force of his hand against the back of my head parted my lips, and his tongue filled my mouth. That familiar scent instantly overwhelmed my nose and mouth, and I took a deep breath through my nose as it swept in, wrapping my arms around his back and holding him tight.</p>
+<p>The force of his hand against the back of my head parted my lips, and his tongue filled my mouth. That familiar scent instantly overwhelmed my nose and mouth, and I let out a deep breath through my nose as it swept in, wrapping my arms around his back and holding him tight.</p>
 
 <p>He held me close, tilting his head as he kissed me deeply, as if pouring a precious medicine into me.</p>
 
@@ -215,7 +215,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Hah, ugh."</p>
 
-<p>He released his tongue, which had been filling and sucking mine, and pressed me against the wall. A dull pain shot through me as my back hit the surface, and his thick thigh drove between my legs.</p>
+<p>He released my tongue, which he had been holding in his mouth, sucking and squeezing, and pressed me against the wall. A dull pain shot through me as my back hit the surface, and his thick thigh drove between my legs.</p>
 
 <p>The explicit friction applied more directly to my cock momentarily blurred my mind, and I felt as if my body was rising. I looped my arms up under his armpits and wrapped them over his shoulders, pulling myself closer.</p>
 
@@ -225,7 +225,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Looking down at each other's lips from beneath our lowered eyelids, we extended our tongues to rub tip to tip. The friction of wet flesh touching outside the body was entirely different from the kisses happening inside our mouths. Even with no one watching, the rebellious pleasure of exposing something intimate to the outside sent a thrilling jolt through my tongue.</p>
 
-<p>My heels lifted with each upward pull of his hands. The thigh pressed between my legs felt harder than usual, taut with a sudden surge of desire. My chest, pressed against his shoulder, was the same. His body was so aroused that the distinct contours of his muscles were clearly visible even through his clothes.</p>
+<p>My heels lifted with each upward pull of his hands. The thigh pressed between my legs felt harder than usual, taut with a sudden surge of desire. The shoulders I held and the chest pressed against mine were the same. His body was so aroused that the distinct contours of his muscles were clearly visible even through his clothes.</p>
 
 <p>It was as if he were moving inside me while staying outside. As he pulled me up and let me down, he occasionally shook his thigh, adding an obscene stimulation between my legs.</p>
 
@@ -269,7 +269,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Mm…"</p>
 
-<p>He sucked at my lips harder, slipping his hand under my T-shirt to stroke my back. His hand glided smoothly across my skin before reversing course and sliding inside my jeans. Since I was practically sitting on his thigh, his hand fumbled over the fleshy curve of my hips that had pushed up, before working its way between my legs.</p>
+<p>He sucked at my lips harder, slipping his hand under my T-shirt to stroke my back. His hand glided smoothly across my skin before reversing course and sliding inside my jeans. Since I was practically sitting on his thigh, his hand fumbled over the fleshy curve of my hips that had pushed up, before working its way between my buttocks.</p>
 
 <p>"Ngh… ah — "</p>
 
@@ -277,7 +277,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>My shaking head and my heaving hips were both parts of my body, yet they were expressing completely different intentions.</p>
 
-<p>He pulled me into his chest with one arm and rubbed my skin hard with his middle finger, sliding it into the crevice between my legs. Resting my chin on his shoulder, I rubbed my body freely against his in a state of complete contact.</p>
+<p>He pulled me into his chest with one arm and rubbed my skin hard with his middle finger, sliding it into the cleft between my buttocks. Resting my chin on his shoulder, I rubbed my body freely against his in a state of complete contact.</p>
 
 <p>Shoulders, chest, abdomen, thighs — every part of his body was composed of well-trained muscle, and the prominent contours of that mass stirred arousal in me every time we ground against each other. Bulging, firm, unyielding — hard enough that it wouldn't budge even if I punched it — I ran my hands over all of it.</p>
 
@@ -295,7 +295,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Ugh."</p>
 
-<p>I wrapped my arms around his neck on instinct so I wouldn't fall. My body was now high enough to look down at his face. Though I was only a little shorter than him — less than half a hand's span — objectively speaking, I was by no means small or petite. He hoisted me up without any help from momentum, and even shook me up and down a couple of times as if gauging my weight while walking toward the bed.</p>
+<p>I wrapped my arms around his neck on instinct so I wouldn't fall. My body was now high enough to look down at his face. Though I was only a little shorter than him — a little more than half a hand’s span — objectively speaking, I was by no means small or petite. He hoisted me — just over 180 centimeters tall — up without any help from momentum, and even shook me up and down a couple of times as if gauging my weight while walking toward the bed.</p>
 
 <p>"I knew you were thin, but... you're not hollow inside, are you?"</p>
 
@@ -347,13 +347,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He pressed his lips tightly shut, regulating his breathing through his nose, and swept the hair falling over his forehead away. He began rubbing his briefs between my legs with a supple roll of his hips.</p>
 
-<p>Beneath the damp fabric, the prominent bulge pressing against the space between my thighs sent a strange thrill through me, and I felt myself growing wet inside. Without touching my body at all, he stayed pressed there for a moment, moving only his hips to bring his cock into contact with my entrance.</p>
+<p>Beneath the damp fabric, the prominent bulge pressing against the space between my thighs sent a strange thrill through me, and I felt myself growing wet between my legs. Without touching my body at all, he stayed pressed there for a moment, moving only his hips to bring his cock into contact with my entrance.</p>
 
 <p>His torso, glimpsed through the open buttons of his shirt, traced clear lines — deeply carved abs, thick and firm. But the way he slowly rotated his hips, pressing his cock exactly where he wanted it, showed a fluidity that was impossible for someone so powerfully built.</p>
 
 <p>"Ngh… hah… ah — "</p>
 
-<p>Each time he pushed his hips forward, grinding his prominent flesh against me, I couldn't help but moan. He was so focused, so present in the act that mimicked intercourse — it was impossibly sexy... My glutes contracted involuntarily, clenching around him without my command. I couldn't believe my body was reacting this way, but this was the pleasure of sex I had learned through him, discovered because of him.</p>
+<p>Each time he pushed his hips forward, grinding his prominent flesh against me, I couldn't help but moan. He was so focused, so present in the act that mimicked intercourse — it was impossibly sexy... My glutes contracted involuntarily, clenching there without my command. I couldn't believe my body was reacting this way, but this was the pleasure of sex I had learned through him, discovered because of him.</p>
 
 <p>"Try bringing your thighs together?"</p>
 
@@ -379,7 +379,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Because it wasn't enclosed by the delicate inner walls of my hole, he didn't adjust his speed. Each time he thrust down from above, pressing quickly, I had to bite my lip at the sensation of our two cocks rubbing directly against each other.</p>
 
-<p>The recoil of his balls slapping against the area around my hole with each thrust was just as hard to bear. Thud, thud, thud, thud-thud... Even the sensation of that resilient weight hitting my tailbone alone made the image of his scrotum — swinging forward only to get crushed and flattened between him and me — vivid in my mind.</p>
+<p>The recoil of his balls slapping against the area around my hole with each thrust was just as hard to bear. Thud, thud, thud, thud-thud... Even the sensation of that resilient weight hitting the cleft of my buttocks alone made the image of his scrotum — swinging forward only to get crushed and flattened between him and me — vivid in my mind.</p>
 
 <p>Only the point of entry differed; his weight pressing down from above, the resulting sway, the tingling in my lower abdomen, the cramping in my fingertips and toes... all of it felt much the same as when he was penetrating me. If anything, the thickness, heat, and slick texture of his cock grazing my skin felt more pronounced here between my thighs.</p>
 
@@ -421,21 +421,21 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>I lifted my head, face flushed, and struggled to pull my hand away. The wetness was from his pre-cum, but he was talking as if it were my own slick — and the embarrassment of that made me desperate to stop him somehow.</p>
 
-<p>His gaze locked onto mine. A gaze boiling over, beyond the ordinary. Whether I had let go of his hand or he had released mine, the moment my freed hand retreated, a single fingertip pushed inside me.</p>
+<p>His gaze locked onto mine. A gaze boiling over, beyond the ordinary. Whether I had let go of his hand or he had released mine, the moment my freed hand retreated, his finger pushed one joint deep inside me.</p>
 
 <p>"Ugh...!"</p>
 
 <p>I flinched, startled by the sudden entry, but it wasn't from pain. There was no resistance at my entrance.</p>
 
-<p>Keeping one finger inside me, he pushed my knees outward from where I'd drawn them up toward my chest, then bent his upper body deeply to kiss me. Up close, his eyes held something like joy alongside a faint glint of madness.</p>
+<p>Keeping his finger one joint deep inside me, he pushed my knees outward from where I'd drawn them up toward my chest, then bent his upper body deeply to kiss me. Up close, his eyes held something like joy alongside a faint glint of madness.</p>
 
 <p>"That's right. I got you this wet... You're leaking, soaking wet, because of me. It's because of me."</p>
 
 <p>He slowly worked his finger in and out, looking alternately between my eyes. His gaze was both urgent — as if searching for something — and hazy, as if wandering in ecstasy.</p>
 
-<p>Mingling with the strong cologne I'd noticed before, that scent was growing stronger. Like a fragrance that had soaked into his skin and under his nails from long use, rising now from his bare skin with his shirt off. I greedily flared my nostrils, pulling him by the neck to inhale it — that scent that felt more distant and faint than usual.</p>
+<p>Mingling with the strong cologne I'd noticed before, that scent was growing stronger. Like a fragrance that had soaked into his skin and under his nails from long use, rising now from his bare skin with his clothing removed. I greedily flared my nostrils, pulling him by the neck to inhale it — that scent that felt more distant and faint than usual.</p>
 
-<p>He turned his head and our lips met. I accepted the kiss — now with considerable skill — rubbing my tongue against the wet inner surface of his mouth.</p>
+<p>He turned his head and our lips met. I accepted the kiss — as if I had become fairly skilled by now — rubbing my tongue against the wet inner surface of his mouth.</p>
 
 <p>Below, as his finger repeated its entry and retreat, more pre-cum flowed into my hole, and wet, slick sounds leaked from both above and below.</p>
 
@@ -461,9 +461,9 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"I'm going to spread your legs a little wider."</p>
 
-<p>By the time he said that, my legs were already parting, and his cock was aimed at my entrance.</p>
+<p>By the time he said that, my legs were already parting, and the head of his cock was aimed at my entrance.</p>
 
-<p>It was completely different from his finger. Just having the slick head pressed against my entrance made my breath catch from the heavy pressure. Unlike his finger, which had entered easily in one motion, his thick cock struggled to penetrate.</p>
+<p>It was completely different from his finger. Just having the slick head pressed against my entrance made my breath catch from the heavy pressure. Unlike his finger, which had entered easily in one motion, the thick head struggled to penetrate.</p>
 
 <p>Before even half the head was swallowed, he pulled back and pushed in again, repeatedly, drawing as much of the glistening pre-cum around my entrance inside as possible.</p>
 
@@ -471,9 +471,9 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>My lower body felt loose and twitching from the repeated in-and-out. I let out a sound like a sob and raised my arms to cover my eyes.</p>
 
-<p>"Why cover them? Curious Seo Yeehyeon."</p>
+<p>"Why cover them? Curious Seo Yeehyeon-ssi."</p>
 
-<p>He gently took hold of my wrist and pulled my hand down, speaking in a soothing tone. A faint smile lingered on his face as I looked up, but below, his broad, swollen cock was writhing, pressing through my entrance.</p>
+<p>He gently took hold of my wrist and pulled my hand down, speaking in a soothing tone. A faint smile lingered on his face as I looked up, but below, the broad, swollen head of his cock was writhing, pressing through my entrance.</p>
 
 <p>"You don't have to wait until all of it is in... I'll make you feel good right away."</p>
 
@@ -483,7 +483,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Ngh — ah!"</p>
 
-<p>Forcing its way through the contracting entrance, his cock pushed abruptly inside. I had only just swallowed the head, yet my lower body felt numb, as if more than half the act was already done. But it wasn't from tightness — it was from the size of him. My entrance was already thoroughly slicked.</p>
+<p>Forcing its way through the contracting entrance, the head of his cock pushed abruptly inside. I had only just swallowed the head, yet my lower body felt numb, as if more than half the act was already done. But it wasn't from tightness — it was from the size of him. My entrance was already thoroughly slicked.</p>
 
 <p>Looking down at my dilated, trembling pupils, he gently wrapped his hand around my other wrist as well. Then he pulled taut toward the place where we were joined.</p>
 
@@ -497,9 +497,9 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>It gave me the illusion that his cock wasn’t fucking my hole at all, but something else inside it — that hidden spot, like another sexual organ buried deep in me.</p>
 
-<p>His thrusts — shallow, not meant to drive deeper but to work that spot, pressing right against it and pulling back fast — felt like they were grinding my lower body to nothing.</p>
+<p>His thrusts — shallow, not meant to drive deeper but to stimulate that spot, pressing right against it and pulling back fast — felt like they were grinding my lower body to nothing.</p>
 
-<p>Unlike the previous penetrations, which had built and crested in waves, this was different. Power surged instantly to the root of his cock and the tip of his head tingled.</p>
+<p>Unlike the previous penetrations, which had built and crested in waves, this was different. Power surged instantly to the root of my cock and the tip of its head tingled.</p>
 
 <p>"No — please stop... Stop!"</p>
 
@@ -557,13 +557,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Ahh… ngh… ah…"</p>
 
-<p>As he changed position, pressing deeper between my hips, my legs and ass lifted slightly off the surface beneath him. With his cock only halfway inside, he began to rotate his hips in a wide circle. The vivid sensation of my entrance stretching wide around his turning cock made me shake my head and grip his forearms.</p>
+<p>As he changed position, pressing deeper between my hips, my legs and ass, resting on his thighs, lifted slightly into the air. With his cock only halfway inside, he began to rotate his hips in a wide circle. The vivid sensation of my entrance stretching wide around his turning cock made me shake my head and grip his forearms.</p>
 
 <p>When I managed to pry open my squeezed-shut eyelids, he was looking down at me with the concentrated expression of someone confronting a serious problem.</p>
 
 <p>Slowly, the thick shaft dragged along my inner walls as it withdrew, and my eyes went wide.</p>
 
-<p>"Ah — hh… ah…"</p>
+<p>"Ah — ngh… ah…"</p>
 
 <p>I felt his cock catch right at my entrance, and without thinking I shook my head "no" and gripped his arms tight.</p>
 
@@ -607,7 +607,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Please... just... hard... all the way inside..."</p>
 
-<p>Even if my appearance might have seemed like I was coaxing or flattering him to get the sex I wanted, I didn't care. He wasn't the type to be overcome with cheap triumph just from something like this. He was the only one who could reach my inner walls — the ones I couldn't reach myself — and relieve this maddening itch. If I could just reach that pleasure right now, I felt I could do even worse. Thinking about what I'd already whispered in his ear on this bed, this was nothing.</p>
+<p>Even if my appearance might have seemed like I was coaxing or flattering him to get the sex I wanted, I didn't care. He wasn't the type to be overcome with cheap triumph just from something like this. He was the only one who could reach my inner walls — the ones I couldn't reach myself — and relieve this maddening itch. If I could just reach that pleasure right now, I felt I could do even worse. Thinking about what I'd already whispered in his ear in bed, this was nothing.</p>
 
 <p>"How?"</p>
 
@@ -653,11 +653,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Erase everything, blow it all away. Huh? Let's just blow it all away."</p>
 
-<p>His mumbled words, corrected from a command to a gentle request and whispered against my breath, scattered weakly. He said nothing more.</p>
+<p>His mumbled words, corrected from a command to an invitation and whispered against my breath, scattered weakly. He said nothing more.</p>
 
 <p>He pressed down on me using the full weight of his body as if to drive me into the mattress, and for a moment stopped moving his hips, plunging deep inside me.</p>
 
-<p>"Ah — hh… ngh…"</p>
+<p>"Ah — hngh… ngh…"</p>
 
 <p>Unable to even moan under the intensely addictive pressure of his swelling knot, I gasped with my mouth open as I spilled onto my stomach and chest. This was the climax I had desperately sought, yet the pleasure pulsing deep inside me — like a new heartbeat — overpowered the sensation felt through my cock.</p>
 

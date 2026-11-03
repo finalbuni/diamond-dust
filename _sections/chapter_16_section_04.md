@@ -83,7 +83,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"I have no intention of taking it long-term. Two boxes of this one, please."</p>
 
-<p>At the man's words, she packaged two smaller boxes than the previous one and handed them over, along with instructions to take no more than two pills at a time, no more than twice a day.</p>
+<p>At the man's words, she packaged two smaller boxes than the previous one and handed them over, along with instructions to take two pills at a time, no more than twice a day.</p>
 
 <p>"Are you perhaps... a Golden Alpha?"</p>
 

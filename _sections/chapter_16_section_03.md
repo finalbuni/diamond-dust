@@ -11,7 +11,7 @@ section_count: 6
 permalink: /sections/chapter-16/3/
 excerpt_separator: "<!-- section-excerpt-end -->"
 ---
-<p>He returned from the dressing room inside the bedroom with fresh sheets and draped them over my naked, curled-up form. It was embarrassing that my throat, hoarse from trying to thank him, was so wrecked — but I didn't even have the energy to clear it.</p>
+<p>He returned from the dressing room inside the bedroom with fresh sheets and draped them over my naked, curled-up form. It was embarrassing that my voice was so hoarse when I tried to thank him — but I didn't even have the energy to clear it.</p>
 
 <p>Even without screaming, my throat always ended up raw after being with him. Even the effort to artificially suppress moans seemed to strain my voice.</p>
 
@@ -43,7 +43,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>His profile was the human embodiment of the word "perfection."</p>
 
-<p>The thickness of his chest and the swell of his muscles, the lean waistline curving sharply down from his back, his firm raised backside, and his long solid legs. Even his cock called to mind that champagne bottle wedged between a foreign model's legs — the one Yuni nuna and Juhan had giggled about when they first found it in a magazine.</p>
+<p>The thickness of his chest and the swell of his muscles, the lean waistline curving sharply down from his back, his firm raised backside, and his long solid legs. Even his cock called to mind that champagne bottle wedged between a foreign model's legs — the one Yuni nuna and Juhani hyung had giggled about when they first found it in a magazine.</p>
 
 <p>His thick black hair, always floating lightly despite its fullness, and his blue eyes tinged with gray, which seemed to shift in color and temperature with his emotions.</p>
 
@@ -61,7 +61,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Within the immense tenderness that soothed my anxiety, it was only natural that my feelings deepened the more I became physically intimate with him.</p>
 
-<p>It was almost mysterious how Juhan or Yuni nuna could be exposed to this kindness and still manage not to like him as a romantic partner.</p>
+<p>It was almost mysterious how Juhani hyung or Yuni nuna could be exposed to this kindness and still manage not to like him as a romantic partner.</p>
 
 <p>He sat on the edge of the bed, picking up the ashtray that had been on the table in front of the armchair, and took a drag from his cigarette while pushing back his now quite disheveled hair.</p>
 
@@ -87,13 +87,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He pressed his cigarette-holding hand against the mattress and turned toward me, meeting my eyes.</p>
 
-<p>"Manager Han also said she'd feel more reassured if you stayed with me rather than alone. I feel the same way. Things will probably be unsettling for a while, but it's too much to ask you to call ahead every time you go in to take a shower, isn't it?"</p>
+<p>"Manager Han also said she'd feel more reassured if Seo Yeehyeon-ssi stayed with me rather than alone. I feel the same way. Things will probably be unsettling for a while, but it's too much to ask you to call ahead every time you go in to take a shower, isn't it?"</p>
 
 <p>With that playful remark, he took a short sharp drag. My whole body felt listless and it was hard to gather strength in my waist, but this seemed like a conversation I needed to take seriously, so I pushed myself up from my prone position and pulled the sheet up to cover my lower body.</p>
 
 <p>From this new vantage point, where our eye levels were much closer, he cast a fragmented glance at me. Then, as if avoiding something, he turned his head away and took another drag.</p>
 
-<p>"I would like to give you more leeway, but... as you know, Seo Yeehyeon, this is the situation we're in. Securing safety is the top priority, and on that I can't compromise either. Please understand."</p>
+<p>"I would like to give you more leeway, but... as you know, Seo Yeehyeon-ssi, this is the situation we're in. Securing safety is the top priority, and on that I can't compromise either. Please understand."</p>
 
 <p>Despite the finality of his words — leaving no room for negotiation, firmly stating he could not yield — his voice carried a desperation that didn't match their content.</p>
 
