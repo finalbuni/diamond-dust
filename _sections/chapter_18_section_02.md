@@ -51,7 +51,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He raised an eyebrow at the words that had slipped out.</p>
 
-<p>"In Hong Kong, and then after we got back — I went straight to your place and we've been moving around by car ever since, so I don't think I really registered that it was summer."</p>
+<p>"In Hong Kong, and then after we got back — I moved into your house not long afterward, Director and we've been moving around by car ever since, so I don't think I really registered that it was summer."</p>
 
 <p>"You've been tending the garden. That must be hot."</p>
 
@@ -69,15 +69,15 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He was taking care of everything — my safety, my comfort, the time I needed to focus on painting — and yet every time this topic came up, he looked pained.</p>
 
-<p>It was me who was living under his kindness and care, to a degree that went so far beyond gratitude it edged into guilt. And yet why did he keep looking like he owed me something?</p>
+<p>Yet I was the one receiving his generosity and care in ways that “kindness” alone couldn't describe—so much that I felt not just grateful, but guilty.</p>
 
-<p>At moments like this, the gap between us became strikingly real. Socially, economically, in terms of experience and wisdom... I was insufficient to be his support, and I still lacked the ability to give him anything substantial in return. Painting. I had to paint quickly. Because right now, that was the only thing I could do for him.</p>
+<p>At moments like this, I keenly felt the age difference between us. Socially, economically, in experience and wisdom… I wasn't someone he could lean on, and knowing I still couldn't give him anything tangible in return made me impatient. Painting. I had to hurry and paint. For now, that was the only thing I could do for him.</p>
 
 <p>He looked at my face in silence for a moment, then let out a short sigh and gently took my hand.</p>
 
 <p>"Just a little longer... please bear with me a little longer."</p>
 
-<p>"I wasn't really someone who enjoyed going out or had an active personality to begin with — you know that. And you take me out often. I didn't say it because I was feeling stifled, so please don't worry."</p>
+<p>"I wasn't really someone who enjoyed going out or had an active personality to begin with — you know that. And you take me out often, Director. I didn't say it because I was feeling stifled, so please don't worry."</p>
 
 <p>Hoping he would smile again, I smiled first. He reached out, brushed my hair aside, and softly pulled the back of my neck to press his lips to my forehead. It was the first time we had engaged in physical contact beyond holding hands in front of the driver in Seoul.</p>
 
@@ -87,7 +87,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"This place is..."</p>
 
-<p>The hotel where I had met my uncle with Yeehan hyung and Morae nuna. Not far from his house. Now that I thought about it, the gallery from earlier was also only about a ten-minute drive from his house.</p>
+<p>The hotel where I had met my uncle with hyung and Morae. Not far from his house. Now that I thought about it, the gallery from earlier was also only about a ten-minute drive from his house.</p>
 
 <p>"I thought you haven't had much of an appetite lately, so I picked somewhere we can have a light meal and a drink. Today, I promise — no pressure about eating this or that."</p>
 
@@ -95,7 +95,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Walking into the hotel lobby with him felt strange.</p>
 
-<p>It had only been two weeks since I last came here, but so much had changed — the person beside me, my feelings, the situation. Morae nuna and Yeehan hyung were scheduled to arrive safely in Bali in a few days, and my uncle had had no particular contact since I'd paid off the debt. While not everything had settled into place, I no longer needed to feel anxious as if someone were right at my heels. All of it was because of his help. And yet why did he keep looking sorry toward me?</p>
+<p>It had only been two weeks since I last came here, but so much had changed — the person beside me, my feelings, the situation. Morae and hyung were scheduled to arrive safely in Bali in a few days, and my uncle had had no particular contact since I'd paid off the debt. While not everything had settled into place, I no longer needed to feel anxious as if someone were right at my heels. All of it was because of his help. And yet why did he keep looking sorry toward me?</p>
 
 <p>Even as we descended the wide staircase leading to the lower floor just inside the main entrance, people coming up the other way glanced at him and whispered.</p>
 
@@ -141,19 +141,19 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"I had made friends with a few bastards like Choi Inwu. The kind who taught me dirty words and curses first."</p>
 
-<p>I could somewhat picture Inwu hyung and his school days, so I managed a small laugh and then continued carefully. The topic had come up naturally, so it seemed like a good opportunity to ask.</p>
+<p>I could somewhat picture Inwu hyung and him during their school days, so I managed a small laugh and then continued carefully. The topic had come up naturally, so it seemed like a good opportunity to ask.</p>
 
-<p>"Artist Shushu... went to the same school as you, right?"</p>
+<p>"Artist Shushu-nim... went to the same school as you, right?"</p>
 
 <p>He paused before answering, raised his glass to wet his lips, then set it down again. The whole time, he didn't take his eyes off me. A mischievous smile played at the corner of his mouth. He even cleared his throat, which was rare.</p>
 
 <p>"Hmm... why do I get the feeling you're concerned about Shushu? Am I imagining it?"</p>
 
-<p>Given our current relationship, I knew Shushu and I weren't in the kind of relationship I had imagined and agonized over. Still, I didn't feel as comfortable with Shushu as I did with the Phantom family or Inwu hyung. I was still conscious of Shushu. Knowing my feelings weren't exactly healthy or mature, my face flushed as if I'd been caught in something shameful.</p>
+<p>Given our current relationship, I felt I could tell he and Shushu weren’t in the kind of relationship I had imagined and agonized over. Still, I didn't feel as comfortable with Shushu as I did with the Phantom family or Inwu hyung. I was still conscious of Shushu. Knowing my feelings weren't exactly healthy or mature, my face flushed as if I'd been caught in something shameful.</p>
 
 <p>But he leaned his upper body toward me, biting his lower lip slightly, and looked genuinely pleased. His clear blue eyes sparkled with mischief.</p>
 
-<p>"Be a little more jealous. Ask me what my relationship with Shushu is. Ask if it's something more than just gallery owner and artist on contract. Push me, interrogate me... and even after I explain that it isn't, keep picking at me, kicking me..."</p>
+<p>"Be a little more jealous. Ask me what my relationship with Shushu is. Ask if it's something more than just gallery owner and artist on contract. Push me, interrogate me... and even after I explain that it isn't, keep pinching me, kicking me..."</p>
 
 <p>"I... I wouldn't do anything like that..."</p>
 
@@ -179,7 +179,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"......"</p>
 
-<p>He soon broke into a smile, understanding the reason for the awkward, abruptly abandoned topic — like a child sounding out words while learning to read aloud.</p>
+<p>He soon broke into a smile, understanding the reason for my awkward, abrupt change of topic — like a child sounding out words while learning to read aloud.</p>
 
 <p>Even knowing he would never make the clumsy mistake of letting someone overhear our private conversation, I still wasn't experienced enough in these matters to enjoy the anxiety as a thrill.</p>
 
@@ -193,7 +193,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Once we were alone again, he pulled his chair closer and met my gaze.</p>
 
-<p>"I got carried away because it seemed like Seo Yeehyeon was getting a little jealous."</p>
+<p>"I got carried away because it seemed like Seo Yeehyeon-ssi was getting a little jealous."</p>
 
 <p>"......"</p>
 
@@ -205,11 +205,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Part of it is that your reaction was just too... cute. I couldn't control myself. You're not angry?"</p>
 
-<p>It wasn't an intention to tease me meanly — I could tell he was genuinely enjoying this moment. I couldn't miss it when I looked at his expression and his eyes. And once I realized that, I felt like I too might start to enjoy this silly, childish back-and-forth.</p>
+<p>It wasn't an intention to tease me — I could tell he was genuinely enjoying this moment. I couldn't miss it when I looked at his expression and his eyes. And once I realized that, I felt like I too might start to enjoy this silly, childish back-and-forth.</p>
 
 <p>A ticklish feeling at the word <em>cute</em>. I shook my head. Manager Han, Yuni nuna, and Juhan hyung had said similar things before, but it had never felt like this.</p>
 
-<p>He gave me a soft smile, visibly relieved, and picked up his chopsticks to offer me food.</p>
+<p>He smiled softly, seemingly relieved, and picked up his chopsticks, encouraging me to eat too.</p>
 
 <p>"So — how was the exhibition, really?"</p>
 
@@ -219,7 +219,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>His reaction suggested he had expected as much.</p>
 
-<p>"You, Seo Yeehyeon, want paintings where the artist confronts a version of themselves pushed to the absolute limit, pouring out everything. You're not someone who can sit down in front of the easel with a light heart, thinking, <em>what shall I paint today</em>... That's why I thought you would like this artist's work."</p>
+<p>"You, Seo Yeehyeon-ssi, want paintings where the artist confronts a version of themselves pushed to the absolute limit, pouring out everything. You're not someone who can sit down in front of the easel with a light heart, thinking, <em>what shall I paint today</em>... That's why I thought you would like this artist's work."</p>
 
 <p>"I don't mean to say that painting with a light heart is bad... and it's not as though I've only ever painted about my deepest suffering. It's just that for me, painting is a means of being honest. So it happens that I often express emotions or thoughts through it."</p>
 
@@ -237,7 +237,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"And I found it refreshing that the theme came through so clearly in the paintings — quite different from me. The artist seemed like someone with no hesitation about expressing her own feelings or thoughts, which made her work even more attractive."</p>
 
-<p>"Your paintings seem quite bold too — they just carry more complex emotions."</p>
+<p>"Seo Yeehyeon-ssi’s paintings seem quite bold too — they just carry more complex emotions."</p>
 
 <p>"......"</p>
 
@@ -299,7 +299,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>But it wasn't an unpleasant kind of intoxication. Feeling my thoughts and body hazily come undone, I let my posture relax further.</p>
 
-<p>"I never wanted an absolute conclusion — I wanted to hear your opinion from the very beginning. You don't need to add self-deprecating words after saying something like that. It's an original perspective, and a genuinely interesting one."</p>
+<p>"I never wanted an absolute conclusion — I wanted to hear Seo Yeehyeon-ssi’s opinion from the very beginning. You don't need to add self-deprecating words after saying something like that. It's an original perspective, and a genuinely interesting one."</p>
 
 <p>He said it with the slightly stunned expression of someone who had just taken a hit, and then fell silent, lost in thought.</p>
 
@@ -361,11 +361,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>The chicken he put on my plate was tender and moist. It had been made with fresh ingredients, and yet the faint inherent smell of the chicken still lightly pricked at my stomach. Still, it was tolerable. Knowing the problem was my condition and not the food, I nodded that it was good and offered some back to him.</p>
 
-<p>"About Choi Inwu's work — you once said it revealed an honesty about oneself that one couldn't be honest about otherwise. You said that before, didn't you?"</p>
+<p>"You said Choi Inwu's work revealed an honesty about his own inability to be honest. That's what you said before, isn't it?"</p>
 
 <p>Instead of picking up his chopsticks, he refilled two empty glasses and continued.</p>
 
-<p>"I know that when you paint, Seo Yeehyeon, you're someone who confronts the deepest part of yourself — just like the artist we were just discussing. But you don't have to force yourself to always aim for the extreme. If facing your own rock bottom right now is too hard, try painting the part of yourself that feels cowardly. If that's who you are right now, wouldn't it be meaningful to leave something of that behind?"</p>
+<p>"I know that when you paint, Seo Yeehyeon-ssi, you're someone who confronts the deepest part of yourself — just like the artist we were just discussing. But you don't have to force yourself to always aim for the extreme. If facing your own rock bottom right now is too hard, try painting the part of yourself that feels cowardly. If that’s who Seo Yeehyeon is right now, wouldn't it be meaningful to leave something of that behind?"</p>
 
 <p>"......"</p>
 
@@ -373,9 +373,9 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Art isn't only about the sublime conclusion reached after enduring a painful process."</p>
 
-<p>He raised the glass he had filled and proposed a toast, adding that with a slight smile. Looking back from the moment he first suggested I start painting again until now, he had been an astonishingly accurate reader of my psychology. The suggestion to bring up Suki Kim had only been possible because he understood me so well.</p>
+<p>He raised the glass he had filled and proposed a toast, adding that with a slight smile. Looking back from the moment he first suggested I start painting again until now, he had been an astonishingly accurate reader of my psychology. Playing the Suki Kim card had only been possible because he understood me so well.</p>
 
-<p>After we clinked glasses and each drank about half, I kept holding mine tightly without putting it down.</p>
+<p>After we clinked glasses and I drank about half of mine, I kept holding mine tightly without putting it down.</p>
 
 <p>"Director."</p>
 
@@ -447,7 +447,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"With nuna and hyung... I clearly like them both, and I know there's no deeper meaning in any of it, but..."</p>
 
-<p>"You know, but?"</p>
+<p>"But...?"</p>
 
 <p>"Giving piggyback rides and things like that... I'd prefer it if you didn't."</p>
 
@@ -473,11 +473,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"It must be hideous. A face trying desperately hard not to let its mouth stretch into a grin because someone twenty-two years old is jealous — isn't that what it looks like right now?"</p>
 
-<p>He brought his face close to mine, asking me to look carefully, and I gazed at it for a moment before cupping his cheek in my palm. This action required more courage than his confession had moments before.</p>
+<p>He brought his face close to mine, asking me to look carefully, and I gazed at it for a moment before cupping his cheek in my palm. This action required more courage than my confession had moments before.</p>
 
 <p>"You're just... handsome."</p>
 
-<p>Perhaps it was a compliment he had heard so many times it no longer registered — and yet he stared at me, frozen, with the expression of someone hearing for the first time in their life that they were born handsome.</p>
+<p>Perhaps it was a compliment he had heard so many times it no longer registered — and yet he stared at me, frozen, with the expression of someone hearing for the first time in their life that they were handsome.</p>
 
 <p>He looked slowly from my left eye to my right, then gently placed his hand over mine. It was embarrassing, but for a moment, it felt as if all the surrounding noise and gazes had been cut off. The illusion that only the two of us existed. Strangely, it was in that moment that this finally felt like a date.</p>
 
@@ -529,7 +529,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>They were definitely... different from the drunk Betas I had seen before.</p>
 
-<p>They didn't have the intoxicating, hazy quality that Juhan hyung had once described about artist Shushu, nor did they appear sublime. It was simply uncomfortable — like being forced to witness the extremely private state of others, something that should have belonged only to a bed.</p>
+<p>They didn't have the intoxicating, hazy quality that Juhan hyung had once described about Artist Shushu, nor did they appear sublime. It was simply uncomfortable — like being forced to witness the extremely private state of others, something that should have belonged only to a bed.</p>
 
 <p>He put his arm around my shoulder and pulled me close, as if shielding me from something harmful.</p>
 
@@ -593,7 +593,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>When our eyes met, I smiled foolishly again. Remembering that he had said he liked my smile, I didn't look away even as I tried to hide my flushed face. He was looking at me with a gaze that seemed to carefully trace every contour of my face.</p>
 
-<p>"I want to keep making you smile like this..."</p>
+<p>"I should keep making you smile like this..."</p>
 
 <p>As if moving between the small joys of something like love and the anxieties it brought, I wanted to wipe away the shadows that flickered occasionally in his eyes.</p>
 
@@ -637,7 +637,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He rubbed my forehead for me, lifted his chin to look up at nothing in particular, and murmured playfully.</p>
 
-<p>"Once we start, not thrusting is impossible... and if I thrust, I knot, and that puts a lot of strain on your body."</p>
+<p>"Once we start, penetration is inevitable… and if we do that, I end up knotting, which puts a lot of strain on Seo Yeehyeon's body."</p>
 
 <p>"But... we've knotted almost every time lately... and we've even knotted twice in one night before..."</p>
 
@@ -651,7 +651,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>The force of his hold was strong enough that my torso ached, but I felt no discomfort and no urge to pull away. The warmth of his lips against my ear was warm.</p>
 
-<p>"I want to be with you too, Yeehyeon. I always want to. But... just once. I want to know what it's like to wake up in the morning and have you right there beside me. I won't ask for much. Just once, for me too..."</p>
+<p>"I want to have sex with you too, Seo Yeehyeon. I always want to. But... just once. I want to know what it's like to wake up in the morning and have you right there beside me. I won't ask for much. Just once, for me too..."</p>
 
 <p>I still couldn't fully connect how not having penetrative sex — or not knotting — was related to staying together until morning. But thinking about it, even with all the passionate nights we had shared, we had never actually fallen asleep together.</p>
 
