@@ -27,7 +27,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Perhaps he truly didn't mind if things became known to those around us naturally. Come to think of it, deliberately announcing that we were dating did feel rather unusual.</p>
 
-<p>I recalled the advice from Juhan hyung, who had told me that he wasn't a suitable romantic partner and that if I was nursing an unrequited crush, I should give up quickly. I wondered what his reaction would be if he found out I was actually dating the very person he had warned me about. And what about nuna and Manager...?</p>
+<p>I recalled Juhan hyung’s advice: that the man I liked wasn’t right for me, and that if it was just an unrequited crush, I should let it go quickly. I wondered what his reaction would be if he found out I was actually dating the very person he had warned me about. And what about nuna and Manager...?</p>
 
 <p>Feeling awkward about even lightly worrying over such things, I puffed out my cheeks, let out a long breath — <em>huuh</em> — and picked up my pencil again. I was sketching the Chicago downtown skyline as the sun was setting. I waited for him by his bedroom window while he finished showering.</p>
 
@@ -291,7 +291,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"What's wrong, Seo Yeehyeon? Are you still nervous? You've gone so quiet."</p>
 
-<p>Sipping the coffee she'd placed in the cup holder on the armrest between us, nuna poked my stiff face.</p>
+<p>Sipping the coffee she'd placed in the cup holder on the armrest between us, nuna noticed my tense expression and poked me in the cheek.</p>
 
 <p>"I'm still awkward at parties like this... and I'm worried about my English, too...."</p>
 
@@ -377,7 +377,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Conner and I enjoy buying good work from lesser-known artists. Honestly, the pieces by already famous artists are just outrageously expensive," Jane exclaimed as if protesting, but it was immediately clear that the couple wasn't refraining from buying famous artists' works for financial reasons.</p>
 
-<p>"I saw Yeehyeon-ssi’s nude painting at the gallery and immediately told Awi I wanted to buy it, but he refused, saying it wasn't available for sale yet."</p>
+<p>"I saw Yeehyeon’s nude painting at the gallery and immediately told Awi I wanted to buy it, but he refused, saying it wasn't available for sale yet."</p>
 
 <p>Jane shot him a look, calling it petty for dangling something he wouldn't even give away, but thankfully, Conner brought cocktails from the bar set up on one side of the hall for nuna and me.</p>
 
@@ -745,7 +745,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Two burly employees, responding to Conner's call, rushed over and helped the man up as if escorting him, leading him out of the hall. Conner followed behind them. Some of the people present approached Jane and began discussing the situation with her. Jane nodded and apologized to them on his behalf.</p>
 
-<p>"It's alright. To be honest, everyone was just holding back because he's a big-spending client, but no one here has a reason to blame Mr. Liu. He treated his own artists like prostitutes who could be bought with money... How could we just stand by and listen to that?"</p>
+<p>"It's alright. To be honest, everyone was just holding back because he's a big-spending client, but no one here has a reason to blame Mr. Liu. That man treated Mr. Liu’s artists like prostitutes he could buy. How could we just stand by and listen to that?"</p>
 
 <p>After hearing their explanations, Jane turned her gaze — first to him, still breathing heavily — and then to me standing behind him.</p>
 
@@ -901,7 +901,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>In the voice that spoke those words, relief mingled with a cool displeasure.</p>
 
-<p>I hadn't noticed, of course, but the blond man had likely exposed his pheromones toward me. If he had mistaken me for an Omega and tried to sexually disrupt and seduce me with his pheromones... then it would have been more understandable that he couldn’t control himself and expressed his anger to that extent. After all, hardly anyone could remain composed while witnessing someone seduce or insult the person they like in such a vulgar manner right before their eyes.</p>
+<p>I hadn’t noticed, of course, but the blond man had probably released his pheromones toward me. If he’d mistaken me for an Omega and tried to use them to throw me off balance and seduce me… that made his earlier outburst easier to understand. After all, who could stay composed watching someone try to seduce or insult the person they liked in such a vulgar way, right in front of them?</p>
 
 <p>The man I met at The Face Gallery party in Hong Kong — who, now that I think about it, also had striking blond hair. Even when that man released his pheromones toward me, he had acted roughly. But not to the extent of completely breaking the bounds of restraint the way he was now.</p>
 
@@ -2393,9 +2393,9 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>I shook my head at nuna. She moved closer to sit beside me and took off her sunglasses and held them in her hand.</p>
 
-<p>"They want to email me some information about the organization's nature, operating system, and facilities. It shouldn't hurt just to receive it and look it over first. I haven’t given it to him yet... but it's okay if I give them your email address, right?"</p>
+<p>"Reed wants to email you some information about the organization, how it works, and what facilities it has. It can’t hurt to look it over. I haven’t given him your email address yet… Is it okay if I do?"</p>
 
-<p>"Even if I receive the materials... my opinion won't change."</p>
+<p>"Even if I look it over... it won't change my mind."</p>
 
 <p>Nuna’s clear eyes, which had made such a strong impression on me from our first meeting, stared at me intently. Her short black hair was blowing messily toward her face in the strong wind, but she didn't seem to mind.</p>
 

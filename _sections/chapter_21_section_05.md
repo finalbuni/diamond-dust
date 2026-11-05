@@ -129,9 +129,9 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>I shook my head at nuna. She moved closer to sit beside me and took off her sunglasses and held them in her hand.</p>
 
-<p>"They want to email me some information about the organization's nature, operating system, and facilities. It shouldn't hurt just to receive it and look it over first. I haven’t given it to him yet... but it's okay if I give them your email address, right?"</p>
+<p>"Reed wants to email you some information about the organization, how it works, and what facilities it has. It can’t hurt to look it over. I haven’t given him your email address yet… Is it okay if I do?"</p>
 
-<p>"Even if I receive the materials... my opinion won't change."</p>
+<p>"Even if I look it over... it won't change my mind."</p>
 
 <p>Nuna’s clear eyes, which had made such a strong impression on me from our first meeting, stared at me intently. Her short black hair was blowing messily toward her face in the strong wind, but she didn't seem to mind.</p>
 
