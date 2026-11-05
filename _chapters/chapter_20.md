@@ -29,7 +29,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He felt he should take off his gown and maybe find someone to spend the night with after a long dry spell. The frustration wasn't only sexual, but he thought he should at least resolve what could be resolved.</p>
 
-<p>"Doctor, there's a visitor waiting inside."</p>
+<p>"Ssaem, there's a visitor waiting inside."</p>
 
 <p>A nurse called out to him urgently from the internal medicine desk across from his consultation room, stopping him just as he was reaching for the door handle.</p>
 
@@ -41,7 +41,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He raised his voice and scowled as though he'd heard an enemy had arrived. The nurse's expression clouded at his reaction.</p>
 
-<p>"I was sure he was your friend, so I told him to wait... Did I do something wrong?"</p>
+<p>"I was sure he was your friend, ssaem, so I told him to wait... Did I do something wrong?"</p>
 
 <p>He held up a file and shook his head.</p>
 
@@ -91,7 +91,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Weren't you serious? Calling it dangerous was just a good excuse — I thought you were so smitten with Yeehyeon-ssi you wanted to keep him tucked away in your house. And now here's the great Liu Weikun sitting around talking about pheromones because he got his nose pierced by some Omega? You're insane — "</p>
 
-<p>The man's eyes twisted with contempt. His distorted mouth extinguished the teasing.</p>
+<p>The man's eyes twisted with contempt. His distorted mouth extinguished his agitation.</p>
 
 <p>"I'm talking about Seo Yeehyeon."</p>
 
@@ -209,7 +209,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"I thought it was a mistake. That something had just gone wrong for a moment."</p>
 
-<p>Avoiding eye contact, the man spoke as if making an excuse, and he slammed his fist on the table, raising his voice.</p>
+<p>Avoiding eye contact, the man spoke as if making an excuse, and Inwu slammed his fist on the table, raising his voice.</p>
 
 <p>"So you slept with him two, three more times to confirm that? Knowing it might lead to Changing — whatever that means?"</p>
 
@@ -253,11 +253,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Even if I'm not the only one who can release them to him — the only one whose pheromones can actually affect him… that's me, isn't it?"</p>
 
-<p>Reading the conclusion forming on his face, the man sneered — and that face looked pleased. Though trying to suppress it, he couldn't fully hide the joy of possession that surfaced at the possibility that his pheromones might be the only ones capable of truly affecting Yeehyeon.</p>
+<p>Reading the conclusion forming on Inwu’s face, the man sneered — and that face looked pleased. Though trying to suppress it, the man couldn't fully hide the joy of possession that surfaced at the possibility that his pheromones might be the only ones capable of truly affecting Yeehyeon.</p>
 
 <p>Increasingly unable to recognize the man before him, he shrugged and clicked his tongue in a dry laugh.</p>
 
-<p>"That's right. Unfortunately. If his pheromones had reacted to mine back then and something had happened between me and Yeehyeon-ssi — he wouldn't have ended up tangled with someone like you."</p>
+<p>"That's right. Unfortunately. If he had reacted to my pheromones back then and something had happened between me and Yeehyeon-ssi — he wouldn't have ended up tangled with someone like you."</p>
 
 <p>A cold blue gaze pierced him sharply.</p>
 
@@ -265,11 +265,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He turned away from those eyes — filled with an unstable sense of crisis and aggression he hadn't even seen in the man's boyhood — and reached for his drink. The man's story continued.</p>
 
-<p>"Whether Seo Yeehyeon thinks of himself as a Beta or some rare mutation, it's none of my business anyway, and I'm not the type to be curious about others to that degree."</p>
+<p>"Whether Seo Yeehyeon thinks of himself as a Beta or is some rare mutation, it's none of my business anyway, and I'm not the type to be curious about others to that degree."</p>
 
 <p>"……."</p>
 
-<p>"But I couldn't ignore him. I was watching his every move, I was curious, I wanted to know, I wanted to dig into it — I couldn't help but reach out and touch. If he hadn't been a Ghost or something like that from the beginning — "</p>
+<p>"But I couldn't ignore him. I was watching his every move, I was curious, I wanted to know, I wanted to dig into it — I couldn't help but reach out and touch. If I hadn’t been a Ghost in the first place — "</p>
 
 <p>Having gotten that far, the man shook his head and took another drag. Though he'd only taken two or three puffs, the cigarette had already burned noticeably short on its own.</p>
 
@@ -279,11 +279,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"I suppose you've forgotten — but I said from the very beginning that Seo Yeehyeon was an Omega."</p>
 
-<p>"But you said he wasn't an Omega. You said he's turning into one because of you. So how could you have sensed his pheromones before that? Then what is Seo Yeehyeon? What is he?"</p>
+<p>"But you said he wasn't an Omega. You said he's turning into one because of you. So how could you have sensed Yeehyeon-ssi’s pheromones before that? Then what is Seo Yeehyeon? What is he?"</p>
 
 <p>The man lightly clenched the hand he'd been resting on the table.</p>
 
-<p>"I've asked him that too. More than once. 'What are you?' Though it was more like talking to myself than actually asking him. He doesn't know himself. He still only knows he's a Beta. And the professor in Boston who has watched over me since I was a child — even he knows nothing about a being like Yeehyeon."</p>
+<p>"I've asked him that too. More than once. 'What are you?' Though it was more like talking to myself than actually asking him. He doesn't know himself. He still only knows he's a Beta. And the professor in Boston who has watched over me since I was a child — even the professor knows nothing about such a being."</p>
 
 <p>Holding his glass, the man slowly turned it in his hand, biting and releasing his lower lip hard.</p>
 
@@ -299,7 +299,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He couldn't finish the sentence and rubbed his face roughly with both hands.</p>
 
-<p>Having accepted the reality of his friend's secret and the absurdity of what he'd done, the prospect of informing Yeehyeon of the truth now felt like a wall he had no idea how to scale. The man had come to him precisely for that. There was no other reason to suddenly share a secret he'd kept all this time.</p>
+<p>Having accepted the reality of his friend's secret and the absurdity of what he'd done, the prospect of informing Yeehyeon of the truth now felt like a wall he had no idea how to scale. The man had probably come to him for that. There was no other reason to suddenly share a secret he'd kept all this time.</p>
 
 <p>"I won't let it come to that. He's not — that fragile."</p>
 
@@ -327,7 +327,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>An utterly mundane and peaceful voice, completely at odds with the man who had just been wearing an expression as though he wanted to tear his own hair out. Conversely, he frowned and stared at the man's back in disbelief.</p>
 
-<p>"No, it's fine. Go ahead. It was a bit stuffy, so I stepped outside for a moment. I'm eating here. Did you have dinner? …You didn't leave any? …Good. I'm glad the changed diet seems to be helping. I might be a bit later. I'll message you when I'm on my way."</p>
+<p>"No, it's fine. Go ahead. It’s a relaxed gathering, so I stepped away for a moment. I'm eating here. Did you have dinner? …You didn't leave any? …Good. I'm glad the changed diet seems to be helping. I might be a bit later. You might be working, so I'll leave you a message when I'm on my way."</p>
 
 <p>The person on the other end was Yeehyeon, and the man had apparently told him it was a dinner appointment with a client. He spoke without a hitch, his voice even tinged with laughter.</p>
 
@@ -361,7 +361,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He didn't need the man to declare it so gravely — he already knew. He had sensed the man's unusual interest in Yeehyeon from the very beginning and had anticipated that Yeehyeon might be able to break through the walls the man had built around himself and draw out his full attention. He simply hadn't expected that seriousness to flow in this direction.</p>
 
-<p>"Changing someone's body without their knowledge is what you call seriousness? And then, later, offering a pitiful excuse — that your pheromones wanted to bond with him as an Alpha and Omega? That your precious Alpha nature desired Seo Yeehyeon?"</p>
+<p>"Changing someone's body without their knowledge is what you call seriousness? And then, later, offering a pitiful excuse — that your pheromones wanted to bond with him as an Alpha and Omega? That your precious Alpha nature and pheromones desired Seo Yeehyeon?"</p>
 
 <p>"……."</p>
 
@@ -395,7 +395,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Ha. He had nothing left to say, so he simply kept shaking his head. The sight of this man readily acknowledging a relationship to someone else, without the slightest aversion to it, was foreign. He never spoke about his purely physical partners one way or another.</p>
 
-<p>"Usually it's loss of appetite, heartburn, abdominal discomfort — and depending on the person, nausea or vomiting. A few weeks ago those symptoms started. He's barely been eating."</p>
+<p>"Usually it's loss of appetite, heartburn, abdominal discomfort — and depending on the person, nausea or vomiting. Those symptoms seem to have started a few weeks ago. He's barely been eating."</p>
 
 <p>"Of course his stomach hurts — his insides are changing!"</p>
 
@@ -427,7 +427,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Faced with the most rational, and therefore perhaps most irresponsible, answer, the man released his grip on his hair and bit his lower lip.</p>
 
-<p>Then, like a severe addict, he reached for another cigarette. It was the first time he had seen the man smoke this continuously. But after lighting it, he spent more time holding it in his hand than bringing the filter to his lips. He simply needed something — anything — to cling to.</p>
+<p>Then, like a severe addict, he reached for another cigarette. It was the first time he had seen the man smoke this continuously. But after lighting it, he spent more time holding it in his hand than bringing the filter to his lips. He seemed simply to need something — anything — to cling to.</p>
 
 <p>Watching the thin bluish smoke curl from the cigarette in his hand, the man's lips were dry and cracked.</p>
 
@@ -435,13 +435,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>As if remembering something, he drew deep from the cigarette and flicked off the lengthening ash before continuing.</p>
 
-<p>"Whatever Seo Yeehyeon actually is, the fact that he emits pheromones that stimulate mine makes him functionally the equivalent of a superior Golden Omega compared to me. I can't resist those pheromones, and I can't control my own. You, who have never been exposed to pheromones of that intensity, wouldn't understand. Convincing a Beta of their real effects is probably as impossible as the theory itself. I felt an immense gap between encountering it in theory and actually experiencing it firsthand. Even though he isn't an Omega I've had a long connection with — the overwhelming sensation of being subjugated to him, the impulse for my entire life to rearrange itself around him and for all my energy to be spent on him — I guarantee you, no Alpha can refuse that."</p>
+<p>"Whatever Seo Yeehyeon actually is, the fact that he emits pheromones that stimulate mine makes him functionally the equivalent of a superior Golden Omega compared to me. I can't resist those pheromones, and I can't control my own. You, who have never been exposed to pheromones of that intensity, wouldn't understand. Convincing a Beta of their real effects is probably just as impossible. I felt an immense gap between encountering it in theory and actually experiencing it firsthand. Even though he isn't an Omega I've had a long connection with — the overwhelming sensation of being subjugated to him, the impulse for my entire life to rearrange itself around him and for all my energy to be spent on him — I guarantee you, no Alpha can refuse that."</p>
 
-<p>His voice carried the conviction that if he couldn't do it, no Alpha could. He might have been right. He was the most exceptional Alpha.</p>
+<p>His voice carried the conviction that if he couldn’t do it, no Alpha could. Perhaps he was right. He was the finest Alpha, after all.</p>
 
 <p>But even having lived as an Alpha himself, he couldn't readily accept that. He tightened his grip on his glass and shook his head.</p>
 
-<p>"Even if it meant physically removing yourself, you should have separated yourself from Yeehyeon-ssi in that situation."</p>
+<p>"Even if it meant keeping him physically far away from you, you should have removed Yeehyeon-ssi from that situation."</p>
 
 <p>"……."</p>
 
@@ -471,7 +471,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Take what I said earlier as a — status report from a friend, separate from this request."</p>
 
-<p>A status report from a friend, right. It was a plea disguised as a statement — meaning: <em>he matters this much to me, so please grant what I'm asking.</em></p>
+<p>A status report from a friend, right. It was a threat disguised as a plea — meaning: <em>he matters this much to me, so please grant what I'm asking.</em></p>
 
 <p>He turned away and tilted his glass, and the man, catching his breath in pauses, spoke in a parched voice.</p>
 
@@ -501,7 +501,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>The rich, deep, sensual red wine and the cream cheese crackers I'd clumsily arranged on a plate were gifts hyung had brought. He'd worn a troubled expression and apologized that they didn't pair properly with the wine, but there was no way I, who barely knew the taste of wine, would quibble about the right pairing.</p>
 
-<p>I was sitting on a drafting chair I'd pulled up across from the sofa I'd offered him, and I set my glass on the table and looked across at him.</p>
+<p>I was sitting on a drafting chair I'd pulled up across from the sofa I'd offered hyung, and I set my glass on the table and looked across at hyung.</p>
 
 <p>"Since you moved into this place, you haven't seen me once, Yeehyeon-ssi."</p>
 
@@ -513,7 +513,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He had once said he felt jealous even of a childhood friend — and though that friend was probably Inwu hyung, strictly speaking, he had never told me not to see hyung.</p>
 
-<p>"Ah… no. Suddenly a lot of things were decided at once, and my surroundings changed, so I was just overwhelmed. And I've been trying to focus on my painting. Director Liu told me I could go out or invite people whenever I wanted, but — "</p>
+<p>"Ah… no. Suddenly a lot of things were decided at once, and my surroundings changed, so I was just overwhelmed. And I've been trying to focus on my painting. Director told me I could go out or invite people whenever I wanted, but — "</p>
 
 <p>My long, rambling explanation was cut short by hyung's dry cough.</p>
 
@@ -543,7 +543,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>It wasn't hyung's action that cut me off this time. It was the sound of the keypad on the thick iron door leading to the parking corridor being pressed from outside. Inwu hyung, who had just brought his wine glass to his lips, looked at me with a puzzled expression.</p>
 
-<p>"Ah… Director Liu must be here."</p>
+<p>"Ah… Director must be here."</p>
 
 <p>Inwu hyung's eyes narrowed ever so slightly, but before I could think anything of it, the door was pulled open from outside.</p>
 
@@ -561,7 +561,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"You're the landlord, aren't you. This is Yeehyeon-ssi's studio — is it really all right to just press the code and walk in whenever you like? Isn't that a bit much of an invasion of privacy?"</p>
 
-<p>"That's not it. I just — told him to come and go freely. I felt bad that Director Liu kept having to go back and forth to the garden because of me…"</p>
+<p>"That's not it. I just — told him to come and go freely. I felt bad that Director kept having to go back and forth to the garden because of me…"</p>
 
 <p>Hyung didn't point it out openly this time, but his eyes, raised above the rim of his glass, were looking at me — making excuses for him again — with undisguised curiosity.</p>
 
@@ -577,7 +577,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Where are you going?"</p>
 
-<p>"The wine — I was going to get a glass for Director Liu too."</p>
+<p>"The wine — I was going to get a glass for Director too."</p>
 
 <p>Hyung, sipping his wine, was casting a sideways glance at my wrist held in his hand, but Inwu hyung had probably already noticed the changed atmosphere between him and me.</p>
 
@@ -615,11 +615,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Hyung, slipping back into his jacket, smiled brightly as though oblivious to the current flowing between him and me.</p>
 
-<p>"The one I asked you to recommend for the bedroom in my new place — the piece of mine that you chose."</p>
+<p>"The one I asked you to recommend for the bedroom in my new place — the piece of mine that Yeehyeon-ssi chose."</p>
 
 <p>Of course I remembered. I nodded.</p>
 
-<p>"You might already know this, Yeehyeon-ssi, but I never did sell that painting. It's hanging above my headboard now. I used to find it difficult to look at my own work — it felt like looking at the dregs of a self I refused to reclaim. But after you said it was 'honesty about one's own dishonesty,' my paintings started to look familiar to me."</p>
+<p>"You might already know this, Yeehyeon-ssi, but I never did sell that painting. It's hanging above my headboard now. I used to find it difficult to look at my own work — it felt like looking at the dregs of a self I refused to reclaim. But after Yeehyeon-ssi said it was 'honesty about one's own dishonesty,' my paintings started to look familiar to me."</p>
 
 <p>Having walked around the table, hyung placed his hand on my right shoulder and gave it a light squeeze. He, who had been leaning forward with his elbow on his thigh, looked up crookedly and fixed a stare on hyung's hand.</p>
 
@@ -651,7 +651,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He quietly set down the wine bottle and turned to look at me, standing awkwardly a few steps away and rubbing my arms. His face still looked like porcelain on the verge of shattering. I could feel the immense effort he was making to prevent the cracks from becoming full destruction.</p>
 
-<p>"And it was also almost time for Director Liu to finish work — "</p>
+<p>"And it was also almost time for Director to finish work — "</p>
 
 <p>"Why are you making excuses?"</p>
 
@@ -671,7 +671,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He tilted his chin up and tipped the bottle back quickly — more like pouring it down than drinking.</p>
 
-<p>"At least let me be consulted about who Seo Yeehyeon's paintings go to from now on."</p>
+<p>"From now on, at least talk it over with me before deciding who Seo Yeehyeon-ssi’s paintings go to."</p>
 
 <p>His face was contorted as though forcing out words that were hard to say. If his low mood came from jealousy, and if that jealousy extended to the paintings too, then maybe mentioning I had no intention of selling to hyung would help a little.</p>
 
@@ -693,11 +693,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>The violent emotions that rose all at once were so unfamiliar they left me bewildered. He acted annoyed, acted inconvenienced, but in the end he was going to give Shushu everything she asked for. I wanted to attack him with cold words and a frozen expression.</p>
 
-<p>Shushu's relationship with him had bothered me for a long time — I had even confessed once that I wished he wouldn't do things like carrying Yuni nuna on his back. But my feelings before hadn't been this ugly. Feeling as though my entire face and chest were scorched and shriveled, grotesquely twisted like melted, punctured plastic, I rubbed the corner of my mouth and looked away from him.</p>
+<p>Shushu's relationship with him had bothered me for a long time — I had even confessed once that I wished he wouldn't do things like carrying nuna on his back. But my feelings before hadn't been this ugly. Feeling as though my entire face and chest were scorched and shriveled, grotesquely twisted like melted, punctured plastic, I rubbed the corner of my mouth and looked away from him.</p>
 
 <p>He stopped in the middle of the empty space and said:</p>
 
-<p>"You said you hadn't heard about the party. You said you hate parties and photo shoots — now we're back to square one. How do you plan to break into a new market without any promotion? I'm sorry, but tonight's dinner — you'll have to handle it on your own."</p>
+<p>"Shushu says there was no mention of a party, and hates parties and photo shoots — now we're back to square one. How do you plan to break into a new market without any promotion? I'm sorry, but tonight's dinner — you'll have to handle it on your own."</p>
 
 <p>At that definitive statement about going to see Shushu, my gaze snapped to him. Watching his profile as he irritably swept his hair back and urgently sent a message somewhere, my heartbeat gradually quickened. The rain fell irregularly — sometimes gentle, sometimes stronger — amplifying my anxiety.</p>
 
@@ -763,7 +763,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>I strongly shook my head, pushing the door — which he hadn't opened all the way — wider with my shoulder.</p>
 
-<p>"I was already furious just seeing you drinking with someone else. And then to show him your painting — the painting that might be your first work as Seo Yeehyeon — and to leave it in his hands, somewhere I wasn't — "</p>
+<p>"I was already furious just seeing you drinking with someone else. And then to show him your painting — the painting that might be your first work as the painter Seo Yeehyeon — and to leave it in his hands, somewhere I wasn't — "</p>
 
 <p>He stopped speaking and drew a deep breath.</p>
 
@@ -773,7 +773,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>The hand that had reflexively grabbed my side slowly wrapped around my waist. Now it was my turn to be childish, pathetic, and honest.</p>
 
-<p>"Don't go. Being alone with him — I don't like it."</p>
+<p>"Don't go. You being alone with that person — I don't like it."</p>
 
 <p>As if my bothersome, whining words were a beautiful and noble confession, he looked down at me with an expression of deep feeling.</p>
 
@@ -807,11 +807,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>From below to above, above to below, deeper between my legs. The hand trying to build my arousal was putting in more force than usual.</p>
 
-<p>"<em>Ah. Huff, ugh.</em>"</p>
+<p>"<em>Ah. Haah, ugh.</em>"</p>
 
 <p>The rough friction of his palm against me conveyed something raw — the bewilderment of not being able to contain the fierce desire that had ignited all at once, and the desperate need to pour it out onto the person in front of him.</p>
 
-<p>I didn't dislike this — his excitement uncontrolled and irregularly spilling out from within the composure built on reason, restraint, and practiced skill. I felt a petty, secret pleasure watching him lose his balance and his pattern because of me.</p>
+<p>I didn't dislike this — his excitement uncontrolled and irregularly spilling out from within the composure built on reason, restraint, and practiced skill. I felt a petty, secret pleasure gauging the depth of his affection as I watched him lose his balance and his pattern because of me.</p>
 
 <p>To make it easier for the hand trembling between my legs — almost shaking from the effort of holding himself back — I lowered my hips and widened my stance. In that small motion, I became newly conscious that we were truly beginning to have sex, and at the same time a sharp tingle shot up the back of my neck.</p>
 
@@ -827,37 +827,37 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Hearing my own words confirmed through his mouth made my gaze wander in embarrassment. It suddenly seemed strange that I felt more ashamed of what I'd said earlier than of the hand now moving against me beneath my pants.</p>
 
-<p>"<em>Hah, uh.</em>"</p>
+<p>"<em>Hngh, ngh...</em>"</p>
 
 <p>When I avoided his eyes without answering, the hand stroking my cock became more explicit. His lips moved from my nose to my cheek and covered my ear, exhaling heat that kept blurring my mind.</p>
 
-<p>"Tell me you want to monopolize me — so much that you want to separate me from the rest of the world."</p>
+<p>"Tell me you want me all to yourself… so much that you want to shut me away from the rest of the world."</p>
 
-<p>"You don't… dislike that, do you?"</p>
+<p>"You wouldn't… mind that?"</p>
 
-<p>I finally managed to ask, biting and releasing my lip, and a faint laugh touched his lips at my ear. A self-deprecating sound.</p>
+<p>Biting my lip and releasing it, I finally managed to ask. He gave a faint, self-mocking laugh against my ear.</p>
 
-<p>"Why would I dislike it."</p>
+<p>"Why would I mind?"</p>
 
 <p>"……."</p>
 
-<p>"If I want to do that to Seo Yeehyeon, there's no way I'd dislike it done to me."</p>
+<p>"That's what I want to do to Seo Yeehyeon-ssi. Why would I mind if you wanted the same thing with me?"</p>
 
-<p>His face — tangled with extreme desire that ran directly counter to lust and excitement — was tightly contorted, as if he were in pain.</p>
+<p>His face was contorted as though in pain, his expression a tangle of arousal, lust, and a psychological craving taken to extremes.</p>
 
-<p>The possessive words he wanted to hear from me — weren't they actually the words he wanted to say to me?</p>
+<p>Perhaps the possessive words he wanted to hear from me were really the words he wanted to say to me.</p>
 
-<p>While I turned that thought over, the hand working at the front of my pants withdrew. Not having received an answer, he pushed his frustration onto me. This time he thrust his hand inside my underwear from the back, pulling my body flush against his and creating friction with his entire body.</p>
+<p>As I studied his face with that thought in mind, he withdrew the hand that had been working at the front of my pants. Still waiting for an answer, he pressed against me with restless urgency. This time, he abruptly slipped his hand into the back of my underwear and pulled me flush against him, rubbing his whole body against mine.</p>
 
 <p>His straining, sensual physique locked me in tight. The solid mass of his shoulders, chest, and arms. The hot firmness of his erection. The raw, vivid sexuality flowing from a body built tight with appeal — felt even through clothing.</p>
 
 <p>"Tell me. That you want me as much as I want you. That it's the same. Tell me you won't run."</p>
 
-<p>It wasn't that I lacked such desire and was delaying out of uncertainty.</p>
+<p>It wasn't that I lacked such desire and was delaying my answer, as he feared.</p>
 
 <p>I held his large body tightly and writhed my hips within the arms holding me, pressing my body against his. I could be bold. I could be honest. It wasn't so hard anymore.</p>
 
-<p>"I do… So much so that I feel unfamiliar to myself with this childish stubbornness — I want you a lot too, Representative-nim."</p>
+<p>"I do… So much so that I feel unfamiliar to myself with this childish stubbornness — I want you a lot too, Director."</p>
 
 <p>"……."</p>
 
@@ -883,7 +883,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"<em>Haa, ugh… mmm.</em>"</p>
 
-<p>The hand layered over mine gradually quickened. My back arched from the pleasure of grinding my soaked groin against his. Between wet skin and palm, a squelching sound — reminiscent of penetration — echoed. He bit my nape hard enough that his teeth seemed ready to break through, but it felt thrilling rather than painful.</p>
+<p>His hand over mine moved faster and faster. My hips jerked at the pleasure of rubbing my soaked groin together with him. The wet friction between skin and palm made squelching sounds that brought penetration to mind. He bit hard at the back of my neck, as though his teeth might pierce the skin, but it was more thrilling than painful.</p>
 
 <p>"Being this lewd — what am I going to do with you."</p>
 
@@ -913,21 +913,21 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"……."</p>
 
-<p>Knowing where his next target would be as he mapped out each sensitive point of my body, I swallowed with a shameless anticipation. The hand that had been stroking my cock moved past the back of my hand — which had gone still inside my underwear — and delved deeper. My heel lifted at the hand pressing firmly and rubbing in deliberate circles against my entrance.</p>
+<p>Knowing where his next target would be as he mapped out each sensitive point of my body, I swallowed with a shameless anticipation. The hand that had been stroking my cock moved past the back of my hand — which had gone still inside my underwear — and delved deeper. My heels shifted as the back of his hand deliberately rubbed and pressed against my entrance.</p>
 
 <p>"And here too."</p>
 
-<p>"<em>Ugh, ngh… nnh.</em>"</p>
+<p>"<em>Ugh, ngh… hngh.</em>"</p>
 
 <p>At the sensation of his finger pressing and circling precisely over my hole, I buried my forehead in his shoulder, unable to stay still. I couldn't stop my hips from rocking on their own.</p>
 
 <p>"Pops into my head out of nowhere. Seriously. It's inconvenient."</p>
 
-<p>As I pushed off the floor with my toes and tensed my lower body, he narrowed his brow — not even squeezing my cock — and let out a breath like a groan of admiration.</p>
+<p>As I pushed against the floor with my toes and tensed my lower body, his brow furrowed and he let out a breathy <em>ah…</em>—even though I wasn't tightening around him.</p>
 
 <p>"Take responsibility, Seo Yeehyeon. You will, right? Huh?"</p>
 
-<p>"<em>Ugh, ngh… mnh.</em>"</p>
+<p>"<em>Ugh, ngh… hngh.</em>"</p>
 
 <p>The moment I shuddered at his finger pushing deep inside, it withdrew — leaving only the edge of his fingernail. Then, straightened, it thrust back in deep.</p>
 
@@ -937,13 +937,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Just his fingers moving in and out quickly was enough to almost send me over the edge. I let my mouth fall open, spilling out a moan I couldn't contain, and grabbed his arm with the hand I'd pulled from my underwear. My hand, covered in fluid, was slippery everywhere. Every time his hand — undoubtedly just as wet — probed inside, an explicit wet sound rang out. A hot, aroused tongue coiled around my ear. It felt as though he were gripping my very sense of hearing and licking it.</p>
 
-<p>"So soft. Why is it so wet here too. Listen to the sounds coming from you, Seo Yeehyeon — from a 'Beta.'"</p>
+<p>"So soft. Why is it so wet here too. Listen to the sounds coming from Seo Yeehyeon’s ‘Beta.’"</p>
 
-<p>"<em>Haa, ah… hnh.</em>"</p>
+<p>"<em>Haa, ah… hngh.</em>"</p>
 
 <p>I bit my lower lip and shook my head wildly. At his whisper calling that place of mine a 'Beta,' a maddening excitement seething inside me was suddenly overturned.</p>
 
-<p>Beta. Alpha. Omega. Those words — as common as 'man' or 'woman,' used every day without a second thought — somehow felt like private shorthand for the hole I used with him during sex, a second organ made only for him. A vulgar pleasure rolled through me, the same kind I felt whispering dirty things to him in bed.</p>
+<p>Beta. Alpha. Omega. Words as ordinary and commonplace as “man” and “woman.” Yet somehow “Beta” sounded like… sexual slang for the opening I used during sex with him, calling it my second sexual organ. The same vulgar thrill I felt when we whispered dirty things to each other in bed swept through me.</p>
 
 <p>At his husky voice, mixed with excited breath, whispering about what he wanted to do to my Beta, I unknowingly clenched — squeezing his finger tight. Inside, his finger stirred my inner walls as though he absolutely could not stand it.</p>
 
@@ -977,15 +977,15 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>I thought about whether I felt something sordid in the way he rubbed his fingers against mine inside my wet inner walls — and the answer came immediately, without need for deep thought. If the other person had not been him, I never would have agreed to any of this. Because it was him, every secret event between us could become a secret contained inside our relationship, one that left no bitter aftertaste.</p>
 
-<p>Groaning at the sensation of his finger pressing firmly against my inner walls, I nodded. He kissed my exposed forehead, slipped his arm under my armpit to hold my back, buried his lips near my ear, and whispered.</p>
+<p>Groaning at the sensation of him pressing my finger firmly against my inner walls, I nodded. He kissed my exposed forehead, slipped his arm under my armpit to hold my back, buried his lips near my ear, and whispered.</p>
 
 <p>"This is it. The place I go crazy in every day when I'm inside Seo Yeehyeon."</p>
 
-<p>"<em>Ah, hnh.</em>"</p>
+<p>"<em>Ah, hngh.</em>"</p>
 
 <p>The sensation of his movement inside me — felt simultaneously by my finger and by the inner walls themselves — was far more raw.</p>
 
-<p>"Because I'm inside Seo Yeehyeon together with Seo Yeehyeon right here — it's really…"</p>
+<p>"Because I’m inside here together with Seo Yeehyeon — it's really…"</p>
 
 <p>He trailed off, lowering his head slightly, biting his lower lip and smiling. That smile, which looked almost shy despite the content of his words, made something stir in me without warning. I wanted the man in front of me. I pushed my own finger deeper inside, responding to his rhythm on my own. The temperature in his eyes as he watched me instantly soared.</p>
 
@@ -1075,7 +1075,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Conscious of being spread open by him, I bit down on my lower lip. His right hand slid down my inner thigh toward my groin. The hot palm traced the path the fluid I had leaked earlier had taken.</p>
 
-<p>He slid his hand down between my cheeks, and rubbed against the sensitive skin there.</p>
+<p>He slid his hand down between my cheeks, and rubbed my wet entrance.</p>
 
 <p>"<em>Ngh… mnh.</em>"</p>
 
@@ -1085,13 +1085,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Even lying down, I was breathless.</p>
 
-<p>My cock pressed against my lower belly, and my sweat-damp chest rose and fell rapidly. The moment his cock changed direction, slid over the crease of my groin, and pressed firmly downward, I widened the space between my knees without being asked. I saw his eyebrows twitch as he looked down.</p>
+<p>My cock pressed against my lower belly, and my sweat-damp chest rose and fell rapidly. The moment his cock changed direction, slid over the cleft between my testicles, and pressed firmly downward, I widened the space between my knees without being asked. I saw his eyebrows twitch as he looked down.</p>
 
 <p>The desire that had been building since before we entered the bedroom had reached its peak. Any concern about looking ridiculous was already beyond consideration. I stroked the area around my cock and looked up at him with a gaze that was unmistakably seductive. In the room darkened earlier than usual by the rain — lights still off — his blue eyes glittered.</p>
 
 <p>I hadn't known I had this side to myself, but there were moments when his reactions to my sudden impulses came back to me as a thrilling pleasure.</p>
 
-<p>Like now, when he was focused between my legs wearing the face of an inexperienced, late-blooming boy seeing another person's body for the very first time.</p>
+<p>Like now, when he was focused between my legs wearing the face of an inexperienced, late-blooming boy seeing another person's private parts for the very first time.</p>
 
 <p>"……."</p>
 
@@ -1101,7 +1101,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"<em>Nnnh, ngh… ah.</em>"</p>
 
-<p>Just the sensation of his swollen head settling against my entrance and pressing gently was enough to make me arch and grab the sheets. He raised an arm to wipe the sweat from his forehead haphazardly, then stroked my heaving lower belly and clicked his tongue.</p>
+<p>Just the sensation of his swollen head settling against the entrance to my Beta and pressing gently was enough to make me arch and grab the sheets. He raised an arm to wipe the sweat from his forehead haphazardly, then stroked my heaving lower belly and clicked his tongue.</p>
 
 <p>"I used to mock that nonsense — the idea that every man but me is a wolf — and think it was only insecure, small-minded people who said things like that."</p>
 
@@ -1139,7 +1139,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>If we were talking about anxiety caused by someone's appeal, I was confident I could claim the world number one position in that category. For the very person who had made me number one to now be talking about his own anxiety — I genuinely couldn't relate.</p>
 
-<p>"Are you saying you can't agree right now that Seo Yeehyeon is sexy?"</p>
+<p>"Are you saying you can't agree right now about Seo Yeehyeon’s appeal?"</p>
 
 <p>He narrowed his eyes and thrust sharply, driving deeper. I had to swallow my moan and cling to our joined hands. He pressed my hands into the sheet and covered my body with his.</p>
 
@@ -1157,9 +1157,9 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He told me I was good.</p>
 
-<p>The burning, almost scorching sensation as he forced my tightly clenched entrance open. The dense pressure, like being thoroughly worked through as he drove into the snug inner walls.</p>
+<p>The scorching sensation, as though his head were burning, when he forced my tightly clenched entrance open. The dense pressure, as though his entire penis were being chewed, when he pushed into the snug inner walls.</p>
 
-<p>And as if mocking that resistance and tightness — as the penetration repeated, as his cock rubbed against my inner walls and the prominent ridge of his head dragged over that spot inside, again and again — he whispered about how my Beta gradually softened and opened and grew wet, and finally clung to him with a passionate, sticky honesty.</p>
+<p>And as if mocking that resistance and tightness — as the penetration repeated, as his cock rubbed against my inner walls and the prominent ridge of his head dragged over my sweet spot, again and again — he whispered about how my Beta gradually softened and opened and grew wet, and finally clung to him with a passionate, sticky honesty.</p>
 
 <p>Listening to all those explicit words, I moaned as if losing my mind, shook my head, rolled my hips, and pressed against him. He soaked my insides thoroughly with his own pre-cum, driving deeper with the loud, slick sounds of sex.</p>
 
@@ -1241,11 +1241,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>No — the person on the screen looked far more sexually heightened than the real me felt. The self I experienced still seemed to hesitate, to hold a defensive stance — but the self on the screen looked explicit, bold, as though thoroughly enjoying the situation. Which one was real?</p>
 
-<p>My own appearance — hazy, unfocused eyes, sucking his tongue, a moan rising from the back of my throat — was more foreign to me than a stranger I might have met for the first time today.</p>
+<p>My own appearance — hazy, unfocused eyes, having my tongue sucked by him, a moan rising from the back of my throat — was more foreign to me than a stranger I might have met for the first time today.</p>
 
 <p>The glistening of the red flesh between his lips and my teeth — not fully swallowed — was more intense than the first pornography I had accidentally stumbled upon with a few clicks in my boyhood.</p>
 
-<p>"<em>Hh, hnh. Mm. Mmm… mmh.</em>"</p>
+<p>"<em>Haa, hngh. Mmm… mmh.</em>"</p>
 
 <p>When he pushed the phone slightly farther away, his face appeared beside mine on the screen.</p>
 
@@ -1289,13 +1289,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"<em>Hah, ah… hh, mph.</em>"</p>
 
-<p>His tongue overlapped my finger. Capturing both his fingers and his tongue tangled around one small nipple on camera, he was entirely unembarrassed by his own presence in the frame.</p>
+<p>His tongue overlapped my finger. Capturing my finger and his tongue tangled around one small nipple on camera, he was entirely unembarrassed by his own presence in the frame.</p>
 
 <p>Looking back and forth between the real him and the him on the screen, I slowly pushed the finger that had been teasing his tongue — bending the nipple this way and that — into his mouth. He glanced up at me and opened wide, taking both my nipple and the tip of my finger inside at once. My back arched and my hips lifted at the sensation of my finger being rolled inside his mouth alongside the hardened nub.</p>
 
 <p>My lower half — stirred open and left empty — kept twitching, wanting to be filled tight again. Whether I wanted to admit it or not, I could no longer reach a satisfying release through ejaculation alone.</p>
 
-<p>"<em>Ugh, hnh… uu… mnh.</em>"</p>
+<p>"<em>Ugh, hngh… huu… mnh.</em>"</p>
 
 <p>So much pre-cum had already flowed out that I wondered whether any semen would even come when I finally came. My cock was starting to ache. How could he stay hard this long and hold back from coming? Was this, too, some unique sexual ability of a Golden Alpha?</p>
 
@@ -1319,7 +1319,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Now he was using his tongue outside his lips to toy with my nipple — capturing the entire areola, slightly reddened and slick with saliva, along with his own face on screen.</p>
 
-<p>"Seo Yeehyeon."</p>
+<p>"Seo Yeehyeoon…"</p>
 
 <p>His eyes, looking up at me from my chest, were hazy. He drove his hips heavily — pounding into me — then lifted his head and pressed his lips against mine with a soft, damp sound before pulling away.</p>
 
@@ -1327,7 +1327,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>As if confirming his own words, he turned my chin to face the screen.</p>
 
-<p>"<em>Ah. Uuuh, hnh.</em>"</p>
+<p>"<em>Ah. Ughhh, hngh.</em>"</p>
 
 <p>The force of his thrusts — accelerating now — shook me violently. What was visible on the screen was only my face, shaking and moaning; not even the place where we joined, where fluid would have been leaking and squelching around the base of his cock. And yet it instantly evoked sex itself.</p>
 
@@ -1401,15 +1401,15 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Leaving only as much length as my hand could touch, his fast, driving movements made my wet inner walls throb and pulse.</p>
 
-<p>"<em>Ahhh… ah… hnh, hup.</em>"</p>
+<p>"<em>Ahhh… ah… hngh, ugh.</em>"</p>
 
-<p>"Your Alpha — what is he doing to Seo Yeehyeon the Beta right now? Huh?"</p>
+<p>"Your Alpha — what is it doing to Seo Yeehyeon’s Beta right now? Huh?"</p>
 
 <p>My tender inner flesh, rubbed and worked to extreme sensitivity, craved to be driven harder, to the very limit — urging me to give him the answer he wanted.</p>
 
 <p>I clawed at his arm on my shoulder, and from below I pulled the base of his cock inward as I trembled.</p>
 
-<p>"Sex… <em>hah, ugh.</em> Having sex. Your Alpha, Representative-nim, here, in my Beta — sex…"</p>
+<p>"Sex… <em>hah, ugh.</em> Having sex. Your Alpha, Director, here, in my Beta — sex…"</p>
 
 <p>He cursed and lunged — kissing me savagely until my lips were crushed. For him, it was clumsy. Messy. But for that very reason, his unrefined, undisguised desire came through without barrier.</p>
 
@@ -1419,7 +1419,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>His confession — rational thought abandoned, obsessively, vulgarly fixated on sex — layered stimulation on stimulation, driving me forward. He was undressing me with words even though I was already naked. I was the one losing my mind.</p>
 
-<p>"<em>Hah, ah! Ah, hnh.</em>"</p>
+<p>"<em>Hah, ah! Ah, hngh.</em>"</p>
 
 <p>With the sensation of his cock pulsing inside me, I sensed knotting approaching. That feeling — building like the primal, fear-inducing theme of <em>Jaws</em> — made me grab the sheet with both hands and rock my hips wildly.</p>
 
@@ -1437,11 +1437,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"It's all right. Breathe, Seo Yeehyeon."</p>
 
-<p>"<em>Ngh, ah… Representative-nim… Repre…sentative-nim.</em>"</p>
+<p>"<em>Ngh, ah… Director… Di…rector.</em>"</p>
 
 <p>Lost in the ecstatic, dreamlike pleasure of coming while knotted, I reached for him like someone losing their mind. He interlaced his fingers with mine — with the hand not holding the phone — and pressed them to the sheet, slowly grinding our joined lower bodies together.</p>
 
-<p>"Hey, it's all right. Your Representative-nim is right here. It's all right. You know what this is. It's knotting."</p>
+<p>"Hey, it's all right. Your Director is right here. It's all right. You know what this is. It's knotting."</p>
 
 <p>While gently rocking inside me even after I had already come, and meticulously recording through the screen the physical changes the knotting was causing in me, he whispered and asked me to call him by his name.</p>
 
@@ -1513,7 +1513,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>I had to lie face-down on the sheet for a long time, like someone returning home after hours of intense physical effort. No — it felt less like exercise and more like having been severely beaten. My insides trembled, and my skin throbbed everywhere.</p>
 
-<p>Even after the knotting subsided, he didn't pull away immediately. He lay heavy on top of me for a long time, caressing slowly, stroking my hair, and kissing my face and upper body. Only after my eyes had regained some focus and my breathing had stabilized did he withdraw his still-warm cock with a languid groan and move off me.</p>
+<p>Even after the knotting subsided, he didn't pull away immediately. He lay heavy on top of me for a long time, caressing slowly, stroking my hair, and kissing my face and upper body. Only after my eyes had regained some focus and my breathing had stabilized did he withdraw his still-hard cock with a languid groan and move off me.</p>
 
 <p>Unlike me, who was a complete wreck, he showed no signs of exhaustion. He left the bedroom and returned with a towel and water. The outline of his erection was clearly visible through the towel wrapped around his waist. Despite having knotted twice in quick succession with only a brief interval between, sex had once again failed to quiet him.</p>
 
@@ -1555,7 +1555,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>I didn't feel any need to deny it. Because it was true. Responding to the light kisses he pressed like someone savoring an afterglow, I let out a leisurely sound from deep in my throat. Then, suddenly, the thought that the first visual record we had of ourselves together was a sex tape made me feel a little hollow. I didn't feel guilt or discomfort about those videos — but separately from that, I wanted at least one piece of evidence that our relationship wasn't only about sex. It was an impulse without context.</p>
 
-<p>"Representative-nim."</p>
+<p>"Director."</p>
 
 <p>"……."</p>
 
@@ -1629,7 +1629,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He leaned his elbow on the edge of the tub and tilted his head, twirling a strand of hair around his finger. His dissatisfied expression looked like that of a teenage boy — I thought I'd like to capture this exact look in a photograph, but my phone, with its nearly dead battery, was on the bed.</p>
 
-<p>"He said he wanted to buy it, but I told him I didn't think it was at that level yet. For now."</p>
+<p>"Hyung said he wanted to buy it, but I told him I didn't think it was at that level yet. For now."</p>
 
 <p>He let go of the hair and straightened his head.</p>
 
@@ -1639,7 +1639,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He said he worried about me getting hurt outside because I seemed too gentle, too accustomed to keeping my mouth shut even when misunderstandings led to being taken advantage of.</p>
 
-<p>But I wasn't the gentle, kind kind of person who stayed silent out of goodness. I was simply a coward — more accustomed to resignation than most, conditioned to avoid situations where problems might surface. A coward who, instead of telling the person I liked who I really was, silently drank beer and endured his worried gaze.</p>
+<p>But I wasn't the gentle, kind kind of person who stayed silent out of goodness. I was simply a coward — more accustomed to resignation than most, conditioned to avoid situations where problems might surface. A coward who, instead of telling the person I liked who I really was, silently drank beer and enjoyed his worried gaze.</p>
 
 <p>"The wine Choi Inwu brought. Do you know it's one often ordered when people are trying to seduce someone?"</p>
 
@@ -1665,7 +1665,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>I remembered the sensation of possession — of fulfillment — I'd felt when I first called his name, and the moment that had followed like a confession in the form of an invitation. My mouth was dry, so I drank more beer.</p>
 
-<p>"Actually, I've been thinking about it on my own ever since you moved in and started painting again. Watching Kwon Juhan's painting nearing completion made me start hoping, more concretely — even at some informal party setting, it would be wonderful to have a chance to introduce your work during this trip. And beyond artistic achievement, travel can be stimulating. Experience is the most essential material for a creator."</p>
+<p>"Actually, I've been thinking about it on my own ever since Seo Yeehyeon-ssi moved in and started painting again. Watching the painting of Kwon Juhan nearing completion made me start hoping, more concretely — even at some informal party setting, it would be wonderful to have a chance to introduce Seo Yeehyeon-ssi’s work during this trip. And beyond artistic achievement, travel can be stimulating. Experience is the most essential material for a creator."</p>
 
 <p>He smiled faintly and brushed back the clumps of hair scattered across his forehead. Then, as if recalling something amusing, he let out a soft laugh into the empty air.</p>
 
@@ -1673,7 +1673,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Despite the bashful tone, his eyes — when they shifted to meet mine — were intense without hesitation. They made it clear he had no reservations about his feelings.</p>
 
-<p>"It's also because I don't want to be apart from you. Even if it's only for a few days."</p>
+<p>"It's also because I don't want to be apart from Seo Yeehyeon. Even if it's only for a few days."</p>
 
 <p>He said it with conviction, then lowered his head and smiled. Watching his long, solid neck as he swallowed his beer, I took a couple of sips of my own.</p>
 
@@ -1719,9 +1719,9 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Whether the cause was the perpetrator's neglect of vehicle maintenance or a defect in the vehicle itself was the core of the case, they said — but that was only the interpretation from the perpetrator's side. His life depended on what the cause of the brake failure was determined to be.</p>
 
-<p>As soon as my mother's death was confirmed, my maternal grandparents prepared the funeral immediately, and a simple three-day service was held. Setting my father aside — locked in his studio with his mouth shut — my grandparents had me attend the funeral. My maternal grandfather was the chief mourner. No contact was made with my uncle's household.</p>
+<p>As soon as my mother's death was confirmed, my maternal grandparents prepared the funeral immediately, and a simple three-day service was held. Setting my father aside — locked in his studio with his mouth shut — my grandparents had me attend the funeral. My maternal grandfather was the chief mourner. No contact was made with the household of my father’s older brother.</p>
 
-<p>When I returned home still in mourning clothes after the funeral was over, my father still hadn't come out of his studio. I didn't know what to do alone, so I called Yeehan hyung.</p>
+<p>When I returned home still in mourning clothes after the funeral was over, my father still hadn't come out of his studio. I didn't know what to do alone, so I called Hani hyung.</p>
 
 <p><em>My mother died in a traffic accident. My father won't come out of his room, won't eat anything, won't say a word no matter what I ask. I don't know what to do. I'm so scared. So scared.</em></p>
 
@@ -1755,7 +1755,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Even if that world included his son.</p>
 
-<p>"That night, after the doctor left, my uncle said over a glass of soju in our kitchen: 'There's nothing physically wrong. It's possible your father has simply chosen to close himself off. He can hear everything and say everything — he just decided not to.'"</p>
+<p>"That night, after the doctor left, my uncle said over a glass of soju in our kitchen: 'There's nothing physically wrong. It's possible your father has simply chosen to close himself off. He can hear everything and say everything — he may simply have decided not to.'"</p>
 
 <p>I think I understood.</p>
 
@@ -1811,7 +1811,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>How a painting born from that kind of self-centered, growing-up emotion — something present in any family — had come to provoke terror strong enough to cause hyperventilation. That mystery seemed to finally resolve itself across his face. But he didn't look relieved.</p>
 
-<p>I rested one arm on my raised knee, brushing back my hair with my right hand while massaging his ankle with the other.</p>
+<p>I rested one arm on my raised knee, brushing back my hair while massaging his ankle with my right hand.</p>
 
 <p>"In that process — the emotions I couldn't properly handle — they probably distorted my inner self into an unnatural shape. And I let myself freeze in that state."</p>
 
@@ -1823,7 +1823,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Feeling anything — forming relationships with the people around me, experiencing emotional changes within them — it was frightening, something I approached with caution. What I wanted was just days of safety, without any plus or minus, continuing on. I thought that was the best way to protect myself."</p>
 
-<p>I lowered my head further, resting my chin on my knees. I couldn't help thinking of Morae nuna, Yeehan hyung, Yuni nuna, and Juhan hyung — all fighting so hard to push through the obstacles in front of their lives. I felt small by comparison.</p>
+<p>I lowered my head further, resting my chin on my knees. I couldn't help thinking of Morae and hyung, Yuni nuna, and Juhan hyung — all fighting so hard to push through the obstacles in front of their lives. I felt small by comparison.</p>
 
 <p>"But I think I've realized — what I was pursuing wasn't peace or safety. It was numbness. It was just another form of silence, different from my father's. I was the one who gagged myself."</p>
 
@@ -1861,13 +1861,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>For me, honestly expressing my feelings in a moment where reason holds back instinct — it was probably harder than confessing the past. Given how long I had kept my feelings silent, that was certainly true. But now I wanted change.</p>
 
-<p>"I want to go. I don't want to be apart from you, Director Liu."</p>
+<p>"I want to go. I don't want to be apart from you, Director."</p>
 
 <p>He moved his lips as though about to say something, then stopped, and collapsed inward as if in pain, whispering.</p>
 
 <p>"I'm sorry."</p>
 
-<p>"Why are you sorry?"</p>
+<p>"Why are you sorry, Director?"</p>
 
 <p>"Just — you're telling me all this, and you can't even cry."</p>
 
@@ -1889,7 +1889,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"……."</p>
 
-<p>"That I'm not alone anymore — because you're here. Am I… wrong to think that?"</p>
+<p>"That I'm not alone anymore — because you're here, Director. Am I… wrong to think that?"</p>
 
 <p>He pressed his forehead firmly against mine, lips tightly shut, and was silent for a moment.</p>
 

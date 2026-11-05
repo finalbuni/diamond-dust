@@ -31,7 +31,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He felt he should take off his gown and maybe find someone to spend the night with after a long dry spell. The frustration wasn't only sexual, but he thought he should at least resolve what could be resolved.</p>
 
-<p>"Doctor, there's a visitor waiting inside."</p>
+<p>"Ssaem, there's a visitor waiting inside."</p>
 
 <p>A nurse called out to him urgently from the internal medicine desk across from his consultation room, stopping him just as he was reaching for the door handle.</p>
 
@@ -43,7 +43,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He raised his voice and scowled as though he'd heard an enemy had arrived. The nurse's expression clouded at his reaction.</p>
 
-<p>"I was sure he was your friend, so I told him to wait... Did I do something wrong?"</p>
+<p>"I was sure he was your friend, ssaem, so I told him to wait... Did I do something wrong?"</p>
 
 <p>He held up a file and shook his head.</p>
 
@@ -93,7 +93,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Weren't you serious? Calling it dangerous was just a good excuse — I thought you were so smitten with Yeehyeon-ssi you wanted to keep him tucked away in your house. And now here's the great Liu Weikun sitting around talking about pheromones because he got his nose pierced by some Omega? You're insane — "</p>
 
-<p>The man's eyes twisted with contempt. His distorted mouth extinguished the teasing.</p>
+<p>The man's eyes twisted with contempt. His distorted mouth extinguished his agitation.</p>
 
 <p>"I'm talking about Seo Yeehyeon."</p>
 
@@ -211,7 +211,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"I thought it was a mistake. That something had just gone wrong for a moment."</p>
 
-<p>Avoiding eye contact, the man spoke as if making an excuse, and he slammed his fist on the table, raising his voice.</p>
+<p>Avoiding eye contact, the man spoke as if making an excuse, and Inwu slammed his fist on the table, raising his voice.</p>
 
 <p>"So you slept with him two, three more times to confirm that? Knowing it might lead to Changing — whatever that means?"</p>
 
@@ -255,11 +255,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Even if I'm not the only one who can release them to him — the only one whose pheromones can actually affect him… that's me, isn't it?"</p>
 
-<p>Reading the conclusion forming on his face, the man sneered — and that face looked pleased. Though trying to suppress it, he couldn't fully hide the joy of possession that surfaced at the possibility that his pheromones might be the only ones capable of truly affecting Yeehyeon.</p>
+<p>Reading the conclusion forming on Inwu’s face, the man sneered — and that face looked pleased. Though trying to suppress it, the man couldn't fully hide the joy of possession that surfaced at the possibility that his pheromones might be the only ones capable of truly affecting Yeehyeon.</p>
 
 <p>Increasingly unable to recognize the man before him, he shrugged and clicked his tongue in a dry laugh.</p>
 
-<p>"That's right. Unfortunately. If his pheromones had reacted to mine back then and something had happened between me and Yeehyeon-ssi — he wouldn't have ended up tangled with someone like you."</p>
+<p>"That's right. Unfortunately. If he had reacted to my pheromones back then and something had happened between me and Yeehyeon-ssi — he wouldn't have ended up tangled with someone like you."</p>
 
 <p>A cold blue gaze pierced him sharply.</p>
 
@@ -267,11 +267,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He turned away from those eyes — filled with an unstable sense of crisis and aggression he hadn't even seen in the man's boyhood — and reached for his drink. The man's story continued.</p>
 
-<p>"Whether Seo Yeehyeon thinks of himself as a Beta or some rare mutation, it's none of my business anyway, and I'm not the type to be curious about others to that degree."</p>
+<p>"Whether Seo Yeehyeon thinks of himself as a Beta or is some rare mutation, it's none of my business anyway, and I'm not the type to be curious about others to that degree."</p>
 
 <p>"……."</p>
 
-<p>"But I couldn't ignore him. I was watching his every move, I was curious, I wanted to know, I wanted to dig into it — I couldn't help but reach out and touch. If he hadn't been a Ghost or something like that from the beginning — "</p>
+<p>"But I couldn't ignore him. I was watching his every move, I was curious, I wanted to know, I wanted to dig into it — I couldn't help but reach out and touch. If I hadn’t been a Ghost in the first place — "</p>
 
 <p>Having gotten that far, the man shook his head and took another drag. Though he'd only taken two or three puffs, the cigarette had already burned noticeably short on its own.</p>
 
@@ -281,11 +281,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"I suppose you've forgotten — but I said from the very beginning that Seo Yeehyeon was an Omega."</p>
 
-<p>"But you said he wasn't an Omega. You said he's turning into one because of you. So how could you have sensed his pheromones before that? Then what is Seo Yeehyeon? What is he?"</p>
+<p>"But you said he wasn't an Omega. You said he's turning into one because of you. So how could you have sensed Yeehyeon-ssi’s pheromones before that? Then what is Seo Yeehyeon? What is he?"</p>
 
 <p>The man lightly clenched the hand he'd been resting on the table.</p>
 
-<p>"I've asked him that too. More than once. 'What are you?' Though it was more like talking to myself than actually asking him. He doesn't know himself. He still only knows he's a Beta. And the professor in Boston who has watched over me since I was a child — even he knows nothing about a being like Yeehyeon."</p>
+<p>"I've asked him that too. More than once. 'What are you?' Though it was more like talking to myself than actually asking him. He doesn't know himself. He still only knows he's a Beta. And the professor in Boston who has watched over me since I was a child — even the professor knows nothing about such a being."</p>
 
 <p>Holding his glass, the man slowly turned it in his hand, biting and releasing his lower lip hard.</p>
 
@@ -301,7 +301,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He couldn't finish the sentence and rubbed his face roughly with both hands.</p>
 
-<p>Having accepted the reality of his friend's secret and the absurdity of what he'd done, the prospect of informing Yeehyeon of the truth now felt like a wall he had no idea how to scale. The man had come to him precisely for that. There was no other reason to suddenly share a secret he'd kept all this time.</p>
+<p>Having accepted the reality of his friend's secret and the absurdity of what he'd done, the prospect of informing Yeehyeon of the truth now felt like a wall he had no idea how to scale. The man had probably come to him for that. There was no other reason to suddenly share a secret he'd kept all this time.</p>
 
 <p>"I won't let it come to that. He's not — that fragile."</p>
 
@@ -329,7 +329,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>An utterly mundane and peaceful voice, completely at odds with the man who had just been wearing an expression as though he wanted to tear his own hair out. Conversely, he frowned and stared at the man's back in disbelief.</p>
 
-<p>"No, it's fine. Go ahead. It was a bit stuffy, so I stepped outside for a moment. I'm eating here. Did you have dinner? …You didn't leave any? …Good. I'm glad the changed diet seems to be helping. I might be a bit later. I'll message you when I'm on my way."</p>
+<p>"No, it's fine. Go ahead. It’s a relaxed gathering, so I stepped away for a moment. I'm eating here. Did you have dinner? …You didn't leave any? …Good. I'm glad the changed diet seems to be helping. I might be a bit later. You might be working, so I'll leave you a message when I'm on my way."</p>
 
 <p>The person on the other end was Yeehyeon, and the man had apparently told him it was a dinner appointment with a client. He spoke without a hitch, his voice even tinged with laughter.</p>
 
@@ -363,7 +363,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He didn't need the man to declare it so gravely — he already knew. He had sensed the man's unusual interest in Yeehyeon from the very beginning and had anticipated that Yeehyeon might be able to break through the walls the man had built around himself and draw out his full attention. He simply hadn't expected that seriousness to flow in this direction.</p>
 
-<p>"Changing someone's body without their knowledge is what you call seriousness? And then, later, offering a pitiful excuse — that your pheromones wanted to bond with him as an Alpha and Omega? That your precious Alpha nature desired Seo Yeehyeon?"</p>
+<p>"Changing someone's body without their knowledge is what you call seriousness? And then, later, offering a pitiful excuse — that your pheromones wanted to bond with him as an Alpha and Omega? That your precious Alpha nature and pheromones desired Seo Yeehyeon?"</p>
 
 <p>"……."</p>
 
@@ -397,7 +397,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Ha. He had nothing left to say, so he simply kept shaking his head. The sight of this man readily acknowledging a relationship to someone else, without the slightest aversion to it, was foreign. He never spoke about his purely physical partners one way or another.</p>
 
-<p>"Usually it's loss of appetite, heartburn, abdominal discomfort — and depending on the person, nausea or vomiting. A few weeks ago those symptoms started. He's barely been eating."</p>
+<p>"Usually it's loss of appetite, heartburn, abdominal discomfort — and depending on the person, nausea or vomiting. Those symptoms seem to have started a few weeks ago. He's barely been eating."</p>
 
 <p>"Of course his stomach hurts — his insides are changing!"</p>
 
@@ -429,7 +429,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Faced with the most rational, and therefore perhaps most irresponsible, answer, the man released his grip on his hair and bit his lower lip.</p>
 
-<p>Then, like a severe addict, he reached for another cigarette. It was the first time he had seen the man smoke this continuously. But after lighting it, he spent more time holding it in his hand than bringing the filter to his lips. He simply needed something — anything — to cling to.</p>
+<p>Then, like a severe addict, he reached for another cigarette. It was the first time he had seen the man smoke this continuously. But after lighting it, he spent more time holding it in his hand than bringing the filter to his lips. He seemed simply to need something — anything — to cling to.</p>
 
 <p>Watching the thin bluish smoke curl from the cigarette in his hand, the man's lips were dry and cracked.</p>
 
@@ -437,13 +437,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>As if remembering something, he drew deep from the cigarette and flicked off the lengthening ash before continuing.</p>
 
-<p>"Whatever Seo Yeehyeon actually is, the fact that he emits pheromones that stimulate mine makes him functionally the equivalent of a superior Golden Omega compared to me. I can't resist those pheromones, and I can't control my own. You, who have never been exposed to pheromones of that intensity, wouldn't understand. Convincing a Beta of their real effects is probably as impossible as the theory itself. I felt an immense gap between encountering it in theory and actually experiencing it firsthand. Even though he isn't an Omega I've had a long connection with — the overwhelming sensation of being subjugated to him, the impulse for my entire life to rearrange itself around him and for all my energy to be spent on him — I guarantee you, no Alpha can refuse that."</p>
+<p>"Whatever Seo Yeehyeon actually is, the fact that he emits pheromones that stimulate mine makes him functionally the equivalent of a superior Golden Omega compared to me. I can't resist those pheromones, and I can't control my own. You, who have never been exposed to pheromones of that intensity, wouldn't understand. Convincing a Beta of their real effects is probably just as impossible. I felt an immense gap between encountering it in theory and actually experiencing it firsthand. Even though he isn't an Omega I've had a long connection with — the overwhelming sensation of being subjugated to him, the impulse for my entire life to rearrange itself around him and for all my energy to be spent on him — I guarantee you, no Alpha can refuse that."</p>
 
-<p>His voice carried the conviction that if he couldn't do it, no Alpha could. He might have been right. He was the most exceptional Alpha.</p>
+<p>His voice carried the conviction that if he couldn’t do it, no Alpha could. Perhaps he was right. He was the finest Alpha, after all.</p>
 
 <p>But even having lived as an Alpha himself, he couldn't readily accept that. He tightened his grip on his glass and shook his head.</p>
 
-<p>"Even if it meant physically removing yourself, you should have separated yourself from Yeehyeon-ssi in that situation."</p>
+<p>"Even if it meant keeping him physically far away from you, you should have removed Yeehyeon-ssi from that situation."</p>
 
 <p>"……."</p>
 
@@ -473,7 +473,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Take what I said earlier as a — status report from a friend, separate from this request."</p>
 
-<p>A status report from a friend, right. It was a plea disguised as a statement — meaning: <em>he matters this much to me, so please grant what I'm asking.</em></p>
+<p>A status report from a friend, right. It was a threat disguised as a plea — meaning: <em>he matters this much to me, so please grant what I'm asking.</em></p>
 
 <p>He turned away and tilted his glass, and the man, catching his breath in pauses, spoke in a parched voice.</p>
 

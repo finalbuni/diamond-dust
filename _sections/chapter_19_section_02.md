@@ -25,7 +25,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>I had clearly woken up in my own bed downstairs, and yet I was also nestled in his bare arms.</p>
 
-<p>He had stacked two pillows and added his own arm folded beneath his head, lying on his side facing me, with his other arm resting lightly over my shoulder, his hand gently stroking my cheek.</p>
+<p>He had stacked two pillows and added his own arm folded beneath his head, lying on his side facing me, with his other arm resting lightly over my shoulder, the back of his hand gently stroking my cheek.</p>
 
 <p>"You burrowed in like a little mole. I was even debating whether I should let you suckle on my nipple."</p>
 
@@ -41,7 +41,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>I rolled onto my stomach and propped myself up on my elbows, roughly raking my fingers through my tangled hair, fumbling around the pillow for my phone. I picked up my phone — precariously balanced on the edge of the bed — and unlocked it. The messaging app appeared immediately on the screen.</p>
 
-<p>[today work here stop now done eeeeew fu]</p>
+<p>[today work here stop now donyy aaahh fuu]</p>
 
 <p>I must have fallen asleep with the phone in my hand, because the typo-riddled message was still sitting unsent in the input field.</p>
 
@@ -57,19 +57,19 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"It would be a waste to just delete something this cute. This one's going in my collection."</p>
 
-<p>Lying on his back toward the ceiling, he handed the phone back to me with a satisfied look, then began toying with my earlobe as I lay face-down beside him.</p>
+<p>Lying on his back toward the ceiling, he handed the phone back to me with a satisfied look, then began toying with the rim of my ear as I lay face-down beside him.</p>
 
 <p>"Still, it's a shame. I wish I could have seen Seo Yeehyeon struggling to text me even though he was half-asleep."</p>
 
-<p>These expressions of affection — impossible to call anything other than love — made my spine tingle from the first moments of morning. Starting the day immediately enveloped in such affection the moment I opened my eyes was... not good for my heart.</p>
+<p>His unmistakably romantic expressions of affection sent a tingle down my spine first thing in the morning. Starting the day surrounded by such affection the moment I opened my eyes was… probably not good for my heart.</p>
 
 <p>"Did we sleep together? Or did you just arrive a little while ago?"</p>
 
-<p>I carefully placed my hand over the fingers touching my earlobe and asked.</p>
+<p>I carefully placed my hand over the fingers touching the rim of my ear and asked.</p>
 
 <p>"It seemed like the lights went out around three, and when no message came for a long time after that, I came down to check."</p>
 
-<p>Then the sensation I had during the night — of someone fixing my bedding and pulling me close — wasn't a dream. It was the feeling of him getting into bed. I let my hand slide off his and traced the clearly defined muscles of his arm, my voice coming out soft with regret.</p>
+<p>Then the sensation I had during the night — of someone fixing my bedding and pulling me close — hadn’t been a dream after all, but him getting into bed? I let my hand slide off his and traced the clearly defined muscles of his arm, my voice coming out soft with regret.</p>
 
 <p>"You should have woken me up..."</p>
 
@@ -87,7 +87,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He gently rubbed the surface of my lips with his thumb and spoke.</p>
 
-<p>"I'm glad you feel that way, but if Seo Yeehyeon had woken up, the chances of us actually succeeding in sleeping together again would have been pretty low."</p>
+<p>"I'm glad you feel that way, but if Seo Yeehyeon-ssi had woken up, another attempt to sleep together probably would have failed."</p>
 
 <p>Last weekend, on the way home after drinking sake together, he had suggested we just sleep next to each other without having sex — but in the end we hadn't kept that promise.</p>
 
@@ -125,7 +125,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"I guess... I'm not fully awake yet. I'm sorry for asking something so strange."</p>
 
-<p>After giving my apologetic face a thorough, slightly exasperated kneading, he sat up and lightly kissed my forehead. Then he leaned his upper body over my prone back and rubbed the tip of his nose against my ear.</p>
+<p>After giving my apologetic face a thorough kneading, he sat up and lightly kissed my forehead. Then he leaned his upper body over my prone back and rubbed the tip of his nose against my ear.</p>
 
 <p>"I'll get breakfast ready, so would you mind taking care of the garden in the meantime?"</p>
 
