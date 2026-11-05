@@ -17,39 +17,39 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>I quietly rubbed my arm and turned my gaze away from the window, leaving behind the desolate landscape that reminded me of a dehumanized future city or the Gotham City of <em>Batman</em>.</p>
 
-<p>Yuni, who had changed into a more glamorous and free-spirited outfit for the after-party, was hurriedly touching up her makeup in the back seat of the sedan.</p>
+<p>Yuni nuna, who had changed into a more glamorous and free-spirited outfit for the after-party, was hurriedly touching up her makeup in the back seat of the sedan.</p>
 
 <p>"The Director seemed incredibly motivated today, didn't he? He even agreed to do an interview tomorrow, which is so unlike him. He always said he was reluctant to take the spotlight — that the artists were supposed to be the main focus."</p>
 
-<p>As she applied a deeper shade to her eyeshadow, Yuni kept talking. It looked like she was applying it roughly, but that style suited her.</p>
+<p>As she applied a deeper shade to her eyeshadow, nuna kept talking. It looked like she was applying it roughly, but that style suited her.</p>
 
 <p>"Well, having the Director give an interview and having his picture out there will certainly boost publicity. We don't know when we'll have another exhibition in Chicago, but there's no harm in getting our name out there."</p>
 
-<p>I smiled back at Yuni as she turned toward me and closed the eyeshadow case.</p>
+<p>I smiled back at nuna as she turned toward me and closed the eyeshadow case.</p>
 
-<p>Contrary to her lighthearted guess, my smile was awkward. <em>Had he not mentioned anything to Yuni about the New York branch yet?</em> I thought. The idea that he might have agreed to the interview with that opening in mind was hard to push aside.</p>
+<p>Contrary to her lighthearted guess, my smile was awkward. <em>Had he not mentioned anything to nuna about the New York branch yet?</em> I thought. The idea that he might have agreed to the interview with that opening in mind was hard to push aside.</p>
 
 <p>"Anyway, tonight's opening party was insane. Honestly, this gallery isn't exactly some powerhouse, right? But the guest list was stacked. Wow... I was handing out my business cards like crazy without even thinking."</p>
 
-<p>Yuni, still facing me, radiated the excitement from the party in her expression and voice. I was reminded of her in Hong Kong — diligently greeting people and exchanging cards, hoping someone might recognize her talent and potential and scout her. Whether it was studying abroad or a new job, it was clear Yuni wanted experience overseas.</p>
+<p>Nuna, still facing me, radiated the excitement from the party in her expression and voice. I was reminded of her in Hong Kong — diligently greeting people and exchanging cards, hoping someone might recognize her talent and potential and scout her. Whether it was studying abroad or a new job, it was clear nuna wanted experience overseas.</p>
 
-<p>"What's wrong, Yeehyeon? Are you still nervous? You've gone so quiet."</p>
+<p>"What's wrong, Seo Yeehyeon? Are you still nervous? You've gone so quiet."</p>
 
-<p>Sipping the coffee she'd placed in the cup holder on the armrest between us, Yuni poked my stiff face and playfully pinched my cheek.</p>
+<p>Sipping the coffee she'd placed in the cup holder on the armrest between us, nuna poked my stiff face.</p>
 
 <p>"I'm still awkward at parties like this... and I'm worried about my English, too...."</p>
 
-<p>After the Chicago trip was decided, I had taken English lessons twice a week from the teacher who also instructed Yuni and Juhan. I studied separately, and in the evenings, he would go over things with me a little at a time. Our study sessions, however... mostly evolved into learning words and phrases that weren't appropriate for polite company, eventually extending into dates that led to physical intimacy.</p>
+<p>After the Chicago trip was decided, I had taken English lessons twice a week from the teacher who also instructed nuna and hyung. I studied separately, and in the evenings, he would go over things with me a little at a time. Our study sessions, however... mostly evolved into learning words and phrases that weren't appropriate for polite company, eventually extending into dates that led to physical intimacy.</p>
 
 <p>Regardless, it had only been three weeks of more serious study. That wasn't enough time to build the skill to cover for my lack of confidence in English and my unsociable nature.</p>
 
-<p>"You're good, so stop pretending you aren't. Your teacher was praising you, you know? She said you'd surpass Kwon Juhan within a few months, and now he's in hardcore study mode because of you."</p>
+<p>"You're good, so stop pretending you aren't. Your teacher was praising you, you know? The teacher said you’d surpass Kwon Juhan within a few months, and now he's in hardcore study mode because of you."</p>
 
-<p>Yuni added, tapping the cushion on the armrest with delight, that Juhan had practically cried when she boasted about flying first class and staying at a five-star hotel — saying it wasn't a business trip but a luxury tour and that he should have followed no matter what.</p>
+<p>Nuna added, tapping the cushion on the armrest with delight, that Kwon Juhan had practically cried when she boasted about flying first class and staying at a five-star hotel — saying it wasn't a business trip but a luxury tour and that he should have followed no matter what.</p>
 
-<p>It seemed Yuni, who was plotting to take pictures at the after-party to tease him, actually wasn't so much wanting to poke fun at Juhan as she was wanting to share the present moment. Despite their bickering when together, it seemed she felt a bit empty now that they were apart. Sometimes I envied their friendship like that.</p>
+<p>It seemed nuna, who was plotting to take pictures at the after-party to tease him, actually wasn't so much wanting to poke fun at hyung as she was wanting to share the present moment. Despite their bickering when together, it seemed she felt a bit empty now that they were apart. Sometimes I envied their friendship like that.</p>
 
-<p>Even through elementary and middle school, I had never managed to make what people call a "best friend." Morae and Yeehan were certainly precious friends, and while they rarely acted like a couple in front of me, their strong bond was like a visible current — clear even without them holding hands or hugging in public. Because of that, it was difficult for the three of us to form a perfect triangular balance as friends. Even between Yuni and Juhan, who were like twins or doppelgangers, I felt like a different color entirely.</p>
+<p>Even through elementary and middle school, I had never managed to make what people call a "best friend." Morae and hyung were certainly precious friends, and while they rarely acted like a couple in front of me, their strong bond was like a visible current — clear even without them holding hands or hugging in public. Because of that, it was difficult for the three of us to form a perfect triangular balance as friends. Even between Yuni nuna and Juhan hyung, who were like twins or doppelgangers, I felt like a different color entirely.</p>
 
 <p>As I followed that train of thought, I realized, surprisingly, that I had him.</p>
 
@@ -61,15 +61,15 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>As if to signal that a party was taking place inside, the entrance of the stately, massive brick building was decorated with dazzling lights.</p>
 
-<p>"The lighting here must be incredible. Yeehyeon, take a picture of me."</p>
+<p>"The lighting here must be incredible. Yeehyeon-ah, take a picture of me."</p>
 
-<p>Yuni, reaching into her small clutch bag while looking at the lights — which reminded me of Christmas luminaries — suddenly frowned.</p>
+<p>Nuna, reaching into her small clutch bag while looking at the lights — which reminded me of Christmas luminaries — suddenly frowned.</p>
 
-<p>"Oh, the battery.... My power bank is dead, too. Yeehyeon, take a picture with your phone. I'm uploading this Chicago trip in real-time on social media. I even posted a picture of your artwork on display — look, there are already over a hundred comments... oh... it just died."</p>
+<p>"Oh, the battery.... My power bank is dead, too. Yeehyeon-ah, take a picture with your phone. I'm uploading this Chicago trip in real-time on social media. I even posted a picture of your artwork on display — look, there are already over a hundred comments... oh... it just died."</p>
 
-<p>We burst out laughing over the phone that had gone completely dark in Yuni's hand.</p>
+<p>We burst out laughing over the phone that had gone completely dark in nuna’s hand.</p>
 
-<p>Fortunately, my phone, which I had charged all evening at the hotel, was working fine. As I unlocked it to take a picture of Yuni posing under the arched structure at the entrance, she dropped her pose and looked at me with interest.</p>
+<p>Fortunately, my phone, which I had charged all evening at the hotel, was working fine. As I unlocked it to take a picture of nuna posing under the arched structure at the entrance, she dropped her pose and looked at me with interest.</p>
 
 <p>"What is it, what is it?"</p>
 
@@ -83,7 +83,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Even as she said that, her face still held a teasing smile. She seemed certain there was some other reason for locking my phone, but she didn't press me any further.</p>
 
-<p>After one round of photos, Yuni rang the bell, and a gentle-looking employee opened the door. The mansion felt like a maze. As we walked down a long hallway past several rooms and small sitting areas, the loud noise and music of the party grew steadily closer.</p>
+<p>After one round of photos, nuna rang the bell, and a gentle-looking employee opened the door. The mansion felt like a maze. As we walked down a long hallway past several rooms and small sitting areas, the loud noise and music of the party grew steadily closer.</p>
 
 <p>He was already there, coming out to greet us from the far end of the hall. Without his jacket, shirt sleeves rolled up to his elbows, and his neatly styled hair now falling across his forehead, he looked remarkably cheerful.</p>
 
@@ -99,31 +99,31 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He pressed his forehead against my temple and playfully tugged at the small bandana scarf wrapped around my neck. Several people were looking our way, and my throat suddenly felt a little dry.</p>
 
-<p>The truth was, his marks were scattered around the back of my neck. Ever since the night Inwu came to check on me, he had developed a habit of leaving marks, mainly around my chest and neck.</p>
+<p>The truth was, his marks were scattered around the back of my neck. Ever since the night Inwu hyung came to check on me, he had developed a habit of leaving marks, mainly around my chest and neck.</p>
 
 <p>He hadn't left one right in the center of my neck where it would be obvious, but precisely because the outfit he'd chosen for today was a boat-neck T-shirt, the mark above my collarbone was exposed, leaving no other choice.</p>
 
 <p>"Sorry, sorry. It's all my fault. I was being presumptuous."</p>
 
-<p>Perhaps sensing my resentful look, he pulled me closer, tightening his arm around my shoulders as he apologized. Even as he repeated his apologies, he seemed to be in high spirits. Yuni, who was walking ahead, turned around, but since he was uncharacteristically excited, she seemed to dismiss the close skin-ship as just part of his drunkenness.</p>
+<p>Perhaps sensing my resentful look, he pulled me closer, tightening his arm around my shoulders as he apologized. Even as he repeated his apologies, he seemed to be in high spirits. Nuna, who was walking ahead, turned around, but since he was uncharacteristically excited, she seemed to dismiss the close skin-ship as just part of his drunkenness.</p>
 
 <p>The people enjoying themselves in various parts of the hall — a space large enough to host a small banquet — were mostly dressed formally, like him, but with a relaxed, cheerful look: shirts unbuttoned at the top, sleeves rolled up. One woman in a stunning silk evening gown had taken off her high heels and was enjoying a cocktail barefoot while chatting with a pleasant expression.</p>
 
 <p>The atmosphere suggested that everyone in the hall either knew each other well or had been aware of one another's existence for some time. As he had said, it didn't feel like an extension of a formal business party.</p>
 
-<p>He first introduced Yuni and me to the owners of the mansion who had provided the space for the gathering.</p>
+<p>He first introduced nuna and me to the owners of the mansion who had provided the space for the gathering.</p>
 
 <p>Jane Song, a Korean-American woman whose hometown was New York, and Conner Drake, who was from Orland Park not far from Chicago, were a couple who had spent time studying abroad in London alongside his parents. They were business partners running a fashion venture in Chicago and were also ardent collectors of works by promising emerging artists.</p>
 
 <p>"When I asked them to help secure a venue in Chicago for a small party, they generously offered their home, asking why we would bother going anywhere else. Oh, Yuni, I already introduced you to them at the gallery earlier, right?"</p>
 
-<p>The couple and Yuni exchanged brief greetings first, and then he introduced me as a new artist joining Phantom — someone he was very excited about.</p>
+<p>The couple and nuna exchanged brief greetings first, and then he introduced me as a new artist joining Phantom — someone he was very excited about.</p>
 
 <p>"Conner and I enjoy buying good work from lesser-known artists. Honestly, the pieces by already famous artists are just outrageously expensive," Jane exclaimed as if protesting, but it was immediately clear that the couple wasn't refraining from buying famous artists' works for financial reasons.</p>
 
-<p>"I saw Yeehyeon's nude painting at the gallery and immediately told Awi I wanted to buy it, but he refused, saying it wasn't available for sale yet."</p>
+<p>"I saw Yeehyeon-ssi’s nude painting at the gallery and immediately told Awi I wanted to buy it, but he refused, saying it wasn't available for sale yet."</p>
 
-<p>Jane shot him a look, calling it petty for dangling something he wouldn't even give away, but thankfully, Conner brought cocktails from the bar set up on one side of the hall for Yuni and me.</p>
+<p>Jane shot him a look, calling it petty for dangling something he wouldn't even give away, but thankfully, Conner brought cocktails from the bar set up on one side of the hall for nuna and me.</p>
 
 <p>"Awi, I actually invited someone specifically because I really want you to meet them. Is that alright?"</p>
 
@@ -135,19 +135,19 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>At Jane's delighted wave, I reflexively turned around too.</p>
 
-<p>For a brief moment, I mistook him for Juhan.</p>
+<p>For a brief moment, I mistook him for Juhan hyung.</p>
 
 <p>The closely cropped hair that looked prickly to the touch, the sharp impression given by an extremely thin frame, his towering height and long limbs — plus the all-black outfit covering his entire body.</p>
 
 <p>"Oh my god. What is happening? It's R.R.!"</p>
 
-<p>Whether she recognized the man who reminded me of Juhan or not, Yuni quickly pulled her cocktail glass from her lips and started jabbing me sharply in the side. In stark contrast to her excitement, he merely gazed impassively at the man approaching them.</p>
+<p>Whether she recognized the man who reminded me of Juhan hyung or not, nuna quickly pulled her cocktail glass from her lips and started jabbing me sharply in the side. In stark contrast to her excitement, he merely gazed impassively at the man approaching them.</p>
 
 <p>"Jane, Conner! Thank you so much for inviting me."</p>
 
 <p>The man approached the couple with a bright smile, and since they seemed to have met recently, they exchanged simple, friendly greetings.</p>
 
-<p>Up close, he seemed far less mischievous than Juhan. He exuded a calm, mature presence that made it strange I'd thought they resembled each other at all. He also looked to be three or four years older than Juhan. Above all else, he was a foreigner.</p>
+<p>Up close, he seemed far less mischievous than Juhan hyung. He exuded a calm, mature presence that made it strange I'd thought they resembled each other at all. He also looked to be three or four years older than Juhan hyung. Above all else, he was a foreigner.</p>
 
 <p>"Now, this is Reed Rogers, the leader of the organization I sponsor. And this is Liu Weikun, who runs a gallery in Seoul."</p>
 
@@ -157,7 +157,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"You were?"</p>
 
-<p>Jane frowned slightly and placed a light hand on Reed Rogers's shoulder.</p>
+<p>Jane frowned slightly and placed a light hand on R.R.’s — that is, Reed Rogers’s — shoulder.</p>
 
 <p>"I wasn't actually invited, but another gallery staff member I know asked if I was interested because they had one extra plus-one spot. They knew I was just hanging around Chicago right now."</p>
 
@@ -191,13 +191,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"That short story collection you published earlier this year was very impressive."</p>
 
-<p>Everyone's gaze turned toward Yuni at the excitement in her voice.</p>
+<p>Everyone's gaze turned toward nuna at the excitement in her voice.</p>
 
-<p>Reed grinned, creasing his exposed forehead, and pointed alternately between Yuni and himself.</p>
+<p>Reed grinned, creasing his exposed forehead, and pointed alternately between nuna and himself.</p>
 
 <p>"You're Yuni, right? We follow each other, don't we?"</p>
 
-<p>It wasn't just Yuni who knew him; he seemed genuinely delighted to see her, like meeting an old friend, and offered his hand to shake hers. The flow of conversation instantly shifted to the two of them.</p>
+<p>It wasn't just nuna who knew him; he seemed genuinely delighted to see her, like meeting an old friend, and offered his hand to shake hers. The flow of conversation instantly shifted to the two of them.</p>
 
 <p>Someone began playing the grand piano situated beneath the glass ceiling, near the large folding doors leading to the backyard, and the attention of the crowd shifted in that direction as well.</p>
 
@@ -209,19 +209,19 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"This gallery was the host, but for some reason, our Director really put his all into it this time."</p>
 
-<p>While Jane, Conner, and the other adults around them enjoyed and responded to the jazz piano performance, Yuni and Reed continued their conversation.</p>
+<p>While Jane, Conner, and the other adults around them enjoyed and responded to the jazz piano performance, nuna and Reed Rogers continued their conversation.</p>
 
-<p>Yuni apologized for the late introduction and introduced the man to me. Reed seemed to find the pronunciation of "Yeehyeon" amusing despite its difficulty. He commented that while the name "Yuni" was convenient and lovely for international use, the resistance felt in his vocal cords when producing the name "Yeehyeon" gave him an exotic feeling, which earned him a light rebuke from Yuni.</p>
+<p>Nuna apologized for the late introduction and introduced the man to me. Reed seemed to find the pronunciation of "Yeehyeon" amusing despite its difficulty. He commented that while the name "Yuni" was convenient and lovely for international use, the resistance felt in his vocal cords when producing the name "Yeehyeon" gave him an exotic feeling, which earned him a light rebuke from nuna.</p>
 
 <p>"My name is the worst. While anyone, regardless of their language background, can pronounce it easily, that's exactly why it doesn't stick in anyone's memory."</p>
 
 <p>Reed made a displeased face, creasing his brow. It seemed to be a characteristic expression of his, forming three or four distinct lines across his forehead. They were not wrinkles that made him look old.</p>
 
-<p>Reed readily accepted Yuni's suggestion that the three of us sit at the bar and talk slowly. All the other guests were engrossed in a piano performance — a jazz arrangement of a famous Michael Jackson hit. Though I didn't know much about it, the skill level didn't seem amateurish.</p>
+<p>Reed readily accepted nuna’s suggestion that the three of us sit at the bar and talk slowly. All the other guests were engrossed in a piano performance — a jazz arrangement of a famous Michael Jackson hit. Though I didn't know much about it, the skill level didn't seem amateurish.</p>
 
 <p>Before we left, I turned my body halfway toward him as he was talking right beside me and tapped his shoulder lightly with my index finger.</p>
 
-<p>When I said I would stay with Yuni at the bar, he smiled and touched my cheek. The look in his eyes was full of affection, even by my own estimation. He didn't seem to notice at all, but just being near him and talking intimately with him caused people to display subtle curiosity or outright hostility, and unlike him, I wasn't accustomed to being stared at. Feeling burdened by the glances from several people who pretended not to look but kept stealing peeks, I gave an awkward smile, gently took his hand to pull it down, and quietly slipped away.</p>
+<p>When I said I would stay with nuna at the bar, he smiled and touched my cheek. The look in his eyes was full of affection, even by my own estimation. He didn't seem to notice at all, but just being near him and talking intimately with him caused people to display subtle curiosity or outright hostility, and unlike him, I wasn't accustomed to being stared at. Feeling burdened by the glances from several people who pretended not to look but kept stealing peeks, I gave an awkward smile, gently took his hand to pull it down, and quietly slipped away.</p>
 
 <p>In the hall, against a backdrop of boldly printed wallpaper, two formally dressed bartenders stood behind a large S-shaped bar, mixing cocktails or pouring drinks according to the guests' requests.</p>
 
@@ -231,17 +231,17 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"To be honest, while I didn't sense the mastery of a craftsman or the deep weight of time in the work... because of the boldness in leaving negative space and omitting backgrounds, and the individuality and color sense that masterfully expressed the transience and loneliness of a sunset using cool blue tones — I honestly wouldn't have guessed it was the work of someone so young."</p>
 
-<p>Sitting separated from me with Yuni between us, Reed leaned his upper body far back for a moment, narrowed his eyes, and shook his head.</p>
+<p>Sitting separated from me with nuna between us, Reed leaned his upper body far back for a moment, narrowed his eyes, and shook his head.</p>
 
 <p>"No. In a way, it might have been expected. The pieces somehow felt... like the tender nostalgia of an old man looking back on his past as he enters the twilight of his life, yet at the same time, they also felt like the sharp pain of a boy painfully passing through adolescence."</p>
 
 <p>"Ah... um..."</p>
 
-<p>Since he had offered such specific and passionate feedback on my paintings, I felt obligated to offer some kind of response in return, but I wasn't sure whether agreeing or simply thanking him would be the appropriate reaction. While I fiddled with the thin stem of my cocktail glass, stalling for time, Yuni stepped in for me.</p>
+<p>Since he had offered such specific and passionate feedback on my paintings, I felt obligated to offer some kind of response in return, but I wasn't sure whether agreeing or simply thanking him would be the appropriate reaction. While I fiddled with the thin stem of my cocktail glass, stalling for time, nuna stepped in for me.</p>
 
 <p>"This is his first exhibition, you know. He's just shy about hearing comments on his own work."</p>
 
-<p>After that, the three of us chatted comfortably about various topics. It felt like a lighthearted conversation between close friends. Contrary to his sharp first impression, Reed wasn't difficult to get along with. In fact, he and Yuni seemed like they had known each other for ages, striking up an easy rapport within just two or three minutes of meeting.</p>
+<p>After that, the three of us chatted comfortably about various topics. It felt like a lighthearted conversation between close friends. Contrary to his sharp first impression, Reed wasn't difficult to get along with. In fact, he and nuna seemed like they had known each other for ages, striking up an easy rapport within just two or three minutes of meeting.</p>
 
 <p>I was laughing at Reed's witty anecdote about a famous museum director — so confident in his artistic taste that he mistook a famous artist's trash can sculpture for an actual trash can at a biennale — when I felt someone place their hands on both my shoulders and press down gently.</p>
 
@@ -253,31 +253,31 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Sorry to interrupt your conversation, but... there is someone I really want to introduce you both to. May I borrow you for a moment?"</p>
 
-<p>After getting Reed's permission, he led Yuni and me to a sofa set located in the innermost corner of the hall. Among the four or five large and small sofa arrangements filling the hall, this one was the smallest but decorated the most lavishly and comfortably.</p>
+<p>After getting Reed's permission, he led nuna and me to a sofa set located in the innermost corner of the hall. Among the four or five large and small sofa arrangements filling the hall, this one was the smallest but decorated the most lavishly and comfortably.</p>
 
 <p>Between the sofas, and around the round standing tables apparently prepared specifically for tonight's party, a group of five or six people clustered together were talking quietly, unlike the others who were swaying to the music.</p>
 
 <p>"Chloe, these are the friends I mentioned. Yuni, the director of Phantom, and the artist... Yeehyeon."</p>
 
-<p>He squeezed the hands resting on Yuni's and my shoulders alternately, introducing us to them — or rather, to the woman in the black suit. Now it was our turn to be introduced to her.</p>
+<p>He squeezed the hands resting on nuna’s and my shoulders alternately, introducing us to them — or rather, to the woman in the black suit. Now it was our turn to be introduced to her.</p>
 
 <p>"And this is..."</p>
 
 <p>"I know her."</p>
 
-<p>Because he was standing between us, I had to lean forward to see Yuni's face. She looked surprised by her own statement that she already knew who the woman in front of them was.</p>
+<p>Because he was standing between us, I had to lean forward to see nuna’s face. He looked surprised by her statement that she already knew who the woman in front of them was.</p>
 
 <p>"Ms. Chloe Kent, Senior Director of H&W Gallery's New York branch. Before moving to H&W Gallery, she worked as an auction specialist in modern art at Christie's New York for fifteen years."</p>
 
-<p>Despite her heavy smoky makeup and fashion sense that older people tended not to favor, Yuni looked like a highly capable secretary commanding a large salary. The woman sitting on the sofa managed a faint, barely perceptible smile over her thin lips and stood up to shake Yuni's hand.</p>
+<p>Despite her heavy smoky makeup and fashion sense that older people tended not to favor, nuna looked like a highly capable secretary commanding a large salary. The woman sitting on the sofa managed a faint, barely perceptible smile over her thin lips and stood up to shake nuna’s hand.</p>
 
 <p>"I didn't realize there was such a young gallerist taking such an interest in me. I'm actually getting nervous. Have I been living my life doing shady things?"</p>
 
-<p>Even at her joke, Yuni couldn't smile comfortably. She watched the woman's every reaction with a dreamy expression, like a child meeting their idol.</p>
+<p>Even at her joke, nuna couldn’t smile comfortably. She watched the woman's every reaction with a dreamy expression, like a child meeting their idol.</p>
 
 <p>"I didn't realize it was to this extent either. Most of the careers represented in this hall are probably at Yuni's fingertips. She has an excellent understanding of and sense for art, she's an incredibly hard worker, and on top of that... she has ambition."</p>
 
-<p>He emphasized that last word as if ambition were Yuni's most appealing trait. Since he had previously been negative about her studying abroad or transferring to an overseas gallery, his unrestrained praise in front of key figures made Yuni's eyebrows twitch in surprise, but she gave him an unseen thumbs-up.</p>
+<p>He emphasized that last word as if ambition were nuna’s most appealing trait. Since he had previously been negative about her studying abroad or transferring to an overseas gallery, his unrestrained praise in front of key figures made nuna’s eyebrows twitch in surprise, but she gave him an unseen thumbs-up.</p>
 
 <p>Chloe Kent, who seemed to possess a dazzling career as the Senior Director of the New York branch of a global gallery with seven main and branch offices worldwide, naturally guided us to an empty standing table next to the sofa. A waiter circulating through the hall quickly approached, cleared away an empty glass someone had left, and brought us fresh drinks as ordered.</p>
 
@@ -293,11 +293,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>When he concurred, her smile deepened slightly.</p>
 
-<p>Yuni, standing beside Kent, and I, standing beside him, exchanged glances diagonally across the space between us. Yuni's eyes conveyed her confusion about what their conversation actually meant. But a debut show at a famous New York gallery... Like Yuni, I had never heard anything about that.</p>
+<p>Nuna, standing beside Kent, and I, standing beside him, exchanged glances diagonally across the space between us. Nuna’s eyes conveyed her confusion about what their conversation actually meant. But a debut show at a famous New York gallery... Like nuna, I had never heard anything about that.</p>
 
 <p>"Since Mr. Liu owns Pettibon's works, the ability to cooperate with H&W to exhibit them must ultimately be some kind of... proposal."</p>
 
-<p>Yuni's gaze, which had been darting back and forth between him and Kent, turned toward me once more. Our eyes met in mid-air and froze there.</p>
+<p>Nuna's gaze, which had been darting back and forth between him and Kent, turned toward me once more. Our eyes met in mid-air and froze there.</p>
 
 <p>He was currently negotiating a deal with Kent, using my debut show as leverage. At least, that seemed to be the case.</p>
 
@@ -305,7 +305,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Having finished speaking, he flashed a charming smile and raised his own glass, inviting a toast. His demeanor conveyed absolute confidence that his counterpart could never refuse this offer. Kent also seemed to be receiving the young gallerist's confident attitude positively.</p>
 
-<p>Yuni and I joined the toast, but seeing the strange expression on her face — neither a smile nor a frown — I thought she was likely thinking the same thing I was.</p>
+<p>Nuna and I joined the toast, but seeing the strange expression on her face — neither a smile nor a frown — I thought she was likely thinking the same thing I was.</p>
 
 <p>It struck me as strange that he had brought up his father's collection as a card to play to seal the deal.</p>
 
@@ -315,13 +315,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Hmm. If he owns around thirty Pettibon pieces, I doubt that's the extent of his collection... If he's a collector of that magnitude, he's probably someone I know. May I ask which gallery he used to run?"</p>
 
-<p>Yuni's gaze turned toward him. Her focus seemed less on the content of the answer and more on whether he would actually respond to the question. Though skeptical, she seemed to have settled on the expectation that he wouldn't answer. No — more accurately, she wore an expression that seemed to hope he wouldn't.</p>
+<p>Nuna’s gaze turned toward him. Her focus seemed less on the content of the answer and more on whether he would actually respond to the question. Though skeptical, she seemed to have settled on the expectation that he wouldn't answer. No — more accurately, she wore an expression that seemed to hope he wouldn't.</p>
 
 <p>"He was the founder of The Face Gallery in Hong Kong, and now serves as an honorary advisor."</p>
 
 <p>He answered without hesitation.</p>
 
-<p>Seeing Yuni's eyes and expression subtly stiffen and tremble immediately after... it seemed that the fact that Ms. Suki Kim was his mother wasn't the only thing he hadn't told Yuni and Juhan.</p>
+<p>Seeing nuna’s eyes and expression subtly stiffen and tremble immediately after... it seemed that the fact that Ms. Suki Kim was his mother wasn't the only thing he hadn't told nuna and hyung.</p>
 
 <p>The story about his father was new to me as well.</p>
 
@@ -351,9 +351,9 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"I'm also a huge personal fan of Suki Kim. Although I haven't been lucky enough to acquire any of her works."</p>
 
-<p>Yuni's lips, which had remained silent the whole time, parted slightly as if to say something, then immediately pressed shut. Clutching the glass filled with a lime-green cocktail, she lowered her gaze. It seemed that even meeting Chloe Kent could no longer excite her.</p>
+<p>Nuna’s lips, which had remained silent the whole time, parted slightly as if to say something, then immediately pressed shut. Clutching the glass filled with a lime-green cocktail, she lowered her gaze. It seemed that even meeting Chloe Kent could no longer excite nuna.</p>
 
-<p>Given the dim lighting and how focused everyone was on the conversation, it was hard to tell whether he truly hadn't noticed Yuni's awkward reaction or if he was deliberately ignoring it.</p>
+<p>Given the dim lighting and how focused everyone was on the conversation, it was hard to tell whether he truly hadn't noticed nuna’s awkward reaction or if he was deliberately ignoring it.</p>
 
 <p>He placed a hand firmly on my shoulder, squeezing it for emphasis, and leaned his upper body a little closer toward Kent.</p>
 
@@ -361,25 +361,25 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Director."</p>
 
-<p>Yuni, who suddenly called out to him in Korean, looked surprised by her own action. Kent turned to look at Yuni and asked if she was alright. Yuni quickly composed herself and managed a slightly awkward smile. At that moment, my suspicion was confirmed — that he hadn't hinted anything about the New York branch to Yuni, just as he hadn't to me.</p>
+<p>Nuna, who suddenly called out to him in Korean, looked surprised by her own action. Kent turned to look at nuna and asked if she was alright. Nuna quickly composed herself and managed a slightly awkward smile. At that moment, my suspicion was confirmed — that he hadn't hinted anything about the New York branch to nuna, just as he hadn't to me.</p>
 
 <p>"Ah... I apologize. I think I need to make a call to another employee remaining in Seoul. If you don't mind... may I step away for a moment?"</p>
 
-<p>As Yuni, having sought permission, hurried past us, he grasped her shoulder and asked what was wrong. She glanced quickly toward Kent, then said she thought she had drunk too much alcohol since the previous party, asking him to cover for her.</p>
+<p>As nuna, having sought permission, hurried past us, he grasped her shoulder and asked what was wrong. She glanced quickly toward Kent, then said she thought she had drunk too much alcohol since the previous party, asking him to cover for her.</p>
 
-<p>Weaving through the crowd of people loudly chatting and dancing, Yuni crossed the hall. While I wrestled with whether I should follow her, or if I did follow what I could possibly say to her, or whether it would be best to let him figure things out, she slipped out of the hall, turned into the corridor, and vanished from sight.</p>
+<p>Weaving through the crowd of people loudly chatting and dancing, nuna crossed the hall. While I wrestled with whether I should follow her, or if I did follow what I could possibly say to her, or whether it would be best to let him figure things out, she slipped out of the hall, turned into the corridor, and vanished from sight.</p>
 
 <p>"This certainly sounds like more than just a one-off exhibition. I think a lot of people will be interested."</p>
 
-<p>After saying that, Kent immediately introduced several people to him right there on the spot. The area around two standing tables quickly became crowded with people showing both personal and professional interest in the gallery that the founder of The Face Gallery and Suki Kim's son were opening in New York.</p>
+<p>After saying that, Kent immediately introduced several people to him right there on the spot. The area around two standing tables quickly became crowded with people showing both personal and professional interest in the gallery that the son of The Face Gallery’s founder and Suki Kim were opening in New York.</p>
 
 <p>A few people standing around the tables shared brief impressions, mentioning they had seen my work at the gallery earlier that day. Others inquired about the other artists represented by his gallery, while still others tried to build rapport by indirectly expressing interest in his parents and showing their goodwill toward him.</p>
 
 <p>While the atmosphere wasn't stiff, it certainly wasn't a place where I felt at ease. He was skillfully leading the mood of the gathering with a pleasant demeanor that wasn't overly forward, but I couldn't be sure if he was genuinely enjoying himself.</p>
 
-<p>I disliked the envy that attributed everything to his parents, but I disliked the flattery just as much. I had no intention of becoming a casualty for those who loved judging others' lives — whispering that this was just the shallow performance of a prince who wanted the title of self-made success too.</p>
+<p>He had said he disliked the envy that attributed everything to his parents, but he had said he disliked the flattery just as much. He had had no intention of becoming a casualty for those who loved judging others' lives — whispering that this was just the shallow performance of a prince who wanted the title of self-made success too.</p>
 
-<p>His stories about wanting to be just himself, regardless of his origins or background... The tentative empathy and connection forged that night. And the way he was presenting himself here now... It wasn't just Yuni who was confused.</p>
+<p>His stories about wanting to be just himself, regardless of his origins or background... The tentative empathy and connection forged that night. And the way he was presenting himself here now... It wasn't just nuna who was confused.</p>
 
 <p>There must be a reason. I wasn't trying to judge him right now.</p>
 
@@ -387,7 +387,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>I just wanted to know the reason if his thinking had changed from before. I wanted to understand him.</p>
 
-<p>Suppressing the urge to leave and find Yuni, I handed my empty glass to the waiter and smiled gratefully at the woman beside me who offered me a new cocktail. She introduced herself as the editor-in-chief of an art magazine published in Chicago, and mentioned she planned to feature an article on Shushu's exhibition in the next issue.</p>
+<p>Suppressing the urge to leave and find nuna, I handed my empty glass to the waiter and smiled gratefully at the woman beside me who offered me a new cocktail. She introduced herself as the editor-in-chief of an art magazine published in Chicago, and mentioned she planned to feature an article on Shushu's exhibition in the next issue.</p>
 
 <p>Just then, someone grabbed her shoulder and pulled her toward the outside, greeting her loudly and boisterously. Although they exchanged brief pleasantries — apparently knowing each other — she didn't seem particularly pleased to see him.</p>
 
@@ -411,13 +411,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Hmm. What a shame. It seemed like there would be a lot of interesting things happening at that gallery..."</p>
 
-<p>The chief curator from the Chicago Art Institute, whom I had visited that afternoon — distinguished by his well-groomed beard and scholarly glasses — stepped forward to introduce the blonde man to him.</p>
+<p>The chief curator from the Chicago Art Institute, which I had visited that afternoon — distinguished by his well-groomed beard and scholarly glasses — stepped forward to introduce the blonde man to him.</p>
 
 <p>The man, who said he had come from Miami to attend today's VIP opening at the invitation of the gallery hosting Shushu's exhibition, was the son of a collector famous for buying a work by a renowned artist for twenty thousand dollars when the artist was unknown and reselling it ten years later for a profit of ten million dollars. He himself was now one of the well-known collectors in the southern United States.</p>
 
 <p>"Collector, sure. Sounds more like a speculator to me."</p>
 
-<p>He leaned close to my ear and whispered in Korean. Since he had a smiling face, no one could guess what he said — and if it had been Yuni or Juhan, they would have skillfully played along and laughed with him — but my heart fluttered for no reason, so I glanced sideways at the man across from us.</p>
+<p>He leaned close to my ear and whispered in Korean. Since he had a smiling face, no one could guess what he said — and if it had been Yuni nuna or Juhan hyung, they would have skillfully played along and laughed with him — but my heart fluttered for no reason, so I glanced sideways at the man across from us.</p>
 
 <p>Our eyes met, and the man raised the glass holding a cocktail as vibrant as his hair color, flashing a bright smile toward me. I quickly looked away, unable to even manage an awkward smile.</p>
 
@@ -447,7 +447,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Everyone present stiffened with discomfort, but the man didn't seem to care in the least. He was so rude and frivolous that it seemed he was deliberately trying his hardest to make the atmosphere frigid.</p>
 
-<p>Morae nuna, Manager Han, Inwu hyung, even Awi. How sensible the Alphas around me had been until now.</p>
+<p>Morae, Manager Han, Inwu hyung, even Awi. How sensible the Alphas around me had been until now.</p>
 
 <p>The realization that this repulsive man before me was, whether I acknowledged it or not, a facet of a world I hadn't known — it sent a chill down my spine, like feeling the scales of a snake crawling over bare skin.</p>
 
@@ -489,7 +489,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Two burly employees, responding to Conner's call, rushed over and helped the man up as if escorting him, leading him out of the hall. Conner followed behind them. Some of the people present approached Jane and began discussing the situation with her. Jane nodded and apologized to them on his behalf.</p>
 
-<p>"It's alright. To be honest, everyone was just holding back because he's a big-spending client, but no one here has a reason to blame Mr. Liu. He treated his own artists like they could be bought with money... How could we just stand by and listen to that?"</p>
+<p>"It's alright. To be honest, everyone was just holding back because he's a big-spending client, but no one here has a reason to blame Mr. Liu. He treated his own artists like prostitutes who could be bought with money... How could we just stand by and listen to that?"</p>
 
 <p>After hearing their explanations, Jane turned her gaze — first to him, still breathing heavily — and then to me standing behind him.</p>
 
@@ -517,7 +517,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Adding that, she patted his back a couple of times before looking back and forth between him and me with a cautious gaze.</p>
 
-<p>"Yeehyeon, he's an Omega you're involved with, right?"</p>
+<p>"Yeehyeon is the Omega you’re involved with, right?"</p>
 
 <p>"......"</p>
 
@@ -565,11 +565,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Is that so?"</p>
 
-<p>Jane's face brightened. She looked thrilled and pleased, as if she were meeting her son's first girlfriend. However, she didn't launch into the standard questions that seem to follow couples around — how long they'd been dating, how the relationship started, who confessed first, and so on.</p>
+<p>Jane's face brightened. She looked thrilled and pleased, as if she were meeting her son’s first partner. However, she didn't launch into the standard questions that seem to follow couples around — how long they'd been dating, how the relationship started, who confessed first, and so on.</p>
 
 <p>Unsure how to react to Jane, who sent me a slightly mischievous smile with her eyes sparkling, I awkwardly averted my gaze and let out a long, silent breath.</p>
 
-<p>"A lot of people got a good impression of you today. Conner and I will support you no matter what you decide. Don't worry about what happened just now. If you've been navigating the art scene, there have been far more times when things like that didn't come to light."</p>
+<p>"A lot of people got a good impression of you today. Conner and I will support you no matter what you decide. Don't worry about what happened just now. If he’s been behaving like that in the art world all along, there must have been far more incidents that never came to light."</p>
 
 <p><em>They're not people you should be concerned about</em>, she added, as if encouraging him, tightly gripping and releasing his wrist once. <em>By now, they've probably figured out who you are and are tearing their hair out on their side.</em></p>
 
@@ -631,7 +631,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>A look of greater relief settled in his eyes than before.</p>
 
-<p>"I didn't come all this way just to hear garbage like that.... I'm sorry."</p>
+<p>"I didn’t bring you all this way just to have you hear garbage like that.... I'm sorry."</p>
 
 <p>He scowled, recalling the words the blond man had spoken.</p>
 
@@ -645,13 +645,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>In the voice that spoke those words, relief mingled with a cool displeasure.</p>
 
-<p>I hadn't noticed, of course, but the blond man had likely exposed his pheromones toward me. If he had mistaken me for an Omega and tried to sexually disrupt and seduce me with his pheromones... then it would have been more understandable that Awi couldn't control himself and expressed his anger to that extent. After all, hardly anyone could remain composed while witnessing someone seduce or insult the person they like in such a vulgar manner right before their eyes.</p>
+<p>I hadn't noticed, of course, but the blond man had likely exposed his pheromones toward me. If he had mistaken me for an Omega and tried to sexually disrupt and seduce me with his pheromones... then it would have been more understandable that he couldn’t control himself and expressed his anger to that extent. After all, hardly anyone could remain composed while witnessing someone seduce or insult the person they like in such a vulgar manner right before their eyes.</p>
 
 <p>The man I met at The Face Gallery party in Hong Kong — who, now that I think about it, also had striking blond hair. Even when that man released his pheromones toward me, he had acted roughly. But not to the extent of completely breaking the bounds of restraint the way he was now.</p>
 
 <p>Staring at his thick lashes as he kept his lips pressed against my middle finger with his eyes lowered, a sudden curiosity arose. I had actually been preoccupied with it ever since Jane mentioned "protective instinct toward an Omega one is currently involved with." I hesitated, worried I might seem nosy, but my curiosity outweighed that concern.</p>
 
-<p>"When an Omega becomes your lover, do you become... like a different person — willing to go through fire and water for that person?"</p>
+<p>"When an Omega becomes your lover, Director, do you become... like a different person — willing to go through fire and water for that person?"</p>
 
 <p>"......"</p>
 
@@ -675,7 +675,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Things like someone else becoming my partner. Even just imagining it for a moment..."</p>
 
-<p>Seeing him pout over such a trivial thing was endearing, and only then did my own tension ease, bringing a laugh to my lips. It felt like I'd landed a light, unexpected punch on him — a pleasant one.</p>
+<p>Seeing him pout over such a trivial thing was endearing, and only then did my own tension ease, bringing a laugh to my lips. It felt like he’d landed a light, unexpected punch on me — a pleasant one.</p>
 
 <p>In the past, I never would have imagined that he would lose his composure over something so small in a relationship.</p>
 
@@ -715,7 +715,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Although he pulled away from me, he kept holding both my arms, breathing out with a look in his eyes that clearly showed he wanted more. Feeling like I shouldn't steer the atmosphere in that direction, I cleared my throat a couple of times and changed the subject.</p>
 
-<p>"It seemed like... Yuni was really shocked."</p>
+<p>"It seemed like... nuna was really shocked."</p>
 
 <p>"......"</p>
 
@@ -739,17 +739,17 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>I understood what he meant and didn't ask. He stood up first, offering an awkward smile.</p>
 
-<p>Only after slowly finishing the glass of water, which had gone completely cold, did I leave the room. Despite the commotion, the party was still in full swing. It almost seemed as if the uninvited guest's departure had only heightened the excitement. He appeared to be surrounded by people, offering apologies. Instead of approaching his circle, I decided to look for Yuni.</p>
+<p>Only after slowly finishing the glass of water, which had gone completely cold, did I leave the room. Despite the commotion, the party was still in full swing. It almost seemed as if the uninvited guest's departure had only heightened the excitement. He appeared to be surrounded by people, offering apologies. Instead of approaching his circle, I decided to look for nuna.</p>
 
-<p>Beyond the terrace windows, which resembled a glass conservatory, Yuni was talking with Reed poolside. Although they followed each other on social media, this was their first time meeting in person today, and judging by their expressions, it seemed like they were having a real conversation, not just light small talk. It seemed best not to interrupt.</p>
+<p>Beyond the terrace windows, which resembled a glass conservatory, nuna was talking with Reed Rogers poolside. Although they followed each other on social media, this was their first time meeting in person today, and judging by their expressions, it seemed like they were having a real conversation, not just light small talk. It seemed best not to interrupt.</p>
 
 <p>I stopped awkwardly on the terrace between the hall and the pool, and when I turned back, he had already returned to his usual pleasant and relaxed demeanor from before the commotion, mingling with the crowd.</p>
 
 <p>Even though he wasn't the type to actively take the lead or talk much, he always seemed to be the center of any group. A man standing diagonally across from him was telling some story accompanied by grand gestures. People laughed lightly, and when he smiled, everyone's laughter instantly amplified. Standing far away from the group, that dynamic was even clearer to see.</p>
 
-<p>It reminded me of the first VIP opening party I attended as temporary staff, shortly after we first met. I was stationed at the information desk with Juhan then, watching him surrounded by people, laughing. I tried hard to imagine the desperation beneath the surface — the grim determination of someone paddling furiously under the water, even though it looked like he effortlessly obtained everything.</p>
+<p>It reminded me of the first VIP opening party I attended as temporary staff, shortly after we first met. I was stationed at the information desk with Juhan hyung then, watching him surrounded by people, laughing. I tried hard to imagine the desperation beneath the surface — the grim determination of someone paddling furiously under the water, even though it looked like he effortlessly obtained everything.</p>
 
-<p>I wanted some fresh air, but I didn't want to catch anyone's eye and interrupt Yuni and Reed. I moved further inside the terrace, into the shadows cast by a lush, leafy garden tree where the light didn't reach, and quietly sat down on a metal chair.</p>
+<p>I wanted some fresh air, but I didn't want to catch anyone's eye and interrupt nuna and Reed. I moved further inside the terrace, into the shadows cast by a lush, leafy garden tree where the light didn't reach, and quietly sat down on a metal chair.</p>
 
 <p>From there, I could see his face even better than from where I had been standing moments before. I was watching him burst into laughter in response to someone's joke when I realized I was mirroring his laughter. Once I became aware of it, my smile froze awkwardly.</p>
 
