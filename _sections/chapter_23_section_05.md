@@ -17,7 +17,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>If that was true, and if the "reliable source" mentioned in the article was Liu... then Liu was now concerned about Hong Seon-yu moving his base of operations back to Korea — and in doing so, closing the distance between himself and Shushu.</p>
 
-<p>Thinking of Liu's rough face as he came home late night after night — meeting with affiliated artists, important industry contacts, and clients to personally announce Phantom's expansion into New York — Yeehyeon glanced at the clock on the wall.</p>
+<p>Thinking of his rough face as he came home late night after night — meeting with affiliated artists, important industry contacts, and clients to personally announce Phantom's expansion into New York — Yeehyeon glanced at the clock on the wall.</p>
 
 <p>Just as he reached for his phone, he faintly heard a car entering the parking garage. Yeehyeon closed the magazine and set it on the table. Feeling impatient, he opened the door before Liu could even enter the password himself.</p>
 
@@ -33,7 +33,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Ah..."</p>
 
-<p>Liu's movements slowed as he set his briefcase and jacket down on the armchair in front of the sofa. He muttered, "That bastard, I told him not to say anything," and ran a hand over his eyebrow before quickly adopting a lighter expression and straightening up.</p>
+<p>Liu's movements slowed as he set his briefcase and jacket down on the armchair in front of the sofa. He muttered, "That brat, I said not to tell," and ran a hand over his eyebrow before quickly adopting a lighter expression and straightening up.</p>
 
 <p>"And you heard that nothing major happened, right? It wasn't really an accident. I was just making a left turn to enter the straight road, and the other car was waiting to make a U-turn — so we were both moving very slowly. I'm fine, the other person is fine. No one was hurt...."</p>
 
@@ -69,7 +69,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Liu said nothing, continuing to stroke Yeehyeon's neck as his gaze slowly drifted. It passed over the canvases of various sizes leaning against the wall with their backs turned, then stopped on a small framed piece on the sofa. It was a small work Suki Kim had gifted to Yeehyeon in Hong Kong.</p>
 
-<p>After it was confirmed that Liu was a Ghost, his parents' divorce had proceeded quickly. During the two years that followed — while Liu lived with Ellen and Marcus — Suki Kim had not painted a single thing.</p>
+<p>After it was confirmed that Liu was a Ghost, his parents' divorce had proceeded quickly. During the two years that followed — while she lived with Liu at Ellen and Marcus’s house — Suki Kim had not painted a single thing.</p>
 
 <p>Liu had known, even then, that both his father and mother carried guilt of no small weight regarding the fact that he was a Ghost. They never openly showed distress in front of him, but a parent's emotions inevitably transfer to their child.</p>
 
@@ -77,7 +77,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>But their guilt, unintentionally, had also poisoned Liu's sense of self as a Ghost.</p>
 
-<p><em>Am I sick? Is this a disease — am I a carrier threatening others? Is that why my parents feel sorry for me?</em></p>
+<p><em>Am I sick? Is this a disease — am I a carrier threatening others? Is that why my parents feel guilty toward me?</em></p>
 
 <p>His father's maternal family wasn't the only issue. The power to alter the very essence of a human body might be seen as a special ability depending on one's interpretation, but to those who actually came into contact with that person, it was nothing more than a fear to be avoided, or at least an unsettling factor.</p>
 
@@ -121,7 +121,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Yeehyeon was not the type to utter words of love while wallowing in sweet sentimentality, relying on feelings that hadn't yet fully solidified.</p>
 
-<p>But what he loved was Liu Weikun — the Liu Weikun who had not Changed him. The moment he learned the truth, that Liu Weikun would no longer be the one Yeehyeon thought he knew.</p>
+<p>But what he loved was Liu Weikun — the Liu Weikun who had not Changed him. The moment he learned the truth, that Liu Weikun would no longer be the one Seo Yeehyeon thought he knew.</p>
 
 <p>Every time Liu became conscious of that fact, it felt as though the rope barely supporting him beneath his feet was thinning to a thread.</p>
 
@@ -135,7 +135,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Pardon?"</p>
 
-<p>Liu gestured with his chin toward the inverted canvases stacked behind Yeehyeon.</p>
+<p>He gestured with his chin toward the inverted canvases stacked behind Yeehyeon.</p>
 
 <p>"It doesn't seem like you've been making much progress."</p>
 
@@ -171,7 +171,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"I already have a contract with a capable gallerist."</p>
 
-<p>Yeehyeon let out a small laugh and took the cigarette from Liu's fingers. He looked up to meet Liu's gaze as he held his waist and looked down, and took a deep drag. Liu's long, straight fingers slowly stroked the lips that were clumsily exhaling smoke.</p>
+<p>Yeehyeon took the cigarette from Liu’s fingers as Liu let out a small laugh. With Liu's arm around his waist, Yeehyeon looked up to meet his gaze and took a deep drag. Liu's long, straight fingers slowly stroked the lips that were clumsily exhaling smoke.</p>
 
 <p>Yeehyeon handed the cigarette back to Liu, whose lips looked drier than usual, then hooked a finger into the loose knot of his tie and gently pulled. He worked the remaining buttons of the shirt — already undone at the top — free, and buried his lips at the base of Liu's firm nape.</p>
 
@@ -187,13 +187,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>The shirt, sleeves flipped inside out, fell away behind him. Liu, bare-chested now, pulled up the hem of Yeehyeon's T-shirt and kissed him. He tossed the removed shirt roughly toward the sofa, then chuckled as he patted down Yeehyeon's hair — tousled where the neckline had passed over his head — and ran his fingers through it.</p>
 
-<p>Liu held Yeehyeon's face in his gaze as he smiled back, then slowly slid his hand down the length of him, tracing over skin from his hair to his neck, his shoulder, down his arm to his wrist.</p>
+<p>He held Yeehyeon's face in his gaze as he smiled back, then slowly slid his hand down the length of him, tracing over skin from his hair to his neck, his shoulder, down his arm to his wrist.</p>
 
 <p>His own hands were dry, but intertwined with Yeehyeon's warm, faintly damp fingers, he gently led him toward the bedroom. Liu closed the door, shutting out the studio lights. In the dim twilight, only the white sheets on the bed reflected a faint glow. Normally, seeing that would have prompted some suggestive joke about it being a room with obvious purpose — but even that thought didn't cross his mind right now.</p>
 
-<p>Sitting on the edge of the tall bed, relying on the muted light filtering in from the garden-facing window, Liu gently placed a hand against Yeehyeon's cheek. It was as if all surrounding sound had been sucked away. The silence was like that of a tomb. Only the gaze of Yeehyeon looking straight at him and the warmth of his skin against his palm felt truly alive.</p>
+<p>Sitting on the edge of the tall bed, relying on the muted light filtering in from the garden-facing window, he gently placed a hand against Yeehyeon's cheek. It was as if all surrounding sound had been sucked away. The silence was like that of a tomb. Only the gaze of Yeehyeon looking straight at him and the warmth of his skin against his palm felt truly alive.</p>
 
-<p>No kissing, no touching. Yeehyeon, who had until now been overwhelmed just by receiving what Liu gave him as he led the way, tilted his head and came forward first. Tracing the clean lines of Yeehyeon's face with his fingertips as he lowered his eyelids to look at Liu's lips, Liu parted his own in response.</p>
+<p>Whether kissing or caressing, Yeehyeon had always been overwhelmed just receiving the pleasure Liu gave him as he took the lead. But this time, Yeehyeon was the first to tilt his head and lean in. As Yeehyeon lowered his eyelids, his gaze on Liu's lips, Liu traced the clean lines of his face with his fingertips and parted his lips to meet him.</p>
 
 <p>Pressing their lips together as if to fill the gap between them, firmly enough to distort their shape, then pulling back — their dry lips clung together and separated slowly. In the unnervingly quiet room, the sound of friction made by the kiss was unusually sharp, grazing his hearing.</p>
 
@@ -207,15 +207,15 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"......"</p>
 
-<p>In the silence and darkness, Liu pressed down firmly on Yeehyeon's shoulder. Yeehyeon knew what that meant. After holding Liu's gaze for a moment, he changed the direction of his head and lay down. The underwear that had been half-removed slid completely off, and the two buried their mouths between each other's legs without hesitation.</p>
+<p>In the dark and silence, Liu pressed firmly down on Yeehyeon's shoulder. Yeehyeon knew what he meant. He held Liu's gaze for a moment, then turned the other way and lay down. The underwear that had been halfway off slipped away completely, and without hesitation they buried their mouths between each other's legs.</p>
 
-<p>Liu's cock was already hard by then. Just seeing its distinct shape and breathing in the sexual scent of him made Yeehyeon's insides grow urgent and his breath falter. Liu pulled him close, cupped his firm ass, and filled his mouth with the smooth, warm head. Lying on his side, he traced the curve of taut abdominal muscle under smooth skin, felt the line of Yeehyeon's raised right knee, brushed his fingertips through the coarse hair, and savored every part of his beautiful body with his own.</p>
+<p>Liu was already hardening. Just seeing the clear shape of his cock and breathing in his scent made Yeehyeon's breath falter with a sudden urgency. He pulled Liu close, gripping the firm flesh of his ass as the smooth head filled his mouth. Lying on his side, he felt along Liu's bent right leg and the hard curves of muscle beneath the smooth skin of his stomach. He brushed his fingertips through Liu's pubic hair, taking in every part of that beautiful body with his own.</p>
 
 <p>"Haa, hah... ngh..."</p>
 
-<p>Liu’s fingers, skillfully sucking and pressing against Yeehyeon's cock, moved down between his cheeks, scratched along the cleft, and circled slowly around the entrance to his hole. Yeehyeon spat him out and clung tighter to Liu's body as if holding on for dear life. The slow rotation of the fingers gently digging in and stretching the entrance made his hips twist. He rubbed his face against the rigid cock — already slick with thick pre-cum — and stuck out his tongue to lick up the heavy length of it.</p>
+<p>Liu sucked Yeehyeon's cock deftly, applying pressure as his fingers raked down the cleft between Yeehyeon's cheeks and circled his opening. Yeehyeon let the head slip from his mouth and clung tighter to Liu. The slow turn of Liu's fingers as they eased inside and stretched him made Yeehyeon's hips twist. He rubbed his face against Liu's hard cock, already slick with thick pre-cum, then ran his tongue up the heavy shaft.</p>
 
-<p>The hands stroking and caressing each other felt less like acts of lust than like a desperate attempt to feel something invisible through touch. An effort to find in each other's bodies enough stimulation to numb an anxiety whose origin neither of them could name.</p>
+<p>There was something more desperate than lust in the way they touched each other, as though they were trying to feel with their hands what they couldn't see. It was as if each were searching the other's body for a sensation strong enough to numb the unease, without knowing which of them it had started with.</p>
 
 <p>To confirm, and to be confirmed. That they were still by each other's side.</p>
 
@@ -275,13 +275,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Yeehyeon didn't name what he wanted, but Liu needed no object.</p>
 
-<p>Liu sank his teeth into Yeehyeon's collarbone — demanding to be knotted — and pulled his slender waist tighter. As the pleasure of each thrust grew sharper, Yeehyeon clutched Liu's head and bit down on his lower lip.</p>
+<p>Liu sank his teeth into Yeehyeon’s collarbone — Yeehyeon was asking him to knot — and pulled his slender waist tighter. As the pleasure of each thrust grew sharper, Yeehyeon clutched Liu's head and bit down on his lower lip.</p>
 
 <p>"Back then... in Hong Kong. You lost control and ended up knotting, didn't you? Without Awi even knowing."</p>
 
 <p>"......"</p>
 
-<p>Yeehyeon remembered Liu afterward — apologizing again and again, forcing himself to withdraw while still hard, trying to scrape the slick from inside him. And even now, Liu was looking at him with that same expression: clear, hollow eyes, like a helpless and fragile boy.</p>
+<p>Yeehyeon remembered Liu afterward — apologizing again and again, forcing himself to withdraw while still hard, trying to scrape the semen from inside him. And even now, Liu was looking at him with that same expression: clear, hollow eyes, like a helpless and fragile boy.</p>
 
 <p>Yeehyeon arched his back and hips, stimulating Liu inside him, and stroked his hair.</p>
 

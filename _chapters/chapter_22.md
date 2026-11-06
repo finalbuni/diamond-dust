@@ -61,17 +61,17 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"It is that bad."</p>
 
-<p>He muttered, lowering his voice and glancing around. His expression was serious, but this was how he joked.</p>
+<p>"Take it off quickly if you don’t want to see me hauled away," he muttered, lowering his voice and glancing around. His expression was serious, but this was how he joked.</p>
 
 <p>I went back into the fitting room and changed. When I came out he took the hoodie from me and, instead of returning it to its spot, dropped it into the shopping basket.</p>
 
 <p>Noticing my puzzled look, he picked up one of the many mugs crowding a three-tiered display stand, turned it over in his hands, and explained.</p>
 
-<p>"I wasn't saying don't wear it — or that we weren't buying it. I said you look young. I didn't say it doesn't suit you. That's a different thing entirely."</p>
+<p>"I meant you shouldn’t wear it here. I didn’t say we weren’t buying it. I said you look young. I didn't say it doesn't suit you. That's a different thing entirely."</p>
 
 <p>I shook my head and laughed. He looked over at me with a faint smile, then went back to repeatedly attaching and detaching a Harvard magnet from a metal pillar.</p>
 
-<p>"How about getting something for Yeehan and Morae too?"</p>
+<p>"How about getting something for hyung and nuna too?"</p>
 
 <p>"We already bought a T-shirt, mugs, notebooks... and pencils," I said, pointing to the already overflowing basket he was carrying.</p>
 
@@ -81,7 +81,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>My gaze dropped without meaning to. I was on this trip because of his generosity and consideration, and it wasn't as though I felt no guilt or burden alongside the gratitude. Even setting me aside, he was generous to the people around him — especially those younger than himself — but what he gave me far surpassed ordinary generosity, favor, or kindness. Even accounting for the fact that we were together.</p>
 
-<p>He had even prepared a separate allowance for me before we left Seoul, for personal use on the trip. With it I'd bought popcorn and coffee for nuna, eaten a muffin at a café, paid museum entrance fees, and bought a tumbler for Inwu hyung. I could have used it for gifts for Morae nuna and Yeehan hyung too, but it was still his money at the end of the day. I was trying to spend it carefully, planning to return whatever was left over.</p>
+<p>He had even prepared a separate allowance for me before we left Seoul, for personal use on the trip. With it I'd bought popcorn and coffee with nuna, eaten a muffin at a café, paid museum entrance fees, and bought a tumbler for Inwu hyung. I could have used it for gifts for Morae and hyung too, but it was still his money at the end of the day. I was trying to spend it carefully, planning to return whatever was left over.</p>
 
 <p>"Seo Yeehyeon, aren't we dating?"</p>
 
@@ -117,9 +117,9 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"You asked if it's okay, but this isn't a question of whether I permit it or not. Mr. Lim isn't the type of person to send someone all the way to New York to tail you or drag you off somewhere. It won't be dangerous for you to work there."</p>
 
-<p>I tried briefly to recall if I had told him that Morae nuna's father was called "Mr. Lim," but I thought that if it were him, he would have looked into a few more things to be certain.</p>
+<p>I tried briefly to recall if I had told him that Morae's father was called "Mr. Lim," but I thought that if it were him, he would have looked into a few more things to be certain.</p>
 
-<p>After finishing our purchases — including gifts for Morae nuna and Yeehan hyung — we left the store and took the bus back across the Charles River. There was still time before the seven o'clock dinner with Marcus and Ellen, and though it wasn't much, we decided to spend every minute of it just the two of us.</p>
+<p>After finishing our purchases — including gifts for Morae and hyung — we left the store and took the bus back across the Charles River. There was still time before the seven o'clock dinner with Marcus and Ellen, and though it wasn't much, we decided to spend every minute of it just the two of us.</p>
 
 <p>"Is this too shabby?"</p>
 
@@ -151,7 +151,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He went on to say that among the contacts Chloe had introduced him to were several suitable partners who could provide real, practical assistance with the branch opening — which would save them a considerable amount of time.</p>
 
-<p>It was already past the middle of September. Even if I were a naive child with no understanding of the world, I could see that opening a gallery in a city like New York wasn't a simple matter. I also knew there were limits to handling something like that from a distant place like Seoul, through emails and video calls and phone calls alone. And he didn't want to hire someone to manage it in his place. To borrow a phrase Yuni nuna had once used — for him, Phantom wasn't a matter of survival. It was a matter of self-affirmation.</p>
+<p>It was already past the middle of September. Even if I were a naive child with no understanding of the world, I could see that opening a gallery in a city like New York wasn't a simple matter. I also knew there were limits to handling something like that from a distant place like Seoul, through emails and video calls and phone calls alone. And he didn't want to hire someone to manage it in his place. To borrow a phrase nuna had once used — for him, Phantom wasn't a matter of survival. It was a matter of self-affirmation.</p>
 
 <p>"Which means I'll probably need to be in New York a bit sooner than expected..."</p>
 
@@ -197,17 +197,17 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Resting the back of his head against the wall, he reached out his right arm and swept my long hair back, tucking it behind my ear. A group somewhere in the pub erupted in loud cheers and laughter — they seemed to be in the middle of a bet. But I couldn't take my eyes off his face.</p>
 
-<p>"I have no memory of ever showing kindness to anyone. So how did I end up meeting someone like you?"</p>
+<p>"I have no memory of ever showing kindness to anyone. So how did I end up meeting an angel like you?"</p>
 
-<p>I couldn't tell from his expression or tone whether he was twisting the situation or speaking sincerely. But even if the words were pointed, I could see that their edge was aimed at himself, not at me.</p>
+<p>I couldn't tell from his expression or tone whether he was being ironic or meant what he said. But if there was an edge to his words, I could tell it was aimed at himself, not at me.</p>
 
-<p>I watched his profile as he slowly dragged his tongue along the inside of his cheek, pulled away from the wall, and drank his beer — then I spoke, heavily.</p>
+<p>I watched him in profile as he slowly ran his tongue along the inside of his cheek, pushed away from the wall, and took a drink of beer. Then I spoke in a solemn voice.</p>
 
-<p>"Yuni nuna and Juhan hyung both rely on you and respect you — as a senior, as someone they look up to. And... they think of you as someone they owe a great debt to."</p>
+<p>"Yuni nuna and Juhan hyung both rely on you and look up to you, Director, both as their boss and as someone older. And… they feel they owe you a lot."</p>
 
 <p>"......"</p>
 
-<p>"You probably already know that."</p>
+<p>"You probably… already know that, though."</p>
 
 <p>A belated anxiety crept over me — that I might have overstepped by speaking about their relationship, one that had existed long before I came along. My gaze dropped to my hands, which were fidgeting with the beer bottle.</p>
 
@@ -227,9 +227,9 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He added, and pressed his lips to mine again. He didn't use his tongue, but it was a deep kiss — his whole mouth working to lick upward, grind flesh together, shift angles as they overlapped.</p>
 
-<p>I don't know how he interpreted my tension, but it wasn't that I lacked the boldness for this kind of contact in a place like this — it was more that I simply didn't care what anyone thought of us.</p>
+<p>I don't know how he interpreted my tension, but I simply wasn't bold enough for that kind of intimacy in a place like this. I didn't care what anyone thought of us, either.</p>
 
-<p>With a wet sound of friction our lips parted, and the hand that had been cupping the back of my neck slowly slid down my shoulder and upper arm. Finally he lingered a moment, his fingertips grazing my skin, before letting go. He worked his lips — the ones that had just been on mine — and tapped the tabletop with his index finger.</p>
+<p>With a wet sound of friction our lips parted, and the hand that had been cupping the back of my neck slowly slid down my shoulder and upper arm. Finally he toyed briefly with my fingertips before letting go. He worked his lips — the ones that had just been on mine — and tapped the tabletop with his index finger.</p>
 
 <p>"But no matter how much I've felt that way... it seems like there's been nothing for me to sacrifice for you."</p>
 
@@ -257,11 +257,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"......"</p>
 
-<p>"You will come to New York with me. That's the only answer I want."</p>
+<p>"‘I’ll come to New York with you.’ That’s the only answer I want."</p>
 
-<p>His eyes held certainty and confidence — but beneath that, a plea so fierce it nearly resembled desperation.</p>
+<p>His eyes seemed certain and confident, but held a plea so strong that it looked like certainty and confidence.</p>
 
-<p>I, for my part, had no real attachment to life in Korea or Seoul. My work wasn't there, and neither was anything I'd built. Morae nuna and Yeehan hyung had already left. If there was anything precious to name, it was only the few relationships tied to Phantom.</p>
+<p>I, for my part, had no real attachment to life in Korea or Seoul. My work wasn't there, and neither was anything I'd built. Morae and hyung had already left. If there was anything precious to name, it was only the few relationships tied to Phantom.</p>
 
 <p>If his home was to shift to another city, and he wanted me with him, I had no intention of refusing and staying behind in Seoul. I was only worried about the motive — why he was abandoning his principles and rushing the New York opening, just as Yuni nuna had said.</p>
 
@@ -291,9 +291,9 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Awi, give Jonas a call. When I told him you were here he was making such a fuss. You'll need to hear some complaints about being out of touch."</p>
 
-<p>He said it to the retreating back of the man heading toward the kitchen, then winked at me.</p>
+<p>Marcus said it to his back as he was about to head toward the kitchen, then winked at me.</p>
 
-<p>After stopping by the kitchen to greet Ellen and Margaret and ask if there was anything I could help with, I was practically shooed back into the drawing room — preparations were nearly done. While he spoke with Jonas in Marcus's study, I waited in the first-floor drawing room, sipping a glass of wine Margaret had poured me and taking in the family photos decorating the room from its thickly carpeted corners to its walls.</p>
+<p>After stopping by the kitchen with him to greet Ellen and Margaret and ask if there was anything I could help with, I was practically shooed back into the drawing room — preparations were nearly done. While he was on the phone with Jonas in Marcus's study, I waited in the first-floor drawing room, sipping a glass of wine Margaret had poured me and taking in the family photos decorating the room from its thickly carpeted corners to its walls.</p>
 
 <p>"This is from Kun's thirteenth birthday party. Impossibly handsome even at that age, wasn't he?"</p>
 
@@ -389,7 +389,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Of course, the conditions Ellen had at the time were exceptional — but even nearly thirty years after Jonas's birth, the procedure still came with high barriers: success rates remained low, and the cost was enormous. Ellen and Marcus explained that its development and wider adoption had inevitably been slow, due to limited demand.</p>
 
-<p>I didn't know yet whether Morae nuna and Yeehan hyung were aware of this procedure, or what they would think if they learned of it — I didn't even know whether the two of them wanted children. But as soon as I returned to Seoul, I planned to email them whatever materials I could put together, with help from Ellen, Marcus, and him.</p>
+<p>I didn't know yet whether Morae and hyung were aware of this procedure, or what they would think if they learned of it — I didn't even know whether the two of them wanted children. But as soon as I returned to Seoul, I planned to email them whatever materials I could put together, with help from Ellen, Marcus, and him.</p>
 
 <p>I didn't think having children was the completion or proof of love. But the fact that even a slim chance might exist as an option for them made something in me light up.</p>
 
@@ -401,19 +401,19 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Ah... I've become an old man now. When Kun first came to this house I was a vigorous forty-something — I could carry on past midnight without feeling a thing."</p>
 
-<p>Marcus watched the broad, steady line of his back disappearing into the dining room with Ellen, and smiled a smile that held both warmth and a quiet sadness, shaking his head slightly.</p>
+<p>Marcus watched the broad, steady line of his back leaving the dining room with Ellen, and smiled a smile that held both warmth and a quiet sadness, shaking his head slightly.</p>
 
 <p>"Both Kun and Jonas — when did those teenage boys, the ones still trying to figure out who they were, turn into fully grown young men like this? They're not even in their twenties anymore. They've grown up."</p>
 
 <p>"......"</p>
 
-<p>"I never thought I'd live to see Liu Weikun bring someone home to meet us."</p>
+<p>"I never thought I'd live to see Liu Weikun bring a partner home to meet us."</p>
 
-<p>Marcus leaned forward from his relaxed posture, putting emphasis on the word "someone" in a teasing tone, and went on to describe how remarkable an occasion this was, given what he knew of his personality. He added that having me visit alongside him brought him several times more joy than if he'd come alone.</p>
+<p>Marcus leaned forward from his relaxed posture, putting emphasis on the word "partner" in a teasing tone, and went on to describe how remarkable an occasion this was, given what he knew of his personality. He added that having me visit alongside him brought him several times more joy than if he'd come alone.</p>
 
 <p>I smiled quietly to myself — at least the people around him all seemed to hold the same view of his romantic life — and drank a little more wine.</p>
 
-<p>Recalling the conversation from the previous evening about Jonas, Marcus asked me a few questions about Morae and Yeehan. He didn't probe for details, since it concerned people not present, but Marcus was the kind of person whose experience and wisdom ran deep enough to grasp the heart of a situation from just a few brief hints.</p>
+<p>Recalling the conversation from the previous evening about Jonas, Marcus asked me a few questions about Morae and hyung. He didn't probe for details, since it concerned people not present, but Marcus was the kind of person whose experience and wisdom ran deep enough to grasp the heart of a situation from just a few brief hints.</p>
 
 <p>"Ellen and I didn't have it easy either."</p>
 
@@ -431,7 +431,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>In the quiet room, punctuated only by the occasional soft pop of a candle dying, Marcus's voice continued, low and steady.</p>
 
-<p>"From the time we first met in high school, she was already a Golden who could control her pheromones almost perfectly — so I never needed to be conscious of their existence while I was with her. But the more I studied... even while I loved her... I came to realize that because I couldn't feel them, and because she never complained, I had been treating her pheromones as though they were a fantasy. As though they simply didn't exist."</p>
+<p>"From the time we first met in high school, she was already a Golden who could control her pheromones almost perfectly — so I never needed to be conscious of their existence while I was with her. But the more I studied... even while I loved her... I came to realize that because I couldn't feel them, and because she never complained, I had been treating her pheromones as though they had no effect on her — a fantasy that might as well not exist."</p>
 
 <p>Marcus paused for a moment and drained the small amount of wine remaining at the bottom of his glass. I looked down at the candle in its holder — the flame guttering, not long for this world — and waited for him to go on.</p>
 
@@ -461,13 +461,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"When I came to understand that pheromones aren't simply dangerous — not just a drug that invites assault — but that between two people who love each other, an Alpha and an Omega, they can serve as the conduit for the deepest kind of connection, something close to liberation... it became even harder to bear. Even knowing she wasn't sharing that connection with anyone else, the mere fact that a world of closeness existed within her that I could never reach — and that I had no possibility of sharing it — was enough to send me reeling with groundless jealousy and a sense of inadequacy."</p>
 
-<p>I reached for the half-full wine bottle nearby and refilled my glass. Marcus extended his empty glass as well. I remembered his words of concern, and hesitated — but I couldn't refuse to pour.</p>
+<p>I reached for the half-full wine bottle nearby and refilled my glass. Marcus extended his empty glass as well. I remembered the Director’s concern for Marcus, and hesitated — but I couldn't refuse to pour.</p>
 
 <p>Ted barked twice from the backyard. It sounded as though Ellen and he were making the most of their first stretch of time alone together since yesterday, taking it slowly. Marcus and I focused on our wine in silence for a moment.</p>
 
 <p>Everyone around him had described him as a Golden Alpha who could control his pheromones perfectly — a rare Alpha who deeply disliked and disdained any pheromonal influence.</p>
 
-<p>He had never once expressed a wish that I might have been an Omega instead. Because of that, I had been entirely at ease. I had forgotten he was an Alpha. Or at least, I hadn't taken it seriously. With a Beta-centric way of thinking, just as Marcus described. The same way I had been with Morae nuna.</p>
+<p>He had never once expressed a wish that I might have been an Omega instead. Because of that, I had been entirely at ease. I had forgotten he was an Alpha. Or at least, I hadn't taken it seriously. With a Beta-centric way of thinking, just as Marcus described. The same way I had been with Morae.</p>
 
 <p>I hadn't tried to understand what it meant to be an Alpha — what kind of suppression was required, or how much of a burden it was. I had simply assumed that since they didn't complain, pheromones must not be a significant part of their lives as long as they didn't interfere with daily routines.</p>
 
@@ -489,11 +489,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"What were you two talking about? Badmouthing me again?"</p>
 
-<p>He bent down from behind me, wrapped his arms around my waist, and kissed my cheek. At that display of affection, Marcus and Ellen both widened their eyes and looked at each other. Marcus in particular gave a dry cough and reached for water instead of wine.</p>
+<p>He bent down from behind me, wrapped his arms around my neck, and kissed my cheek. At that display of affection, Marcus and Ellen both widened their eyes and looked at each other. Marcus in particular gave a dry cough and reached for water instead of wine.</p>
 
 <p>"I'm terrified I'm going to get a breakup notice the moment we get back to Seoul. Please, no more badmouthing — for real."</p>
 
-<p>With his joke, the long dinner came to its end. We all carried the dishes to the kitchen together so that Margaret would have an easier time cleaning up the next day, and then left the dining room. Marcus, who had seemed fine while seated, staggered slightly as the alcohol caught up with him the moment he stood. By the time we reached the hallway, his face was flushed a deep red. He tried to support him toward the bedroom, but Marcus waved him off, insisting he was fine, and disappeared into the bedroom on the first floor with Ted.</p>
+<p>With his joke, the long dinner came to its end. We all carried the dishes to the kitchen together so that Margaret would have an easier time cleaning up the next day, and then left the dining room. Marcus, who had seemed fine while seated, staggered slightly as the alcohol caught up with him the moment he stood. By the time we reached the hallway, his face was flushed a deep red. The Director tried to support Marcus toward the bedroom, but Marcus waved him off, insisting he was fine, and disappeared into the bedroom on the first floor with Ted.</p>
 
 <p>I was watching Marcus's retreating back with a flicker of worry, about to head up to the second floor, when Ellen lightly took hold of my arm. He turned to look, said he'd go up ahead, and gave the back of my neck a gentle brief squeeze before heading upstairs. Ellen, watching him go with an expression that mingled playfulness and something softer, stroked my arm from where she stood at the foot of the stairs.</p>
 
@@ -559,7 +559,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"......"</p>
 
-<p>"My father's maternal family is a quite prominent family in England. My father's maternal grandfather held a dukedom — one of only about thirty remaining in England at the time — and now my father's eldest maternal uncle, my maternal grandfather's first son, has inherited the title. Modern noble titles are largely ceremonial, but not entirely so at the level of a dukedom. In European society, including England, and in high-society circles around the world, the title still carries real weight — and in fact, my father's maternal family accumulated enormous wealth and influence precisely by maintaining it."</p>
+<p>"My father's maternal family is a quite prominent family in England. My father's maternal grandfather held a dukedom — one of only about thirty remaining in England at the time — and now my father's maternal uncle, the eldest son of his maternal grandfather, has inherited the title. Modern noble titles are largely ceremonial, but not entirely so at the level of a dukedom. In European society, including England, and in high-society circles around the world, the title still carries real weight — and in fact, my father's maternal family accumulated enormous wealth and influence precisely by maintaining it."</p>
 
 <p>He was rubbing the pencil eraser across the tabletop now, though there was nothing there to erase. I just stared at him, lips parted, forgetting to blink, completely unprepared for the direction this story was taking.</p>
 
@@ -575,7 +575,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He gripped the pencil so tightly that the veins along the back of his hand stood out more sharply, and lowered his voice.</p>
 
-<p>"I was afraid."</p>
+<p>"I suppose I was afraid."</p>
 
 <p>As though he couldn't quite believe the words he had just let out, he gave a short, dry laugh and shook his head. Then, in a voice so parched it seemed it could go out at any moment, he struggled to add:</p>
 

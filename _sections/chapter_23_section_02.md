@@ -17,7 +17,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>And this time, he would leave this city before even that short autumn deepened. He hadn't expected to leave in this way, at this time — but it didn't matter. As long as he could safely get Yeehyeon out of this place, the destination didn't even have to be New York. What came next could be figured out afterward. He was prepared to absorb any material or temporal loss.</p>
 
-<p>He had been resting his arms on the armrests of the cube-shaped minimalist sofa, hands loosely clasped over his crossed knees, gazing out the window — when someone stepped silently across the dark carpet and stopped in front of his table.</p>
+<p>Liu had been resting his arms on the armrests of the cube-shaped minimalist sofa, hands loosely clasped over his crossed knees, gazing out the window — and was about to reach for the on-the-rocks glass in front of him when someone stepped silently across the dark carpet and stopped in front of his table.</p>
 
 <p>"Help Seon-yu have a solo exhibition at Phantom."</p>
 
@@ -31,7 +31,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Did Hong Seon-yu call you and whine about something while I was in Boston?"</p>
 
-<p>Since the other party didn't seem inclined to draw things out, Liu brought up the name immediately.</p>
+<p>Since the other party didn't seem inclined to draw things out, Liu brought up Hong Seon-yu’s name immediately.</p>
 
 <p>It wasn't an unexpected development. Hong Seon-yu, who had "requested" a solo exhibition in Seoul from Liu in the Chicago hotel library, had looked desperate enough to sell his soul. If he was desperate enough to seek Liu out, finding Shushu as his next step wouldn't have been difficult.</p>
 
@@ -47,7 +47,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Do you know how he ended up receiving that kind of treatment? Is that why you're saying this?"</p>
 
-<p>Shushu didn't answer. But the way his gaze briefly met Liu's before sliding away was enough for Liu to understand: Shushu knew the whole story, and was asking for his help anyway.</p>
+<p>Shushu didn't answer. But the way his gaze briefly met Liu's before sliding away was enough for Liu to understand: Shushu knew the whole story, and was asking him to help Hong Seon-yu anyway.</p>
 
 <p>Liu let go of the curtain, scoffed, and shook his head.</p>
 
@@ -69,7 +69,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>If his talent had been solid, galleries would have wanted to work with him even after the old man lost interest in his body. But no gallery would recruit a vain artist who overpackaged paintings worth less than five thousand dollars — dressing them up with clever slogans and strategic promotion — and sold them for fifteen thousand. Liu could not see marketing that built a genuine foundation for fair evaluation and marketing designed to inflate value for blind profit as the same thing.</p>
 
-<p>Some people moved around the piano near the entrance, and soon a live jazz performance began. It was a gentle tune, soft enough not to disrupt conversation, and all the other guests seemed to be enjoying the jazz on a rainy autumn night — but the sweet melody reached only these two people.</p>
+<p>Some people moved around the piano near the entrance, and soon a live jazz performance began. It was a gentle tune, soft enough not to disrupt conversation, and all the other guests seemed to be enjoying the jazz on a rainy autumn night — but only these two people remained untouched by the sweet melody.</p>
 
 <p>After staring hard at Liu's face for a long stretch of silence, Shushu's lips moved several times as if about to speak, each time holding back.</p>
 
@@ -81,7 +81,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Shushu was speaking about the concrete, individual history of Hong Seon-yu as a human being — the kind of depth that could only exist if both sides had genuinely opened themselves to each other.</p>
 
-<p>He was talking about the hidden side of a person's soul. The kind that only becomes accessible when one side opens up their own darkness, and the other listens with deep affection, trust, and patient non-judgment — the kind that requires an intimacy close to lovers.</p>
+<p>Shushu was talking about the hidden side of a person's soul. The kind that only becomes accessible when one side opens up their own darkness, and the other listens with deep affection, trust, and patient non-judgment — the kind that requires an intimacy close to lovers.</p>
 
 <p>Whatever the initial motive for their contact may have been... perhaps during the time he spent with Shushu, Hong Seon-yu hadn't treated him with nothing but pretense and performance. Perhaps the more than three years they had been together hadn't been nothing more than a cruel and tragically clumsy scripted show.</p>
 
@@ -115,7 +115,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Liu's gaze hardened further. After a brief pause, Shushu continued.</p>
 
-<p>"If Yeehyeon were the one to turn his back on you first — do you really think that alone would let you cleanly sever your feelings for him? Could you label him a traitor and just rename what you feel?"</p>
+<p>"If Yeehyeon-ssi were the one to turn his back on you first — do you really think that alone would let you cleanly sever your feelings for him? Could you label him a traitor and just rename what you feel?"</p>
 
 <p>"......"</p>
 
@@ -123,7 +123,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He couldn't say anything, but his mind was boiling. He wanted to shout that this and that were different things entirely — but for a moment, he wasn't sure. Whether they really were that different.</p>
 
-<p>He licked his lower lip, then bit down hard. He turned his gaze toward the window, let out a heavy sigh, picked up his glass, and drained it.</p>
+<p>He licked his lower lip, then bit down hard. Liu turned his gaze toward the window, let out a heavy sigh, picked up his glass, and drained it.</p>
 
 <p>Shushu had hypothesized Yeehyeon's betrayal — but in the actual relationship between Liu Weikun and Seo Yeehyeon, the traitor was Liu himself.</p>
 
@@ -131,7 +131,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>How Yeehyeon would receive his betrayal. The moment he started thinking about that, he couldn't answer Shushu's question.</p>
 
-<p>Because it was Liu himself who was clinging to hope — hoping that Yeehyeon would forgive him, even after every accusation, curse, insult, and blow of resentment had been spent, even after being beaten and broken until there was nothing left. Liu was pinning everything on those words Yeehyeon had once said: that he loved him.</p>
+<p>Because it was Liu himself who was clinging to hope — hoping Yeehyeon would forgive his betrayal. Yeehyeon could hurl every accusation, curse, and insult at him, could beat and break him until he felt better, if only he would forgive him. Liu was pinning everything on those words Yeehyeon had once said: that he loved him.</p>
 
 <p>"I'm not saying that what Seon-yu did — past or present — was right. I'm not trying to cover for him either. But... strictly speaking, he didn't commit any crime or break any law."</p>
 
@@ -141,7 +141,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Ha...</p>
 
-<p>All Liu could do was rub his face hard with both palms and swallow a sigh. It was becoming unbearable to watch the clear line that had once separated Hong Seon-yu from everything that wasn't him — the line between right and wrong — grow blurred. He was already struggling under the weight of his own problems. Spending energy on anything related to Hong Seon-yu felt impossible. His nerves were stretched so thin now that they felt too fragile to bear even the weight of a feather.</p>
+<p>All he could do was rub his face hard with both palms and swallow a sigh. It was becoming unbearable to watch the clear line that had once separated Hong Seon-yu from everything that wasn't him — the line between right and wrong — grow blurred. Liu was already struggling under the weight of his own problems. Spending energy on anything related to Hong Seon-yu felt impossible. His nerves were stretched so thin now that they felt too fragile to bear even the weight of a feather.</p>
 
 <p>"Yes. Back then."</p>
 
@@ -155,17 +155,17 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"......"</p>
 
-<p>"Alright. If you won't help, I'll do it myself. Luckily, having met a sincere gallery director, I'm in a position where I can offer that much."</p>
+<p>"Alright. If you won't help, I'll do it myself. Luckily, having met a sincere gallerist, I'm in a position where I can offer that much."</p>
 
 <p>When had Shushu become this unyielding? Where had the sensitive, emotional, indecisive artist with delicate sensibilities gone?</p>
 
-<p>Or perhaps Liu had already sensed it. The photographs Shushu had been producing had been quietly hinting at it: he was no longer the helpless victim of life's tyranny — hiding, running, turning away, crumbling.</p>
+<p>Or perhaps he had already sensed it. The photographs Shushu had been producing had been quietly hinting at it: he was no longer the helpless victim of life's tyranny — hiding, running, turning away, crumbling.</p>
 
-<p>Shushu drained his glass, thanked Liu for making time despite his jet lag, and rose from his seat. Liu drove the nail in. Just because Shushu had grown stronger, just because he had broken free — Liu couldn't stand by and watch him willingly step back into the role of victim.</p>
+<p>Shushu drained his glass, thanked Liu for making time despite his jet lag, and was about to rise from his seat. Liu drove the nail in. Just because Shushu had grown stronger, just because he had broken free — Liu couldn't stand by and watch him willingly step back into the role of victim.</p>
 
 <p>"Don't bother with useless trouble. I could make sure Hong Seon-yu can't sell a single drawing in the Korean art scene."</p>
 
-<p>"I thought you'd changed a bit, thanks to Yeehyeon-ssi... Turns out you're just a different person only for him."</p>
+<p>"I thought you'd changed a bit, thanks to Yeehyeon-ssi... Turns out you're just a different person only for Yeehyeon-ssi."</p>
 
 <p>"......"</p>
 

@@ -11,9 +11,9 @@ section_count: 3
 permalink: /sections/chapter-24/3/
 excerpt_separator: "<!-- section-excerpt-end -->"
 ---
-<p>Among the many books Morae nuna had collected, there was a work by the French philosopher Jacques Derrida. He had often borrowed whatever he felt like reading from her back then, regardless of genre or content — any well-regarded book was nothing more than a way to kill time. Now, he could no longer remember what had led him to choose that particular one, unpolished as it was and riddled with mistranslations.</p>
+<p>Among the many books Morae had collected, there was a work by the French philosopher Jacques Derrida. He had often borrowed whatever he felt like reading from her back then, regardless of genre or content — any well-regarded book was nothing more than a way to kill time. Now, he could no longer remember what had led him to choose that particular one, unpolished as it was and riddled with mistranslations.</p>
 
-<p>At the time, reading had been a mechanical act — filling envelopes of time with words until they were full, setting them aside, then opening the next one and filling it again. The elegance of the prose, whether the sentences flowed — those things hadn't mattered to him then.</p>
+<p>At the time, reading had been a mechanical act — filling envelopes of time with words until they were full, setting them aside, then opening the next one and filling it again. The elegance of the prose, whether the sentences flowed — those things hadn't mattered to Yeehyeon then.</p>
 
 <p>Even so, within that unfriendly translation — one he had to read haltingly and slow, as though struggling through a French original despite the words being in his own language — there had been sentences worth claiming as his own.</p>
 
@@ -21,7 +21,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Back then, reading that passage, Yeehyeon had thought of Morae and Yeehan.</p>
 
-<p>Outwardly, he had eaten normally, slept, gone to school, done his military service — had lived quietly without causing trouble. The adults in the family had accepted him as an untroubled child. In reality, he had been nothing more than mechanically performing each assigned task.</p>
+<p>Outwardly, Yeehyeon had eaten normally, slept, gone to school, done his military service — had lived quietly without causing trouble. The adults in the family had accepted him as an untroubled child. In reality, he had been nothing more than mechanically performing each assigned task.</p>
 
 <p>When exam schedules were announced, he prepared diligently — not out of any desire for high scores. He had never rebelled after going through "that incident" — not because he was the deep, resilient child the adults believed him to be, the one who had fortunately overcome everything.</p>
 
@@ -33,13 +33,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>That, precisely, was the gift.</p>
 
-<p>A gift that perfectly met the conditions Derrida described: expecting nothing in return, not even hoping to be remembered.</p>
+<p>A gift that perfectly met the conditions Jacques Derrida described: expecting nothing in return, not even hoping to be acknowledged.</p>
 
-<p>In the same conversation about that book, Morae nuna had also mentioned another of Derrida's definitions.</p>
+<p>In the same conversation about that book, Morae had also mentioned another of Jacques Derrida’s definitions.</p>
 
 <p>"If one forgives only what is forgivable, the very concept of forgiveness disappears. Forgiveness is precisely forgiving the unforgivable."</p>
 
-<p>Sitting on the worn sofa of the regular repair shop while a simple part was replaced on the motorcycle, drinking the barley tea the owner had set out for them, Yeehyeon had thought of his father.</p>
+<p>While a simple part of the motorcycle was being replaced, Yeehyeon sat with Morae on the worn sofa at their usual repair shop. As they drank the yulmu<sup class="tn-marker" id="tn-ref-chapter-24-section-03-1"><a href="#tn-chapter-24-section-03-1" aria-label="Translator note 1">1</a></sup> tea the owner had brought them, Yeehyeon thought of his father.</p>
 
 <p>If he had possessed the maturity to forgive what was unforgivable... he wouldn't have needed to protect himself by numbing his emotions. He couldn't forgive, and he didn't know how, so he had simply tried to become numb to that too.</p>
 
@@ -59,9 +59,9 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>As proof that even if you block the light to keep it dark and withhold the water to let it wither, light will inevitably seep into a human heart and moisture will soak through — and one day, desire will grow — Yeehyeon had steadily cultivated that desire ever since.</p>
 
-<p>On the night he had hyperventilated because of <em>Alienation</em>, he hadn't refused Liu's touch when he climbed onto the bed. He had clearly expressed his desire — that he wanted Liu's kisses and sex and knotting only with him. Not with anyone else.</p>
+<p>On the night he had hyperventilated because of <em>Alienation</em>, he hadn't refused Liu's touch when Liu climbed onto the bed. He'd made it clear that he didn't want Liu to kiss, have sex with, or knot anyone else.</p>
 
-<p>And Liu... had been pursuing his own desire through me. Because there's no guarantee that the object of your desire will desire you back in the same way.</p>
+<p>And Liu... had been pursuing his own desire through Yeehyeon. Because there's no guarantee that the object of your desire will desire you back in the same way.</p>
 
 <p>Yeehyeon scoffed at himself for having cautiously, optimistically believed that this time — <em>this time</em> — it would finally flower and bear fruit. For having invited words like "the future" and "hope" and "overcoming." He shifted his gaze to the street outside the window.</p>
 
@@ -75,3 +75,9 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 <p>3) Ted W. Jennings, <em>Reading Derrida / Thinking Paul: On Justice</em>, translated by Park Sung-hoon, Greenbee (2014).</p>
 
 </div>
+<section class="translator-notes" aria-label="Translator notes">
+  <div class="translator-notes__heading">TRANSLATOR'S NOTE</div>
+  <ol class="translator-notes__list">
+    <li id="tn-chapter-24-section-03-1" class="translator-note"><span class="translator-note__number">1</span> <strong>Yulmu (율무)</strong> — Job&#x27;s tears, a grain used to make a traditional Korean tea. Here, it refers to the warm drink Morae and Yeehyeon share. <a class="translator-note__back" href="#tn-ref-chapter-24-section-03-1" aria-label="Return to note reference 1">↩ Back to text</a></li>
+  </ol>
+</section>

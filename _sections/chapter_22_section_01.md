@@ -63,17 +63,17 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"It is that bad."</p>
 
-<p>He muttered, lowering his voice and glancing around. His expression was serious, but this was how he joked.</p>
+<p>"Take it off quickly if you don’t want to see me hauled away," he muttered, lowering his voice and glancing around. His expression was serious, but this was how he joked.</p>
 
 <p>I went back into the fitting room and changed. When I came out he took the hoodie from me and, instead of returning it to its spot, dropped it into the shopping basket.</p>
 
 <p>Noticing my puzzled look, he picked up one of the many mugs crowding a three-tiered display stand, turned it over in his hands, and explained.</p>
 
-<p>"I wasn't saying don't wear it — or that we weren't buying it. I said you look young. I didn't say it doesn't suit you. That's a different thing entirely."</p>
+<p>"I meant you shouldn’t wear it here. I didn’t say we weren’t buying it. I said you look young. I didn't say it doesn't suit you. That's a different thing entirely."</p>
 
 <p>I shook my head and laughed. He looked over at me with a faint smile, then went back to repeatedly attaching and detaching a Harvard magnet from a metal pillar.</p>
 
-<p>"How about getting something for Yeehan and Morae too?"</p>
+<p>"How about getting something for hyung and nuna too?"</p>
 
 <p>"We already bought a T-shirt, mugs, notebooks... and pencils," I said, pointing to the already overflowing basket he was carrying.</p>
 
@@ -83,7 +83,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>My gaze dropped without meaning to. I was on this trip because of his generosity and consideration, and it wasn't as though I felt no guilt or burden alongside the gratitude. Even setting me aside, he was generous to the people around him — especially those younger than himself — but what he gave me far surpassed ordinary generosity, favor, or kindness. Even accounting for the fact that we were together.</p>
 
-<p>He had even prepared a separate allowance for me before we left Seoul, for personal use on the trip. With it I'd bought popcorn and coffee for nuna, eaten a muffin at a café, paid museum entrance fees, and bought a tumbler for Inwu hyung. I could have used it for gifts for Morae nuna and Yeehan hyung too, but it was still his money at the end of the day. I was trying to spend it carefully, planning to return whatever was left over.</p>
+<p>He had even prepared a separate allowance for me before we left Seoul, for personal use on the trip. With it I'd bought popcorn and coffee with nuna, eaten a muffin at a café, paid museum entrance fees, and bought a tumbler for Inwu hyung. I could have used it for gifts for Morae and hyung too, but it was still his money at the end of the day. I was trying to spend it carefully, planning to return whatever was left over.</p>
 
 <p>"Seo Yeehyeon, aren't we dating?"</p>
 
@@ -119,9 +119,9 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"You asked if it's okay, but this isn't a question of whether I permit it or not. Mr. Lim isn't the type of person to send someone all the way to New York to tail you or drag you off somewhere. It won't be dangerous for you to work there."</p>
 
-<p>I tried briefly to recall if I had told him that Morae nuna's father was called "Mr. Lim," but I thought that if it were him, he would have looked into a few more things to be certain.</p>
+<p>I tried briefly to recall if I had told him that Morae's father was called "Mr. Lim," but I thought that if it were him, he would have looked into a few more things to be certain.</p>
 
-<p>After finishing our purchases — including gifts for Morae nuna and Yeehan hyung — we left the store and took the bus back across the Charles River. There was still time before the seven o'clock dinner with Marcus and Ellen, and though it wasn't much, we decided to spend every minute of it just the two of us.</p>
+<p>After finishing our purchases — including gifts for Morae and hyung — we left the store and took the bus back across the Charles River. There was still time before the seven o'clock dinner with Marcus and Ellen, and though it wasn't much, we decided to spend every minute of it just the two of us.</p>
 
 <p>"Is this too shabby?"</p>
 
@@ -153,7 +153,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He went on to say that among the contacts Chloe had introduced him to were several suitable partners who could provide real, practical assistance with the branch opening — which would save them a considerable amount of time.</p>
 
-<p>It was already past the middle of September. Even if I were a naive child with no understanding of the world, I could see that opening a gallery in a city like New York wasn't a simple matter. I also knew there were limits to handling something like that from a distant place like Seoul, through emails and video calls and phone calls alone. And he didn't want to hire someone to manage it in his place. To borrow a phrase Yuni nuna had once used — for him, Phantom wasn't a matter of survival. It was a matter of self-affirmation.</p>
+<p>It was already past the middle of September. Even if I were a naive child with no understanding of the world, I could see that opening a gallery in a city like New York wasn't a simple matter. I also knew there were limits to handling something like that from a distant place like Seoul, through emails and video calls and phone calls alone. And he didn't want to hire someone to manage it in his place. To borrow a phrase nuna had once used — for him, Phantom wasn't a matter of survival. It was a matter of self-affirmation.</p>
 
 <p>"Which means I'll probably need to be in New York a bit sooner than expected..."</p>
 
@@ -199,17 +199,17 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Resting the back of his head against the wall, he reached out his right arm and swept my long hair back, tucking it behind my ear. A group somewhere in the pub erupted in loud cheers and laughter — they seemed to be in the middle of a bet. But I couldn't take my eyes off his face.</p>
 
-<p>"I have no memory of ever showing kindness to anyone. So how did I end up meeting someone like you?"</p>
+<p>"I have no memory of ever showing kindness to anyone. So how did I end up meeting an angel like you?"</p>
 
-<p>I couldn't tell from his expression or tone whether he was twisting the situation or speaking sincerely. But even if the words were pointed, I could see that their edge was aimed at himself, not at me.</p>
+<p>I couldn't tell from his expression or tone whether he was being ironic or meant what he said. But if there was an edge to his words, I could tell it was aimed at himself, not at me.</p>
 
-<p>I watched his profile as he slowly dragged his tongue along the inside of his cheek, pulled away from the wall, and drank his beer — then I spoke, heavily.</p>
+<p>I watched him in profile as he slowly ran his tongue along the inside of his cheek, pushed away from the wall, and took a drink of beer. Then I spoke in a solemn voice.</p>
 
-<p>"Yuni nuna and Juhan hyung both rely on you and respect you — as a senior, as someone they look up to. And... they think of you as someone they owe a great debt to."</p>
+<p>"Yuni nuna and Juhan hyung both rely on you and look up to you, Director, both as their boss and as someone older. And… they feel they owe you a lot."</p>
 
 <p>"......"</p>
 
-<p>"You probably already know that."</p>
+<p>"You probably… already know that, though."</p>
 
 <p>A belated anxiety crept over me — that I might have overstepped by speaking about their relationship, one that had existed long before I came along. My gaze dropped to my hands, which were fidgeting with the beer bottle.</p>
 
@@ -229,9 +229,9 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He added, and pressed his lips to mine again. He didn't use his tongue, but it was a deep kiss — his whole mouth working to lick upward, grind flesh together, shift angles as they overlapped.</p>
 
-<p>I don't know how he interpreted my tension, but it wasn't that I lacked the boldness for this kind of contact in a place like this — it was more that I simply didn't care what anyone thought of us.</p>
+<p>I don't know how he interpreted my tension, but I simply wasn't bold enough for that kind of intimacy in a place like this. I didn't care what anyone thought of us, either.</p>
 
-<p>With a wet sound of friction our lips parted, and the hand that had been cupping the back of my neck slowly slid down my shoulder and upper arm. Finally he lingered a moment, his fingertips grazing my skin, before letting go. He worked his lips — the ones that had just been on mine — and tapped the tabletop with his index finger.</p>
+<p>With a wet sound of friction our lips parted, and the hand that had been cupping the back of my neck slowly slid down my shoulder and upper arm. Finally he toyed briefly with my fingertips before letting go. He worked his lips — the ones that had just been on mine — and tapped the tabletop with his index finger.</p>
 
 <p>"But no matter how much I've felt that way... it seems like there's been nothing for me to sacrifice for you."</p>
 
@@ -259,11 +259,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"......"</p>
 
-<p>"You will come to New York with me. That's the only answer I want."</p>
+<p>"‘I’ll come to New York with you.’ That’s the only answer I want."</p>
 
-<p>His eyes held certainty and confidence — but beneath that, a plea so fierce it nearly resembled desperation.</p>
+<p>His eyes seemed certain and confident, but held a plea so strong that it looked like certainty and confidence.</p>
 
-<p>I, for my part, had no real attachment to life in Korea or Seoul. My work wasn't there, and neither was anything I'd built. Morae nuna and Yeehan hyung had already left. If there was anything precious to name, it was only the few relationships tied to Phantom.</p>
+<p>I, for my part, had no real attachment to life in Korea or Seoul. My work wasn't there, and neither was anything I'd built. Morae and hyung had already left. If there was anything precious to name, it was only the few relationships tied to Phantom.</p>
 
 <p>If his home was to shift to another city, and he wanted me with him, I had no intention of refusing and staying behind in Seoul. I was only worried about the motive — why he was abandoning his principles and rushing the New York opening, just as Yuni nuna had said.</p>
 

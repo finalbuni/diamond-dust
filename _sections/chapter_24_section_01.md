@@ -19,13 +19,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Watching Juhan's back as he rummaged enthusiastically through a two-tiered clothing rack that was already about half empty — likely sorted through once already — picking out things to his taste, Yeehyeon tried to focus on what Yuni was saying.</p>
 
-<p>"They told me to do whatever I want. As if I ever needed their permission in the first place."</p>
+<p>"They told me to do whatever I want. They asked when I had ever needed their permission in the first place."</p>
 
 <p>Yuni, sitting on the edge of the single bed cluttered with books of various sizes, magazines, and printed materials, gave a wry smile and took a sip of beer before continuing.</p>
 
 <p>"And?"</p>
 
-<p>Juhan, who had been digging through a box under the rack and struggling to pull out a sweater, stopped and turned around. Unlike him — who clicked his tongue in disbelief — Yuni just shrugged once, aimlessly flipping through a magazine within reach.</p>
+<p>Juhan, who had been digging through a box under the rack and struggling to pull out a sweater, stopped and turned around. Unlike Juhan — who clicked his tongue in disbelief — Yuni just shrugged once, aimlessly flipping through a magazine within reach.</p>
 
 <p>"I told them I didn't come to ask for permission. That I got a job overseas, and since I don't know when I'll be back, I thought I should at least tell them. That's why I went."</p>
 
@@ -37,7 +37,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"I told you to just say it over the phone."</p>
 
-<p>Thinking of the hurt she must have received, Juhan grumbled at her back. Yuni looked down at him and let out a faint laugh.</p>
+<p>Thinking of the hurt she must have received, Juhan grumbled. Yuni looked down at him and let out a faint laugh.</p>
 
 <p>"Whatever my parents have to say, it's not the kind of thing you say over the phone between parents and their child."</p>
 
@@ -93,11 +93,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"......"</p>
 
-<p>It wasn't a question he could answer. That his head right now was more of a mess than your room. That he felt like an ant crushed beneath a problem so enormous he couldn't even take it all in at once — couldn't even scream. He couldn't say it.</p>
+<p>It wasn't a question he could answer. That his head right now was more of a mess than nuna’s room. That he felt like an ant crushed beneath a problem so enormous he couldn't even take it all in at once — couldn't even scream. He couldn't say it.</p>
 
 <p>Even if he had the nerve to open up, he wouldn't know where or how to start. It was impossible to explain to someone else a problem he himself hadn't yet properly grasped.</p>
 
-<p>Meeting Yuni's worried gaze, Yeehyeon bit down hard on his lower lip. She reached out and lightly ruffled the back of his head, then gave him a faint smile.</p>
+<p>Meeting Yuni's worried gaze, Yeehyeon bit down hard on his lower lip. Yuni reached out and lightly ruffled the back of his head, then gave him a faint smile.</p>
 
 <p>"What, are you sad about us parting?"</p>
 
@@ -109,7 +109,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Ah, why'd you hit me?"</p>
 
-<p>"Yeehyeon, he knows he's talking nonsense and he's just blurting it out anyway, so don't pay attention to him."</p>
+<p>"Yeehyeon-ah, he knows he's talking nonsense and he's just blurting it out anyway, so don't pay attention to him."</p>
 
 <p>Watching the two of them bicker over something trivial, same as always, Yeehyeon tried desperately to focus on this last time the three of them could spend together.</p>
 
@@ -125,7 +125,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"What is it? What's wrong?"</p>
 
-<p>Yuni carefully pulled his hand down and asked. Facing her worried expression, Yeehyeon felt the urge to unload this shock onto someone — anyone. It felt like he had to disperse the impact onto another person, had to, or his body and mind would rupture.</p>
+<p>Yuni carefully pulled Yeehyeon’s wrist down and asked. Facing her worried expression, Yeehyeon felt the urge to unload this shock onto someone — anyone. It felt like he had to disperse the impact onto another person, had to, or his body and mind would rupture.</p>
 
 <p>"Actually... I'm not feeling very well...."</p>
 
@@ -133,7 +133,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Your complexion is bad. Your lips are completely pale."</p>
 
-<p>Only then did Juhan seem genuinely concerned as he examined Yeehyeon's face closely. Yuni took the beer bottle from his hand and set it on the sink.</p>
+<p>Only then did Juhan seem genuinely concerned as he examined Yeehyeon's face closely. Yuni took the beer bottle from Yeehyeon’s hand and set it on the sink.</p>
 
 <p>"You should go home and rest. You're not the type to say you're unwell over just a slight dip."</p>
 
@@ -159,7 +159,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Murmuring that, Yuni seemed to be counting the long list of opportunities and considerations Liu had given her. Even if Manager Han had told her it wasn't a betrayal, it wouldn't put her mind at ease so easily. But Yeehyeon was certain that Liu hadn't provided all those opportunities simply to bind Yuni's or Juhan's labor to Phantom.</p>
 
-<p>No. At this point he could no longer speak as if he knew Liu that way. More than that, Liu had been pushed far away into a distant, blurry existence — belonging to the most unknowable chaos, the most uncharted territory.</p>
+<p>No. At this point he could no longer speak as if he knew Liu that way. More than that, Liu had become a distant, blurry figure — belonging to the most unknowable chaos, the most uncharted territory.</p>
 
 <p>After persuading Juhan and Yuni for quite some time that he didn't need them to drive him home, Yeehyeon finally left the officetel. The thought crossed his mind that they might contact Liu, or that Liu might contact them, but a reckless kind of whatever happens boldly cut off that concern.</p>
 

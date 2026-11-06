@@ -29,7 +29,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>When Juhan snapped at Yuni, she lifted her head and glared back at him. Sensing the tension rising between them, Manager Han placed a hand on Juhan's shoulder and pressed down firmly.</p>
 
-<p>"Juhan, don't get emotional. This isn't the time for that. We set up this gathering to discuss things properly, and Yuni is hearing the details for the first time too."</p>
+<p>"Juhan-ah, don't get emotional. This isn't the time for that. We set up this gathering to discuss things properly, and Yuni is hearing the details for the first time too."</p>
 
 <p>"......"</p>
 
@@ -57,7 +57,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Despite Liu's efforts to lighten the mood, Juhan's expression didn't ease. Liu turned his attention to Yuni, who was seated at the head of the table.</p>
 
-<p>"Huh? Baek Yuni. I just said we're being called to New York. Cheer up, will you?"</p>
+<p>"Hey, Baek Yuni. I told you I'd bring you over to New York soon. Come on, cheer up."</p>
 
 <p>Her face was just as stiff as Juhan's. But she seemed deeply absorbed in her own thoughts.</p>
 
@@ -75,7 +75,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"The Hands?"</p>
 
-<p>His voice was quiet — closer to confirming something already known than expressing surprise. Yuni looked at him with startled eyes for a moment, then, as if realizing it wasn't strange for him to know, changed her expression and nodded.</p>
+<p>His voice was quiet — closer to confirming something already known than expressing surprise. Yuni looked at Liu with startled eyes for a moment, then, as if realizing it wasn't strange for him to know, changed her expression and nodded.</p>
 
 <p>"I received the offer when I was in Chicago. Unintentionally... the timing overlapped with the discussion about the New York branch, but that's not what solidified my decision."</p>
 
@@ -85,7 +85,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"No one thinks that accepting that offer means you're betraying Phantom."</p>
 
-<p>"Manager Han!"</p>
+<p>"Manager!"</p>
 
 <p>At Manager Han's words, Juhan grabbed her shoulder roughly and raised his voice. But he swallowed his next words when he met her composed gaze as she turned toward him.</p>
 
@@ -105,11 +105,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>It wasn't difficult to guess that Baek Yuni had found it difficult to bring this up with Juhan before making her decision. Though he was reacting now with shock and anger, Kwon Juhan would probably come to understand her feelings in time.</p>
 
-<p>"It's Yuni's life. What exactly do you expect me to say?"</p>
+<p>"It's Baek Yuni’s life. What exactly do you expect me to say?"</p>
 
 <p>Knowing this, Liu deliberately poured cold water on Juhan's agitation — even more coldly than before.</p>
 
-<p>"It's because you're abandoning Phantom that Yuni is acting like this! It's your responsibility, so you need to fix it!"</p>
+<p>"It's because Director is abandoning Phantom that Baek Yuni is acting like this! It's Director’s responsibility, so you need to fix it!"</p>
 
 <p>At Juhan's fierce accusation, Yuni raised her voice this time.</p>
 
@@ -211,7 +211,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Just leave it."</p>
 
-<p>Liu stopped Yeehyeon, who had hesitantly gotten up and picked up a plate, with a low voice. Yeehyeon looked between Liu and Inwu, then quietly set the plate back down and smoothed his sleeve.</p>
+<p>Liu stopped Yeehyeon, who had hesitantly gotten up and picked up a plate, with a low voice. Yeehyeon looked between Liu and Inwu, then quietly set the plate back down and rubbed his arm.</p>
 
 <p>"Then I'll... go downstairs."</p>
 
@@ -225,7 +225,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Liu brought the cigarette he had been about to extinguish to his lips and took a deep, heavy drag. Involuntarily, a strong tension gripped the hand holding the window frame behind him.</p>
 
-<p>"You know psychosomatic conditions are harder to fully cure, right? If you lose your appetite or feel nauseous again, come to our hospital anytime. Even if I'm not there, I can see you personally for a consultation whenever you need it — so leave the medical advice to me. Okay?"</p>
+<p>"You know psychosomatic conditions are harder to fully cure, right? If you lose your appetite or feel nauseous again, come to our hospital anytime. Even when I’m not at the hospital, I can meet Yeehyeon-ssi personally for a consultation whenever you need it — so leave the medical advice to me. Okay?"</p>
 
 <p>"Yes, thank you...."</p>
 
@@ -233,29 +233,29 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"There was a major incident at our hospital while the two of you were away on business. After going through that, I really felt it — you truly never know when or where something might happen to a person."</p>
 
-<p>Holding the wine glass, Inwu turned back, resting his arm on the chair back, and smiled meaningfully, raising an eyebrow.</p>
+<p>Wineglass in hand, Inwu turned back around and rested an arm on the back of his chair. He raised his eyebrows and gave a knowing smile.</p>
 
-<p>"Always be careful, Yeehyeon. There's no harm in being cautious."</p>
+<p>"Always be careful, Yeehyeon-ssi. It never hurts to be careful."</p>
 
 <p>"......"</p>
 
-<p>Though he couldn't quite grasp the intent behind Inwu's quietly emphasized words, Yeehyeon nodded with a puzzled expression. Then he looked toward Liu, standing by the window.</p>
+<p>Yeehyeon couldn't quite tell what Inwu meant by the quiet emphasis, but he nodded, looking puzzled. Then he looked over at Liu by the window.</p>
 
-<p>Betrayed yet unaware of it, Liu groaned inwardly at the warm, worried light in those eyes looking at him. He stubbed out his cigarette carelessly and strode quickly toward him.</p>
+<p>Liu groaned inwardly at the warmth in those eyes. Yeehyeon had no idea he was being betrayed, and here he was worrying about Liu. Liu hastily stubbed out his cigarette and strode over to him.</p>
 
-<p>"You must be tired. Go down and rest for a bit."</p>
+<p>"You're tired, aren't you? Go downstairs and get some rest."</p>
 
-<p>He wrapped an arm around Yeehyeon's shoulder and guided him out of the dining room. His mind was filled with nothing but the urgent need to separate him from Inwu as quickly as possible.</p>
+<p>He put an arm around Yeehyeon's shoulders and led him out of the dining room. All he could think about was getting Yeehyeon away from Inwu as quickly as possible.</p>
 
 <p>Glancing back at Inwu, who sat at the table behind them, Yeehyeon hesitated, clearly reluctant to leave the two of them alone together.</p>
 
 <p>"We'll have a drink together. It just so happens I'm in the mood to get drunk tonight, so this works out."</p>
 
-<p>It took considerable energy to act unfazed by Inwu's visit, even to play it off as a fortunate coincidence. Stroking the nape of Yeehyeon's neck as he nodded understandingly, Liu played with his grown-out hair and whispered low. At the top of the stairs leading down to the studio, he gave him a brief kiss.</p>
+<p>It took considerable energy to act unfazed by Inwu's visit, even to play it off as a fortunate coincidence. Stroking the nape of Yeehyeon's neck as he nodded understandingly, Liu played with his grown-out hair and whispered low that he should go to sleep first. At the top of the stairs leading down to the studio, he gave him a brief kiss.</p>
 
 <p>Still clearly worried, Yeehyeon glanced back at Liu several times as he descended, brushing the handrail. Liu leaned casually against the wall with his shoulder, watching him, and made a playful gesture of wiping away a tear. Only then did Yeehyeon manage a faint smile.</p>
 
-<p>The moment Yeehyeon disappeared from sight, Liu dropped the smile and crossed the living room at a rapid pace toward the dining room. He immediately lunged at Inwu, grabbing him by the collar and hauling him upright. The wine glass in Inwu's hand tipped over, spilling dark red liquid across the table — but Liu didn't notice.</p>
+<p>The moment Yeehyeon disappeared from sight, Liu dropped the smile and crossed the living room at a rapid pace toward the dining room. He immediately lunged at Inwu, grabbing him by the collar and hauling him upright. The wine glass in Inwu's hand tipped over, spilling dark red liquid across the table — but Liu didn’t care.</p>
 
 <p>"What the hell are you doing?"</p>
 
@@ -269,21 +269,21 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Yeah, you must. Why wouldn't my restless, pathetic state be entertaining to you?"</p>
 
-<p>As if wanting to choke the breath from Inwu's throat in revenge for making him feel so suffocated, Liu tightened his grip and twisted the collar of his shirt further. His eyes gleamed with fear and madness in equal measure.</p>
+<p>Liu gripped Inwu's collar harder and twisted it tighter, as though he wanted to make Inwu choke for making him feel like he couldn't breathe. His eyes glinted with fear and madness.</p>
 
-<p>"But, Choi Inwu. If Seo Yeehyeon finds out because of you — whether by accident or on purpose — and everything falls apart... you won't be laughing then, will you? Huh?"</p>
+<p>"But Choi Inwu, if Seo Yeehyeon finds out because of you, by accident or on purpose, and it all blows up… you won't think it's so funny then, will you? Huh?"</p>
 
-<p>He released the collar as if throwing Inwu away, shoved him aside, and stumbled back to the table, drinking wine straight from the bottle.</p>
+<p>He let go of Inwu's collar as though throwing him aside, shoved Inwu out of his way, and staggered back to the table. He took a long drink straight from the wine bottle.</p>
 
 <p>"I heard rumors about the New York branch."</p>
 
 <p>"......"</p>
 
-<p>Wiping his mouth with the back of his hand, Liu turned back toward Inwu, who stood behind him looking prepared to do anything.</p>
+<p>Liu wiped his mouth with the back of his hand and turned to face Inwu. Inwu looked ready to do just about anything.</p>
 
-<p>"Quite an elaborate event for the man who promised to tell Yeehyeon everything after returning from Chicago, wouldn't you say?"</p>
+<p>"You said you'd tell Yeehyeon-ssi everything once you got back from Chicago. Pretty big plans for someone who said that, don't you think?"</p>
 
-<p>Seeing Liu's brows twitch and narrow, Inwu let out a slight smirk.</p>
+<p>Liu's eyebrows twitched and drew together. Inwu gave a little snicker.</p>
 
 <p>"I'm not treated as highly as Shushu, but I'm still a Phantom artist. And while we might not be as close as you are with Manager Han, Manager Han and I are friends. Or was this supposed to be a secret?"</p>
 
@@ -301,23 +301,23 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Liu glanced back over his shoulder. Inwu had slumped heavily into his chair and was running his hands over his face several times.</p>
 
-<p>"It's a hospital that calls itself a general hospital but in practice sends all but the most critical patients elsewhere. But this patient was too critical for that."</p>
+<p>"It calls itself a general hospital, but plays it safe by sending every even slightly risky patient to a larger hospital. But this patient was too critical to transfer."</p>
 
 <p>It was no longer the giggly or sarcastically provocative tone he'd used before. Liu turned fully around. Inwu's face was flushed red, and he looked somehow unsteady.</p>
 
-<p>"He had ingested pesticide."</p>
+<p>"They had ingested pesticide."</p>
 
 <p>"......"</p>
 
-<p>"It was a relatively mild pesticide — the kind mainly used for home gardening. Because his mother found him immediately and rushed him to the hospital, his life was saved... but it was a nerve-wracking experience. It reminded me I was a doctor, for the first time in a long while."</p>
+<p>"It was a relatively mild pesticide — the kind mainly used for home gardening. Because their mother found them immediately and rushed them to the hospital, their life was saved... but it was a nerve-wracking experience. It reminded me I was a doctor, for the first time in a long while."</p>
 
 <p>As if trying to shake off the dizzying memory resurfacing, Inwu forced his lips into a smile, but his eyes were saturated with fear.</p>
 
-<p>"Acephate isn't a lethally toxic compound compared to other pesticide ingredients, but the problem was the quantity he had ingested. We had to pump over 3,000cc of lavage solution into his stomach. His body temperature dropped from the fluid, and he was shaking all over."</p>
+<p>"Acephate isn't a lethally toxic compound compared to other pesticide ingredients, but the problem was the quantity they had ingested. We had to pump over 3,000cc of lavage solution into their stomach. Their body temperature dropped from the fluid, and they were shaking all over."</p>
 
 <p>Blue veins stood out sharply on Liu's hand gripping the bottle. Surely Inwu hadn't sought him out at this specific moment just to unload the shock of the "major incident" that had occurred at the hospital while he was away on business.</p>
 
-<p>"She was twenty-four years old. About Yuni's or Juhan's age. Seemed young to be getting married, but the wedding was scheduled for a month away."</p>
+<p>"She was twenty-four years old. About Baek Yuni’s or Kwon Juhan’s age. Seemed young to be getting married, but the wedding was scheduled for a month away."</p>
 
 <p>"......"</p>
 
@@ -335,7 +335,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"......"</p>
 
-<p>Even standing still, his breathing was ragged, his broad shoulders heaving.</p>
+<p>Even standing still, Liu’s breathing was ragged, his broad shoulders heaving.</p>
 
 <p>Inwu twisted one corner of his mouth into a contemptuous smile.</p>
 
@@ -353,7 +353,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Inwu, standing before the counter, was clearly straining not to raise his voice, his face contorted. Liu turned his head and ran his tongue over his lower lip.</p>
 
-<p>"I poured a massive amount of money into this, hurt the Phantom family — all to open a gallery in New York, all for him. And now you're going to throw all of that away and leave? Are you trying to burden Yeehyeon-ssi with that kind of responsibility?"</p>
+<p>"‘I poured a massive amount of money into this, hurt the Phantom family — all to open a gallery in New York, all for you. And now you’re going to throw all of that away and leave me?’ Are you trying to burden Yeehyeon-ssi with that kind of responsibility?"</p>
 
 <p>"......"</p>
 
@@ -365,7 +365,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>A sharp, blue gaze and a raw, unvarnished confession — so vivid it tasted of blood — flew toward Inwu, who let out a hollow laugh.</p>
 
-<p>"Yeah. Getting Seo Yeehyeon out of here as soon as possible — that's the only thought in my head right now. In a place where he has no one but me — no, in a place where he has abandoned everything else and has nothing left but me — I'm going to beg and cling to him for forgiveness in the most desperate and pathetic way possible."</p>
+<p>"Yeah. Getting Seo Yeehyeon out of here as soon as possible — that's the only thought in my head right now. In a place where he has no one but me — no, in a place where I’ve abandoned everything else and have nothing left but Seo Yeehyeon — I'm going to beg and cling to him for forgiveness in the most desperate and pathetic way possible."</p>
 
 <p>"......"</p>
 
@@ -375,7 +375,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Any right to be by his side in a just and upright way — I already threw that away with my own hands the night Seo Yeehyeon was waiting for me in front of this house."</p>
 
-<p>He was talking about "that night" — the one Inwu neither knew nor could know. He was no longer conscious of his conversation partner. It sounded like resignation, like surrendering himself — and perhaps also like an excuse directed at Yeehyeon, who wasn't there.</p>
+<p>Liu was talking about "that night" — the one Inwu neither knew nor could know. He was no longer conscious of his conversation partner. It sounded like resignation, like surrendering himself — and perhaps also like an excuse directed at Yeehyeon, who wasn't there.</p>
 
 <p>Inwu, who had been standing by the dining table watching Liu's large silhouette motionless in the kitchen darkness, slowly walked toward him. He stepped through the open folding door frame separating the dining room and kitchen and entered the dim shadow.</p>
 
@@ -425,6 +425,6 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>His eyes looked faded, as if the color had been bleached out of them. His deep-set gaze narrowed, like someone standing under a harsh midday sun. Meeting those dull, ashen eyes — where all the blue vitality had long since evaporated and gray ash seemed to drift — Inwu spoke quietly.</p>
 
-<p>"You said it yourself — that it would be impossible to show restraint next to Yeehyeon. I suppose that means going back to before you met him."</p>
+<p>"You said it yourself — that it would be impossible to show restraint next to Seo Yeehyeon. I suppose that means going back to before you met Yeehyeon-ssi."</p>
 
 <p>Liu pushed himself off the counter, stepped back into deeper shadow — away from the faint light seeping from the dining room — and shook his head slowly.</p>

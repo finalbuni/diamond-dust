@@ -19,11 +19,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Whether things are good or bad..." Yeehyeon replied quietly, "we're going our separate ways in a week anyway."</p>
 
-<p>His hand slowed as he reached into the drawer for a soft cotton T-shirt to use as pajamas. His voice softened too. Choosing to walk this path with Liu didn't mean that parting from others left no mark.</p>
+<p>Yeehyeon’s hand slowed as he reached into the drawer for a soft cotton T-shirt to use as pajamas. His voice softened too. Choosing to walk this path with Liu didn't mean that parting from others left no mark.</p>
 
-<p><em>He's still young and quick-tempered... but he's not someone who stays cruel for long.</em> Yeehyeon had known that much.</p>
+<p><em>[He’s still young and quick-tempered... but even with all those piercings, he isn’t hard-hearted. I knew it wouldn’t last long.]</em></p>
 
-<p>He let out a quiet laugh, remembering Juhan's gruff voice when he'd called — reluctantly — to ask what time he should come to pick him up.</p>
+<p>Yeehyeon let out a quiet laugh, remembering Juhan's gruff voice when he'd called — reluctantly — to ask what time he should come to pick him up.</p>
 
 <p>At Phantom, Juhan still seemed cold toward Liu, but he had started to open up to Yuni. According to Yuni, the two of them had spent three nights that week drinking until dawn — arguing, clashing, laying themselves bare, crying over and over again.</p>
 
@@ -57,7 +57,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Yeehyeon stopped what he was doing and straightened up. He tilted his head, listening closely to not miss even the slightest sound coming through the phone, while idly fidgeting with the leather handle attached to his backpack.</p>
 
-<p>"Don't go to sleep... Should I just come over, even if it's late?"</p>
+<p>"Instead of staying the night... should I just come back, even if it's late?"</p>
 
 <p>[Yes. Please do that.]</p>
 
@@ -75,13 +75,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Smiling at the playful tone that feigned ease, Yeehyeon ended the call. Liu was right. He was not the type to show mental or physical strain, not the type to complain. Given his recent state, leaving him alone was genuinely worrying — but at the same time, Yeehyeon didn't want to treat his farewell with Yuni and Juhan carelessly.</p>
 
-<p>After packing everything he needed for the overnight stay into his backpack, he went upstairs to also collect the Boston souvenirs that no one had taken last week. Four shopping bags — including one for Inwu hyung — stood lined up in a corner of the dining room. He was just about to pick them up, thinking he should stop by Inwu's on the way home tomorrow to drop them off, when the video intercom rang.</p>
+<p>After packing everything he needed for the overnight stay into his backpack, he went upstairs to also collect the Boston souvenirs that no one had taken last week. Four shopping bags — including one for Inwu — stood lined up in a corner of the dining room. He was just about to pick them up, thinking he should stop by Inwu's on the way home tomorrow to drop them off, when the video intercom rang.</p>
 
 <p>No contact, and at a time when Liu wasn't home — no one came to mind who might visit unannounced. He turned and checked the screen on the wall panel in the living room. It was Shushu.</p>
 
-<p>"Hello, Shushu. Should I open the garage for you?"</p>
+<p>"Hello, artist-nim. Should I open the garage for you?"</p>
 
-<p>[Yeehyeon... No. I'm fine. I parked out front.]</p>
+<p>[Yeehyeon-ssi... No. I'm fine. I parked out front.]</p>
 
 <p>His face and tone on the screen were slightly stiff. As soon as a few possibilities crossed his mind, Yeehyeon felt his lungs seize. He ran his tongue over dry lips, unlocked the front gate, and went outside to meet him at the entrance.</p>
 
@@ -99,7 +99,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"It's fine if I'm alone. I'll make myself completely at home — you don't need to worry about me, Yeehyeon-ssi."</p>
 
-<p>He said it lightly as he accepted the tray and settled onto the sofa, but Yeehyeon felt it would be rude to simply leave him. Besides, there was nothing else pressing to do. There were still about two hours before Juhan said he would come, and the packing was already done.</p>
+<p>Shushu said it lightly as he accepted the tray and settled onto the sofa, but Yeehyeon felt it would be rude to simply leave him. Besides, there was nothing else pressing to do. There were still about two hours before Juhan said he would come, and the packing was already done.</p>
 
 <p>"Of course, it would be even better if Yeehyeon-ssi stayed with me."</p>
 
@@ -117,7 +117,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"At first, because you seemed so quiet and introverted, I thought you might be someone with a thick shell... But after watching you for just a little while, I quickly realized you're a very grounded person. Not because you're afraid of being disliked, not from some self-indulgent desire to be seen as good — you have a heart that genuinely considers those around you."</p>
 
-<p>"When I was young, I didn't have a good eye for people myself, so I struggled a bit." He added this with a self-deprecating laugh. At that laugh, Yeehyeon couldn't help but think of Hong Seon-yu.</p>
+<p>"When I was young, I didn't have a good eye for people myself, so I struggled a bit." Shushu added this with a self-deprecating laugh. At that laugh, Yeehyeon couldn't help but think of Hong Seon-yu.</p>
 
 <p>"Weikun said the same thing. He said he felt like he'd finally found someone reliable after a long time, and that he was thinking of bringing you into Phantom."</p>
 
@@ -137,7 +137,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Yeehyeon nodded at Shushu, who was squinting as he reached back through the past. Shushu smiled faintly, as if something amusing had come back to him.</p>
 
-<p>"I'm not sure if you remember, but it was shortly after you officially started working. Because of my shyness around new people, Weikun asked you to give us some space for a moment."</p>
+<p>"I’m not sure if Yeehyeon-ssi remembers, but it was shortly after you officially started working. Because of my shyness around new people, Weikun asked you to give us some space for a moment."</p>
 
 <p>"I remember."</p>
 
@@ -145,9 +145,9 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Perhaps it's a personality shaped by being surrounded by flatterers from childhood, Shushu said, looking at some point in the air.</p>
 
-<p>His words were entirely true. At the time, Liu’'s remark hadn't been aimed at excluding him — it was simply an extension of work. Now that Yeehyeon understood Shushu's sensitivity better, he could see it even more clearly.</p>
+<p>His words were entirely true. At the time, Liu’s remark hadn't been aimed at excluding him — it was simply an extension of work. Now that Yeehyeon understood Shushu's sensitivity better, he could see it even more clearly.</p>
 
-<p>But if it had been an ordinary day, or if someone else had said those same words, the remark wouldn't have left such a deep impression — not with Yeehyeon's temperament. The reason it had shaken him wasn't simply because Liu spoke directly, without packaging. He had already been conscious of Liu by then — and he understood now that the words and actions of someone you are conscious of inevitably feel magnified.</p>
+<p>But if it had been an ordinary day, or if someone else had said those same words, the remark wouldn't have left such a deep impression — not with Yeehyeon's temperament. The reason it had shaken him wasn't simply because he spoke directly, without packaging. He had already been conscious of him by then — and he understood now that the words and actions of someone you are conscious of inevitably feel magnified.</p>
 
 <p>Yeehyeon wiped the condensation from the beer bottle with his thumb and spoke.</p>
 
@@ -163,7 +163,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>That it had been an awkward apology, in Liu's own clumsy way. That even one short sentence wouldn't have been spoken if it hadn't been sincere. There were many things he hadn't known then — and now he understood them. The experience of seeing even the past Liu in a new light, as he came to know him more, felt genuinely fresh.</p>
 
-<p>"Thinking about it now, I suppose people who are meant to find each other always do. That man... who never let anyone close, met someone like Yeehyeon-ssi all at once. Loneliness was Liu Weikun's sole deficiency — his only one — but now he has everything, doesn't he? Shouldn't he at least agree that the world is unfair?"</p>
+<p>"Thinking about it now, I suppose people who are bound to succeed do so no matter what. That man... who never let anyone close, met someone as understanding as Yeehyeon-ssi all at once. Loneliness was Liu Weikun's sole deficiency — his only one — but now he has everything, doesn't he? Shouldn't he at least agree that the world is unfair?"</p>
 
 <p>It didn't sound like something crafted to match the mood. It was closer to a murmur to himself, excluding the listening Yeehyeon.</p>
 
@@ -193,7 +193,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"......"</p>
 
-<p>"I wanted Yeehyeon-ssi to make him experience all the things he himself would have called foolish and absurd — keeping him waiting anxiously, keeping him waiting even knowing it was reckless, keeping him up at night — and then... being consumed by the desire to be understood exactly as he is, exposing everything, placing the final judgment entirely in the other person's hands, trembling in fear of it... Things like that. Through Yeehyeon-ssi."</p>
+<p>"I wanted Yeehyeon-ssi to make him experience all the things Liu Weikun himself would have called foolish and absurd — making him long for you, making him wait even though he knew it was reckless, keeping him up at night — and then... being consumed by the desire to be understood exactly as he is, exposing everything, placing the final judgment entirely in the other person's hands, trembling in fear of it... Things like that. Through Yeehyeon-ssi."</p>
 
 <p>After saying that, Shushu tilted his glass and let one or two small, melted ice cubes drop into his mouth. Yeehyeon, who had been fiddling with the beer bottle while looking at Shushu's dark face — which seemed to feel stifled, as if confined in a narrow space — finally gathered his courage and spoke.</p>
 
@@ -209,7 +209,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"......"</p>
 
-<p>"It's nothing to boast about, but even though I'm really terrible with people, I felt comfortable around you from the start. That was true in Chicago, and it's true now — I've been chattering away as if my shyness were a lie. I understand why it had to be you for Liu Weikun. Because you're that kind of person... you were able to fill Awi's only deficiency. His loneliness, which had lasted too long."</p>
+<p>"It's nothing to boast about, but even though I'm really terrible with people, I felt comfortable around Yeehyeon-ssi from the start. That was true in Chicago, and it's true now — I've been chattering away as if my shyness were a lie. I understand why it had to be Yeehyeon-ssi for Liu Weikun. Because Yeehyeon-ssi is that kind of person... you were able to fill Awi's only deficiency. His loneliness, which had lasted too long."</p>
 
 <p>If Liu's closest acquaintance could say that, it was a relief. But Yeehyeon couldn't be sure whether he was truly filling that void in the way Shushu believed. He lacked confidence. This was especially true when he thought about Liu lately — enduring everything while carrying so many burdens.</p>
 
@@ -263,7 +263,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Yeehyeon was the one who truly knew nothing — and even now, he didn't know what he didn't know. Yet Shushu, standing before him, looked even more strangled. His already pale face had gone further still — bloodless, parched.</p>
 
-<p><em>He must have decided to become an Omega.</em></p>
+<p><em>You must have decided to become an Omega.</em></p>
 
 <p>That incomprehensible statement — only those words — beat faintly against Yeehyeon's chest like a distant, ominous drumbeat.</p>
 
