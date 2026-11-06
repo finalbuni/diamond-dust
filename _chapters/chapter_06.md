@@ -933,7 +933,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p><em>To be continued in Diamond Dust, Volume 2.</em></p>
 
-<strong>Paddling</strong>: A surfing term. The act of lying prone on the board and using one's arms to move through the water, in order to reach a position to catch a wave.</p>
+<p><strong>Paddling</strong>: A surfing term. The act of lying prone on the board and using one's arms to move through the water, in order to reach a position to catch a wave.</p>
 </div>
 <section class="translator-notes" aria-label="Translator notes">
   <div class="translator-notes__heading">TRANSLATOR'S NOTE</div>

@@ -203,7 +203,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>My hands, loosely clasped in my lap, tightened together.</p>
 
-Beta. Pheromones.
+<p>Beta. Pheromones.</p>
 
 <p>The very subjects I'd wanted to ask about were already coming out of hyung's mouth.</p>
 
