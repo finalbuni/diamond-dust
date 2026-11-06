@@ -205,7 +205,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"It might sound like an excuse, but I only found out recently myself. Yeehyeon-ssi, please... just listen to me. Right now, Weikun and I — I know you probably can't even stand the sight of us — but if you really can't, I'll leave. Just... don't try to leave. Okay? Where would you even go right now?"</p>
 
-Inwu gripped both of Yeehyeon's arms, trying to pull him upright. His grip was so tight that Yeehyeon's arms went numb, but he couldn't even register the pain.
+<p>Inwu gripped both of Yeehyeon's arms, trying to pull him upright. His grip was so tight that Yeehyeon's arms went numb, but he couldn't even register the pain.</p>
 
 <p>When Shushu had told him that Liu was using his unique ability to change his body into an Omega — at the time, there had been shock, instinctive and immediate, but he couldn't truly feel it as real. But Inwu's reaction in front of him — now — transformed that vague, drifting ghost story into something concrete. Something happening to his own body.</p>
 
