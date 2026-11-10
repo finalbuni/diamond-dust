@@ -11,7 +11,7 @@ section_count: 6
 permalink: /sections/chapter-25/2/
 excerpt_separator: "<!-- section-excerpt-end -->"
 ---
-<p>Seo Yeehan — Hani, as he was sometimes called — used to say it like a personal mantra: that even if he didn't want to be a fisherman, he could never give up a piece of fresh sashimi eaten right there on the boat with a glass of soju.</p>
+<p>Yeehan used to say it like a personal mantra: that even if he didn't want to be a fisherman, he could never give up a piece of fresh sashimi eaten right there on the boat with a glass of soju.</p>
 
 <p>Anyone who had tasted that would have to agree, but for Yeehyeon, something even more special was a cup of instant coffee drunk while standing at the bow of a returning fishing boat, watching the distant harbor shimmer as it slowly drew closer. Focusing on the bittersweet warmth spreading through his labor-weary body and the heat seeping through the paper cup, the weight of everything waiting on land felt a little lighter. For just a moment, he even thought that a life without resistance — simply swaying with the waves — might not be so bad. Like his grandfather and his uncle.</p>
 
@@ -25,9 +25,9 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"I figured you'd be even weaker after going to Seoul to paint."</p>
 
-<p>"Yeehyeon just doesn't have much flesh on him, but he's always been sturdy enough. His hands are nimble too."</p>
+<p>"Hyeoni just doesn't have much flesh on him, but he's always been sturdy enough. His hands are nimble too."</p>
 
-<p>His uncle, sitting on the storage hatch organizing small tools, chimed in. Though Yeehyeon had only helped with tasks requiring no special skill — hauling nets or tossing the sorted fish into storage — the evaluation was generous, perhaps because expectations had been low.</p>
+<p>His uncle, sitting on the storage hatch organizing small tools, chimed in. Though Yeehyeon wasn’t as versed in boat work as Yeehan and had only helped with tasks requiring no special skill — hauling nets or tossing the sorted fish into storage — the evaluation was generous, perhaps because expectations had been low.</p>
 
 <p>"Then should I work on the boat?"</p>
 
@@ -37,7 +37,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"If he has the talent to pay off that much of the family debt by drawing pictures, what business does he have on a boat? He'll be a bigger deal than his own father ever was."</p>
 
-<p>With that, he glanced toward the harbor, crushed the ember of his cigarette between thick fingers, and slipped into the pilot's cabin. Following his grandfather's retreating back with his eyes, Yeehyeon looked ahead and saw a familiar figure lingering on the pier.</p>
+<p>With that, his grandfather glanced toward the harbor, crushed the ember of his cigarette between thick fingers, and slipped into the pilot's cabin. Following his grandfather's retreating back with his eyes, Yeehyeon looked ahead and saw a familiar figure lingering on the pier.</p>
 
 <p>His father was standing at the mooring spot where Yeehyeon used to sometimes come and wait for the boat before he left the village.</p>
 
@@ -53,7 +53,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"But there's still a lot..."</p>
 
-<p>"It's work we've done together our whole lives. You think we'd panic just because your hands are free?"</p>
+<p>"It's work we've done together our whole lives. You think we’ll be lost without an extra pair of hands?"</p>
 
 <p>His uncle chuckled as if Yeehyeon had said something silly and ruffled the back of his head. After an awkward smile, Yeehyeon was the first to jump onto the pier, catching the rope his uncle threw and tying it tightly around a concrete pillar. His posture had become somewhat more competent after a few days of practice, but the rope still stung when it rubbed against his soft palms.</p>
 
@@ -61,7 +61,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Crossing through the middle of the fish market with his father to leave the pier, Yeehyeon suddenly realized he didn't dislike this place as much as he had thought. Perhaps he even leaned closer to liking it.</p>
 
-<p>One might click one's tongue and point fingers at someone who chose a passive death from boredom or listlessness, but no one could carelessly condemn the desperate struggle to live, as long as that person was still human.</p>
+<p>People might click their tongues and point fingers at someone who, out of boredom or listlessness, chose to let themselves wither away. But how could anyone look down on someone fighting desperately to stay alive?</p>
 
 <p>It was better to desperately push forward than to let go and step back just to save face. That wasn't squalor — it was urgency for life, and that, precisely, was the intense, saturated color of living he had craved amidst the monochrome silence.</p>
 
@@ -75,7 +75,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>It was Mr. Lim, talking with the director of the fishery cooperative, whose face Yeehyeon also recognized. Mr. Lim wore his usual serious expression.</p>
 
-<p>He spotted Yeehyeon too, and over the cooperative director's shoulder, his gaze fixed on him — eyes briefly widening.</p>
+<p>He spotted Yeehyeon too, and over the cooperative director's shoulder, his gaze fixed on him — eyes briefly narrowing.</p>
 
 <p>Just as Liu had said — he was behaving himself.</p>
 
@@ -113,9 +113,9 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Sometimes... he would have dreams that felt more achingly missed than his actual memories. When he traced those dreams back, as always, Yeehyeon talked about Liu with a smile on his face.</p>
 
-<p>Liu's confident ease as he shone among people. The pitiful confusion he had shown after setting that ease aside to use violence on Yeehyeon's behalf. And then the mention of marriage — which had made Yeehyeon's heart plummet — though he had barely managed to hold onto his composure and deflect it.</p>
+<p>His confident ease as he shone among people. The pitiful confusion he had shown after setting that ease aside to use violence on Yeehyeon's behalf. And then the mention of marriage — which had made Yeehyeon's heart plummet — though he had barely managed to hold onto his composure and deflect it.</p>
 
-<p>What had Liu been thinking when he mentioned marriage back then?</p>
+<p>What had he been thinking when he mentioned marriage back then?</p>
 
 <p>What was clear was that it had been a desperate choice — the kind made by someone carrying a problem far more tangled and vast than Yeehyeon had understood at the time, something so enormous it had become unmanageable.</p>
 
@@ -123,17 +123,17 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>The evening sea breeze whipped against his entire body. His jacket flapped. His hair flew in all directions.</p>
 
-<p>"Right now, I'm placing a burden on you, Father."</p>
+<p>"I'm putting a burden on you, Father."</p>
 
 <p>"......"</p>
 
-<p>"I'm passing the weight of a story I should be carrying alone... onto you. Because some part of me resents you, and I want you to feel that weight too. I want you to understand what it feels like to suffer."</p>
+<p>"This is a story I should carry on my own, but I'm passing the weight of it on to you… because I resent you, and I want you to feel some of that weight too. I want it to be hard for you too."</p>
 
 <p>"......"</p>
 
-<p>"But isn't that still... better than us sharing nothing at all?"</p>
+<p>"But even that… wouldn't it be better than sharing nothing at all?"</p>
 
-<p>He had given up on speaking out of fear that the silence would be painful — but now that he had started, it wasn't as agonizing as he had expected. He wondered why he had been so afraid.</p>
+<p>He’d stopped trying to talk to his father because he thought it would hurt too much if he got no response. But now that he’d started, it didn’t hurt nearly as much as he’d expected. He wondered why he’d been so afraid.</p>
 
 <p>Yeehyeon licked his lips, looking at his unresponsive father.</p>
 
@@ -153,7 +153,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>This time, it was Yeehyeon's eyes — not his father's — that turned toward the horizon at the far edge of the sea.</p>
 
-<p>"He told me, Father..."</p>
+<p>"That man did it, Father..."</p>
 
 <p>"......"</p>
 

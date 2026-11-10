@@ -25,7 +25,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Shushu's assistant approached Liu and whispered. Like someone roughly shaken awake from a deep sleep, Liu found it difficult to break out of his immersion and respond.</p>
 
-<p>"As the Director knows best, Shushu isn't someone who rushes work just to meet an exhibition schedule. Still, if you say two or three pieces would be fine, I think we could manage that."</p>
+<p>"As Director knows best, the Artist-nim isn’t someone who rushes work just to meet an exhibition schedule. Still, if you say two or three pieces would be fine, I think we could manage that."</p>
 
 <p>He seemed to assume Liu's visit was related to the joint exhibition in the latter half of the year.</p>
 
@@ -53,7 +53,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Shushu arrived about thirty minutes later.</p>
 
-<p>"What is that look on your face? Our staff were worried, asking if something had happened."</p>
+<p>"What is that look on your face? Our staff were worried, asking if something had happened to Director."</p>
 
 <p>Shushu spoke from the desk near the entrance, flipping through stacks of photo books, keeping a careful distance from Liu, who was sitting on the sofa deeper inside the room.</p>
 
@@ -73,7 +73,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Why did you tell him?"</p>
 
-<p>"Why didn't <em>you</em> tell him?"</p>
+<p>"Why didn't <em>you</em> tell Yeehyeon-ssi?"</p>
 
 <p>Liu's frame cast a shadow over Shushu's face, and the atmosphere from his fierce blue eyes was oppressive — yet Shushu seemed to be waiting for exactly this, closing the distance and stepping right up to him.</p>
 
@@ -81,15 +81,15 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Shushu's eyes, which had flashed sharply for a moment, trembled slightly. He let out a sigh, scratched his forehead, and paced in place, looking frightened.</p>
 
-<p>"How could I have possibly imagined... that you were doing something like that without saying a word to him?"</p>
+<p>"How could I have possibly imagined... that you were doing something like that without saying a word to Yeehyeon-ssi?"</p>
 
-<p>Liu grabbed Shushu's shoulder as he bit his lower lip and turned him around.</p>
+<p>Shushu was biting his lower lip. Liu gripped his shoulder and turned him around.</p>
 
 <p>"You're the kind of person who wouldn't breathe a word about someone else's private affairs, even if you knew them. So why... did you act completely out of character that day?"</p>
 
 <p>Shushu shoved Liu's hand off his shoulder — the grip that had been threatening to crush it. He dropped his gaze, as though regretting having inadvertently let the secret slip, and the venom in his voice softened.</p>
 
-<p>"I was just saying how fortunate you were to have found someone you could show your ultimate solitude to — and that it was Yeehyeon, you're a ridiculously lucky bastard. That's what we were talking about. I wasn't deliberately trying to expose anything."</p>
+<p>"I was just saying how fortunate you were to have found someone you could show your ultimate solitude to — and that it was Yeehyeon-ssi, you're a ridiculously lucky bastard. That's what we were talking about. I wasn't deliberately trying to expose anything."</p>
 
 <p>"......"</p>
 
@@ -99,7 +99,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Shushu, looking down at the cluttered desk buried under photo books, portfolios, and notes scrawled in barely legible handwriting, quietly opened his mouth.</p>
 
-<p>"No. Let me correct that. Even if I had known you and Yeehyeon hadn't agreed to the Changing, I might have told him anyway."</p>
+<p>"No. Let me correct that. Even if I had known you and Yeehyeon-ssi hadn't agreed to the Changing, I might have told him anyway."</p>
 
 <p>He offered that conjecture in a voice calm enough to sound settled, then picked up a book from the desk and placed it down in Liu's direction, almost like a throw.</p>
 
@@ -129,7 +129,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"......"</p>
 
-<p>"After pulling something like that... you're telling me I don't know everything that happened between you and Yeehyeon?"</p>
+<p>"After pulling something like that... you're telling me I don't know everything that happened between you and Yeehyeon-ssi?"</p>
 
 <p>Shushu's lips twisted grotesquely.</p>
 
@@ -177,7 +177,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Having added that, Shushu took another sip of coffee and turned a calm gaze and voice back to Liu.</p>
 
-<p>"You, who can't understand that — you shouldn't dare hope that Yeehyeon would forgive you."</p>
+<p>"You, who can't understand that — you shouldn't dare hope that Yeehyeon-ssi would forgive you."</p>
 
 <p>"......"</p>
 
@@ -207,7 +207,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He had never expected that the time would come again — after he had finally thought he had made peace with his own existence, back in boyhood — to dig all of that up and drag it out again. He had certainly never imagined it would happen because of a longing for another person.</p>
 
-<p>"My belief that what you did was heavier than what Hong Seon-yu did hasn't changed... but you're not me. You said I don't know everything that happened between you two. Where did that confidence go?"</p>
+<p>"My belief that what you did was heavier than what Hong Seon-yu did hasn't changed... but Yeehyeon-ssi isn’t me. You said I don't know everything that happened between you two. Where did that confidence go?"</p>
 
 <p>Noticing Liu grinding his lips and fidgeting with a cigarette pack in his jacket pocket, Shushu sighed, approached, and wordlessly set an ashtray in front of him. Shushu didn't smoke, but he didn't enforce a strict no-smoking policy even for visiting smokers.</p>
 
@@ -227,7 +227,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Shushu listened, his expression complicated, biting his lip and releasing it several times. Then, slowly, the tension left his shoulders. He set down his mug, came up behind Liu, and placed a hand on his shoulder.</p>
 
-<p>"It's true that it's... a remarkable opportunity for Yeehyeon. But the opportunities you can open for him are no less significant."</p>
+<p>"It's true that it's... a remarkable opportunity for Yeehyeon-ssi. But the opportunities you can open for him are no less significant."</p>
 
 <p>"Jeong Se-in."</p>
 
@@ -253,11 +253,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Shushu placed his hand on Liu's shoulder again. This time, there was force behind it.</p>
 
-<p>"Yeehyeon is the love of your life. It was a serious mistake — too serious to call a simple slip — but if you keep showing him your sincerity, Yeehyeon... his heart will move. You can't let him go to Paris."</p>
+<p>"Yeehyeon-ssi is the love of your life. It was a serious mistake — too serious to call a simple slip — but if you keep showing him your sincerity, Yeehyeon-ssi... his heart will move. You can't let Yeehyeon-ssi go to Paris."</p>
 
 <p>Liu, who had been about to light the cigarette, brushed Shushu's hand away with an irritated motion and turned around.</p>
 
-<p>"Why? Because he needs me? Because he's the love of my life, and without him I'm just a Ghost who can't put down roots anywhere — who can't be accepted by anyone — <em>so forgive me, give up the opportunity you earned with your own worth, and quietly accept the fate of becoming an Omega by my side?</em> Is that what you want me to say?"</p>
+<p>"Why? Because I need Seo Yeehyeon? Because he's the love of my life, and without him I'm just a Ghost who can't put down roots anywhere — who can't be accepted by anyone — <em>so forgive me, give up the opportunity you earned with your own worth, and quietly accept the fate of becoming an Omega by my side?</em> Is that what you want me to say?"</p>
 
 <p>"......"</p>
 
@@ -277,7 +277,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Shushu held Liu's gaze without speaking. They knew each other well enough that there was no need to explain these words had been spat out from a place of being cornered. He had condemned the Changing itself — but he had never wanted Liu to lose Yeehyeon.</p>
 
-<p>"Before you were diagnosed as a Ghost and went to the States, you said you'd come back fixed. When I visited you in Boston halfway through, you said you were almost completely better. Awi — that's not an illness. You being a Ghost, this situation unfolding the way it did... I know it's a strange and difficult thing for both of you to accept. But Yeehyeon... you have to hold onto him."</p>
+<p>"Before you were diagnosed as a Ghost and went to the States, you said you'd come back fixed. When I visited you in Boston halfway through, you said you were almost completely better. Awi — that's not an illness. You being a Ghost, this situation unfolding the way it did... I know it's a strange and difficult thing for both of you to accept. But Yeehyeon-ssi... you have to hold onto him."</p>
 
 <p>"It might be impossible now."</p>
 
