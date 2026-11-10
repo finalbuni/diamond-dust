@@ -25,7 +25,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>The employee beside him launched into a rapid French explanation of the perfume's characteristics, but the words barely registered.</p>
 
-<p>It was unmistakably one of the several perfumes Liu blended and wore. It was the one Yuni nuna had correctly identified on the day they'd had a barbecue in his garden — she had been certain she recognized this particular scent as one of the components in his blend.</p>
+<p>It was unmistakably one of the several perfumes Liu blended and wore. It was the one Yuni had correctly identified on the day they'd had a barbecue in his garden — she had been certain she recognized this particular scent as one of the components in his blend.</p>
 
 <p>A phantom impression of the scent alone was far too insufficient; since arriving here, he had wanted to come buy this perfume more than once. But he hadn't trusted himself not to fall apart if he were exposed to anything that close to the real thing.</p>
 
@@ -41,15 +41,15 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Carols spilled out of every café and bar, and adults and children alike had gathered along the canal — having snowball fights, rolling snow into lumpy snowmen. Even though snow had become more common than it used to be (there had even been a blizzard back in April this year), heavy snowfall was still a rare and exciting sight in Paris.</p>
 
-<p>On the street in front of 'The Hands,' a few small children had gathered to scrape snow off the parked cars and throw it at each other. One, a boy who looked about six or seven and wore a red knitted hat pulled down low, spotted Yeehyeon, broke into a grin, and shouted "Joyeux Noël!" Christmas was still a few days away, but the snow seemed to have made him want to start celebrating early. Yeehyeon smiled back, replied "Joyeux Noël," brushed the snow from his coat shoulders, and stepped inside.</p>
+<p>On the street in front of 'The Hands,' a few small children had gathered to scrape snow off the parked cars and throw it at each other. One, a child who looked about six or seven and wore a red knitted hat pulled down low, spotted Yeehyeon, broke into a grin, and shouted "Joyeux Noël!" Christmas was still a few days away, but the snow seemed to have made them want to start celebrating early. Yeehyeon smiled back, replied "Joyeux Noël," brushed the snow from his coat shoulders, and stepped inside.</p>
 
-<p>He could hear the noise even in the lobby — everyone had gathered in the second-floor living room, drinking beer. Yeehyeon took off his bag and coat and sat down next to Jun.</p>
+<p>He could hear the noise even in the lobby — everyone had gathered in the second-floor living room, drinking beer. Yeehyeon took off his bag and coat and sat down next to June.</p>
 
 <p>"Where's Ben?"</p>
 
 <p>"…Not here yet."</p>
 
-<p>Jun shook his head with a somewhat bitter expression. Ben was usually the one who pulled these gatherings together, but since failing his interview — for knowing too little about cameras and the field — he had been difficult to find for several days.</p>
+<p>June shook his head with a somewhat bitter expression. Ben was usually the one who pulled these gatherings together, but since failing his interview — for knowing too little about cameras and the field — he had been difficult to find for several days.</p>
 
 <p>Even so, less than ten minutes after Yeehyeon joined them, a pleasantly tipsy Ben appeared. Rather than taking an empty seat somewhere else, he wedged himself between the three people already sitting on the three-seater sofa and tightened the knot of his already loose tie.</p>
 
@@ -79,13 +79,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Never mind, never mind."</p>
 
-<p>Yeehyeon shook his head and smiled at Ben, who had turned toward him while half-joking around with the sculptor seated next to him.</p>
+<p>Ben had been pretending to strangle the sculptor beside him. When he looked over, Yeehyeon shook his head and smiled.</p>
 
 <p>He'd already concluded it was impossible — and yet, once the suspicion had taken root, he couldn't shake it loose. It wasn't a difficult thing to check, and there was no harm in trying. Yeehyeon picked up his coat and quietly slipped out of his seat.</p>
 
 <p>The snowflakes had grown much smaller in the meantime, but it was still snowing.</p>
 
-<p>It had only been about three days since he sent the painting — it couldn't possibly have arrived in Seoul yet. Even when he checked that afternoon, it was still in transit by air freight. And even if the painting had arrived, it would take more time for him to receive it and travel to Paris.</p>
+<p>It had only been about three days since he sent the painting — it couldn't possibly have arrived in Seoul yet. Even when he checked that afternoon, it was still in transit by air freight. And even if the painting had arrived, Liu would still need time to receive it and get to Paris.</p>
 
 <p>Even while thinking all of this clearly, his steps toward the alley Ben had mentioned grew faster and faster. By the time he passed the eyeglass shops and rounded the corner, he was almost running.</p>
 
@@ -95,19 +95,19 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>It was just like it used to be — the way his clumsy heart, which he had always worked so carefully to suppress and conceal, could no longer pretend when it saw him. The joy spilled out as laughter before anything else. It felt like smiling toward him not just with his lips but with his whole body.</p>
 
-<p>In the deserted alley, an orange streetlamp casting a dim glow over the drifting snow, Liu stood frozen — cigarette halfway to his lips, then pulled away — stiff as someone who had turned a corner and walked straight into a ghost.</p>
+<p>In the deserted alley, an orange streetlamp lit the drifting snow. Liu was just about to light his cigarette when he froze like someone who'd come face to face with a ghost in a dead-end alley. He took the cigarette from his lips.</p>
 
-<p>"For someone on an undercover assignment… you're a little too conspicuous, aren't you?"</p>
+<p>"Aren't you a little too conspicuous for a stakeout…?"</p>
 
-<p>White breath rose in unsteady puffs.</p>
+<p>Yeehyeon's breath came in white puffs.</p>
 
 <p>"……"</p>
 
-<p>He hesitated, holding his distance as if he might bolt in sheer shock — and then he dropped the unlit cigarette and came forward. Without hesitation, his hand reached out to cup Yeehyeon's face, his thumb sweeping gently along his cheek. At that touch, Yeehyeon realized he was crying.</p>
+<p>Liu hesitated, keeping his distance as if he were so startled he might bolt. Then he dropped the unlit cigarette and came closer. Without hesitation, he reached out to cup Yeehyeon's face, his thumb brushing gently over his cheek. At that touch, Yeehyeon realized he was crying.</p>
 
 <p>He was alive.</p>
 
-<p>The snow settling slowly above his head, the faint festive clamor drifting over from the direction of the canal, the sight of Liu filling his entire field of vision, and the real, physical warmth of Liu Weikun's hand against his cheek — every sense was so vividly, achingly present that he felt truly alive.</p>
+<p>The snow settling slowly above his head, the faint festive clamor drifting over from the direction of the canal, the sight of him filling his entire field of vision, and the real, physical warmth of Liu Weikun's hand against his cheek — every sense was so vividly, achingly present that he felt truly alive.</p>
 
 <p>He had missed him.</p>
 

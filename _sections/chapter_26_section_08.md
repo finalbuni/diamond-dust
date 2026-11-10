@@ -15,7 +15,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>The narrow parking lot in front of the building was completely choked with trucks loaded with demolition equipment and debris already pulled from the structure. The main entrance, wide open in contrast to usual, offered a glimpse of the bustling activity inside.</p>
 
-<p>A worker carrying a detached door panel on his back glanced over at the man standing there — tall, striking, and adorned with the kind of jewelry rarely seen on a construction site. After tossing the timber onto a pile by the truck bed, the worker quickly disappeared back inside.</p>
+<p>A worker carrying a detached door panel on his back glanced over at the man standing there — unusually tall, foreign-looking, and striking. After tossing the timber onto a pile by the truck bed, the worker quickly disappeared back inside.</p>
 
 <p>Liu followed him, stepping slowly into Phantom.</p>
 
@@ -23,7 +23,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Liu lingered near the entrance, unable to step further inside. The feeling was different from when they had first purchased and remodeled this building to expand Phantom.</p>
 
-<p>Juhan spotted him and came over, handing him a mask. Come to think of it, it had barely been five minutes since he walked through the main door, yet a fine layer of white dust had already settled across the front of his coat.</p>
+<p>Juhan spotted Liu and came over, handing him a mask. Come to think of it, it had barely been five minutes since he walked through the main door, yet a fine layer of white dust had already settled across the front of his coat.</p>
 
 <p>"What brings you here?"</p>
 
@@ -41,7 +41,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"I let you have the remodel done exactly as you wanted, so don't even think about trying to back out of it now."</p>
 
-<p>"If you hadn't thought it was a good idea, you never would have approved it. Why are you making it sound like it's all because of me? I just wanted a small café in one corner. You're the one who turned it into this whole enormous project by saying we might as well do a full remodel while we were at it."</p>
+<p>"If you hadn't thought it was a good idea, you never would have approved it. Why are you making it sound like it's all because of me? I just wanted a small café in one corner. Director is the one who turned it into this whole enormous project by saying we might as well do a full remodel while we were at it."</p>
 
 <p>Juhan stiffened and took a half-step back. Liu laughed and slung an arm over his shoulder anyway, pulling him along.</p>
 
@@ -71,7 +71,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"He wasn't taken."</p>
 
-<p>"Have you seen the paintings Yeehyeon has been putting out lately?"</p>
+<p>"Have you seen the paintings Yeehyeonie has been putting out lately?"</p>
 
 <p>"……"</p>
 
@@ -95,9 +95,9 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Liu shrugged at Manager Han, who was watching Juhan's retreating back with a puzzled expression.</p>
 
-<p>She came to stand beside him, leaned against the wall, and tossed a file on the construction overview onto the windowsill.</p>
+<p>Manager Han came to stand beside him, leaned against the wall, and tossed a file on the construction overview onto the windowsill.</p>
 
-<p>"The electrical wiring is more tangled than expected, which complicates things a bit, but the demolition should stay on schedule for now. You probably won't need to come in for about a week."</p>
+<p>"The electrical wiring is more tangled than expected, which complicates things a bit, but the demolition should stay on schedule for now. Director Liu probably won’t need to come in for about a week."</p>
 
 <p>Liu drew one last short drag from the stub of his cigarette and turned to look at her.</p>
 

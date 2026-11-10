@@ -15,7 +15,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Although evening was approaching, the sky outside remained as bright and blue as midday. Yet, whether it was his mood or simply the angle of the setting sun, a shadow seemed to have fallen over the room, regardless of the light outside.</p>
 
-<p>He set down the bundle of papers in his hand and got off the bed. He walked to the small sink in the corner across from the bed, poured himself a glass of tap water, and drank it. Then, as if that wasn't enough, he began to wash his face.</p>
+<p>Yeehyeon set down the bundle of papers in his hand and got off the bed. He walked to the small sink in the corner across from the bed, poured himself a glass of tap water, and drank it. Then, as if that wasn't enough, he began to wash his face.</p>
 
 <p>Even splashing cold water over his face several times did little to restore his sense of reality. Everything before his eyes felt at once familiar and strange, like someone who had been held captive for a long time and had only just found their way home.</p>
 
@@ -29,9 +29,9 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>As if grateful to have something to do with his hands, Yeehyeon walked over to the desk by the window and took out a cigarette and a lighter. The same brand Liu smoked. He had bought them sometime around the beginning of spring and the pack was about half full. They tasted stale and dry, but he wasn't smoking for enjoyment.</p>
 
-<p>Knowing that someone was watching him did nothing to ease the pain of longing.</p>
+<p>Being sure that Liu was keeping an eye on him did nothing to ease the ache of missing him.</p>
 
-<p>He started his days early, divided his work between morning and afternoon sessions, studied English and French, and occasionally helped out with office tasks. His colleagues at 'The Hands' would tease him half-admiringly, saying he seemed less like an artist and more like a disciplined office worker or civil servant — so composed he appeared immune to turmoil. But the reality was different.</p>
+<p>He started his days early, worked in two sessions, one in the morning and one in the afternoon, studied English and French, and helped out with office chores when he had time. His colleagues at The Hands would tease him with a note of admiration, saying he lived less like a painter than a diligent office worker or civil servant, and that he was like a monk, untroubled by worldly cares. But the reality was different.</p>
 
 <p>He was not okay. He was not at peace.</p>
 
@@ -43,24 +43,24 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He understood now that his own passivity — not holding Alphas and Omegas in contempt, but failing to seek understanding or knowledge of them as fellow members of society — had itself been a form of Beta-centric thinking.</p>
 
-<p>Yeehyeon leaned against the open window and exhaled smoke slowly, his breath carrying a faint tremor. Before he could finish his third drag, tears slid down his cheeks. He didn't try to hold them back.</p>
+<p>Yeehyeon leaned against the open window and exhaled smoke slowly, his breath carrying a faint tremor. Before he'd taken three full drags, tears slid down his cheeks. He didn't try to hold them back.</p>
 
-<p>He had held back for so long. He wanted to say he missed him. He wanted to say he still loved him. He wanted to abandon everything here, return to Seoul, and hold him. He wanted to feel his own lips pressing hard against that lower lip — the one Liu always drew between his teeth.</p>
+<p>He'd held back for so long. He wanted to tell Liu how much he missed him, how much he still loved him. He wanted to leave his whole life here behind, go back to Seoul, and hold him. He wanted to feel Liu suck hard on his lower lip.</p>
 
-<p>He had wanted him inside him, had longed to feel the sensation of knotting, and had wanted to see him come undone with pleasure as an Alpha — because of him.</p>
+<p>He'd wanted Liu inside him. He'd wanted to feel him knot, to see him moan with an Alpha's pleasure, and to be the one who made him feel it.</p>
 
-<p>The intensity of his desire for him wasn't solely a product of Erich's pheromones, which only the diary's owner could sense, or of his own pheromones, which only Liu had ever been able to detect. The understanding and connection he had built with Liu over time couldn't be reduced to the manipulation of pheromones alone.</p>
+<p>That fierce longing for Liu couldn't be explained by pheromones alone—not by Erich's, which only the person who kept the diary could sense, or by Yeehyeon's own, which Liu alone seemed to have sensed. The understanding and closeness that had grown between them over time couldn't have been the work of pheromones.</p>
 
-<p>And yet — the passionate, almost startlingly bold version of himself that emerged in intimacy with Liu, so unfamiliar it had sometimes felt alien — that, too, was not entirely the product of his emotional love alone.</p>
+<p>And yet, in bed with Liu, Yeehyeon had been so passionate and bold that he hardly recognized himself. That, too, couldn't be explained by love alone.</p>
 
-<p>Leaning his head against the window frame, Yeehyeon let his hand drop, forgetting even the cigarette, and allowed himself to think of Liu without any restraint, avoidance, or diminishment.</p>
+<p>Leaning his head against the window frame, Yeehyeon let his hand drop, forgetting even the cigarette. He let himself think about Liu as much as he wanted, without holding back, shying away, or trying to make what he felt seem smaller.</p>
 
-<p>If the Changing was Liu's greed, his mistake, his undeniable sin — then his silence, in the moment he could have lightened the weight of that sin by revealing the existence of Yeehyeon's own pheromones, could not be understood as anything other than love.</p>
+<p>If the Changing was Liu's greed, his mistake, his undeniable sin, then the silence he kept when confronted about it could only be understood as love. Liu could have tried to lighten the weight of what he'd done by telling Yeehyeon that he had pheromones of his own. He hadn't.</p>
 
-<p>His love, which had sought to leave Yeehyeon free to choose his own future without being bound by guilt or obligation, was also not the influence of pheromones.</p>
+<p>Liu had wanted Yeehyeon to be free to choose his own future without being bound by guilt or obligation. That love, too, hadn't come from pheromones.</p>
 
-<p>He was grateful that when Liu had confessed — only able to say "I love you" — he hadn't dismissed it as a lie. He was grateful that he hadn't negated the wholeness of Liu's love, which he had felt so clearly through the trembling of his own skin, through the trembling of something deep inside him.</p>
+<p>When all Liu could say was “I love you,” Yeehyeon was glad he hadn't called Liu's love a lie. He was glad he hadn't denied that love altogether, when he'd felt it so clearly in the tremor of his skin and in the trembling deep inside him.</p>
 
-<p>A quiet sobbing — not ragged, but steady, like the slow catching of breath after a long uphill climb — continued for a long time.</p>
+<p>He went on sobbing quietly for a long time, like someone looking back from the top of a long climb and slowly catching his breath.</p>
 
 <p>Though it was nearing nine o'clock, the sky over Paris was still a bright, unwavering blue.</p>

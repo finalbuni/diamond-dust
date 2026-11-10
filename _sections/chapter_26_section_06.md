@@ -34,9 +34,9 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 {% capture excerpt %}
 <p>At my request, Erich went to the market and purchased some Swiss chocolate. It is one of the few indulgences I occasionally find myself craving.</p>
 
-<p>I had doubted he would manage to find any, but for Erich, who knows the market conditions thoroughly, it apparently presented no difficulty.</p>
+<p>I had doubted he would manage to find any, but with his thorough knowledge of the market, he apparently had no trouble.</p>
 
-<p>We shared the chocolate and talked during his short break.</p>
+<p>We shared the chocolate and talked during Erich’s short break.</p>
 
 <p>Erich says he envies how much I have traveled and asks me to tell him stories about other countries whenever he has a spare moment. But the only stories I have to offer are ridiculous tales of the arrogant nobles I have encountered, or amusing incidents born from the cultural differences between nations — since my own travels have consisted of nothing more than moving from one noble's estate to a wealthy merchant's villa, and then on to another noble's house. Even so, Erich listens to each of these stories as though they were utterly captivating.</p>
 
@@ -52,7 +52,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>A Beta's body, unable to relax elastically enough to receive an Alpha's knotting, cannot endure intimacy at such short intervals. It usually takes several months before the transformation into a full Omega is complete.</p>
 
-<p>Josef is, honestly, the easiest 'client' I have worked with — easier than anyone who came before — since we agreed from the outset to minimize unnecessary contact and finish each time as efficiently and quickly as possible.</p>
+<p>He is, honestly, the easiest 'client' I have worked with — easier than anyone who came before — since we agreed from the outset to minimize unnecessary contact and finish each time as efficiently and quickly as possible.</p>
 
 <p>And yet, this time is the most painful I have ever endured. More painful than the beginning of this 'business,' when I had not yet learned to shut the window of my emotions and lock myself inside — when I used to vomit, go into shock, even attempt to take my own life.</p>
 
@@ -80,29 +80,29 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 {% capture excerpt %}
 <p>Erich was a Beta.</p>
 
-<p>Or perhaps he could not even be accurately called a Beta, given that he possessed pheromones. What was certain was that he had never once experienced a heat, and even when in the same room as Josef's friends or the other Alphas who frequently called at the mansion, he had never detected their pheromones — nor had any of them ever perceived him as an Omega. I am completely unsettled right now.</p>
+<p>Or perhaps I cannot call him a Beta at all, given that he has pheromones. In any case, one thing is certain: he has never gone into heat. Even when he has been in the same room as Josef's friends or the other Alphas who often visit the mansion, he has never once detected their pheromones, and none of them has ever taken him for an Omega. I am in a state of utter agitation.</p>
 
-<p>This evening, Erich was struck and humiliated by the Master.</p>
+<p>This evening, the Master slapped Erich across the face and insulted him.</p>
 
-<p>It was not for any particular failing on Erich's part. The Master was simply taking out his frustrations on whoever was within reach.</p>
+<p>Erich had done nothing in particular to deserve it. The Master was simply taking his anger out on him.</p>
 
-<p>Josef's father had, until just a few months ago, been one of the principal voices urging joint intervention with Prussia to prevent Denmark from annexing Schleswig and Holstein. He had enjoyed the Emperor's trust and wielded considerable influence within Austria.</p>
+<p>Josef's father had been among those most strongly in favor of sending troops alongside Prussia to stop Denmark from annexing Schleswig and Holstein. As recently as a few months ago, he had enjoyed the Emperor's trust and wielded considerable influence in Austria.</p>
 
-<p>He then joined the faction arguing that war must be waged against Prussia for its violation of the Gastein Convention, and it had seemed almost certain that a victory in this war would secure him a position within an imperial body charged directly with leading unification efforts.</p>
+<p>He later joined those who argued that Austria must be prepared to go to war against Prussia for violating the Gastein Convention. If Austria won this war, he was almost certain to be chosen to serve on a body that would answer directly to the Emperor and take the lead in unification.</p>
 
-<p>Rumors, however, suggested the situation was not unfolding favorably for Austria.</p>
+<p>Rumor had it, however, that things were not going particularly well for Austria.</p>
 
-<p>The head of the Ruse household was often absent, consumed by strategy meetings with his allies. Even on the rare days he did return, the atmosphere was heavy.</p>
+<p>The head of the Ruse household was often absent, consumed by strategy meetings with his allies. Even on the rare days he did return, the mood was grim.</p>
 
-<p>When I first arrived here, he treated me with courtesy — inviting me to dinners and concerts, behaving as though I were merely a valuable stud horse on loan. But lately, whenever I heard he had come home and went down to greet him, he would glance at me with an expression of contempt, as though I were something grotesque and repulsive.</p>
+<p>When I first arrived, he had been courteous even to me, though I had been sold here as a “stud horse.” He would invite me to dinners and concerts. These days, when I hear he has come home and go downstairs to greet him, he merely casts me a contemptuous glance, as though I were some grotesque creature.</p>
 
-<p>The entire household freezes whenever he is home, since no one ever knows when or over what trifling thing he might choose to pick a fight. Today's scapegoat was Erich, for failing to keep Josef's attire in proper order.</p>
+<p>The whole house freezes with tension whenever he comes home. No one knows when he might find fault or what he might seize on. Today's scapegoat was Erich, for failing to see that Josef was neatly dressed.</p>
 
 <p>I was not present at the time, but news spreads through this mansion swiftly — every corner knows what has happened within thirty minutes.</p>
 
-<p>Erich had come to tidy my room with his usual cheerful air, carrying on as though nothing had occurred, but eventually the tears came.</p>
+<p>Erich saw to my bed with his usual cheerfulness, pretending nothing had happened. In the end, he couldn't hold back his tears.</p>
 
-<p>His tears tore at my chest — and I felt a small, involuntary flicker of something like joy at the thought that he trusted me enough to show me this. And then I felt disgust at myself for feeling even that small joy. My own happiness felt like a sin.</p>
+<p>Seeing him cry broke my heart. And yet some small part of me was glad that he trusted me enough to let me see him at his most vulnerable. I was disgusted with myself for feeling even that little bit of gladness. Seeing his tears, it felt like a sin.</p>
 
 <p>He said that while meeting a kind young master like Josef had been a stroke of fortune, a life in which he could decide nothing for himself, could not leave this city, and had no choice but to remain silent even when treated unjustly, felt utterly bleak — like being dust. He wondered if anyone would ever remember the name of someone as common and forgettable as he was.</p>
 

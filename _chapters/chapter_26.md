@@ -19,7 +19,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Imagining Times Square packed with two million people gave him the start of a tension headache. But it wasn't the crowd that caused it. He could function when focused on work, but any small lapse in concentration brought on intense stress. His only self-prescribed remedy for the headaches and insomnia that had plagued him for months was alcohol and cigarettes.</p>
 
-<p>Liu rolled down the window halfway and lit a cigarette. The street noise grew a little closer. A group of five or six people, looking to be in their early to mid-twenties, passed by loudly blowing vuvuzelas. He stubbed out the cigarette after just a few puffs and rolled the window back up.</p>
+<p>Liu rolled down the window halfway and lit a cigarette. The street noise grew a little closer. A group of five or six people, looking to be in their early to mid-twenties, passed by loudly blowing vuvuzelas. Liu stubbed out the cigarette after just a few puffs and rolled the window back up.</p>
 
 <p>He wouldn't have felt this low if he hadn't received that call from the hotel this afternoon.</p>
 
@@ -43,7 +43,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>In Seoul, the New Year's morning had already begun. Paris… Paris would be a little later, the dawn of the first day of the year just breaking. <em>Yeehyeon — he might already be starting his day diligently. Or maybe he's still in bed, making resolutions for the year.</em> Imagining Yeehyeon's eyes darting this way and that in the pale blue early light, Liu shrugged and let out a short laugh.</p>
 
-<p>He had already been in New York for about three weeks for the Pettibone exhibition planned with H&W. After taking New Year's Day off tomorrow and attending the exhibition opening on January 2nd, all of his mandatory schedule would be finished. But he still hadn't booked his return flight to Seoul.</p>
+<p>He had already been in New York for about three weeks for the Pettibone exhibition planned with H&W. After taking New Year's Day off tomorrow and attending the exhibition opening on January 2nd, all of Liu’s mandatory schedule would be finished. But he still hadn't booked his return flight to Seoul.</p>
 
 <p>He wasn't planning to go see him, and whether here or in Seoul, the city was equally hollow without him — yet he couldn't understand why he kept pushing back the reservation date for no apparent reason.</p>
 
@@ -111,7 +111,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Liu settled into the armchair across from the two-seater sofa where Shushu sat, leaned forward with his elbows on the armrests, and put on a playful expression.</p>
 
-<p>"Jeong Se-in. I don't know what you're thinking, but I've been swamped preparing for this exhibition. I've been to Hong Kong three or four times in the last two months alone. If working this hard and being too busy to spend time with friends made you worry — I'm sorry. Okay?"</p>
+<p>"Zhang Shuiyan. I don't know what you're thinking, but I've been swamped preparing for this exhibition. I've been to Hong Kong three or four times in the last two months alone. If working this hard and being too busy to spend time with friends made you worry — I'm sorry. Okay?"</p>
 
 <p>But not a trace of worry had left Shushu's eyes. Liu let out a sigh, set the beer bottle down, and stood up from the sofa.</p>
 
@@ -145,7 +145,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"You don't need a spot to watch the countdown in Times Square, right? You've done all that before. Let's go to Mott Street — lamb skewers and baijiu, like we used to do for New Year's."</p>
 
-<p>Liu draped his coat over the back of the sofa and suggested Chinatown while working on his buttons. Shushu looked up at him — forcing cheerfulness — and after a brief hesitation, finally spoke.</p>
+<p>Liu draped his coat over the back of the sofa and suggested Chinatown while working on his buttons. Shushu looked up at Liu — who was forcing cheerfulness — and after a brief hesitation, finally spoke.</p>
 
 <p>"Isn't it… a bit too big for a good-luck charm? Especially to bring all the way to New York."</p>
 
@@ -153,13 +153,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Liu glanced over, fingers on the third button.</p>
 
-<p>"Yeehyeon's painting."</p>
+<p>"Yeehyeon-ssi's painting."</p>
 
 <p>"……"</p>
 
 <p>His hands slowed for just a moment. He said nothing — only scraped his lower lip lightly with his teeth, pretending to focus on the button.</p>
 
-<p>"Yeehyeon unveiled his work for the first time this month, through 'The Hands.'"</p>
+<p>"Yeehyeon-ssi unveiled his work for the first time in the middle of this month, through 'The Hands.'"</p>
 
 <p>Liu fastened the last button, raised his head, and stared at the ceiling, running his tongue along the inside of his cheek. He was clearly signaling he didn't want to discuss this — but Shushu had no intention of stopping until he showed something.</p>
 
@@ -177,21 +177,21 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Shushu had assumed Liu would want to own all of Yeehyeon's work and would certainly be tracking his activities. That had been the simple thought behind the question. But as Liu said — that approach wasn't for Yeehyeon's sake.</p>
 
-<p>"I was shortsighted. I'm sorry. But… you knew everything about Yeehyeon's news too. You were watching him. So why aren't you saying anything?"</p>
+<p>"I was shortsighted. I'm sorry. But… you knew everything about Yeehyeon-ssi's news too. You were watching him. So why aren't you saying anything?"</p>
 
 <p>"What exactly do you want to hear from me?"</p>
 
 <p>Liu raised his voice. His restless eyes, which had been wandering toward the ceiling as if frustrated, fixed on Shushu.</p>
 
-<p>"Do you want to see me fall apart crying about how hard things are? What changes by talking to the people around him?"</p>
+<p>"Do you want to see me fall apart crying about how hard things are? What changes by talking to other people?"</p>
 
 <p>Liu puffed out his cheeks, let out a long sigh, ran a hand through his neatly styled hair, and came back to the living room, dropping into the seat across from Shushu.</p>
 
 <p>"Some people overcome situations that way. Unfortunately, your friend isn't that type."</p>
 
-<p>Leaning his head back against the chair, he muttered in a low, sunken voice.</p>
+<p>Leaning his head back against the chair, Liu muttered in a low, sunken voice.</p>
 
-<p>"Then go see him. Do something. Go and say something — do something to resolve things with Yeehyeon."</p>
+<p>"Then go see him. Do something. Go and say something — do something to resolve things with Yeehyeon-ssi."</p>
 
 <p>Liu, who had been staring blankly at Shushu with his head still tilted back and eyes half-lidded, blinked slowly.</p>
 
@@ -209,7 +209,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>With a practiced motion, he lit a cigarette and set the lighter down on the table before speaking.</p>
 
-<p>"The process by which you came to accept your past with Hong Seon-yu. The way you thought through it… I hoped that Yeehyeon would come to accept me the same way."</p>
+<p>"The process by which you came to accept your past with Hong Seon-yu. The way you thought through it… I hoped that he would come to accept me the same way."</p>
 
 <p>Liu let out a low, self-mocking scoff — as if amused by his own shallowness for shifting his position the moment circumstances changed. He bit his lip once, then released it, his expression settling into something different.</p>
 
@@ -245,13 +245,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"That's right. If I had heard this back then, I probably couldn't have handled it. I might have resented and lashed out at you — who did nothing wrong. Back then…"</p>
 
-<p>He paused with the vague, half-there smile of someone looking back on a time of pure, reckless feeling.</p>
+<p>Shushu paused with the vague, half-there smile of someone looking back on a time of pure, reckless feeling.</p>
 
 <p>"Back then, no matter who had told me, I would have come here with Hong Seon-yu. So… you did the right thing by not saying anything then."</p>
 
 <p>A suffocating urge to say something rose in Liu's chest. He opened his lips and drew a breath — then realized there was nothing more he could say to Shushu, who had already put the past to rest.</p>
 
-<p>"Back then, whether it was jealousy that you had slept with Seonyu, or because I didn't want to believe Seonyu had approached me with an agenda… I would have denied everything and made a scene. But what does any of that matter now? The reason Hong Seon-yu and I fell apart wasn't because of what happened between you and him."</p>
+<p>"Back then, whether it was jealousy that you had slept with Seon-yu, or because I didn't want to believe Seon-yu had approached me with an agenda… I would have denied everything and made a scene. But what does any of that matter now? The reason Hong Seon-yu and I fell apart wasn't because of what happened between you and Hong Seon-yu."</p>
 
 <p>"……"</p>
 
@@ -267,7 +267,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>At Liu's question, Shushu shrugged, let his shoulders drop with a sigh, set the hat he'd been turning over in his hands back on his head, and stood up.</p>
 
-<p>"Let's go out and count down to the New Year — like we used to."</p>
+<p>"Let's go out, get drunk, and count down to the New Year — like we used to."</p>
 </div>
 {% include scene-break.html %}
 <div id="section-2" class="hybrid-section" data-section="2">
@@ -297,11 +297,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>At the bright voice speaking in English with a French accent, Yeehyeon looked up to find Beau Beau — who managed the bookstore section of 'Ttu' — approaching him with his characteristic warm, gentle smile. Yeehyeon smiled back and set down the photography book he had been looking at.</p>
 
-<p>"No, I've only read about half of it — but I'm finding it very interesting. As you recommended, essays really do have their own distinct qualities."</p>
+<p>"No, I've only read about half of it — but I'm finding it very interesting. As Beau Beau recommended, essays really do have their own distinct qualities."</p>
 
 <p>"Right? Essays are generally more psychologically accessible. Most people start with essays and then move on to specialized texts. Unlike you."</p>
 
-<p>Beau Beau smiled meaningfully and pressed his index finger lightly against Yeehyeon's shoulder. Yeehyeon glanced sideways, rubbed the back of his neck, and let out an awkward laugh.</p>
+<p>Beau Beau smiled meaningfully and pressed his index finger lightly just below Yeehyeon's shoulder. Yeehyeon glanced sideways, rubbed the back of his neck, and let out an awkward laugh.</p>
 
 <p>Since coming to Paris, he had slowly started reading books about Alphas and Omegas. At first, not knowing where or how to begin, he had bought five or six books at once on impulse. After frequenting the shop like that for about two weeks, Beau Beau had cautiously approached him and asked if he needed any recommendations.</p>
 
@@ -365,17 +365,17 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>From 5 PM on December 31st until noon on January 1st, all public transportation in Paris — the Métro, buses, trams, and RER — ran free. Even without that, the last day of the year was bound to be crowded in any city in the world.</p>
 
-<p>Standing near the inner doors of the subway car, which was more packed than usual, Yeehyeon took out his phone and sent a message to Yuni nuna. As soon as he sent the message saying he would arrive at their meeting spot within thirty minutes, a quick reply came back. She said she had already arrived and was having coffee at a nearby café.</p>
+<p>Standing near the inner doors of the subway car, which was more packed than usual, Yeehyeon took out his phone and sent a message to Yuni. As soon as he sent the message saying he would arrive at their meeting spot within thirty minutes, a quick reply came back. She said she had already arrived and was having coffee at a nearby café.</p>
 
 <p>He leaned his head against the door glass — which reflected the passengers inside in a faint, blurry outline but showed nothing of the world outside — and smiled, picturing her having arrived thirty minutes early, probably downing coffee after coffee out of nerves.</p>
 
-<p>Today was New Year's Eve. He was on his way to Saint-Philippe-du-Roule station to join Yuni nuna and her friend Michelle for the New Year's countdown event at the Arc de Triomphe. The plan was to have dinner near Rue La Boétie — relatively less crowded before the Champs-Élysées filled up — then make their way in. It had been Michelle's suggestion.</p>
+<p>Today was New Year's Eve. He was on his way to Saint-Philippe-du-Roule station to join Yuni and her friend Michelle for the New Year's countdown event at the Arc de Triomphe. The plan was to have dinner near Rue La Boétie — relatively less crowded before the Champs-Élysées filled up — then make their way in. It had been Michelle's suggestion.</p>
 
-<p>Michelle was four years older than Yuni nuna and five years older than Yeehyeon — a British woman of Indian descent and, having lived in Paris for ten years, a true Parisian in every practical sense. She worked for a mid-sized designer brand with a solid following across France and Europe, and she was one of the people who came to 'The Hands' gallery most frequently.</p>
+<p>Michelle was four years older than Yuni and five years older than Yeehyeon — a British woman of Indian descent and, having lived in Paris for ten years, a true Parisian in every practical sense. She worked for a mid-sized designer brand with a solid following across France and Europe, and she was one of the people who came to 'The Hands' gallery most frequently.</p>
 
-<p>Yuni nuna and Michelle had first grown close as gallerist and visitor, but over the past two or three weeks had been meeting outside the gallery far more often. Watching the careful, pleasant warmth they showed each other, it was impossible not to sense that they were thinking of each other as something more than just friends.</p>
+<p>Yuni and Michelle had first grown close as gallerist and visitor, but over the past two or three weeks had been meeting outside the gallery far more often. Watching the careful, pleasant warmth they showed each other, it was impossible not to sense that they were thinking of each other as something more than just friends.</p>
 
-<p>Yeehyeon didn't want to wedge himself between them as an oblivious third wheel, but Yuni nuna had begged him to come along, and she still seemed uneasy about spending New Year's Eve alone with Michelle.</p>
+<p>Yeehyeon didn't want to wedge himself between them as an oblivious third wheel, but Yuni had begged him to come along, and she still seemed uneasy about spending New Year's Eve alone with Michelle.</p>
 
 <p>Watching the two of them, he found himself thinking that perhaps he and Liu should not have skipped over this stage entirely. The stage of harboring mutual feelings and growing closer with cautious, gradual steps.</p>
 
@@ -389,9 +389,9 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Even if he mentally replaced a past decision with a new one, he couldn't be certain it would have led somewhere better.</p>
 
-<p>As the subway pulled into the platform at Saint-Philippe-du-Roule station, Yeehyeon straightened up from his lean, adjusted his backpack, and stepped off the train into the crowd. The exit signs in the Paris Métro were notoriously unhelpful, but thanks to the directions Yuni nuna had sent him in advance, he avoided the usual hassle of emerging from the wrong exit and having to reopen the map app.</p>
+<p>As the subway pulled into the platform at Saint-Philippe-du-Roule station, Yeehyeon straightened up from his lean, adjusted his backpack, and stepped off the train into the crowd. The exit signs in the Paris Métro were notoriously unhelpful, but thanks to the directions Yuni had sent him in advance, he avoided the usual hassle of emerging from the wrong exit and having to reopen the map app.</p>
 
-<p>About halfway to the café where they were meeting, he ran into Yuni nuna in front of a photo studio. She was already well-known among 'The Hands' staff and visitors for her distinctive style — which suited her perfectly — but today she seemed to have made a special effort for the occasion.</p>
+<p>About halfway to the café where they were meeting, he ran into Yuni in front of a photo studio. She was already well-known among 'The Hands' staff and visitors for her distinctive style — which suited her perfectly — but today she seemed to have made a special effort for the occasion.</p>
 
 <p>Since they had left 'The Hands' at different times, this was the first time they were seeing each other all day. Her face wore a mixture of tension and excitement as she slipped her arm through his — he still had both hands in his coat pockets — and pressed close to his shoulder.</p>
 
@@ -401,7 +401,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Just as the sign for their meeting spot came clearly into view, they spotted Michelle walking toward them from across the street, waving. True to her profession as a designer, she was immaculately put together.</p>
 
-<p>Yuni nuna, who enjoyed bold designs, and Michelle, who favored minimalism, created an atmosphere that seemed mismatched at first glance yet somehow harmonized. It was an interesting synergy built on unexpectedness — not the obvious, formulaic compatibility everyone could predict.</p>
+<p>Yuni, who enjoyed bold designs, and Michelle, who favored minimalism, created an atmosphere that seemed mismatched at first glance yet somehow harmonized. It was an interesting synergy built on unexpectedness — not the obvious, formulaic compatibility everyone could predict.</p>
 
 <p>The moment they caught sight of each other, life flooded back into both their faces and their eyes lit up. Seeing it play out through other people, Yeehyeon felt he understood a little better why people said you couldn't hide love.</p>
 
@@ -415,23 +415,23 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"My old office was near the Champs-Élysées, and this was one of the places I found back then. I couldn't afford a twenty-euro lunch every day, so I went scouting."</p>
 
-<p>Nodding at Michelle's words, Yeehyeon quietly took in the interior. Checkerboard tile floors, round tables covered with white tablecloths, chairs fitted with red leather cushions, a heavy mahogany bar occupying the back of the room. It felt old but well-kept and clean.</p>
+<p>Nodding at Michelle's words, he quietly took in the interior. Checkerboard tile floors, round tables covered with white tablecloths, chairs fitted with red leather cushions, a heavy mahogany bar occupying the back of the room. It felt old but well-kept and clean.</p>
 
 <p>To Yeehyeon's eyes, the place was already exotic and wonderful enough — but he also wondered whether, despite it being a special occasion, the two of them had chosen somewhere more accessible out of consideration for his own finances.</p>
 
 <p>"I was so sorry we couldn't spend Christmas together, but I'm genuinely glad we can welcome the New Year like this."</p>
 
-<p>The waiter had set out the wine at Michelle's request and stepped away from the table. Michelle pulled out a chair, sat down, and gave Yuni nuna a quiet smile.</p>
+<p>The waiter had set out the wine at Michelle's request and stepped away from the table. Michelle pulled out a chair, sat down, and gave Yuni a quiet smile.</p>
 
-<p>Unlike Yeehyeon, who had obtained a special visa issued for artists with a clearly established affiliation who met certain criteria, Yuni nuna had applied for a work visa and had been required to return to Seoul for about ten days not long ago due to visa complications.</p>
+<p>Unlike Yeehyeon, who had obtained a special visa issued for artists with a clearly established affiliation who met certain criteria, Yuni had applied for a work visa and had been required to return to Seoul for about ten days not long ago due to visa complications.</p>
 
-<p>Michelle was expressing her regret over the Christmas they hadn't been able to spend together because of that. She made no rush to close the distance between them, yet she didn't bother hiding the fact that she felt something particular for Yuni nuna — and Yuni nuna was the same. The two were approaching each other like two dancers in perfect, unhurried sync.</p>
+<p>Michelle was expressing her regret over the Christmas they hadn't been able to spend together because of that. She made no rush to close the distance between them, yet she didn't bother hiding the fact that she felt something particular for Yuni — and Yuni was the same. The two were approaching each other like two dancers in perfect, unhurried sync.</p>
 
 <p>"This year became so much more special because of you two."</p>
 
 <p>"We should be the ones thanking you. Having you, Michelle, helped us find our footing in Paris so much faster."</p>
 
-<p>Yuni nuna responded to Michelle's toast, and Yeehyeon raised his glass toward Michelle with a smile, adding his agreement. Just as their glasses were about to touch, Michelle paused, drew her glass slightly back, and added with a playful expression.</p>
+<p>Yuni responded to Michelle's toast, and Yeehyeon raised his glass toward Michelle with a smile, adding his agreement. Just as their glasses were about to touch, Michelle paused, drew her glass slightly back, and added with a playful expression.</p>
 
 <p>"And — to the successful Paris debut and first sale of 'The Hands'' next prospective star."</p>
 
@@ -459,25 +459,25 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He had deposited almost the entire proceeds from the painting sale to Liu, setting aside only a small emergency fund, so he wasn't exactly flush with cash. But he couldn't let the opportunity to express his gratitude for everything they had done for him pass without doing something. Though they looked reluctant, understanding his sincerity, they didn't refuse outright.</p>
 
-<p>Stepping out onto the street, the atmosphere felt far more charged than before — something almost electric on the skin. A few excited young people rushed past the three of them. Walking a step or two behind Michelle and Yuni nuna, Yeehyeon fiddled with his phone inside his pocket.</p>
+<p>Stepping out onto the street, the atmosphere felt far more charged than before — something almost electric on the skin. A few excited young people rushed past the three of them. Walking a step or two behind Michelle and Yuni, Yeehyeon fiddled with his phone inside his pocket.</p>
 
 <p>Even after the money had been deposited, there had been no word from Liu. Yeehyeon, for his part, hadn't sent a single call or even a message in two months.</p>
 
-<p>They had let time pass without creating any point of contact, as if they had never met — and yet, strangely, Yeehyeon was certain that Liu was watching him. And probably, just as Yeehyeon couldn't bring himself to touch that money, Liu hadn't laid a hand on it either.</p>
+<p>They had let time pass without making contact, as if they had never met. Yet strangely, Yeehyeon was certain Liu was keeping an eye on him. He was also fairly sure Liu hadn’t touched the money he’d sent him.</p>
 
-<p>But just as he couldn't touch that money, he couldn't stop himself from sending it. It was as if the only thread still connecting them was the act of one person sending it and the other acknowledging its receipt.</p>
+<p>But just as Liu couldn't touch that money, Yeehyeon couldn't stop himself from sending it. It was as if the only thread still connecting them was the act of one person sending it and the other acknowledging its receipt.</p>
 
-<p>Yeehyeon pulled his hand away from his phone and quickened his pace toward Yuni nuna and Michelle, who had stopped ahead and were waving for him to hurry up.</p>
+<p>Yeehyeon pulled his hand away from his phone and quickened his pace toward Yuni and Michelle, who had stopped ahead and were waving for him to hurry up.</p>
 
-<p>There was only one reason he wasn't reaching out to Liu.</p>
+<p>There was only one reason Liu wasn't reaching out.</p>
 
 <p>He understood that more time was still needed.</p>
 
-<p>Even before they reached the Champs-Élysées, the crowd was enormous. Michelle guided a flustered Yeehyeon and Yuni nuna to a hidden vantage point she knew.</p>
+<p>Even before they reached the Champs-Élysées, the crowd was enormous. Michelle guided a flustered Yeehyeon and Yuni to a hidden vantage point she knew.</p>
 
 <p>"There's no need to push toward the front. The fireworks are the highlight — and they actually look more spectacular from further back, where you can take it all in at once."</p>
 
-<p>The crowd was so dense that movement was barely possible, and the three had to proceed in single file. Michelle reached back naturally and found Yuni nuna's hand as she followed closely behind.</p>
+<p>The crowd was so dense that movement was barely possible, and the three had to proceed in single file. Michelle reached back naturally and found Yuni's hand as she followed closely behind.</p>
 
 <p>Most of the young people around them were already quite drunk, each clutching a beer bottle, singing and shouting and offering boisterous Happy New Year greetings to everyone in earshot.</p>
 
@@ -485,45 +485,45 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"I've seen the Ball Drop event in New York, and compared to that crowd, this is still manageable. Back then, I couldn't even get to a bathroom and thought I was going to die stuck in place for nearly ten hours. And the cold doesn't even compare to here. What about Korea — do you have New Year's countdown events like this?"</p>
 
-<p>Yuni nuna explained the Jongno Bosingak bell-ringing ceremony to Michelle. Michelle showed great interest in the idea of welcoming the New Year by striking a great bell thirty-three times and said she hoped to experience it in person someday.</p>
+<p>Yuni explained the Jongno Bosingak bell-ringing ceremony to Michelle. Michelle showed great interest in the idea of welcoming the New Year by striking a great bell thirty-three times and said she hoped to experience it in person someday.</p>
 
-<p>As she said it, Michelle looked warmly into Yuni nuna's eyes, and Yeehyeon understood at once that she was hinting she wanted to go — with Yuni nuna. Yuni nuna didn't pretend not to understand, smiling back.</p>
+<p>As she said it, Michelle looked warmly into Yuni's eyes, and Yeehyeon understood at once that she was hinting she wanted to go — with Yuni. Yuni didn't pretend not to understand, smiling back.</p>
 
-<p>A little after eleven, the light show at the Arc de Triomphe began, and the moment the New Year arrived, spectacular fireworks burst open overhead. All around, people were exchanging New Year's greetings with bisous, and couples were sharing deep kisses. Michelle and Yuni nuna shared a kiss that lingered — something unmistakably more than the kind exchanged between friends.</p>
+<p>A little after eleven, the light show at the Arc de Triomphe began, and the moment the New Year arrived, spectacular fireworks burst open overhead. All around, people were exchanging New Year's greetings with bisous, and couples were sharing deep kisses. Michelle and Yuni shared a kiss that lingered — something unmistakably more than the kind exchanged between friends.</p>
 
 <p>In Seoul, the New Year would have already begun seven hours ago.</p>
 
 <p>New York… In New York, it was still evening, about six hours to go before midnight.</p>
 
-<p>He had heard from Yuni nuna about three weeks ago that Liu had been staying in New York for the H&W exhibition.</p>
+<p>He had heard from Yuni about three weeks ago that Liu had been staying in New York for the H&W exhibition.</p>
 
-<p>Of course, he hadn't explained to her anything about the Changing, or the details of what had happened between him and Liu. By not bringing it up, Yuni nuna seemed to have concluded on her own that his connection with Liu had been severed. He didn't deliberately share news about Liu in any detail — but he didn't go out of his way to avoid the subject when it came up in conversation, either.</p>
+<p>Of course, he hadn't explained to her anything about the Changing, or the details of what had happened between him and Liu. By not bringing it up, Yuni seemed to have concluded on her own that his connection with Liu had been severed. She didn't deliberately share news about Liu in any detail — but she didn't go out of her way to avoid the subject when it came up in conversation, either.</p>
 
 <p>Just hearing his name brought a complicated kind of pain. But at the same time, hearing news of him from someone else made Yeehyeon feel, somehow, a little more alive.</p>
 
-<p>Watching the fireworks bloom brilliantly across the sky — bright with the hope of the coming year — he wished for Liu not to be alone welcoming it. He hoped someone was with him. He hoped that Liu… wouldn't hurt too much.</p>
+<p>As fireworks bloomed across the sky, bright with the promise of the new year, Yeehyeon hoped Liu wouldn't be lonely as he welcomed it. He hoped someone was there with him. He hoped he… wasn't hurting too much.</p>
 
 <p>Even though they left the Champs-Élysées immediately after the fireworks ended to beat the crowd, the entrance to the Métro station was already so packed it seemed impossible to even approach. Only after walking past several stations — more than thirty minutes on foot — were the three of them finally able to get inside.</p>
 
-<p>Michelle, who lived in the 6th arrondissement — better known as the Latin Quarter — was on a different platform. She and Yuni nuna waved to each other across the tracks until the very last moment, reluctant to let go. Yuni nuna smiled at Michelle's exaggerated, playful performance, though she didn't look embarrassed in the least.</p>
+<p>Michelle, who lived in the 6th arrondissement — better known as the Latin Quarter — was on a different platform. She and Yuni waved to each other across the tracks until the very last moment, reluctant to let go. Yuni smiled at Michelle's exaggerated, playful performance, though she didn't look embarrassed in the least.</p>
 
 <p>Michelle's train arrived first. Shortly after, a train pulled into their platform as well. The cars were packed — not just with people from the Champs-Élysées, but with all of Paris that had been out counting down to the New Year.</p>
 
 <p>"Ah… it was good that we went. Right?"</p>
 
-<p>As if the tension had finally eased now that they had parted from Michelle, Yuni nuna leaned her head against the door and exhaled. Yeehyeon nodded.</p>
+<p>As if the tension had finally eased now that they had parted from Michelle, Yuni leaned her head against the door and exhaled. Yeehyeon nodded.</p>
 
 <p>"But I don't think we need to go twice. Once was enough of an experience for me."</p>
 
-<p>Perhaps recalling the cold, the long wait, and the few drunk Parisian youths who had been a bit much, Yuni nuna shook her head slightly, looking tired.</p>
+<p>Perhaps recalling the cold, the long wait, and the few drunk Parisian youths who had been a bit much, Yuni shook her head slightly, looking tired.</p>
 
 <p>"Wouldn't it have been nicer to spend it just the two of you at your place, nuna?"</p>
 
-<p>At Yeehyeon's lightly teasing joke, Yuni nuna poked his cheek with her gloved hand and gave him a look that wasn't quite annoyed.</p>
+<p>At Yeehyeon's lightly teasing joke, Yuni poked his cheek with her gloved hand and gave him a look that wasn't quite annoyed.</p>
 
-<p>One of the changes since coming here was that he no longer used formal speech with Yuni nuna. She and Juhan had told him early on to drop the honorifics, but since they had started out speaking formally, it hadn't been easy to change. After spending every single day together here, though, somewhere along the way "Yuni nuna, would you like to have lunch?" had simply become "Yuni nuna, want to grab lunch?"</p>
+<p>One of the changes since coming here was that he no longer used formal speech with Yuni. She and Juhan had told him early on to drop the honorifics, but since they had started out speaking formally, it hadn't been easy to change. After spending every single day together here, though, somewhere along the way "nuna, would you like to have lunch?" had simply become "nuna, want to grab lunch?"</p>
 
-<p>Even without meeting someone they were drawn to, even without being in the perfect environment for painting — the depth of how much they leaned on each other and how grateful they were for each other in this unfamiliar city didn't need to be put into words.</p>
+<p>Even though they had met people they were drawn to, even though they had the perfect environment for painting — the depth of how much they leaned on each other and how grateful they were for each other in this unfamiliar city didn't need to be put into words.</p>
 
 <p>Leaving behind the warm, rowdy energy of the cafés and bars lining the Canal Saint-Martin, the two of them turned into an inner alley, holding hands and swinging their arms, heading slowly toward 'The Hands' — toward home — as if out for a leisurely late-night walk.</p>
 
@@ -531,7 +531,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"How was the Arc de Triomphe? The crowds looked massive on TV this year, too."</p>
 
-<p>Ben — from Germany, and currently one of the longest-staying artists at 'The Hands' — spotted Yuni nuna and Yeehyeon and was the first to wave with a big, welcoming arm.</p>
+<p>Ben — from Germany, and currently one of the longest-staying artists at 'The Hands' — spotted Yuni and Yeehyeon and was the first to wave with a big, welcoming arm.</p>
 
 <p>"It was amazing. The waiting was a bit dull and my legs are killing me, though."</p>
 
@@ -543,17 +543,17 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Would you… like to have a drink? There's still plenty of pizza and beer left."</p>
 
-<p>Jun, who extended the invitation with a cautious, hesitant manner, was one of the artists who attended the French conversation classes most enthusiastically alongside Yeehyeon. Tall and slender, he looked far closer to a boy than a young man — the youngest member of 'The Hands,' who, by Korean age, had turned nineteen only a few hours ago.</p>
+<p>June, who extended the invitation with a cautious, hesitant manner, was one of the artists who attended the French conversation classes most enthusiastically alongside Yeehyeon. Tall and slender, he looked far closer to a boy than a young man — the youngest member of 'The Hands,' who, by Korean age, had been nineteen until just a few hours ago.</p>
 
 <p>"Uh… I'd like to, but I'm a bit tired. I've already stayed up past my usual bedtime, so I'm pretty sleepy too."</p>
 
-<p>At Yeehyeon's gentle refusal, Jun nodded with a smile that couldn't quite conceal his disappointment. Unlike Yuni nuna and Michelle, where neither needed to hide their feelings or pretend not to notice the other's, Yeehyeon pretended not to see why Jun looked the way he did. He offered a brief New Year's greeting and left the living room with Yuni nuna.</p>
+<p>At Yeehyeon's gentle refusal, June nodded with a smile that couldn't quite conceal his disappointment. Unlike Yuni and Michelle, where neither needed to hide their feelings or pretend not to notice the other's, Yeehyeon pretended not to see why June looked the way he did. He offered a brief New Year's greeting and left the living room with Yuni.</p>
 
 <p>"Is it really okay for you to be that kind to him?"</p>
 
-<p>As they turned onto the stairwell landing, Yuni nuna lowered her voice and nudged his arm.</p>
+<p>As they turned onto the stairwell landing, Yuni lowered her voice and nudged his arm.</p>
 
-<p>"Jun likes you. If you treat him that sweetly, he might get his hopes up."</p>
+<p>"June likes you. If you treat him that sweetly, he might get his hopes up."</p>
 
 <p>Yeehyeon shook his head with a smile.</p>
 
@@ -567,13 +567,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Yeah."</p>
 
-<p>Yuni nuna looked like she wanted to ask more, but she didn't press.</p>
+<p>Yuni looked like she wanted to ask more, but she didn't press.</p>
 
-<p>It wasn't as though he had made some loud announcement to someone who hadn't even asked. He had simply let it slip naturally — mentioning to Jun, who was from Hong Kong, that his boyfriend was also of mixed British, Korean, and Hong Kong descent, just like him. Because he had said it with the intention of making Jun sense his own faint interest and gently step back from it, he wasn't entirely sure whether it had actually come across as natural or not.</p>
+<p>It wasn't as though he had made some loud announcement to someone who hadn't even asked. He had simply let it slip naturally — mentioning to June, who was from Hong Kong, that his boyfriend was also from Hong Kong, and of mixed British, Korean, and Hong Kong descent. Because he had said it after sensing June’s faint interest, with the intention of discouraging June from developing stronger feelings for him, he wasn't entirely sure whether it had actually come across as natural or not.</p>
 
 <p><em>In fact… he couldn't even be sure whether the statement that he had a boyfriend — or the statement that his boyfriend was from Hong Kong — was even true.</em></p>
 
-<p>After parting from Yuni nuna and going up to the fourth floor, Yeehyeon dropped his bag on the floor the moment he entered the room. Without turning on the light or taking off his coat, he collapsed onto the bed. He had told Jun he was tired — but the real exhaustion only settled in once he was alone.</p>
+<p>After parting from Yuni and going up to the fourth floor, Yeehyeon dropped his bag on the floor the moment he entered the room. Without turning on the light or taking off his coat, he slumped onto the bed. He had told June he was tired — but the real exhaustion only settled in once he was alone.</p>
 
 <p>He rubbed the back of his neck and looked around the room, then, as if remembering, pulled the card Beau Beau had given him from his coat pocket. He tapped the corner of the card lightly against his lips while reading the brief description of the 'Late Blooming' gathering's purpose and website address, then leaned back and lay down.</p>
 
@@ -581,11 +581,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>The window was closed, but on a barely perceptible breath of air, Liu's scent drifted briefly under his nose. Knowing it was a hallucination conjured by deeply ingrained memory, Yeehyeon focused his attention not to miss that faint, lingering trace.</p>
 
-<p>He never saw his apparition or heard his voice. But even without any trigger at all, Liu's scent would spring to life from memory and stimulate his actual sense of smell.</p>
+<p>He had never seen an apparition of Liu or heard his voice. But even when nothing brought him to mind, Liu's scent would suddenly come alive in his memory, and he could actually smell it.</p>
 
 <p>He had lost count of how many times he had stopped dead in the middle of the street, or while deeply absorbed in his work, only to look around as if startled awake from a dream.</p>
 
-<p>Like the kiss he had given him. Like the kisses he sometimes gave when they couldn't actually kiss. And like how he often thought of kissing him when he was alone. Yeehyeon pressed his lips hard between his fingers. A sharp sting. He turned onto his side, still lying down, and curled his body inward, watching the blue and red and white lights of small fireworks launched from the canal flicker through the window.</p>
+<p>It was like being kissed by Liu, or like the way Liu sometimes touched his lips when they couldn't kiss. Yeehyeon sometimes did the same when he was alone, thinking about kissing him. He twisted his lip hard between his fingers. A sharp sting. He rolled onto his side and curled up, watching the blue, red, and white lights of small fireworks launched from the canal flicker in the window, and murmured.</p>
 
 <p>Happy New Year.</p>
 
@@ -599,11 +599,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Liu chuckled at the staff's reaction, unsure whether they were welcoming Inwu or the lunch boxes. Then he set down the Nyoman Gunarsa art book he had been quickly flipping through on top of the pile of already-selected items.</p>
 
-<p>Even though the New York branch opening had been canceled, they had gone ahead and hired the director they had already decided on — so despite Yuni nuna's departure, Phantom had ended up with two more employees than before.</p>
+<p>Even though the New York branch opening had been canceled, they had gone ahead and hired the director they had already decided on — so despite Yuni's departure, Phantom had ended up with two more employees than before.</p>
 
 <p>Thanks to this, Liu found himself working more often from his own room at the very back of the office, a space that hadn't seen much use before. Sitting behind the large desk with a sofa set in front of it, the physical distance it created between him and the rest of the staff wasn't his preferred arrangement, but he did find having time alone more comfortable.</p>
 
-<p>Honestly, the kind of fervor that had them sticking together even after hours when Phantom first opened — getting to know each other personally, building affection — was long gone. There were no longer any staff members who would barge in on a holiday morning insisting on using his home garden as a filming location. The 'Old Future' website was still active, and Yuni nuna's posts about her life in Paris were sporadically updated, but clothing sales had been discontinued for nearly a year now.</p>
+<p>Honestly, the kind of fervor that had them sticking together even after hours when Phantom first opened — getting to know each other personally, building affection — was long gone. There were no longer any staff members who would barge in on a holiday morning insisting on using his home garden as a filming location. The 'Old Future' website was still active, and Yuni's posts about her life in Paris were sporadically updated, but clothing sales had been discontinued for nearly a year now.</p>
 
 <p>It wasn't that the affection for Phantom or the passion for the work had cooled. It simply seemed like something he had to accept — that a certain period had passed, and these things were bound to become memories steeped in wistful nostalgia and tender feeling.</p>
 
@@ -685,15 +685,15 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Although mixed with heightened emotion, Liu also thought that what Inwu and Shushu had said wasn't fundamentally wrong. But he couldn't be so lenient about the kiss with Yeehyeon…</p>
 
-<p>"That's something you should apologize to Seo Yeehyeon for, not me. If Seo Yeehyeon has forgiven you, that's where it ends."</p>
+<p>"That's something you should apologize to Seo Yeehyeon for, not me. Seo Yeehyeon has forgiven you, so that's the end of it."</p>
 
-<p>Perhaps, by playing it so cool — what he had meant was that even if Yeehyeon had forgiven Inwu, Liu shouldn't expect the same forgiveness to extend to himself.</p>
+<p>Perhaps playing it cool like that could have sounded like a warning: even if Yeehyeon had forgiven Inwu, he shouldn't expect Liu to do the same.</p>
 
 <p>Once Inwu had completely emptied himself of the courage he had come with, Liu offered him coffee. Although his own lunch box was still half full, he brewed enough for two. While the coffee dripped, he leaned against the cabinet holding the coffee maker and looked out at the rain still coming down steadily outside.</p>
 
 <p>This rain wouldn't last all night, and from what he had checked earlier, it wasn't a typhoon with particularly threatening wind speeds. Tomorrow morning's flight would probably be fine.</p>
 
-<p>"You're really not going to tell Yeehyeon…?"</p>
+<p>"You're really not going to tell Yeehyeon-ssi…?"</p>
 
 <p>"……"</p>
 
@@ -735,7 +735,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>It was a proposal with the rather bold and ambitious title: <em>A Proposal for Phantom's Future: Achieving a 30% Increase in Annual Visitors!</em></p>
 
-<p>"You said you'd support us if we showed initiative. So I thought about it — a way for Phantom to transform from a place that exhibits art as a luxury reserved for a select few, into a friendly space where the public can embrace art as part of their daily lives. Of course… the Director might not love the idea of customers wandering through the gallery just to drink coffee, but the era of high-nosed art is long over. If the public engages with art more often like this…"</p>
+<p>"You said you'd support us if we showed initiative. So I thought about it — a way for Phantom to transform from a place that exhibits art as a luxury reserved for a select few, into a friendly space where the public can embrace art as part of their daily lives. Of course… Director might not love the idea of customers wandering through the gallery just to drink coffee, but the era of high-nosed art is long over. If the public engages with art more often like this…"</p>
 
 <p>"Did you show this to Manager Han?"</p>
 
@@ -765,13 +765,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Liu nodded as he zipped up his briefcase — packed so full there wasn't room for even one more sheet of A4 paper. Juhan, leaning against the doorframe and fiddling with the doorknob, said in a voice that made no particular effort to sound casual, as if it were nothing at all.</p>
 
-<p>"I'll go buy Yeehyeon something good to eat."</p>
+<p>"I'll go buy Yeehyeonie something good to eat."</p>
 
 <p>"……"</p>
 
 <p>Liu finally went still and leaned back against his desk. Rain continued to stream down the window straight ahead. He could hear the faint stir of employees leaving the office, their voices bright with excitement about the long vacation ahead.</p>
 
-<p>He looked up at the ceiling and drew a breath, wetting his lips with his tongue. Then he looked down at the floor and exhaled. Without lifting his head, he turned to the side, and his hair fell forward, covering his eyes. He picked up his mug with his long fingers. He had adjusted the air conditioner to a warmer setting a little while ago — but the coffee had gone completely cold.</p>
+<p>Liu looked up at the ceiling and drew a breath, wetting his lips with his tongue. Then he looked down at the floor and exhaled. Without lifting his head, he turned to the side, and his hair fell forward, covering his eyes. He picked up his mug with his long fingers. He had adjusted the air conditioner to a warmer setting a little while ago — but the coffee had gone completely cold.</p>
 </div>
 {% include scene-break.html %}
 <div id="section-4" class="hybrid-section" data-section="4">
@@ -835,7 +835,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"There are even male Betas who envy male Omegas because they want a child with their Alpha partner."</p>
 
-<p>"That person must be gay!"</p>
+<p>"Then I guess that person is gay!"</p>
 
 <p>"Hmm… his partner was a female Alpha, actually."</p>
 
@@ -843,7 +843,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>The boy stopped walking and turned to Yeehyeon with an expression as if he had just heard about some grotesque, revolting crime. The shock seemed to run deep.</p>
 
-<p>"The two of them wanted a child born between them. If becoming an Omega was the only way that could happen, they were willing. Is it really that important who carries the child, between two people who love each other?"</p>
+<p>"The two of them wanted a child born between them. If becoming an Omega was the only way that could happen, he was willing. Is it really that important who carries the child, between two people who love each other?"</p>
 
 <p>It had been over half a year since Yeehyeon, after considerable hesitation, had finally started attending the 'Late Blooming' group. During that time, he had met people in all kinds of situations and heard their innermost stories — their worries, their wounds, the ways they had found to overcome them or hadn't. It had been half a year of learning that there is no absolutely correct or ideal designation, that the gender one desires and the way one comes to accept their own designation varies entirely depending on situation and environment.</p>
 
@@ -897,7 +897,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"……"</p>
 
-<p>"I attend 'Late Blooming' precisely because I don't want to see anyone — including myself — as a monster."</p>
+<p>"I attend 'Late Blooming' precisely because I don't want to see anyone else as a monster."</p>
 
 <p>Though dissatisfaction and lingering questions still showed in his face, Nick's expression had softened compared to before. Yeehyeon started walking again, giving Nick's back a gentle, encouraging nudge. Nick looked up at him and nodded slowly.</p>
 
@@ -909,7 +909,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Despite grumbling that he couldn't go to other countries in Europe the way his friends could, he seemed genuinely excited about the once-a-year trip. For the moment, he appeared to have forgotten entirely that he was now an Omega, and that he would need to manage his suppressants differently to get through it.</p>
 
-<p>"Instead, a friend is coming to Paris."</p>
+<p>"Instead, a friend is coming from Korea."</p>
 
 <p>"A friend?"</p>
 
@@ -919,7 +919,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Nick asked with a slightly cautious air, as if gauging Yeehyeon's reaction. Yeehyeon nodded. Nick's eyes — which had been clouded with despair just ten minutes earlier, saying he wanted to die — now sparkled with simple curiosity.</p>
 
-<p>Perhaps, just as Beau Beau had said, Nick only needed time and attention, and might eventually adapt and come to accept himself in a healthy way. In any case, Beau Beau had gone through situations like this far more often than Yeehyeon had, and the only way forward was to trust his words and keep moving — with each of them holding steadfastly to their own truth in their own place.</p>
+<p>Maybe Beau Beau was right. Maybe all Nick needed was time and attention, and in time he would adjust and learn to accept himself. Beau Beau had dealt with situations like this far more often than Yeehyeon had, after all. All they could do to help Nick move forward was trust Beau Beau's judgment and, each in his own way, stay true to who they were.</p>
 
 <p>By the time Yeehyeon parted from Nick and arrived at 'The Hands,' his back was soaked in sweat. Even though the temperature was lower than in Korea, the cloudless sky made the sunlight fierce. He was quickening his pace, already thinking about a shower and a cold can of beer, when a long-haired man coming out of the building waved at him.</p>
 
@@ -951,7 +951,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Yeehyeon-ssi, a package came for you."</p>
 
-<p>Yuni nuna, with a playful expression on her face, was holding a small parcel tucked under her left arm and waving. She must have spotted him returning and followed him out from the office. Yeehyeon smiled and stepped back off the stairs.</p>
+<p>Yuni, with a playful expression on her face, was holding a small parcel tucked under her left arm and waving. She must have spotted him returning and followed him out from the office. Yeehyeon smiled and stepped back off the stairs.</p>
 
 <p>"It arrived on Friday. Pierre must have forgotten to leave a message for you to collect it before he left for his vacation."</p>
 
@@ -973,7 +973,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>The various beach bars had claimed half the sand with beanbag chairs, parasols, and vividly painted tables. Among Bali's many beaches, Double Six was especially famous for its sunsets. Though the prime viewing hour was still more than two hours away, people already jostling for good spots had settled in with cocktails, quietly waiting for the sun to go down.</p>
 
-<p>Lim Morae and Seo Yeehan.</p>
+<p>Morae and Yeehan.</p>
 
 <p>Both were working as full-time instructors at a large surfing school. Their days were packed from the morning session through late afternoon, and once lessons ended they had to review recorded footage of students' form to provide additional guidance. In exchange for the school covering room and board, they were also expected to mingle with students and guests as staff — helping maintain the atmosphere. From what he'd gathered, it was hardly a life of leisurely surfing in a tropical paradise.</p>
 
@@ -985,7 +985,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>While the beer arrived, he held the filter between his teeth unlit and looked out at the sea. The waves were calm — rolling in from the distant water at a steady height, then sliding away as the sand swallowed them.</p>
 
-<p>Watching them, the urge to smoke faded on its own. He dropped the unlit cigarette into the ashtray and took a long, cold sip of beer, his eyes following the surfers moving on the water.</p>
+<p>Watching them, the urge to smoke faded on its own. Liu dropped the unlit cigarette into the ashtray and took a long, cold sip of beer, his eyes following the surfers moving on the water.</p>
 
 <p>His loose linen pants flapped in the sea breeze, and sand worked its way between his feet and the leather sandals. The resort's particular heat and languid haze seemed to loosen something inside him that had felt knotted tight for nearly a year in a harsh winter.</p>
 
@@ -1029,17 +1029,17 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>They were sketches drawn casually in ballpoint pen on paper slightly smaller than A4 — probably torn from a spiral notebook — but they were unmistakably Yeehyeon's work at a single glance.</p>
 
-<p>Next to a drawing that was clearly Yuni nuna and Juhan was a sketch of Liu himself, outfitted with a large pair of rabbit ears, looking down at a pocket watch dangling from his vest.</p>
+<p>Next to a drawing that was clearly Yuni and Juhan was a sketch of Liu himself, outfitted with a large pair of rabbit ears, looking down at a pocket watch dangling from his vest.</p>
 
 <p>He had flown all this way hoping to ease his longing for him, even a little. But not like this. He had been completely unprepared to find traces of him in a place like this.</p>
 
 <p>The woman standing beside him tilted her head, still looking at the drawings.</p>
 
-<p>"Of course you'd recognize them, right? Yeehyeon really does have talent."</p>
+<p>"Of course you'd recognize them, right? Yeehyeonie really does have talent."</p>
 
-<p>He understood now what it meant for emotion to crash over you like a wave. The patience he had held onto for nearly a year crumbled all at once, and he felt as though he were being pulled back to that moment — the two of them staring out at the rain-hammered sea. That moment when he had wanted, by any means, to remind Yeehyeon of the love still living inside him, even if it meant trading away his own past to earn his pity, to cling to him and beg him not to leave.</p>
+<p>Now he knew what it meant for emotion to crash over him like a wave. Nearly a year of holding himself back came undone, and he felt as though he might be swept right back to that moment when he and Yeehyeon had looked out at the sea in the pouring rain. Back then, what he’d really wanted was to bring the love Yeehyeon still felt for him back to the surface, any way he could. He’d wanted to cling to him and beg him not to go, even if it meant using his own past to play on Yeehyeon’s pity.</p>
 
-<p>The cold dampness of the sea radiated from the woman standing beside him. Liu covered his eyes.</p>
+<p>Feeling the chill of the sea coming off the woman beside him, Liu covered his eyes.</p>
 </div>
 {% include scene-break.html %}
 <div id="section-6" class="hybrid-section" data-section="6">
@@ -1066,9 +1066,9 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 {% capture excerpt %}
 <p>At my request, Erich went to the market and purchased some Swiss chocolate. It is one of the few indulgences I occasionally find myself craving.</p>
 
-<p>I had doubted he would manage to find any, but for Erich, who knows the market conditions thoroughly, it apparently presented no difficulty.</p>
+<p>I had doubted he would manage to find any, but with his thorough knowledge of the market, he apparently had no trouble.</p>
 
-<p>We shared the chocolate and talked during his short break.</p>
+<p>We shared the chocolate and talked during Erich’s short break.</p>
 
 <p>Erich says he envies how much I have traveled and asks me to tell him stories about other countries whenever he has a spare moment. But the only stories I have to offer are ridiculous tales of the arrogant nobles I have encountered, or amusing incidents born from the cultural differences between nations — since my own travels have consisted of nothing more than moving from one noble's estate to a wealthy merchant's villa, and then on to another noble's house. Even so, Erich listens to each of these stories as though they were utterly captivating.</p>
 
@@ -1084,7 +1084,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>A Beta's body, unable to relax elastically enough to receive an Alpha's knotting, cannot endure intimacy at such short intervals. It usually takes several months before the transformation into a full Omega is complete.</p>
 
-<p>Josef is, honestly, the easiest 'client' I have worked with — easier than anyone who came before — since we agreed from the outset to minimize unnecessary contact and finish each time as efficiently and quickly as possible.</p>
+<p>He is, honestly, the easiest 'client' I have worked with — easier than anyone who came before — since we agreed from the outset to minimize unnecessary contact and finish each time as efficiently and quickly as possible.</p>
 
 <p>And yet, this time is the most painful I have ever endured. More painful than the beginning of this 'business,' when I had not yet learned to shut the window of my emotions and lock myself inside — when I used to vomit, go into shock, even attempt to take my own life.</p>
 
@@ -1112,29 +1112,29 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 {% capture excerpt %}
 <p>Erich was a Beta.</p>
 
-<p>Or perhaps he could not even be accurately called a Beta, given that he possessed pheromones. What was certain was that he had never once experienced a heat, and even when in the same room as Josef's friends or the other Alphas who frequently called at the mansion, he had never detected their pheromones — nor had any of them ever perceived him as an Omega. I am completely unsettled right now.</p>
+<p>Or perhaps I cannot call him a Beta at all, given that he has pheromones. In any case, one thing is certain: he has never gone into heat. Even when he has been in the same room as Josef's friends or the other Alphas who often visit the mansion, he has never once detected their pheromones, and none of them has ever taken him for an Omega. I am in a state of utter agitation.</p>
 
-<p>This evening, Erich was struck and humiliated by the Master.</p>
+<p>This evening, the Master slapped Erich across the face and insulted him.</p>
 
-<p>It was not for any particular failing on Erich's part. The Master was simply taking out his frustrations on whoever was within reach.</p>
+<p>Erich had done nothing in particular to deserve it. The Master was simply taking his anger out on him.</p>
 
-<p>Josef's father had, until just a few months ago, been one of the principal voices urging joint intervention with Prussia to prevent Denmark from annexing Schleswig and Holstein. He had enjoyed the Emperor's trust and wielded considerable influence within Austria.</p>
+<p>Josef's father had been among those most strongly in favor of sending troops alongside Prussia to stop Denmark from annexing Schleswig and Holstein. As recently as a few months ago, he had enjoyed the Emperor's trust and wielded considerable influence in Austria.</p>
 
-<p>He then joined the faction arguing that war must be waged against Prussia for its violation of the Gastein Convention, and it had seemed almost certain that a victory in this war would secure him a position within an imperial body charged directly with leading unification efforts.</p>
+<p>He later joined those who argued that Austria must be prepared to go to war against Prussia for violating the Gastein Convention. If Austria won this war, he was almost certain to be chosen to serve on a body that would answer directly to the Emperor and take the lead in unification.</p>
 
-<p>Rumors, however, suggested the situation was not unfolding favorably for Austria.</p>
+<p>Rumor had it, however, that things were not going particularly well for Austria.</p>
 
-<p>The head of the Ruse household was often absent, consumed by strategy meetings with his allies. Even on the rare days he did return, the atmosphere was heavy.</p>
+<p>The head of the Ruse household was often absent, consumed by strategy meetings with his allies. Even on the rare days he did return, the mood was grim.</p>
 
-<p>When I first arrived here, he treated me with courtesy — inviting me to dinners and concerts, behaving as though I were merely a valuable stud horse on loan. But lately, whenever I heard he had come home and went down to greet him, he would glance at me with an expression of contempt, as though I were something grotesque and repulsive.</p>
+<p>When I first arrived, he had been courteous even to me, though I had been sold here as a “stud horse.” He would invite me to dinners and concerts. These days, when I hear he has come home and go downstairs to greet him, he merely casts me a contemptuous glance, as though I were some grotesque creature.</p>
 
-<p>The entire household freezes whenever he is home, since no one ever knows when or over what trifling thing he might choose to pick a fight. Today's scapegoat was Erich, for failing to keep Josef's attire in proper order.</p>
+<p>The whole house freezes with tension whenever he comes home. No one knows when he might find fault or what he might seize on. Today's scapegoat was Erich, for failing to see that Josef was neatly dressed.</p>
 
 <p>I was not present at the time, but news spreads through this mansion swiftly — every corner knows what has happened within thirty minutes.</p>
 
-<p>Erich had come to tidy my room with his usual cheerful air, carrying on as though nothing had occurred, but eventually the tears came.</p>
+<p>Erich saw to my bed with his usual cheerfulness, pretending nothing had happened. In the end, he couldn't hold back his tears.</p>
 
-<p>His tears tore at my chest — and I felt a small, involuntary flicker of something like joy at the thought that he trusted me enough to show me this. And then I felt disgust at myself for feeling even that small joy. My own happiness felt like a sin.</p>
+<p>Seeing him cry broke my heart. And yet some small part of me was glad that he trusted me enough to let me see him at his most vulnerable. I was disgusted with myself for feeling even that little bit of gladness. Seeing his tears, it felt like a sin.</p>
 
 <p>He said that while meeting a kind young master like Josef had been a stroke of fortune, a life in which he could decide nothing for himself, could not leave this city, and had no choice but to remain silent even when treated unjustly, felt utterly bleak — like being dust. He wondered if anyone would ever remember the name of someone as common and forgettable as he was.</p>
 
@@ -1157,7 +1157,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Although evening was approaching, the sky outside remained as bright and blue as midday. Yet, whether it was his mood or simply the angle of the setting sun, a shadow seemed to have fallen over the room, regardless of the light outside.</p>
 
-<p>He set down the bundle of papers in his hand and got off the bed. He walked to the small sink in the corner across from the bed, poured himself a glass of tap water, and drank it. Then, as if that wasn't enough, he began to wash his face.</p>
+<p>Yeehyeon set down the bundle of papers in his hand and got off the bed. He walked to the small sink in the corner across from the bed, poured himself a glass of tap water, and drank it. Then, as if that wasn't enough, he began to wash his face.</p>
 
 <p>Even splashing cold water over his face several times did little to restore his sense of reality. Everything before his eyes felt at once familiar and strange, like someone who had been held captive for a long time and had only just found their way home.</p>
 
@@ -1171,9 +1171,9 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>As if grateful to have something to do with his hands, Yeehyeon walked over to the desk by the window and took out a cigarette and a lighter. The same brand Liu smoked. He had bought them sometime around the beginning of spring and the pack was about half full. They tasted stale and dry, but he wasn't smoking for enjoyment.</p>
 
-<p>Knowing that someone was watching him did nothing to ease the pain of longing.</p>
+<p>Being sure that Liu was keeping an eye on him did nothing to ease the ache of missing him.</p>
 
-<p>He started his days early, divided his work between morning and afternoon sessions, studied English and French, and occasionally helped out with office tasks. His colleagues at 'The Hands' would tease him half-admiringly, saying he seemed less like an artist and more like a disciplined office worker or civil servant — so composed he appeared immune to turmoil. But the reality was different.</p>
+<p>He started his days early, worked in two sessions, one in the morning and one in the afternoon, studied English and French, and helped out with office chores when he had time. His colleagues at The Hands would tease him with a note of admiration, saying he lived less like a painter than a diligent office worker or civil servant, and that he was like a monk, untroubled by worldly cares. But the reality was different.</p>
 
 <p>He was not okay. He was not at peace.</p>
 
@@ -1185,25 +1185,25 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He understood now that his own passivity — not holding Alphas and Omegas in contempt, but failing to seek understanding or knowledge of them as fellow members of society — had itself been a form of Beta-centric thinking.</p>
 
-<p>Yeehyeon leaned against the open window and exhaled smoke slowly, his breath carrying a faint tremor. Before he could finish his third drag, tears slid down his cheeks. He didn't try to hold them back.</p>
+<p>Yeehyeon leaned against the open window and exhaled smoke slowly, his breath carrying a faint tremor. Before he'd taken three full drags, tears slid down his cheeks. He didn't try to hold them back.</p>
 
-<p>He had held back for so long. He wanted to say he missed him. He wanted to say he still loved him. He wanted to abandon everything here, return to Seoul, and hold him. He wanted to feel his own lips pressing hard against that lower lip — the one Liu always drew between his teeth.</p>
+<p>He'd held back for so long. He wanted to tell Liu how much he missed him, how much he still loved him. He wanted to leave his whole life here behind, go back to Seoul, and hold him. He wanted to feel Liu suck hard on his lower lip.</p>
 
-<p>He had wanted him inside him, had longed to feel the sensation of knotting, and had wanted to see him come undone with pleasure as an Alpha — because of him.</p>
+<p>He'd wanted Liu inside him. He'd wanted to feel him knot, to see him moan with an Alpha's pleasure, and to be the one who made him feel it.</p>
 
-<p>The intensity of his desire for him wasn't solely a product of Erich's pheromones, which only the diary's owner could sense, or of his own pheromones, which only Liu had ever been able to detect. The understanding and connection he had built with Liu over time couldn't be reduced to the manipulation of pheromones alone.</p>
+<p>That fierce longing for Liu couldn't be explained by pheromones alone—not by Erich's, which only the person who kept the diary could sense, or by Yeehyeon's own, which Liu alone seemed to have sensed. The understanding and closeness that had grown between them over time couldn't have been the work of pheromones.</p>
 
-<p>And yet — the passionate, almost startlingly bold version of himself that emerged in intimacy with Liu, so unfamiliar it had sometimes felt alien — that, too, was not entirely the product of his emotional love alone.</p>
+<p>And yet, in bed with Liu, Yeehyeon had been so passionate and bold that he hardly recognized himself. That, too, couldn't be explained by love alone.</p>
 
-<p>Leaning his head against the window frame, Yeehyeon let his hand drop, forgetting even the cigarette, and allowed himself to think of Liu without any restraint, avoidance, or diminishment.</p>
+<p>Leaning his head against the window frame, Yeehyeon let his hand drop, forgetting even the cigarette. He let himself think about Liu as much as he wanted, without holding back, shying away, or trying to make what he felt seem smaller.</p>
 
-<p>If the Changing was Liu's greed, his mistake, his undeniable sin — then his silence, in the moment he could have lightened the weight of that sin by revealing the existence of Yeehyeon's own pheromones, could not be understood as anything other than love.</p>
+<p>If the Changing was Liu's greed, his mistake, his undeniable sin, then the silence he kept when confronted about it could only be understood as love. Liu could have tried to lighten the weight of what he'd done by telling Yeehyeon that he had pheromones of his own. He hadn't.</p>
 
-<p>His love, which had sought to leave Yeehyeon free to choose his own future without being bound by guilt or obligation, was also not the influence of pheromones.</p>
+<p>Liu had wanted Yeehyeon to be free to choose his own future without being bound by guilt or obligation. That love, too, hadn't come from pheromones.</p>
 
-<p>He was grateful that when Liu had confessed — only able to say "I love you" — he hadn't dismissed it as a lie. He was grateful that he hadn't negated the wholeness of Liu's love, which he had felt so clearly through the trembling of his own skin, through the trembling of something deep inside him.</p>
+<p>When all Liu could say was “I love you,” Yeehyeon was glad he hadn't called Liu's love a lie. He was glad he hadn't denied that love altogether, when he'd felt it so clearly in the tremor of his skin and in the trembling deep inside him.</p>
 
-<p>A quiet sobbing — not ragged, but steady, like the slow catching of breath after a long uphill climb — continued for a long time.</p>
+<p>He went on sobbing quietly for a long time, like someone looking back from the top of a long climb and slowly catching his breath.</p>
 
 <p>Though it was nearing nine o'clock, the sky over Paris was still a bright, unwavering blue.</p>
 </div>
@@ -1213,7 +1213,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>The narrow parking lot in front of the building was completely choked with trucks loaded with demolition equipment and debris already pulled from the structure. The main entrance, wide open in contrast to usual, offered a glimpse of the bustling activity inside.</p>
 
-<p>A worker carrying a detached door panel on his back glanced over at the man standing there — tall, striking, and adorned with the kind of jewelry rarely seen on a construction site. After tossing the timber onto a pile by the truck bed, the worker quickly disappeared back inside.</p>
+<p>A worker carrying a detached door panel on his back glanced over at the man standing there — unusually tall, foreign-looking, and striking. After tossing the timber onto a pile by the truck bed, the worker quickly disappeared back inside.</p>
 
 <p>Liu followed him, stepping slowly into Phantom.</p>
 
@@ -1221,7 +1221,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Liu lingered near the entrance, unable to step further inside. The feeling was different from when they had first purchased and remodeled this building to expand Phantom.</p>
 
-<p>Juhan spotted him and came over, handing him a mask. Come to think of it, it had barely been five minutes since he walked through the main door, yet a fine layer of white dust had already settled across the front of his coat.</p>
+<p>Juhan spotted Liu and came over, handing him a mask. Come to think of it, it had barely been five minutes since he walked through the main door, yet a fine layer of white dust had already settled across the front of his coat.</p>
 
 <p>"What brings you here?"</p>
 
@@ -1239,7 +1239,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"I let you have the remodel done exactly as you wanted, so don't even think about trying to back out of it now."</p>
 
-<p>"If you hadn't thought it was a good idea, you never would have approved it. Why are you making it sound like it's all because of me? I just wanted a small café in one corner. You're the one who turned it into this whole enormous project by saying we might as well do a full remodel while we were at it."</p>
+<p>"If you hadn't thought it was a good idea, you never would have approved it. Why are you making it sound like it's all because of me? I just wanted a small café in one corner. Director is the one who turned it into this whole enormous project by saying we might as well do a full remodel while we were at it."</p>
 
 <p>Juhan stiffened and took a half-step back. Liu laughed and slung an arm over his shoulder anyway, pulling him along.</p>
 
@@ -1269,7 +1269,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"He wasn't taken."</p>
 
-<p>"Have you seen the paintings Yeehyeon has been putting out lately?"</p>
+<p>"Have you seen the paintings Yeehyeonie has been putting out lately?"</p>
 
 <p>"……"</p>
 
@@ -1293,9 +1293,9 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Liu shrugged at Manager Han, who was watching Juhan's retreating back with a puzzled expression.</p>
 
-<p>She came to stand beside him, leaned against the wall, and tossed a file on the construction overview onto the windowsill.</p>
+<p>Manager Han came to stand beside him, leaned against the wall, and tossed a file on the construction overview onto the windowsill.</p>
 
-<p>"The electrical wiring is more tangled than expected, which complicates things a bit, but the demolition should stay on schedule for now. You probably won't need to come in for about a week."</p>
+<p>"The electrical wiring is more tangled than expected, which complicates things a bit, but the demolition should stay on schedule for now. Director Liu probably won’t need to come in for about a week."</p>
 
 <p>Liu drew one last short drag from the stub of his cigarette and turned to look at her.</p>
 
@@ -1315,7 +1315,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 </div>
 {% include scene-break.html %}
 <div id="section-9" class="hybrid-section" data-section="9">
-<p>Yeehyeon carried two mugs of freshly brewed coffee to the table and set one down in front of Jun.</p>
+<p>Yeehyeon carried two mugs of freshly brewed coffee to the table and set one down in front of June.</p>
 
 <p>"Thank you for the coffee."</p>
 
@@ -1323,7 +1323,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"I made an extra portion while I was making mine anyway. I'm the one who's grateful you ate with me. It doesn't taste the same when you eat alone."</p>
 
-<p>Yeehyeon recognized the consideration Jun had shown — adding a little spice to suit his palate — and was thankful for it. But knowing that saying so outright would only embarrass him, he conveyed his gratitude with a quiet smile instead.</p>
+<p>Yeehyeon recognized the consideration June had shown — adding a little spice to suit his palate — and was thankful for it. But knowing that saying so outright would only embarrass him, he conveyed his gratitude with a quiet smile instead.</p>
 
 <p>The exhibition hall had closed and the office staff had gone home, leaving the entire building in a comfortable quiet. Occasionally, the sounds of ordinary life drifted through — someone running the tap in the bathroom, the soft rhythm of footsteps on the stairs, the sound of a door opening and closing.</p>
 
@@ -1331,33 +1331,33 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"……"</p>
 
-<p>Jun, who had been holding his mug in both hands and gazing down at the table, lost in thought, suddenly spoke.</p>
+<p>June, who had been holding his mug in both hands and gazing down at the table, lost in thought, suddenly spoke.</p>
 
 <p>"When I look at it… I feel like my existence is being held. When someone shows themselves honestly first, it becomes a little easier for me to be honest too."</p>
 
-<p>Jun laughed softly and rubbed the back of his neck, seeming embarrassed by his own words. Yeehyeon smiled back at him.</p>
+<p>June laughed softly and rubbed the back of his neck, seeming embarrassed by his own words. Yeehyeon smiled back at him.</p>
 
 <p>"Didn't they say it failed to resonate because it was too personal?"</p>
 
 <p>"If it failed to resonate, then why did it sell as soon as it was hung, and why are so many people coming to see it?"</p>
 
-<p>Jun shook his head firmly.</p>
+<p>June shook his head firmly.</p>
 
 <p>"I can't please everyone anyway. The fact that I can reach people who understand my work and find comfort in it — that alone is remarkable enough."</p>
 
-<p>Yeehyeon watched Jun lower his gaze with something that looked like envy in it, and spent a quiet moment lifting his mug to his lips without speaking.</p>
+<p>Yeehyeon watched June lower his gaze with something that looked like envy in it, and spent a quiet moment lifting his mug to his lips without speaking.</p>
 
-<p>He knew well that Jun had been struggling for a long time to find a breakthrough in his work, which made it difficult to say anything carelessly. This was especially true because he empathized deeply with those struggles — he had gone through similar periods himself and was still moving his brush through uncertainty with every stroke.</p>
+<p>He knew well that June had been struggling for a long time to find a breakthrough in his work, which made it difficult to say anything carelessly. This was especially true because he empathized deeply with those struggles — he had gone through similar periods himself and was still moving his brush through uncertainty with every stroke.</p>
 
 <p>But precisely because of that, he wanted to summon the courage to speak honestly rather than stay silent just because the subject was hard.</p>
 
 <p>"There are probably more universal stories that more people can connect with. I don't know for certain, but perhaps those make for better paintings, more valuable ones. But… I'm just doing my best to paint what I can paint right now, what I have to paint right now. Anything beyond that is outside my current ability, so I'm trying to focus only on what I can do."</p>
 
-<p>Meeting Jun's earnest gaze, Yeehyeon carefully added what he had been hesitating to say, wondering if he was saying too much. He felt he owed Jun the honesty that he wasn't some warrior fighting anxiety purely through his own strength.</p>
+<p>Meeting June's earnest gaze, Yeehyeon carefully added what he had been hesitating to say, wondering if he was saying too much. He felt he owed June the honesty that he wasn't some warrior fighting anxiety purely through his own strength.</p>
 
 <p>"Scars are part of who we are… someone once told me I didn't have to paint over them to hide them, or try to overcome them cleanly like a hero. Because of that, I think I was able to find the courage… to show myself."</p>
 
-<p>Jun's expression shifted — it looked as though he knew exactly who had said those words — and then, a moment later, he fixed Yeehyeon with a gaze that carried a faint challenge.</p>
+<p>June's expression shifted — it looked as though he knew exactly who had said those words — and then, a moment later, he fixed Yeehyeon with a gaze that carried a faint challenge.</p>
 
 <p>"Hyung, why does your boyfriend never come to see you?"</p>
 
@@ -1369,17 +1369,17 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>It had been just over a year since anyone had asked him anything this direct. People who knew both Yeehyeon and Liu hadn't deliberately avoided mentioning Liu in front of Yeehyeon, but they hadn't tried to pass on news of his current life either. Where Yeehyeon and Liu's private relationship was concerned, they acted as though it simply hadn't happened. The Liu that came up in their conversations was only Phantom's director, a Liu connected to each of them individually.</p>
 
-<p>Though he felt a little sorry for Jun, whenever Jun circled around the subject of his boyfriend, Yeehyeon could feel it faintly — that his love and his relationship were still ongoing, that Liu was still, in some real sense, his 'boyfriend.'</p>
+<p>Though he felt a little sorry for June, whenever June circled around the subject of his boyfriend, Yeehyeon could feel it faintly — that his love and his relationship were still ongoing, that Liu was still, in some real sense, his 'boyfriend.'</p>
 
 <p>Confronted with the blunt question of whether he missed him, a wave of longing swelled at the edges of his heart, threatening to spill — the way a child who has bravely dusted themselves off after a fall suddenly feels tears well up the moment someone asks kindly if they're all right.</p>
 
 <p>That was why he couldn't answer right away. He responded with an ambiguous smile and took a sip of his coffee.</p>
 
-<p>He tried to smile, but to Jun it may have looked worse than crying. Jun, clearly regretting the question, quickly shifted the subject, deliberately brightening his tone.</p>
+<p>He tried to smile, but to June it may have looked worse than crying. June, clearly regretting the question, quickly shifted the subject, deliberately brightening his tone.</p>
 
 <p>"Hyung, do you have plans for Christmas? Are you going out with Yuni nuna?"</p>
 
-<p>Yeehyeon traced the surface of his mug and shook his head with a smile. Even now the three of them sometimes shared a meal or a drink together, but Michelle and Yuni nuna were an official couple these days — one that could easily go out on their own without needing to include him.</p>
+<p>Yeehyeon traced the surface of his mug and shook his head with a smile. Even now the three of them sometimes shared a meal or a drink together, but Michelle and Yuni were an official couple these days — one that could easily go out on their own without needing to include him.</p>
 
 <p>"Then… you'll be attending 'The Hands' party again this year, like last year?"</p>
 
@@ -1393,7 +1393,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Oh? Well, I can't force you. Ben seems to be at loose ends lately — maybe I'll ask him to come with me."</p>
 
-<p>Jun was clearly curious about the vague, possibly nonexistent plans, but he simply drank his coffee in silence and didn't press.</p>
+<p>June was clearly curious about the vague, possibly nonexistent plans, but he simply drank his coffee in silence and didn't press.</p>
 
 <p>And Yeehyeon had nothing more to say on the matter.</p>
 
@@ -1401,11 +1401,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He believed the latter wasn't true. But a two-percent sliver of anxiety refused to let go.</p>
 
-<p>"Are you bothering Yeehyeon again?"</p>
+<p>"Are you bothering Yeehyeonie again?"</p>
 
-<p>The kitchen door burst open. Ben. Passing behind Jun, he roughly rubbed the younger man's chin the way a mischievous older brother might torment his youngest sibling. Yeehyeon smiled at Jun, who was swatting his hand away with an irritated look, and said,</p>
+<p>The kitchen door burst open. Ben. Passing behind June, he roughly rubbed the younger man's chin the way a mischievous older brother might torment his youngest sibling. Yeehyeon smiled at June, who was swatting his hand away with an irritated look, and said,</p>
 
-<p>"Jun made dinner for me."</p>
+<p>"June made dinner for me."</p>
 
 <p>Ben, pouring the last of the coffee from the machine into a mug, glanced over.</p>
 
@@ -1413,19 +1413,19 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Did he recognize it by smell? Yeehyeon nodded, slightly surprised. Ben let out a knowing snort, leaned back against the shelf, and brought the mug to his lips.</p>
 
-<p>"So that's why you were practicing so much — to make it for him."</p>
+<p>"So that's why he was practicing so much — to make it for you."</p>
 
 <p>"Ben!"</p>
 
-<p>Jun's face flushed crimson all the way up his neck. He turned on Ben with an indignant glare. Ben seemed entirely unbothered, walked over to the table with his mug, and ruffled Jun's hair.</p>
+<p>June's face flushed crimson all the way up his neck. He turned on Ben with an indignant glare. Ben seemed entirely unbothered, walked over to the table with his mug, and ruffled June's hair.</p>
 
 <p>"Going out somewhere?"</p>
 
-<p>To give Jun a moment to recover, Yeehyeon changed the subject with a question aimed at Ben. He had been curious anyway — Ben was dressed unusually neatly.</p>
+<p>To give June a moment to recover, Yeehyeon changed the subject with a question aimed at Ben. He had been curious anyway — Ben was dressed unusually neatly.</p>
 
 <p>"Going for an interview."</p>
 
-<p>Ben sat down across from Jun, leaving one chair between them, and replied as though it were nothing.</p>
+<p>Ben sat down across from June, leaving one chair between them, and replied as though it were nothing.</p>
 
 <p>"An interview…?"</p>
 
@@ -1433,7 +1433,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"A photography studio… all of a sudden, why?"</p>
 
-<p>Jun asked hesitantly.</p>
+<p>June asked hesitantly.</p>
 
 <p>"I've always been interested in photography, honestly. For someone like me — impulsive, instinctual — doesn't photography suit me better than painting, which requires you to sit still and really confront yourself? And if I become a fashion photographer, I get to shoot gorgeous, beautiful people all day long."</p>
 
@@ -1443,9 +1443,9 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"I can't just sit here without results. I should give the opportunity to people with more potential than me."</p>
 
-<p>Ben said it cleanly, as if it were someone else's business entirely, while still messing up Jun's hair. Then he stood, washed his mug, and left the room without lingering — telling Jun to wish him luck on his way out.</p>
+<p>Ben said it cleanly, as if it were someone else's business entirely, while still messing up June's hair. Then he stood, washed his mug, and left the room without lingering — telling June to wish him luck on his way out.</p>
 
-<p>Jun, who had been struggling to find his own breakthrough, fell noticeably quieter after that, as though the situation had landed a little too close to home.</p>
+<p>June, who had been struggling to find his own breakthrough, fell noticeably quieter after that, as though the situation had landed a little too close to home.</p>
 
 <p>During his more than a year at 'The Hands,' Yeehyeon had seen several colleagues leave for failing to show results, and several new faces arrive to fill their places. Some gave up and left on their own even while opportunities remained; others signed with major galleries within a few months and departed early.</p>
 
@@ -1453,7 +1453,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Since coming here, he had come to understand more clearly what Liu had done for his affiliated artists, why marketing mattered, and how fortunate it was for an artist to encounter a gallery like Phantom. But the harder truth was that not everyone got the chance to meet a dealer like 'The Hands' or Phantom.</p>
 
-<p>Watching Jun's young face lost in thought, Yeehyeon unconsciously raised the mug to his lips. The coffee had gone cold, and it tasted more bitter now than it had when it was warm.</p>
+<p>Watching June's young face lost in thought, Yeehyeon unconsciously raised the mug to his lips. The coffee had gone cold, and it tasted more bitter now than it had when it was warm.</p>
 </div>
 {% include scene-break.html %}
 <div id="section-10" class="hybrid-section" data-section="10">
@@ -1471,7 +1471,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>The employee beside him launched into a rapid French explanation of the perfume's characteristics, but the words barely registered.</p>
 
-<p>It was unmistakably one of the several perfumes Liu blended and wore. It was the one Yuni nuna had correctly identified on the day they'd had a barbecue in his garden — she had been certain she recognized this particular scent as one of the components in his blend.</p>
+<p>It was unmistakably one of the several perfumes Liu blended and wore. It was the one Yuni had correctly identified on the day they'd had a barbecue in his garden — she had been certain she recognized this particular scent as one of the components in his blend.</p>
 
 <p>A phantom impression of the scent alone was far too insufficient; since arriving here, he had wanted to come buy this perfume more than once. But he hadn't trusted himself not to fall apart if he were exposed to anything that close to the real thing.</p>
 
@@ -1487,15 +1487,15 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Carols spilled out of every café and bar, and adults and children alike had gathered along the canal — having snowball fights, rolling snow into lumpy snowmen. Even though snow had become more common than it used to be (there had even been a blizzard back in April this year), heavy snowfall was still a rare and exciting sight in Paris.</p>
 
-<p>On the street in front of 'The Hands,' a few small children had gathered to scrape snow off the parked cars and throw it at each other. One, a boy who looked about six or seven and wore a red knitted hat pulled down low, spotted Yeehyeon, broke into a grin, and shouted "Joyeux Noël!" Christmas was still a few days away, but the snow seemed to have made him want to start celebrating early. Yeehyeon smiled back, replied "Joyeux Noël," brushed the snow from his coat shoulders, and stepped inside.</p>
+<p>On the street in front of 'The Hands,' a few small children had gathered to scrape snow off the parked cars and throw it at each other. One, a child who looked about six or seven and wore a red knitted hat pulled down low, spotted Yeehyeon, broke into a grin, and shouted "Joyeux Noël!" Christmas was still a few days away, but the snow seemed to have made them want to start celebrating early. Yeehyeon smiled back, replied "Joyeux Noël," brushed the snow from his coat shoulders, and stepped inside.</p>
 
-<p>He could hear the noise even in the lobby — everyone had gathered in the second-floor living room, drinking beer. Yeehyeon took off his bag and coat and sat down next to Jun.</p>
+<p>He could hear the noise even in the lobby — everyone had gathered in the second-floor living room, drinking beer. Yeehyeon took off his bag and coat and sat down next to June.</p>
 
 <p>"Where's Ben?"</p>
 
 <p>"…Not here yet."</p>
 
-<p>Jun shook his head with a somewhat bitter expression. Ben was usually the one who pulled these gatherings together, but since failing his interview — for knowing too little about cameras and the field — he had been difficult to find for several days.</p>
+<p>June shook his head with a somewhat bitter expression. Ben was usually the one who pulled these gatherings together, but since failing his interview — for knowing too little about cameras and the field — he had been difficult to find for several days.</p>
 
 <p>Even so, less than ten minutes after Yeehyeon joined them, a pleasantly tipsy Ben appeared. Rather than taking an empty seat somewhere else, he wedged himself between the three people already sitting on the three-seater sofa and tightened the knot of his already loose tie.</p>
 
@@ -1525,13 +1525,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Never mind, never mind."</p>
 
-<p>Yeehyeon shook his head and smiled at Ben, who had turned toward him while half-joking around with the sculptor seated next to him.</p>
+<p>Ben had been pretending to strangle the sculptor beside him. When he looked over, Yeehyeon shook his head and smiled.</p>
 
 <p>He'd already concluded it was impossible — and yet, once the suspicion had taken root, he couldn't shake it loose. It wasn't a difficult thing to check, and there was no harm in trying. Yeehyeon picked up his coat and quietly slipped out of his seat.</p>
 
 <p>The snowflakes had grown much smaller in the meantime, but it was still snowing.</p>
 
-<p>It had only been about three days since he sent the painting — it couldn't possibly have arrived in Seoul yet. Even when he checked that afternoon, it was still in transit by air freight. And even if the painting had arrived, it would take more time for him to receive it and travel to Paris.</p>
+<p>It had only been about three days since he sent the painting — it couldn't possibly have arrived in Seoul yet. Even when he checked that afternoon, it was still in transit by air freight. And even if the painting had arrived, Liu would still need time to receive it and get to Paris.</p>
 
 <p>Even while thinking all of this clearly, his steps toward the alley Ben had mentioned grew faster and faster. By the time he passed the eyeglass shops and rounded the corner, he was almost running.</p>
 
@@ -1541,19 +1541,19 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>It was just like it used to be — the way his clumsy heart, which he had always worked so carefully to suppress and conceal, could no longer pretend when it saw him. The joy spilled out as laughter before anything else. It felt like smiling toward him not just with his lips but with his whole body.</p>
 
-<p>In the deserted alley, an orange streetlamp casting a dim glow over the drifting snow, Liu stood frozen — cigarette halfway to his lips, then pulled away — stiff as someone who had turned a corner and walked straight into a ghost.</p>
+<p>In the deserted alley, an orange streetlamp lit the drifting snow. Liu was just about to light his cigarette when he froze like someone who'd come face to face with a ghost in a dead-end alley. He took the cigarette from his lips.</p>
 
-<p>"For someone on an undercover assignment… you're a little too conspicuous, aren't you?"</p>
+<p>"Aren't you a little too conspicuous for a stakeout…?"</p>
 
-<p>White breath rose in unsteady puffs.</p>
+<p>Yeehyeon's breath came in white puffs.</p>
 
 <p>"……"</p>
 
-<p>He hesitated, holding his distance as if he might bolt in sheer shock — and then he dropped the unlit cigarette and came forward. Without hesitation, his hand reached out to cup Yeehyeon's face, his thumb sweeping gently along his cheek. At that touch, Yeehyeon realized he was crying.</p>
+<p>Liu hesitated, keeping his distance as if he were so startled he might bolt. Then he dropped the unlit cigarette and came closer. Without hesitation, he reached out to cup Yeehyeon's face, his thumb brushing gently over his cheek. At that touch, Yeehyeon realized he was crying.</p>
 
 <p>He was alive.</p>
 
-<p>The snow settling slowly above his head, the faint festive clamor drifting over from the direction of the canal, the sight of Liu filling his entire field of vision, and the real, physical warmth of Liu Weikun's hand against his cheek — every sense was so vividly, achingly present that he felt truly alive.</p>
+<p>The snow settling slowly above his head, the faint festive clamor drifting over from the direction of the canal, the sight of him filling his entire field of vision, and the real, physical warmth of Liu Weikun's hand against his cheek — every sense was so vividly, achingly present that he felt truly alive.</p>
 
 <p>He had missed him.</p>
 

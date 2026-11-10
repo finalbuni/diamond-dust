@@ -21,7 +21,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Imagining Times Square packed with two million people gave him the start of a tension headache. But it wasn't the crowd that caused it. He could function when focused on work, but any small lapse in concentration brought on intense stress. His only self-prescribed remedy for the headaches and insomnia that had plagued him for months was alcohol and cigarettes.</p>
 
-<p>Liu rolled down the window halfway and lit a cigarette. The street noise grew a little closer. A group of five or six people, looking to be in their early to mid-twenties, passed by loudly blowing vuvuzelas. He stubbed out the cigarette after just a few puffs and rolled the window back up.</p>
+<p>Liu rolled down the window halfway and lit a cigarette. The street noise grew a little closer. A group of five or six people, looking to be in their early to mid-twenties, passed by loudly blowing vuvuzelas. Liu stubbed out the cigarette after just a few puffs and rolled the window back up.</p>
 
 <p>He wouldn't have felt this low if he hadn't received that call from the hotel this afternoon.</p>
 
@@ -45,7 +45,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>In Seoul, the New Year's morning had already begun. Paris… Paris would be a little later, the dawn of the first day of the year just breaking. <em>Yeehyeon — he might already be starting his day diligently. Or maybe he's still in bed, making resolutions for the year.</em> Imagining Yeehyeon's eyes darting this way and that in the pale blue early light, Liu shrugged and let out a short laugh.</p>
 
-<p>He had already been in New York for about three weeks for the Pettibone exhibition planned with H&W. After taking New Year's Day off tomorrow and attending the exhibition opening on January 2nd, all of his mandatory schedule would be finished. But he still hadn't booked his return flight to Seoul.</p>
+<p>He had already been in New York for about three weeks for the Pettibone exhibition planned with H&W. After taking New Year's Day off tomorrow and attending the exhibition opening on January 2nd, all of Liu’s mandatory schedule would be finished. But he still hadn't booked his return flight to Seoul.</p>
 
 <p>He wasn't planning to go see him, and whether here or in Seoul, the city was equally hollow without him — yet he couldn't understand why he kept pushing back the reservation date for no apparent reason.</p>
 
@@ -113,7 +113,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Liu settled into the armchair across from the two-seater sofa where Shushu sat, leaned forward with his elbows on the armrests, and put on a playful expression.</p>
 
-<p>"Jeong Se-in. I don't know what you're thinking, but I've been swamped preparing for this exhibition. I've been to Hong Kong three or four times in the last two months alone. If working this hard and being too busy to spend time with friends made you worry — I'm sorry. Okay?"</p>
+<p>"Zhang Shuiyan. I don't know what you're thinking, but I've been swamped preparing for this exhibition. I've been to Hong Kong three or four times in the last two months alone. If working this hard and being too busy to spend time with friends made you worry — I'm sorry. Okay?"</p>
 
 <p>But not a trace of worry had left Shushu's eyes. Liu let out a sigh, set the beer bottle down, and stood up from the sofa.</p>
 
@@ -147,7 +147,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"You don't need a spot to watch the countdown in Times Square, right? You've done all that before. Let's go to Mott Street — lamb skewers and baijiu, like we used to do for New Year's."</p>
 
-<p>Liu draped his coat over the back of the sofa and suggested Chinatown while working on his buttons. Shushu looked up at him — forcing cheerfulness — and after a brief hesitation, finally spoke.</p>
+<p>Liu draped his coat over the back of the sofa and suggested Chinatown while working on his buttons. Shushu looked up at Liu — who was forcing cheerfulness — and after a brief hesitation, finally spoke.</p>
 
 <p>"Isn't it… a bit too big for a good-luck charm? Especially to bring all the way to New York."</p>
 
@@ -155,13 +155,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Liu glanced over, fingers on the third button.</p>
 
-<p>"Yeehyeon's painting."</p>
+<p>"Yeehyeon-ssi's painting."</p>
 
 <p>"……"</p>
 
 <p>His hands slowed for just a moment. He said nothing — only scraped his lower lip lightly with his teeth, pretending to focus on the button.</p>
 
-<p>"Yeehyeon unveiled his work for the first time this month, through 'The Hands.'"</p>
+<p>"Yeehyeon-ssi unveiled his work for the first time in the middle of this month, through 'The Hands.'"</p>
 
 <p>Liu fastened the last button, raised his head, and stared at the ceiling, running his tongue along the inside of his cheek. He was clearly signaling he didn't want to discuss this — but Shushu had no intention of stopping until he showed something.</p>
 
@@ -179,21 +179,21 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Shushu had assumed Liu would want to own all of Yeehyeon's work and would certainly be tracking his activities. That had been the simple thought behind the question. But as Liu said — that approach wasn't for Yeehyeon's sake.</p>
 
-<p>"I was shortsighted. I'm sorry. But… you knew everything about Yeehyeon's news too. You were watching him. So why aren't you saying anything?"</p>
+<p>"I was shortsighted. I'm sorry. But… you knew everything about Yeehyeon-ssi's news too. You were watching him. So why aren't you saying anything?"</p>
 
 <p>"What exactly do you want to hear from me?"</p>
 
 <p>Liu raised his voice. His restless eyes, which had been wandering toward the ceiling as if frustrated, fixed on Shushu.</p>
 
-<p>"Do you want to see me fall apart crying about how hard things are? What changes by talking to the people around him?"</p>
+<p>"Do you want to see me fall apart crying about how hard things are? What changes by talking to other people?"</p>
 
 <p>Liu puffed out his cheeks, let out a long sigh, ran a hand through his neatly styled hair, and came back to the living room, dropping into the seat across from Shushu.</p>
 
 <p>"Some people overcome situations that way. Unfortunately, your friend isn't that type."</p>
 
-<p>Leaning his head back against the chair, he muttered in a low, sunken voice.</p>
+<p>Leaning his head back against the chair, Liu muttered in a low, sunken voice.</p>
 
-<p>"Then go see him. Do something. Go and say something — do something to resolve things with Yeehyeon."</p>
+<p>"Then go see him. Do something. Go and say something — do something to resolve things with Yeehyeon-ssi."</p>
 
 <p>Liu, who had been staring blankly at Shushu with his head still tilted back and eyes half-lidded, blinked slowly.</p>
 
@@ -211,7 +211,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>With a practiced motion, he lit a cigarette and set the lighter down on the table before speaking.</p>
 
-<p>"The process by which you came to accept your past with Hong Seon-yu. The way you thought through it… I hoped that Yeehyeon would come to accept me the same way."</p>
+<p>"The process by which you came to accept your past with Hong Seon-yu. The way you thought through it… I hoped that he would come to accept me the same way."</p>
 
 <p>Liu let out a low, self-mocking scoff — as if amused by his own shallowness for shifting his position the moment circumstances changed. He bit his lip once, then released it, his expression settling into something different.</p>
 
@@ -247,13 +247,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"That's right. If I had heard this back then, I probably couldn't have handled it. I might have resented and lashed out at you — who did nothing wrong. Back then…"</p>
 
-<p>He paused with the vague, half-there smile of someone looking back on a time of pure, reckless feeling.</p>
+<p>Shushu paused with the vague, half-there smile of someone looking back on a time of pure, reckless feeling.</p>
 
 <p>"Back then, no matter who had told me, I would have come here with Hong Seon-yu. So… you did the right thing by not saying anything then."</p>
 
 <p>A suffocating urge to say something rose in Liu's chest. He opened his lips and drew a breath — then realized there was nothing more he could say to Shushu, who had already put the past to rest.</p>
 
-<p>"Back then, whether it was jealousy that you had slept with Seonyu, or because I didn't want to believe Seonyu had approached me with an agenda… I would have denied everything and made a scene. But what does any of that matter now? The reason Hong Seon-yu and I fell apart wasn't because of what happened between you and him."</p>
+<p>"Back then, whether it was jealousy that you had slept with Seon-yu, or because I didn't want to believe Seon-yu had approached me with an agenda… I would have denied everything and made a scene. But what does any of that matter now? The reason Hong Seon-yu and I fell apart wasn't because of what happened between you and Hong Seon-yu."</p>
 
 <p>"……"</p>
 
@@ -269,4 +269,4 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>At Liu's question, Shushu shrugged, let his shoulders drop with a sigh, set the hat he'd been turning over in his hands back on his head, and stood up.</p>
 
-<p>"Let's go out and count down to the New Year — like we used to."</p>
+<p>"Let's go out, get drunk, and count down to the New Year — like we used to."</p>

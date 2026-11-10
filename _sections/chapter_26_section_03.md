@@ -17,11 +17,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Liu chuckled at the staff's reaction, unsure whether they were welcoming Inwu or the lunch boxes. Then he set down the Nyoman Gunarsa art book he had been quickly flipping through on top of the pile of already-selected items.</p>
 
-<p>Even though the New York branch opening had been canceled, they had gone ahead and hired the director they had already decided on — so despite Yuni nuna's departure, Phantom had ended up with two more employees than before.</p>
+<p>Even though the New York branch opening had been canceled, they had gone ahead and hired the director they had already decided on — so despite Yuni's departure, Phantom had ended up with two more employees than before.</p>
 
 <p>Thanks to this, Liu found himself working more often from his own room at the very back of the office, a space that hadn't seen much use before. Sitting behind the large desk with a sofa set in front of it, the physical distance it created between him and the rest of the staff wasn't his preferred arrangement, but he did find having time alone more comfortable.</p>
 
-<p>Honestly, the kind of fervor that had them sticking together even after hours when Phantom first opened — getting to know each other personally, building affection — was long gone. There were no longer any staff members who would barge in on a holiday morning insisting on using his home garden as a filming location. The 'Old Future' website was still active, and Yuni nuna's posts about her life in Paris were sporadically updated, but clothing sales had been discontinued for nearly a year now.</p>
+<p>Honestly, the kind of fervor that had them sticking together even after hours when Phantom first opened — getting to know each other personally, building affection — was long gone. There were no longer any staff members who would barge in on a holiday morning insisting on using his home garden as a filming location. The 'Old Future' website was still active, and Yuni's posts about her life in Paris were sporadically updated, but clothing sales had been discontinued for nearly a year now.</p>
 
 <p>It wasn't that the affection for Phantom or the passion for the work had cooled. It simply seemed like something he had to accept — that a certain period had passed, and these things were bound to become memories steeped in wistful nostalgia and tender feeling.</p>
 
@@ -103,15 +103,15 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Although mixed with heightened emotion, Liu also thought that what Inwu and Shushu had said wasn't fundamentally wrong. But he couldn't be so lenient about the kiss with Yeehyeon…</p>
 
-<p>"That's something you should apologize to Seo Yeehyeon for, not me. If Seo Yeehyeon has forgiven you, that's where it ends."</p>
+<p>"That's something you should apologize to Seo Yeehyeon for, not me. Seo Yeehyeon has forgiven you, so that's the end of it."</p>
 
-<p>Perhaps, by playing it so cool — what he had meant was that even if Yeehyeon had forgiven Inwu, Liu shouldn't expect the same forgiveness to extend to himself.</p>
+<p>Perhaps playing it cool like that could have sounded like a warning: even if Yeehyeon had forgiven Inwu, he shouldn't expect Liu to do the same.</p>
 
 <p>Once Inwu had completely emptied himself of the courage he had come with, Liu offered him coffee. Although his own lunch box was still half full, he brewed enough for two. While the coffee dripped, he leaned against the cabinet holding the coffee maker and looked out at the rain still coming down steadily outside.</p>
 
 <p>This rain wouldn't last all night, and from what he had checked earlier, it wasn't a typhoon with particularly threatening wind speeds. Tomorrow morning's flight would probably be fine.</p>
 
-<p>"You're really not going to tell Yeehyeon…?"</p>
+<p>"You're really not going to tell Yeehyeon-ssi…?"</p>
 
 <p>"……"</p>
 
@@ -153,7 +153,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>It was a proposal with the rather bold and ambitious title: <em>A Proposal for Phantom's Future: Achieving a 30% Increase in Annual Visitors!</em></p>
 
-<p>"You said you'd support us if we showed initiative. So I thought about it — a way for Phantom to transform from a place that exhibits art as a luxury reserved for a select few, into a friendly space where the public can embrace art as part of their daily lives. Of course… the Director might not love the idea of customers wandering through the gallery just to drink coffee, but the era of high-nosed art is long over. If the public engages with art more often like this…"</p>
+<p>"You said you'd support us if we showed initiative. So I thought about it — a way for Phantom to transform from a place that exhibits art as a luxury reserved for a select few, into a friendly space where the public can embrace art as part of their daily lives. Of course… Director might not love the idea of customers wandering through the gallery just to drink coffee, but the era of high-nosed art is long over. If the public engages with art more often like this…"</p>
 
 <p>"Did you show this to Manager Han?"</p>
 
@@ -183,10 +183,10 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Liu nodded as he zipped up his briefcase — packed so full there wasn't room for even one more sheet of A4 paper. Juhan, leaning against the doorframe and fiddling with the doorknob, said in a voice that made no particular effort to sound casual, as if it were nothing at all.</p>
 
-<p>"I'll go buy Yeehyeon something good to eat."</p>
+<p>"I'll go buy Yeehyeonie something good to eat."</p>
 
 <p>"……"</p>
 
 <p>Liu finally went still and leaned back against his desk. Rain continued to stream down the window straight ahead. He could hear the faint stir of employees leaving the office, their voices bright with excitement about the long vacation ahead.</p>
 
-<p>He looked up at the ceiling and drew a breath, wetting his lips with his tongue. Then he looked down at the floor and exhaled. Without lifting his head, he turned to the side, and his hair fell forward, covering his eyes. He picked up his mug with his long fingers. He had adjusted the air conditioner to a warmer setting a little while ago — but the coffee had gone completely cold.</p>
+<p>Liu looked up at the ceiling and drew a breath, wetting his lips with his tongue. Then he looked down at the floor and exhaled. Without lifting his head, he turned to the side, and his hair fell forward, covering his eyes. He picked up his mug with his long fingers. He had adjusted the air conditioner to a warmer setting a little while ago — but the coffee had gone completely cold.</p>

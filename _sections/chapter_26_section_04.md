@@ -71,7 +71,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"There are even male Betas who envy male Omegas because they want a child with their Alpha partner."</p>
 
-<p>"That person must be gay!"</p>
+<p>"Then I guess that person is gay!"</p>
 
 <p>"Hmm… his partner was a female Alpha, actually."</p>
 
@@ -79,7 +79,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>The boy stopped walking and turned to Yeehyeon with an expression as if he had just heard about some grotesque, revolting crime. The shock seemed to run deep.</p>
 
-<p>"The two of them wanted a child born between them. If becoming an Omega was the only way that could happen, they were willing. Is it really that important who carries the child, between two people who love each other?"</p>
+<p>"The two of them wanted a child born between them. If becoming an Omega was the only way that could happen, he was willing. Is it really that important who carries the child, between two people who love each other?"</p>
 
 <p>It had been over half a year since Yeehyeon, after considerable hesitation, had finally started attending the 'Late Blooming' group. During that time, he had met people in all kinds of situations and heard their innermost stories — their worries, their wounds, the ways they had found to overcome them or hadn't. It had been half a year of learning that there is no absolutely correct or ideal designation, that the gender one desires and the way one comes to accept their own designation varies entirely depending on situation and environment.</p>
 
@@ -133,7 +133,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"……"</p>
 
-<p>"I attend 'Late Blooming' precisely because I don't want to see anyone — including myself — as a monster."</p>
+<p>"I attend 'Late Blooming' precisely because I don't want to see anyone else as a monster."</p>
 
 <p>Though dissatisfaction and lingering questions still showed in his face, Nick's expression had softened compared to before. Yeehyeon started walking again, giving Nick's back a gentle, encouraging nudge. Nick looked up at him and nodded slowly.</p>
 
@@ -145,7 +145,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Despite grumbling that he couldn't go to other countries in Europe the way his friends could, he seemed genuinely excited about the once-a-year trip. For the moment, he appeared to have forgotten entirely that he was now an Omega, and that he would need to manage his suppressants differently to get through it.</p>
 
-<p>"Instead, a friend is coming to Paris."</p>
+<p>"Instead, a friend is coming from Korea."</p>
 
 <p>"A friend?"</p>
 
@@ -155,7 +155,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Nick asked with a slightly cautious air, as if gauging Yeehyeon's reaction. Yeehyeon nodded. Nick's eyes — which had been clouded with despair just ten minutes earlier, saying he wanted to die — now sparkled with simple curiosity.</p>
 
-<p>Perhaps, just as Beau Beau had said, Nick only needed time and attention, and might eventually adapt and come to accept himself in a healthy way. In any case, Beau Beau had gone through situations like this far more often than Yeehyeon had, and the only way forward was to trust his words and keep moving — with each of them holding steadfastly to their own truth in their own place.</p>
+<p>Maybe Beau Beau was right. Maybe all Nick needed was time and attention, and in time he would adjust and learn to accept himself. Beau Beau had dealt with situations like this far more often than Yeehyeon had, after all. All they could do to help Nick move forward was trust Beau Beau's judgment and, each in his own way, stay true to who they were.</p>
 
 <p>By the time Yeehyeon parted from Nick and arrived at 'The Hands,' his back was soaked in sweat. Even though the temperature was lower than in Korea, the cloudless sky made the sunlight fierce. He was quickening his pace, already thinking about a shower and a cold can of beer, when a long-haired man coming out of the building waved at him.</p>
 
@@ -187,7 +187,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Yeehyeon-ssi, a package came for you."</p>
 
-<p>Yuni nuna, with a playful expression on her face, was holding a small parcel tucked under her left arm and waving. She must have spotted him returning and followed him out from the office. Yeehyeon smiled and stepped back off the stairs.</p>
+<p>Yuni, with a playful expression on her face, was holding a small parcel tucked under her left arm and waving. She must have spotted him returning and followed him out from the office. Yeehyeon smiled and stepped back off the stairs.</p>
 
 <p>"It arrived on Friday. Pierre must have forgotten to leave a message for you to collect it before he left for his vacation."</p>
 
