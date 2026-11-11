@@ -103,7 +103,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>If that were the case, he had no reason to hesitate. I placed my hand over his large hand, which encompassed my ear and cheek, and shook my head several times.</p>
 
-<p>"I want to change. I want to be changed."</p>
+<p>"I want to change. I want to change completely."</p>
 
 <p>After my murmur, which sounded like a confession or perhaps a self-reproach, he wrapped his arms around my waist and pulled my body onto the bed.</p>
 
@@ -119,9 +119,9 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Me too," he said.</p>
 
-<p>His breath was mixed with the sharp aftertaste of whiskey.</p>
+<p>The sharp scent of whiskey lingered on his breath.</p>
 
-<p>"I want to change too," he whispered. "To become a completely different being."</p>
+<p>"I want to change completely. Into a completely different being."</p>
 
 <p>It seemed almost unbelievable that someone like him, whom everyone envied, could be gripped by such a defeated mindset, but then again, I was still young.</p>
 

@@ -19,33 +19,33 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"......"</p>
 
-<p>Yeehyeon turned to look at Liu Weikun beside him, but he only smiled, offering no explanation.</p>
+<p>Yeehyeon turned to look at Liu beside him, but he only smiled, offering no explanation.</p>
 
-<p>A doorman in a light beige uniform coat opened the door. After confirming that Liu Weikun had stepped out on the opposite side, Yeehyeon followed slowly. Liu Weikun circled around to the trunk and held out his hand. Without thinking, Yeehyeon took it, and they walked into the hotel together.</p>
+<p>A doorman in a light beige uniform coat opened the door. After confirming that Liu had stepped out on the opposite side, Yeehyeon followed slowly. Liu circled around to the trunk and held out his hand. Without thinking, Yeehyeon took it, and they walked into the hotel together.</p>
 
 <p>In the luxurious lobby, a large, elegant Christmas tree glowed with light. Though it avoided excessive decoration, that restraint made it even more captivating.</p>
 
 <p><em>Since we left the party a little early, he's probably planning to have a quick glass of whiskey at the bar.</em></p>
 
-<p>Yeehyeon thought this as he followed Liu Weikun down a softly lit corridor, but contrary to his expectations, they passed both the restaurant and the bar. They stepped into a narrow elevator barely big enough for four adults. Liu Weikun took out a royal-blue key card, the same color as the carpet they'd just walked over.</p>
+<p>Yeehyeon thought this as he followed Liu down a softly lit corridor, but contrary to his expectations, they passed both the restaurant and the bar. They stepped into a narrow elevator barely big enough for four adults. Liu took out a royal-blue key card, the same color as the carpet they'd just walked over.</p>
 
 <p>He politely declined a staff member who offered assistance, and the doors closed. Alone together in the elevator, Yeehyeon finally tugged lightly at the hand he was holding and asked,</p>
 
 <p>"Aren't we... going to the Eiffel Tower?"</p>
 
-<p>Liu Weikun lifted his head from where it had been resting loosely against the wall and leaned toward him.</p>
+<p>He lifted his head from where it had been resting loosely against the wall and leaned toward him.</p>
 
-<p>"Did you really want to see the White Eiffel that badly?"</p>
+<p>"Did you really want to see the White Eiffel together that badly?"</p>
 
 <p>He looked like that might be a serious problem.</p>
 
-<p>Yeehyeon laughed and shook his head, but Liu Weikun still didn't look fully reassured.</p>
+<p>Yeehyeon laughed and shook his head, but Liu still didn't look fully reassured.</p>
 
 <p>The sixth-floor corridor carried the same pleasant scent as the lobby below. Walking over the carpet, Yeehyeon recalled Hong Kong. Both of them extremely aroused, gripping each other's hands as they waited for the elevator doors to open, then tangling together the moment they entered his room, leaving the living room in complete disarray.</p>
 
-<p>As memories that felt both like yesterday and very long ago overlapped, Liu Weikun stopped in front of a door marked with a room name instead of a number and opened it. He must have arrived earlier in the afternoon to check in.</p>
+<p>As memories that felt both like yesterday and very long ago overlapped, Liu stopped in front of a door marked with a room name instead of a number and opened it. He must have arrived earlier in the afternoon to check in.</p>
 
-<p>Even for Yeehyeon, who had little connection to hotels, it was impossible to live in Paris for over a year without knowing this place — so famous it could be called one of the city's many symbols. He remembered colleagues talking about its astonishingly high rates. He didn't want to make Liu Weikun's effort seem like just a financial gesture by looking burdened or apologetic. He knew who this was for, and he didn't want to hurt his feelings.</p>
+<p>Even for Yeehyeon, who had little connection to hotels, it was impossible to live in Paris for over a year without knowing this place — so famous it could be called one of the city's many symbols. He remembered colleagues talking about its astonishingly high rates. He didn't want to make Liu's effort seem like just a financial gesture by looking burdened or apologetic. He knew who this was for, and he didn't want to hurt his feelings.</p>
 
 <p>"Wow...."</p>
 
@@ -53,21 +53,21 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>The space, furnished with calm yet vibrant pale emerald pieces against a soft ivory base, created the sensation of stepping directly into a scene from the 18th century, when the building was first constructed.</p>
 
-<p>Seeing Yeehyeon's reaction, Liu Weikun finally seemed reassured.</p>
+<p>Seeing Yeehyeon's reaction, Liu finally seemed reassured.</p>
 
 <p>"Shall we step out onto the terrace and look at the night view for a bit?"</p>
 
 <p>"There's a terrace too?"</p>
 
-<p>Liu Weikun pulled him along as he asked with wide eyes, looking even more excited than Yeehyeon himself.</p>
+<p>Liu pulled him along as he asked with wide eyes, looking even more excited than Yeehyeon himself.</p>
 
 <p>"You can see Place Vendôme right below."</p>
 
 <p>Seeing his flushed excitement — someone who looked as though he must have visited places like this so often that even luxury and beauty no longer fazed him — Yeehyeon couldn't help but smile quietly.</p>
 
-<p>After passing the sofa set and going up two or three steps, Liu Weikun swung open the double doors leading to the terrace in one smooth motion.</p>
+<p>After passing the sofa set and going up two or three steps, Liu swung open the double doors leading to the terrace in one smooth motion.</p>
 
-<p>He had mentioned it casually, as if the room happened to have a terrace and they might as well take a look — but that wasn't the truth.</p>
+<p>Liu had mentioned it casually, as if the room happened to have a terrace and they might as well take a look — but that wasn't the truth.</p>
 
 <p>The spacious terrace, large enough to host a dinner for more than ten people, was warmed by two tall outdoor heaters glowing red with heat. In front of a cream-colored, plush sofa arranged to match the terrace's L-shaped layout, a table was adorned with abundant fresh flowers. Large candles fitted with transparent wind guards flickered gently throughout the space.</p>
 
@@ -77,15 +77,15 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Don't laugh. I'm honestly dying of embarrassment right now too."</p>
 
-<p>Liu Weikun wrapped his arms around Yeehyeon's waist from behind and pressed his forehead into his shoulder. Because he seemed equally flustered, Yeehyeon was finally able to relax a little. Liu Weikun was certainly more expressive with his emotions than Yeehyeon, but he wasn't the type to personally enjoy this kind of overtly romantic gesture.</p>
+<p>He wrapped his arms around Yeehyeon's waist from behind and pressed his forehead into his shoulder. Because he seemed equally flustered, Yeehyeon was finally able to relax a little. Liu was certainly more expressive with his emotions than Yeehyeon, but he wasn't the type to personally enjoy this kind of overtly romantic gesture.</p>
 
 <p>"I know you don't really like things like this. So I tried to keep it to the bare minimum."</p>
 
-<p>Yeehyeon reached up to touch Liu Weikun's cheek where it rested on his shoulder and shook his head.</p>
+<p>Yeehyeon reached up to touch Liu's cheek where it rested on his shoulder and shook his head.</p>
 
 <p>"I know you did this for me. I'm just not used to it, so it's a little embarrassing... but that's different from feeling burdened or disliking it. I suppose I'm just not great at reacting, am I?"</p>
 
-<p>This time, Liu Weikun shook his head. Then he pressed a kiss deep into the sensitive hollow of Yeehyeon's nape — a place only lovers ever kissed.</p>
+<p>This time, Liu shook his head. Then he pressed a kiss deep into the sensitive hollow of Yeehyeon's nape — a place only lovers ever kissed.</p>
 
 <p>"I don't expect that. It's fine."</p>
 
@@ -93,25 +93,25 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"......"</p>
 
-<p>As if lost in thought, Liu Weikun tightened his arms and fell silent for a moment.</p>
+<p>As if lost in thought, Liu tightened his arms and fell silent for a moment.</p>
 
 <p>"I hope you'll say that later too."</p>
 
-<p>He muttered it so quickly, almost to himself, that Yeehyeon wasn't entirely sure he'd heard it right. Before he could ask, Liu Weikun, clearly dying of embarrassment, hurriedly pulled him toward the sofa and suggested they have some champagne. He missed the chance.</p>
+<p>He muttered it so quickly, almost to himself, that Yeehyeon wasn't entirely sure he'd heard it right. Before he could ask, Liu, clearly dying of embarrassment, hurriedly pulled him toward the sofa and suggested they have some champagne. He missed the chance.</p>
 
 <p>Thanks to the heat blazing from both heaters, it didn't feel cold at all even though it was nearly midnight.</p>
 
-<p>After taking the first sip of champagne, Liu Weikun slipped his hand inside Yeehyeon's coat collar and gently pushed it outward as he spoke.</p>
+<p>After taking the first sip of champagne, Liu slipped his hand inside Yeehyeon's coat collar and gently pushed it outward as he spoke.</p>
 
 <p>"I've wanted to tell you this since I saw you at the gallery. The suit still suits you really well."</p>
 
-<p>The slim, elegant suit, completely mismatched with his old student-like coat, was one Liu Weikun had gifted him in Hong Kong with instructions to wear it to any important invited events.</p>
+<p>The slim, elegant suit, completely mismatched with his old student-like coat, was one Liu had gifted him in Hong Kong with instructions to wear it to any important invited events.</p>
 
 <p>"I don't wear it often, but... whenever there's an important occasion, I wear it."</p>
 
-<p>At Yeehyeon's words, Liu Weikun smiled. But it wasn't a bright smile.</p>
+<p>At Yeehyeon's words, Liu smiled. But it wasn't a bright smile.</p>
 
-<p>Because Yeehyeon knew how Liu Weikun held nothing back for him — material things included, but also time, affection, and even his life — he could anticipate the self-reproach Liu Weikun was feeling in that moment.</p>
+<p>Because Yeehyeon knew how Liu held nothing back for him — material things included, but also time, affection, and even his life — he could anticipate the self-reproach Liu was feeling in that moment.</p>
 
 <p>A man who had worried about Yeehyeon's bare hands being cold, who had felt guilty even over a single worn coat of his.</p>
 
@@ -119,11 +119,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"As you know... I thought you were an Omega from the very beginning."</p>
 
-<p>In the quiet where only the crackling of flames leaping from the heater could be heard, Liu Weikun began speaking softly.</p>
+<p>In the quiet where only the crackling of flames leaping from the heater could be heard, Liu began speaking softly.</p>
 
 <p>"I couldn't believe you when you said you were a Beta, because I had what I thought was solid evidence. I assumed there had to be a reason you were hiding it. But you really were a Beta — or at least, you weren't an Omega — and yet I could clearly sense your pheromones. And those pheromones only kept growing stronger and more distinct. You were a world I'd never encountered before: threatening, yet irresistibly mysterious and fascinating."</p>
 
-<p>Liu Weikun paused, tilting his head with a slightly playful look.</p>
+<p>Liu paused, tilting his head with a slightly playful look.</p>
 
 <p>"You know I'm not talking only about pheromones, right?"</p>
 
@@ -139,15 +139,15 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"You say you were cowardly regarding your father's affairs... and perhaps that's partly true... but you kept suffering over it. You didn't grow numb. And in the end, you tried to change, and you did. You never made excuses about your father hurting you first. You have no idea how difficult that is... or how transparently bright your quiet struggle looks to me as you move through life at your own pace."</p>
 
-<p>Just as Yeehyeon had tried to look at Alphas and Omegas, and the reality of becoming an Omega, without emotion and for what they truly were, Liu Weikun too had set aside his former impatience and was approaching now with only the core truth remaining.</p>
+<p>Just as Yeehyeon had tried to look at Alphas and Omegas, and the reality of becoming an Omega, without emotion and for what they truly were, Liu too had set aside his former impatience and was approaching now with only the core truth remaining.</p>
 
-<p>"Because it wasn't consensual, the Director's Changing was a clear mistake."</p>
+<p>"Because it wasn't consensual, Director's Changing was a clear mistake."</p>
 
 <p>"......"</p>
 
-<p>Yeehyeon felt Liu Weikun tense and fold slightly inward. Without rushing, Yeehyeon continued.</p>
+<p>Yeehyeon felt Liu tense and fold slightly inward. Without rushing, Yeehyeon continued.</p>
 
-<p>"I made sure to establish that first. And then I thought about it. What if... the Director had told me about his identity and the possibility of Changing beforehand?"</p>
+<p>"I made sure to establish that first. And then I thought about it. What if... Director had told me about his identity and the possibility of Changing beforehand?"</p>
 
 <p>Even while feeling the desperate gaze fixed on his profile, Yeehyeon didn't turn around.</p>
 
@@ -159,7 +159,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"......"</p>
 
-<p>"What I felt after that... was that what matters are the things ahead of us. That the love you gave me is still inside me. That we weren't able to love each other as much as we wanted to, and that there is still hope inside me that wants to bet on this love."</p>
+<p>"What I felt after that... was that what matters are the things ahead of us. That the love Awi gave me is still inside me. That we weren't able to love each other as much as we wanted to, and that there is still hope inside me that wants to bet on this love."</p>
 
 <p>Only then did Yeehyeon slowly turn his head to face him.</p>
 
@@ -167,11 +167,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He wanted to convey to him that this wasn't a love that merely stirred the surface of emotion into ripples, but one that shook its deepest source and changed the direction of the entire current.</p>
 
-<p>Liu Weikun's eyes, tightly suppressing emotion as if he'd stopped breathing altogether, looked no different from his own.</p>
+<p>Liu's eyes, tightly suppressing emotion as if he'd stopped breathing altogether, looked no different from his own.</p>
 
 <p>"I know you're not someone who cares about places or formality. But... for this one moment, I wanted somewhere we could focus entirely on just the two of us, without interruption. That's why I brought you here."</p>
 
-<p>At Liu Weikun's calm voice, Yeehyeon gave a small nod.</p>
+<p>At Liu's calm voice, Yeehyeon gave a small nod.</p>
 
 <p>"And I wanted to propose to you in a place I'm certain won't disappear — forever, or at least for a very long time."</p>
 
@@ -181,7 +181,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"I wanted it to be a place we could always come back to, whenever we want to remember this moment...."</p>
 
-<p>After finishing his words, Liu Weikun reached into the inner pocket of his jacket with his right hand and produced a small box, no bigger than his palm. The flames of the heater, burning long like a column, flickered red across his face.</p>
+<p>After finishing his words, Liu reached into the inner pocket of his jacket with his right hand and produced a small box, no bigger than his palm. The flames of the heater, burning long like a column, flickered red across his face.</p>
 
 <p>His tension was unmistakable. The muscles around his tightly pressed lips were rigid.</p>
 
@@ -193,13 +193,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>His fingertips trembled as he opened the box.</p>
 
-<p>Still unable to fully grasp the situation, Yeehyeon was more startled by the fact that Liu Weikun's hands were shaking than by what he was about to do.</p>
+<p>Still unable to fully grasp the situation, Yeehyeon was more startled by the fact that Liu's hands were shaking than by what he was about to do.</p>
 
 <p>It was a black leather box with dense vertical stitching set slightly inward from the edges. A gold-colored trim, invisible from outside, lined three sides of the interior. Around the recessed central cushion, a thin square gold border framed the space — and nestled side by side in the narrow gap between the cushions were two identical rings.</p>
 
 <p>The plain platinum rings, though simple in design, carried an indescribably heavy presence. Anyone could tell at a glance that they weren't just rings, but proof of a weighty promise.</p>
 
-<p>Liu Weikun wasn't someone with flashy tastes to begin with, but more than that, Yeehyeon could clearly picture him agonizing over ring after ring just to find ones that matched Yeehyeon's own preferences.</p>
+<p>Liu wasn't someone with flashy tastes to begin with, but more than that, Yeehyeon could clearly picture him agonizing over ring after ring just to find ones that matched Yeehyeon's own preferences.</p>
 
 <p>Right now, it was easier to imagine the sincerity he had poured into choosing them than to fully grasp the meaning the rings themselves carried.</p>
 
@@ -215,7 +215,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Seo Yeehyeon."</p>
 
-<p>Liu Weikun visibly drew in a deep breath.</p>
+<p>He visibly drew in a deep breath.</p>
 
 <p>"Not because I loved you too much... but because I loved you wrongly, I hurt you and left you lonely. But...."</p>
 
@@ -229,15 +229,15 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"......"</p>
 
-<p>Heat was building deep inside him, fueled by emotion. Yeehyeon couldn't tear himself away from Liu Weikun's gaze, as if nailed in place.</p>
+<p>Heat was building deep inside him, fueled by emotion. Yeehyeon couldn't tear himself away from Liu's gaze, as if nailed in place.</p>
 
-<p>As if asking him to take the full weight of his sincerity exactly as it was — to receive it and crush it, or set it aside, leaving everything to Yeehyeon's hands — faced with that sincerity crashing in with the weight of an entire life, Yeehyeon's body trembled instinctively before his mind could even process it.</p>
+<p>As if asking him to take the full weight of his sincerity exactly as it was — to receive it and crush it, or throw it away, leaving everything to Yeehyeon's hands — faced with that sincerity crashing in with the weight of an entire life, Yeehyeon's body trembled instinctively before his mind could even process it.</p>
 
 <p>Yeehyeon looked down at the two rings inside the box.</p>
 
 <p>Until now, just thinking about accepting him again, about the Changing — that alone had been overwhelming. He hadn't had the leeway to even vaguely imagine marriage, nor was he particularly imaginative when it came to romance. Before liking or disliking it, it was simply a subject he had never once considered.</p>
 
-<p>Liu Weikun must have anticipated that.</p>
+<p>Liu must have anticipated that.</p>
 
 <p>He must have thought long and carefully about how to make this proposal something that wouldn't become another constraint, another burden, another task demanding an answer.</p>
 
@@ -249,7 +249,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"I know a ring like this has no legal force or binding effect on its own. But in the real world, that's not how it works. Anyone who sees this ring will know I'm already in a serious relationship — that I love someone enough to show that I belong to him. Simply put, the moment I put this on, I'm practically a married man."</p>
 
-<p>Shaking the hand he was holding lightly, Liu Weikun tried to joke his way through the moment, but it did nothing to ease Yeehyeon's expression.</p>
+<p>Shaking the hand he was holding lightly, Liu tried to joke his way through the moment, but it did nothing to ease Yeehyeon's expression.</p>
 
 <p>Unable to bear the weight of his sincerity, Yeehyeon lowered his head. He tightly grasped the fingers layered over his own.</p>
 
@@ -257,11 +257,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"......"</p>
 
-<p>"I stay unmarried... and you belong to me. That kind of strange marriage?"</p>
+<p>"I stay unmarried... and Awi belongs to me. That kind of strange marriage?"</p>
 
 <p>"Yes, that kind of strange marriage. But what does the conventional meaning of marriage even matter? We can reshape it into whatever form we need, and there's no absolute right or wrong in that."</p>
 
-<p>The rings in his view were a matching pair. Liu Weikun was saying he would be satisfied simply by wearing one of them on his own ring finger.</p>
+<p>The rings in his view were a matching pair. Liu was saying he would be satisfied simply by wearing one of them on his own ring finger.</p>
 
 <p>Setting the box down on the table, he gently lifted Yeehyeon's chin. Afraid that meeting his eyes would make him cry, Yeehyeon bit his lip and tried to pull his hand away — but he couldn't refuse the two hands cradling his cheeks.</p>
 
@@ -285,7 +285,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"What is that. That's too... why would you go that far...."</p>
 
-<p>He wanted to say it was too cruel to him, but swallowed the words, afraid they might sound like a denial of his sincerity.</p>
+<p>He wanted to say it was too cruel to Liu, but swallowed the words, afraid they might sound like a denial of his sincerity.</p>
 
 <p>His strange proposal — wanting to be bound, yet not wanting to bind the other — was not an act meant to evoke pity.</p>
 
@@ -297,17 +297,17 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>At the absurd logic, a weak laugh slipped out — and tears followed immediately.</p>
 
-<p>Yeehyeon suddenly wondered why he'd even tried to hold them back. He let them fall freely. Liu Weikun's face drew close and he kissed his cheek as if swallowing the tears running down it, then pulled him in until their chests and cheeks were pressed tightly together.</p>
+<p>Yeehyeon suddenly wondered why he'd even tried to hold them back. He let them fall freely. Liu's face drew close and he kissed his cheek as if swallowing the tears running down it, then pulled him in until their chests and cheeks were pressed tightly together.</p>
 
-<p>"Seo Yeehyeon. Yeehyeon, I love you."</p>
+<p>"Seo Yeehyeon. Yeehyeon-ah, I love you."</p>
 
 <p>Mobilizing not only human emotion and reason, but the instincts of an Alpha and a Ghost, everything — down to the deepest core of himself that he had denied and imprisoned for so long, even the instinct beneath all instincts...</p>
 
 <p>"All of me loves you."</p>
 
-<p>Words like flesh and blood, embroidered not in hearing but directly onto the heart. Yeehyeon closed his eyes and wrapped his arms around Liu Weikun's back.</p>
+<p>Words like flesh and blood, embroidered not in hearing but directly onto the heart. Yeehyeon closed his eyes and wrapped his arms around Liu's back.</p>
 
-<p><em>He would never let anyone say that Liu Weikun's love was lesser or lacking compared to his own.</em></p>
+<p><em>He would never let anyone say that Liu's love was lesser or lacking compared to his own.</em></p>
 
 <p>He curled his fingers and clutched the jacket tightly. He closed his eyes and buried himself in the scent rising from him. A change he seemed to have longed for without realizing it — for a very long time — was drawing close, into the near future, into the present.</p>
 
