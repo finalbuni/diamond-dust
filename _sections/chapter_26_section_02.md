@@ -283,17 +283,17 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Would you… like to have a drink? There's still plenty of pizza and beer left."</p>
 
-<p>June, who extended the invitation with a cautious, hesitant manner, was one of the artists who attended the French conversation classes most enthusiastically alongside Yeehyeon. Tall and slender, he looked far closer to a boy than a young man — the youngest member of 'The Hands,' who, by Korean age, had been nineteen until just a few hours ago.</p>
+<p>Jun, who extended the invitation with a cautious, hesitant manner, was one of the artists who attended the French conversation classes most enthusiastically alongside Yeehyeon. Tall and slender, he looked far closer to a boy than a young man — the youngest member of 'The Hands,' who, by Korean age, had been nineteen until just a few hours ago.</p>
 
 <p>"Uh… I'd like to, but I'm a bit tired. I've already stayed up past my usual bedtime, so I'm pretty sleepy too."</p>
 
-<p>At Yeehyeon's gentle refusal, June nodded with a smile that couldn't quite conceal his disappointment. Unlike Yuni and Michelle, where neither needed to hide their feelings or pretend not to notice the other's, Yeehyeon pretended not to see why June looked the way he did. He offered a brief New Year's greeting and left the living room with Yuni.</p>
+<p>At Yeehyeon's gentle refusal, Jun nodded with a smile that couldn't quite conceal his disappointment. Unlike Yuni and Michelle, where neither needed to hide their feelings or pretend not to notice the other's, Yeehyeon pretended not to see why Jun looked the way he did. He offered a brief New Year's greeting and left the living room with Yuni.</p>
 
 <p>"Is it really okay for you to be that kind to him?"</p>
 
 <p>As they turned onto the stairwell landing, Yuni lowered her voice and nudged his arm.</p>
 
-<p>"June likes you. If you treat him that sweetly, he might get his hopes up."</p>
+<p>"Jun likes you. If you treat him that sweetly, he might get his hopes up."</p>
 
 <p>Yeehyeon shook his head with a smile.</p>
 
@@ -309,11 +309,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Yuni looked like she wanted to ask more, but she didn't press.</p>
 
-<p>It wasn't as though he had made some loud announcement to someone who hadn't even asked. He had simply let it slip naturally — mentioning to June, who was from Hong Kong, that his boyfriend was also from Hong Kong, and of mixed British, Korean, and Hong Kong descent. Because he had said it after sensing June’s faint interest, with the intention of discouraging June from developing stronger feelings for him, he wasn't entirely sure whether it had actually come across as natural or not.</p>
+<p>It wasn't as though he had made some loud announcement to someone who hadn't even asked. He had simply let it slip naturally — mentioning to Jun, who was from Hong Kong, that his boyfriend was also from Hong Kong, and of mixed British, Korean, and Hong Kong descent. Because he had said it after sensing June’s faint interest, with the intention of discouraging Jun from developing stronger feelings for him, he wasn't entirely sure whether it had actually come across as natural or not.</p>
 
 <p><em>In fact… he couldn't even be sure whether the statement that he had a boyfriend — or the statement that his boyfriend was from Hong Kong — was even true.</em></p>
 
-<p>After parting from Yuni and going up to the fourth floor, Yeehyeon dropped his bag on the floor the moment he entered the room. Without turning on the light or taking off his coat, he slumped onto the bed. He had told June he was tired — but the real exhaustion only settled in once he was alone.</p>
+<p>After parting from Yuni and going up to the fourth floor, Yeehyeon dropped his bag on the floor the moment he entered the room. Without turning on the light or taking off his coat, he slumped onto the bed. He had told Jun he was tired — but the real exhaustion only settled in once he was alone.</p>
 
 <p>He rubbed the back of his neck and looked around the room, then, as if remembering, pulled the card Beau Beau had given him from his coat pocket. He tapped the corner of the card lightly against his lips while reading the brief description of the 'Late Blooming' gathering's purpose and website address, then leaned back and lay down.</p>
 

@@ -12,7 +12,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 ---
 <p>The group gathered at a café not far from The Hands numbered around ten people. There were those he had greeted at the last Christmas party, like Ben and Jun, as well as people he had seen a few times when he used to linger around The Hands, and people he was meeting for the very first time.</p>
 
-<p>Regardless, these were Yeehyeon's colleagues and neighbors who shared daily life with him in the same space, and since Liu occupied a seat here as Yeehyeon's lover, his own impression would inevitably affect Yeehyeon as well. For Liu, it was bound to be a tense gathering.</p>
+<p>Regardless, these were Yeehyeon's colleagues and neighbors who shared daily life with him in the same space, and since Liu occupied a seat here as Yeehyeon's lover, the impression he made on them was bound to reflect on Yeehyeon. For Liu, it was bound to be a tense gathering.</p>
 
 <p>After the simple meal — egg dishes and pancakes made from locally sourced ingredients — was cleared away and the main drinking session began, the artworks unveiled at the Pre-Opening party held that day naturally became the topic of conversation.</p>
 
@@ -26,7 +26,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"It seems like you're the one who discovered Yeehyeon, Liu-ssi? Ah, you fell for his work first?"</p>
 
-<p>A young man from Malaysia interjected, his eyes shining with curiosity behind his horn-rimmed glasses. He was dressed stylishly, likely popular among young people these days — and also the one who, immediately after being introduced to Liu, had pulled out his phone to ask if he had a social media account.</p>
+<p>A young man from Malaysia interjected, his eyes shining with curiosity behind his horn-rimmed glasses. He wore the sort of stylish outfit that went over well with young people these days. He was also the one who'd taken out his phone the moment they were introduced and asked Liu if he was on social media.</p>
 
 <p>"I didn't discover him... perhaps I should say Yeehyeon came to me? I was already drawn to him even before I knew he painted, so his work wasn't the catalyst... but then again, I already had affection for his work before I knew him, so it's not entirely wrong either... Hmm, come to think of it, we're connected by quite a complicated chain of coincidences."</p>
 
@@ -48,7 +48,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>As if disappointed by that, some people decided to gather together afterward. Most of them were members who frequently met in the shared second-floor living room at The Hands. Thanks to their enthusiastic prompting, Liu and Yeehyeon ended up swept along in the mood and joining them.</p>
 
-<p>At first, everyone treated Liu — an outsider and a colleague's lover — with courtesy and kept a certain distance. However, as the alcohol took effect and spirits rose, the conversation became livelier and bolder. This was partly due to Liu taking the initiative to break down the barriers and approach them. His easygoing, sociable manner was, of course, also an effort for Yeehyeon's sake.</p>
+<p>At first, everyone treated Liu — an outsider and a colleague's lover — with courtesy and kept a certain distance. However, as the alcohol took effect and spirits rose, the conversation became livelier and bolder. This was partly due to Liu taking the initiative to break down the barriers and approach them. His easygoing, sociable manner was a deliberate effort on his part. He wanted to make a good impression for Yeehyeon's sake.</p>
 
 <p>Who "charmed" whom first? Who confessed first? The nature of questions directed at couples doesn't vary much across cultures.</p>
 
@@ -60,9 +60,9 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Since Yeehyeon is somewhat introverted, you must have worried when he said he was moving far away."</p>
 
-<p>"Although he is introverted... that's not all Yeehyeon is. I believed he could adjust well and focus on his work. He's a person with a good center, unlike me."</p>
+<p>"Although he is introverted... that's not all Yeehyeon is. I believed he could adjust well and focus on his work. He's grounded in a way I'm not."</p>
 
-<p>"Ah... so you're saying being apart was harder on you than on Yeehyeon?"</p>
+<p>"Ah... so you're saying being apart was harder on you, Liu-ssi, than on Yeehyeon?"</p>
 
 <p>Someone interpreted Liu's reply in a teasing way, but since it wasn't entirely untrue, Liu felt no need to correct it.</p>
 
@@ -100,15 +100,15 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"This is nothing, really."</p>
 
-<p>"I wish Yuni nuna was here. She's a bit late."</p>
+<p>"I wish Yuni nuna was here. Nuna's a bit late."</p>
 
 <p>Yuni, who belonged to the operations team rather than being an artist, was scheduled to join after finishing the event cleanup. Liu gently cupped Yeehyeon's chin, which was turned toward the entrance, turning him to look at Liu, and shook his head.</p>
 
-<p>"If Baek Yuni was here, you'd be subjected to questions several times more malicious than this. She might go easy on Seo Yeehyeon, but she's ruthless with me."</p>
+<p>"If Baek Yuni was here, the questions would be several times worse than this. She might go easy on Seo Yeehyeon, but she's ruthless with me."</p>
 
 <p>"......"</p>
 
-<p>Yeehyeon paused, rolled his eyes, and nodded in agreement. His expression, a little too earnest, was endearing. As people had said, he seemed a bit drunk. A smile escaped Liu's lips as he looked at his slightly dazed face, all his reactions slower than usual. When Liu tapped the tip of his nose with the index finger that had been holding his chin, Yeehyeon smiled broadly, eyes crinkling. It was a smile powerful enough to make Liu's chest ache and stir deeply.</p>
+<p>Yeehyeon paused and glanced aside before nodding in agreement. His expression, a little too earnest, was endearing. As people had said, he seemed a bit drunk. A smile escaped Liu's lips as he looked at his slightly dazed face, all his reactions slower than usual. When Liu tapped the tip of his nose with the index finger that had been holding his chin, Yeehyeon smiled broadly, eyes crinkling. It was a smile powerful enough to make Liu's chest ache and stir deeply.</p>
 
 <p>His heart reacted anew at the realization that he was looking at Yeehyeon's actual face — not through a phone or laptop screen. This had happened several times over the past few days they had spent together. They had to part again before fully compensating for the time they had been apart, and this meeting was something Liu had anticipated all the more for it.</p>
 
@@ -128,7 +128,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Yeah."</p>
 
-<p>Despite his reply, Liu didn't pull his body away. He deliberately leaned his weight onto Yeehyeon's shoulder, pressing his entire body against him. This forced Yeehyeon's upper body to tilt, making him have to wrap his arms around Liu's shoulders just to support himself. While the action was playful, it was also an intimacy that would only pass between lovers — enough to draw protest from the group.</p>
+<p>Despite what he'd said, Liu stayed pressed against him. He rested his head on Yeehyeon's shoulder and deliberately leaned his full weight against him. Yeehyeon tilted under the weight and had to all but hug Liu around the shoulders to hold him up. It was playful, but it was also the kind of physical closeness only lovers would go for. That was enough to draw complaints from the group.</p>
 
 <p>"Hey, you two, could you separate a little?"</p>
 
@@ -150,7 +150,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Separate from my affection for Yeehyeon, I'm confident that my love for and understanding of his work is second to none. So I want to say I don't get jealous — and that would be the mature attitude — but... honestly, it bothers me. The communion shared through collaborative creation is something I can't experience with him."</p>
 
-<p>It was a brief answer, an attempt to be as honest as possible. Yeehyeon only took another sip of his drink without showing any distinct reaction. Liu lightly ruffled his hair, an attempt to hide his awkwardness.</p>
+<p>It was a brief answer, an attempt to be as honest as possible. Yeehyeon only took another sip of his drink without showing any distinct reaction. Liu lightly ruffled Yeehyeon's hair, an attempt to hide his awkwardness.</p>
 
 <p>"Ah, I shouldn't have asked. It's such the right answer it's starting to annoy me."</p>
 
@@ -158,7 +158,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"We've confirmed the affection, so tell me about the downsides of long distance. When you're apart, you get hurt over small things, and you start doubting each other even if contact goes quiet for just a moment. The intimacy issue is also something we can't honestly ignore."</p>
 
-<p>This time, Ben stepped in. He seemed to want to quickly throw the bait these spectators desired — the hardships of long-distance, the minor complaints they had about each other — and provoked Liu more directly. But Liu wasn't inclined to play along.</p>
+<p>This time, Ben stepped in. He prodded Liu more directly, as if urging him to toss the audience what they wanted and be done with it. Surely there was something hard about living apart, some little complaint they had about each other. But Liu wasn't inclined to play along.</p>
 
 <p>"I don't know about other people, but long-distance relationships have their own advantages. Because we miss each other so much, most minor problems don't even register as real issues."</p>
 
@@ -166,7 +166,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"And intimacy is a trivial matter compared to him building his career here."</p>
 
-<p>"Someone like that, on Wednesdays..."</p>
+<p>"Funny, coming from you. On Wednesday..."</p>
 
 <p>It was Jun again, interjecting with a muttered, sarcastic remark as if talking to himself.</p>
 
@@ -178,17 +178,17 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Wednesday was the day Liu had arrived a day earlier than planned. Despite his caution, it seemed Jun, who lived right next door, had faintly heard sounds of them being intimate.</p>
 
-<p>Someone brought up the story of a The Hands member who had broken up after a long-distance relationship. It seemed to be about someone everyone there knew well. While the topic briefly shifted elsewhere, Liu stood up, saying he was going out for a cigarette.</p>
+<p>Someone brought up the story of an artist at The Hands who had broken up after a long-distance relationship. It seemed to be about someone everyone there knew well. While the topic briefly shifted elsewhere, Liu stood up, saying he was going out for a cigarette.</p>
 
 <p>Yeehyeon, looking up as Liu left, seemed somewhat relieved — as if the teasing might settle down with at least one of them gone. Yeehyeon was by no means naive for his age, but he had a certain innocence in these matters. Liu could almost understand the group's desire to tease him a little. He offered a brief smile toward Yeehyeon and stepped outside the café.</p>
 
 <p>The temperature was slightly above five degrees Celsius, but it felt cool rather than cold. Under the narrow awning, Liu lit a cigarette and glanced back at the interior.</p>
 
-<p>He thought their overreaction probably stemmed from the fact that the person involved was Yeehyeon. They must have assumed Yeehyeon's relationships were the so-called "cool" type, characterized by minimal expression and little physical affection. That probability would only increase if Yeehyeon himself had consistently kept quiet about past boyfriends.</p>
+<p>He thought their overreaction probably stemmed from the fact that the person involved was Yeehyeon. They must have assumed Yeehyeon's relationships were the so-called "cool" type, characterized by minimal expression and little physical affection. That probability would only increase if Yeehyeon himself had consistently kept quiet about his boyfriend.</p>
 
 <p>As a fine mist veiled the street, lights began to flicker on, one by one. Liu felt the damp, cool air touch his skin and exhaled a long plume of smoke.</p>
 
-<p>His thoughts inevitably drifted to Yeehyeon's past situation, where he couldn't speak about having a boyfriend. The memory of their reunion remained vivid. So too did the sensation — a sudden chill down his spine — when Yeehyeon mentioned that a colleague in Hong Kong had shown interest in him.</p>
+<p>His thoughts inevitably drifted to Yeehyeon's past situation, where he couldn't speak about having a boyfriend. The memory of their reunion remained vivid. So too did the sensation — a sudden chill down his spine — when Yeehyeon mentioned that a colleague from Hong Kong who lived next door had shown interest in him.</p>
 
 <p><em>"I told him I had a boyfriend. I felt like I needed to draw a line. Was I lying?"</em></p>
 
@@ -242,7 +242,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"He's already retired and taking care of his health, so he's doing well now... but there's always the risk that his illness could suddenly worsen or that something more serious could develop. Michelle told me a few days ago that if that happened, she might have to return to England, even just temporarily."</p>
 
-<p>As their relationship deepened and Michelle became more precious to her, perhaps Michelle had judged it proper courtesy to share potential future events in advance.</p>
+<p>Perhaps Michelle felt that, now their relationship had deepened and Yuni meant so much to her, she owed it to Yuni to tell her what might lie ahead.</p>
 
 <p>Liu took one last, deep drag from the cigarette, which had already burned down considerably, and turned to dispose of the butt.</p>
 
@@ -264,11 +264,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Michelle cherishes you too... that's probably why she said that."</p>
 
-<p>He could only say that because he empathized with both Yuni's and Michelle's positions. Yuni, who had been focused on smoking for a moment, also seemed to grasp Michelle's true feelings.</p>
+<p>That was all Liu could say. He understood how both Yuni and Michelle felt. Yuni, who had been focused on smoking for a moment, also seemed to grasp Michelle's true feelings.</p>
 
 <p>She glanced at the sale items displayed in front of the flower shop across the street.</p>
 
-<p>"When I first moved here and struggled, Michelle helped me in so many ways. It wasn't just simple kindness — it made me feel like I wasn't alone even in a foreign place. If I can't be there for Michelle when she's having the hardest time... then I don't know what love means."</p>
+<p>"When I first moved here and struggled, Michelle helped me in so many ways. It wasn't just simple kindness — it made me feel like I wasn't alone even in a foreign place. If I can't be there for Michelle when she's having the hardest time... then what's the point of being in love?."</p>
 
 <p>Her final, quietly muttered sentence left a deep impression on Liu. It wasn't that he felt he had heard a clear definition of love. Such a definition probably couldn't exist. But hardly anyone would argue that being with someone during their hardest times wasn't love.</p>
 
@@ -276,27 +276,27 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>The man paid and walked away from the flower shop, the bouquet of mimosas tucked into his shopping basket.</p>
 
-<p>"Oh — Yeehyeon scolded me. Said I broke my promise not to tell you."</p>
+<p>"Oh — Yeehyeonie scolded me. Said I broke my promise not to tell you, Director."</p>
 
 <p>Suddenly brightening her tone, Yuni leaned over and nudged Liu with her shoulder. Liu smiled apologetically.</p>
 
-<p>"I understand how Yeehyeon feels, but... if my partner was sick so far away and I didn't even know about it, I think I'd be incredibly upset. That's why I told you. I just didn't expect you to pack your bags and get on a plane three hours later just because I said he had a fever."</p>
+<p>"I understand how Yeehyeonie feels, but... if my partner was sick so far away and I didn't even know about it, I think I'd be incredibly upset. That's why I told you. I just didn't expect you to pack your bags and get on a plane three hours later just because I said he seemed to be coming down with something."</p>
 
 <p>As she finished speaking, Yuni shot Liu a quick, sidelong glance.</p>
 
-<p>"I got scolded too. For overdoing it and changing my schedule over what turned out to be a common cold."</p>
+<p>"I got scolded too. For going to such lengths and changing my plans just because he was feeling achy and run-down."</p>
 
 <p>Liu rubbed one arm with the other and glanced briefly through the glass window. Yuni smiled, seemingly entertained. Then, with a lingering trace of amusement on her face, she lowered her gaze.</p>
 
-<p>"I don't know who objected more — you or Yeehyeon — when it came to him joining The Hands... but you seem to be getting along well again now, and I'm not trying to butt in and give advice, but... perhaps Yeehyeon was relieved when you arrived. At least, that's how it looked to me."</p>
+<p>"I don't know which of you objected — you, Director, or Yeehyeonie — when it came to Yeehyeonie joining The Hands... but you seem to be getting along well again now, and I'm not trying to butt in and give advice, but... perhaps Yeehyeonie was relieved when you arrived, Director. At least, that's how it looked to me."</p>
 
 <p>"......"</p>
 
 <p>Yuni seemed to believe that the reason Liu and Yeehyeon had been separated for a time was a conflict over Yeehyeon's transfer to The Hands. It was a completely mistaken assumption, but since it was just an assumption, she wasn't entirely certain either.</p>
 
-<p>"Don't take what Yeehyeon says too literally. He fundamentally doesn't want other people to suffer because of him. He tries especially hard not to cause trouble for those he cares about."</p>
+<p>"Don't take what Yeehyeonie says too literally. He fundamentally doesn't want other people to suffer because of him. He tries especially hard not to cause trouble for those he cares about."</p>
 
-<p>In the worst-case scenario at that time, if Yeehyeon had had to come here alone without Yuni, he surely would have been much lonelier. Believing herself to be the person who understood Yeehyeon most accurately, she had no intention of closing her ears to others' words. Yuni and Yeehyeon had spent over a year here, relying on each other and growing close. This advice, coming from her, was certainly worth considering.</p>
+<p>In the worst-case scenario at that time, if Yeehyeon had had to come here alone without Yuni, he surely would have been much lonelier. Liu had no intention of shutting out other people's words on the grounds that he understood Yeehyeon best. Yuni and Yeehyeon had spent over a year here, relying on each other and growing close. This advice, coming from her, was certainly worth considering.</p>
 
 <p>Liu remained silent, nodding thoughtfully. She sent him a brief smile.</p>
 
@@ -330,9 +330,9 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Maybe I shouldn't have stopped painting. Or maybe... I should have pursued photography more seriously instead of just keeping it as a hobby."</p>
 
-<p>Only then did Liu look down at Yeehyeon. Even while blinking slowly in his drunken state, Yeehyeon was listening intently with a serious expression. Liu released one of the arms holding his waist and swept the hair from Yeehyeon's forehead.</p>
+<p>Only then did Liu look down at Yeehyeon. Even while blinking slowly in his drunken state, Yeehyeon was listening intently with a serious expression. Liu slipped one arm from around Yeehyeon's waist and swept the hair from Yeehyeon's forehead.</p>
 
-<p>"You working with someone else. You painting other people, or other people owning your work — that makes me far more jealous than anything else. Me being jealous... Seo Yeehyeon doesn't care for that much."</p>
+<p>"You working with someone else — that makes me far more jealous than you painting other people or other people owning your work. Me being jealous... Seo Yeehyeon doesn't care for that much."</p>
 
 <p>Yeehyeon dropped his serious expression and let out a soft chuckle. Liu pulled him into a tight embrace as if to punish him, and spoke in an intentionally light tone.</p>
 
@@ -344,13 +344,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Yeehyeon, who had been fidgeting slightly in his embrace, spoke in a low voice.</p>
 
-<p>"You've always been a perfect supporter, even from the very beginning."</p>
+<p>"You've always understood me perfectly, even from the very beginning."</p>
 
 <p>"......"</p>
 
 <p>The presence in his arms sometimes left him speechless. Yeehyeon had a way of moving Liu that made him wonder how it was possible.</p>
 
-<p>Thinking of the definition of forgiveness that Jacques Derrida had once spoken of — which Yeehyeon had mentioned during a phone call — Liu ruffled the hair on the back of his head.</p>
+<p>Thinking of the definition of forgiveness that Jacques Derrida had once spoken of — which Yeehyeon had mentioned during a phone call — Liu ruffled the hair on the back of Yeehyeon's head.</p>
 
 <p>"Stop being so lenient with me. What happens if I start taking advantage of it?"</p>
 
@@ -366,25 +366,25 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Liu pulled Yeehyeon back to look at his face. He was clearly more intoxicated than Liu had ever seen him, yet he was earnestly striving to convey his thoughts clearly.</p>
 
-<p>As much as Liu had wanted to see him, Yeehyeon must have felt the same. Just as he had made a half-hearted proposal because he didn't want to confine him, perhaps Yeehyeon was enduring the time apart because he didn't want to interfere with Liu's life and work.</p>
+<p>As much as Liu had wanted to see him, Yeehyeon must have felt the same. Just as Liu had left his proposal open-ended because he didn't want to tie Yeehyeon down, perhaps Yeehyeon was enduring the time apart because he didn't want to interfere with Liu's life and work.</p>
 
 <p>Liu slowly shook his head from side to side.</p>
 
 <p>"Wh — why are you looking at me like that?"</p>
 
-<p>It was clearly difficult for Yeehyeon to speak anymore, and his pronunciation became slow and slurred again. Liu smiled, pressing his forehead against Yeehyeon's.</p>
+<p>Yeehyeon was finding it hard to speak clearly now, and his pronunciation became slow and slurred again. Liu smiled, pressing his forehead against Yeehyeon's.</p>
 
 <p>"Just because. Being together feels like a dream, and I love it."</p>
 
-<p>Rubbing his nose against the bridge of Yeehyeon's, he pressed his lips against his. He was reminded of their first kiss on the terrace at The Face's party — Yeehyeon, flustered and flushed by just a kiss, and the unfamiliar version of himself who had lost his usual composure, provoked by such clumsy reactions.</p>
+<p>Rubbing the tip of his nose against Yeehyeon's, he pressed his lips against his. He was reminded of their first kiss on the terrace at The Face's party — Yeehyeon, flustered and flushed by just a kiss, and the unfamiliar version of himself who had lost his usual composure, provoked by such clumsy reactions.</p>
 
 <p>After several brief touches — gently pressing and releasing the surface of their lips — he tilted his jaw to delve deeper. The sweetness of wine lingered on Yeehyeon's lips. It was cozy and warm; he didn't want to pull away.</p>
 
-<p>Yeehyeon's hands, which had been gripping his waist, moved up his back to cup his shoulders. Liu pulled his shoulders closer and stepped backward until his back hit the glass wall of the café. A damp chill seeped through his thin knit, but he didn't care.</p>
+<p>Yeehyeon's hands, which had been gripping his waist, moved up his back to cup his shoulders. Liu pulled Yeehyeon's shoulders closer and stepped backward until his back hit the glass wall of the café. A damp chill seeped through his thin knit, but he didn't care.</p>
 
 <p>Given the location, they didn't use their tongues. As Liu kissed Yeehyeon's sweet upper and lower lip in alternation, Yeehyeon also pursed his lips and enclosed Liu's. The moist, sweet sound of their lips pressing and separating tickled his ears.</p>
 
-<p>After holding and pulling each other's shoulders several times, Yeehyeon was the first to push Liu away. Keeping his gaze lowered, he covered his mouth with the back of his hand and dropped his voice.</p>
+<p>They kissed for a long while, shifting their hold on each other's shoulders to pull each other closer, before Yeehyeon finally pressed a hand to Liu's chest and eased him back. Keeping his gaze lowered, he covered his mouth with the back of his hand and dropped his voice.</p>
 
 <p>"Let's go inside. Awi's nose... is cold."</p>
 

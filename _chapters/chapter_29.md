@@ -16,7 +16,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"This is worse than I thought. Someone so meticulous about organizing materials."</p>
 
-<p>He muttered to himself as he opened the cabinet above the sink to look for the dripper and filter, scanning the interior that looked as if it had been bombed.</p>
+<p>Liu muttered to himself as he opened the cabinet above the sink to look for the dripper and filter, scanning the interior that looked as if it had been bombed.</p>
 
 <p>A considerable amount of time had passed since Yeehyeon left and could no longer help with household chores, and in the nearly two years since, Manager Han had yet to find a housekeeper that met her standards. With Phantom currently under construction, she was handling the household herself for the time being, but she knew she would need to hire someone new soon.</p>
 
@@ -36,9 +36,9 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Whether she realized it or not, Liu was also a resident of Korea who had grown accustomed to being constantly exposed to both high-quality and trivial information flooding his smartphone the moment he unlocked it. He used to use his phone as though it were a relic from the PDA era, but lately, he found himself picking it up far more often.</p>
 
-<p>He recalled Yeehyeon's studio, barely nine square meters, where books and art supplies were neatly stacked along the walls despite the limited storage space, and even the socks and underwear in the drawers were meticulously organized. He rubbed the ring on his left ring finger with his thumb and bent down again.</p>
+<p>Liu recalled Yeehyeon's studio, barely ten square meters, where books and art supplies were neatly stacked along the walls despite the limited storage space, and even the socks and underwear in the drawers were meticulously organized. He rubbed the ring on his left ring finger with his thumb and bent down again.</p>
 
-<p>He found the dripper abandoned inside a large salad bowl alongside a trivet, a small steamer, and Christmas tree ornaments. He rescued the dripper and, holding it alongside one of the ornaments, shook it by the tip.</p>
+<p>Liu spotted the dripper in a large salad bowl, where it had been left with a trivet, a small steamer, and some Christmas tree ornaments. He rescued the dripper and one of the ornaments, then held the ornament by one end and gave it a little shake.</p>
 
 <p>"Why is this in the kitchen cabinet?"</p>
 
@@ -46,7 +46,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Following Manager Han's exasperated request as she slumped onto the dining table, Liu placed the cane-shaped decoration back in its "proper" spot. About ten minutes after standing up from the table, he began brewing the coffee.</p>
 
-<p>As he poured water slowly in circular motions over the grounds in the filter, the aroma spread into every corner of the room. Unlike in the past, when he had felt uneasy with almost all scents due to his resistance to pheromones, he had recently begun to enjoy them little by little.</p>
+<p>As he poured water slowly in circular motions over the grounds in the filter, the aroma spread into every corner of the room. Unlike in the past, when his resistance to pheromones had made him uncomfortable with perfume and most other scents, he had recently begun to enjoy them little by little.</p>
 
 <p>That change had started with Yeehyeon's pheromones and his body scent, but if Yeehyeon hadn't accepted him, he wouldn't have had the leisure to find comfort in something as simple as the smell of coffee. No — it wasn't just about the smell of coffee.</p>
 
@@ -56,9 +56,9 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>But now, Liu could no longer condemn lovers who strove to have their affection confirmed by the other. If anything, he empathized with their feelings more than anyone else.</p>
 
-<p>He returned to the dining table with two cups of coffee and handed one to Manager Han, who was seated across from him.</p>
+<p>Liu returned to the dining table with two cups of coffee and handed one to Manager Han, who was seated across from him.</p>
 
-<p>Come to think of it, this very spot — right here at this dining table — was where he had first deliberately opened his pheromones to Yeehyeon. Back then, Manager Han had been sitting where Liu was now, and Yeehyeon had been sitting where Liu was now.</p>
+<p>Come to think of it, this very spot — right here at this dining table — was where he had first deliberately released his pheromones to Yeehyeon. Back then, Liu himself had been sitting where Manager Han was now, and Yeehyeon had been sitting where Liu was now.</p>
 
 <p>Recalling Yeehyeon from that time, shortly after they first met, made the corners of his mouth tingle. Liu brought the mug to his lips, trying to hide the unstoppable smile spreading across his face.</p>
 
@@ -72,13 +72,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He had been almost starting to feel anxious that some romantic incident might intrude between Choi Inwu and Yeehyeon. At the time, he certainly had no intention of admitting that, nor did he try to find out why.</p>
 
-<p>Recalling how he had casually warned Yeehyeon, sitting right there in that very spot, about Choi Inwu's flippancy and recklessness in romance — pretending it was offhand advice offered because he felt uneasy just watching — a hollow laugh escaped him, deflating him with disgust. He had been fortunate that Yeehyeon at the time was too inexperienced in romantic matters to recognize it as the ugly defensiveness of a jealous man.</p>
+<p>Recalling how he had casually warned Yeehyeon, sitting right there in that very spot, about Choi Inwu's flippancy and recklessness in romance — pretending it was offhand advice offered because he felt uneasy just watching — a hollow laugh escaped him, deflating him with disgust. He had been fortunate that Yeehyeon at the time was so oblivious about romance that he hadn't recognized it as the ugly defensiveness of a jealous man.</p>
 
 <p>"Here."</p>
 
 <p>"......"</p>
 
-<p>Manager Han interrupted his recollection by handing him a file across the dining table.</p>
+<p>Manager Han interrupted his recollection by handing Liu a file across the dining table.</p>
 
 <p>"It's the report Kwon Juhan submitted."</p>
 
@@ -88,9 +88,9 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"It's the audience age distribution for the top ten major art museums and galleries in Korea for the first half of last year. Flip past that and there are graphs tracking age group changes over the past five years."</p>
 
-<p>The report also included figures Juhan had gathered personally by leveraging his connections at several galleries surrounding Phantom, for which no official data had been released. The graphs, organized so that changes were immediately apparent, all indicated that people in their twenties were emerging as the primary exhibition visitors. While patrons over forty who held purchasing power were still the main art enthusiasts buying works, for mid-sized galleries of Phantom's scale, revenue generated from exhibitions — not just artwork sales — could not be ignored.</p>
+<p>The report also included figures Juhan had gathered personally by leveraging his connections at several galleries surrounding Phantom, for which no official data had been released. The graphs, organized so that changes were immediately apparent, all indicated that people in their twenties were emerging as the primary exhibition visitors. While art lovers in their forties and older still had the purchasing power, for mid-sized galleries of Phantom's scale, revenue generated from exhibitions — not just artwork sales — could not be ignored.</p>
 
-<p>This was something Liu and Manager Han had experienced firsthand, having spent the morning touring seven or eight small galleries in search of new artists.</p>
+<p>This was something Liu and Manager Han had experienced firsthand, having spent the day touring six or seven small galleries in search of new artists.</p>
 
 <p>Simply holding an exhibition at a particular gallery did not confirm an artist's affiliation. Especially recently, there was a growing trend — primarily among younger artists — to prioritize independent work rather than signing exclusively with a gallery. Gaining recognition within the established art world and raising their value by traditional means was not their priority.</p>
 
@@ -100,9 +100,9 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>When it first opened, Phantom was treated as an unconventional outlier with radical management principles, but the current Phantom existed on the boundary between the established industry that adhered to traditional gallery models and experimental projects.</p>
 
-<p>Neither this nor that — an ambiguous identity that couldn't fully belong to either side. Thinking that Phantom had perfectly mirrored his own life, Liu swallowed his coffee with a bitter smile.</p>
+<p>Neither this nor that — an ambiguous identity that couldn't fully belong to either side. Unable to deny how perfectly Phantom mirrored his own life, Liu swallowed his coffee with a bitter smile.</p>
 
-<p>Juhan's ambition to steer Phantom in a more flexible direction was clearly evident in the report. Within the document, he stated plainly where he wanted to go.</p>
+<p>Juhan's ambition to steer Phantom in a more flexible direction was clearly evident in the report. Within the document, Juhan stated plainly where he wanted to go.</p>
 
 <p>"If I'd known Kwon Juhan would finally pull himself together like this, I would have sent Yuni abroad sooner."</p>
 
@@ -110,7 +110,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Manager Han smiled contentedly and took a sip of coffee, then her expression shifted. She lowered her gaze and added quietly,</p>
 
-<p>"In a way, Juhan is the one most devotedly obsessed with Phantom. That's why I sometimes feel sorry for him, and even guilty..."</p>
+<p>"In a way, Juhan is the one with the most romanticized attachment to Phantom. That's why I sometimes feel sorry for him, and even guilty..."</p>
 
 <p>Liu agreed. Manager Han, who had been tracing the surface of her mug, lost in thought, suddenly looked up and met his gaze.</p>
 
@@ -120,7 +120,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"He wants to do it. Let him go ahead."</p>
 
-<p>After answering, Liu noticed her gaze lingering on him and raised his head.</p>
+<p>Liu was drinking his coffee when he noticed she was still watching him. He looked up.</p>
 
 <p>"Why?"</p>
 
@@ -140,11 +140,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>As if struggling to find the right expression, she furrowed her brow and scratched her cheek with her index finger, then suddenly let her shoulders drop and let out a small laugh.</p>
 
-<p>"Is this because Yeehyeon isn't here?"</p>
+<p>"Is this because Yeehyeonie isn't here?"</p>
 
 <p>Liu brought the mug to his lips and smiled at the question, delivered with a teasing lilt. But he didn't deny it either.</p>
 
-<p>It wasn't entirely wrong, but it wasn't the whole story either. Perhaps Liu had subconsciously begun creating emotional distance from Phantom ever since he approved Juhan's plan to open a café within the gallery — even before he had known that Yeehyeon agreed to take him back.</p>
+<p>It wasn't entirely wrong, but it wasn't the whole story either. Perhaps he had subconsciously begun creating emotional distance from Phantom ever since he approved Juhan's plan to open a café within the gallery — even before he knew that Yeehyeon had agreed to take him back.</p>
 
 <p>"You two have things sorted out now."</p>
 
@@ -152,19 +152,19 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Right?"</p>
 
-<p>Manager Han asked again, cautiously seeking confirmation, her gaze fixed on the ring on Liu's left hand. Liu nodded silently.</p>
+<p>Manager Han asked again, cautiously seeking confirmation, her gaze drifting toward Liu's left hand. Liu nodded silently.</p>
 
 <p>After returning from Paris late last year, there had been quite a stir among their acquaintances about the ring on his left ring finger. In Korea, it wasn't uncommon for even couples who hadn't formally promised marriage to exchange matching rings, so there had been plenty of speculation about whether Liu's ring was a simple couple's ring or something with a deeper meaning — but Liu had remained officially silent on the matter.</p>
 
 <p>The ring carried a meaning complicated to explain, and the process by which it had come to hold that complex meaning was no simple matter either.</p>
 
-<p>"I don't know about Director Liu, but I really want to work with Yeehyeon after he leaves 'The Hands.' I don't want him to return out of a sense of obligation to repay a debt — I want to assure him that Phantom is the team that will best understand and take care of his art."</p>
+<p>"I don't know about Director Liu, but I really want to work with Yeehyeonie after he leaves 'The Hands.' I don't want Yeehyeonie to return out of a sense of obligation to repay a debt — I want to assure him that Phantom is the team that will best understand and take care of his art."</p>
 
 <p>Liu pressed his lips together and slowly nodded. It wasn't so much agreement with the opinion itself, but a nod indicating that he fully understood Manager Han's feelings.</p>
 
-<p>"So treat Yeehyeon well. I don't want to lose him because of Director Liu's personal mistake."</p>
+<p>"So treat Yeehyeonie well. I don't want to lose him because of Director Liu's personal mistake."</p>
 
-<p>Hearing those words, Liu relaxed and smiled. A joke delivered without knowing the full context, yet it was enough to make his legs tingle.</p>
+<p>Hearing those words, Liu relaxed and smiled. A joke made without knowing the full story, yet it was enough to prick his conscience.</p>
 
 <p>Feeling that quite some time had passed, Liu checked his watch, picked up his cup — still about half full — and his plate, and rose from his seat. Manager Han's gaze followed him.</p>
 
@@ -196,21 +196,21 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Liu denied it with a laugh that suggested the idea was absurd, as if there were no lingering resentment between them — but by any measure, the atmosphere between the two was far from smooth.</p>
 
-<p>More than a year had passed since Inwu had told him about kissing Yeehyeon. Before he could even begin to feel jealous or confront Inwu about it, he'd had to focus entirely on Yeehyeon, who had just learned about the Changing. After Yeehyeon left for Paris, the emptiness and pain that followed had made jealousy over a kiss feel insignificant for a long time. Above all, considering what he himself had done, criticizing Inwu over a kiss felt utterly undeserved.</p>
+<p>More than a year had passed since Inwu had told him about kissing Yeehyeon. Before he could even begin to feel jealous or confront Inwu about it, he'd had to focus entirely on Yeehyeon, who had just learned about the Changing. After Yeehyeon left for Paris, the emptiness and pain that followed had made jealousy over a kiss feel insignificant for a long time. Above all, considering what he himself had done, Liu felt he had no right to criticize Inwu over a kiss.</p>
 
 <p>Sometimes they still went to a bar for drinks, just as they had before. Perhaps out of guilt, Inwu would occasionally bring good liquor or snacks to Liu's place. Yet there were still moments when seeing Inwu's face brought the kiss back to mind. The fierce rage that surged each time never seemed to fade, no matter how much time passed. Just as the fact that the man before him had kissed Yeehyeon couldn't simply vanish, no matter how many months elapsed.</p>
 
 <p>"I brought this on myself."</p>
 
-<p>Even Liu's attitude of admitting his fault and backing down in front of Manager Han didn't sit well with him. Suppressing the urge to sneer — <em>What, are you grandstanding about paying your penance?</em> — Liu took a step toward the door.</p>
+<p>Even Inwu's attitude of admitting his fault and backing down in front of Manager Han didn't sit well with him. Suppressing the urge to sneer — <em>What, are you grandstanding about paying your penance?</em> — Liu took a step toward the door.</p>
 
-<p>Manager Han shook her head with a sigh, as if watching two stubborn people arguing over nothing and refusing to give ground, then gave Liu a brief farewell and turned back toward the dining room.</p>
+<p>Manager Han shook her head with a sigh, as though watching two stubborn brothers giving each other the silent treatment after a petty argument, then gave Liu a brief farewell and turned back toward the dining room.</p>
 
 <p>"I heard you're leaving for Paris in a few days?"</p>
 
 <p>Liu, who had been reaching for the doorknob, turned around.</p>
 
-<p>"I didn't hear that from Yeehyeon."</p>
+<p>"I didn't hear that from Yeehyeon-ssi."</p>
 
 <p>Inwu pointed in the direction Manager Han had gone and added, as if making an excuse,</p>
 
@@ -218,35 +218,35 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"......"</p>
 
-<p>Hearing that definitive statement, Liu felt something in his chest ease slightly and cleared his throat.</p>
+<p>Hearing that definitive statement, Liu felt his heart soften a little, fickle as he was, and cleared his throat.</p>
 
-<p>"You should go for it. He'd be glad to see you. He's more broad-minded than I am."</p>
+<p>"Why don't you give him a call? He'd be glad to hear from you. He's more forgiving than I am."</p>
 
-<p>"Yeehyeon is practically a married man now..."</p>
+<p>"Yeehyeon-ssi is practically a married man now..."</p>
 
 <p>Inwu's gaze slanted toward Liu's left hand. This time, Liu curled his fingers lightly, touching the ring as if to protect it. As he was considering how much he could explain — that Yeehyeon bore no responsibility for this ring — while still standing at the entryway, Inwu hesitated before continuing.</p>
 
-<p>"If a male Alpha... who has a history of ambush-kissing my former partner keeps bothering me, I'd feel pretty bad too. Just pass along my regards."</p>
+<p>"If some guy—an Alpha, no less—had already kissed the person I was going to marry without warning and kept hitting on him, I wouldn't like it either. Just tell him I said hello."</p>
 
 <p>The eased feeling twisted more hideously than before, like a plastic bottle crushed firmly underfoot. Liu, who had been looking down at Inwu's shoes, swept his hair back and raised his head.</p>
 
-<p>"Were you planning on calling Yeehyeon and bothering him?"</p>
+<p>"So you were going to call Yeehyeonie and hit on him?"</p>
 
 <p>"......"</p>
 
 <p>Inwu's expression made it clear he realized his mistake too late. Liu knew that wasn't what he had meant to say. He couldn't help it — when it came to Yeehyeon, he became pettier and more confrontational than usual.</p>
 
-<p>"If that's the case, just stop contacting him altogether. I'll pass along your regards."</p>
+<p>"If that's the case, just keep it that way and don't call him. I'll pass along your regards."</p>
 
 <p>Once Liu stepped out the front door, he quickened his pace, making up for the time lost because of Choi Inwu.</p>
 </div>
 {% include scene-break.html %}
 <div id="section-2" class="hybrid-section" data-section="2">
-<p>Liu had already been in the dressing room for thirty minutes. After piling clothes on the bench sofa and agonizing over the choice, he had finally settled on a white shirt and dark gray sweater. Having stripped his upper body to change, he paused with his hand on the shirt and hesitated. He wasn't feeling it.</p>
+<p>Liu had already spent half an hour in the dressing room. After piling clothes on the bench and deliberating for ages, he'd settled on a white shirt and a charcoal sweater. Having stripped to the waist, he reached for the white shirt, only to pull his hand back. It didn't quite feel right.</p>
 
 <p>He went back to the innermost closet, where shirts were neatly arranged by color and material, and selected a new one — a black shirt in a soft, supple fabric that draped well against the body, with a wide collar that offered a subtle touch of style.</p>
 
-<p>Comfortable and warm was good, but he also wanted to look sexy. That wasn't something he could easily give up.</p>
+<p>Looking relaxed and warm was all very well, but he also wanted to look sexy. That wasn't something he could easily give up.</p>
 
 <p>He laid both tops side-by-side on the sofa, crossed his arms, and gnawed on his lower lip. After a moment of thought, he checked his wristwatch — it was time to make a decision.</p>
 
@@ -254,15 +254,15 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>But as soon as he stepped into the living room, he had to stop — struck by the sight of blue and white.</p>
 
-<p>Even though the painting had been hanging there for a month, every time he faced it, his breath caught as if he had been submerged in the sea. But the next moment, he realized he could breathe even underwater. It was a sea that accepted him, allowing him to move and float freely as he wished — just as he had imagined as a child, pretending to be a dolphin.</p>
+<p>The painting had been hanging there for a month, but every time he looked at it, his breath stopped as though he'd plunged into the sea. A moment later, he realized he could breathe underwater. The sea took him in and let him move and float however he liked, as though he'd become a dolphin the way he'd imagined as a child.</p>
 
 <p>The tiny surfer in the painting was not Yeehyeon, but Liu himself. The sea expanding infinitely beyond the canvas, enveloping the surfer, was Yeehyeon. At least, that was how Liu perceived it.</p>
 
-<p>Smiling, he crossed the living room, passed through the dining area, and entered the kitchen, having managed to fasten all but the top two buttons. He took a bottle of wine from the private refrigerator, which looked sparse with only a few bottles left. After a quick glance at the label, he grabbed the opener and a glass and set them next to the laptop already placed on the dining table.</p>
+<p>By the time Liu had crossed the living room with a smile, passed through the dining room, and entered the kitchen, he'd fastened all but the top two buttons. He took a bottle of wine from the nearly empty wine fridge, glanced at the label, and set it down with an opener and a glass beside the laptop he'd already put on the dining table.</p>
 
 <p>He checked his appearance one more time in the large bronze-framed mirror leaning against the wall as a decorative piece. He tucked the shirt hem into his pants and rolled the sleeves up to just below the elbows. Feeling he looked a bit too neat, he ran his fingers through his hair to muss it slightly. He even undid the third button, then muttered to himself that the intent was too obvious, and fastened it back.</p>
 
-<p>It was strange, but he always felt nervous when this time approached. Breathing felt strained, requiring a deliberate deep breath. Anyone who knew him would surely tease him, saying this look didn't suit him at all.</p>
+<p>It was strange, but he always felt nervous when this time approached. Breathing felt strained, requiring a deliberate deep breath. Anyone who knew him would tease him if they saw him this nervous over a date.</p>
 
 <p>Sitting down at the laptop, Liu opened the sweet but potent red dessert wine, poured it halfway into a glass, and took a few sips to quench his thirst.</p>
 
@@ -280,7 +280,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"But I couldn't see your face then."</p>
 
-<p>Unaware that the person on the other end was watching him through the camera at the top of the monitor, Liu kept leaning further forward, driven by the desire to see that face up close.</p>
+<p>It didn't occur to him that he was being watched from the other end, too, through the camera at the top of the laptop screen. He kept leaning forward, simply wanting a closer look at the face on the screen.</p>
 
 <p>"Have you lost a little weight?"</p>
 
@@ -288,17 +288,17 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Show me a little closer."</p>
 
-<p>Though they had a regular video call date every Friday night into Saturday midnight Seoul time — which was 5 p.m. in Paris — that didn't mean they never video called during the week. But due to their schedules and the time difference, long calls were usually difficult. Even sharing voice messages and photos throughout the day, the craving was rarely satisfied.</p>
+<p>Their regular video dates were at midnight on Fridays in Seoul, as Friday turned into Saturday. In Paris it was five in the afternoon. They called on video during the week too, but between their schedules and the time difference, they rarely had time for a long call. They heard each other's voices whenever they could and sent photos to share the ordinary details of their days, but none of it quite satisfied the longing.</p>
 
 <p>"Are you in 601 right now?"</p>
 
 <p>[Yes. I came here so I wouldn't be disturbed and could focus.]</p>
 
-<p>Remembering last week's date, which had to be cut short when Jun appeared from next door while they were deep in an intimate, heated conversation, the words made Liu smile silently as he reached beside the laptop for his wine glass.</p>
+<p>Yeehyeon's words reminded Liu of last week's date. Things had been getting steamy on the call, the two of them saying intimate things to each other, when Jun came over from next door and they had to cut it short. Liu smiled without a sound and felt beside the laptop for his wineglass.</p>
 
-<p>The studio Liu had prepared, located less than five minutes from The Hands, was called 601 by both of them. It had started as a way to distinguish it from Yeehyeon's own studio, but now it had become a fixed nickname. While it was literally Room 601, Liu also liked it because it felt like a secret code shared between lovers in a film — the ones who always rented the same room at a shabby hotel on the outskirts of the city for their clandestine meetings.</p>
+<p>Less than five minutes from The Hands was the studio Liu had set up. The two of them called it Room 601. At first, that was just to distinguish it from Yeehyeon's studio, but by now the name had stuck. It really was Room 601, and he liked that it sounded like a code between lovers in a movie who always booked the same room at a shabby hotel on the outskirts of town for their secret meetings.</p>
 
-<p>Yeehyeon mostly lived in his own studio, but spent one or two days a week resting or sketching at 601.</p>
+<p>Yeehyeon lived mainly in his own studio, but once or twice a week he spent some time at 601, resting or sketching.</p>
 
 <p>"Aren't you cold?"</p>
 
@@ -326,11 +326,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>[You know I work regularly. My daily output is consistent regardless of the exhibition schedule, so I'm not overexerting myself. It's also fun because this is my first time doing a collaborative project...]</p>
 
-<p><em>Hmm.</em> Liu's hand instinctively moved toward his wine glass. The ring on his left hand scraped against the glass with a faint friction sound. Out of habit, he rubbed it with his thumb before gripping the glass again.</p>
+<p><em>Hmm.</em> Liu's hand went to his wineglass without thinking. The ring on his left hand scraped faintly against the glass. Out of habit, Liu rubbed the ring on his left ring finger with his thumb before taking hold of the glass again.</p>
 
-<p>It was a relief that Ben, who had been suffering through a long slump and even considering leaving The Hands, had regained his creative drive — but it was also true that Liu had felt uneasy ever since Yeehyeon mentioned this collaboration last Tuesday.</p>
+<p>It was a relief that Ben had regained his creative drive after a slump that had gone on so long he'd even considered leaving The Hands. Still, the collaboration had been on his mind ever since Yeehyeon told him about it sometime around last Tuesday.</p>
 
-<p>[You said to talk to you about it first.]</p>
+<p>[You were the one who asked me to tell you about it, Director.]</p>
 
 <p>Though he had tried to be careful, perhaps his silence had lasted too long. Seeing Yeehyeon's crestfallen expression and hearing his voice through the screen, Liu put down his glass and quickly forced a brighter expression.</p>
 
@@ -344,17 +344,17 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>[That's why I didn't want to bring it up.]</p>
 
-<p>"No, I'm joking. I've been in the art world for years — you don't think I can't understand a collaborative project between people in a relationship?"</p>
+<p>"No, I'm joking. I've been in the art world for years — you don't think I can't understand a collaborative project between my partner and another artist?"</p>
 
 <p>Still not entirely convinced, Yeehyeon tilted his head and glanced sideways at the screen.</p>
 
 <p>"It's certainly welcome that your creative output is so strong, but I worry about you wearing yourself out. That's all. Since I... can't be there to look after you...."</p>
 
-<p>It wasn't entirely a lie. If he had been right there beside him, he wouldn't have worried this much.</p>
+<p>He really did worry about Yeehyeon. If he had been right there beside him, he wouldn't have worried this much.</p>
 
 <p>[I'm young and healthy.]</p>
 
-<p>"Right, Seo Yeehyeon — your self-management is something I should be learning from... I do trust you. I can't help worrying unnecessarily. I'll cheer you on, Seo Yeehyeon. I won't be jealous. Don't be upset, okay?"</p>
+<p>"Right, Seo Yeehyeon — your self-management is something I should be learning from... I do trust you. I can't help worrying unnecessarily. I'll cheer you on, Seo Yeehyeon-ssi. I won't be jealous. Don't be upset, okay?"</p>
 
 <p>When he spoke in that teasing, playful tone, Yeehyeon finally let out a soft laugh.</p>
 
@@ -362,33 +362,33 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Yeah, I know."</p>
 
-<p>Liu smiled at the interrupted, awkward grin that flickered across Yeehyeon's face on the screen.</p>
+<p>Liu smiled back at the smile that flickered across the screen as the video lagged.</p>
 
 <p>"I miss you."</p>
 
 <p>The words slipped out before he realized it — closer to self-muttering than a confession to Yeehyeon.</p>
 
-<p>Sometimes the simple fact that Yeehyeon wasn't beside him felt oddly unsettling, beyond mere emptiness. Even when accompanying Juhan and the younger staff for study sessions, or touring exhibitions with Manager Han, or socializing at tea parties and client dinners... he would suddenly feel anxious, as if he were wasting time and missing the most important thing.</p>
+<p>Sometimes, just being apart from him felt strange in a way that went beyond mere emptiness. He might be sitting in on a study session with Juhan and the junior staff in something like an advisory role, visiting exhibitions at other galleries with Manager Han, or making conversation over tea or a meal at a client's invitation. Then, out of nowhere, he'd feel anxious, as if he were missing what mattered most and wasting his time.</p>
 
 <p>[We'll see each other soon...]</p>
 
-<p>Yeehyeon rubbed his arm and lightly bit his lower lip. That characteristic expression of shyness only made Liu want to see him more.</p>
+<p>Yeehyeon rubbed his arm and lightly bit his lower lip. That familiar look of shyness only made Liu want to see him more.</p>
 
 <p>"Yeah, I know that too... but I still miss you."</p>
 
-<p>He didn't ask the nagging question — <em>Don't you miss me?</em> — because he knew that the desire to see him was certainly there within Yeehyeon as well.</p>
+<p>He didn't ask the question that would have sounded like pestering: <em>Don't you miss me?</em> He knew the feeling was there on the other side, too.</p>
 
-<p>"Today, Manager Han and I briefly discussed you."</p>
+<p>"Today, Manager Han and I briefly discussed Seo Yeehyeon."</p>
 
 <p>[About what?]</p>
 
 <p>"She was wondering what plans artist Seo Yeehyeon had for after leaving The Hands. Because right now, you're an artist any gallery would want to work with. Manager Han certainly feels that way too."</p>
 
-<p>Yeehyeon just smiled shyly, but neither Liu nor Manager Han thought he was obligated to return to Phantom after The Hands. Just as he had said when proposing, if Yeehyeon wanted to gain more experience both personally and as an artist, Liu himself would not make any gesture that might shake his resolve. Since they couldn't keep living like this, keeping their distance forever, Liu was also prepared to reorganize his surroundings and start a new life depending on Yeehyeon's next steps.</p>
+<p>Yeehyeon only smiled shyly, but neither Liu nor Manager Han thought he had to come back to Phantom after The Hands. As he'd said when he proposed, if Yeehyeon wanted more experience as a person and as a painter, Liu wouldn't do anything to shake his resolve. They couldn't keep living apart forever, and he was ready to put his affairs in order and start a new life depending on what his partner chose to do next.</p>
 
 <p>"She isn't asking outright, but... I can tell she's curious about what I did wrong to warrant such a gap. And about the ring, too."</p>
 
-<p>Looking at Yeehyeon's composed face as it nodded cautiously, Liu took another sip of wine to suppress the discomfort stirring in his chest.</p>
+<p>Watching that composed face nod cautiously, Liu took another sip of wine to quell the uneasiness in his chest.</p>
 
 <p>"I can't keep hiding this forever, and I don't think I should — but since it's not just my mistake being revealed, it's not an easy decision to make."</p>
 
@@ -414,19 +414,19 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>If it were his former self, he wouldn't have even agonized over whether to tell others what had happened between them. He would have justified it by saying it was a debt he owed Yeehyeon, and others had no business with it.</p>
 
-<p><em>I have no intention of grabbing everyone I meet and telling them like some kind of confession. But there are definitely people who have the right to know my cowardly side. And to confess that, I'd also have to reveal the heavy secret of being a Ghost. Without admitting both, there's no way to explain even half the meaning of this ring.</em></p>
+<p><em>I have no intention of going around telling everyone I meet as though it were part of introducing myself. But there are definitely people who have the right to know my cowardly side. And to confess that, I'd also have to reveal the heavy secret of being a Ghost. Without admitting both, there's no way to explain even half the meaning of this ring.</em></p>
 
-<p>[Let's save that conversation for when you get here. I'll think about it more too.]</p>
+<p>[Let's talk about it in more detail when you get here, Director. I'll think about it more too.]</p>
 
-<p>Since revealing the Changing would inevitably involve disclosing Yeehyeon's Omega transformation and its cause, his wishes had to take precedence over everything else. This wasn't something that could be resolved simply by faithfully playing the role of a repentant sinner — exposing his true self to those around him and accepting whatever judgment they passed.</p>
+<p>Admitting to the Changing meant inevitably disclosing that Yeehyeon was becoming an Omega and why. Yeehyeon's wishes had to come first. It wasn't enough to play the repentant sinner, laying bare what he was to the people he knew and taking whatever judgment they handed down.</p>
 
 <p>[Um... but.]</p>
 
-<p>Liu listened as Yeehyeon made a rare attempt to change the subject and brought the wine glass to his lips.</p>
+<p>Liu raised his wineglass to his lips and listened. It was rare for Yeehyeon to be the one to change the subject.</p>
 
 <p>[I am curious about the frequency of your masturbation, though.]</p>
 
-<p>The wine Liu had just swallowed sent him urgently pushing the glass away. Thanks to his quick reflexes — pulling the chair back in time — he managed to avoid staining his jeans, though a few drops hit the floor.</p>
+<p>Liu hastily shoved the glass away as he swallowed the wine he'd just taken a sip of. He pulled his chair back in time to save his jeans, though a few drops hit the floor.</p>
 
 <p>Lately, Yeehyeon had a habit of surprising Liu with unexpectedly bold statements. Yeehyeon becoming this daring even outside the reach of pheromones felt new, but thinking about it, it had been nearly two years since they first met. Yeehyeon had grown in that time, and couldn't be expected to forever be the type who blushed at his partner's lead. His original personality was reserved, but it wasn't dishonest or coy.</p>
 
@@ -434,7 +434,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>When Liu returned to his seat after wiping up the spilled wine with a tissue, it was hard to find any standard expression of seduction on Yeehyeon's face as he pressed the point once more — yet Liu could sense his shyness and his effort to be bold.</p>
 
-<p>Perhaps Yeehyeon was deliberately mustering courage because he didn't want to fill this moment with heavy topics. In moments like this, he was so endearing it left Liu completely speechless.</p>
+<p>Perhaps Yeehyeon had summoned a little extra courage because he didn't want them spending this time on heavy topics. At moments like this, Liu found him so endearing he hardly knew what to do.</p>
 
 <p>"Ah... if we go down that road, this call is going to run very long tonight."</p>
 
@@ -442,29 +442,29 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"I'll just say this much: lately, just looking at my left hand while masturbating makes me feel like I'm about to come."</p>
 
-<p>Liu held Yeehyeon's gaze on the screen and bit his lower lip. His rapidly beating pulse urged him to run.</p>
+<p>Liu held Yeehyeon's gaze on the screen and bit his lower lip. His racing pulse urged him to run to Yeehyeon.</p>
 
-<p>Liu drank his wine, and Yeehyeon drank from his mug — coffee, Liu guessed — and they simply stared at each other for a moment. Conscious of the tension and desire pooling between them across the distance, Liu refilled his now-empty glass.</p>
+<p>Liu drank his wine and Yeehyeon sipped what was probably coffee from his mug. For a moment they just looked at each other. Feeling the tension and desire gathering between them despite the distance, Liu poured more wine into his now-empty glass.</p>
 
 <p>His blood turned sweet as he tried to create an atmosphere for intimacy, as if Yeehyeon were right there beside him, close enough to touch. He wanted to approach him, to stroke his cheek, to convey how much he wanted to kiss him.</p>
 
 <p>He wasn't naive enough to misread what this moment of silence — right after managing to connect — truly meant.</p>
 
-<p>Liu stared intently at Yeehyeon, who was quietly but clearly conveying that he felt the same, and lightly bit his lip while stroking the ring.</p>
+<p>Yeehyeon was quietly but unmistakably letting him know the feeling was mutual. Liu held his gaze, stroking the ring, his lips moving as if to speak.</p>
 
 <p>"I want to smell your pheromones."</p>
 
 <p>[Me too....]</p>
 
-<p>Liu watched Yeehyeon — who spoke honestly despite hesitating — with heat in his gaze, and leaned his elbow on the armrest, letting his posture relax further.</p>
+<p>Liu watched Yeehyeon with a heated gaze as he hesitated but answered honestly. Then he settled back a little more, resting his elbow on the armrest.</p>
 
-<p>He calmly described exactly how he would kiss Yeehyeon, how he would take him to bed, how he would undress him, and what kind of caresses he would give him if Yeehyeon were here right now. He spoke in a low, even voice, fingertips brushing his own lips, as if discussing recent news.</p>
+<p>He calmly described what he'd want to do if they were together right now: how he'd kiss Yeehyeon, how he'd take him to bed and undress him, and the ways he'd want to caress him. He idly touched his lips as he spoke in a low, even voice, as though discussing a serious item in the recent news.</p>
 
-<p>Yeehyeon listened, occasionally looking down, biting his lip, or nervously gripping and releasing his mug, his expression momentarily perplexed. It was clear that strong pheromones were emanating from him.</p>
+<p>Yeehyeon looked a little flustered as he listened to Liu, lowering his eyes now and then, nibbling his lip, or gripping and releasing the poor mug. Restless as he was, he must have been giving off strong pheromones.</p>
 
-<p>A Golden wasn't just superior in pheromone defense — they could also emit powerful pheromones capable of breaking down another's defenses. But Liu was certain that even the pheromones exchanged between the most exceptional Golden Alpha and Golden Omega would not match the attraction between Yeehyeon and himself.</p>
+<p>Goldens could do more than defend themselves against pheromones. They could also release pheromones powerful enough to break down someone else's defenses. But even the pheromones the most exceptional Golden Alpha and Golden Omega could release toward each other wouldn't match the pull between him and Yeehyeon. Liu was certain of that.</p>
 
-<p>Whether that was the pull between Ghost and Didi, or grounded in love, or some combination of both, Liu could clearly feel his own pheromones breaking through his control and emitting irregularly even now, with Yeehyeon far away. Yeehyeon would be no different.</p>
+<p>Whether that was the pull between Ghost and Didi, or grounded in love, or some combination of both, he could clearly feel his own pheromones escaping his control and spilling out in irregular bursts even now, with Yeehyeon far away. Yeehyeon would be no different.</p>
 
 <p>For two young bodies desperately craving each other, a distance of nearly 9,000 kilometers was nothing short of cruel. Even just exchanging a few suggestive words with Yeehyeon — or simply recalling the scent of his pheromones — was enough to make his Alpha stir inside his jeans.</p>
 
@@ -478,13 +478,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>[......]</p>
 
-<p>On the screen, Yeehyeon slowly nodded while painfully twisting his lower lip with his finger.</p>
+<p>On the screen, Yeehyeon slowly nodded while painfully twisting his red lower lip with his finger.</p>
 
 <p>Liu stood, leaving the laptop and wine where they were, and moved to the bedroom. Knowing from experience that the call would drag on, he moved everything he needed — bottled water, cigarettes, a portable charger — to the nightstand beside the bed. He dimmed the indirect lighting and took off his jeans, tossing them over the sofa. He put the same care into setting the mood as he would when preparing for an actual night with Yeehyeon.</p>
 
-<p>He let out a hollow laugh at himself for getting ready for what was essentially a video call session with a lover far away — but without this, he knew he would have been checking in for flights to Paris every weekend. Even if Yeehyeon scolded him, even if an angry Yeehyeon treated him coldly, he felt he wouldn't have been able to stand it otherwise. He couldn't imagine how people managed long-distance relationships back when video calls didn't even exist.</p>
+<p>He let out a hollow laugh at himself for getting ready for what amounted to phone sex over video with his long-distance lover — but without this, he knew he would have gone back to checking in for flights to Paris every weekend. Even if Yeehyeon scolded him, even if an angry Yeehyeon treated him coldly, he felt he wouldn't have been able to stand it otherwise. He couldn't imagine how people managed long-distance relationships back when video calls didn't even exist.</p>
 
-<p>Stretching out his legs, he leaned back against the headboard, turned on the camera, and checked his appearance. At the same time, he initiated the call, imagining Yeehyeon burrowing into his bed in Room 601, eagerly anticipating the secret date about to unfold.</p>
+<p>Stretching out his legs, he leaned back against the headboard, turned on the camera, and checked his appearance. At the same time, he initiated the call, imagining Yeehyeon burrowing into Liu's bed in Room 601, eagerly anticipating the secret date about to unfold.</p>
 
 <p>After a brief wait, the screen showing his own face shrank and moved to the upper right corner, replaced by Yeehyeon's face. In the meantime, Yeehyeon had also moved from the table to the bed.</p>
 
@@ -496,9 +496,9 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Hmm? What is it... did you change clothes?"</p>
 
-<p>Yeehyeon was wearing a striped long-sleeved T-shirt with the sleeves rolled up a couple of times, but a white shirt collar had momentarily flashed near his neck.</p>
+<p>Yeehyeon had been wearing a striped long-sleeved T-shirt with the sleeves rolled up a couple of times, but a white shirt collar had momentarily flashed near his neck.</p>
 
-<p>[I borrowed yours... for a moment.]</p>
+<p>[I borrowed your shirt, Director... for a moment.]</p>
 
 <p>"Move the camera back a bit. Let me see properly."</p>
 
@@ -508,27 +508,27 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>[When I wear this... it feels a little like we're together...]</p>
 
-<p>Yeehyeon said it as if making an excuse, but there were sweaters and T-shirts in the wardrobe that would have been far more comfortable to wear in bed. If he wanted to feel like he was with Liu by wearing his clothes, there was no need for it to be an uncomfortable dress shirt. The impulse arose to ask a teasing question and see Yeehyeon flustered, but Liu swallowed it down with a dry gulp.</p>
+<p>Yeehyeon sounded as though he were making excuses, but there were sweaters and T-shirts in the wardrobe that would have been more comfortable in bed. If wearing something of his was enough to make them feel closer, it didn't have to be that uncomfortable shirt. The urge to ask a teasing question just to see Yeehyeon squirm came over him, but he swallowed it down.</p>
 
-<p>Just like how Liu had spent over thirty minutes picking out clothes before their video call date, the fact that Yeehyeon was conscious of how he appeared in Liu's eyes made him appear even more endearing.</p>
+<p>Liu had spent over half an hour choosing what to wear for their video date. Knowing that Yeehyeon, too, cared how he looked to him made him find Yeehyeon all the more endearing.</p>
 
 <p>Wearing the shirt with the top buttons undone, Yeehyeon tugged at the loose collar and buried his nose and mouth in the fabric.</p>
 
 <p>"It probably just smells like detergent and fabric softener."</p>
 
-<p>Though he spoke as if he felt no arousal in the current situation, off-screen Liu slid his hand between his own legs. He gripped and squeezed his rapidly hardening erection a couple of times, as if to restrain it, while keeping his eyes on Yeehyeon's image.</p>
+<p>He spoke as though none of this did anything for him, but out of frame, where Yeehyeon couldn't see, Liu slid a hand between his legs. He squeezed his rapidly hardening cock a couple of times as though to settle it, all the while watching Yeehyeon.</p>
 
-<p>[It's just... everything about you smells good.]</p>
+<p>[It's just... everything about you smells good, Director.]</p>
 
 <p>Liu couldn't really empathize with the psychology of being enthralled by the sight of his lover wearing his loose-fitting shirt. He didn't understand how anyone could be turned on by such a classic, obvious form of seduction. But there was a reason classics remained classics.</p>
 
-<p>He didn't feel a protective instinct toward Yeehyeon wearing his oversized shirt — it was closer to the sense of intimacy and belonging that came from sharing something he owned with another person.</p>
+<p>He didn't feel a protective instinct toward Yeehyeon wearing his shirt, loose around the body and too wide at the shoulders — it was closer to the sense of intimacy and belonging that came from sharing something he owned with another person.</p>
 
-<p><em>Seeing him relaxing in a space I use, wearing my clothes without hesitation — that's where the deep closeness came from. And there was a different kind of sexiness in that closeness than the tension or thrill of maintaining distance. I wanted him to belong to me a little more, to become mine more clearly. It felt like that had already been the case for a long time, even before I became conscious of it.</em></p>
+<p><em>Seeing him relaxing in the house where I'd been staying, wearing my clothes as if it were the most natural thing in the world—there was a deep intimacy in that. That intimacy was sexy in a different way from the tension or thrill of keeping a distance. I wanted him to be a little more mine. And I wanted it to be clearer still that I was his. I think it had already been that way for a long time, long before I recognized that feeling of belonging.</em></p>
 
 <p>"Just looking at you wearing that shirt, Seo Yeehyeon — I think I could come two or three times."</p>
 
-<p>Yeehyeon, perhaps taking it as an exaggerated joke, smiled with his eyes crinkling. Looking at Yeehyeon smiling with a large white pillow behind him, wearing that white shirt, a sudden, playful yet intimate curiosity arose in Liu.</p>
+<p>Yeehyeon's eyes crinkled in a smile. He must have thought Liu was exaggerating to make him laugh. Sitting there in the white shirt with a big white pillow behind him, he was still smiling when a look of mischief and private curiosity crossed his face.</p>
 
 <p>[So... how many times did you?]</p>
 
@@ -540,13 +540,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>[I won't.]</p>
 
-<p>Yeehyeon added softly that he knew Liu's libido well enough, his gaze subtly lowered as he fiddled with the hem of the shirt.</p>
+<p>Yeehyeon added softly that he had a pretty good idea of Liu's sex drive, his gaze lowering slightly as he seemed to fiddle with the hem of the shirt.</p>
 
 <p>"Just to be clear — yes, Alphas have a strong sex drive, but the reason I've been masturbating more lately is because I'm away from you. It's not simply a matter of libido."</p>
 
 <p>What he wanted was Seo Yeehyeon, not to satisfy some general urge. Liu stated this almost indignantly, and Yeehyeon smiled and nodded.</p>
 
-<p>[Then... since we've settled the average, just tell me the highest number of times you've come in a single session.]</p>
+<p>[Then... never mind the average. Just tell me the highest number of times you've come in a single session.]</p>
 
 <p>"Through masturbation?"</p>
 
@@ -554,7 +554,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"From when I got back from Paris until now?"</p>
 
-<p>His partner on the screen nodded vigorously, clearly enjoying cornering him like this. Liu had been struggling to suppress his urge to tease back — but here Yeehyeon was, putting him on the spot and finding it entertaining. It felt a little unfair, but honestly, he welcomed this kind of torment from Yeehyeon if it led somewhere.</p>
+<p>His lover nodded vigorously on the screen, apparently enjoying putting him on the spot. Liu had barely managed to resist the urge to tease him, and now he was the one being backed into a corner. It felt a little unfair. But honestly, if this was where Yeehyeon's teasing was headed, he was all for it.</p>
 
 <p>"Last week, after our date, I did it about six more times on my own."</p>
 
@@ -574,11 +574,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>It wasn't enough unless it was proper sex that lasted for hours — the kind involving caresses, foreplay, enduring the length and weight of Yeehyeon's body, penetration, and knotting repeatedly. Just stroking himself to climax resolved nothing. And he couldn't ask Yeehyeon to watch him masturbate until he was somewhat satisfied.</p>
 
-<p>"I'm not usually like this. I can manage with a typical Beta male's libido. But lately..."</p>
+<p>"I'm not usually like this. Most of the time I can keep my sex drive at about the same level as an average Beta male's. But lately…"</p>
 
 <p>[I know. It's because of me. That's why I don't mind. Quite the opposite, actually...]</p>
 
-<p>Now that Yeehyeon possessed systematic, near-professional knowledge about Alphas and Omegas, he would understand that Liu's current state was one of heightened arousal triggered by a specific Omega he was interacting with.</p>
+<p>By now, Yeehyeon had acquired a professional level of knowledge about Alphas and Omegas and would understand that Liu's heightened arousal was a result of his contact with one particular Omega.</p>
 
 <p>Yeehyeon's eyes, which had been cast downward as he trailed off, suddenly lit up with life as he met Liu's gaze again.</p>
 
@@ -586,19 +586,19 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Yes."</p>
 
-<p>Yeehyeon chuckled at the meek reply, cleared his throat several times, and rolled his eyes — buying time as he prepared to ask what he wanted to know.</p>
+<p>Yeehyeon chuckled at the meek reply, cleared his throat several times, and glanced around, buying time as he prepared to ask what he wanted to know.</p>
 
-<p>[Liu... have you ever had sex until you went completely soft on your own?]</p>
+<p>[Director—no, Kun... have you ever had sex until you went completely soft on your own?]</p>
 
 <p>"......"</p>
 
-<p>An unexpected question. Liu, not the type to be easily flustered, couldn't help but flinch back when he heard it. Especially because Yeehyeon's expression and tone made it clear this was genuine curiosity, not a sexual joke tossed out to heat things up.</p>
+<p>The question caught Liu off guard. He wasn't easily flustered, but he jerked back a little when he heard it. What threw him even more was that Yeehyeon's face and voice made it clear he was asking in earnest. It wasn't a dirty joke to get them both going before they started touching themselves.</p>
 
 <p>[I'm not trying to dig into your past...]</p>
 
 <p>"Of course I know that."</p>
 
-<p>Liu rubbed his chin, frowning. It wasn't common for Yeehyeon to ask about things like this first. He wanted to answer sincerely, but it required searching through a part of his life he had never been particularly conscious of.</p>
+<p>Liu rubbed his chin, frowning. It wasn't common for Yeehyeon to ask about things like this first. He wanted to answer sincerely, but it was something he'd gone through life without giving much thought to, so he had to spend some time searching his memory to give Yeehyeon an accurate answer.</p>
 
 <p>"Never."</p>
 
@@ -606,11 +606,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Not once."</p>
 
-<p>Yeehyeon, having heard it confirmed, let out a low hum and exhaled, sweeping his hair back with a thoughtful look. His hand paused behind his ear, and Liu could tell he was trying to suppress a spreading smile.</p>
+<p>Having asked again to make sure, Yeehyeon breathed out a soft “hm” and thoughtfully swept his hair back. His hand lingered by his ear after he tucked his hair behind it. Watching Yeehyeon try to hide the smile spreading across his face, Liu thought he knew what was going through his mind.</p>
 
 <p>It seemed his lover just wanted to confirm some kind of first. Liu lightly pressed his forehead against the top of the phone resting on his knee.</p>
 
-<p>"No one's pheromones have ever broken through my defenses."</p>
+<p>"Before you, no one's pheromones had ever broken through my defenses, either."</p>
 
 <p>[......]</p>
 
@@ -618,31 +618,33 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Liu glanced past the screen at the painting hanging on the wall opposite the bed.</p>
 
-<p>The painting that had comforted him when he was rigid with the alienation of being different from everyone else, and the owner of that painting — the one he had desperately wanted even at the cost of tearing down everything he had ever built about himself. And the one who had given him a second chance on those ruins by choosing a future with the broken version of himself.</p>
+<p>The painting that had comforted him when he was rigid with the alienation of being different from everyone else, and the man who had painted it — the one he had desperately wanted even at the cost of tearing down the identity he had devoted everything to building. And the one who had given him a second chance on those ruins by choosing a future with the broken version of himself.</p>
 
-<p>That painting and its owner were now within his sight. It wasn't luck that he had ended up holding onto them. Liu didn't believe in fate or destiny, but tracing the journey of how he had met his Didi and arrived here — piercing through a probability so slim it couldn't be calculated — the being before him defied explanation in ordinary language.</p>
+<p>The painting and the man who'd painted it were now within his sight. It wasn't luck that he had ended up holding onto them. Liu didn't believe in fate or destiny, but tracing the journey of how he had met his Didi and arrived here — piercing through a probability so slim it couldn't be calculated — the being before him defied explanation in ordinary language.</p>
 
-<p>The more they were together, the faster his pheromones grew potent. Not long after the first knotting, he reached a point where, once penetration occurred, he could no longer suppress the Changing by any means. That made it all the more necessary to tell him — because without doing so, there was no way to stop it.</p>
+<p>The more he was intimate with Yeehyeon, the faster Yeehyeon's pheromones grew stronger. Not long after the first knotting, he reached a point where, once penetration occurred, he could no longer suppress the Changing by any means. That made it all the more necessary to tell him — because without doing so, there was no way to stop it.</p>
 
 <p>A Beta who had so effortlessly breached the defenses that no Golden Omega had ever overcome.</p>
 
-<p>At the time, he hadn't realized it, but when under the influence of Yeehyeon's pheromones, he was a pure Alpha in rut. An Alpha stripped of reason and social graces, governed entirely by the instinct to mix pheromones with the Omega before him and fill his body again and again.</p>
+<p>He hadn't realized it then, but under the influence of Yeehyeon's pheromones, he was an Alpha in rut, through and through.</p>
+
+<p>An Alpha stripped of reason and everything he'd learned about how to behave, possessed by the instinct to mingle pheromones with the Omega before him and come inside him again and again.</p>
 
 <p>Even an Alpha who was ordinarily gentle, mild-mannered, and affectionate would prioritize instinct in rut. The same was true of an Omega in heat. It was the state that Betas found hardest to understand, and the form Liu himself had most wanted to avoid — the very thing he had never wanted to become.</p>
 
-<p>Yet, how was it that the moment he was overcome by his pheromones, he couldn't feel even the slightest discomfort?</p>
+<p>Yet, how was it that the moment he was overcome by Yeehyeon's pheromones, he couldn't feel even the slightest discomfort?</p>
 
-<p>In a way that no words could adequately explain, his lover still didn't quite grasp the absolute significance, the absolute meaning and influence, of Seo Yeehyeon — the first and the absolute. But what did it matter? He was prepared to repeat the story as many times as Yeehyeon wanted to hear it, for the rest of their lives.</p>
+<p>His lover still didn't seem to grasp what Seo Yeehyeon meant to him or how much sway he held over him. With him, everything was a first, and what he meant to him was absolute, beyond anything words could explain. But what did it matter? For the rest of his life, he was ready to tell him again whenever he wanted to hear it.</p>
 
 <p>"You were always wondering about things like that, lying there as if you didn't have the strength to lift a finger. Seo Yeehyeon."</p>
 
-<p>Liu bent toward the image in his hand and offered a mischievous smile.</p>
+<p>Liu leaned toward Yeehyeon on the screen and gave him a mischievous smile.</p>
 
-<p>[It's just... even right after knotting, you're always hard, so I wondered if you weren't satisfied...]</p>
+<p>[It's just... even right after knotting, Kun is always hard, so I wondered if you weren't satisfied...]</p>
 
-<p>Yeehyeon, avoiding his gaze while rubbing the back of his neck, was deliberately teasing him.</p>
+<p>Yeehyeon rubbed the back of his neck, his gaze averted. He was driving Liu wild. Was he doing it on purpose?</p>
 
-<p>"First things first — I'd like you to do something about the erection you've got going on. I don't know about you, Seo Yeehyeon, but I've been..."</p>
+<p>"First things first — I'd like you to do something about this erection I've got going on. I don't know about you, Seo Yeehyeon, but I've been..."</p>
 
 <p>Liu paused and angled his phone downward. He showed Yeehyeon the taut bulge pressing against the fabric of his briefs — his erection fully engorged, the shape of the head clearly visible through the cloth.</p>
 
@@ -654,7 +656,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"I want to put Seo Yeehyeon in this state too. What should I do?"</p>
 
-<p>Yeehyeon burst out laughing at the passive statement — as if Liu were ready to move however Yeehyeon wished. The vibration of that laugh seemed to resonate through Liu's own groin.</p>
+<p>Yeehyeon burst out laughing at the way Liu offered himself up, as if ready to do whatever he was told. Liu felt the vibration of that laugh go straight through his cock.</p>
 
 <p>[Hmm... undo the buttons on your shirt, please.]</p>
 
@@ -662,19 +664,19 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Leaning back more loosely, almost half-reclining, he slowly stroked his entire upper body while whispering to Yeehyeon on the screen.</p>
 
-<p>"I wish... you were on top of me right now."</p>
+<p>"I wish… you were on my stomach right now."</p>
 
 <p>[......]</p>
 
-<p>Liu's voice had already grown low and husky. He pushed the parted halves of his shirt further outward, increasing the exposure. He rubbed over the muscles of his abdomen — clearly defined with his slow, deep breaths — and confessed his desire to Yeehyeon.</p>
+<p>Liu's voice had already gone low and husky. He pushed the open sides of his shirt farther apart, baring more of himself. He ran his hand over his abs, their contours more pronounced with each slow, deep breath, and told Yeehyeon what he wanted.</p>
 
-<p>"I wish you would sit on my stomach... lean your upper body over my chest... and touch my face."</p>
+<p>"I want you to sit on my stomach… lean over my chest… and touch my face."</p>
 
-<p>Yeehyeon on the screen hesitated briefly, then bit his lip hard. He squeezed his thighs together as if fighting the urge to sink his teeth into that reddened flesh.</p>
+<p>On the screen, Yeehyeon's lips moved as if he were about to speak, then he bit down hard. Watching from the other end, Liu felt his thighs tense with the urge to suck on that reddened lip.</p>
 
-<p>Listening to their gradually syncing breaths, they focused on each other's image. Unlike actual sex, they could now edit and reveal only the parts they wanted to show. What was visible within the six-inch frame was the image Yeehyeon chose to show — which meant the Yeehyeon outside the screen was the part he wanted to hide. A part he wanted to hide, but one that would soon be revealed.</p>
+<p>They listened to each other's breathing grow uneven and kept their eyes on each other. Unlike when they were actually having sex, they could choose what to show and what to leave out. What fit inside that six-inch frame was what Yeehyeon wanted him to see. Outside it were the parts of himself he wanted to hide. What he wanted to hide, but would soon end up revealing.</p>
 
-<p>Yeehyeon's hand hesitated before moving toward his lips. Watching Yeehyeon pinch and twist the flesh between his fingers — just as Liu used to do for him — Liu stroked himself over his briefs off-screen. Even just slowly tracing the outline of his erection, taut as if ready to burst forward, made his hips arch with the desire for penetration.</p>
+<p>Yeehyeon's hand moved hesitantly to his lips. He caught his lower lip between his fingers and twisted it as if pinching it, the way Liu had done to him before. Watching him, Liu stroked himself over his briefs, out of frame. He ran his hand slowly over his cock as if to soothe it, though it stood so hard it looked ready to push through the fabric. Even that was enough to make his hips jerk, aching to be inside him.</p>
 
 <p>He held Yeehyeon's gaze and asked,</p>
 
@@ -684,21 +686,21 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>[It's not enough.]</p>
 
-<p>Hearing that petulant voice — a tone Yeehyeon rarely showed outside of sex — Liu groaned low and slipped his hand inside the waistband of his underwear.</p>
+<p>Hearing that almost pleading note in Yeehyeon's voice — a tone Yeehyeon rarely showed outside of sex — Liu groaned low and slipped his hand inside the waistband of his underwear.</p>
 
-<p>With Yeehyeon's body not here to kiss, caress, tease, and explore, there was nothing to do but the tedious act of directly stimulating himself. To even get hard, he didn't need friction — Yeehyeon saying a few words and smiling was more than enough. That was the real problem.</p>
+<p>With Yeehyeon so far away, Liu couldn't kiss him, stroke his skin, tease his nipples, or lick his ass and explore inside him. All he could do was go straight to the dull business of touching himself. He didn't even need to rub to get hard. A few words and a smile from Yeehyeon got him hard all too easily. That was the problem.</p>
 
 <p>"Have you ever watched the video we made together back then while doing this?"</p>
 
 <p>[......]</p>
 
-<p>Yeehyeon didn't answer, but his downcast eyes already confirmed it. Just picturing Yeehyeon turning to that video they had filmed long ago — replaying it to comfort himself — made Liu's pre-cum surge, wetting his hand as it ran down his length. He tensed his hips as if ready to thrust, but there was nowhere to drive into.</p>
+<p>Yeehyeon didn't answer, but the way he lowered his eyes said yes. Just picturing Yeehyeon playing the video they'd made so long ago to take care of himself sent pre-cum spilling down Liu's cock and over his hand. The muscles in his backside tightened as if he were about to thrust, but there was nowhere to put that force.</p>
 
-<p>"I want to kiss you... like last time."</p>
+<p>"I want to kiss you... like we did in that video."</p>
 
 <p>[Mm, hngh...]</p>
 
-<p>As if recalling the kiss scene in the video, Yeehyeon let out a low moan and winced. Then he pushed a knuckle of the finger that had been at his lip deep into his mouth. He was slowly coming undone.</p>
+<p>Yeehyeon moaned softly and frowned, perhaps remembering the kiss in the video. Then he slipped the finger he'd been twisting his lip with into his mouth, about as far as the first knuckle. His tension eased, and he slowly began to come undone.</p>
 
 <p>"Take your tongue out... and rub it."</p>
 
@@ -718,21 +720,21 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Can you hear it?"</p>
 
-<p>From below, where his hand rapidly stroked his cock, there was a wet, slick friction sound. It was obvious Yeehyeon could hear it — and even though Liu was deliberately adjusting pressure to create that noise, he pretended not to know and insisted on hearing it confirmed.</p>
+<p>A wet sound came from below the frame as his hand moved quickly, like someone splashing in a shallow puddle. Of course it was audible on the other end. Liu was deliberately varying the pressure of his hand to make that wet sound, but he pretended not to know and asked anyway.</p>
 
 <p>Yeehyeon glanced sideways at the screen and nodded.</p>
 
 <p>[Show me. I want to see it...]</p>
 
-<p>As requested, he turned the phone. His cock was hard enough to stand straight toward the ceiling without being held. He gripped the vein-raised base and slowly stroked upward toward the head. The sight of his hand pushing all the pre-cum that had been coating and running down his length back up toward the head was fully exposed on the screen.</p>
+<p>As requested, he turned the phone. His cock was hard enough to stand straight toward the ceiling without being held. He gripped himself at the base, where the veins stood out, and slowly stroked upward toward the head. The sight of his hand pushing all the pre-cum that had been coating and running down his length back up toward the head was fully exposed on the screen.</p>
 
-<p>Liu wanted to provoke Yeehyeon more. He wanted Yeehyeon to desire him more, to be captivated. It wasn't recklessness stemming from having nothing but his body — it was a desire to appeal through his sexual ability. Even while thinking it was a crude and vulgar approach, he couldn't stop. He wanted Yeehyeon to judge him as more worth wanting than anyone else around him.</p>
+<p>Liu wanted to tease Yeehyeon a little more. He wanted Yeehyeon to want him even more, to be drawn in by what he could do in bed. It wasn't as if his body was all he had to offer. And yet here he was, trying to impress his lover with how good he was in bed. He knew it was crude, but he couldn't help himself. He wanted Yeehyeon to find him more desirable than any other man around him.</p>
 
-<p>He knew Yeehyeon always glanced whenever he moved. Liu pulled his cock down until it pressed flat against his lower abdomen, then let it snap back. Each time it sprang up in an arc, pre-cum spattered. He even gripped the base and shook it more overtly. The overly heavy, long shaft bobbed sluggishly, and the sight of it heaving on screen looked even more obscene.</p>
+<p>Whenever his cock moved, Liu had seen Yeehyeon glance at it. He pulled it flat against his lower abdomen, then let it spring back. Each time it bounced in an arc toward his balls, pre-cum spattered. He even gripped the base and shook it more overtly. The overly heavy, long shaft bobbed sluggishly, and the sight of it heaving on screen looked even more obscene.</p>
 
 <p>Just the awareness that Yeehyeon was watching made his entire cock throb.</p>
 
-<p>He wondered what expression Yeehyeon had while watching this grotesque display. He adjusted the phone's angle to show from his groin upward. His own face wasn't clearly visible on screen, but he could see Yeehyeon's face — contorted, moaning. Yeehyeon had slid further down than before and was panting heavily.</p>
+<p>He wondered what face Yeehyeon was making as he watched this grotesque thing, this obscene show. He tilted the phone to frame himself from just below the groin up. His own face barely made it into the shot, but he could see Yeehyeon's face twist as he moaned. He'd slipped farther down and was panting heavily.</p>
 
 <p>By that point, all the buttons on the shirt had come undone, and his pale chest occasionally flashed between the parted fabric. Around Yeehyeon's nipples, there was a glistening slickness, as if they had been rubbed with saliva-coated fingers.</p>
 
@@ -748,7 +750,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Yeehyeon didn't answer, just shook his head. Even so, he kept glancing at the screen, unable to tear his eyes away from Liu's cock.</p>
 
-<p>"Yeehyeon-ah, show me."</p>
+<p>"Yeehyeon-ah, point the camera a little lower."</p>
 
 <p>[N-no... sob...]</p>
 
@@ -760,7 +762,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Yeehyeon turned his head to look at the screen. It seemed the phone was resting on his left knee, and the face visible on screen was nearly a profile view. An angle only possible if his legs were spread quite wide.</p>
 
-<p>Yeehyeon's face, looking at him through the lens, was flushed deeply red. His cheeks, lips, even the tip of his tongue that peeked out — all of it looked hot and wet, making Liu want to throw himself through the screen.</p>
+<p>Yeehyeon's face was flushed as he looked into the camera. His cheeks, his lips, even the tip of his tongue peeking out—all of it looked so hot and wet that Liu wanted to throw himself through the screen.</p>
 
 <p>"Show me."</p>
 
@@ -770,15 +772,15 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>The screen shook violently, like a video shot by a complete amateur in a panic. And at the scene that filled the screen a moment later, Liu swore and had to grip the base of his cock. His upper body lurched upward involuntarily.</p>
 
-<p>As if unable to fully expose himself, the camera — tilted diagonally from above — was trained on the space between Yeehyeon's legs.</p>
+<p>As if he couldn't quite bring himself to show everything, Yeehyeon angled the camera down at the space between his legs.</p>
 
 <p>Knees spread wide and leaning his upper body against a large pillow with his hips lowered, Yeehyeon had wrapped his arm around from the outside of his thigh and worked his middle finger inside his entrance.</p>
 
 <p>A slick sheen glistened against the dark hair, stark against his pale skin. His smooth lower abdomen rose and fell, and his reddened, swollen cock peeked out from between the parted shirt, giving an even more intimate impression. Because of the half-reclining position against the pillow, his erection lay pressed against his lower abdomen. The screen showed only that — the spread of his legs, and everything between them.</p>
 
-<p>[Hh... ahh, hah...]</p>
+<p>[Ngh... ahh, hah...]</p>
 
-<p>Yeehyeon's moans layered over the image on the screen, and Liu's pulse surged violently. His hand, gripping the base of his cock, made it throb and spill pre-cum.</p>
+<p>Yeehyeon's moans layered over the image on the screen, and Liu's pulse surged violently. His cock throbbed in his grip and spilled pre-cum.</p>
 
 <p>"Can you show me... more closely?"</p>
 
@@ -786,7 +788,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He knew the sensation Yeehyeon's fingers were exploring — the winding slickness of those inner walls, coated and clinging tight. He was beginning to feel jealous of Yeehyeon's fingers. He wanted to see more.</p>
 
-<p>"Yeehyeon..."</p>
+<p>"Seo Yeehyeoon..."</p>
 
 <p>He brought the phone up to his face, urging and pleading. Yeehyeon's face still wasn't visible, but his quickening moans only made Liu more desperate.</p>
 
@@ -794,7 +796,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Ah, Yeehyeon-ah."</p>
 
-<p>At the sound of Yeehyeon's strained voice calling out for him, the wide view on the screen suddenly zoomed in dramatically. This time it was extremely close — the tightly gathered folds inside and the movement of his finger joints were vivid, as if viewed up close. The sensation made Liu feel as if his face were pressed against Yeehyeon entirely, and he instinctively drew a deep breath.</p>
+<p>At the sound of Yeehyeon's strained voice calling out for him, the wide view on the screen suddenly zoomed in dramatically. This time it was extremely close — the tightly gathered folds inside and the movement of his fingers were vivid, as if viewed up close. Liu felt as if his face were pressed right up against the sensitive skin behind Yeehyeon's balls, and he instinctively drew a deep breath.</p>
 
 <p>The slick fluid seeping around Yeehyeon's fingers ran down the back of his hand, between his spread legs, and dripped onto the sheets. The sheer volume of it — as much as the pre-cum dripping from Liu's own cock — flowed endlessly, as if something inside had burst, as if something had gone wrong.</p>
 
@@ -804,7 +806,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>[Hah, hngh, Kun...]</p>
 
-<p>Yeehyeon's unseen face, calling out to him with that voice, made Liu feel like he was losing his mind — not from arousal, but because it sounded like Yeehyeon was desperate and in distress. He had no experience handling this level of arousal triggered by pheromones. He wanted desperately to do something for Yeehyeon's heaving, leaking body, but he was 9,000 kilometers away.</p>
+<p>Hearing Yeehyeon call for him from out of sight made him ache. He didn't yet have enough experience to know how to handle the unnatural intensity of the arousal the pheromones brought on. He wanted to do something for Yeehyeon, whose body kept jerking as he tried to hold back the slick spilling out of him. But he was 9000 kilometers away.</p>
 
 <p>"Yeehyeon-ah, I want to suck you."</p>
 
@@ -816,7 +818,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>[Do it... suck me... Awi, make it soft for me.]</p>
 
-<p>When they were together, Yeehyeon rarely asked for anything during sex. That was because Liu never left him still long enough to even voice a request.</p>
+<p>When they were together, Yeehyeon rarely asked for anything during sex. That was because Liu was usually there with a caress before Yeehyeon could even decide what he wanted.</p>
 
 <p>But phone sex was different. To reach climax with someone absent, they had to ask for impossible touches — and just by asking and receiving a response, imagining the other's tongue slipping into hidden places, they had to intensify their own pleasure. Liu, too, had to be satisfied with the mere fantasy of pushing away Yeehyeon's clumsy fingers and replacing them with his tongue, relentlessly targeting his most sensitive spot. For Alphas and Omegas governed by pheromones — whatever it was for Betas — it was torture.</p>
 
@@ -832,17 +834,17 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Me too... I feel like I'm already buried between Seo Yeehyeon's legs... Yeehyeon-ah, spread them wider. Let me inside..."</p>
 
-<p>Unable to suppress the surging instinct any longer, Liu propped himself up, set the phone on the mattress, and rose to his knees. He spread his legs wide, rested his hips on his heels, and wrapped his right hand around his cock. Like most Beta men, just stroking himself to climax wasn't enough to release the heat building inside him. To burn off even a little more energy, Liu looked down at the phone showing the space between Yeehyeon's legs and began thrusting his hips.</p>
+<p>Unable to suppress the surging instinct any longer, Liu propped himself up, set the phone on the mattress, and rose to his knees. He spread his legs wide, rested his hips on his heels, and wrapped his right hand around his cock. Stroking himself to climax the way most Beta men did wouldn't release enough of the heat building inside him. To burn off even a little more energy, Liu looked down at the phone showing the space between Yeehyeon's legs and began thrusting his hips.</p>
 
-<p>Yeehyeon pushed another finger inside. Watching the entrance yield softly, accepting it without any resistance, Liu licked his lips.</p>
+<p>Yeehyeon slid his index finger in alongside his middle finger. Watching the entrance yield softly, accepting it without any resistance, Liu licked his lips.</p>
 
 <p>[Ugh, mm... ngh...]</p>
 
-<p>As his moans deepened, they softened into something close to sobs.</p>
+<p>His moans dropped lower until they were almost sobs.</p>
 
 <p>Yeehyeon carefully spread his fingers inside, grinding his hips against the sheet. Milky, cloudy fluid leaked steadily from the entrance that stretched into a long horizontal oval. Liu clenched his left fist so hard his nails bit into the flesh, then collapsed his upper body onto the mattress.</p>
 
-<p>He wanted to drive his throbbing cock into Yeehyeon's narrow body and thrust until the bed gave out. His entire body felt bound by suffocating chains.</p>
+<p>He wanted to drive his throbbing cock into Yeehyeon's narrow hole and thrust until the bed gave out. His entire body felt bound by suffocating chains.</p>
 
 <p>The desire to enter Yeehyeon's body — now transforming into an Omega — the thirst to unite with his Didi, these hungers felt too profound to be described as mere sexual desire. It felt as intrinsically connected to life as the instinct to breathe. As if he would die if he couldn't reach him.</p>
 
@@ -860,7 +862,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>[Kun... Kuun... Hah, ugh, Awi...]</p>
 
-<p>Yeehyeon's voice, calling out to him as if he were in distress and not just aroused, made Liu feel like he was going mad. His cock was racing toward climax, yet at the same time his chest ached with a dull, throbbing pain.</p>
+<p>It felt as though Yeehyeon was calling for him because he was in trouble, in danger, rather than out of arousal, and it was driving him mad. He was fast approaching orgasm, but his chest ached at the same time.</p>
 
 <p>From somewhere beyond the screen, in a place he couldn't see, Yeehyeon seemed to have reached his climax — after which only a delicate, wavering moan persisted, barely continuous, threatening to break yet holding on softly for a while.</p>
 
@@ -876,7 +878,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>This time too, it was less a confession to Yeehyeon and more words that escaped his lips as the feeling welling up in his chest exceeded what he could contain. He couldn't even be sure if Yeehyeon, still writhing on the sheets in the afterglow, had heard the murmur.</p>
 
-<p>He picked up the phone, which had been lying face-up toward the ceiling, and angled the screen sideways so it reflected his face as he lay prone. Yeehyeon, resting on his side against the pillow, had apparently been watching him through the lens for some time.</p>
+<p>He picked up the phone, which had been lying face-up toward the ceiling, and angled the screen sideways so it reflected his face as he lay prone. Liu wondered how long Yeehyeon had been watching him through the camera, lying on his side against the pillow.</p>
 
 <p>"Was it good?"</p>
 
@@ -886,39 +888,39 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Hearing those words seemed to stir something deep in him; Yeehyeon bit his lip hard and lowered his gaze. Then, as if trying to change the subject, he brushed the hair clinging to his face aside and asked with a trace of a teasing smile.</p>
 
-<p>[Today... do you think you'll do it a few more times later?]</p>
+<p>[So... how many more times do you think you'll do it later today?]</p>
 
-<p>Though he was pretending his senses had returned after climax, his voice still held a faint tremor. Lying with his cheek against the sheets, Liu pushed himself up onto his elbows, propped himself there, and laced his fingers together, running them through his hair. He bit his lower lip and stared into space with narrowed eyes, as if lost in deep thought.</p>
+<p>Yeehyeon was pretending he'd recovered his composure, but his voice still trembled. Liu lifted his cheek from the sheets and propped himself up on his elbows, mussing his hair with his fingers. He bit his lower lip and squinted into the distance, pretending to think it over.</p>
 
 <p>"Hmm... I don't think I want to today."</p>
 
 <p>[Liar.]</p>
 
-<p>Liu stroked Yeehyeon's face across the screen as he laughed mockingly, clearly not believing him. It didn't matter if Yeehyeon took it as a joke. In fact, he hoped Yeehyeon wouldn't know the full extent of his loneliness. Knowing just enough to confirm affection was plenty.</p>
+<p>Yeehyeon laughed as if to say he didn't believe a word of it. Liu ran his fingers over Yeehyeon's face on the screen. He didn't mind if it was taken as a joke. In fact, he'd rather keep the full extent of his loneliness to himself. As long as Yeehyeon knew he was loved, that was enough.</p>
 
 <p>"We're meeting in a few days, so I'm going to practice abstinence starting today."</p>
 
 <p>[Ah... you don't have to. I won't tease you. It might not be good for your health either....]</p>
 
-<p>Watching Yeehyeon stiffening his expression in earnest — as if genuinely concerned about the level of desire that would be unleashed after a few days of abstinence — and trying seriously to talk him out of it, Liu felt an overwhelming urge to shower the screen with kisses. He was surprised at how naturally he was craving that kind of affection, the very sort he had once mocked as childish and overly dramatic.</p>
+<p>Watching Yeehyeon stiffening his expression in earnest — as if genuinely intimidated by the intensity of Liu's desire that would be unleashed after a few days of abstinence — and trying seriously to talk him out of it, Liu felt an overwhelming urge to shower the screen with kisses. He was surprised at how naturally he was craving that kind of affection, the very sort he had once mocked as childish and overly dramatic.</p>
 
-<p>Instead of confessing that even masturbation now felt like a self-flagellating confirmation that Yeehyeon wasn't beside him, he pushed past his shyness and self-consciousness, puckered his lips, and leaned in.</p>
+<p>Rather than admit that he didn't even feel like touching himself anymore because it only drove home how much it hurt not to have his lover beside him, he pushed past his embarrassment and self-disgust and stuck out his puckered lips.</p>
 
 <p>[......]</p>
 
-<p>Yeehyeon, realizing what was being asked for, buried his face in the pillow and let out a soft snort. Liu knew it was silly behavior that didn't suit him, but having decided to be childish anyway, he waited without giving up. Yeehyeon turned back to the screen, still smiling, rolling his eyes and clearing his throat a couple of times as if deliberating. Then he pursed his lips, leaned in, pressed them close enough to make a distinct smacking sound, and pulled back.</p>
+<p>Yeehyeon, realizing what was being asked for, buried his face in the pillow and let out a soft snort. Liu knew it was silly behavior that didn't suit him, but having decided to be childish anyway, he waited without giving up. Yeehyeon turned back to the screen, still smiling, glancing away and clearing his throat a couple of times as if deliberating. Then he pursed his lips, leaned in, pressed them close enough to make a distinct smacking sound, and pulled back.</p>
 
 <p>Out of embarrassment — or something else — he disappeared from the screen with a muffled little sound. Hearing his laughter from behind the pillow, Liu shook his shoulders and let out a laugh of his own. They were both aware this wasn't like them, but Liu justified it by thinking that this level of childishness, occasionally sneaking into a 9,000-kilometer long-distance relationship, was something they could be allowed.</p>
 
 <p>"Just so you know, I'm not going to let you sleep for an entire week. Actually, even if Seo Yeehyeon does fall asleep, I'm going to keep going."</p>
 
-<p>He declared this to Yeehyeon, who had returned to the screen, in a voice as puffed up as a child's.</p>
+<p>He declared this to Yeehyeon, who had returned to the screen, in the sulky voice of a child.</p>
 
 <p>For Liu, the number 9,000 kilometers wasn't a physical problem so much as an emotional one. Though it was more painful than he had anticipated, he always carefully phrased things so Yeehyeon would perceive it as the bittersweet longing that accompanies a long-distance relationship. Compared to the days when he had to secretly steal glimpses by flying back and forth to Paris every weekend, this was a bearable pain — a happy, dreamlike one worth embracing.</p>
 
 <p class="sub-chapter"><strong>· PARIS ·</strong></p>
 
-<p>The collaborative work proceeded in a relay format.</p>
+<p>They took turns working on the piece, like a relay.</p>
 
 <p>Without any prior planning, Yeehyeon had faced the canvas first, using a palette knife to cover its entire surface with a deep blue tone, emphasizing rough texture. Ben then collaged in photographs of night-sky clouds that he had graphically enhanced. As if they had agreed on a specific theme from the start, the deep indigo sea and the night sky blended harmoniously, pointing in the same direction.</p>
 
@@ -936,7 +938,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Within Liu's unconditional acceptance and understanding, he felt as if his past was being compensated for. The protection offered by someone who possessed life experience and convictions verified through that experience held a different kind of strength than the bonds shared with peers. If Liu hadn't pushed forward, albeit somewhat recklessly, he wouldn't have even considered painting again at that time.</p>
 
-<p>But the past — which was not his fault — could not be compensated for by Liu. Nor should it have been.</p>
+<p>But Liu wasn’t responsible for what Yeehyeon had been through. Yeehyeon couldn’t look to him to make up for it, and it would be wrong to try.</p>
 
 <p>Yeehyeon paused his brushstrokes for a moment, straightened his back, and walked over to the table by the entrance. He turned up the music playing through the Bluetooth speaker in the studio slightly, stretched for a moment, and drank his now-cold coffee.</p>
 
@@ -964,7 +966,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>And while painting it, he knew it was time to face Liu again, that he wanted it.</p>
 
-<p>Just as no special awakening is needed to realize hunger or the desire to sleep, just as no forceful power is required for a rosebud whose flower bud has matured to bloom — it happened quite naturally.</p>
+<p>Just as no special awakening is needed to recognize hunger or the need for sleep, just as a mature rosebud needs no outside force to bloom — it happened quite naturally.</p>
 
 <p>The clear sense of relief he had felt back then — when no doubt remained about his choices and it felt as though all residue had been cleanly purged — had not lingered in his head, but in his body, in his palms, his cheeks, his lips, and deeper inside. It was an experience that had become a part of him, rather than something that would vanish as a temporary phenomenon.</p>
 
@@ -972,7 +974,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>The music, which had seemed miles away while he was deep in concentration, gradually filtered into his ears. The introduction to the final track, "Diamond Dust," was just beginning. When Yeehyeon later told Liu about this coincidence over the phone, he had to struggle not to sound too excited.</p>
 
-<p>Only after cleaning up for about another thirty minutes did Yeehyeon finally leave the shared studio on the second floor. He hadn't meant to skip dinner, but having focused entirely on finishing the piece meant he had been locked in for a full seven hours. Some of his colleagues often stayed holed up in the studio for twenty hours straight when inspiration struck, but this was rare for Yeehyeon. Now that he was aware of the time spent, he felt a wave of exhaustion drain from his body.</p>
+<p>Only after cleaning up for about another thirty minutes did Yeehyeon finally leave the shared studio on the second floor. He hadn't meant to skip dinner, but having focused entirely on finishing the piece meant he had been locked in for a full seven hours. Some of his colleagues often stayed holed up in the studio for twenty hours straight when inspiration struck, but this was rare for Yeehyeon. Perhaps because he was now aware of how long he'd been working, he felt the strength drain from his entire body.</p>
 
 <p>"Seo Yeehyeon."</p>
 
@@ -982,13 +984,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Yeah. I finished the collaborative work with Ben today."</p>
 
-<p>Looking down at the flowers in her hand, Yuni offered the bouquet to Yeehyeon as if bestowing a favor, inviting him to smell them.</p>
+<p>When Yeehyeon glanced down at the flowers in her hand, Yuni held out the bouquet as if doing him a favor, inviting him to smell them.</p>
 
-<p>They were zinnias, faded pink — the same flowers that had decorated the terrace when Liu proposed.</p>
+<p>They were Jana roses, faded pink — the same flowers that had decorated the terrace when Liu proposed.</p>
 
-<p>Yeehyeon leaned down toward the simple bouquet, which was wrapped haphazardly in clear OPP plastic, the stems cut unevenly and tied with a ribbon, with no real attempt at proper packaging.</p>
+<p>Yeehyeon leaned down toward the simple bouquet, wrapped in clear OPP plastic with a ribbon tied around the ends of the cut stems — hardly any packaging at all.</p>
 
-<p>Yuni's smile didn't fade as she explained that Michelle had bought them for her after they passed a flower stall inside the subway station just before it closed, catching the last-minute sale while passing by on their date.</p>
+<p>Yuni couldn't stop smiling as she explained that Michelle had bought them for her during their date, when they passed a flower shop inside the subway station that was having a last-minute sale before closing.</p>
 
 <p>"They smell nice."</p>
 
@@ -1004,7 +1006,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"You do have a fever. It feels pretty high — did you not realize? You must have overworked yourself."</p>
 
-<p>"If I don't finish today, the exhibition schedule gets disrupted."</p>
+<p>"I had to finish it today to keep the exhibition on schedule."</p>
 
 <p>"One day won't be the end of the world. You're so diligent. Can you rest now?"</p>
 
@@ -1026,7 +1028,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"......"</p>
 
-<p>Yeehyeon lay sprawled across the middle of the bed with his legs dangling off the side, fiddling with his phone. He opened the messenger app and scrolled back through the conversations he'd had with Liu that day. Most of it was just routine daily reports or silly, sometimes childish banter, but reviewing it at the end of the day made him smile. The reality of being in a relationship with him — a long-distance one at that — was slowly building up, thread by thread, within the chat window.</p>
+<p>Yeehyeon lay sprawled across the middle of the bed with his legs dangling off the side, fiddling with his phone. He opened the messenger app and scrolled back through the conversations he'd had with Liu that day. Most of it was just routine daily reports or silly, sometimes childish banter, but reviewing it at the end of the day made him smile. The reality of being in a relationship with Liu — one filled with tender longing across the distance — was slowly building up, thread by thread, within the chat window.</p>
 
 <p>It was early morning in Seoul. If Phantom were open for business, this would be the time Liu was getting ready for work, but he was probably just waking up slowly now, about to start his day.</p>
 
@@ -1034,7 +1036,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>[Are you done with work?]</p>
 
-<p>The call connected instantly, as if Liu had been waiting. Yeehyeon covered his eyes with the back of his hand and smiled silently. Judging by how relaxed his voice sounded, he fortunately hadn't just woken up.</p>
+<p>The call connected at once, as though he'd been waiting. Still lying down, he covered his eyes with the back of his hand and laughed silently. The voice on the other end sounded completely relaxed, so thankfully it didn't seem like he'd just woken up.</p>
 
 <p>"Yes. I'm in my room now."</p>
 
@@ -1048,19 +1050,19 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He rubbed his eyes with the back of his hand and spoke slowly.</p>
 
-<p>[Don't worry if I don't contact you — just rest and sleep well.]</p>
+<p>[I won't worry if I don't hear from you, so don't worry about me. Get as much sleep as you need.]</p>
 
 <p>He found it amusing that Liu was telling him not to worry about Liu worrying, and he chuckled weakly while turning onto his side. Although Liu had urged him to sleep quickly out of consideration, Yeehyeon didn't want to hang up.</p>
 
 <p>"What were you doing?"</p>
 
-<p>It was a question that might sound perfunctory or formal from a stranger, but directed at someone you love, it became an expression of interest.</p>
+<p>It was a question that might sound perfunctory or merely polite, but when directed at someone you love, it became an expression of interest.</p>
 
 <p>Liu gave a very detailed report: he had started his day a little earlier than usual because of a strange dream, and to lift his spirits, he had made himself an English breakfast — even grilling two pancakes to go with it — and had just finished eating and was now drinking coffee.</p>
 
-<p>Since Liu seemed to be looking for praise for having made his own breakfast, Yeehyeon complimented him a few times. Moments like these, where the age difference became irrelevant and the fixed roles of older and younger reversed, were also part of the reality of being in a relationship. Imagining Liu bowing his head just slightly and himself stroking his hair, Yeehyeon muffled his laughter so Liu wouldn't notice.</p>
+<p>Since Liu seemed to be looking for praise for having made his own breakfast, Yeehyeon complimented him a few times. Moments like these, where the age difference became irrelevant and the fixed roles of older and younger reversed, were also part of the reality of being in a relationship. Imagining Liu bending forward so he could stroke his hair, Yeehyeon muffled his laughter so Liu wouldn't notice.</p>
 
-<p>"The pancakes you made were delicious."</p>
+<p>"Those pancakes you made me were delicious, Director."</p>
 
 <p>[I'll make as many as you want when we meet.]</p>
 
@@ -1078,15 +1080,15 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>[Sleep well. Dream of me.]</p>
 
-<p>Yeehyeon ended the call smiling, appreciating Liu's playful attempt to add a deliberate cheesiness to his voice.</p>
+<p>He was still smiling when he hung up, amused by the way Liu had deliberately put on that cheesy voice.</p>
 
 <p>Unlike Seoul, where morning was beginning, this place was deep in the night and utterly silent. Both inside the apartment and in the alley outside the window, everything was quiet.</p>
 
 <p>The feeling of sinking deep into the mattress, growing hazy in the stillness, was not entirely unpleasant. It was somewhat similar to the moment one succumbs to pheromones. Though he felt he could fall asleep at any moment, his insides were strangely unsettled. Pulling the blanket up to his shoulders and closing his eyes, Yeehyeon reached an arm out toward the shelf by his head.</p>
 
-<p>Among his everyday items — a few books he was currently reading, his wallet, wristwatch, keys, and the framed picture he had received from Suki Kim — he picked up the black leather case resting side-by-side and lay back down.</p>
+<p>He picked up the black leather case resting beside his everyday belongings — the books he was currently reading, his wallet, wristwatch, keys, and the framed picture he'd received from Suki Kim — and lay back down.</p>
 
-<p>Every time his left hand briefly flashed into view during their video calls, his gaze drifted to the ring. He had never mentioned it to Liu, but seeing the ring glistening on those long, straight fingers gave him a strange sense of satisfaction, fulfilling an urge of possessiveness and ownership he hadn't even known he had.</p>
+<p>Whenever Liu's left hand came briefly into view on their video calls, Yeehyeon's eyes went to the ring. He'd never said anything about it, but there was a strange satisfaction in seeing the ring glint on those long, straight fingers. It satisfied a desire to possess Liu, to have him all to himself, that he hadn't even known he had.</p>
 
 <p>No — he had been vaguely aware of these desires regarding Liu before. It was simply that Liu had always provided more than enough to satisfy them without ever needing to be asked or pressured, so there had been no opportunity to express them.</p>
 
@@ -1094,13 +1096,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>The love that had matured within him and the realm of dating — the method for expressing and exchanging that love — could seem to coincide yet function separately. It was strange that while their very existence was already deeply rooted in each other's lives, the form of their romance felt similar to that of couples just beginning their relationship.</p>
 
-<p>It wasn't the imbalance where one speeds ahead, focusing so intensely on the other that everything else falls away. It wasn't the blind anxiety of wanting to leap straight into deep connection, skipping all the in-between stages. It was a relationship where he wanted to know the small details of everyday life, carefully expressed jealousy, and yet — not simply to satisfy his own possessiveness, but willingly self-censored and restrained himself to be a faithful, understanding partner. This time, it was that kind of relationship.</p>
+<p>It wasn't the imbalance where one speeds ahead, focusing so intensely on the other that everything else falls away. It wasn't the blind anxiety of wanting to leap straight into deep connection, skipping all the in-between stages. It was a relationship in which he wanted to know the small details of everyday life, expressed his jealousy carefully, and willingly held himself back — not simply to satisfy his own possessiveness, but to become someone who truly understood his partner. This time, it was that kind of relationship.</p>
 
 <p>Liu had wanted to come here more often. It was Yeehyeon himself who had limited his visits to once a month, vowing not to let this relationship tear down his routine or his life. Most of the time, it was bearable, but sometimes it was incredibly difficult.</p>
 
 <p><em>"Even if you suddenly want to see me on a whim, I'll rush over right away."</em></p>
 
-<p>There were times he wanted to ignore the rule he'd set for himself — once a month — and summon Liu, using that old promise as an excuse. It was all the more tempting because he knew Liu would fly over instantly if he simply said he wanted to see him. The relationship with Liu was what made life here more vibrant than before, but the reason he felt an even deeper loneliness was the emptiness of Liu not being here. The physical ache of not being able to touch or hold him was, in some ways, far more potent and vivid than any abstract idea.</p>
+<p>There were times he wanted to ignore the rule he'd set for himself — once a month — and summon Liu, using that old promise as an excuse. It was all the more tempting because he knew Liu would fly over instantly if he simply said he wanted to see him. His relationship with Liu had made life here more vibrant than before, yet it was Liu's absence that left him feeling even lonelier. The physical ache of not being able to touch or hold him was, in some ways, far more potent and vivid than any abstract idea.</p>
 
 <p>In reality, he dreamed of Liu more often than he talked to him about it. He also couldn't tell Liu that sometimes he would sit alone in this room, gazing blankly at the ring in its case.</p>
 
@@ -1109,17 +1111,17 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 {% include scene-break.html %}
 <div id="section-3" class="hybrid-section" data-section="3">
 {% capture excerpt %}
-<p>I leave for Florence in three days. This was decided two weeks ago, after about a month of careful discussion. My family is deliberately creating a cheerful atmosphere, as if I were merely leaving for a vacation, saying Florence — now the capital of the Kingdom of Italy — will be a vibrant city. But they fail entirely to grasp the true nature of the changes unfolding, relying only on news that drifts across the sea, news they interpret in the ways that suit their palates, while they sit at tables by the lake in the garden of their English estate.</p>
+<p>I leave for Florence in three days. This was decided two weeks ago, after about a month of careful discussion. My family is deliberately creating a cheerful atmosphere, as if I were merely leaving for a vacation, saying Florence — now the capital of the Kingdom of Italy — will be a vibrant city. But there they sit, taking tea by the lake in the garden of their English estate, putting whatever favorable interpretation they please on the news that reaches them across the sea. They have no real grasp of the changes underway.</p>
 
 <p>Even if I am treated merely as a tool, hauled back and forth like luggage by train and carriage, they will no longer be able to keep pace with the sense of the political situation I am personally absorbing on the European mainland.</p>
 
-<p>Italian unification has not entered a stable phase. Exploitation of the southern regions has caused urban economies to stagnate across the board, leading to a buildup of discontent and resentment. One must conclude that there are no truly safe cities in Europe right now — not just Florence.</p>
+<p>Italian unification has not entered a stable phase. Exploitation of the southern regions has caused urban economies to stagnate in many parts of the country, leading to a buildup of discontent and resentment. One must conclude that there are no truly safe cities in Europe right now — not just Florence.</p>
 
 <p>Negotiations, breakdowns, and wars are relentless across Europe, creating an atmosphere of instability. Separately, a strange excitement and anticipation drift among the people, stirring the air. While trembling at the premonition that a massive change capable of overturning everything is imminent, the populace — the subjugated classes — secretly desire it deep down.</p>
 
-<p>Everything is changing. Except for the nobility, who are only concerned with maintaining their authority and wealth, the entire world was preparing and steeling itself to dive into the wave of change.</p>
+<p>Everything is changing. Except for me and my clan, and the nobility concerned only with maintaining their authority and wealth, the entire world was preparing and steeling itself to dive into the wave of change.</p>
 
-<p>But this time, I too will not remain silent and hand my fate over to their control.</p>
+<p>But this time, I too will not remain silent and place my neck in their hands.</p>
 
 <p>I received word that Erich's master's family had abandoned their estate and fled toward the Kingdom of Bohemia, where the mistress's ancestral home is located. Since this information was gathered from such a distant source, it wasn't entirely certain, but given the urgent circumstances, it was highly unlikely they could move while bringing all fifty or so servants along. They must have given most of the servants a few coins each and sent them off to reduce the scale of their escape.</p>
 
@@ -1127,23 +1129,23 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>However, I have no idea where he might have headed after breaking away from the group. I wonder if perhaps he, too, is currently searching for news of me.</p>
 
-<p>While I couldn't afford to pay large sums for information, rumors circulating among the common folk on the street were often faster, more grounded in reality, and more useful than the intelligence nobles paid for.</p>
+<p>One needn't pay a fortune for news. Word on the street sometimes travels faster, gives a truer picture of life on the ground, and proves more useful than the intelligence nobles pay for.</p>
 
 <p>If he heard about my current journey, perhaps there is a chance we might even meet in Florence. Now that I know what happened to his master's family, it is difficult to suppress such hopes.</p>
 
 <p>Yet meeting again is not the only way love is fulfilled. Nor does being apart mean that the love I hold for him ceases. Even if the time we shared is but a fleeting moment when viewed over the span of a lifetime, I don't need a lifetime to realize that he is the love of my life.</p>
 
-<p>That single, momentary encounter was enough to show me just how much he changed me and my life. It was a love that brought about a transformation akin to making blood flow within stone. I cannot simply dismiss it as a fleeting infatuation based only on the passage of time.</p>
+<p>That single, momentary encounter was enough to show me just how much he changed me and my life. It was a love that brought about a transformation akin to making blood flow within stone. I cannot simply dismiss it as a fleeting infatuation because our time together was so short.</p>
 
-<p>I have no fear that the plan will fail. My heart is already at ease, my resolve pure — so much so that I feel pathetic for having spent so long dragging my feet, acting like a gloomy victim instead of making this decision sooner.</p>
+<p>I have no fear that the plan will fail. My heart is already at ease, my resolve pure — so much so that I feel pathetic for having let them drag me along for so long while I played the miserable victim instead of making this decision sooner.</p>
 
 <p>I will no longer stand by as they erode and exploit my humanity. I don't aspire to become a hero who carves out a new destiny. If I cannot overturn the situation, I will stop this cycle, even if it requires a clean severance.</p>
 
 <p>In Florence, I should be able to obtain more accurate news concerning Austria. I might also be able to find someone to look into Erich's whereabouts for a price. In fact, now I only wish that the next two weeks would pass more quickly.</p>
 
-<p>Wherever he is, I can hear Erich's cry — <em>just live</em>. If he desires my survival, I will stubbornly endure. But now, it will be a choice, not resignation. A strategy to wait for an opportunity.</p>
+<p>I can hear Erich calling to me. <em>Wherever you are, just stay alive.</em> If he desires my survival, I will stubbornly endure. But now, it will be a choice, not resignation. A strategy to wait for an opportunity.</p>
 
-<p>His scent has not faded in the slightest. The heat of the blood yearning for him remains just as intense. There is not a shred of anxiety that perhaps his heart has cooled, that my scent has faded from within him. For a pessimist like me, that in itself was a miracle.</p>
+<p>His scent has not faded in the slightest. The heat of the blood yearning for him remains just as intense. There is not a shred of anxiety that perhaps his heart has cooled, that I and my scent have faded from within him. For a pessimist like me, that in itself was a miracle.</p>
 
 <p>I can be as certain as if he were whispering his heart to my ear and proving it with his scent. If this is because of the special bond between Didi and me, then I will no longer curse the body I was born into.</p>
 {% endcapture %}
@@ -1152,55 +1154,59 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 </div>
 {% include scene-break.html %}
 <div id="section-4" class="hybrid-section" data-section="4">
-<p>I opened my eyes to the feeling of hot liquid running from the corner of my eye to my temple. I was lying on my back, staring at the ceiling in my room at The Hands' studio. My body ached as if I had violently pushed through the wall of time to cross over into reality from some point in the past. I had to lie there for a while, collecting myself, just to regain my sense of reality.</p>
+<p>He opened his eyes when he felt something hot run from the corner of his eye to his temple. He was lying in his room at The Hands' studio, staring up at the ceiling. His body ached as though he'd forced his way through the wall of time, back into the present from somewhere in the past. He had to lie still for a while and collect himself before the room began to feel real again.</p>
 
-<p>It felt like I had dreamed of Erich and his Ghost, but I couldn't recall the details. Waking up in tears confirmed I had been dreaming right up until that moment, yet the memory had been completely erased.</p>
+<p>He thought he'd dreamed about Erich and his Ghost, but he couldn't remember the details. He'd woken in tears, so he must still have been dreaming right up to the moment he opened his eyes. The memory, though, had been wiped clean.</p>
 
-<p>Still, the emotion that had welled up so intensely — so much so that it had felt heartbreaking — remained vivid, making the area around my chest ache. I wondered if I had seen the scene of their final meeting in the dream; I desperately wanted to recall even that, but not a single hint remained, as if someone had intentionally wiped it clean.</p>
+<p>And yet the feeling that had swelled almost to heartbreak stayed vivid enough to make his chest ache. Had he seen their last meeting in the dream? He wanted desperately to remember even that much, but there was nothing left to go on, as though someone had erased it on purpose.</p>
 
 <p>"......"</p>
 
 <p>Yeehyeon turned his head at the sound of a quiet page turning. The back of a figure sitting against the bed came into view. He remembered Yuni coming by once to bring soup and medicine. But this was definitely not Yuni.</p>
 
-<p>Broad shoulders, a long, strong neckline, beautiful hair, and the clearly defined profile of a side view.</p>
+<p>Broad shoulders, the long, strong line of his neck, beautiful hair, the clear outline of his face seen at an angle.</p>
 
-<p>It felt so unreal — like a photograph from the past had been cut and pasted into the present — that I wondered if this was just an extension of the dream.</p>
+<p>It felt so unreal, like a photograph cut out of the past and pasted into the present, that he wondered if he was still dreaming.</p>
 
-<p>Holding my breath, I wiped the moisture from my eyes. I carefully reached my arm out from under the blanket and lightly touched the tips of his hair. The face — which stirred my emotions in an entirely different way — immediately turned around and offered a worried smile.</p>
+<p>He quietly wiped the tears from the corners of his eyes, then reached carefully out from under the blanket and brushed the ends of the man's hair. The face that stirred something in him in an entirely different way turned at once, wearing a worried smile.</p>
 
 <p>"You're awake?"</p>
 
 <p>"Did I... sleep that long?"</p>
 
-<p>My voice, which had been tightly shut while suffering from the fever, was hoarse.</p>
+<p>His throat was tight from the fever, and his voice came out hoarse.</p>
 
-<p>He was scheduled to arrive on Thursday evening. The last time we had spoken before I fell asleep was around midnight on Wednesday, Paris time. Assuming he arrived here on schedule, that meant I had been asleep for at least forty hours. He had said I might sleep for a long time, and it did feel like I had experienced an entire other life and woken up — but there was no way I had slept for a solid forty hours straight.</p>
+<p>Liu was due to arrive Thursday evening. Their last call before he'd fallen asleep had been around midnight as Tuesday turned into Wednesday, Paris time. If he'd arrived on schedule, that meant at least forty hours had passed while he slept. He'd said he might sleep for a long time, and it did feel as though he'd lived another life before waking. But there was no way he'd slept forty hours straight.</p>
 
-<p>Liu set down the book he had been reading and turned fully toward me, gently smoothing my hair back. He was wearing a plain black short-sleeved T-shirt. I had no sense of how long he had been here.</p>
+<p>Liu set down his book, turned fully toward him, and gently brushed Yeehyeon's hair back. He wore a plain black short-sleeved T-shirt. There was no telling how long he'd been here.</p>
 
 <p>"I came a day early."</p>
 
-<p>"Weren't you supposed to visit the coffee bean supplier with Juhan hyung?"</p>
+<p>"Weren't you supposed to visit the coffee bean supplier with hyung?"</p>
 
 <p>"It wasn't something so urgent that it couldn't be postponed."</p>
 
-<p>Liu gently covered my left hand, which had emerged from under the blanket, with his right, and stroked my cheek with the hand that had been touching my hair, as if checking my temperature.</p>
+<p>Liu gently laid his right hand over Yeehyeon's left, which had slipped out from under the blanket. With the hand that had been brushing back his hair, he stroked his cheek as if checking his temperature.</p>
 
 <p>"It's only one day... I'm fine..."</p>
 
 <p>"This time was an exception. It won't happen again."</p>
 
-<p>Liu pressed the fingers he had laced together, insisting that the fever still needed to come down more and that I could be angry once I was fully recovered. But Yeehyeon wasn't trying to be angry. Since he was the one who had decided on the long-distance relationship, he didn't want to disrupt Liu's life balance for a reason like this. He wasn't angry at Liu; he was angry at himself. He had paid more attention to his health than anything else precisely so he wouldn't cause worry. It upset him.</p>
+<p>Liu tightened his grip on their intertwined fingers.</p>
+
+<p>“Your fever still needs to come down. You can get angry with me when you're better.”</p>
+
+<p>But Yeehyeon wasn't angry with Liu. He'd been the one to choose a long-distance relationship, and he didn't want something like this to disrupt Liu's life. If anything, he was angry with himself. He'd been more careful about his health than anything else, precisely so Liu wouldn't have to worry. That was what upset him.</p>
 
 <p>"Let's eat something first. I made porridge — it just needs reheating."</p>
 
 <p>"Egg porridge?"</p>
 
-<p>When he asked that, picturing the porridge with carrots and zucchini that Liu had made him on the day he had hyperventilated at his apartment, Liu gave a bashful laugh and nodded. Right now, seeing that smile felt like it would be better for his health than any medicine.</p>
+<p>As he asked, he remembered the porridge with carrots and zucchini he'd been given the day he'd hyperventilated at Liu's place. At his question, Liu gave a sheepish laugh and nodded. Right now, just looking at that smile seemed like it would do him more good.</p>
 
 <p>"I'll eat in a little while. After I look at your face a little longer and hear your voice a little more..."</p>
 
-<p>Liu hesitated for a moment, but knowing Yeehyeon's desire to savor the reunion more than anything else, he didn't press him further.</p>
+<p>Liu hesitated for a moment. But he knew better than anyone that what Yeehyeon wanted most was a little time for it to sink in that they were together again, so he didn't press him to eat.</p>
 
 <p>"Why are you sitting on the floor?"</p>
 
@@ -1208,9 +1214,9 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Come up here."</p>
 
-<p>"I haven't seen you in almost a month and a half, and here we are, lying side-by-side in the same bed — was I really that restrained around you?"</p>
+<p>"It's been about a month and ten days since I last saw you. Do I really seem that well behaved to you… like I could lie next to you in the same bed and hold back?"</p>
 
-<p><em>Huh? Was I that bland to you?</em> Liu added teasingly, gently biting the fingers of the hand he held.</p>
+<p><em>Hm? Have I ever been that tame with you?</em> Liu added teasingly, nibbling Yeehyeon's fingers as he held his hand, gently enough that it didn't hurt.</p>
 
 <p>Yeehyeon let out a weak chuckle. Then, tightening his grip on their intertwined fingers, he gently pulled Liu closer. They hadn't seen each other for over a month, and now they were together. There was no need to explain in words or convey with their eyes how badly they wanted to touch each other.</p>
 
@@ -1218,31 +1224,31 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"......"</p>
 
-<p>He was sure his appearance must have been a mess from running a fever, but perhaps because of that very fever, his longing for Liu outweighed any sense of shame. Liu, looking down at Yeehyeon lying beneath him, turned his head, stirring his own hair, and muttered in a troubled voice.</p>
+<p>He must have looked like a mess from the fever, but perhaps because of that very fever, wanting him mattered more than any embarrassment. Liu looked down at Yeehyeon, then turned away and mussed his own hair, muttering in a troubled voice.</p>
 
 <p>"That's cheating. You know I can't resist your pheromones."</p>
 
 <p>"I still can't control them. I'm not doing it on purpose... so it's not cheating."</p>
 
-<p>The knowledge that Liu's defenses — which no one else had ever managed to breach — could be freely crossed by his pheromones alone stirred a surge of possessiveness and desire within Yeehyeon.</p>
+<p>No one else had ever breached Liu's defenses. Only Yeehyeon's pheromones could slip freely past them and leave Liu at a loss. The thought stirred a fierce possessiveness in Yeehyeon.</p>
 
-<p>Though he still couldn't sense his own pheromones, he had begun to distinguish the degree to which they affected Liu. Especially during intimacy, the process became vividly clear — how Liu would crumble and come undone under the influence of his pheromones, ultimately overthrown by his desire for Yeehyeon.</p>
+<p>He still couldn't sense his own pheromones, but he'd begun to recognize how they affected them both. It was especially clear during sex: he could watch Liu come undone under their influence until the desire for Yeehyeon seemed to overwhelm him completely.</p>
 
-<p>It wasn't just simple lust. Only his pheromones had the power to reduce Liu to that state.</p>
+<p>It wasn't just lust. Only his own pheromones could do that to Liu.</p>
 
-<p>Yeehyeon held Liu's gaze steadily, bold enough not to look away, and Liu — biting his lower lip while glancing sideways at him — let out a low hum, sighed, and climbed onto the bed. Even the groan the cheap mattress made under his weight sent a tremor through Yeehyeon's skin.</p>
+<p>Yeehyeon stared up at him without looking away, almost boldly. Liu glanced at him from the corner of his eye, biting his lower lip, then sighed and climbed onto the bed. Even the creak of the cheap mattress under his weight sent a shiver over Yeehyeon's skin.</p>
 
 <p>Though it was about the size of a semi-double, it was cramped for two grown men to lie side by side. For Liu, who was over 190 centimeters, even the length wasn't very generous. It felt like his toes would touch the metal frame at the end of the bed if he stretched out completely.</p>
 
-<p>He cautiously closed the distance and drew close beside Yeehyeon, slipping his arm under his neck to hold his shoulder. At the sensation of that hard, hot body pressed against his chest, Yeehyeon shivered as if feeling a chill. Perhaps mistaking it for cold, Liu hastily pulled the blanket over them both.</p>
+<p>He edged closer, slipped an arm under Yeehyeon's neck, and wrapped it around his shoulders. Yeehyeon shivered as though he'd caught a chill when that hard, hot body pressed against the side of his chest. Perhaps he thought Yeehyeon was cold, because he looked startled and hurried to pull up the blanket.</p>
 
 <p>"I missed you."</p>
 
-<p>Turning to face him, lying on his side, Yeehyeon looked at his face and conveyed it directly.</p>
+<p>Yeehyeon turned to look at Liu, who was lying on his side facing him, and told him exactly how he felt.</p>
 
-<p>The words "I missed you" had always been Liu's to say. Some people resolved their emotions through words, but others were the opposite. Yeehyeon had been afraid to say those words over the phone, as if doing so would cause a flood of complaints to spill out.</p>
+<p>Until now, “I missed you” had always been Liu's line. Some people got their feelings out by talking about them. For others, it worked the other way. Yeehyeon had been afraid to say it over the phone in case all his neediness and complaints came tumbling out.</p>
 
-<p>Liu said nothing for a long time, gently rubbing the shoulder he was holding while studying every part of Yeehyeon's face.</p>
+<p>Liu said nothing for a long time. He rubbed Yeehyeon's shoulder and studied every part of his face.</p>
 
 <p>"...I'm sorry."</p>
 
@@ -1250,43 +1256,43 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>If he had wanted Liu to live beside him in a submissive posture like a repentant sinner, he wouldn't have taken him back in the first place. Nor was it a conditional tolerance granted from a position of superiority, as if to say, <em>let's see how well you do from now on.</em> More than debating the true meaning of forgiveness, he just felt that a relationship structured so unevenly wouldn't work out. He couldn't ruin the future as well.</p>
 
-<p>Pulling his hand out from under the covers, Yeehyeon cupped Liu's anguished face. Watching him rub his cheek against his palm like a fragile animal, Yeehyeon kissed him. The lips, parched from the fever, parted with a dry, faint sound.</p>
+<p>Pulling his hand out from under the covers, Yeehyeon cupped Liu's anguished face. Liu rubbed his cheek against the palm like a fragile animal before Yeehyeon kissed him. Yeehyeon's fever-parched lips reluctantly drew away from Liu's with a dry little sound that almost tickled.</p>
 
-<p>At that single kiss, Liu's gaze immediately lost its composure and began to flicker. Yeehyeon knew he had been stirred by the rich scent rising from his chest and neck.</p>
+<p>At that single kiss, Liu's gaze wavered. The rich scent rising from his chest and the back of his neck told Yeehyeon how much the kiss had affected him.</p>
 
-<p>Tilting his head, Liu followed his lips and pressed against them more deeply. When Liu tried to push his tongue in, Yeehyeon twisted his head away. Liu gripped his jaw, extended his tongue, and licked Yeehyeon's lower lip.</p>
+<p>Liu tilted his head to follow Yeehyeon's lips, brushing his own more firmly against them. Yeehyeon turned away as Liu's tongue tried to slip between his lips, but Liu caught him by the chin and licked his lower lip as he spoke.</p>
 
-<p>"Don't run away. It only smells like your pheromones."</p>
+<p>"Don't turn away. All I can smell is your pheromones."</p>
 
 <p>"......"</p>
 
-<p>As soon as he finished speaking, Liu sucked deeply on his lower lip.</p>
+<p>As soon as he finished speaking, Liu sucked deeply on Yeehyeon's lower lip.</p>
 
 <p>"Ugh, yes. Mmm..."</p>
 
-<p>Yeehyeon writhed his shoulders and opened his lips to the exquisite pain he had longed for so much. Having taken Liu's tongue into his mouth, he could sense how hot his own mouth still was. He pulled with strong force on the arm holding his shoulder, filling his mouth entirely and entangling his tongue with Liu's as it moved within.</p>
+<p>At that sharp little pain he'd wanted so badly, Yeehyeon twisted his shoulders and parted his lips. As he took the tongue into his mouth, he realized how hot his own mouth still was. He tightened his hold on Liu's shoulder and pulled him closer, tangling his tongue with Liu’s, which filled his mouth and moved against his own.</p>
 
 <p>It didn't take long to cast aside the slight awkwardness and hesitation of meeting after a long time and desperately devour each other, rubbing their wet flesh together.</p>
 
 <p>Kissing was a direct exchange of pheromones, and he knew it acted as a command that could drive the other person into a higher intensity of arousal.</p>
 
-<p>Liu's scent — missed just as much as his body heat and touch — seeped into Yeehyeon's entire being, awakening his senses, not just his sense of smell. It wasn't a one-sided effect. The thought that his own scent was likely having the same effect on Liu made Yeehyeon burn even hotter.</p>
+<p>Liu's scent, which he'd missed as much as his warmth and touch, seeped through him, waking every sense. It wasn't one-sided. The thought that his own scent might be having the same effect on Liu made Yeehyeon burn hotter.</p>
 
-<p>"Hhh. Ugh... ah."</p>
+<p>"Hnghh. Ugh... ah."</p>
 
 <p>Liu's other hand, which had been stroking down his chest and stomach, slipped inside the T-shirt. Pushing the fabric up, his palm slid over Yeehyeon's bare skin — pressing down and sweeping across his chest — and the friction immediately caused his nipple to harden and tighten.</p>
 
-<p>Lying on his side and half-covering Yeehyeon, Liu shifted his knees between his legs, pressing his entire body even closer. Yeehyeon's left leg spread outward, and Liu's thigh rubbed against his groin. Liu's erection, already rigid, nudged just below Yeehyeon's hip. A hot warmth, as if steam were rising, transferred through his sweatpants and Yeehyeon's thin pajamas.</p>
+<p>Still lying on his side with half his body over Yeehyeon, Liu slipped a knee between his legs and pressed closer. Yeehyeon's left leg opened outward, and Liu's thigh rubbed against his groin. His cock was already hard, pressing into Yeehyeon just below his waist. Heat like rising steam seeped through his sweatpants and Yeehyeon's thin pajamas.</p>
 
-<p>Overwhelmed by the multi-layered stimulation all at once, Yeehyeon pushed Liu's tongue away and gasped for air. Liu looked down with slightly unfocused eyes from a distance so close their noses almost brushed. Each of his exhales seemed made of particles carrying his scent.</p>
+<p>Overwhelmed in an instant by everything he was feeling at once, Yeehyeon pushed the tongue away and gasped for air. Their noses were close enough to brush as Liu looked down at him, his eyes slightly unfocused. Every breath Liu let out seemed made up of tiny particles carrying his scent.</p>
 
-<p>Without separating their bodies, Liu moved up on top of him. It was a fluid motion.</p>
+<p>Without breaking contact, he moved on top of Yeehyeon in one smooth motion.</p>
 
 <p>Then he lowered himself, slipping under the covers, and brought his tongue to the nipple.</p>
 
-<p>"Hhh-ugh, ah."</p>
+<p>"Hngh-ugh, ah."</p>
 
-<p>Yeehyeon bit down hard on the thin skin of his own wrist and wrapped his other arm around Liu's neck.</p>
+<p>Yeehyeon nibbled at the thin skin on the back of his hand and curled his other arm around Liu's neck.</p>
 
 <p>Liu didn't just suckle the nipple — he engulfed the areola and the surrounding flesh, sucking and working it, while simultaneously pressing his torso, folded between Yeehyeon's legs, upward repeatedly. Slowly, creating supple curves as he did so.</p>
 
@@ -1298,35 +1304,35 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Liu sucked and pressed firmly around the areola, then drew his tongue out into a sharp point and flicked it. The tantalizing vibration of the plump flesh bouncing rapidly was almost unbearable.</p>
 
-<p>Yeehyeon let go of the wrist he had been biting and tangled his fingers in Liu's hair. Driven by the impulse to be sucked harder again, he bucked his hips, toes pushing against the sheet.</p>
+<p>Yeehyeon let the back of his hand slip from between his teeth and raked his fingers through the hair at the back of Liu's head. He wanted to feel that hard pull of Liu's mouth again, so badly he had to rock his hips and push against the sheet with his toes.</p>
 
-<p>"It — it tickles... stop that..."</p>
+<p>"It — it tickles... I don't like that..."</p>
 
-<p>It wasn't that he disliked it, exactly, but he didn't know how else to describe it. This kind of teasing that made his toes curl inward was harder to endure than strong pressure.</p>
+<p>It wasn't that he disliked it, exactly, but he didn't know how else to describe it. He felt it too intensely. The teasing touch that made his toes curl inward was harder to endure than strong pressure.</p>
 
-<p>From beneath the covers, he looked up, eyes wide. He couldn't tear his gaze away from Liu's excited face as he prodded and twisted his erect nipples.</p>
+<p>From beneath the covers, Liu lifted his eyes. Yeehyeon couldn't look away from that aroused face as Liu's tongue pushed his stiff nipples this way and that, bending them with each nudge.</p>
 
-<p>"Seo Yeehyeon's pheromones don't say they dislike it, though?"</p>
+<p>"Seo Yeehyeon's pheromones aren't saying he doesn't like it, though."</p>
 
 <p>"Hah!"</p>
 
-<p>Liu puckered his lips into a small circle and sucked the hardened tip in with a slight, sharp pressure.</p>
+<p>He pursed his lips into a tight circle and sucked just the hard tip into his mouth.</p>
 
 <p>"Ah... ah..."</p>
 
-<p>The force — hard to believe it was only lips — squeezed so tightly that a thrilling, dizzying pain arose. As the ticklishness was completely swept away by the intense pleasure that made his shoulders hunch, Yeehyeon held his head and thrashed, arching his whole body.</p>
+<p>It was hard to believe lips alone could squeeze so tightly. The pain was sharp enough to make him dizzy, and the pleasure made his shoulders draw in, wiping out the ticklishness altogether. Yeehyeon held Liu's head close as his body twisted and bucked.</p>
 
-<p>"Ah, ah..."</p>
+<p>"Ah, it hurts..."</p>
 
-<p>He wondered if the skin might have slightly torn. The nipple, released as Liu pulled his head back, was throbbing red to the point where he could feel a faint sting.</p>
+<p>Had the skin rubbed off a little? When he pulled back and let go, the nipple stood red and stiff, with a faint sting.</p>
 
-<p>As Yeehyeon pushed his hair back from his neck, he found himself looking down at his own nipple. Liu, still lying on top of him, pulled the T-shirt from the back neckline and stripped it off. Just seeing Liu's bare body made Yeehyeon's groin tighten even more, leaving him wet below.</p>
+<p>As Yeehyeon lifted his head, he found himself looking down at his own nipple. Liu, still lying on top of him, caught his own T-shirt by the back of the neck and pulled it off. Just seeing Liu's bare body made Yeehyeon's groin tighten even more, leaving him wet below.</p>
 
-<p>"Ugh... Nnnh..."</p>
+<p>"Ugh... Nnngh..."</p>
 
-<p>They struggled briefly as Yeehyeon grabbed Liu's wrist, trying to stop him from pulling down the pajamas. He needed to lose a little more control before he could show the soaked underwear — wet in the back, not the front.</p>
+<p>Yeehyeon caught the wrist reaching down to tug off his pajamas, and they struggled briefly. He'd have to lose a little more of his composure before he could let Liu see that his underwear was wet in the back rather than the front.</p>
 
-<p>Sliding up over his stomach and chest, Liu buried his lips in the nape of Yeehyeon's neck, showering him with small kisses as he moved higher. He gently nibbled along the jawline without hurting the bone, pressed kisses onto his cheeks, and finally, their lips met.</p>
+<p>Liu slid up over Yeehyeon's stomach and chest and buried his lips against his neck, leaving little kisses as he moved higher. He nibbled gently along the bone of his jaw, showered his cheek with kisses, and finally covered Yeehyeon's lips with his own.</p>
 
 <p>"Mmm. Mm..."</p>
 
@@ -1334,63 +1340,63 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"......"</p>
 
-<p>Stretching his arm as far as he could, Liu awkwardly pushed the pajamas down halfway to Yeehyeon's thighs, then broadly rubbed his palm over the underwear resting askew on his hip. His large hand stroked over Yeehyeon's cock and slid deeper inside, pressing and feeling around the area near his entrance over the fabric — gauging how wet he was.</p>
+<p>Reaching as far as he could, Liu pushed the pajama bottoms partway down to mid-thigh, then swept his palm over the underwear sitting askew on Yeehyeon's hips. That large, strong hand stroked over his cock and slid farther back, pressing and feeling around his opening through the fabric to see how wet he was.</p>
 
-<p>Yeehyeon reached out to grab his arm again, trying to stop him, but Liu sealed their lips, pouring more of his scent into the kiss.</p>
+<p>Yeehyeon caught his arm again, trying to stop him, but Liu covered his lips with his own, letting more of his scent spill into the kiss.</p>
 
 <p>"Haaah... ahh..."</p>
 
-<p>He couldn't help but surrender to the skillful caresses that kneaded his most sensitive flesh in various ways. No matter how much his body protested, he couldn't hide his pheromones — just as Liu had said.</p>
+<p>He couldn't help but surrender to the skillful caresses that kneaded his most sensitive flesh in various ways. However much he tried to push Liu away, he couldn't hide his pheromones — just as Liu had said.</p>
 
 <p>Liu's pheromones surged as well, growing stronger in waves. His violently rising excitement and desire reached Yeehyeon as a scent. They were equally unable to hide what they felt.</p>
 
 <p>Yeehyeon surrendered, returning the kiss and running his hands over Liu's bare shoulder and firm upper arm, which he hadn't held in so long. They locked eyes while playfully tangling their tongues together.</p>
 
-<p>"You photograph well, but... in person you're better. A hundred times more attractive in reality."</p>
+<p>"You look good on camera, too… but I like seeing you in person. You're a hundred times more handsome in person."</p>
 
-<p>Liu, looking down at Yeehyeon with eyes stickier than their tongues, then pressed his entire body down on him, holding him tightly. Yeehyeon knew he was struggling against an excitement and pheromones that were difficult to control.</p>
+<p>As he spoke, Liu looked down at Yeehyeon with eyes that seemed to cling to him more than his tongue did. For a moment he pressed down hard with his whole body, and Yeehyeon could tell that Liu was struggling to control his arousal and resist the pheromones.</p>
 
-<p>He pressed his lips down once more like a stamp, then pulled back and completely stripped Yeehyeon's lower half. Then, fumbling under the blanket, he carefully tucked his T-shirt beneath Yeehyeon's hips. This was because, unlike Room 601, Yeehyeon's bed didn't have a mattress protector.</p>
+<p>He pressed his lips firmly against Yeehyeon's once more, as if leaving a stamp, then drew back and stripped him from the waist down. He shifted around under the blanket to spread his own T-shirt beneath Yeehyeon's hips. Unlike his bed in Room 601, Yeehyeon's had no bedspread.</p>
 
-<p>Stripping off his own sweatpants to be completely bare, Liu slid one hand under Yeehyeon's lower back and lifted him slightly. With his other hand, he fumbled and placed the pants over the T-shirt again.</p>
+<p>He took off his sweatpants as well, leaving himself completely naked. Slipping a hand beneath the small of Yeehyeon's back, he lifted him a little and felt around with his free hand to spread the pants over the T-shirt.</p>
 
-<p>"It's going to flow... quite a bit."</p>
+<p>"Because… there's quite a lot leaking out."</p>
 
-<p>He smiled, his face slick with sweat. With the same hands carefully spreading the fabric so it wouldn't bunch up, he lightly brushed the cleft between Yeehyeon's hips, where arousal fluid was already pooling and running.</p>
+<p>He grinned, sweat running down his face. With the hand he'd used to smooth out the sweatpants and T-shirt so they wouldn't bunch up, he lightly touched the cleft of Yeehyeon's ass, where slick was already pooling and running down.</p>
 
 <p>"Mmm..."</p>
 
-<p>The mere knowledge that Liu was lifting his hips, preparing for the bodily fluids the coming sex would produce, caused a faint groan to escape Yeehyeon's lips. His body trembled so much that he instinctively covered his mouth.</p>
+<p>A faint moan escaped Yeehyeon's lips just knowing that Liu was lifting his hips and laying things beneath him for the wetness that would spill when they had sex. It made him tremble, and he covered his mouth without thinking.</p>
 
-<p>To prevent Yeehyeon's body from losing heat, everything was happening under the covers, unlike before. Even that seemed to make the moment more clandestine, drying Yeehyeon's mouth.</p>
+<p>Unlike before, everything was happening beneath the blanket to keep Yeehyeon warm. Even that seemed to make it all feel more secret, leaving his mouth dry.</p>
 
-<p>While constantly watching Yeehyeon with unsteady eyes, Liu made no move to rush. He wasn't trying to claim the reward for all their time apart at once.</p>
+<p>He watched Yeehyeon the whole time, his gaze unsteady, but never rushed. He wasn't trying to make up for all the time he'd spent holding back while they were apart all at once.</p>
 
 <p>"Ngh... ugh..."</p>
 
-<p>Liu slid his hand between Yeehyeon's hips and rubbed the slick area around his entrance broadly with his palm. With his hand thoroughly coated in arousal fluid, he cupped Yeehyeon's cock and stroked it long and hard from the base.</p>
+<p>He slid a hand between Yeehyeon's cheeks and rubbed the wet skin around his opening with the flat of his palm. Then, with his hand slick, he wrapped it around Yeehyeon's cock and stroked up from the base in one long sweep.</p>
 
 <p>"The blanket's going to get dirty, so just — "</p>
 
-<p>Worried about contamination from sweat and fluids, Yeehyeon tried to pull the blanket away, but Liu was firm.</p>
+<p>Worried that sweat and slick would get on the blanket, Yeehyeon tried to pull it away, but Liu was firm.</p>
 
 <p>"You have a fever, so no. I'll change it right after we're done."</p>
 
-<p>Bracing one hand on the outer side of Yeehyeon's arm, he leaned forward and shook his head. Then, bending his knees, he pressed his lower body against Yeehyeon's, encircling both sides of his hips with his widely spread thighs.</p>
+<p>He braced a hand beside Yeehyeon's arm, leaned down, and shook his head. Then he bent his knees and pressed his lower body close, his spread thighs fitting around either side of Yeehyeon's hips.</p>
 
-<p>It wasn't that Yeehyeon was worried about having to sleep under soiled blankets. Even so, he didn't try to delay things over that issue. They had already entered a state where such concerns felt trivial.</p>
+<p>It wasn't the thought of sleeping under a dirty blanket that worried him… but Yeehyeon wasn't going to dwell on it any longer. He was already too caught up in what they were doing for something like that to matter.</p>
 
-<p>Yeehyeon's legs draped over Liu's thighs, their most intimate parts pressed together with no gap between them. Yeehyeon exhaled as if expelling a breath, gripping the edge of the comforter that rose in a triangle, using Liu's back as a brace.</p>
+<p>Yeehyeon's legs rested over Liu's thighs, their most intimate parts pressed flush together. He let out a rush of breath and twisted his fingers into the edge of the blanket, which rose to a peak over Liu's back.</p>
 
 <p>"This bed... I don't think it can take the strain."</p>
 
-<p>Liu's expression was serious as he tested it, rocking his hips a couple of times. The bed, supported by a not-so-sturdy metal frame, groaned under even slight pressure.</p>
+<p>Liu looked serious as he rocked his hips a couple of times to test it. The flimsy metal bed frame creaked at the slightest pressure.</p>
 
 <p>"If we do this like usual, the people in the next room and the room below will hear everything."</p>
 
-<p>In the dim light provided only by a small reading lamp near the desk, Liu turned toward the wall with a troubled look.</p>
+<p>In the dim light provided only by a small reading lamp near the desk, Liu turned toward the wall with a troubled expression.</p>
 
-<p>Swallowing, Yeehyeon tossed off part of the blanket and wrapped an arm around Liu's, then began rocking his own hips shallowly. He could no longer stand the feel of Liu's cock pressed tightly between his legs, now naturally spread apart. He started to rub his groin against the unnaturally thick, hardened shaft, lightly brushing his slick inner thighs against it. Liu's facial muscles twitched as he looked down at Yeehyeon.</p>
+<p>Yeehyeon swallowed, let go of the blanket, and took hold of Liu's arm. He began rocking his hips in shallow movements of his own. He couldn't stand the feel of Liu's cock pressed tight between his parted legs any longer. He rubbed his groin against that hot, almost unnaturally thick, hard shaft, letting it slide over the slick skin behind his balls. A muscle in Liu's face twitched as he looked down at Yeehyeon.</p>
 
 <p>"Haa..."</p>
 
@@ -1400,71 +1406,71 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He reached his arm down, grasping his own cock. Then, positioning the head, he kissed Yeehyeon.</p>
 
-<p>"You know what happens to both of us if we go any further. It won't end at a volume the next room and the room below can just barely hear."</p>
+<p>"You know what happens to both of us if we go any further. It'll be more than just the people next door and downstairs who hear us."</p>
 
-<p>Yeehyeon had no choice but to agree. Once proper penetration and friction began, he was effectively in a rut — perhaps even more powerfully dominated by pheromones than during a typical rut. Unless physical force intervened, he absolutely could not stop without reaching climax, including knotting. If he were an Alpha in rut, it would end there, but he was Ghost, driven into a state of heat stimulated by Didi's pheromones. His knotting would inevitably include a Changing.</p>
+<p>Yeehyeon couldn't disagree. Once he was fully inside and began to move, it was as though Liu had gone into rut. Maybe the pheromones that took hold of him were even stronger than in an ordinary rut. Unless something physically forced him to stop, he couldn't stop until he'd knotted and come. For an Alpha in rut, that would be the end of it. But he was a Ghost aroused by Didi's pheromones. His knotting inevitably meant Changing too.</p>
 
-<p>Yeehyeon was the same — growing unusually insistent on knotting and bold in his actions, like an Omega in heat. Once they were both in a state of greedily clinging to each other, refusing to let go, neither of them would spare a thought for the noise that might carry to the surrounding rooms. Furthermore, The Hands' apartment was even more susceptible to sound than Room 601.</p>
+<p>Yeehyeon was the same. Like an Omega in heat, he wanted to be knotted with an intensity that surprised him, and he grew bolder. Once they were both grabbing at each other, greedy and unwilling to let go, neither would give a thought to who might hear the sounds they made. And sound carried even more easily at The Hands than at Room 601.</p>
 
-<p>His blood, instincts, and entire body were demanding the deepest possible union with Liu, but he had no choice but to do as Liu suggested.</p>
+<p>His blood, his instincts, his whole body were crying out to be as close to Liu as he could get, but he had no choice but to go along with the suggestion.</p>
 
 <p>Yeehyeon slowly stroked Liu's arm and nodded. The head of his cock, which had been circling the entrance, began to slide in softly.</p>
 
-<p>"Uuugh... Mmph..."</p>
+<p>"Unnngh... Mmph..."</p>
 
 <p>Yeehyeon's moan, as if protesting a dull pain, was like a low, small cry. As soon as the head made contact with his entrance — completely wet and soft — that cry sharply rose and then abruptly cut off. Yeehyeon covered his mouth and opened his eyes wide.</p>
 
 <p>Liu licked his lips, then leaned his upper body in further, kissing the back of Yeehyeon's hand as if to soothe him.</p>
 
-<p>Yeehyeon's heart pounded. The thickness and heat of the head pushing into the soft inner walls, that presence sinking into the thick arousal fluid, felt overwhelmingly distinct.</p>
+<p>Yeehyeon's heart pounded. He could feel the thickness and heat of the head pressing into his soft flesh, the unmistakable presence of him pushing inside and sinking into the slick wetness.</p>
 
 <p>"Mhmm... Ah."</p>
 
-<p>But penetration did not go any deeper. Once the head reached the spot stimulating that place deep inside him, Liu's hand caught at the entrance — he was gripping the middle of his cock to prevent pushing in further.</p>
+<p>But he went no deeper. Once the head pressed against that sensitive spot inside Yeehyeon, the hand Liu had wrapped around the middle of his cock met the opening, stopping him from slipping any deeper by accident.</p>
 
 <p>Movement began — quietly, deliberately.</p>
 
-<p>Liu's thrusting was cautious, in stark contrast to his usual intensity. Even so, the mattress and the floorboards creaked with a slight delay. Though the noise was still within an ordinary range, they exchanged glances and held their breath every time a sound occurred. Being in a place that wasn't a typical private residence like Room 601 made them even more conscious.</p>
+<p>Liu moved his hips far more carefully than in his usual wild thrusting. Even so, the mattress creaked and the floorboards answered a moment later. It was still the sort of noise you might hear any day, but every time it happened they caught each other's eye and held their breath. Here, unlike in a private apartment like Room 601, they were even more conscious of the noise.</p>
 
-<p>The need to control their bodies and suppress moans because of the constraints of the location only made their arousal more acute. It felt as if Liu's cock, repeatedly entering and withdrawing, was leaving distinct marks on the inner wall.</p>
+<p>Having to restrain their movements and stifle their moans because of where they were only heightened the pleasure. Each time Liu slid in and drew back, it felt as though his cock were leaving a distinct imprint against Yeehyeon's inner walls.</p>
 
-<p>Every time Liu's hips pulled back and then drove forward, the hand gripping his cock would catch at the entrance with a soft stop. While Yeehyeon longed to swallow him deeper — to the point where he would be completely surrendered to the influence of the pheromones — he also found this restriction novel.</p>
+<p>Each time Liu drew back and thrust forward again, the hand around his cock caught against Yeehyeon's opening, stopping him short. Yeehyeon wanted to take him deeper, until the pheromones overwhelmed him completely. Yet there was something unfamiliar about being held at that limit, about those repeated stops.</p>
 
-<p>He was restless and felt a lack. His entrance contracted on its own, wanting to pull Liu in further. Yet Yeehyeon couldn't explain where this unique pleasure — which made his body clench thrillingly — was coming from.</p>
+<p>It wasn't enough. Yeehyeon was aching for more, clenching around Liu without even meaning to, wanting to draw him deeper. And yet he couldn't explain where this unfamiliar pleasure came from, or why it made his whole body tighten with such a thrill.</p>
 
-<p>Although the depth of penetration was shallower than usual, Liu was dividing even that shallow entry into several measured thrusts. That very restraint, meant to curb his runaway desire, was what drove Yeehyeon mad.</p>
+<p>He couldn't go as deep as usual, and even what little depth he allowed himself came in a series of broken strokes. That very restraint, meant to keep him from losing control, was what drove Yeehyeon mad.</p>
 
-<p>"Hhh, ah... ah."</p>
+<p>"Hhhngh, ah... ah."</p>
 
-<p>"You want me to go all the way inside, don't you?"</p>
+<p>"You want me to rub deeper inside, don't you?"</p>
 
 <p>Perhaps taking Yeehyeon's muffled struggles as dissatisfaction, Liu grimaced apologetically and asked again.</p>
 
 <p>"This isn't doing it for you, is it?"</p>
 
-<p>No, Yeehyeon shook his head. He managed to pull the hand away from his mouth and wrapped his arms around Liu's neck.</p>
+<p>Yeehyeon shook his head no. He barely managed to take his hand away from his mouth and slip an arm around Liu's neck.</p>
 
 <p>"Kun... it must be hard for you."</p>
 
-<p>As he tensed his abdomen to keep his voice low, he unintentionally squeezed around Liu's cock from the inside. Liu gasped sharply, as if punched in the lower abdomen.</p>
+<p>Yeehyeon tightened his stomach to keep his voice as low as he could, unintentionally clenching around Liu. Liu gasped as if he'd been punched hard in the lower belly.</p>
 
 <p>"Yeah, it is. I feel like I'm going to die."</p>
 
-<p>Liu's upper body leaned over Yeehyeon's chest, covering him. Then he lowered his head, his hot tongue tracing the rim of Yeehyeon's ear as he whispered.</p>
+<p>Liu leaned over Yeehyeon until their chests overlapped, then whispered as his hot tongue traced the rim of his ear.</p>
 
-<p>About how soft Yeehyeon's entrance was, even without him doing anything. About how intoxicating the suction felt — wet and slick, pulling him in.</p>
+<p>He told him how soft and open Yeehyeon was inside, even without him doing anything, and how intoxicating it felt to be drawn in by that slick, wet pull.</p>
 
-<p>He wanted to push his hand away from where it was interfering, shove all the way in until there was no space left between them, and grind his hips like a madman whether everyone in the building heard or not.</p>
+<p>He wanted to get his hand out of the way and drive all the way in at once, until his pubic hair was crushed against Yeehyeon's opening. He wanted to thrust like mad, whether everyone in the building noticed or not.</p>
 
-<p>Listening to his confession — Liu's attempt to release through words what he couldn't act upon — Yeehyeon squeezed his eyes shut and held his neck tightly. With every lewd whisper and every caress of his ear with tongue and lips, the inner walls trembled.</p>
+<p>Yeehyeon squeezed his eyes shut and held tight around Liu's neck as he listened to him put into words what he couldn't do. Each time those dirty whispers came with another brush of tongue and lips against his ear, Yeehyeon felt himself clench and quiver inside.</p>
 
-<p>"Setting aside the pheromones... your scent is stronger than usual. Right now, you make me want to just... do something to you."</p>
+<p>"Setting aside the pheromones... even your skin smells stronger than usual. Right now, you make me want to just... do something to you."</p>
 
 <p>"What... do you want to do...?"</p>
 
 <p>"......"</p>
 
-<p>Liu lifted his head from Yeehyeon's shoulder and looked down at him from close range. The thick head, which had been repeatedly thrusting shallowly, pressed deeply inside with a slow, drawn-out weight. As if intending to push in even further, he didn't pull back but kept pressing his body forward, unable to go any deeper.</p>
+<p>Liu lifted his head from Yeehyeon's shoulder and looked down at him from inches away. The thick head that had been slipping in and out in shallow strokes now pressed steadily inside him. Liu couldn't go any deeper, but he kept pushing without drawing back, as though he'd push the hand around his cock inside too.</p>
 
 <p>Blinking slowly, as if controlled by something, he answered Yeehyeon's question.</p>
 
@@ -1472,45 +1478,45 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Do it for me."</p>
 
-<p>At Yeehyeon's whisper, Liu swallowed dryly and wet his lower lip with his tongue. Where they were connected, Yeehyeon's arousal and Liu's pre-cum gushed out simultaneously. Every time Liu rocked his hips from side to side instead of front to back, grinding inside, the excess fluid pooled and leaked around their point of contact with a slick, wet sound.</p>
+<p>At Yeehyeon's whisper, he swallowed hard and ran his tongue over his lower lip. Yeehyeon's slick and Liu's pre-cum gushed out together where their bodies met. Liu rocked his hips from side to side rather than back and forth, grinding inside him, and with every movement the excess wetness leaked around their joined bodies with a squelch.</p>
 
-<p>The sensation of thick fluid trickling down always aroused Yeehyeon as much as the direct friction of penetration. Yeehyeon wrapped his legs around Liu's waist and moaned softly, like a faint sob.</p>
+<p>As always, the feeling of that thick wetness trickling down the skin behind his balls aroused Yeehyeon as much as the friction inside him. He wrapped both legs around Liu's waist and let out a soft, sobbing moan.</p>
 
 <p>"Should we? Should I make it throb inside Seo Yeehyeon... with a knot?"</p>
 
-<p>"Yes... I want that. I want something more..."</p>
+<p>"Yeah… I want to. I want something more… intense."</p>
 
-<p>Yeehyeon nodded immediately and answered honestly, and Liu spat out a pained curse before burying his face in his neck again. While showering him with hot kisses and holding him tightly, pressing his head against that place deep inside Yeehyeon, he did not release the hand gripping his cock.</p>
+<p>Yeehyeon nodded at once and answered honestly. Liu let out a pained curse and buried his face against Yeehyeon's nape again. Even as he showered him with hot kisses and held him tight, pressing and scraping the head of his cock against that sensitive spot inside Yeehyeon, he never released his grip on his own cock.</p>
 
-<p>But they couldn't continue like this forever. Sex without knotting was impossible between an Omega in heat and an Alpha in rut.</p>
+<p>But they couldn't continue like this forever. It was like asking an Omega in heat and an Alpha in rut to have sex without knotting.</p>
 
 <p>Yeehyeon was gradually beginning to realize the dominance of pheromones — something Betas could theoretically understand but never truly feel or empathize with. It was a part of himself that had been active for a long time but that he hadn't been consciously aware of until now.</p>
 
-<p>Liu wet his hand completely with their fluids, readjusted his grip, and whispered soothingly.</p>
+<p>Liu's hand was so slick he had to adjust his grip on his cock. He whispered to reassure Yeehyeon.</p>
 
-<p>"When you're better... we'll go to Room 601 and knot properly."</p>
+<p>"When you're all better… let's go to 601. I'll knot you then."</p>
 
-<p>"H-hng, ah... now..."</p>
+<p>"H-hngh, ah... now..."</p>
 
-<p>"Or next time, should we go to a hotel? Ask for the room with the best soundproofing?"</p>
+<p>"Or should we go to a hotel next time? Walk in holding hands and ask for the best soundproofed room they've got?"</p>
 
 <p>Imagining the scenario Liu described, the two shared a brief laugh while resting their foreheads together. But the laughter was fleeting.</p>
 
 <p>"I want to do it now. Now is better..."</p>
 
-<p>Whether it was the fever or the sad dream he'd had just before waking, Yeehyeon found himself constantly pestering Liu, even knowing he was just throwing a tantrum and relying on Liu's self-control. Yet Liu's eyes held no resentment — only affection.</p>
+<p>Maybe it was the fever, or the heartbreaking dream he'd had just before waking. Yeehyeon knew he was only being so demanding because he trusted Liu to hold back, but he still couldn't stop asking, even though he wasn't usually like this. There was no trace of resentment in Liu's eyes. They were full of affection.</p>
 
-<p>Liu kissed Yeehyeon's pouting lips and, with one hand, gripped one of the thin vertical bars of the bed frame above his head. Then he pulled back until the head of his cock was completely clear of the entrance.</p>
+<p>Liu kissed Yeehyeon's pleading lips, then gripped one of the thin metal bars rising above Yeehyeon's head like the bars of a cage. He pulled his hips back until the head of his cock slipped all the way out.</p>
 
 <p>"Ugh, yes... Hngh..."</p>
 
-<p>With Liu's head fully withdrawn and pressed tightly against the entrance, Yeehyeon trembled with anticipation, wondering when it would plunge back in.</p>
+<p>With the head pressed right against his opening, Yeehyeon wondered when it would plunge back in. He shook his head, trembling with anticipation.</p>
 
-<p>"Nnnh."</p>
+<p>"Nnngh."</p>
 
-<p>When Liu thrust in all the way to where his gripping hand stopped, Yeehyeon covered his mouth. Looking up with wide eyes, he saw Liu's face glistening with sweat. Liu wiped his face against the arm stretched taut from gripping the bar.</p>
+<p>Yeehyeon clapped a hand over his mouth as Liu drove in all at once, stopping only when the hand around his cock got in the way. He looked up wide-eyed at Liu, whose face shone with sweat. Liu wiped his face against the arm stretched out to hold the bar.</p>
 
-<p>Without warning, the thrusts came in rapid succession — fully withdrawing outside the entrance only to drive back in until his hand met the stop. Overwhelmed by the relentless rhythm, Yeehyeon kicked off the covers and thrashed his legs.</p>
+<p>Without warning, he began moving fast, pulling all the way out and driving back in hard until his hand stopped him each time. Yeehyeon kicked at the blanket, his legs thrashing under the relentless pounding.</p>
 
 <p>"Seo Yeehyeon, I can't even give you what you want like this..."</p>
 
@@ -1520,81 +1526,81 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Haa, ugh. Hngh!"</p>
 
-<p>The skillful way Liu thrust in and out — pressing against that hidden place sharply and briefly — sent a thrilling current through Yeehyeon's entire body. Unable to endure the outpouring pleasure any longer, Yeehyeon removed his hand and let out a moan.</p>
+<p>Liu's deft, short, hard thrusts pressed against that sensitive spot inside Yeehyeon, sending a thrilling current through his whole body. Unable to bear the pleasure any longer, Yeehyeon pulled his hand away from his mouth and let out a moan.</p>
 
 <p>"Seo Yeehyeon, your voice."</p>
 
-<p>Liu warned him in a heavily suppressed voice. To keep from being pushed up, Yeehyeon reached out and grabbed one of the bars, using his other hand to cover his mouth again.</p>
+<p>The warning came in a tightly restrained voice. To keep from being pushed up the bed, Yeehyeon reached for one of the bars and covered his mouth again with his other hand.</p>
 
-<p>Liu's gaze, looking down at Yeehyeon, glistened. He licked his lips several times as if savoring something. Even while dominated by pleasure, watching Yeehyeon struggle to suppress his moans and cling to his reason — perhaps that sight was giving Liu a different kind of stimulation as well.</p>
+<p>Liu's eyes gleamed as he looked down at him. He ran his tongue over his lips several times, as though savoring the sight. Perhaps there was a different kind of thrill in watching Yeehyeon try to keep quiet and get a grip on himself even with pleasure taking over his whole body.</p>
 
-<p>He pushed Yeehyeon's hand away with his chin and thrust his stiff tongue deep into his mouth. With his mouth full of Liu's tongue, Yeehyeon couldn't let out a moan even if he wanted to.</p>
+<p>He nudged Yeehyeon's hand away with his chin and pushed his stiffened tongue into his mouth. With it filling his mouth, Yeehyeon couldn't have moaned aloud even if he'd wanted to.</p>
 
 <p>"Mmm. Mm... mmm."</p>
 
-<p>The rocking of his hips grew more violent. To keep the bed from shaking any more than necessary, Liu thrust into Yeehyeon's body maintaining the most horizontal motion possible rather than driving up and down.</p>
+<p>His hips began to move more fiercely. To keep the bed from shaking too much, he kept his thrusts as horizontal as possible rather than moving up and down as he drove into Yeehyeon.</p>
 
-<p>Fearing he might bite off his tongue, Yeehyeon pressed his lips together tightly. One arm wrapped around Liu's neck, the other clutched the iron bar above his head. Moisture welled up in his eyes from enduring so much. But it seemed that resisting the pleasure — as much as surrendering to it — only amplified the sensation further.</p>
+<p>Fearing he might bite Liu's tongue, Yeehyeon tightened his lips and sucked hard. One arm wrapped around Liu's neck, the other clutched the iron bar above his head. Moisture welled up in his eyes from enduring so much. But it seemed that resisting the pleasure — as much as surrendering to it — only amplified the sensation further.</p>
 
 <p>"Hmm. Nngh. Ngh..."</p>
 
-<p>Something immense, something massive, was approaching. A pleasure starting from a different direction than knotting. His fluids gushed out as if a floodgate had burst. He could distinctly feel that foreign presence.</p>
+<p>Something huge was coming. The pleasure was building from somewhere different than it did with knotting. He was suddenly drenched between his legs, as if a floodgate had opened. He could feel that unfamiliar sensation distinctly.</p>
 
-<p>With eyes glistening, trembling almost with fear, Yeehyeon searched for Liu's gaze. The tongue filling his mouth was withdrawn rather than pulled away with a kiss.</p>
+<p>Yeehyeon searched for his eyes, his own wet and his body trembling almost with fear. Liu drew his tongue out. It had been filling Yeehyeon's mouth more than kissing him.</p>
 
 <p>"Haaah... hh... ah..."</p>
 
-<p>Yeehyeon's inner walls twitched and clenched tightly, and he came from his cock without it even being touched. Almost simultaneously, Liu pulled out of his body. As if a plug holding back a flood had been removed, the mixed fluids of both of them poured out as if they had been waiting. Every time his lower abdomen rose and fell as he gasped for breath, the fluids flowed and stopped repeatedly, following the opening and closing of the throbbing entrance.</p>
+<p>Yeehyeon clenched and shuddered inside, and cum spurted from his untouched cock. Almost at the same moment, Liu pulled out. Their mingled fluids spilled from Yeehyeon as though a plug had been removed. His lower belly rose and fell as he gasped for breath, his opening contracting and relaxing with each movement, letting the wetness run out and then stopping it again.</p>
 
-<p>Following his instinct, Yeehyeon reached his arm downward. He scooped up the mass of fluid running over the clothes he had laid out and rubbed it between his legs, without even being aware of what he was doing.</p>
+<p>Yeehyeon reached down on instinct. He gathered some of the wetness spilling over the clothes that had been spread beneath him and rubbed it between his legs with his palm, without even realizing what he was doing.</p>
 
-<p>He simply wanted to do something more. He wanted to tangle with Liu doing even more, craving a more animalistic sense of release.</p>
+<p>He wanted to do something dirtier. To get tangled up with Liu in something even more obscene, to let go in an even more animal way.</p>
 
 <p>"Ah, ah..."</p>
 
 <p>Only after writhing slowly and rubbing between his legs for a long while did Yeehyeon realize he was whimpering faintly.</p>
 
-<p>Liu was kneeling between his legs, kissing away the tears on Yeehyeon's face while stroking his own cock. Yeehyeon cupped Liu's cheeks. He kissed the face contorted from battling the demands of his body and instincts.</p>
+<p>Liu lay between Yeehyeon's legs, kissing the tears on Yeehyeon's face while stroking his own cock. Yeehyeon cupped Liu's cheeks and kissed his face, contorted with the effort of resisting his body's demands and his instincts.</p>
 
-<p>He remembered the first time their bare skin had touched in his bedroom. Back then, Liu hadn't even been able to reach climax. He had only induced a deep, restful sleep in Yeehyeon with an orgasm achieved through pheromones — an intensity unattainable through a standard release. Even now, thinking of the heavy, dangling weight of Liu's cock he had glimpsed between eyelids growing hazy with overwhelming drowsiness still made his insides ache.</p>
+<p>He remembered the first time they'd lain skin to skin in Liu's bedroom. Liu hadn't even come that night. He'd only used pheromones to bring Yeehyeon to a climax beyond anything an ordinary orgasm could offer, sending him into a deep sleep. Even now, remembering the heavy sway of Liu's cock—glimpsed through eyelids drooping with sleep—made him ache inside.</p>
 
-<p>A heavy, languid sleepiness washed over him — just like the feeling of being dragged down from beneath the bed, as it had been then. But Yeehyeon fought hard to lift his eyelids. He rolled his heavy body over. Turning his head, he looked back at Liu over his shoulder.</p>
+<p>Just as it had then, a heavy, languid sleepiness came over him, as though someone under the bed were pulling him down. But Yeehyeon forced his eyelids open, rolled his heavy body over, and looked back at Liu over his shoulder.</p>
 
-<p>Clutching his thoroughly soaked cock, which was dripping a copious amount of pre-cum, Liu remained awkwardly suspended — unable to fully lie down or fully sit up. Even though his entire body was glistening with sweat, he still had the blanket draped over his back like a tent over Yeehyeon's body.</p>
+<p>Still gripping his cock, wet with the pre-cum pouring from it, Liu stayed awkwardly propped halfway up, neither lying flat nor lifting himself all the way. Sweat shone all over him, but he still kept the blanket draped over his back like a tent over Yeehyeon.</p>
 
-<p>The sight of him merely suppressing his desire — cock fully engorged yet seemingly suspended between what to do with it and how to find release — made him resemble an inexperienced young man still awkward with his own body. For some reason, Yeehyeon's eyes grew hot. He was clearly burning, as if coated thickly in the essence of pheromones all over his body.</p>
+<p>Holding back his desire like that, Liu looked like an inexperienced young man, his cock fully hard but seemingly unsure where to put it or how to find relief. For some reason, Yeehyeon's eyes burned with tears. Liu was burning up, as though his whole body were thickly coated in concentrated pheromones…</p>
 
-<p>He reached out, grasped Liu's wrist, and pulled him closer. Then, burying his face in the pillow, he drew his legs together.</p>
+<p>Yeehyeon reached back, caught Liu by the wrist, and drew him closer. Then he buried his face in the pillow and pressed his outstretched legs together.</p>
 
 <p>"......"</p>
 
-<p>After a moment of hesitation, Liu lay down, his chest pressing against Yeehyeon's back. His arms slipped under Yeehyeon's armpits, pulling him in tightly, and he pressed his cock between their thighs, struggling to control his large body. His restraint — as much as his unrestrained urge toward Yeehyeon — was endearing.</p>
+<p>After a moment's hesitation, he lowered himself, laying his chest against Yeehyeon's back. Liu slipped his arms under Yeehyeon's and held him tight, rubbing his cock between Yeehyeon's thighs as he struggled to keep his large body under control. To Yeehyeon, his restraint was just as endearing as his unbridled desire.</p>
 
-<p>He was detached, as if relying solely on the physical friction applied to his cock to bring about release. The nature of his movements was completely different from when he was caressing Yeehyeon. He seemed to be concentrating all his energy on ignoring the fact that by shifting the angle of his hips just slightly, he could penetrate Yeehyeon's body — the interior of his Didi, where a fantastic experience awaited.</p>
+<p>His movements were mechanical, as though he were trying to come on friction alone. It was nothing like the way he'd caressed Yeehyeon. He seemed to be putting all his energy into ignoring the incredible pleasure waiting inside Yeehyeon, inside his Didi—all he had to do was shift his hips a little.</p>
 
-<p>Yeehyeon reached his arms back, sinking his fingers into the firm, sculpted muscles of Liu's hips and pulling him closer. Almost simultaneously, the space between his legs grew warm and wet. Liu slowly and smoothly twisted his large body, rubbing his entire frame against Yeehyeon's. His pheromones, which had seemed to burn crimson, were now settling into a gentler orange glow.</p>
+<p>Yeehyeon reached back, sank his fingers into the hard curve of Liu's buttocks, and drew him closer. Almost at once, warmth and wetness spread between Yeehyeon's thighs. Liu twisted slowly and fluidly, rubbing his whole body against Yeehyeon's. His pheromones, which had seemed to burn red-hot, were settling into a gentle orange glow.</p>
 
-<p>Yeehyeon turned his head and stroked Liu's hair. This was no hallucination or perfume. Tonight, he could truly fall asleep enveloped in his real pheromones.</p>
+<p>Yeehyeon turned his head and stroked Liu's hair. This was no hallucination, no perfume. Tonight he could truly fall asleep surrounded by Liu's pheromones.</p>
 
-<p>What if Liu hadn't been there when he woke up, what if he had been lying there alone as usual? Even though he had chastised Liu for flying such a long distance without enduring just one more day, it certainly didn't mean he wasn't happy about this early reunion.</p>
+<p>What would it have been like to wake up alone as usual, without Liu there…? Yeehyeon had sounded as though he were scolding Liu for flying all that way because he couldn't wait just one more day. But that certainly didn't mean Yeehyeon wasn't glad they'd been able to see each other sooner.</p>
 
 <p>Yeehyeon buried his face back into the pillow as if he might fall asleep at any moment and closed his eyes.</p>
 
-<p>"Mmm... sleep like this."</p>
+<p>"Mmm… I want to sleep like this."</p>
 
-<p>Liu, who had been nibbling gently at the area around his shoulder, placed his hand over Yeehyeon's on his back.</p>
+<p>Still nibbling at Yeehyeon's shoulder, Liu covered the back of Yeehyeon's hand with his own as Yeehyeon lay face down.</p>
 
 <p>"I'll go on a diet."</p>
 
-<p>Yeehyeon let out a weak laugh at the response, which was delivered with complete seriousness and no trace of humor. He wanted to exchange a few more of these nonsensical conversations, but he felt he couldn't possibly manage it anymore. A slow, devoted, long kiss began to envelop his prone body.</p>
+<p>Yeehyeon let out a weak laugh at the perfectly serious reply. He wanted to keep talking nonsense like this for a little longer, but he couldn't manage it anymore. Slow, lingering kisses gradually covered his whole body as he lay face down.</p>
 
-<p>If he fell asleep now, he thought he might dream of Erich and his Ghost finally reuniting in tumultuous Florence.</p>
+<p>If he fell asleep now, he thought he might dream of Erich and his Ghost reuniting in tumultuous Florence.</p>
 </div>
 {% include scene-break.html %}
 <div id="section-5" class="hybrid-section" data-section="5">
 <p>The group gathered at a café not far from The Hands numbered around ten people. There were those he had greeted at the last Christmas party, like Ben and Jun, as well as people he had seen a few times when he used to linger around The Hands, and people he was meeting for the very first time.</p>
 
-<p>Regardless, these were Yeehyeon's colleagues and neighbors who shared daily life with him in the same space, and since Liu occupied a seat here as Yeehyeon's lover, his own impression would inevitably affect Yeehyeon as well. For Liu, it was bound to be a tense gathering.</p>
+<p>Regardless, these were Yeehyeon's colleagues and neighbors who shared daily life with him in the same space, and since Liu occupied a seat here as Yeehyeon's lover, the impression he made on them was bound to reflect on Yeehyeon. For Liu, it was bound to be a tense gathering.</p>
 
 <p>After the simple meal — egg dishes and pancakes made from locally sourced ingredients — was cleared away and the main drinking session began, the artworks unveiled at the Pre-Opening party held that day naturally became the topic of conversation.</p>
 
@@ -1608,7 +1614,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"It seems like you're the one who discovered Yeehyeon, Liu-ssi? Ah, you fell for his work first?"</p>
 
-<p>A young man from Malaysia interjected, his eyes shining with curiosity behind his horn-rimmed glasses. He was dressed stylishly, likely popular among young people these days — and also the one who, immediately after being introduced to Liu, had pulled out his phone to ask if he had a social media account.</p>
+<p>A young man from Malaysia interjected, his eyes shining with curiosity behind his horn-rimmed glasses. He wore the sort of stylish outfit that went over well with young people these days. He was also the one who'd taken out his phone the moment they were introduced and asked Liu if he was on social media.</p>
 
 <p>"I didn't discover him... perhaps I should say Yeehyeon came to me? I was already drawn to him even before I knew he painted, so his work wasn't the catalyst... but then again, I already had affection for his work before I knew him, so it's not entirely wrong either... Hmm, come to think of it, we're connected by quite a complicated chain of coincidences."</p>
 
@@ -1630,7 +1636,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>As if disappointed by that, some people decided to gather together afterward. Most of them were members who frequently met in the shared second-floor living room at The Hands. Thanks to their enthusiastic prompting, Liu and Yeehyeon ended up swept along in the mood and joining them.</p>
 
-<p>At first, everyone treated Liu — an outsider and a colleague's lover — with courtesy and kept a certain distance. However, as the alcohol took effect and spirits rose, the conversation became livelier and bolder. This was partly due to Liu taking the initiative to break down the barriers and approach them. His easygoing, sociable manner was, of course, also an effort for Yeehyeon's sake.</p>
+<p>At first, everyone treated Liu — an outsider and a colleague's lover — with courtesy and kept a certain distance. However, as the alcohol took effect and spirits rose, the conversation became livelier and bolder. This was partly due to Liu taking the initiative to break down the barriers and approach them. His easygoing, sociable manner was a deliberate effort on his part. He wanted to make a good impression for Yeehyeon's sake.</p>
 
 <p>Who "charmed" whom first? Who confessed first? The nature of questions directed at couples doesn't vary much across cultures.</p>
 
@@ -1642,9 +1648,9 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Since Yeehyeon is somewhat introverted, you must have worried when he said he was moving far away."</p>
 
-<p>"Although he is introverted... that's not all Yeehyeon is. I believed he could adjust well and focus on his work. He's a person with a good center, unlike me."</p>
+<p>"Although he is introverted... that's not all Yeehyeon is. I believed he could adjust well and focus on his work. He's grounded in a way I'm not."</p>
 
-<p>"Ah... so you're saying being apart was harder on you than on Yeehyeon?"</p>
+<p>"Ah... so you're saying being apart was harder on you, Liu-ssi, than on Yeehyeon?"</p>
 
 <p>Someone interpreted Liu's reply in a teasing way, but since it wasn't entirely untrue, Liu felt no need to correct it.</p>
 
@@ -1682,15 +1688,15 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"This is nothing, really."</p>
 
-<p>"I wish Yuni nuna was here. She's a bit late."</p>
+<p>"I wish Yuni nuna was here. Nuna's a bit late."</p>
 
 <p>Yuni, who belonged to the operations team rather than being an artist, was scheduled to join after finishing the event cleanup. Liu gently cupped Yeehyeon's chin, which was turned toward the entrance, turning him to look at Liu, and shook his head.</p>
 
-<p>"If Baek Yuni was here, you'd be subjected to questions several times more malicious than this. She might go easy on Seo Yeehyeon, but she's ruthless with me."</p>
+<p>"If Baek Yuni was here, the questions would be several times worse than this. She might go easy on Seo Yeehyeon, but she's ruthless with me."</p>
 
 <p>"......"</p>
 
-<p>Yeehyeon paused, rolled his eyes, and nodded in agreement. His expression, a little too earnest, was endearing. As people had said, he seemed a bit drunk. A smile escaped Liu's lips as he looked at his slightly dazed face, all his reactions slower than usual. When Liu tapped the tip of his nose with the index finger that had been holding his chin, Yeehyeon smiled broadly, eyes crinkling. It was a smile powerful enough to make Liu's chest ache and stir deeply.</p>
+<p>Yeehyeon paused and glanced aside before nodding in agreement. His expression, a little too earnest, was endearing. As people had said, he seemed a bit drunk. A smile escaped Liu's lips as he looked at his slightly dazed face, all his reactions slower than usual. When Liu tapped the tip of his nose with the index finger that had been holding his chin, Yeehyeon smiled broadly, eyes crinkling. It was a smile powerful enough to make Liu's chest ache and stir deeply.</p>
 
 <p>His heart reacted anew at the realization that he was looking at Yeehyeon's actual face — not through a phone or laptop screen. This had happened several times over the past few days they had spent together. They had to part again before fully compensating for the time they had been apart, and this meeting was something Liu had anticipated all the more for it.</p>
 
@@ -1710,7 +1716,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Yeah."</p>
 
-<p>Despite his reply, Liu didn't pull his body away. He deliberately leaned his weight onto Yeehyeon's shoulder, pressing his entire body against him. This forced Yeehyeon's upper body to tilt, making him have to wrap his arms around Liu's shoulders just to support himself. While the action was playful, it was also an intimacy that would only pass between lovers — enough to draw protest from the group.</p>
+<p>Despite what he'd said, Liu stayed pressed against him. He rested his head on Yeehyeon's shoulder and deliberately leaned his full weight against him. Yeehyeon tilted under the weight and had to all but hug Liu around the shoulders to hold him up. It was playful, but it was also the kind of physical closeness only lovers would go for. That was enough to draw complaints from the group.</p>
 
 <p>"Hey, you two, could you separate a little?"</p>
 
@@ -1732,7 +1738,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Separate from my affection for Yeehyeon, I'm confident that my love for and understanding of his work is second to none. So I want to say I don't get jealous — and that would be the mature attitude — but... honestly, it bothers me. The communion shared through collaborative creation is something I can't experience with him."</p>
 
-<p>It was a brief answer, an attempt to be as honest as possible. Yeehyeon only took another sip of his drink without showing any distinct reaction. Liu lightly ruffled his hair, an attempt to hide his awkwardness.</p>
+<p>It was a brief answer, an attempt to be as honest as possible. Yeehyeon only took another sip of his drink without showing any distinct reaction. Liu lightly ruffled Yeehyeon's hair, an attempt to hide his awkwardness.</p>
 
 <p>"Ah, I shouldn't have asked. It's such the right answer it's starting to annoy me."</p>
 
@@ -1740,7 +1746,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"We've confirmed the affection, so tell me about the downsides of long distance. When you're apart, you get hurt over small things, and you start doubting each other even if contact goes quiet for just a moment. The intimacy issue is also something we can't honestly ignore."</p>
 
-<p>This time, Ben stepped in. He seemed to want to quickly throw the bait these spectators desired — the hardships of long-distance, the minor complaints they had about each other — and provoked Liu more directly. But Liu wasn't inclined to play along.</p>
+<p>This time, Ben stepped in. He prodded Liu more directly, as if urging him to toss the audience what they wanted and be done with it. Surely there was something hard about living apart, some little complaint they had about each other. But Liu wasn't inclined to play along.</p>
 
 <p>"I don't know about other people, but long-distance relationships have their own advantages. Because we miss each other so much, most minor problems don't even register as real issues."</p>
 
@@ -1748,7 +1754,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"And intimacy is a trivial matter compared to him building his career here."</p>
 
-<p>"Someone like that, on Wednesdays..."</p>
+<p>"Funny, coming from you. On Wednesday..."</p>
 
 <p>It was Jun again, interjecting with a muttered, sarcastic remark as if talking to himself.</p>
 
@@ -1760,17 +1766,17 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Wednesday was the day Liu had arrived a day earlier than planned. Despite his caution, it seemed Jun, who lived right next door, had faintly heard sounds of them being intimate.</p>
 
-<p>Someone brought up the story of a The Hands member who had broken up after a long-distance relationship. It seemed to be about someone everyone there knew well. While the topic briefly shifted elsewhere, Liu stood up, saying he was going out for a cigarette.</p>
+<p>Someone brought up the story of an artist at The Hands who had broken up after a long-distance relationship. It seemed to be about someone everyone there knew well. While the topic briefly shifted elsewhere, Liu stood up, saying he was going out for a cigarette.</p>
 
 <p>Yeehyeon, looking up as Liu left, seemed somewhat relieved — as if the teasing might settle down with at least one of them gone. Yeehyeon was by no means naive for his age, but he had a certain innocence in these matters. Liu could almost understand the group's desire to tease him a little. He offered a brief smile toward Yeehyeon and stepped outside the café.</p>
 
 <p>The temperature was slightly above five degrees Celsius, but it felt cool rather than cold. Under the narrow awning, Liu lit a cigarette and glanced back at the interior.</p>
 
-<p>He thought their overreaction probably stemmed from the fact that the person involved was Yeehyeon. They must have assumed Yeehyeon's relationships were the so-called "cool" type, characterized by minimal expression and little physical affection. That probability would only increase if Yeehyeon himself had consistently kept quiet about past boyfriends.</p>
+<p>He thought their overreaction probably stemmed from the fact that the person involved was Yeehyeon. They must have assumed Yeehyeon's relationships were the so-called "cool" type, characterized by minimal expression and little physical affection. That probability would only increase if Yeehyeon himself had consistently kept quiet about his boyfriend.</p>
 
 <p>As a fine mist veiled the street, lights began to flicker on, one by one. Liu felt the damp, cool air touch his skin and exhaled a long plume of smoke.</p>
 
-<p>His thoughts inevitably drifted to Yeehyeon's past situation, where he couldn't speak about having a boyfriend. The memory of their reunion remained vivid. So too did the sensation — a sudden chill down his spine — when Yeehyeon mentioned that a colleague in Hong Kong had shown interest in him.</p>
+<p>His thoughts inevitably drifted to Yeehyeon's past situation, where he couldn't speak about having a boyfriend. The memory of their reunion remained vivid. So too did the sensation — a sudden chill down his spine — when Yeehyeon mentioned that a colleague from Hong Kong who lived next door had shown interest in him.</p>
 
 <p><em>"I told him I had a boyfriend. I felt like I needed to draw a line. Was I lying?"</em></p>
 
@@ -1824,7 +1830,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"He's already retired and taking care of his health, so he's doing well now... but there's always the risk that his illness could suddenly worsen or that something more serious could develop. Michelle told me a few days ago that if that happened, she might have to return to England, even just temporarily."</p>
 
-<p>As their relationship deepened and Michelle became more precious to her, perhaps Michelle had judged it proper courtesy to share potential future events in advance.</p>
+<p>Perhaps Michelle felt that, now their relationship had deepened and Yuni meant so much to her, she owed it to Yuni to tell her what might lie ahead.</p>
 
 <p>Liu took one last, deep drag from the cigarette, which had already burned down considerably, and turned to dispose of the butt.</p>
 
@@ -1846,11 +1852,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Michelle cherishes you too... that's probably why she said that."</p>
 
-<p>He could only say that because he empathized with both Yuni's and Michelle's positions. Yuni, who had been focused on smoking for a moment, also seemed to grasp Michelle's true feelings.</p>
+<p>That was all Liu could say. He understood how both Yuni and Michelle felt. Yuni, who had been focused on smoking for a moment, also seemed to grasp Michelle's true feelings.</p>
 
 <p>She glanced at the sale items displayed in front of the flower shop across the street.</p>
 
-<p>"When I first moved here and struggled, Michelle helped me in so many ways. It wasn't just simple kindness — it made me feel like I wasn't alone even in a foreign place. If I can't be there for Michelle when she's having the hardest time... then I don't know what love means."</p>
+<p>"When I first moved here and struggled, Michelle helped me in so many ways. It wasn't just simple kindness — it made me feel like I wasn't alone even in a foreign place. If I can't be there for Michelle when she's having the hardest time... then what's the point of being in love?."</p>
 
 <p>Her final, quietly muttered sentence left a deep impression on Liu. It wasn't that he felt he had heard a clear definition of love. Such a definition probably couldn't exist. But hardly anyone would argue that being with someone during their hardest times wasn't love.</p>
 
@@ -1858,27 +1864,27 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>The man paid and walked away from the flower shop, the bouquet of mimosas tucked into his shopping basket.</p>
 
-<p>"Oh — Yeehyeon scolded me. Said I broke my promise not to tell you."</p>
+<p>"Oh — Yeehyeonie scolded me. Said I broke my promise not to tell you, Director."</p>
 
 <p>Suddenly brightening her tone, Yuni leaned over and nudged Liu with her shoulder. Liu smiled apologetically.</p>
 
-<p>"I understand how Yeehyeon feels, but... if my partner was sick so far away and I didn't even know about it, I think I'd be incredibly upset. That's why I told you. I just didn't expect you to pack your bags and get on a plane three hours later just because I said he had a fever."</p>
+<p>"I understand how Yeehyeonie feels, but... if my partner was sick so far away and I didn't even know about it, I think I'd be incredibly upset. That's why I told you. I just didn't expect you to pack your bags and get on a plane three hours later just because I said he seemed to be coming down with something."</p>
 
 <p>As she finished speaking, Yuni shot Liu a quick, sidelong glance.</p>
 
-<p>"I got scolded too. For overdoing it and changing my schedule over what turned out to be a common cold."</p>
+<p>"I got scolded too. For going to such lengths and changing my plans just because he was feeling achy and run-down."</p>
 
 <p>Liu rubbed one arm with the other and glanced briefly through the glass window. Yuni smiled, seemingly entertained. Then, with a lingering trace of amusement on her face, she lowered her gaze.</p>
 
-<p>"I don't know who objected more — you or Yeehyeon — when it came to him joining The Hands... but you seem to be getting along well again now, and I'm not trying to butt in and give advice, but... perhaps Yeehyeon was relieved when you arrived. At least, that's how it looked to me."</p>
+<p>"I don't know which of you objected — you, Director, or Yeehyeonie — when it came to Yeehyeonie joining The Hands... but you seem to be getting along well again now, and I'm not trying to butt in and give advice, but... perhaps Yeehyeonie was relieved when you arrived, Director. At least, that's how it looked to me."</p>
 
 <p>"......"</p>
 
 <p>Yuni seemed to believe that the reason Liu and Yeehyeon had been separated for a time was a conflict over Yeehyeon's transfer to The Hands. It was a completely mistaken assumption, but since it was just an assumption, she wasn't entirely certain either.</p>
 
-<p>"Don't take what Yeehyeon says too literally. He fundamentally doesn't want other people to suffer because of him. He tries especially hard not to cause trouble for those he cares about."</p>
+<p>"Don't take what Yeehyeonie says too literally. He fundamentally doesn't want other people to suffer because of him. He tries especially hard not to cause trouble for those he cares about."</p>
 
-<p>In the worst-case scenario at that time, if Yeehyeon had had to come here alone without Yuni, he surely would have been much lonelier. Believing herself to be the person who understood Yeehyeon most accurately, she had no intention of closing her ears to others' words. Yuni and Yeehyeon had spent over a year here, relying on each other and growing close. This advice, coming from her, was certainly worth considering.</p>
+<p>In the worst-case scenario at that time, if Yeehyeon had had to come here alone without Yuni, he surely would have been much lonelier. Liu had no intention of shutting out other people's words on the grounds that he understood Yeehyeon best. Yuni and Yeehyeon had spent over a year here, relying on each other and growing close. This advice, coming from her, was certainly worth considering.</p>
 
 <p>Liu remained silent, nodding thoughtfully. She sent him a brief smile.</p>
 
@@ -1912,9 +1918,9 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Maybe I shouldn't have stopped painting. Or maybe... I should have pursued photography more seriously instead of just keeping it as a hobby."</p>
 
-<p>Only then did Liu look down at Yeehyeon. Even while blinking slowly in his drunken state, Yeehyeon was listening intently with a serious expression. Liu released one of the arms holding his waist and swept the hair from Yeehyeon's forehead.</p>
+<p>Only then did Liu look down at Yeehyeon. Even while blinking slowly in his drunken state, Yeehyeon was listening intently with a serious expression. Liu slipped one arm from around Yeehyeon's waist and swept the hair from Yeehyeon's forehead.</p>
 
-<p>"You working with someone else. You painting other people, or other people owning your work — that makes me far more jealous than anything else. Me being jealous... Seo Yeehyeon doesn't care for that much."</p>
+<p>"You working with someone else — that makes me far more jealous than you painting other people or other people owning your work. Me being jealous... Seo Yeehyeon doesn't care for that much."</p>
 
 <p>Yeehyeon dropped his serious expression and let out a soft chuckle. Liu pulled him into a tight embrace as if to punish him, and spoke in an intentionally light tone.</p>
 
@@ -1926,13 +1932,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Yeehyeon, who had been fidgeting slightly in his embrace, spoke in a low voice.</p>
 
-<p>"You've always been a perfect supporter, even from the very beginning."</p>
+<p>"You've always understood me perfectly, even from the very beginning."</p>
 
 <p>"......"</p>
 
 <p>The presence in his arms sometimes left him speechless. Yeehyeon had a way of moving Liu that made him wonder how it was possible.</p>
 
-<p>Thinking of the definition of forgiveness that Jacques Derrida had once spoken of — which Yeehyeon had mentioned during a phone call — Liu ruffled the hair on the back of his head.</p>
+<p>Thinking of the definition of forgiveness that Jacques Derrida had once spoken of — which Yeehyeon had mentioned during a phone call — Liu ruffled the hair on the back of Yeehyeon's head.</p>
 
 <p>"Stop being so lenient with me. What happens if I start taking advantage of it?"</p>
 
@@ -1948,25 +1954,25 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Liu pulled Yeehyeon back to look at his face. He was clearly more intoxicated than Liu had ever seen him, yet he was earnestly striving to convey his thoughts clearly.</p>
 
-<p>As much as Liu had wanted to see him, Yeehyeon must have felt the same. Just as he had made a half-hearted proposal because he didn't want to confine him, perhaps Yeehyeon was enduring the time apart because he didn't want to interfere with Liu's life and work.</p>
+<p>As much as Liu had wanted to see him, Yeehyeon must have felt the same. Just as Liu had left his proposal open-ended because he didn't want to tie Yeehyeon down, perhaps Yeehyeon was enduring the time apart because he didn't want to interfere with Liu's life and work.</p>
 
 <p>Liu slowly shook his head from side to side.</p>
 
 <p>"Wh — why are you looking at me like that?"</p>
 
-<p>It was clearly difficult for Yeehyeon to speak anymore, and his pronunciation became slow and slurred again. Liu smiled, pressing his forehead against Yeehyeon's.</p>
+<p>Yeehyeon was finding it hard to speak clearly now, and his pronunciation became slow and slurred again. Liu smiled, pressing his forehead against Yeehyeon's.</p>
 
 <p>"Just because. Being together feels like a dream, and I love it."</p>
 
-<p>Rubbing his nose against the bridge of Yeehyeon's, he pressed his lips against his. He was reminded of their first kiss on the terrace at The Face's party — Yeehyeon, flustered and flushed by just a kiss, and the unfamiliar version of himself who had lost his usual composure, provoked by such clumsy reactions.</p>
+<p>Rubbing the tip of his nose against Yeehyeon's, he pressed his lips against his. He was reminded of their first kiss on the terrace at The Face's party — Yeehyeon, flustered and flushed by just a kiss, and the unfamiliar version of himself who had lost his usual composure, provoked by such clumsy reactions.</p>
 
 <p>After several brief touches — gently pressing and releasing the surface of their lips — he tilted his jaw to delve deeper. The sweetness of wine lingered on Yeehyeon's lips. It was cozy and warm; he didn't want to pull away.</p>
 
-<p>Yeehyeon's hands, which had been gripping his waist, moved up his back to cup his shoulders. Liu pulled his shoulders closer and stepped backward until his back hit the glass wall of the café. A damp chill seeped through his thin knit, but he didn't care.</p>
+<p>Yeehyeon's hands, which had been gripping his waist, moved up his back to cup his shoulders. Liu pulled Yeehyeon's shoulders closer and stepped backward until his back hit the glass wall of the café. A damp chill seeped through his thin knit, but he didn't care.</p>
 
 <p>Given the location, they didn't use their tongues. As Liu kissed Yeehyeon's sweet upper and lower lip in alternation, Yeehyeon also pursed his lips and enclosed Liu's. The moist, sweet sound of their lips pressing and separating tickled his ears.</p>
 
-<p>After holding and pulling each other's shoulders several times, Yeehyeon was the first to push Liu away. Keeping his gaze lowered, he covered his mouth with the back of his hand and dropped his voice.</p>
+<p>They kissed for a long while, shifting their hold on each other's shoulders to pull each other closer, before Yeehyeon finally pressed a hand to Liu's chest and eased him back. Keeping his gaze lowered, he covered his mouth with the back of his hand and dropped his voice.</p>
 
 <p>"Let's go inside. Awi's nose... is cold."</p>
 
@@ -1986,9 +1992,9 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 <div id="section-6" class="hybrid-section" data-section="6">
 <p>"Not for long... just two or three days."</p>
 
-<p>Liu stood in the bathroom with the door cracked open just a sliver, speaking in a low voice on the phone. He had one hand tucked into the front pocket of his robe, which was tied loosely at the waist, and swept his hair back.</p>
+<p>Liu stood in the bathroom with the door cracked open just a sliver, speaking in a low voice on the phone. He had one hand tucked into the front pocket of his robe, which was untied at the waist, and swept his hair back.</p>
 
-<p>"No, I'm fine now. The Pre-Opening event went well yesterday. Yeah. So... setting that aside, it's just that I want to take another two or three days."</p>
+<p>"No, he's fine now. The Pre-Opening event went well yesterday. Yeah. So... setting that aside, it's just that I want to take another two or three days."</p>
 
 <p>When he mentioned staying a few more days before heading back, Manager Han seized the opportunity and didn't stop teasing him. After wrestling with her for a while, Liu finally leaned his back against the tiled wall as if surrendering. The hair he had been holding fell lightly onto his forehead. "Ha... fine. Think whatever you want and make fun of me all you like. It's because I can't bring myself to leave — my younger lover is here in Paris and keeps weighing on my mind. And I'm still worried about how sick he was. Like you said, Manager Han, I'm being overprotective. So I'll stay a few more days, and once I know he's completely healthy, I'll leave. Okay?"</p>
 
@@ -2028,7 +2034,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Even as a boy, he had never been this defenseless against sexual stimulation. The reaction was as immediate as if he had been exposed to the pheromones of a powerful Golden Omega. This was because Yeehyeon was Diamond Dust.</p>
 
-<p>The more they had been entangled, the stronger his influence became, and the stimulation was even more immediate now with the lingering afterglow still in his body. The taut, dense pheromones were circulating rapidly through his veins. They were in a state where they could ignite at any moment and lunge at each other.</p>
+<p>Every time they slept together, Yeehyeon's influence on Liu grew stronger. With last night's afterglow still in his body, Liu responded all the more readily. The taut, dense pheromones were circulating rapidly through his veins. They were in a state where they could ignite at any moment and lunge at each other.</p>
 
 <p>To shake off the arousal, Liu cleared his throat and handed the mug to Yeehyeon. He bent over to give him a morning kiss on the forehead and tried to turn away, but Yeehyeon grabbed his wrist.</p>
 
@@ -2040,19 +2046,19 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Yeehyeon lowered the corners of his eyes and stroked Liu's wrist with his thumb.</p>
 
-<p>Even without being told, Yeehyeon had always been bothered by Liu's overly solicitous care that followed sex as a matter of course. Even though they had been thoroughly tangled together the night before, Yeehyeon's body was perfectly dry this morning.</p>
+<p>As it was, Yeehyeon always felt a little uneasy about how much trouble Liu took to look after him after sex. Last night they'd been covered in each other's fluids, yet he'd woken up clean and dry again.</p>
 
-<p>What's more, he had no memory of anything that happened after the second knotting this morning. He couldn't tell whether Liu had taken him to the bathroom to wash him or dried his body with a towel.</p>
+<p>What's more, he had no memory of anything that happened after the second knotting this morning. He couldn't tell whether Liu had taken him to the bathroom to wash him or simply wiped him down with a towel.</p>
 
 <p>"This is a familiar place. If I'm careful, I can manage that much."</p>
 
 <p>"I like the pancakes Kun makes, so I'm happy to have them, but..."</p>
 
-<p>Liu ruffled Yeehyeon's hair, which was showing an apologetic expression, and tied the front flaps of his robe with the belt.</p>
+<p>Yeehyeon looked apologetic. Liu ruffled his hair and belted his own robe shut.</p>
 
 <p>"Have some coffee and wake up a bit. The batter is already made — I just need to cook it."</p>
 
-<p>Liu retreated to the kitchen counter as if fleeing. Before calling Manager Han, he scooped the pre-mixed batter into a frying pan and shaped it into rounds, trying desperately to concentrate on anything other than Yeehyeon.</p>
+<p>Liu retreated to the kitchen counter as if fleeing. He scooped the batter he had mixed before calling Manager Han into a frying pan and shaped it into rounds, trying desperately to concentrate on anything other than Yeehyeon.</p>
 
 <p>"Did you have all the ingredients?"</p>
 
@@ -2078,7 +2084,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Yeehyeon gently wrapped his arms around Liu's waist as Liu unnecessarily pressed down on the pancakes — which were cooking perfectly well on their own — with a silicone spatula.</p>
 
-<p>"Is it because of your eyes? I like them. You're beautiful enough that I want to keep looking."</p>
+<p>"Is it because of your eyes? I like them. They're so beautiful I could keep looking at them."</p>
 
 <p>Liu turned the induction dial to low and turned around.</p>
 
@@ -2102,7 +2108,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Because you're Didi, and because you're Seo Yeehyeon."</p>
 
-<p>He recalled someone grumbling during the drinking party with The Hands colleagues last night that Liu only ever spoke the absolute truth. Yeehyeon felt he had no choice but to agree.</p>
+<p>He recalled someone grumbling during the drinking party with The Hands colleagues last night that Liu always had exactly the right answer. Yeehyeon felt he had no choice but to agree.</p>
 
 <p>"There's something I want to ask..."</p>
 
@@ -2110,7 +2116,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Liu quickly flipped the three pancakes cooking simultaneously in the large frying pan, then turned back to Yeehyeon.</p>
 
-<p>"The person who underwent the Changing... or anyone who even attempted it once — there hasn't been anyone until now, right?"</p>
+<p>"Someone you have Changed... or someone you have even tried to Change once — there wasn't anyone before me, was there?"</p>
 
 <p>"......"</p>
 
@@ -2134,7 +2140,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He thought he understood the reason behind the suggestion. It was likely Liu's attempt to restrain himself, knowing that if they stayed alone in this room, he would probably try to have sex.</p>
 
-<p>Since it was Sunday and Liu was in Paris, they had agreed to skip work that morning. Yeehyeon would have liked to just linger around the room until the afternoon work session, but he didn't want to ignore Liu's effort.</p>
+<p>Since it was Sunday and Liu was in Paris, Yeehyeon had decided to take the morning off from painting. Yeehyeon would have liked to just linger around the room until the afternoon work session, but he didn't want to ignore Liu's effort.</p>
 
 <p>They ate leisurely, exchanging various disjointed stories: about the pieces revealed at the party, the personalities of the colleagues they had mingled with the night before, and even a review of the sex they had immediately upon returning to Room 601 — like hungry people tearing off each other's clothes and wrestling together, heating up from the very first moment. About an hour passed.</p>
 
@@ -2152,7 +2158,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>The scope of the confession also included the fact that Liu had proceeded with the Changing while keeping it secret from Yeehyeon. Yeehyeon had been delaying the decision because he wasn't entirely comfortable with it.</p>
 
-<p>"Then I'll have to reveal that Kun is Ghost too — is that all right with you?"</p>
+<p>"Then I'll have to reveal that you're a Ghost too, Kun — is that all right with you?"</p>
 
 <p>"Clarifying the wrong I committed against you is more important."</p>
 
@@ -2166,7 +2172,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Of course, everyone around us is kind and will judge wisely... but you don't have an obligation to tell everyone about a mistake made in a romantic relationship. If I had intended to resolve this issue publicly, I wouldn't have taken Awi back in the first place."</p>
 
-<p>Liu's determination to pay some kind of price could, viewed differently, be self-satisfaction. If his own happiness was truly his top priority, Yeehyeon sincerely hoped he wouldn't expand the issue any further.</p>
+<p>Liu's determination to pay some kind of price could, viewed differently, be self-satisfaction. If Yeehyeon’s happiness was truly his top priority, Yeehyeon sincerely hoped he wouldn't expand the issue any further.</p>
 
 <p>Yeehyeon took a sip of wine but couldn't quite taste it.</p>
 
@@ -2182,7 +2188,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Liu reached out and gently covered the back of Yeehyeon's hand resting on the table.</p>
 
-<p>"I understand what you're saying. It makes no sense to trouble you just to ease my own guilt. But... thinking about our future, I think it would be good to tell at least two people."</p>
+<p>"I understand what you're saying. It makes no sense to trouble you just to ease my own guilt. But... thinking about our future, I think it would be good to tell a couple of people."</p>
 
 <p>Yeehyeon looked directly at Liu's face. In the late morning sunlight pouring through the long window that covered the entire wall facing the street, Liu's pale, shining eyes brought snowfields to mind.</p>
 
@@ -2196,9 +2202,9 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Liu gripped Yeehyeon's hand tightly.</p>
 
-<p>"The person I least wanted to be discovered by. And at the same time, the person I most wanted to confess to, has found out. After this... I'm not afraid of anything else. Whatever outcome I face will just be paying the price for the sins I've committed."</p>
+<p>"The one person I most wanted to keep this from was also the one I most wanted to tell. And he knows now. After this... I'm not afraid of anything else. Whatever outcome I face will just be paying the price for the sins I've committed."</p>
 
-<p>The person he least wanted to be discovered by, and simultaneously the person he most wanted to confess to.</p>
+<p>The one person he most wanted to keep it from, and the one he most wanted to tell.</p>
 
 <p>Even just from the way Liu gazed at him deeply, Yeehyeon knew Liu was talking about him. Wrapping his fingers around Liu's fingers clasped over his hand, Yeehyeon nodded heavily.</p>
 
@@ -2210,11 +2216,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"You were sick just a few days ago — you can't let your guard down just because you feel a little better."</p>
 
-<p>After putting on the gloves, he glanced sideways at Yeehyeon and also packed a thermos of warm coffee.</p>
+<p>Liu gave Yeehyeon a sidelong look as he helped him into his gloves. He packed warm coffee, too.</p>
 
 <p>As they stood side-by-side before stepping outside, wearing sunglasses and each holding a thermos, they looked like the protagonists of an action-comedy film. On the way to the park, Yeehyeon chuckled several times.</p>
 
-<p>Among the several entrances, the two went into Parc des Buttes-Chaumont through the gate near the 19th arrondissement. Buttes-Chaumont — whose name means "small hill" — was a park of continuous large and small mounds, and Yeehyeon felt more attached to it than to the larger Parc de la Villette nearby.</p>
+<p>Among the several entrances, the two went into Parc des Buttes-Chaumont through the gate by the 19th arrondissement's town hall. Buttes-Chaumont — whose name includes the word for "small hill" — was a park of continuous large and small mounds, and Yeehyeon felt more attached to it than to the larger Parc de la Villette nearby.</p>
 
 <p>The two began walking slowly along the promenade that circled the lake.</p>
 
@@ -2226,7 +2232,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>The fact that he was walking here with Liu struck Yeehyeon as something entirely new. This moment even felt like a miracle obtained after enduring a harsh winter. Even if that was a slightly sentimental exaggeration, it was clear this was not a piece of luck or happiness easily acquired.</p>
 
-<p>Thanks to the temperature rarely dropping below freezing, the lawn remained green even after winter. Though not a large number, some people were sitting or lying on the grass, soaking up the sun. A couple who had brought their toddler who had just started walking sat on the grass, heads leaned against each other's shoulders, watching their child with smiles that seemed to encompass the whole world.</p>
+<p>Thanks to the temperature rarely dropping below freezing, the lawn remained green even after winter. Though not a large number, some people were sitting or lying on the grass, soaking up the sun. A female couple who had brought their toddler who had just started walking sat on the grass, heads leaned against each other's shoulders, watching their child with smiles that seemed to encompass the whole world.</p>
 
 <p>Within the roughly five hundred meters they had walked from the entrance, they had already spotted at least three same-sex couples with children. Even without children in tow, there was another same-sex couple whose hands were clasped together while each holding a thermos — Liu and Yeehyeon themselves.</p>
 
@@ -2276,13 +2282,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>The two settled onto a bench. Below the hill, they could see the lake and the island rising high in its center. Gazing at the pavilion atop the cliff-like island, Yeehyeon took off his gloves and held his thermos.</p>
 
-<p>"I'd always felt Kun's pheromones before, and I knew my own pheromones were reacting — becoming more aroused when I smelled his scent. But that was indirect perception. Yesterday, I knew: <em>this is my pheromone, my pheromones are flowing out of me right now.</em>"</p>
+<p>"I'd always felt Kun's pheromones before, and I could tell my own pheromones were reacting because I grew more aroused when I smelled yours. But that was indirect perception. Yesterday, I knew: <em>this is my pheromone, my pheromones are flowing out of me right now.</em>"</p>
 
 <p>Liu leaned forward, concentrating on Yeehyeon. His furrowed brow still seemed to carry worry that Yeehyeon might be shocked or frightened.</p>
 
 <p>However, Yeehyeon felt a sense of relief rather than fear. It was an effect happening within his own body, yet he hadn't been able to actually feel it, which had been quite frustrating until now. It felt like his vision was finally clearing a bit.</p>
 
-<p>"It's hard to put into words precisely... but if I had to find the closest feeling... it's like I became a speaker? Like sound waves are spreading through my body..."</p>
+<p>"It's hard to put into words precisely... but if I had to find the closest feeling... it's like I became a speaker? Like sound waves are spreading outward through me..."</p>
 
 <p>"......"</p>
 
@@ -2314,15 +2320,15 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Tension was evident in Liu's voice.</p>
 
-<p>"I know. I looked into everything, and I made up my mind only after thoroughly considering whether I could handle it... and whether it would be worth it. We've had a long time together, haven't we?"</p>
+<p>"I know. I looked into everything, and I made up my mind only after thoroughly considering whether I could handle it... and whether it would be worth it. We've had a long time to think about it, haven't we?"</p>
 
-<p>As Liu stroked Yeehyeon's cheek with the back of his hand, he also managed a strained smile.</p>
+<p>Yeehyeon smiled. Liu stroked his cheek with the back of his hand and made himself smile back.</p>
 
-<p>"So I also know that once I become an Omega, your Alpha instincts will be stimulated, and you'll become bound to me."</p>
+<p>"So I also know that once I become an Omega, your Alpha instincts, Director, will be stimulated, and you'll become bound to me."</p>
 
 <p>Yeehyeon was referring to the Alpha's protective instinct that manifests toward an Omega with whom they have had continuous relations and exchanged pheromones.</p>
 
-<p>In modern times, where Alphas and Omegas alike took suppressants to control pheromone exposure, this had become almost vestigial — an outdated relic.</p>
+<p>In modern times, where Alphas and Omegas alike took suppressants to control pheromone exposure, this had become a relic, as vestigial as a tailbone.</p>
 
 <p>No Alpha wanted to be bound to another, and Omegas also found it burdensome. The trend was to enjoy pheromones with a one-night encounter but refrain from exposure in continuous relationships. To avoid being tied down.</p>
 
@@ -2332,11 +2338,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Liu's response was immediate. Tightening his grip on Yeehyeon's hand, he emphasized,</p>
 
-<p>"I want to live a life continuously exposed to your pheromones... a life centered around you."</p>
+<p>"I want to live a life continuously exposed to your pheromones... a life with our relationship at its center."</p>
 
 <p><em>Was it out of guilt? Was becoming an Alpha bound to Yeehyeon a way to atone for the sin of the Changing?</em> For a moment he felt the impulse to ask, but Yeehyeon dismissed the question himself. He already knew the answer.</p>
 
-<p>He knew Liu would have resolved to live such a life even without the influence of pheromones. Yeehyeon understood that this did not necessarily mean a life of extreme sacrifice or subjugation.</p>
+<p>He thought Liu would probably have resolved to live such a life even without the influence of pheromones. Yeehyeon understood that this did not necessarily mean a life of extreme sacrifice or subjugation.</p>
 
 <p>"I'm going to try hard to become a Golden."</p>
 
@@ -2356,13 +2362,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Yeehyeon thought he vaguely understood the meaning behind those words.</p>
 
-<p>Once the Changing was complete and he became a full Omega, pheromone control would become possible — either through the regulation of a Golden, or through suppressants. If that happened, perhaps sex without pheromones — something that could never have occurred between Ghost and Diamond Dust — might become possible.</p>
+<p>Once the Changing was complete and he became a full Omega, pheromone control would become possible — either through the regulation of a Golden, or through suppressants. If that happened, perhaps sex without pheromones — something that could never have occurred between Ghost and Didi — might become possible.</p>
 
 <p>Liu gently stroked the back of Yeehyeon's hand with his thumb, then took off his sunglasses. Yeehyeon was momentarily startled enough to stop breathing, but he quickly calmed himself and focused only on Liu.</p>
 
-<p>"Even so... even after becoming an Omega, I want to Change under the influence of your pheromones. I want to Change."</p>
+<p>"Even so... even after you become an Omega, I want your pheromones to go on changing me. I want to Change."</p>
 
-<p>Meeting Liu's white eyes — perhaps revealed in the bright sunlight for the first time — Yeehyeon recalled the day his great-uncle had visited.</p>
+<p>Meeting Liu's white eyes — perhaps revealed in the bright sunlight for the first time — Yeehyeon recalled the day his father's older brother had visited.</p>
 
 <p><em>I want to change.</em> That night, when they had revealed their inner thoughts through nothing but metaphors.</p>
 
@@ -2390,7 +2396,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>With one hand shoved in the pocket of his sweatpants, Liu tilted his cup and recalled another point in his past connected to the sea before him.</p>
 
-<p>This was the same sea he had come to in order to meet Yeehyeon after learning about the Changing. The sea had witnessed the ugliness of his own belated confession — hands hanging uselessly after the truth had been exposed with nowhere left to retreat. Familiar and yet strange, it made him want to look away.</p>
+<p>This was the same sea he had come to to meet Yeehyeon after Yeehyeon found out about the Changing. The sea had witnessed the ugliness of his own belated confession — hands hanging uselessly after the truth had been exposed with nowhere left to retreat. Familiar and yet strange, it made him want to look away.</p>
 
 <p><em>I had never felt such complex emotions facing any sea before. The sea had always been merely an object of contemplation — sometimes enhancing the relaxed mood of a vacation, or a backdrop that made the city lights shine brighter.</em></p>
 
@@ -2398,147 +2404,147 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Even after the sun had fully risen above the horizon and disappeared behind the clouds, there was ample time.</p>
 
-<p>After a stroll along the hotel's beachfront, I hastily filled my stomach with the unappetizing breakfast served at the first-floor cafeteria. I checked out early and loaded my travel duffel bag into the back seat of the car. My head was clear, despite not having slept enough.</p>
+<p>After a stroll along the hotel's beachfront, Liu made do with the unappetizing breakfast served at the first-floor cafeteria. He checked out early and loaded his travel duffel bag into the back seat of the car. His head was clear, despite not having slept enough.</p>
 
-<p>There were plenty of hotels along the East Sea coastline in far better condition. The only reason I chose this place was that it was the closest to the memorial hall. I could reach my destination with ample time to spare by driving about thirty minutes from the hotel.</p>
+<p>There were plenty of hotels along the East Sea coastline in far better condition. The only reason Liu had chosen this place was that it was the closest to the memorial hall. He could be there in about thirty minutes, with time to spare.</p>
 
-<p>The sky, which had been completely overcast during my walk, was now sprinkling a fine drizzle. Before leaving the city limits, I sought out a flower shop I had searched for the day before.</p>
+<p>The sky, which had been completely overcast during his walk, was now sprinkling a fine drizzle. Before leaving the city limits, Liu stopped at a flower shop he'd looked up the day before.</p>
 
-<p>The rules stated that flowers and photos couldn't be placed inside cases or affixed to the glass. Yeehyeon had told me this, but I didn't feel right showing up empty-handed.</p>
+<p>The rules stated that flowers and photos couldn't be placed inside cases or affixed to the glass. Yeehyeon had said there was no need to bring anything, but Liu didn't feel right showing up empty-handed.</p>
 
-<p>With practiced professionalism, the florist recommended several typical arrangements suitable for visiting a memorial hall. It seemed there was quite a demand for condolence flowers, with several other memorial halls located nearby. Browsing the small shop, I bypassed the recommendations and chose Jana roses instead — asking that they be arranged simply, perhaps just five or six stems.</p>
+<p>With practiced professionalism, the florist recommended several typical arrangements suitable for visiting a memorial hall. It seemed there was quite a demand for condolence flowers, with several other memorial halls located nearby. Browsing the small shop, Liu passed over the suggested arrangements and chose Jana roses instead — asking that they be arranged simply, perhaps just five or six stems.</p>
 
-<p>"These days, people often choose brighter flowers when visiting the deceased too," the florist noted, skillfully securing the stems and applying the wrapping. I nodded.</p>
+<p>"These days, people often choose brighter flowers when visiting the deceased too," the florist noted, skillfully securing the stems and applying the wrapping. Liu nodded.</p>
 
-<p>Since I wasn't very familiar with Korea's actual mourning customs, I had asked Manager Han beforehand. She had advised me that unless it was for a funeral or grave maintenance, there weren't any strict courtesies I absolutely had to follow. She added: "You don't need to worry too much about etiquette. Just visiting will mean a lot."</p>
+<p>Since Liu wasn't very familiar with Korean mourning customs, he'd asked Manager Han beforehand. She'd told him there were no strict formalities unless he was attending a funeral or paying respects at a graveside. She'd added, "They will be glad just to have you visit, Director Liu."</p>
 
-<p>Even without knowing who I was visiting, Manager Han had said that. She must have vaguely guessed. But I didn't feel that the person I was visiting would be glad to see me. I wasn't very confident.</p>
+<p>Manager Han had said that even though Liu hadn't told her whom he was visiting. She must have had some idea. He had little confidence that the person he'd come to see would welcome him.</p>
 
-<p>Leaving the city, I drove another twenty minutes along the two-lane national road. Once I turned south along a small stream branching off a relatively large river, the road narrowed and became winding. To the west stretched low mountains covered in thickets, and to the east, nestled beside the town, were small, irregularly shaped rice paddies, not very wide. Since it was the end of winter, the fields were dry. It was a rural Korean landscape that Liu was somewhat familiar with from having visited his mother's studio in Gangwon Province several times.</p>
+<p>Leaving the city, Liu drove another twenty minutes along the two-lane national road. Once he turned south along a small stream branching off a larger one, the road narrowed and became winding. To the west stretched low mountains covered in thickets, and to the east, small rice paddies lay in patches beside the stream at the foot of the hills. Since it was the end of winter, the fields were dry. It was a rural Korean landscape that Liu was somewhat familiar with from having visited his mother's studio in Gangwon Province several times.</p>
 
-<p>I rolled the window down about a hand's breadth. A little rain blew in, but not enough to bother me. The refreshing air from the damp, green forest felt like it was purifying my lungs, causing me to naturally breathe more deeply.</p>
+<p>Liu rolled the window down about a hand's breadth. A little rain blew in, but not enough to bother him. The refreshing air from the damp, green forest felt like it was clearing his lungs, and his breathing naturally deepened.</p>
 
 <p>Yeehyeon had explained that because his maternal grandparents had handled the entire funeral, his mother's ashes had been interred at a private columbarium near the Seoul metropolitan area. A year after leaving Seoul, his father had personally moved his mother's remains here. The family only found out about the transfer about six months after it happened. The man who never spoke a word had handled it without any family member knowing.</p>
 
-<p>I gnawed on my lip, thinking about the man's way of loving — a man who had turned his back on his young son, who had no one else to rely on, and chose to drown in grief over the loss of his wife, even refusing to attend the funeral of the wife he loved so dearly.</p>
+<p>Liu gnawed on his lip, thinking about the man's way of loving — a man who had turned his back on his young son, who had no one else to rely on, and chose to drown in grief over the loss of his wife, even refusing to attend the funeral of the wife he loved so dearly.</p>
 
-<p>Just as I was starting to feel anxious because no signpost had appeared, the naturally formed thicket ended, and man-made landscaping began. I had arrived at the memorial hall.</p>
+<p>Just as he was starting to feel anxious because no signpost had appeared, the naturally formed thicket ended, and man-made landscaping began. He had arrived at the memorial hall.</p>
 
-<p>I parked the car in the lot where the office and lounge were located. After a moment's hesitation over whether to retrieve the umbrella I always kept in the trunk, I grabbed only the bouquet and stepped out of the car.</p>
+<p>Liu parked the car in the lot where the office and lounge were located. After a moment's hesitation over whether to retrieve the umbrella he always kept in the trunk, he grabbed only the bouquet and stepped out of the car.</p>
 
-<p>Perhaps because it was a weekday and the weather was poor, only three or four cars were parked there. The surroundings were so quiet that the sound of the drizzle settling on the trees was clearly audible. A man who appeared to be around Liu's age heard the car and opened the office door to look out. Standing on the threshold, he gruffly stated that the bouquet could not be left at the memorial hall. I reassured him that I planned to take it back with me. The man scrutinized me from head to toe with a wary gaze before disappearing back into the office.</p>
+<p>Perhaps because it was a weekday and the weather was poor, only three or four cars were parked there. The surroundings were so quiet that the sound of the drizzle settling on the trees was clearly audible. A man who appeared to be around Liu's age heard the car and opened the office door to look out. Standing on the threshold, he gruffly stated that the bouquet could not be left at the memorial hall. Liu assured him he'd take the flowers home with him. The man looked Liu up and down with a wary gaze before disappearing back into the office.</p>
 
-<p>I began walking up the incline behind the parking lot. The path leading to the memorial hall building was well-paved, but visitors were not allowed to drive up.</p>
+<p>Liu began walking up the incline behind the parking lot. The path leading to the memorial hall building was well-paved, but visitors were not allowed to drive up.</p>
 
 <p>The memorial hall building was situated in a cozy location, as if embraced by the forest. The area around the building was as eerily quiet as the parking lot below.</p>
 
-<p>I casually brushed my hand over the chest of my coat, then ascended the highly polished granite steps and entered the interior.</p>
+<p>Liu smoothed the front of his coat for no particular reason, then climbed the polished granite steps and went inside.</p>
 
-<p>I could hear the hushed voices of visitors. No faces were visible — only voices, and there seemed to be very few of them.</p>
+<p>He could hear the hushed voices of visitors. No faces were visible — only voices, and there seemed to be very few of them.</p>
 
-<p>I slowly walked down the corridor between the large wooden display cases holding urns, searching for the section Yeehyeon had indicated. Although the wall near the entrance had windows to let in natural light, the interior felt dim even with the lights on. It was probably the weather.</p>
+<p>Liu walked slowly down the corridor between the large wooden display cases holding urns, searching for the section Yeehyeon had indicated. Although the wall near the entrance had windows to let in natural light, the interior felt dim even with the lights on. It was probably the weather.</p>
 
 <p>Since the area was clearly sectioned off, much like a library, finding the niche was not difficult.</p>
 
-<p>The quiet sound of my footsteps on the floor gradually slowed and then stopped completely.</p>
+<p>Liu's soft footsteps slowed, then stopped.</p>
 
 <p>"......"</p>
 
-<p>Confirming the name engraved on the small memorial tablet next to the urn, the muscles in both of Liu's jaw tightened.</p>
+<p>When Liu read the name engraved on the small memorial tablet beside the urn, the muscles on both sides of his jaw tightened.</p>
 
-<p>I moistened my lower lip with my tongue. Then, politely, I gathered the bouquet I had brought in both hands over my lower abdomen. My head kept bowing as if a heavy weight had been attached to my forehead. My emotions churned as if I were standing on a ship's deck.</p>
+<p>Liu moistened his lower lip and respectfully clasped the bouquet in both hands in front of his waist. His head kept bowing as if a weight hung from his forehead. His emotions churned as though he were standing on the deck of a ship.</p>
 
-<p>I was flustered — I hadn't expected to feel such agitation before the memorial tablet of someone I had never actually met, even if she was Yeehyeon's mother. I couldn't pinpoint the exact cause of my surging emotions.</p>
+<p>It took him aback. He hadn't expected to feel such agitation before the memorial tablet of someone he had never actually met, even if she was Yeehyeon's mother. He couldn't pinpoint the cause of the emotion welling up in him.</p>
 
 <p>It probably wasn't direct mourning for the deceased, but rather sympathy, empathy, and guilt for everything Yeehyeon had to go through from her death.</p>
 
-<p>Although I hadn't dared mention my own mother's story to Yeehyeon — afraid of touching a wound that still bled — there was someone I feared confessing my Changing to even more than Manager Han or Suki Kim. Even if that person was now nothing more than ashes resting silently among countless other urns, it was the same.</p>
+<p>Liu hadn't dared bring up Yeehyeon's mother with him, for fear of touching a wound that still bled. Yet he dreaded confessing the Changing to her even more than he had dreaded telling Manager Han or Suki Kim. That she was now ashes resting silently among countless other urns made no difference.</p>
 
-<p>I pressed my lips together, trying to smooth the contortion on my face, and took a ragged breath.</p>
+<p>Liu pressed his lips together, trying to steady his expression, and took a ragged breath.</p>
 
 <p>"Happy birthday."</p>
 
-<p>A confession seeking forgiveness and a promise for the future. I managed only to convey those words, swallowing everything else down.</p>
+<p>The confession he wanted to make, the forgiveness he wanted to ask for, the promise he wanted to make for the future. Liu swallowed them all. The birthday greeting was all he could manage.</p>
 
-<p>Manager Han had told me on the phone that the visit would probably be brief, since there was no grave to tend or food to lay out for bowing. But as I turned to leave — still holding the Jana roses that had decorated the proposal to Yeehyeon — over thirty minutes had already passed.</p>
+<p>Manager Han had told him on the phone that the visit would probably be brief, since there was no grave to tend or food to lay out for bowing. But by the time Liu turned to leave — the Jana roses still in his hand, the same kind as when he'd proposed to Yeehyeon — over thirty minutes had already passed.</p>
 
-<p>Stepping outside the building, the rain was still drizzling. Gazing at the misty forest directly ahead, I let out a long breath. I desperately wanted a cigarette. I had refrained from smoking since waking up, feeling it wouldn't show proper respect.</p>
+<p>It was still drizzling when Liu stepped outside. Looking down at the misty forest just ahead, he let out a long breath. He desperately wanted a cigarette. He had refrained from smoking since waking up, feeling it wouldn't show proper respect.</p>
 
-<p>My feet wouldn't move. Like someone with lingering attachment, I stood under the concrete awning, my gaze fixed on the quiet, rainy landscape. Someone was approaching rapidly from the uphill path I had just walked.</p>
+<p>He couldn't quite bring himself to leave. He stood under the concrete awning, his gaze fixed on the quiet, rainy landscape. Someone was approaching rapidly from the uphill path he had just climbed.</p>
 
 <p>The man, wearing a backpack, walked with long, quick strides without an umbrella. His movement — the only dynamic thing in the surroundings — felt conspicuous.</p>
 
-<p>When the man drew close enough for me to make out his features, I straightened my body, which had been leaning to the side. A crease formed between my brows. The man, who didn't even bother to shake the water droplets from his jacket after stepping under the awning, was Yeehyeon's father.</p>
+<p>When the man drew close enough for Liu to make out his features, Liu straightened from where he'd been leaning. A crease formed between his brows. The man climbing the steps, not even pausing under the awning to brush the rain from the shoulders of his jacket, was Yeehyeon's father.</p>
 
-<p>A momentary crack appeared in the man's eyes. I instinctively knew he had recognized me too. But the clash of gazes was fleeting. Yeehyeon's father walked right past me without even slowing his pace.</p>
+<p>A momentary crack appeared in the man's eyes. Liu knew at once the man had recognized him too. But the clash of gazes was fleeting. Yeehyeon's father walked right past Liu without even slowing his pace.</p>
 
 <p>It took him about thirty minutes to come back out.</p>
 
-<p>Even though I had stayed for nearly an hour myself, I couldn't guess what the man inside — where there was little he was permitted to do — was doing with his time. Still, I waited patiently.</p>
+<p>Liu had stayed for nearly an hour himself. Even so, with so little a visitor was allowed to do in there, he couldn't guess how the man was spending his time. He waited patiently.</p>
 
-<p>It wasn't to say anything specific or hear anything in particular. But for some reason, I didn't want to just turn away. It wasn't out of pity or courtesy. If I had to define it, it was closer to the opposite.</p>
-
-<p>"......"</p>
-
-<p>Even though he must have seen my back on his way out, the man again walked past me and descended the stairs. That was expected. I quietly followed him, maintaining a distance of about fifteen steps.</p>
-
-<p>At the fork where the parking lot and the entrance road diverged, I grabbed the upper part of his arm and blocked his path. His eyes — which I met directly and up close for the first time — were distinctly hazy, as if he had turned his back on the world. They were the kind of eyes that seemed to look past the person standing before him toward something behind them.</p>
-
-<p>"I'll give you a ride. Get in."</p>
+<p>It wasn't to say anything specific or hear anything in particular. But for some reason, Liu didn't want to pretend he hadn't seen him and walk away. It wasn't out of pity or courtesy. If he had to define it, it was closer to the opposite.</p>
 
 <p>"......"</p>
 
-<p>The man lowered his gaze to the bouquet of Jana roses in my hand. Until the man walked over to the car and stood there, the two of us stood facing each other in the drizzle, with the dense thicket — darkened by moisture — as a backdrop.</p>
+<p>The man must have seen Liu from behind on his way out. Again he walked straight past and down the stairs. Liu had expected as much. He followed quietly, keeping about fifteen paces behind him.</p>
 
-<p>I hadn't expected the offer to be accepted. But there was no reason to be flustered. I placed the bouquet in the back seat and started the car. As if the silence were contagious, I kept my mouth firmly shut until we reached the village, about thirty minutes away in the opposite direction from the hotel. I had no desire to spin plausible stories just to please him or ease the atmosphere.</p>
+<p>At the fork where the parking lot and the entrance road diverged, Liu took the man by the upper arm and blocked his path. The man's eyes, which Liu now met directly and up close for the first time, were distinctly hazy, as if he had turned his back on the world. They were the kind of eyes that seemed to look straight through Liu at something behind him.</p>
 
-<p>As we drove along the coastal road with the East Sea to our left, the man hugged his backpack and stared out at the gray sea and sky.</p>
+<p>"Let me drive you. Please, get in."</p>
 
-<p>It was only when the alleyway with the shark family mural — where I had once parked and waited to meet Yeehyeon — began to come into view that I slowed down and spoke.</p>
+<p>"......"</p>
 
-<p>"I went to the memorial hall... at Yeehyeon's request."</p>
+<p>The man lowered his gaze to the bouquet of Jana roses in Liu's hand. They stood facing each other in the drizzle against a backdrop of rain-darkened trees. At last the man walked over to the car and stood beside it.</p>
+
+<p>Liu hadn't expected the man to accept. But there was no reason to be flustered. He placed the bouquet in the back seat and started the car. As if the silence were contagious, Liu kept his mouth firmly shut until they reached the village, about thirty minutes away in the opposite direction from the hotel. He had no desire to make small talk to win the man over or ease the tension.</p>
+
+<p>As they drove along the coastal road with the East Sea to their left, the man hugged his backpack and stared out at the gray sea and sky.</p>
+
+<p>It was only when the alleyway with the shark family mural — where Liu had once parked and waited to meet Yeehyeon — began to come into view that he slowed down and spoke.</p>
+
+<p>"I went to the memorial hall... at Yeehyeonie's request."</p>
 
 <p>The sea had long since vanished from view, but the man's gaze remained stubbornly fixed outside the window.</p>
 
-<p>"Yeehyeon is doing well there. He's healthy, fully dedicated to his work, and receiving recognition for it."</p>
+<p>"Yeehyeonie is doing well there. He's healthy, fully dedicated to his work, and receiving recognition for it."</p>
 
-<p>Yeehyeon had been contacting his great-uncle and his wife periodically, but I deliberately conveyed this news directly to imply that I was continuing my relationship with Yeehyeon.</p>
+<p>Yeehyeon kept in regular touch with his father's older brother and his wife. Liu deliberately gave the update in person so the man would know his son was still seeing Liu.</p>
 
 <p>The man turned his head and looked down at the backpack on his lap. His eyelids blinked rapidly.</p>
 
-<p>The two of us fell silent again for a long time. Only the unseen ocean asserted its presence with the sound of waves. Even though I didn't say anything to make him stay, the man didn't get out; and even though he held firm, I didn't ask him to leave.</p>
+<p>The two men fell silent again for a long time. Only the waves gave away the presence of the unseen sea. Liu said nothing to make him stay, yet the man didn't get out. And as long as he sat there, Liu didn't ask him to leave.</p>
 
-<p>I gripped the top of the steering wheel and tightened my hand. Enduring this place and the man sitting beside me was more painful than I had expected. I released my bitten lip and spoke as if sighing.</p>
+<p>Liu tightened his grip on the top of the steering wheel. Being here with this man beside him was more painful than he'd expected. He let go of the lip he'd been biting, and the words came out almost in a sigh.</p>
 
 <p>"He will probably... become an Omega before the year ends."</p>
 
 <p>"......"</p>
 
-<p>The man's gaze shifted to me. I met his eyes squarely.</p>
+<p>The man turned his gaze on Liu. Liu met his eyes squarely.</p>
 
-<p>His pupils and irises were normal, of course. Nevertheless, I felt that his eyes resembled my own white irises after the Changing. His eyes — which had seemed like an empty void — blinked and showed a reaction.</p>
+<p>There was nothing unusual about the man's pupils or irises. Still, his eyes reminded Liu of his own when they turned white after the Changing. Now the man blinked, a sign of a response in that empty gaze.</p>
 
-<p><em>Is he worried, even as a father?</em></p>
+<p><em>So he does worry about his son after all?</em></p>
 
-<p>A wicked impulse to mock him stirred. The restraint required to suppress it caused my facial muscles to twitch briefly.</p>
+<p>A wicked impulse to mock him stirred. Liu's face twitched briefly with the effort of holding it back.</p>
 
-<p>I knew that Yeehyeon had told this man about the Changing. But now, I didn't feel the guilty shrinking I had felt before the urn. I knew it was audacious, considering what I had done to Yeehyeon, yet anger boiled up toward the man instead. It was an anger that resembled self-hatred.</p>
+<p>Liu knew Yeehyeon had told his father about the Changing. This time he felt none of the guilt that had made him shrink before the urn. Given what he'd done to Yeehyeon, he had no business judging anyone, yet anger boiled up in him at the man beside him. It felt much like self-hatred.</p>
 
-<p>The thought of the wounds and shock this man had inflicted on Yeehyeon made my teeth chatter — yet at the same time, I wasn't sure if I could have handled the same situation any better. Losing Yeehyeon. No, having him taken away. Yeehyeon simply disappearing one day. What in that hell could possibly give me the strength to live again?</p>
+<p>The thought of the wounds and shock this man had inflicted on Yeehyeon made Liu tremble with anger. Yet he couldn't be sure he'd have handled the same situation any better. Losing Yeehyeon. No, having him taken away. Yeehyeon simply disappearing one day. What in that hell could possibly give him the strength to live again?</p>
 
-<p>Perhaps my inability to grant this man the forgiveness I had received from Yeehyeon stemmed from our similarity.</p>
+<p>Yeehyeon had forgiven Liu so much. Perhaps it was precisely because he and this man were alike that Liu couldn't bring himself to extend the same forgiveness to him.</p>
 
-<p>I felt a strong urge to smoke again and looked away from the man first. As I unclenched my fist and ran a hand over my face, the man unzipped the backpack he had been clutching so tightly.</p>
+<p>Liu felt a strong urge to smoke again and looked away from the man first. As he unclenched his fist and ran a hand over his face, the man unzipped the backpack he had been holding so protectively.</p>
 
-<p>He took out a sketchbook — size 16 — and waved it in front of my face as if urging me to take it. The man was capable of deep stillness, as if sunk into the abyssal depths, yet he would sometimes disrupt that balance with sudden, volatile movements.</p>
+<p>Yeehyeon’s father pulled out a sketchbook about the size of a school notebook and waved it under Liu’s nose, urging him to take it. The man was capable of deep stillness, as if sunk into the abyssal depths, yet he would sometimes disrupt that balance with sudden, volatile movements.</p>
 
-<p>I took the notebook, somewhat stunned.</p>
+<p>Liu took the notebook, somewhat stunned.</p>
 
 <p>"......"</p>
 
-<p>Sketches and rough drafts — done with pencils, colored pencils, and markers — densely filled every page of Kent paper. I opened my mouth but could not make a sound.</p>
+<p>Page after page of smooth drawing paper was packed with sketches and studies in pencil, oil-based colored pencil, and marker. Liu opened his mouth, but no sound came out.</p>
 
-<p>After losing his wife, the man had turned his back on Yeehyeon and completely given up painting — as far as I knew. And when Yeehyeon left this village to go to Paris, he had left all his art supplies behind. <em>Just in case.</em> He hadn't known whether the bait he'd left would lead to disappointment or hope, and not knowing was still frightening — but it was better than the suffocating silence, so he had decided to throw something out there. Yeehyeon had told me this over cocktails during a date at a dim café in Paris.</p>
+<p>After losing his wife, the man had turned his back on Yeehyeon and completely given up painting — as far as Liu knew. And when Yeehyeon left this village to go to Paris, he had left all his art supplies behind. <em>Just in case.</em> He hadn't known whether the bait he'd left would lead to disappointment or hope, and not knowing was still frightening — but it was better than the suffocating silence, so he had decided to throw something out there. Yeehyeon had told him this over cocktails during a date at a dim café in Paris.</p>
 
 <p>The miscellaneous belongings and fishing gear piled up in a corner of the yard. The view of the sea from a cliff-like vantage point. The corroded gate. The scratched fish. The small dog scampering around.</p>
 
@@ -2546,13 +2552,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"......"</p>
 
-<p>At the sound of the man opening the passenger door, I snapped my head up as if waking from a dream.</p>
+<p>At the sound of the man opening the passenger door, Liu snapped his head up as if waking from a dream.</p>
 
-<p>The man, having stepped out of the car, was looking at me with eyes where the boundary between pupil and iris was indistinct. They resembled the eyes of a mermaid forcibly dragged ashore in a net, or the eyes of a stag that had encountered a hunter's rifle while frantically digging through snow in midwinter, searching for its mate and young.</p>
+<p>The man, having stepped out of the car, was looking at Liu with eyes where the boundary between the dark iris and the white of the eye was indistinct. They resembled the eyes of a mermaid forcibly dragged ashore in a net, or the eyes of a stag that had encountered a hunter's rifle while frantically digging through snow in midwinter, searching for food for its mate and young.</p>
 
-<p>I bit my dry lower lip until it hurt. After standing and looking at me for a moment, the man closed the door, ascended the stairs leading to his house, and disappeared into the rain.</p>
+<p>Liu bit his dry lower lip until it hurt. After standing there looking at him for a moment, the man closed the door, ascended the stairs leading to his house, and disappeared into the rain.</p>
 
-<p>I curled the left hand holding the cover of the sketchbook and stroked the ring as if searching for a painkiller. I missed Yeehyeon so much it was almost unbearable.</p>
+<p>Liu curled the fingers of his left hand around the sketchbook cover and rubbed his ring as though reaching for a painkiller. He missed Yeehyeon so much he could hardly bear it.</p>
 
 <p class="sub-chapter"><strong>· SEOUL ·</strong></p>
 
@@ -2574,7 +2580,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Manager Han's eyes narrowed at the mention of the last name. Liu thought he knew why.</p>
 
-<p>Although he had kept quiet about the Ghost, he had once told Manager Han about Suki Kim's efforts — how she had set aside her painting for a time and focused solely on that matter, in order to turn Liu into a Golden Alpha free from the domination of pheromones.</p>
+<p>Although he had kept quiet about the Ghost, he had once told Manager Han about Suki Kim's efforts — how she had set aside her painting for a time and focused solely on that matter, in order to turn him into a Golden Alpha free from the domination of pheromones.</p>
 
 <p>Knowing the kind of person Suki Kim was, Manager Han could fully anticipate — and was horrified by — how disappointed she must have been upon hearing Liu's confession.</p>
 
@@ -2588,33 +2594,33 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"Then you never intended to tell Shushu or Inwu directly. Why are you telling me this?"</p>
 
-<p>It wasn't an accusatory tone — more a simple curiosity, as if to say she didn't want to know such an ugly side of her business partner and friend.</p>
+<p>There was no accusation in her voice, no suggestion that she wished he'd spared her this ugly side of her friend and business partner. She simply wanted to know why he'd told her.</p>
 
 <p>"Back then, I wasn't thinking about the future at all — I hadn't even planned to keep it secret forever. Now... I thought Manager Han had the right to know that I'm the one who committed this act."</p>
 
 <p>Manager Han shook her head, the movement almost imperceptible. It seemed less like a denial of Liu and more like she still couldn't believe the situation. It was beyond her capacity to process. She seemed to be postponing any conclusion for the time being.</p>
 
-<p>"What did your mother say?"</p>
+<p>"And Ms. Kim... what did she say?"</p>
 
 <p>Liu stubbed out the cigarette he had been holding without taking another drag since she spoke, and repeatedly opened and closed his empty fist in a meaningless gesture. He seemed to consider whether to answer her question directly, but even Liu's wry smile as he lowered his gaze was enough for her to anticipate the situation.</p>
 
-<p>"Does Yeehyeon know that you told her?"</p>
+<p>"Does Yeehyeonie know you told her?"</p>
 
 <p>Liu bit down on his lower lip and nodded.</p>
 
-<p>"We decided to take our time and work through things together regarding my mother. For now... she's too disappointed...."</p>
+<p>"Yeehyeon and I agreed we'd give my mother time and work through it together. For now... she's too disappointed...."</p>
 
 <p>Manager Han let out a sigh and leaned back against the chair. For the first time since Liu began his story, she relaxed her shoulders and looked around with an unsteady gaze, as if seeing the place for the first time.</p>
 
-<p>"I completely understand how she must feel. Honestly, right now, I don't even know how to process this. A Ghost, of all things... And Yeehyeon too...."</p>
+<p>"I completely understand how Ms. Kim must feel. Honestly, right now, I don't even know how to process this. A Ghost, of all things... And Yeehyeonie too...."</p>
 
 <p>Unable to finish her sentence, she roughly swept her hands over her face. She shook her head several times with force, trying to compose herself.</p>
 
-<p>Manager Han's information about Ghosts wasn't much different from what Choi Inwu had. She had only vaguely heard the name before. To them, Ghosts were legendary beings, like vampires or yetis. So there was no need to even mention Diamond Dust.</p>
+<p>Manager Han's information about Ghosts wasn't much different from what Choi Inwu had. She had only vaguely heard the name before. To them, Ghosts were legendary beings, like vampires or yetis. They knew even less about Diamond Dust.</p>
 
 <p>For a moment, her firm gaze fixed on Liu.</p>
 
-<p>"If you plan on telling Yuni and Juhan as well, I really hope you won't."</p>
+<p>"If you plan on telling Yuni and Juhanie as well, I really hope you won't."</p>
 
 <p>Unlike before, her tone was calm yet resolute, as if she had reached a firm conclusion on this specific point.</p>
 
@@ -2622,13 +2628,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"......"</p>
 
-<p>Liu, lost in thought while stroking the ring, asked for a beer. He seemed suddenly overcome by a desperate thirst. Liu brought two bottles — one for himself and one for her — twisted off the caps, and handed one over. As if genuinely parched, she downed about a third of it in one go. Then, scratching the surface of the bottle with her fingernail, she spoke in a low voice, as if sharing a secret.</p>
+<p>Liu was absently rubbing his ring when she asked him for a beer. He brought back two bottles, opened both, and handed her one. She drank about a third of it in one go, as though she were parched. Then she scratched at the bottle with her fingernail and lowered her voice as if she were about to tell him a secret.</p>
 
 <p>"I know what it's like to be so deeply infatuated with someone that you can't see anything else. My partner was also a Beta."</p>
 
 <p>When they first started working together at The Face, the two of them had quickly recognized they were cut from the same cloth — but because they were similar types, they never asked about or showed curiosity regarding each other's private lives.</p>
 
-<p>Liu only found out that she had moved to Hong Kong with her artist husband after the divorce had already been finalized and her husband had returned to Korea. Even when she told him that story, she hadn't gone into detail about the love story or the reasons for the divorce.</p>
+<p>Liu only found out that she had moved to Hong Kong with her artist husband after they had already decided to divorce and her husband had returned to Korea. Even when she told him that story, she hadn't gone into detail about the love story or the reasons for the divorce.</p>
 
 <p>"The reason things didn't work out between us had absolutely nothing to do with the difference in our genders — Alpha and Beta — but... when I was completely obsessed, if I could have, I would have wanted to turn my partner into an Omega."</p>
 
@@ -2638,13 +2644,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>She gave a low scoff, gripping the neck of the bottle and letting her hand slide down. Her gaze was fixed on the translucent green bottle, but her eyes were looking somewhere else.</p>
 
-<p>"Even though I hadn't been particularly conscious of being an Alpha, I nearly went crazy with anxiety because my partner wasn't an Omega — whether that's instinct or something else, I don't know. Because no matter how much attraction you feel on a human level, it's difficult for an Alpha, an Omega, and a Beta to physiologically understand each other's mode of existence. Well... the same goes for Alphas and Omegas, too."</p>
+<p>"Even though I hadn't been particularly conscious of being an Alpha, I nearly went crazy with anxiety because my partner wasn't an Omega — whether that's instinct or something else, I don't know. Because no matter how much attraction you feel on a human level, it's hard for Alphas and Omegas on the one hand, and Betas on the other, to understand what it's physically like to be the other person. Well... even Alphas and Omegas have that problem with each other."</p>
 
 <p>She snorted softly and took another long, cool gulp of beer. Having nothing to do but listen intently, Liu finished his own beer along with her.</p>
 
 <p>"Loving someone. In the end, maybe it's just wanting the other person to remain beside you in the form you desire. At the same time, it's also the desire to remain in the form the other person desires, so you can keep being loved. Those two desires have to find a balance...."</p>
 
-<p>Her eyes, tracing back over past relationships that had failed to find balance, held neither regret nor longing. But one could sense a faint ache lingering around the scars.</p>
+<p>Her eyes, tracing back over the past relationship in which she'd never found that balance, held neither regret nor longing. But one could sense a faint ache lingering around the scars.</p>
 
 <p>In her, Liu saw a reflection of Shushu. He could now vaguely understand that feeling lingering pain from a past love didn't necessarily mean holding onto foolish attachment. Instead of condemning their feelings as stubborn, he could nod and share a drink with them — only after nearly losing his own love.</p>
 
@@ -2668,17 +2674,17 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>She took the items out of the shopping bag, lined them up on the table, and examined each one carefully.</p>
 
-<p>"These are made from Yeehyeon's work?"</p>
+<p>"Oh, these are made from Yeehyeonie's work?"</p>
 
 <p>A look of pleasure and pride spread across her face. Liu took another gulp of beer to gather his courage. It didn't help much.</p>
 
-<p>"I was thinking of having you take over Phantom."</p>
+<p>"I was thinking of having you take over Phantom, Manager Han."</p>
 
 <p>"...What do you mean?"</p>
 
 <p>Manager Han's face subtly stiffened as she placed a small notebook — printed with a collaborative work with Ben — onto the table.</p>
 
-<p>"I want to properly support artists who have talent but struggle to find a gallery they can trust with their work. It will be similar in nature to The Hands, but I expect it will operate more like a sponsorship foundation. I plan to step away from Phantom entirely and focus solely on that. Of course, discussing the actual acquisition of Phantom is a conversation for whenever you're ready."</p>
+<p>"I want to properly support artists who have talent but struggle to find a gallery they can trust with their work. It will be similar in nature to The Hands, but I expect it will operate more like a sponsorship foundation. I plan to step away from Phantom entirely and focus solely on that. Of course, discussing the actual acquisition of Phantom is a conversation for if you want to take it over, Manager Han."</p>
 
 <p>Manager Han, who had been listening to Liu with heavy eyes, shifted her gaze to the items spread out on the dining table. Most of the small-to-mid-sized galleries around Phantom that had taken on experimental projects recently were concurrently producing this kind of planned merchandise.</p>
 
@@ -2696,15 +2702,15 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He intended to hand over the operation to those who had poured more fervent affection into Phantom, and finally, truly, intensely, desperately, immerse himself in figuring out what he could throw himself into with complete commitment.</p>
 
-<p>"You discussed this with Yeehyeon... right?"</p>
+<p>"You discussed this with Yeehyeonie... right?"</p>
 
 <p>Manager Han asked cautiously, sounding out the question. Liu smiled wryly and nodded, understanding her concern — given that he had once proceeded with the Changing unilaterally.</p>
 
-<p>"So after leaving The Hands, Yeehyeon is also planning to join?"</p>
+<p>"So after leaving The Hands, Yeehyeonie is also planning to join?"</p>
 
-<p>"Nothing has been decided that far yet. Regardless of what Yeehyeon chooses, I'm going ahead with this project. If you agree to take on Phantom, we'll need to move forward with specifics."</p>
+<p>"Nothing has been decided that far yet. Regardless of what Yeehyeonie chooses, I'm going ahead with this project. If you agree to take on Phantom, we'll need to move forward with specifics."</p>
 
-<p>"I suspected your heart had already left the moment you gave me permission to run the café...."</p>
+<p>"I suspected your heart had already left when you approved the plans for the café...."</p>
 
 <p>Manager Han trailed off, sighing. Despite her expectations, her expression was one of bewilderment.</p>
 
@@ -2720,9 +2726,9 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"......"</p>
 
-<p>Even before Yeehyeon entered his life, there had been the lively warmth of people who cared for one another here. But even within that vibrant exchange, he had always held himself a few steps back. It wasn't intentional. He simply didn't know how to get any closer, nor had he ever felt the need for deeper intimacy.</p>
+<p>Even before Yeehyeon entered his life, there had been the lively warmth of people who cared for one another here. But even within that vibrant exchange, he had always held himself a few steps back. It wasn't intentional. He simply didn't know how to get any closer. He'd never known that kind of intimacy, so he'd never felt the need for it.</p>
 
-<p>He had considered himself quite fortunate for the way he had lived: trusted friends who were also business partners, eager and diligent employees he wanted to support, friends he had grown up with like brothers, and even friends with whom he could trade barbs.</p>
+<p>He had considered himself quite fortunate for the way he had lived: a trusted friend who was also his business partner, bright and diligent employees he wanted to support, a friend he'd grown up with like a brother, and even a friend with whom he could trade barbs.</p>
 
 <p>But after Yeehyeon appeared in that landscape, everything changed.</p>
 
@@ -2730,11 +2736,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>The first person he had desired fiercely and desperately. The one whom he had wounded so deeply that the excuse of inexperience couldn't begin to cover it.</p>
 
-<p>Liu stared blankly at the dining table surrounded by eight empty chairs, then found his phone and gripped it. After checking the home screen, he headed downstairs.</p>
+<p>Liu stared blankly at the dining table surrounded by eight empty chairs, then found his phone and gripped it. After checking the home screen, he went down to the basement.</p>
 
 <p>Even without turning on the lights, the garden lamps and moonlight filtering in provided enough illumination. He sat on the mattress, having removed the pillows and sheets, and fiddled with his phone.</p>
 
-<p>Sitting in this spot, savoring the afterglow of sex, he recalled the moment he had taken his first photo with Yeehyeon. He almost expected Yeehyeon to come down the stairs laughing and approach him, yet he also felt anxious, wondering if everything that had happened here hadn't just been a daydream.</p>
+<p>He remembered sitting here with Yeehyeon in the afterglow of sex, taking their first photograph together. He almost expected Yeehyeon to come down the stairs laughing and approach him, yet he also felt anxious, wondering if everything that had happened here hadn't just been a daydream.</p>
 
 <p>He had told Manager Han that regardless of Yeehyeon's decision, this project would proceed independently — and that was true. But he had no intention of denying that he was preparing, if not immediately then eventually, to work with Yeehyeon's art.</p>
 
@@ -2742,13 +2748,13 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Liu rested his elbows on his knees, propped his chin, and gazed into the silent space, checking his phone once more. It was a little past three in the afternoon in Paris.</p>
 
-<p>He didn't want to interrupt Yeehyeon's afternoon work, but on the other hand, he knew how the conversation with Manager Han had concluded and that Yeehyeon would be waiting for his call. As expected, the call connected before the phone even rang twice.</p>
+<p>He didn't want to interrupt Yeehyeon's afternoon work, but on the other hand, he knew Yeehyeon would be waiting for his call to hear how the conversation with Manager Han had concluded. As expected, the call connected before the phone even rang twice.</p>
 
 <p>Yeehyeon was practicing sketching in Room 601. He said he had locked himself somewhere completely alone because he didn't think he could concentrate well. It had been the same a few days ago, on the day Liu visited the memorial hall.</p>
 
-<p>He conveyed Manager Han's opinion that it would be best to keep things from Yuni and Juhan, but Yeehyeon didn't express his stance on it. Instead, he seemed more sensitive to how Manager Han had taken the suggestion about transferring Phantom — he was concerned that she might be disappointed that Liu was officially departing entirely.</p>
+<p>Liu conveyed Manager Han's opinion that it would be best to keep things from Yuni and Juhan, but Yeehyeon didn't express his stance on it. Instead, he seemed more sensitive to how Manager Han had taken the suggestion about transferring Phantom — he was concerned that she might be disappointed that Liu was officially departing entirely.</p>
 
-<p>"Manager Han seemed to have had some inkling. After all, you've known each other for a long time."</p>
+<p>"Manager Han seemed to have had some inkling. After all, we've known each other for a long time."</p>
 
 <p>Liu ran his free hand over his face. The room was chilly because the heating wasn't on, but it was still indoors. Even though winter was clearly at its very end, the tip of his nose was already growing cold at just this slight temperature.</p>
 
@@ -2760,7 +2766,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Liu closed his eyes and focused all his senses on the sounds coming through. After the sound of liquid being sipped, Yeehyeon's pleasant, calm voice followed.</p>
 
-<p>[I spoke with Reed yesterday. He said the thirty thousand should be met soon... It seems I might be leaving The Hands a little earlier than planned.]</p>
+<p>[I spoke with Reed yesterday. He said the total should reach thirty thousand dollars soon... It seems I might be leaving The Hands a little earlier than planned.]</p>
 
 <p>"...Is that so?"</p>
 
@@ -2770,7 +2776,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"......"</p>
 
-<p>The truth was, he had lacked confidence. He had always thought Yeehyeon would choose him someday, but he had tried not to expect it — to suppress that hope. It wasn't that he doubted Yeehyeon's affection, but rather that he still harbored doubts about his own worthiness.</p>
+<p>The truth was, he had lacked confidence. He had always thought Yeehyeon would choose him someday, but he'd tried not to let himself hope it would be soon. It wasn't that he doubted Yeehyeon's affection, but rather that he still harbored doubts about his own worthiness.</p>
 
 <p>[The person I want to entrust my paintings to... has always been... just one person.]</p>
 
@@ -2784,7 +2790,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>Instead, he wanted all of Yeehyeon.</p>
 
-<p>He wanted Yeehyeon's pain so much that he wished for every single agony the other man had felt to pass through him and be reproduced once more. He wished for the scars left deep inside this guileless man — who neither exaggerated the tragedies that befell him nor complained about them — to be etched onto himself just the same.</p>
+<p>So much that he wished every pain Yeehyeon had ever felt could pass through his own body, so he could feel it too. He wished for the scars left deep inside this guileless man — who neither exaggerated the tragedies that befell him nor complained about them — to be etched onto himself just the same.</p>
 
 <p>If he said such a thing, Yeehyeon would probably smile and say that wasn't the form of love he wanted.</p>
 
@@ -2794,11 +2800,11 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>He tried not to cause worry, but a tremor remained in his voice. If that tremor helped convey his sincerity to Yeehyeon, then that would be fine too.</p>
 
-<p>He closed his eyes. Yeehyeon sat waiting within the darkness behind his eyelids, at the dining table in Room 601, bathed in slanted afternoon sunlight. The waves calmed, and the submerged board floated back to the surface.</p>
+<p>He closed his eyes. Yeehyeon sat waiting within the darkness behind his eyelids, at the dining table in Room 601, bathed in slanted afternoon sunlight. The waves calm, and the submerged board rises back to the surface.</p>
 
 <p>"There is only one person I want to stake my life on. There has only ever been one, and in the future too... I love only that person."</p>
 
-<p>Liu spoke, his voice not hiding its tremor. Yeehyeon's smile — possessing a warmth softer than sunlight — materialized before his eyes. A gentle breeze carried the familiar and longed-for scent.</p>
+<p>Liu spoke, his voice not hiding its tremor. Yeehyeon's smile — possessing a warmth softer than sunlight — materialized before his eyes. A gentle breeze carries Yeehyeon's familiar scent, the scent Liu misses.</p>
 
-<p>He glided once more across clean waves, heading toward the beach. His painting. The language Yeehyeon had given him. Like <em>Colorful Ghost</em>.</p>
+<p>Once more he glides across the clear waves toward shore, just as in the painting. The language Yeehyeon gave him. <em>Colorful Ghost</em>.</p>
 </div>

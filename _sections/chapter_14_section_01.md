@@ -97,7 +97,7 @@ excerpt_separator: "<!-- section-excerpt-end -->"
 
 <p>"I released a small amount of pheromones just to see how he'd react. There was no question he was an Omega, yet he was claiming to be a Beta. I couldn't believe it."</p>
 
-<p>He could barely remember how long it had been since he last opened his pheromones. To think he had done it simply to confirm whether or not someone wasn't truly an Omega. No matter how many times he replayed it, it was an unbecoming thing to have done.</p>
+<p>He could barely remember how long it had been since he last released his pheromones. To think he had done it simply to confirm whether or not someone wasn't truly an Omega. No matter how many times he replayed it, it was an unbecoming thing to have done.</p>
 
 <p>"The first few times it felt like hitting a wall, but soon he started to react. He began responding to my pheromones with his own — open, receptive. I thought he must be some more complex, lesser-known type of Omega. He could sense my pheromones and react to them, yet he thought they were... the scent of cologne."</p>
 
